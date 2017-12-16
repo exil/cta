@@ -1,0 +1,1329 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4373</pid>
+				<ln>21752.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>42.064085448823</lat>
+						<lon>-87.681793570518</lon>
+
+							<typ>S</typ>
+                			<stpid>14231</stpid>
+                			<stpnm>Central Street &amp; Sherman</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>42.064077483778</lat>
+						<lon>-87.681611180305</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>42.063719055728</lat>
+						<lon>-87.681616544724</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>42.062854837553</lat>
+						<lon>-87.681659460068</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>42.061811387952</lat>
+						<lon>-87.681643366814</lon>
+
+							<typ>S</typ>
+                			<stpid>14279</stpid>
+                			<stpnm>Sherman &amp; Lincoln</stpnm>
+                			<pdist>760.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>42.060696232019</lat>
+						<lon>-87.681659460068</lon>
+
+							<typ>S</typ>
+                			<stpid>14277</stpid>
+                			<stpnm>Sherman &amp; Colfax</stpnm>
+                			<pdist>1157.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>42.058621193318</lat>
+						<lon>-87.68165409565</lon>
+
+							<typ>S</typ>
+                			<stpid>14238</stpid>
+                			<stpnm>Sherman &amp; Noyes</stpnm>
+                			<pdist>1954.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>42.058445947022</lat>
+						<lon>-87.68165409565</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>42.058481792895</lat>
+						<lon>-87.683252692223</lon>
+
+							<typ>S</typ>
+                			<stpid>15071</stpid>
+                			<stpnm>Noyes Purple Line Station</stpnm>
+                			<pdist>2473.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>42.058485775768</lat>
+						<lon>-87.684583067894</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>42.058541535971</lat>
+						<lon>-87.685849070549</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>42.058310529098</lat>
+						<lon>-87.68595635891</lon>
+
+							<typ>S</typ>
+                			<stpid>15072</stpid>
+                			<stpnm>Noyes &amp; Ridge</stpnm>
+                			<pdist>3056.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>42.056697440442</lat>
+						<lon>-87.686616182327</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>42.055833126699</lat>
+						<lon>-87.686932682991</lon>
+
+							<typ>S</typ>
+                			<stpid>15073</stpid>
+                			<stpnm>Ridge &amp; Simpson</stpnm>
+                			<pdist>4093.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>42.054901088559</lat>
+						<lon>-87.687195539474</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>42.053949120955</lat>
+						<lon>-87.687442302704</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>42.053901323042</lat>
+						<lon>-87.684883475304</lon>
+
+							<typ>S</typ>
+                			<stpid>15074</stpid>
+                			<stpnm>Foster &amp; Maple</stpnm>
+                			<pdist>5471.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>42.053897339881</lat>
+						<lon>-87.683494091034</lon>
+
+							<typ>S</typ>
+                			<stpid>15075</stpid>
+                			<stpnm>Foster Purple Line Station</stpnm>
+                			<pdist>5815.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>42.053885390397</lat>
+						<lon>-87.682029604912</lon>
+
+							<typ>S</typ>
+                			<stpid>15076</stpid>
+                			<stpnm>Foster &amp; Sherman</stpnm>
+                			<pdist>6274.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>42.053885390397</lat>
+						<lon>-87.681772112846</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>42.05231600522</lat>
+						<lon>-87.681782841682</lon>
+
+							<typ>S</typ>
+                			<stpid>14273</stpid>
+                			<stpnm>Sherman &amp; Emerson</stpnm>
+                			<pdist>6917.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>42.052104892073</lat>
+						<lon>-87.681777477264</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>42.051431715274</lat>
+						<lon>-87.6817882061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>42.051371965509</lat>
+						<lon>-87.681836485863</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>42.050806331619</lat>
+						<lon>-87.681868672371</lon>
+
+							<typ>S</typ>
+                			<stpid>12657</stpid>
+                			<stpnm>Sherman &amp; Elgin Road</stpnm>
+                			<pdist>7622.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>42.050017622434</lat>
+						<lon>-87.681916952133</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>42.049834385565</lat>
+						<lon>-87.681847214699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>42.04857959715</lat>
+						<lon>-87.681884765625</lon>
+
+							<typ>S</typ>
+                			<stpid>12656</stpid>
+                			<stpnm>Sherman &amp; Church</stpnm>
+                			<pdist>8422.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>42.046320915543</lat>
+						<lon>-87.681890130043</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>42.046185471766</lat>
+						<lon>-87.681874036789</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>42.045659628482</lat>
+						<lon>-87.681916952133</lon>
+
+							<typ>S</typ>
+                			<stpid>12660</stpid>
+                			<stpnm>Sherman &amp; Grove</stpnm>
+                			<pdist>9489.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>42.045536134353</lat>
+						<lon>-87.681933045387</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>42.044815083191</lat>
+						<lon>-87.681949138641</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>42.044225488314</lat>
+						<lon>-87.681949138641</lon>
+
+							<typ>S</typ>
+                			<stpid>12706</stpid>
+                			<stpnm>Sherman &amp; Lake</stpnm>
+                			<pdist>10012.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>42.043456616505</lat>
+						<lon>-87.681959867477</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>42.043169781116</lat>
+						<lon>-87.681927680969</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>42.042584154842</lat>
+						<lon>-87.6817882061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>42.042635945138</lat>
+						<lon>-87.681611180305</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>42.042651880605</lat>
+						<lon>-87.680854797363</lon>
+
+							<typ>S</typ>
+                			<stpid>12650</stpid>
+                			<stpnm>Greenwood &amp; Chicago</stpnm>
+                			<pdist>10866.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>42.042655864471</lat>
+						<lon>-87.680586576462</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>42.041365078754</lat>
+						<lon>-87.680597305298</lon>
+
+							<typ>S</typ>
+                			<stpid>12644</stpid>
+                			<stpnm>Chicago Avenue &amp; Dempster (Purple Line)</stpnm>
+                			<pdist>11359.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>42.041225640456</lat>
+						<lon>-87.680608034134</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>42.040241595768</lat>
+						<lon>-87.680575847626</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>42.039404946598</lat>
+						<lon>-87.680473923683</lon>
+
+							<typ>S</typ>
+                			<stpid>14320</stpid>
+                			<stpnm>Chicago Avenue &amp; Hamilton</stpnm>
+                			<pdist>12142.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>42.037659900023</lat>
+						<lon>-87.680162787437</lon>
+
+							<typ>S</typ>
+                			<stpid>14318</stpid>
+                			<stpnm>Chicago Avenue &amp; Greenleaf</stpnm>
+                			<pdist>12653.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>42.035723559383</lat>
+						<lon>-87.679760456085</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>42.034026224621</lat>
+						<lon>-87.679433226585</lon>
+
+							<typ>S</typ>
+                			<stpid>12703</stpid>
+                			<stpnm>Chicago Avenue &amp; Main (Purple Line)</stpnm>
+                			<pdist>13986.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>42.032225247094</lat>
+						<lon>-87.679073810577</lon>
+
+							<typ>S</typ>
+                			<stpid>14314</stpid>
+                			<stpnm>Chicago Avenue &amp; Kedzie</stpnm>
+                			<pdist>14661.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>42.03063141911</lat>
+						<lon>-87.678751945496</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>42.029404144328</lat>
+						<lon>-87.678499817848</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>42.027439658427</lat>
+						<lon>-87.678279876709</lon>
+
+							<typ>S</typ>
+                			<stpid>12647</stpid>
+                			<stpnm>Chicago Avenue &amp; South Blvd (Purple Line)</stpnm>
+                			<pdist>16445.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>42.02723244745</lat>
+						<lon>-87.678231596947</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>42.026690507855</lat>
+						<lon>-87.67811357975</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>42.022948607676</lat>
+						<lon>-87.677212357521</lon>
+
+							<typ>S</typ>
+                			<stpid>15807</stpid>
+                			<stpnm>Chicago &amp; Juneway/Mulford</stpnm>
+                			<pdist>18259.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>42.022514230131</lat>
+						<lon>-87.677126526833</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>42.022016087091</lat>
+						<lon>-87.677029967308</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>42.020637206804</lat>
+						<lon>-87.676675915718</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>42.01944560698</lat>
+						<lon>-87.676354050636</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>42.019194531259</lat>
+						<lon>-87.676268219948</lon>
+
+							<typ>S</typ>
+                			<stpid>14056</stpid>
+                			<stpnm>Clark &amp; Howard</stpnm>
+                			<pdist>19561.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>42.018034787685</lat>
+						<lon>-87.675806879997</lon>
+
+							<typ>S</typ>
+                			<stpid>14091</stpid>
+                			<stpnm>Clark &amp; Birchwood</stpnm>
+                			<pdist>19978.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>42.017811604364</lat>
+						<lon>-87.675721049309</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>42.017644216359</lat>
+						<lon>-87.67563521862</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>42.017480813358</lat>
+						<lon>-87.675549387932</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>42.017273569924</lat>
+						<lon>-87.675463557243</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>42.017034442045</lat>
+						<lon>-87.675388455391</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>42.016014152992</lat>
+						<lon>-87.675216794014</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>42.016667777551</lat>
+						<lon>-87.673843502998</lon>
+
+							<typ>S</typ>
+                			<stpid>15452</stpid>
+                			<stpnm>Rogers &amp; Hermitage</stpnm>
+                			<pdist>21077.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>42.017070311284</lat>
+						<lon>-87.672985196114</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>42.018218116255</lat>
+						<lon>-87.672963738441</lon>
+
+							<typ>S</typ>
+                			<stpid>14093</stpid>
+                			<stpnm>Paulina &amp; Howard Terminal</stpnm>
+                			<pdist>21752.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4374</pid>
+				<ln>20110.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>42.018218116255</lat>
+						<lon>-87.672963738441</lon>
+
+							<typ>S</typ>
+                			<stpid>14093</stpid>
+                			<stpnm>Paulina &amp; Howard Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>42.018588757185</lat>
+						<lon>-87.672963738441</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>42.018644552407</lat>
+						<lon>-87.672985196114</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>42.018696362212</lat>
+						<lon>-87.673033475876</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>42.019047073628</lat>
+						<lon>-87.673596739769</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>42.019094897762</lat>
+						<lon>-87.673666477203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>42.019174604572</lat>
+						<lon>-87.673693299294</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>42.019425680372</lat>
+						<lon>-87.673693299294</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>42.019433651016</lat>
+						<lon>-87.676182389259</lon>
+
+							<typ>S</typ>
+                			<stpid>3513</stpid>
+                			<stpnm>Howard &amp; Chicago Avenue</stpnm>
+                			<pdist>1210.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>42.019437636337</lat>
+						<lon>-87.676273584366</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>42.02205195352</lat>
+						<lon>-87.676960229874</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>42.022506259873</lat>
+						<lon>-87.677029967308</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>42.022904771545</lat>
+						<lon>-87.677115797997</lon>
+
+							<typ>S</typ>
+                			<stpid>15806</stpid>
+                			<stpnm>Chicago &amp; Juneway/Mulford</stpnm>
+                			<pdist>2321.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>42.026311944368</lat>
+						<lon>-87.677947282791</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>42.027108917507</lat>
+						<lon>-87.678129673004</lon>
+
+							<typ>S</typ>
+                			<stpid>16011</stpid>
+                			<stpnm>Chicago Avenue &amp; South Blvd (Purple Line)</stpnm>
+                			<pdist>4048.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>42.027276280597</lat>
+						<lon>-87.678161859512</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>42.029412113721</lat>
+						<lon>-87.678424715996</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>42.030428203169</lat>
+						<lon>-87.678617835045</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>42.031938361007</lat>
+						<lon>-87.678934335709</lon>
+
+							<typ>S</typ>
+                			<stpid>14313</stpid>
+                			<stpnm>Chicago Avenue &amp; Kedzie</stpnm>
+                			<pdist>5850.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>42.032826906768</lat>
+						<lon>-87.67909526825</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>42.034030209028</lat>
+						<lon>-87.679352760315</lon>
+
+							<typ>S</typ>
+                			<stpid>16058</stpid>
+                			<stpnm>Chicago Avenue &amp; Main</stpnm>
+                			<pdist>6661.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>42.035743480884</lat>
+						<lon>-87.679690718651</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>42.037384991057</lat>
+						<lon>-87.680023312569</lon>
+
+							<typ>S</typ>
+                			<stpid>14317</stpid>
+                			<stpnm>Chicago Avenue &amp; Greenleaf</stpnm>
+                			<pdist>7851.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>42.039197774625</lat>
+						<lon>-87.680361270905</lon>
+
+							<typ>S</typ>
+                			<stpid>14319</stpid>
+                			<stpnm>Chicago Avenue &amp; Hamilton</stpnm>
+                			<pdist>8457.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>42.040233627733</lat>
+						<lon>-87.680506110191</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>42.041070265992</lat>
+						<lon>-87.680511474609</lon>
+
+							<typ>S</typ>
+                			<stpid>12645</stpid>
+                			<stpnm>Chicago Avenue &amp; Dempster (Purple Line)</stpnm>
+                			<pdist>9183.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>42.042707654709</lat>
+						<lon>-87.680506110191</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>42.042707654709</lat>
+						<lon>-87.681595087051</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>42.042763428764</lat>
+						<lon>-87.681729197502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>42.043149861944</lat>
+						<lon>-87.681841850281</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>42.043452632689</lat>
+						<lon>-87.681884765625</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>42.043946623967</lat>
+						<lon>-87.681874036789</lon>
+
+							<typ>S</typ>
+                			<stpid>12705</stpid>
+                			<stpnm>Sherman &amp; Lake</stpnm>
+                			<pdist>10529.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>42.045301096475</lat>
+						<lon>-87.681868672371</lon>
+
+							<typ>S</typ>
+                			<stpid>12659</stpid>
+                			<stpnm>Sherman &amp; Grove</stpnm>
+                			<pdist>11021.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>42.046165553539</lat>
+						<lon>-87.681793570518</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>42.046293030083</lat>
+						<lon>-87.68170773983</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>42.046559933269</lat>
+						<lon>-87.681568264961</lon>
+
+							<typ>S</typ>
+                			<stpid>12655</stpid>
+                			<stpnm>Sherman &amp; Davis</stpnm>
+                			<pdist>11488.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>42.048217098105</lat>
+						<lon>-87.680736780167</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>42.049706916127</lat>
+						<lon>-87.680050134659</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>42.049814468482</lat>
+						<lon>-87.67996430397</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>42.049906087012</lat>
+						<lon>-87.679851651192</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>42.049997705409</lat>
+						<lon>-87.679765820503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>42.050607163557</lat>
+						<lon>-87.681670188904</lon>
+
+							<typ>S</typ>
+                			<stpid>14680</stpid>
+                			<stpnm>Elgin Road &amp; Orrington</stpnm>
+                			<pdist>12869.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>42.05136399887</lat>
+						<lon>-87.681643366814</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>42.051427731958</lat>
+						<lon>-87.68170773983</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>42.051941577647</lat>
+						<lon>-87.681702375412</lon>
+
+							<typ>S</typ>
+                			<stpid>14272</stpid>
+                			<stpnm>Sherman &amp; Emerson</stpnm>
+                			<pdist>13457.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>42.052766112041</lat>
+						<lon>-87.681697010994</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>42.053945137797</lat>
+						<lon>-87.681691646576</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>42.053957087271</lat>
+						<lon>-87.683392167091</lon>
+
+							<typ>S</typ>
+                			<stpid>15099</stpid>
+                			<stpnm>Foster Purple Line Station</stpnm>
+                			<pdist>14672.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>42.053996918832</lat>
+						<lon>-87.68717944622</lon>
+
+							<typ>S</typ>
+                			<stpid>15100</stpid>
+                			<stpnm>Foster &amp; Ridge</stpnm>
+                			<pdist>15652.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>42.054000901987</lat>
+						<lon>-87.687340378761</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>42.054921004047</lat>
+						<lon>-87.687120437622</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>42.055872957083</lat>
+						<lon>-87.686841487885</lon>
+
+							<typ>S</typ>
+                			<stpid>15101</stpid>
+                			<stpnm>Ridge &amp; Simpson</stpnm>
+                			<pdist>16307.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>42.057402424969</lat>
+						<lon>-87.686272859573</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>42.058382220976</lat>
+						<lon>-87.685838341713</lon>
+
+							<typ>S</typ>
+                			<stpid>15102</stpid>
+                			<stpnm>Ridge &amp; Noyes</stpnm>
+                			<pdist>17331.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>42.060501077717</lat>
+						<lon>-87.684958577156</lon>
+
+							<typ>S</typ>
+                			<stpid>15103</stpid>
+                			<stpnm>Ridge &amp; Colfax</stpnm>
+                			<pdist>18158.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>42.061759613289</lat>
+						<lon>-87.684459686279</lon>
+
+							<typ>S</typ>
+                			<stpid>15104</stpid>
+                			<stpnm>Sheridan &amp; Lincoln</stpnm>
+                			<pdist>18615.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>42.062858820152</lat>
+						<lon>-87.684009075165</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>42.064141204109</lat>
+						<lon>-87.683526277542</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>42.064133239071</lat>
+						<lon>-87.683300971985</lon>
+
+							<typ>S</typ>
+                			<stpid>15105</stpid>
+                			<stpnm>Central Street &amp; Ridge</stpnm>
+                			<pdist>19495.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>42.064085448823</lat>
+						<lon>-87.681793570518</lon>
+
+							<typ>S</typ>
+                			<stpid>14231</stpid>
+                			<stpnm>Central Street &amp; Sherman</stpnm>
+                			<pdist>20110.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

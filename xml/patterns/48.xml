@@ -1,0 +1,1605 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>3950</pid>
+				<ln>41687.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.715647942989</lat>
+						<lon>-87.681906223297</lon>
+
+							<typ>S</typ>
+                			<stpid>3482</stpid>
+                			<stpnm>Western &amp; 98th Street</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.715591882701</lat>
+						<lon>-87.684422135353</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.717842264434</lat>
+						<lon>-87.684470415115</lon>
+
+							<typ>S</typ>
+                			<stpid>14759</stpid>
+                			<stpnm>Evergreen Plaza</stpnm>
+                			<pdist>1559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.719179642583</lat>
+						<lon>-87.684491872787</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.720817292289</lat>
+						<lon>-87.684497237206</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.72084532016</lat>
+						<lon>-87.683338522911</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.720841316179</lat>
+						<lon>-87.682989835739</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.720849324141</lat>
+						<lon>-87.682018876076</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.721229701162</lat>
+						<lon>-87.682018876076</lon>
+
+							<typ>S</typ>
+                			<stpid>2362</stpid>
+                			<stpnm>Western &amp; 95th Street</stpnm>
+                			<pdist>3370.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.722522966193</lat>
+						<lon>-87.68206179142</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.72798402126</lat>
+						<lon>-87.682158350945</lon>
+
+							<typ>S</typ>
+                			<stpid>8521</stpid>
+                			<stpnm>Western &amp; 91st Street</stpnm>
+                			<pdist>5839.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.730326047077</lat>
+						<lon>-87.682244181633</lon>
+
+							<typ>S</typ>
+                			<stpid>15499</stpid>
+                			<stpnm>Western &amp; 90th Street</stpnm>
+                			<pdist>6648.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.731755241393</lat>
+						<lon>-87.682303190231</lon>
+
+							<typ>S</typ>
+                			<stpid>8523</stpid>
+                			<stpnm>Western &amp; 89th Street</stpnm>
+                			<pdist>7211.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.735169966283</lat>
+						<lon>-87.682372927666</lon>
+
+							<typ>S</typ>
+                			<stpid>8525</stpid>
+                			<stpnm>Western &amp; 87th Street</stpnm>
+                			<pdist>8465.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.735434169552</lat>
+						<lon>-87.682367563248</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.735514230934</lat>
+						<lon>-87.678397893906</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.735514230934</lat>
+						<lon>-87.676123380661</lon>
+
+							<typ>S</typ>
+                			<stpid>9387</stpid>
+                			<stpnm>87th Street &amp; Longwood</stpnm>
+                			<pdist>10192.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.735574276906</lat>
+						<lon>-87.672759890556</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.73560229834</lat>
+						<lon>-87.67261505127</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.735758417534</lat>
+						<lon>-87.672706246376</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.735906530264</lat>
+						<lon>-87.672743797302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.736342860378</lat>
+						<lon>-87.672759890556</lon>
+
+							<typ>S</typ>
+                			<stpid>17085</stpid>
+                			<stpnm>Damen &amp; 87th Street</stpnm>
+                			<pdist>11258.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.737359618131</lat>
+						<lon>-87.672786712646</lon>
+
+							<typ>S</typ>
+                			<stpid>8704</stpid>
+                			<stpnm>Damen &amp; 86th Street </stpnm>
+                			<pdist>11655.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.739172929602</lat>
+						<lon>-87.672824263573</lon>
+
+							<typ>S</typ>
+                			<stpid>8705</stpid>
+                			<stpnm>Damen &amp; 85th Street</stpnm>
+                			<pdist>12317.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.74097017897</lat>
+						<lon>-87.672872543335</lon>
+
+							<typ>S</typ>
+                			<stpid>8706</stpid>
+                			<stpnm>Damen &amp; 84th Street</stpnm>
+                			<pdist>12992.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.742823414616</lat>
+						<lon>-87.672910094261</lon>
+
+							<typ>S</typ>
+                			<stpid>8707</stpid>
+                			<stpnm>Damen &amp; 83rd Street</stpnm>
+                			<pdist>13665.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.743868087595</lat>
+						<lon>-87.672920823097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.744664589289</lat>
+						<lon>-87.672947645187</lon>
+
+							<typ>S</typ>
+                			<stpid>8708</stpid>
+                			<stpnm>Damen &amp; 82nd Street</stpnm>
+                			<pdist>14328.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.746477694489</lat>
+						<lon>-87.673001289368</lon>
+
+							<typ>S</typ>
+                			<stpid>8709</stpid>
+                			<stpnm>Damen &amp; 81st Street</stpnm>
+                			<pdist>15007.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.748306757567</lat>
+						<lon>-87.67302274704</lon>
+
+							<typ>S</typ>
+                			<stpid>8710</stpid>
+                			<stpnm>Damen &amp; 80th Street</stpnm>
+                			<pdist>15669.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.750127764224</lat>
+						<lon>-87.67307639122</lon>
+
+							<typ>S</typ>
+                			<stpid>8711</stpid>
+                			<stpnm>Damen &amp; 79th Street</stpnm>
+                			<pdist>16338.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.751888688565</lat>
+						<lon>-87.6731300354</lon>
+
+							<typ>S</typ>
+                			<stpid>8712</stpid>
+                			<stpnm>Damen &amp; 78th Street</stpnm>
+                			<pdist>17006.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.753757616784</lat>
+						<lon>-87.673183679581</lon>
+
+							<typ>S</typ>
+                			<stpid>8713</stpid>
+                			<stpnm>Damen &amp; 77th Street</stpnm>
+                			<pdist>17668.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.755562461549</lat>
+						<lon>-87.673221230507</lon>
+
+							<typ>S</typ>
+                			<stpid>8714</stpid>
+                			<stpnm>Damen &amp; 76th Street</stpnm>
+                			<pdist>18320.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.757887475012</lat>
+						<lon>-87.673307061195</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.759388084414</lat>
+						<lon>-87.673339247704</lon>
+
+							<typ>S</typ>
+                			<stpid>8715</stpid>
+                			<stpnm>Damen &amp; 74th Street</stpnm>
+                			<pdist>19678.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.761032712015</lat>
+						<lon>-87.673387527466</lon>
+
+							<typ>S</typ>
+                			<stpid>8716</stpid>
+                			<stpnm>Damen &amp; 73rd Street</stpnm>
+                			<pdist>20350.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.762845354919</lat>
+						<lon>-87.673425078392</lon>
+
+							<typ>S</typ>
+                			<stpid>8717</stpid>
+                			<stpnm>Damen &amp; 72nd Street</stpnm>
+                			<pdist>21017.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.764661947869</lat>
+						<lon>-87.673462629318</lon>
+
+							<typ>S</typ>
+                			<stpid>8718</stpid>
+                			<stpnm>Damen &amp; 71st Street</stpnm>
+                			<pdist>21692.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.766502496199</lat>
+						<lon>-87.673521637917</lon>
+
+							<typ>S</typ>
+                			<stpid>8719</stpid>
+                			<stpnm>Damen &amp; 70th Street</stpnm>
+                			<pdist>22348.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.76829097845</lat>
+						<lon>-87.673575282097</lon>
+
+							<typ>S</typ>
+                			<stpid>8720</stpid>
+                			<stpnm>Damen &amp; 69th Street</stpnm>
+                			<pdist>23013.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.770119419945</lat>
+						<lon>-87.673612833023</lon>
+
+							<typ>S</typ>
+                			<stpid>8721</stpid>
+                			<stpnm>Damen &amp; 68th Street</stpnm>
+                			<pdist>23680.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.771963812504</lat>
+						<lon>-87.673666477203</lon>
+
+							<typ>S</typ>
+                			<stpid>8722</stpid>
+                			<stpnm>Damen &amp; Marquette Rd</stpnm>
+                			<pdist>24348.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.773780147273</lat>
+						<lon>-87.673714756966</lon>
+
+							<typ>S</typ>
+                			<stpid>8723</stpid>
+                			<stpnm>Damen &amp; 66th Street</stpnm>
+                			<pdist>25015.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.775580428337</lat>
+						<lon>-87.673752307892</lon>
+
+							<typ>S</typ>
+                			<stpid>8724</stpid>
+                			<stpnm>Damen &amp; 65th Street</stpnm>
+                			<pdist>25684.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.777408662056</lat>
+						<lon>-87.673789858818</lon>
+
+							<typ>S</typ>
+                			<stpid>8725</stpid>
+                			<stpnm>Damen &amp; 64th Street</stpnm>
+                			<pdist>26343.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.779188839557</lat>
+						<lon>-87.673843502998</lon>
+
+							<typ>S</typ>
+                			<stpid>8726</stpid>
+                			<stpnm>Damen &amp; 63rd Street</stpnm>
+                			<pdist>26998.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.781052972466</lat>
+						<lon>-87.673907876015</lon>
+
+							<typ>S</typ>
+                			<stpid>8727</stpid>
+                			<stpnm>Damen &amp; 62nd Street</stpnm>
+                			<pdist>27682.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.782877050065</lat>
+						<lon>-87.673961520195</lon>
+
+							<typ>S</typ>
+                			<stpid>8728</stpid>
+                			<stpnm>Damen &amp; 61st Street</stpnm>
+                			<pdist>28350.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.784669075771</lat>
+						<lon>-87.673993706703</lon>
+
+							<typ>S</typ>
+                			<stpid>8729</stpid>
+                			<stpnm>Damen &amp; 60th Street</stpnm>
+                			<pdist>29014.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.786465051282</lat>
+						<lon>-87.674036622047</lon>
+
+							<typ>S</typ>
+                			<stpid>8730</stpid>
+                			<stpnm>Damen &amp; 59th Street</stpnm>
+                			<pdist>29681.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.788300974244</lat>
+						<lon>-87.674095630646</lon>
+
+							<typ>S</typ>
+                			<stpid>8731</stpid>
+                			<stpnm>Damen &amp; 58th Street</stpnm>
+                			<pdist>30336.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.790124845649</lat>
+						<lon>-87.674133181572</lon>
+
+							<typ>S</typ>
+                			<stpid>8732</stpid>
+                			<stpnm>Damen &amp; 57th Street</stpnm>
+                			<pdist>31019.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.791996659713</lat>
+						<lon>-87.67419219017</lon>
+
+							<typ>S</typ>
+                			<stpid>8733</stpid>
+                			<stpnm>Damen &amp; 56th Street</stpnm>
+                			<pdist>31690.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.793416482216</lat>
+						<lon>-87.67421901226</lon>
+
+							<typ>S</typ>
+                			<stpid>8734</stpid>
+                			<stpnm>Damen &amp; Garfield</stpnm>
+                			<pdist>32219.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.794160376662</lat>
+						<lon>-87.674245834351</lon>
+
+							<typ>S</typ>
+                			<stpid>8735</stpid>
+                			<stpnm>Damen &amp; Garfield</stpnm>
+                			<pdist>32470.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.795604147157</lat>
+						<lon>-87.674294114113</lon>
+
+							<typ>S</typ>
+                			<stpid>8736</stpid>
+                			<stpnm>Damen &amp; 54th Street</stpnm>
+                			<pdist>33027.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.797947705363</lat>
+						<lon>-87.674379944801</lon>
+
+							<typ>S</typ>
+                			<stpid>15165</stpid>
+                			<stpnm>Damen &amp; 53rd Street</stpnm>
+                			<pdist>33846.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.799287414303</lat>
+						<lon>-87.674406766891</lon>
+
+							<typ>S</typ>
+                			<stpid>8738</stpid>
+                			<stpnm>Damen &amp; 52nd Street </stpnm>
+                			<pdist>34354.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.801070983337</lat>
+						<lon>-87.6744389534</lon>
+
+							<typ>S</typ>
+                			<stpid>8739</stpid>
+                			<stpnm>Damen &amp; 51st Street</stpnm>
+                			<pdist>35022.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.802882494791</lat>
+						<lon>-87.674481868744</lon>
+
+							<typ>S</typ>
+                			<stpid>8740</stpid>
+                			<stpnm>Damen &amp; 50th Street</stpnm>
+                			<pdist>35693.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.805117821337</lat>
+						<lon>-87.67454624176</lon>
+
+							<typ>S</typ>
+                			<stpid>8741</stpid>
+                			<stpnm>Damen &amp; 49th Street</stpnm>
+                			<pdist>36485.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.806621324483</lat>
+						<lon>-87.674583792686</lon>
+
+							<typ>S</typ>
+                			<stpid>8742</stpid>
+                			<stpnm>Damen &amp; 48th Street</stpnm>
+                			<pdist>37027.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.80854063893</lat>
+						<lon>-87.674599885941</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.80854063893</lat>
+						<lon>-87.675329446793</lon>
+
+							<typ>S</typ>
+                			<stpid>15246</stpid>
+                			<stpnm>47th Street &amp; Damen</stpnm>
+                			<pdist>37966.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.808524644881</lat>
+						<lon>-87.676976323128</lon>
+
+							<typ>S</typ>
+                			<stpid>8088</stpid>
+                			<stpnm>47th Street &amp; Hoyne</stpnm>
+                			<pdist>38393.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.808472664193</lat>
+						<lon>-87.681857943535</lon>
+
+							<typ>S</typ>
+                			<stpid>8089</stpid>
+                			<stpnm>47th Street &amp; Oakley</stpnm>
+                			<pdist>39739.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.808460668643</lat>
+						<lon>-87.68383204937</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.808460668643</lat>
+						<lon>-87.684465050697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.806721290197</lat>
+						<lon>-87.684422135353</lon>
+
+							<typ>S</typ>
+                			<stpid>8276</stpid>
+                			<stpnm>Western &amp; 48th Street</stpnm>
+                			<pdist>41053.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.804969868323</lat>
+						<lon>-87.684427499771</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.804965869588</lat>
+						<lon>-87.684009075165</lon>
+
+							<typ>S</typ>
+                			<stpid>14132</stpid>
+                			<stpnm>Western Orange Line Station</stpnm>
+                			<pdist>41687.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>3952</pid>
+				<ln>40481.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.804965869588</lat>
+						<lon>-87.684009075165</lon>
+
+							<typ>S</typ>
+                			<stpid>14132</stpid>
+                			<stpnm>Western Orange Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.805453713399</lat>
+						<lon>-87.684003710747</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.805461710807</lat>
+						<lon>-87.684330940247</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.806605329955</lat>
+						<lon>-87.684330940247</lon>
+
+							<typ>S</typ>
+                			<stpid>8338</stpid>
+                			<stpnm>Western &amp; 48th Street</stpnm>
+                			<pdist>540.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.808316721874</lat>
+						<lon>-87.684384584427</lon>
+
+							<typ>S</typ>
+                			<stpid>8339</stpid>
+                			<stpnm>Western &amp; 47th Street</stpnm>
+                			<pdist>1170.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.808396692341</lat>
+						<lon>-87.684379220009</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.80839269382</lat>
+						<lon>-87.683671116829</lon>
+
+							<typ>S</typ>
+                			<stpid>8156</stpid>
+                			<stpnm>47th Street &amp; Western Boulevard</stpnm>
+                			<pdist>1462.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.808396692341</lat>
+						<lon>-87.6821154356</lon>
+
+							<typ>S</typ>
+                			<stpid>8157</stpid>
+                			<stpnm>47th Street &amp; Oakley</stpnm>
+                			<pdist>1822.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.808436677537</lat>
+						<lon>-87.679492235184</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.808468665676</lat>
+						<lon>-87.677394747734</lon>
+
+							<typ>S</typ>
+                			<stpid>17671</stpid>
+                			<stpnm>47th Street &amp; Hoyne</stpnm>
+                			<pdist>3127.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.808476662709</lat>
+						<lon>-87.67481982708</lon>
+
+							<typ>S</typ>
+                			<stpid>8160</stpid>
+                			<stpnm>47th Street &amp; Damen</stpnm>
+                			<pdist>3781.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.808476662709</lat>
+						<lon>-87.674691081047</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.806837250229</lat>
+						<lon>-87.674674987793</lon>
+
+							<typ>S</typ>
+                			<stpid>8766</stpid>
+                			<stpnm>Damen &amp; 48th Street</stpnm>
+                			<pdist>4478.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.805073835342</lat>
+						<lon>-87.674632072449</lon>
+
+							<typ>S</typ>
+                			<stpid>8767</stpid>
+                			<stpnm>Damen &amp; 49th Street</stpnm>
+                			<pdist>5136.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.803202403193</lat>
+						<lon>-87.674583792686</lon>
+
+							<typ>S</typ>
+                			<stpid>8768</stpid>
+                			<stpnm>Damen &amp; 50th Street</stpnm>
+                			<pdist>5811.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.800907025027</lat>
+						<lon>-87.674508690834</lon>
+
+							<typ>S</typ>
+                			<stpid>17399</stpid>
+                			<stpnm>Damen &amp; 51st Street</stpnm>
+                			<pdist>6648.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.799495366612</lat>
+						<lon>-87.67449259758</lon>
+
+							<typ>S</typ>
+                			<stpid>8770</stpid>
+                			<stpnm>Damen &amp; 52nd Street </stpnm>
+                			<pdist>7295.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.797667762644</lat>
+						<lon>-87.674449682236</lon>
+
+							<typ>S</typ>
+                			<stpid>8771</stpid>
+                			<stpnm>Damen &amp; 53rd Street</stpnm>
+                			<pdist>7798.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.79588409889</lat>
+						<lon>-87.674390673637</lon>
+
+							<typ>S</typ>
+                			<stpid>8772</stpid>
+                			<stpnm>Damen &amp; 54th Street</stpnm>
+                			<pdist>8453.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.794056391936</lat>
+						<lon>-87.674337029457</lon>
+
+							<typ>S</typ>
+                			<stpid>8773</stpid>
+                			<stpnm>Damen &amp; Garfield</stpnm>
+                			<pdist>9121.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.793268502184</lat>
+						<lon>-87.674310207367</lon>
+
+							<typ>S</typ>
+                			<stpid>8774</stpid>
+                			<stpnm>Damen &amp; Garfield</stpnm>
+                			<pdist>9422.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.792248630509</lat>
+						<lon>-87.674283385277</lon>
+
+							<typ>S</typ>
+                			<stpid>8775</stpid>
+                			<stpnm>Damen &amp; 56th Street</stpnm>
+                			<pdist>9785.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.790416820244</lat>
+						<lon>-87.674224376678</lon>
+
+							<typ>S</typ>
+                			<stpid>8776</stpid>
+                			<stpnm>Damen &amp; 57th Street</stpnm>
+                			<pdist>10475.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.788632954701</lat>
+						<lon>-87.674186825752</lon>
+
+							<typ>S</typ>
+                			<stpid>8777</stpid>
+                			<stpnm>Damen &amp; 58th Street</stpnm>
+                			<pdist>11143.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.786781041768</lat>
+						<lon>-87.674133181572</lon>
+
+							<typ>S</typ>
+                			<stpid>8778</stpid>
+                			<stpnm>Damen &amp; 59th Street</stpnm>
+                			<pdist>11801.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.784885075487</lat>
+						<lon>-87.67408490181</lon>
+
+							<typ>S</typ>
+                			<stpid>8779</stpid>
+                			<stpnm>Damen &amp; 60th Street</stpnm>
+                			<pdist>12460.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.783093055818</lat>
+						<lon>-87.674041986465</lon>
+
+							<typ>S</typ>
+                			<stpid>8780</stpid>
+                			<stpnm>Damen &amp; 61st Street</stpnm>
+                			<pdist>13143.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.781308986488</lat>
+						<lon>-87.673988342285</lon>
+
+							<typ>S</typ>
+                			<stpid>8781</stpid>
+                			<stpnm>Damen &amp; 62nd Street</stpnm>
+                			<pdist>13963.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.779472863306</lat>
+						<lon>-87.673934698105</lon>
+
+							<typ>S</typ>
+                			<stpid>8782</stpid>
+                			<stpnm>Damen &amp; 63rd Street</stpnm>
+                			<pdist>14476.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.779084830546</lat>
+						<lon>-87.673923969269</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.777684692816</lat>
+						<lon>-87.673875689507</lon>
+
+							<typ>S</typ>
+                			<stpid>8783</stpid>
+                			<stpnm>Damen &amp; 64th Street</stpnm>
+                			<pdist>15138.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.775832463653</lat>
+						<lon>-87.67383813858</lon>
+
+							<typ>S</typ>
+                			<stpid>8784</stpid>
+                			<stpnm>Damen &amp; 65th Street</stpnm>
+                			<pdist>15798.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.773632121915</lat>
+						<lon>-87.673800587654</lon>
+
+							<typ>S</typ>
+                			<stpid>17613</stpid>
+                			<stpnm>Damen &amp; 66th Street</stpnm>
+                			<pdist>16578.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.772211861254</lat>
+						<lon>-87.673752307892</lon>
+
+							<typ>S</typ>
+                			<stpid>8786</stpid>
+                			<stpnm>Damen &amp; Marquette Rd</stpnm>
+                			<pdist>17096.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.770427489203</lat>
+						<lon>-87.673709392548</lon>
+
+							<typ>S</typ>
+                			<stpid>8787</stpid>
+                			<stpnm>Damen &amp; 68th Street</stpnm>
+                			<pdist>17764.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.768639066514</lat>
+						<lon>-87.673661112785</lon>
+
+							<typ>S</typ>
+                			<stpid>8788</stpid>
+                			<stpnm>Damen &amp; 69th Street</stpnm>
+                			<pdist>18426.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.766774572777</lat>
+						<lon>-87.673612833023</lon>
+
+							<typ>S</typ>
+                			<stpid>8789</stpid>
+                			<stpnm>Damen &amp; 70th Street</stpnm>
+                			<pdist>19094.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.764958039642</lat>
+						<lon>-87.673559188843</lon>
+
+							<typ>S</typ>
+                			<stpid>8790</stpid>
+                			<stpnm>Damen &amp; 71st Street</stpnm>
+                			<pdist>19769.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.763093438927</lat>
+						<lon>-87.673510909081</lon>
+
+							<typ>S</typ>
+                			<stpid>8791</stpid>
+                			<stpnm>Damen &amp; 72nd Street</stpnm>
+                			<pdist>20428.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.76127680157</lat>
+						<lon>-87.673478722572</lon>
+
+							<typ>S</typ>
+                			<stpid>8792</stpid>
+                			<stpnm>Damen &amp; 73rd Street</stpnm>
+                			<pdist>21096.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.759480120648</lat>
+						<lon>-87.673419713974</lon>
+
+							<typ>S</typ>
+                			<stpid>8793</stpid>
+                			<stpnm>Damen &amp; 74th Street</stpnm>
+                			<pdist>21742.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.757503313364</lat>
+						<lon>-87.673371434212</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.755814575514</lat>
+						<lon>-87.673307061195</lon>
+
+							<typ>S</typ>
+                			<stpid>8794</stpid>
+                			<stpnm>Damen &amp; 76th Street</stpnm>
+                			<pdist>23100.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.75395771294</lat>
+						<lon>-87.673269510269</lon>
+
+							<typ>S</typ>
+                			<stpid>8795</stpid>
+                			<stpnm>Damen &amp; 77th Street</stpnm>
+                			<pdist>23771.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.7521328129</lat>
+						<lon>-87.673221230507</lon>
+
+							<typ>S</typ>
+                			<stpid>8796</stpid>
+                			<stpnm>Damen &amp; 78th Street</stpnm>
+                			<pdist>24431.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.750319867408</lat>
+						<lon>-87.673156857491</lon>
+
+							<typ>S</typ>
+                			<stpid>15144</stpid>
+                			<stpnm>Damen &amp; 79th Street</stpnm>
+                			<pdist>25226.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.749339334715</lat>
+						<lon>-87.673151493073</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.748506870715</lat>
+						<lon>-87.673113942146</lon>
+
+							<typ>S</typ>
+                			<stpid>8798</stpid>
+                			<stpnm>Damen &amp; 80th Street</stpnm>
+                			<pdist>25735.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.746617777749</lat>
+						<lon>-87.673097848892</lon>
+
+							<typ>S</typ>
+                			<stpid>8799</stpid>
+                			<stpnm>Damen &amp; 81st Street</stpnm>
+                			<pdist>26399.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.744868716273</lat>
+						<lon>-87.673028111458</lon>
+
+							<typ>S</typ>
+                			<stpid>8800</stpid>
+                			<stpnm>Damen &amp; 82nd Street</stpnm>
+                			<pdist>27071.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.742991524059</lat>
+						<lon>-87.672990560532</lon>
+
+							<typ>S</typ>
+                			<stpid>8801</stpid>
+                			<stpnm>Damen &amp; 83rd Street</stpnm>
+                			<pdist>27750.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.741190328553</lat>
+						<lon>-87.672963738441</lon>
+
+							<typ>S</typ>
+                			<stpid>8802</stpid>
+                			<stpnm>Damen &amp; 84th Street</stpnm>
+                			<pdist>28414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.73940509382</lat>
+						<lon>-87.672910094261</lon>
+
+							<typ>S</typ>
+                			<stpid>8803</stpid>
+                			<stpnm>Damen &amp; 85th Street</stpnm>
+                			<pdist>29086.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.737707873975</lat>
+						<lon>-87.672888636589</lon>
+
+							<typ>S</typ>
+                			<stpid>8804</stpid>
+                			<stpnm>Damen &amp; 86th Street </stpnm>
+                			<pdist>29690.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.735938554594</lat>
+						<lon>-87.672829627991</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.73575041143</lat>
+						<lon>-87.672792077065</lon>
+
+							<typ>S</typ>
+                			<stpid>17086</stpid>
+                			<stpnm>Damen &amp; 87th Street</stpnm>
+                			<pdist>30351.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.735738402274</lat>
+						<lon>-87.67588198185</lon>
+
+							<typ>S</typ>
+                			<stpid>9510</stpid>
+                			<stpnm>87th Street &amp; Longwood</stpnm>
+                			<pdist>31237.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.73570237479</lat>
+						<lon>-87.677743434906</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.735622313642</lat>
+						<lon>-87.682635784149</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.732135553851</lat>
+						<lon>-87.682544589043</lon>
+
+							<typ>S</typ>
+                			<stpid>8439</stpid>
+                			<stpnm>Western &amp; 89th Street</stpnm>
+                			<pdist>34279.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.730049812576</lat>
+						<lon>-87.68246948719</lon>
+
+							<typ>S</typ>
+                			<stpid>8440</stpid>
+                			<stpnm>Western &amp; 90th Street</stpnm>
+                			<pdist>35030.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.728336331454</lat>
+						<lon>-87.68241584301</lon>
+
+							<typ>S</typ>
+                			<stpid>8441</stpid>
+                			<stpnm>Western &amp; 91st Street</stpnm>
+                			<pdist>35652.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.722639078498</lat>
+						<lon>-87.682211995125</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.722530973944</lat>
+						<lon>-87.68214225769</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.720573048893</lat>
+						<lon>-87.68208861351</lon>
+
+							<typ>S</typ>
+                			<stpid>3479</stpid>
+                			<stpnm>Western &amp; 95th Street</stpnm>
+                			<pdist>38652.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.718859315022</lat>
+						<lon>-87.682013511658</lon>
+
+							<typ>S</typ>
+                			<stpid>3480</stpid>
+                			<stpnm>Western &amp; 96th Street</stpnm>
+                			<pdist>39325.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.717345745702</lat>
+						<lon>-87.681959867477</lon>
+
+							<typ>S</typ>
+                			<stpid>3481</stpid>
+                			<stpnm>Western &amp; 97th Street</stpnm>
+                			<pdist>39902.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.715647942989</lat>
+						<lon>-87.681906223297</lon>
+
+							<typ>S</typ>
+                			<stpid>3482</stpid>
+                			<stpnm>Western &amp; 98th Street</stpnm>
+                			<pdist>40481.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

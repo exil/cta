@@ -1,0 +1,2877 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>1192</pid>
+				<ln>61067.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.828861850617</lat>
+						<lon>-87.681171298027</lon>
+
+							<typ>S</typ>
+                			<stpid>14135</stpid>
+                			<stpnm>35th/Archer Orange Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.828765916707</lat>
+						<lon>-87.681332230568</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.828354198711</lat>
+						<lon>-87.680881619453</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.830320827779</lat>
+						<lon>-87.677662968636</lon>
+
+							<typ>S</typ>
+                			<stpid>4433</stpid>
+                			<stpnm>Archer &amp; 35th Street/Hoyne</stpnm>
+                			<pdist>1269.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.830820469848</lat>
+						<lon>-87.676852941513</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.831815745229</lat>
+						<lon>-87.675265073776</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.832131512096</lat>
+						<lon>-87.675275802612</lon>
+
+							<typ>S</typ>
+                			<stpid>8749</stpid>
+                			<stpnm>Damen &amp; Archer</stpnm>
+                			<pdist>2385.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.833422542701</lat>
+						<lon>-87.67530798912</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.83392216056</lat>
+						<lon>-87.675313353539</lon>
+
+							<typ>S</typ>
+                			<stpid>8750</stpid>
+                			<stpnm>Damen &amp; 33rd Street</stpnm>
+                			<pdist>2985.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.835828666474</lat>
+						<lon>-87.675366997719</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.835936580204</lat>
+						<lon>-87.675297260284</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.837287484845</lat>
+						<lon>-87.675313353539</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.837647188375</lat>
+						<lon>-87.675318717957</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.838818209192</lat>
+						<lon>-87.675265073776</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.838942104339</lat>
+						<lon>-87.675350904465</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.839957236187</lat>
+						<lon>-87.675340175629</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.841667736888</lat>
+						<lon>-87.675426006317</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.842415067468</lat>
+						<lon>-87.675522565842</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.842858665983</lat>
+						<lon>-87.675560116768</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.843789813224</lat>
+						<lon>-87.675592303276</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.844784886927</lat>
+						<lon>-87.675619125366</lon>
+
+							<typ>S</typ>
+                			<stpid>8751</stpid>
+                			<stpnm>1559 S Damen</stpnm>
+                			<pdist>7040.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.84648327015</lat>
+						<lon>-87.675645947456</lon>
+
+							<typ>S</typ>
+                			<stpid>8752</stpid>
+                			<stpnm>2501 S Damen</stpnm>
+                			<pdist>7700.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.848689102934</lat>
+						<lon>-87.675694227219</lon>
+
+							<typ>S</typ>
+                			<stpid>8753</stpid>
+                			<stpnm>Damen &amp; Blue Island</stpnm>
+                			<pdist>8467.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.850267505434</lat>
+						<lon>-87.675731778145</lon>
+
+							<typ>S</typ>
+                			<stpid>8891</stpid>
+                			<stpnm>Damen &amp; 23rd Street</stpnm>
+                			<pdist>8948.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.851250490855</lat>
+						<lon>-87.675763964653</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.852101600176</lat>
+						<lon>-87.675785422325</lon>
+
+							<typ>S</typ>
+                			<stpid>14489</stpid>
+                			<stpnm>Damen &amp; Cermak</stpnm>
+                			<pdist>9758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.854123438885</lat>
+						<lon>-87.675839066505</lon>
+
+							<typ>S</typ>
+                			<stpid>15199</stpid>
+                			<stpnm>Damen Pink Line Station</stpnm>
+                			<pdist>10414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.855681729456</lat>
+						<lon>-87.675887346268</lon>
+
+							<typ>S</typ>
+                			<stpid>8895</stpid>
+                			<stpnm>Damen &amp; 19th Street</stpnm>
+                			<pdist>10974.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.857547632573</lat>
+						<lon>-87.675940990448</lon>
+
+							<typ>S</typ>
+                			<stpid>8896</stpid>
+                			<stpnm>Damen &amp; 18th Street</stpnm>
+                			<pdist>11618.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.858442607469</lat>
+						<lon>-87.675967812538</lon>
+
+							<typ>S</typ>
+                			<stpid>8897</stpid>
+                			<stpnm>Damen &amp; 17th Street</stpnm>
+                			<pdist>11969.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.860356373367</lat>
+						<lon>-87.676005363464</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.861363175023</lat>
+						<lon>-87.676037549973</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.862621654801</lat>
+						<lon>-87.676085829735</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.863276853516</lat>
+						<lon>-87.676118016243</lon>
+
+							<typ>S</typ>
+                			<stpid>8898</stpid>
+                			<stpnm>Damen &amp; 14th Street</stpnm>
+                			<pdist>13762.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.863900085087</lat>
+						<lon>-87.676118016243</lon>
+
+							<typ>S</typ>
+                			<stpid>8899</stpid>
+                			<stpnm>Damen &amp; Hastings</stpnm>
+                			<pdist>13968.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.864703086041</lat>
+						<lon>-87.676182389259</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.864846906042</lat>
+						<lon>-87.676101922989</lon>
+
+							<typ>S</typ>
+                			<stpid>8900</stpid>
+                			<stpnm>Damen &amp; 13th Street</stpnm>
+                			<pdist>14292.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.866528777044</lat>
+						<lon>-87.676144838333</lon>
+
+							<typ>S</typ>
+                			<stpid>8901</stpid>
+                			<stpnm>Damen &amp; Roosevelt</stpnm>
+                			<pdist>14905.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.86719192542</lat>
+						<lon>-87.676134109497</lon>
+
+							<typ>S</typ>
+                			<stpid>8902</stpid>
+                			<stpnm>Damen &amp; Roosevelt</stpnm>
+                			<pdist>15183.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.86789501498</lat>
+						<lon>-87.676123380661</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.86900156641</lat>
+						<lon>-87.676134109497</lon>
+
+							<typ>S</typ>
+                			<stpid>8904</stpid>
+                			<stpnm>Damen &amp; Taylor</stpnm>
+                			<pdist>15808.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.870447644462</lat>
+						<lon>-87.676166296005</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.871362411751</lat>
+						<lon>-87.676198482513</lon>
+
+							<typ>S</typ>
+                			<stpid>8905</stpid>
+                			<stpnm>Damen &amp; Polk</stpnm>
+                			<pdist>16679.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.872612705693</lat>
+						<lon>-87.676209211349</lon>
+
+							<typ>S</typ>
+                			<stpid>8906</stpid>
+                			<stpnm>Damen &amp; Ogden</stpnm>
+                			<pdist>17185.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.872956232653</lat>
+						<lon>-87.67623603344</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.873918897204</lat>
+						<lon>-87.67631649971</lon>
+
+							<typ>S</typ>
+                			<stpid>8907</stpid>
+                			<stpnm>Damen &amp; Harrison</stpnm>
+                			<pdist>17611.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.875041321796</lat>
+						<lon>-87.676337957382</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.875237045062</lat>
+						<lon>-87.676439881325</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.875624495475</lat>
+						<lon>-87.676461338997</lon>
+
+							<typ>S</typ>
+                			<stpid>15869</stpid>
+                			<stpnm>Damen Blue Line Station</stpnm>
+                			<pdist>18245.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.877381973009</lat>
+						<lon>-87.676504254341</lon>
+
+							<typ>S</typ>
+                			<stpid>111</stpid>
+                			<stpnm>Damen &amp; Jackson</stpnm>
+                			<pdist>18869.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.878959667355</lat>
+						<lon>-87.676531076431</lon>
+
+							<typ>S</typ>
+                			<stpid>17274</stpid>
+                			<stpnm>Damen &amp; Adams</stpnm>
+                			<pdist>19458.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.881204319774</lat>
+						<lon>-87.676568627357</lon>
+
+							<typ>S</typ>
+                			<stpid>8910</stpid>
+                			<stpnm>Damen &amp; Madison</stpnm>
+                			<pdist>20239.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.882110945281</lat>
+						<lon>-87.676595449448</lon>
+
+							<typ>S</typ>
+                			<stpid>8911</stpid>
+                			<stpnm>Damen &amp; Warren</stpnm>
+                			<pdist>20574.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.88306149037</lat>
+						<lon>-87.67664372921</lon>
+
+							<typ>S</typ>
+                			<stpid>8912</stpid>
+                			<stpnm>Damen &amp; Washington</stpnm>
+                			<pdist>20918.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.884858700842</lat>
+						<lon>-87.676681280136</lon>
+
+							<typ>S</typ>
+                			<stpid>8913</stpid>
+                			<stpnm>Damen &amp; Lake</stpnm>
+                			<pdist>21587.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.885897066072</lat>
+						<lon>-87.676718831062</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.886679822551</lat>
+						<lon>-87.676745653152</lon>
+
+							<typ>S</typ>
+                			<stpid>8914</stpid>
+                			<stpnm>Damen &amp; Fulton</stpnm>
+                			<pdist>22242.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.887598351088</lat>
+						<lon>-87.676772475243</lon>
+
+							<typ>S</typ>
+                			<stpid>8915</stpid>
+                			<stpnm>Damen &amp; Carroll</stpnm>
+                			<pdist>22576.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.888896249331</lat>
+						<lon>-87.676815390587</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.889615073934</lat>
+						<lon>-87.676826119423</lon>
+
+							<typ>S</typ>
+                			<stpid>8916</stpid>
+                			<stpnm>Damen &amp; Hubbard</stpnm>
+                			<pdist>23319.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.890725242706</lat>
+						<lon>-87.676852941513</lon>
+
+							<typ>S</typ>
+                			<stpid>8917</stpid>
+                			<stpnm>Damen &amp; Grand</stpnm>
+                			<pdist>23720.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.892158849374</lat>
+						<lon>-87.676890492439</lon>
+
+							<typ>S</typ>
+                			<stpid>8918</stpid>
+                			<stpnm>Damen &amp; Ohio</stpnm>
+                			<pdist>24238.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.893971776636</lat>
+						<lon>-87.676949501038</lon>
+
+							<typ>S</typ>
+                			<stpid>8919</stpid>
+                			<stpnm>Damen &amp; Huron</stpnm>
+                			<pdist>24911.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.894966069517</lat>
+						<lon>-87.676987051964</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.895820589987</lat>
+						<lon>-87.676992416382</lon>
+
+							<typ>S</typ>
+                			<stpid>8920</stpid>
+                			<stpnm>Damen &amp; Chicago</stpnm>
+                			<pdist>25571.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.897629420367</lat>
+						<lon>-87.677046060562</lon>
+
+							<typ>S</typ>
+                			<stpid>8921</stpid>
+                			<stpnm>Damen &amp; Iowa</stpnm>
+                			<pdist>26240.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.899098807774</lat>
+						<lon>-87.677094340324</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.899725682874</lat>
+						<lon>-87.677110433578</lon>
+
+							<typ>S</typ>
+                			<stpid>8922</stpid>
+                			<stpnm>Damen &amp; Augusta</stpnm>
+                			<pdist>27039.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.901278869187</lat>
+						<lon>-87.677164077759</lon>
+
+							<typ>S</typ>
+                			<stpid>8923</stpid>
+                			<stpnm>Damen &amp; Thomas</stpnm>
+                			<pdist>27585.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.902995714981</lat>
+						<lon>-87.677212357521</lon>
+
+							<typ>S</typ>
+                			<stpid>14975</stpid>
+                			<stpnm>Damen &amp; Division</stpnm>
+                			<pdist>28436.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.904872214557</lat>
+						<lon>-87.677260637283</lon>
+
+							<typ>S</typ>
+                			<stpid>8925</stpid>
+                			<stpnm>Damen &amp; Potomac</stpnm>
+                			<pdist>28929.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.905902269601</lat>
+						<lon>-87.677271366119</lon>
+
+							<typ>S</typ>
+                			<stpid>8926</stpid>
+                			<stpnm>Damen &amp; Evergreen</stpnm>
+                			<pdist>29292.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.907032117069</lat>
+						<lon>-87.677314281464</lon>
+
+							<typ>S</typ>
+                			<stpid>8927</stpid>
+                			<stpnm>Damen &amp; Schiller</stpnm>
+                			<pdist>29710.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.908185898264</lat>
+						<lon>-87.677341103554</lon>
+
+							<typ>S</typ>
+                			<stpid>8928</stpid>
+                			<stpnm>Damen &amp; Le Moyne</stpnm>
+                			<pdist>30235.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.909994378386</lat>
+						<lon>-87.677389383316</lon>
+
+							<typ>S</typ>
+                			<stpid>8929</stpid>
+                			<stpnm>Damen &amp; Milwaukee/North Ave (Blue Line)</stpnm>
+                			<pdist>30795.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.912146123527</lat>
+						<lon>-87.677437663078</lon>
+
+							<typ>S</typ>
+                			<stpid>8930</stpid>
+                			<stpnm>Damen &amp; Wabansia</stpnm>
+                			<pdist>31592.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.914681017783</lat>
+						<lon>-87.677528858185</lon>
+
+							<typ>S</typ>
+                			<stpid>8931</stpid>
+                			<stpnm>Damen &amp; Churchill</stpnm>
+                			<pdist>32510.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.915826677114</lat>
+						<lon>-87.677539587021</lon>
+
+							<typ>S</typ>
+                			<stpid>8932</stpid>
+                			<stpnm>Damen &amp; Cortland </stpnm>
+                			<pdist>32921.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.917587040398</lat>
+						<lon>-87.677577137947</lon>
+
+							<typ>S</typ>
+                			<stpid>8933</stpid>
+                			<stpnm>Damen &amp; Armitage</stpnm>
+                			<pdist>33586.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.919375296237</lat>
+						<lon>-87.677636146545</lon>
+
+							<typ>S</typ>
+                			<stpid>8934</stpid>
+                			<stpnm>Damen &amp; Dickens </stpnm>
+                			<pdist>34240.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.92124732288</lat>
+						<lon>-87.677711248398</lon>
+
+							<typ>S</typ>
+                			<stpid>8935</stpid>
+                			<stpnm>Damen &amp; Webster</stpnm>
+                			<pdist>34919.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.922923718036</lat>
+						<lon>-87.677770256996</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.924935334087</lat>
+						<lon>-87.677839994431</lon>
+
+							<typ>S</typ>
+                			<stpid>8936</stpid>
+                			<stpnm>Damen &amp; Fullerton</stpnm>
+                			<pdist>36223.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.92560186748</lat>
+						<lon>-87.677888274193</lon>
+
+							<typ>S</typ>
+                			<stpid>8937</stpid>
+                			<stpnm>Damen &amp; Elston</stpnm>
+                			<pdist>36571.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.927521604388</lat>
+						<lon>-87.678054571152</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.927972594492</lat>
+						<lon>-87.678081393242</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.928587213041</lat>
+						<lon>-87.67808675766</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.929880287275</lat>
+						<lon>-87.678258419037</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.930275388063</lat>
+						<lon>-87.678274512291</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.931109481691</lat>
+						<lon>-87.678194046021</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.93186773916</lat>
+						<lon>-87.678092122078</lon>
+
+							<typ>S</typ>
+                			<stpid>8938</stpid>
+                			<stpnm>Damen &amp; Clybourn/Diversey</stpnm>
+                			<pdist>38813.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.933232579891</lat>
+						<lon>-87.678102850914</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.93401076548</lat>
+						<lon>-87.678129673004</lon>
+
+							<typ>S</typ>
+                			<stpid>8939</stpid>
+                			<stpnm>Damen &amp; George</stpnm>
+                			<pdist>39572.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.935782598785</lat>
+						<lon>-87.678177952766</lon>
+
+							<typ>S</typ>
+                			<stpid>8940</stpid>
+                			<stpnm>Damen &amp; Wellington</stpnm>
+                			<pdist>40228.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.937646163135</lat>
+						<lon>-87.678242325783</lon>
+
+							<typ>S</typ>
+                			<stpid>8941</stpid>
+                			<stpnm>Damen &amp; Barry</stpnm>
+                			<pdist>40908.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.939485731062</lat>
+						<lon>-87.678306698799</lon>
+
+							<typ>S</typ>
+                			<stpid>8942</stpid>
+                			<stpnm>Damen &amp; Belmont</stpnm>
+                			<pdist>41572.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.941305294855</lat>
+						<lon>-87.678354978561</lon>
+
+							<typ>S</typ>
+                			<stpid>8943</stpid>
+                			<stpnm>Damen &amp; School</stpnm>
+                			<pdist>42235.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.943136777028</lat>
+						<lon>-87.678403258324</lon>
+
+							<typ>S</typ>
+                			<stpid>8944</stpid>
+                			<stpnm>Damen &amp; Roscoe</stpnm>
+                			<pdist>42914.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.944948256665</lat>
+						<lon>-87.678451538086</lon>
+
+							<typ>S</typ>
+                			<stpid>8945</stpid>
+                			<stpnm>Damen &amp; Cornelia</stpnm>
+                			<pdist>43572.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.946759684834</lat>
+						<lon>-87.67849445343</lon>
+
+							<typ>S</typ>
+                			<stpid>8946</stpid>
+                			<stpnm>Damen &amp; Addison</stpnm>
+                			<pdist>44236.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.948591010332</lat>
+						<lon>-87.678553462029</lon>
+
+							<typ>S</typ>
+                			<stpid>8947</stpid>
+                			<stpnm>Damen &amp; Waveland</stpnm>
+                			<pdist>44907.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.950406324644</lat>
+						<lon>-87.678612470627</lon>
+
+							<typ>S</typ>
+                			<stpid>8948</stpid>
+                			<stpnm>Damen &amp; Grace</stpnm>
+                			<pdist>45574.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.951423675995</lat>
+						<lon>-87.678623199463</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.952237545385</lat>
+						<lon>-87.678650021553</lon>
+
+							<typ>S</typ>
+                			<stpid>8949</stpid>
+                			<stpnm>Damen &amp; Byron</stpnm>
+                			<pdist>46243.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.954515526515</lat>
+						<lon>-87.67874121666</lon>
+
+							<typ>S</typ>
+                			<stpid>8951</stpid>
+                			<stpnm>Damen &amp; Irving Park/Lincoln</stpnm>
+                			<pdist>47115.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.955109942522</lat>
+						<lon>-87.67874121666</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.955915786243</lat>
+						<lon>-87.678773403168</lon>
+
+							<typ>S</typ>
+                			<stpid>8952</stpid>
+                			<stpnm>Damen &amp; Belle Plaine</stpnm>
+                			<pdist>47576.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.957698978455</lat>
+						<lon>-87.678810954094</lon>
+
+							<typ>S</typ>
+                			<stpid>8953</stpid>
+                			<stpnm>Damen &amp; Berteau</stpnm>
+                			<pdist>48243.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.959529989676</lat>
+						<lon>-87.678864598274</lon>
+
+							<typ>S</typ>
+                			<stpid>8954</stpid>
+                			<stpnm>Damen &amp; Cullom</stpnm>
+                			<pdist>48923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.961301113871</lat>
+						<lon>-87.678923606873</lon>
+
+							<typ>S</typ>
+                			<stpid>8955</stpid>
+                			<stpnm>Damen &amp; Montrose</stpnm>
+                			<pdist>49565.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.963167921217</lat>
+						<lon>-87.678966522217</lon>
+
+							<typ>S</typ>
+                			<stpid>8956</stpid>
+                			<stpnm>Damen &amp; Sunnyside</stpnm>
+                			<pdist>50253.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.964950910499</lat>
+						<lon>-87.679036259651</lon>
+
+							<typ>S</typ>
+                			<stpid>8957</stpid>
+                			<stpnm>Damen &amp; Wilson</stpnm>
+                			<pdist>50912.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.966039825719</lat>
+						<lon>-87.679057717323</lon>
+
+							<typ>S</typ>
+                			<stpid>4954</stpid>
+                			<stpnm>Damen &amp; Eastwood (Brown Line)</stpnm>
+                			<pdist>51393.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.968624429088</lat>
+						<lon>-87.679132819176</lon>
+
+							<typ>S</typ>
+                			<stpid>4955</stpid>
+                			<stpnm>Damen &amp; Lawrence</stpnm>
+                			<pdist>52253.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.970467091533</lat>
+						<lon>-87.679191827774</lon>
+
+							<typ>S</typ>
+                			<stpid>8958</stpid>
+                			<stpnm>Damen &amp; Ainslie</stpnm>
+                			<pdist>52913.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.972293747579</lat>
+						<lon>-87.679234743118</lon>
+
+							<typ>S</typ>
+                			<stpid>8959</stpid>
+                			<stpnm>Damen &amp; Argyle</stpnm>
+                			<pdist>53597.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.974622857471</lat>
+						<lon>-87.679304480553</lon>
+
+							<typ>S</typ>
+                			<stpid>8960</stpid>
+                			<stpnm>Damen &amp; Winona</stpnm>
+                			<pdist>54442.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.975867141549</lat>
+						<lon>-87.679342031479</lon>
+
+							<typ>S</typ>
+                			<stpid>8961</stpid>
+                			<stpnm>Damen &amp; Foster</stpnm>
+                			<pdist>54916.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.975998747097</lat>
+						<lon>-87.679347395897</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.976030651431</lat>
+						<lon>-87.676520347595</lon>
+
+							<typ>S</typ>
+                			<stpid>4787</stpid>
+                			<stpnm>Foster &amp; Wolcott</stpnm>
+                			<pdist>55686.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.976062555749</lat>
+						<lon>-87.674980759621</lon>
+
+							<typ>S</typ>
+                			<stpid>4788</stpid>
+                			<stpnm>Foster &amp; Ravenswood</stpnm>
+                			<pdist>56095.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.976098448089</lat>
+						<lon>-87.672164440155</lon>
+
+							<typ>S</typ>
+                			<stpid>4789</stpid>
+                			<stpnm>Foster &amp; Paulina</stpnm>
+                			<pdist>56721.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.976146304509</lat>
+						<lon>-87.669487595558</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.976445406323</lat>
+						<lon>-87.669503688812</lon>
+
+							<typ>S</typ>
+                			<stpid>8620</stpid>
+                			<stpnm>Ashland &amp; Foster</stpnm>
+                			<pdist>57543.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.977821256576</lat>
+						<lon>-87.66953587532</lon>
+
+							<typ>S</typ>
+                			<stpid>8621</stpid>
+                			<stpnm>Ashland &amp; Berwyn</stpnm>
+                			<pdist>58064.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.979639726084</lat>
+						<lon>-87.669584155083</lon>
+
+							<typ>S</typ>
+                			<stpid>8622</stpid>
+                			<stpnm>Ashland &amp; Balmoral</stpnm>
+                			<pdist>58722.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.981474094466</lat>
+						<lon>-87.669637799263</lon>
+
+							<typ>S</typ>
+                			<stpid>8623</stpid>
+                			<stpnm>Ashland &amp; Catalpa</stpnm>
+                			<pdist>59401.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.983372211332</lat>
+						<lon>-87.669696807861</lon>
+
+							<typ>S</typ>
+                			<stpid>8969</stpid>
+                			<stpnm>Ashland &amp; Bryn Mawr</stpnm>
+                			<pdist>60060.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.985218434586</lat>
+						<lon>-87.669734358788</lon>
+
+							<typ>S</typ>
+                			<stpid>8970</stpid>
+                			<stpnm>Ashland &amp; Hollywood</stpnm>
+                			<pdist>60819.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.98590028752</lat>
+						<lon>-87.669745087624</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.985908262365</lat>
+						<lon>-87.669364213943</lon>
+
+							<typ>S</typ>
+                			<stpid>8805</stpid>
+                			<stpnm>Edgewater &amp; Clark</stpnm>
+                			<pdist>61067.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1197</pid>
+				<ln>61325.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.985908262365</lat>
+						<lon>-87.669364213943</lon>
+
+							<typ>S</typ>
+                			<stpid>8805</stpid>
+                			<stpnm>Edgewater &amp; Clark</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.983655328957</lat>
+						<lon>-87.668843865395</lon>
+
+							<typ>S</typ>
+                			<stpid>1802</stpid>
+                			<stpnm>Clark &amp; Bryn Mawr</stpnm>
+                			<pdist>890.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.98351975166</lat>
+						<lon>-87.668817043304</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.983499813798</lat>
+						<lon>-87.669916749001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.982638492194</lat>
+						<lon>-87.669900655746</lon>
+
+							<typ>S</typ>
+                			<stpid>15132</stpid>
+                			<stpnm>Ashland &amp; Gregory</stpnm>
+                			<pdist>1484.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.98179310966</lat>
+						<lon>-87.66988992691</lon>
+
+							<typ>S</typ>
+                			<stpid>8615</stpid>
+                			<stpnm>Ashland &amp; Catalpa</stpnm>
+                			<pdist>1819.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.979962738263</lat>
+						<lon>-87.669830918312</lon>
+
+							<typ>S</typ>
+                			<stpid>8616</stpid>
+                			<stpnm>Ashland &amp; Balmoral</stpnm>
+                			<pdist>2479.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.978116362613</lat>
+						<lon>-87.66978263855</lon>
+
+							<typ>S</typ>
+                			<stpid>8617</stpid>
+                			<stpnm>Ashland &amp; Berwyn</stpnm>
+                			<pdist>3156.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.976341717854</lat>
+						<lon>-87.669734358788</lon>
+
+							<typ>S</typ>
+                			<stpid>8618</stpid>
+                			<stpnm>Ashland &amp; Foster</stpnm>
+                			<pdist>3814.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.976206124984</lat>
+						<lon>-87.669734358788</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.976166244674</lat>
+						<lon>-87.671928405762</lon>
+
+							<typ>S</typ>
+                			<stpid>4802</stpid>
+                			<stpnm>Foster &amp; Paulina</stpnm>
+                			<pdist>4435.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.976130352373</lat>
+						<lon>-87.674272656441</lon>
+
+							<typ>S</typ>
+                			<stpid>4803</stpid>
+                			<stpnm>Foster &amp; Ravenswood</stpnm>
+                			<pdist>5077.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.976098448089</lat>
+						<lon>-87.676268219948</lon>
+
+							<typ>S</typ>
+                			<stpid>4804</stpid>
+                			<stpnm>Foster &amp; Wolcott</stpnm>
+                			<pdist>5616.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.976058567711</lat>
+						<lon>-87.679449319839</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.975938926427</lat>
+						<lon>-87.679438591003</lon>
+
+							<typ>S</typ>
+                			<stpid>8619</stpid>
+                			<stpnm>Damen &amp; Foster</stpnm>
+                			<pdist>6577.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.974762441831</lat>
+						<lon>-87.679390311241</lon>
+
+							<typ>S</typ>
+                			<stpid>8815</stpid>
+                			<stpnm>Damen &amp; Winona</stpnm>
+                			<pdist>6999.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.97326289098</lat>
+						<lon>-87.679352760315</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.9724612549</lat>
+						<lon>-87.679325938225</lon>
+
+							<typ>S</typ>
+                			<stpid>8816</stpid>
+                			<stpnm>Damen &amp; Argyle</stpnm>
+                			<pdist>7732.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.970686452559</lat>
+						<lon>-87.679272294044</lon>
+
+							<typ>S</typ>
+                			<stpid>8817</stpid>
+                			<stpnm>Damen &amp; Ainslie</stpnm>
+                			<pdist>8412.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.968576567016</lat>
+						<lon>-87.679213285446</lon>
+
+							<typ>S</typ>
+                			<stpid>15226</stpid>
+                			<stpnm>Damen &amp; Lawrence</stpnm>
+                			<pdist>9070.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.966175440231</lat>
+						<lon>-87.679143548012</lon>
+
+							<typ>S</typ>
+                			<stpid>8819</stpid>
+                			<stpnm>Damen &amp; Eastwood (Brown Line)</stpnm>
+                			<pdist>10090.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.965210177716</lat>
+						<lon>-87.67912209034</lon>
+
+							<typ>S</typ>
+                			<stpid>8820</stpid>
+                			<stpnm>Damen &amp; Wilson</stpnm>
+                			<pdist>10416.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.963379329712</lat>
+						<lon>-87.679057717323</lon>
+
+							<typ>S</typ>
+                			<stpid>8821</stpid>
+                			<stpnm>Damen &amp; Sunnyside</stpnm>
+                			<pdist>11095.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.961592307506</lat>
+						<lon>-87.679014801979</lon>
+
+							<typ>S</typ>
+                			<stpid>8822</stpid>
+                			<stpnm>Damen &amp; Montrose</stpnm>
+                			<pdist>11757.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.959765344601</lat>
+						<lon>-87.678955793381</lon>
+
+							<typ>S</typ>
+                			<stpid>8823</stpid>
+                			<stpnm>Damen &amp; Cullom</stpnm>
+                			<pdist>12420.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.957894448392</lat>
+						<lon>-87.678907513618</lon>
+
+							<typ>S</typ>
+                			<stpid>8824</stpid>
+                			<stpnm>Damen &amp; Berteau</stpnm>
+                			<pdist>13097.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.956087325918</lat>
+						<lon>-87.678864598274</lon>
+
+							<typ>S</typ>
+                			<stpid>8825</stpid>
+                			<stpnm>Damen &amp; Belle Plaine</stpnm>
+                			<pdist>13770.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.953669770694</lat>
+						<lon>-87.67879486084</lon>
+
+							<typ>S</typ>
+                			<stpid>8827</stpid>
+                			<stpnm>Damen &amp; Irving Park/Lincoln</stpnm>
+                			<pdist>14639.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.952476916757</lat>
+						<lon>-87.678746581078</lon>
+
+							<typ>S</typ>
+                			<stpid>8828</stpid>
+                			<stpnm>Damen &amp; Byron</stpnm>
+                			<pdist>15108.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.950641713264</lat>
+						<lon>-87.678692936897</lon>
+
+							<typ>S</typ>
+                			<stpid>8829</stpid>
+                			<stpnm>Damen &amp; Grace</stpnm>
+                			<pdist>15752.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.948814436422</lat>
+						<lon>-87.678644657135</lon>
+
+							<typ>S</typ>
+                			<stpid>8830</stpid>
+                			<stpnm>Damen &amp; Waveland</stpnm>
+                			<pdist>16435.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.947011046351</lat>
+						<lon>-87.678591012955</lon>
+
+							<typ>S</typ>
+                			<stpid>8831</stpid>
+                			<stpnm>Damen &amp; Addison</stpnm>
+                			<pdist>17091.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.945143765707</lat>
+						<lon>-87.678537368774</lon>
+
+							<typ>S</typ>
+                			<stpid>8832</stpid>
+                			<stpnm>Damen &amp; Cornelia</stpnm>
+                			<pdist>17767.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.943356232147</lat>
+						<lon>-87.67849445343</lon>
+
+							<typ>S</typ>
+                			<stpid>8833</stpid>
+                			<stpnm>Damen &amp; Roscoe</stpnm>
+                			<pdist>18414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.941468893442</lat>
+						<lon>-87.678446173668</lon>
+
+							<typ>S</typ>
+                			<stpid>8834</stpid>
+                			<stpnm>Damen &amp; School</stpnm>
+                			<pdist>19103.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.939453808427</lat>
+						<lon>-87.678392529488</lon>
+
+							<typ>S</typ>
+                			<stpid>8835</stpid>
+                			<stpnm>Damen &amp; Belmont</stpnm>
+                			<pdist>19771.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.937686067557</lat>
+						<lon>-87.678322792053</lon>
+
+							<typ>S</typ>
+                			<stpid>8836</stpid>
+                			<stpnm>Damen &amp; Barry</stpnm>
+                			<pdist>20436.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.935862409938</lat>
+						<lon>-87.678269147873</lon>
+
+							<typ>S</typ>
+                			<stpid>8837</stpid>
+                			<stpnm>Damen &amp; Wellington</stpnm>
+                			<pdist>21099.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.935012416031</lat>
+						<lon>-87.678242325783</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.934038700171</lat>
+						<lon>-87.678210139275</lon>
+
+							<typ>S</typ>
+                			<stpid>8838</stpid>
+                			<stpnm>Damen &amp; George</stpnm>
+                			<pdist>21770.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.933224598451</lat>
+						<lon>-87.678188681602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.932506264775</lat>
+						<lon>-87.678177952766</lon>
+
+							<typ>S</typ>
+                			<stpid>8839</stpid>
+                			<stpnm>Damen &amp; Clybourn/Diversey</stpnm>
+                			<pdist>22385.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.931919619605</lat>
+						<lon>-87.678161859512</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.930518832785</lat>
+						<lon>-87.678344249725</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.9301875881</lat>
+						<lon>-87.678360342979</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.928567257986</lat>
+						<lon>-87.678177952766</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.927661291929</lat>
+						<lon>-87.678151130676</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.926483915936</lat>
+						<lon>-87.678049206734</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.925697656138</lat>
+						<lon>-87.677974104881</lon>
+
+							<typ>S</typ>
+                			<stpid>8840</stpid>
+                			<stpnm>Damen &amp; Elston</stpnm>
+                			<pdist>24895.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.925334456716</lat>
+						<lon>-87.677958011627</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.924867482992</lat>
+						<lon>-87.677931189537</lon>
+
+							<typ>S</typ>
+                			<stpid>8841</stpid>
+                			<stpnm>Damen &amp; Fullerton</stpnm>
+                			<pdist>25242.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.922672261571</lat>
+						<lon>-87.677850723267</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.921514750774</lat>
+						<lon>-87.67781317234</lon>
+
+							<typ>S</typ>
+                			<stpid>8842</stpid>
+                			<stpnm>Damen &amp; Webster</stpnm>
+                			<pdist>26405.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.92080426823</lat>
+						<lon>-87.677770256996</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.919674664528</lat>
+						<lon>-87.677738070488</lon>
+
+							<typ>S</typ>
+                			<stpid>8843</stpid>
+                			<stpnm>Damen &amp; Dickens </stpnm>
+                			<pdist>27197.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.917894400437</lat>
+						<lon>-87.677668333054</lon>
+
+							<typ>S</typ>
+                			<stpid>8844</stpid>
+                			<stpnm>Damen &amp; Armitage</stpnm>
+                			<pdist>27753.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.916333634784</lat>
+						<lon>-87.677641510963</lon>
+
+							<typ>S</typ>
+                			<stpid>8845</stpid>
+                			<stpnm>Damen &amp; Cortland </stpnm>
+                			<pdist>28317.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.914816741565</lat>
+						<lon>-87.677614688873</lon>
+
+							<typ>S</typ>
+                			<stpid>8846</stpid>
+                			<stpnm>Damen &amp; Churchill</stpnm>
+                			<pdist>28863.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.912413589561</lat>
+						<lon>-87.677534222603</lon>
+
+							<typ>S</typ>
+                			<stpid>8847</stpid>
+                			<stpnm>Damen &amp; Wabansia</stpnm>
+                			<pdist>29746.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.910665059977</lat>
+						<lon>-87.677496671677</lon>
+
+							<typ>S</typ>
+                			<stpid>8848</stpid>
+                			<stpnm>Damen &amp; Milwaukee/North Ave</stpnm>
+                			<pdist>30390.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.910193986739</lat>
+						<lon>-87.677485942841</lon>
+
+							<typ>S</typ>
+                			<stpid>8849</stpid>
+                			<stpnm>Damen &amp; Milwaukee/North Ave (Blue Line)</stpnm>
+                			<pdist>30571.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.909347643035</lat>
+						<lon>-87.67745912075</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.908393496819</lat>
+						<lon>-87.677426934242</lon>
+
+							<typ>S</typ>
+                			<stpid>8850</stpid>
+                			<stpnm>Damen &amp; Le Moyne</stpnm>
+                			<pdist>31222.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.907207780604</lat>
+						<lon>-87.677410840988</lon>
+
+							<typ>S</typ>
+                			<stpid>8851</stpid>
+                			<stpnm>Damen &amp; Schiller</stpnm>
+                			<pdist>31637.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.906145807319</lat>
+						<lon>-87.677367925644</lon>
+
+							<typ>S</typ>
+                			<stpid>8852</stpid>
+                			<stpnm>Damen &amp; Evergreen</stpnm>
+                			<pdist>32039.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.90515967345</lat>
+						<lon>-87.677346467972</lon>
+
+							<typ>S</typ>
+                			<stpid>8853</stpid>
+                			<stpnm>Damen &amp; Potomac</stpnm>
+                			<pdist>32415.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.903087544967</lat>
+						<lon>-87.67729818821</lon>
+
+							<typ>S</typ>
+                			<stpid>14963</stpid>
+                			<stpnm>Damen &amp; Division</stpnm>
+                			<pdist>33230.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.901466526672</lat>
+						<lon>-87.677266001701</lon>
+
+							<typ>S</typ>
+                			<stpid>8855</stpid>
+                			<stpnm>Damen &amp; Thomas</stpnm>
+                			<pdist>33737.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.899346364281</lat>
+						<lon>-87.677180171013</lon>
+
+							<typ>S</typ>
+                			<stpid>16045</stpid>
+                			<stpnm>Damen &amp; Augusta</stpnm>
+                			<pdist>34548.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.89785302498</lat>
+						<lon>-87.677137255669</lon>
+
+							<typ>S</typ>
+                			<stpid>8857</stpid>
+                			<stpnm>Damen &amp; Iowa</stpnm>
+                			<pdist>35061.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.896056180068</lat>
+						<lon>-87.677094340324</lon>
+
+							<typ>S</typ>
+                			<stpid>8858</stpid>
+                			<stpnm>Damen &amp; Chicago</stpnm>
+                			<pdist>35723.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.894215359858</lat>
+						<lon>-87.677046060562</lon>
+
+							<typ>S</typ>
+                			<stpid>8859</stpid>
+                			<stpnm>Damen &amp; Huron</stpnm>
+                			<pdist>36394.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.89240243951</lat>
+						<lon>-87.676981687546</lon>
+
+							<typ>S</typ>
+                			<stpid>8860</stpid>
+                			<stpnm>Damen &amp; Ohio</stpnm>
+                			<pdist>37054.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.890609434635</lat>
+						<lon>-87.676938772202</lon>
+
+							<typ>S</typ>
+                			<stpid>15902</stpid>
+                			<stpnm>Damen &amp; Grand</stpnm>
+                			<pdist>37732.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.889834713172</lat>
+						<lon>-87.676911950111</lon>
+
+							<typ>S</typ>
+                			<stpid>8862</stpid>
+                			<stpnm>Damen &amp; Hubbard</stpnm>
+                			<pdist>37983.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.887762087396</lat>
+						<lon>-87.676863670349</lon>
+
+							<typ>S</typ>
+                			<stpid>8863</stpid>
+                			<stpnm>Damen &amp; Carroll</stpnm>
+                			<pdist>38738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.886911452732</lat>
+						<lon>-87.676831483841</lon>
+
+							<typ>S</typ>
+                			<stpid>8864</stpid>
+                			<stpnm>Damen &amp; Fulton</stpnm>
+                			<pdist>39062.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.884770838394</lat>
+						<lon>-87.676767110825</lon>
+
+							<typ>S</typ>
+                			<stpid>14962</stpid>
+                			<stpnm>Damen &amp; Lake</stpnm>
+                			<pdist>39885.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.882993594761</lat>
+						<lon>-87.67672419548</lon>
+
+							<typ>S</typ>
+                			<stpid>17272</stpid>
+                			<stpnm>Damen &amp; Washington</stpnm>
+                			<pdist>40536.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.881048554625</lat>
+						<lon>-87.676654458046</lon>
+
+							<typ>S</typ>
+                			<stpid>17267</stpid>
+                			<stpnm>Damen &amp; Madison</stpnm>
+                			<pdist>41223.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.878596201984</lat>
+						<lon>-87.676611542702</lon>
+
+							<typ>S</typ>
+                			<stpid>17273</stpid>
+                			<stpnm>Damen &amp; Adams</stpnm>
+                			<pdist>42108.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.877162290961</lat>
+						<lon>-87.676579356194</lon>
+
+							<typ>S</typ>
+                			<stpid>15449</stpid>
+                			<stpnm>Damen &amp; Jackson</stpnm>
+                			<pdist>42582.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.875241039408</lat>
+						<lon>-87.676536440849</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.875137186327</lat>
+						<lon>-87.676579356194</lon>
+
+							<typ>S</typ>
+                			<stpid>44</stpid>
+                			<stpnm>Damen &amp; Congress</stpnm>
+                			<pdist>43230.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.87502534436</lat>
+						<lon>-87.676649093628</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.874146579231</lat>
+						<lon>-87.676611542702</lon>
+
+							<typ>S</typ>
+                			<stpid>8872</stpid>
+                			<stpnm>Damen &amp; Harrison</stpnm>
+                			<pdist>43597.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.872828408884</lat>
+						<lon>-87.676520347595</lon>
+
+							<typ>S</typ>
+                			<stpid>8873</stpid>
+                			<stpnm>Damen &amp; Ogden</stpnm>
+                			<pdist>44082.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.87165801061</lat>
+						<lon>-87.676493525505</lon>
+
+							<typ>S</typ>
+                			<stpid>8874</stpid>
+                			<stpnm>Damen &amp; Polk</stpnm>
+                			<pdist>44537.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.870231933237</lat>
+						<lon>-87.676445245743</lon>
+
+							<typ>S</typ>
+                			<stpid>8875</stpid>
+                			<stpnm>V.A. Medical Center</stpnm>
+                			<pdist>45060.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.869225271231</lat>
+						<lon>-87.676413059235</lon>
+
+							<typ>S</typ>
+                			<stpid>8876</stpid>
+                			<stpnm>Damen &amp; Taylor</stpnm>
+                			<pdist>45385.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.867020146681</lat>
+						<lon>-87.676391601563</lon>
+
+							<typ>S</typ>
+                			<stpid>8878</stpid>
+                			<stpnm>Damen &amp; Roosevelt</stpnm>
+                			<pdist>46204.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.865022685604</lat>
+						<lon>-87.676332592964</lon>
+
+							<typ>S</typ>
+                			<stpid>8880</stpid>
+                			<stpnm>Damen &amp; 13th Street</stpnm>
+                			<pdist>46910.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.864802961076</lat>
+						<lon>-87.676311135292</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.864711076049</lat>
+						<lon>-87.67626285553</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.864103832553</lat>
+						<lon>-87.676219940186</lon>
+
+							<typ>S</typ>
+                			<stpid>8881</stpid>
+                			<stpnm>Damen &amp; Hastings</stpnm>
+                			<pdist>47244.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.863188961395</lat>
+						<lon>-87.676198482513</lon>
+
+							<typ>S</typ>
+                			<stpid>8882</stpid>
+                			<stpnm>Damen &amp; 14th Street</stpnm>
+                			<pdist>47586.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.860640037342</lat>
+						<lon>-87.676112651825</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.858430621281</lat>
+						<lon>-87.676053643227</lon>
+
+							<typ>S</typ>
+                			<stpid>8883</stpid>
+                			<stpnm>Damen &amp; 17th Street</stpnm>
+                			<pdist>49361.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.857767382033</lat>
+						<lon>-87.676032185555</lon>
+
+							<typ>S</typ>
+                			<stpid>8884</stpid>
+                			<stpnm>Damen &amp; 18th Street</stpnm>
+                			<pdist>49576.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.855973405267</lat>
+						<lon>-87.675983905792</lon>
+
+							<typ>S</typ>
+                			<stpid>8885</stpid>
+                			<stpnm>Damen &amp; 19th Street</stpnm>
+                			<pdist>50244.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.85458293877</lat>
+						<lon>-87.675930261612</lon>
+
+							<typ>S</typ>
+                			<stpid>15200</stpid>
+                			<stpnm>Damen Pink Line Station</stpnm>
+                			<pdist>50717.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.852341347237</lat>
+						<lon>-87.675871253014</lon>
+
+							<typ>S</typ>
+                			<stpid>8888</stpid>
+                			<stpnm>Damen &amp; Cermak</stpnm>
+                			<pdist>51552.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.850471296336</lat>
+						<lon>-87.675828337669</lon>
+
+							<typ>S</typ>
+                			<stpid>8889</stpid>
+                			<stpnm>Damen &amp; 23rd Street</stpnm>
+                			<pdist>52224.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.849548238239</lat>
+						<lon>-87.675790786743</lon>
+
+							<typ>S</typ>
+                			<stpid>8890</stpid>
+                			<stpnm>Damen &amp; Coulter</stpnm>
+                			<pdist>52587.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.848481310337</lat>
+						<lon>-87.675780057907</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.848097691462</lat>
+						<lon>-87.675769329071</lon>
+
+							<typ>S</typ>
+                			<stpid>14961</stpid>
+                			<stpnm>Damen &amp; Blue Island</stpnm>
+                			<pdist>53093.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.846615142726</lat>
+						<lon>-87.675731778145</lon>
+
+							<typ>S</typ>
+                			<stpid>8755</stpid>
+                			<stpnm>2501 S Damen</stpnm>
+                			<pdist>53818.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.844856819366</lat>
+						<lon>-87.675710320473</lon>
+
+							<typ>S</typ>
+                			<stpid>8756</stpid>
+                			<stpnm>2608 S Damen</stpnm>
+                			<pdist>54631.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.843034505985</lat>
+						<lon>-87.675645947456</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.84215130473</lat>
+						<lon>-87.675565481186</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.841443935658</lat>
+						<lon>-87.675495743752</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.840628653128</lat>
+						<lon>-87.675452828407</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.839533600445</lat>
+						<lon>-87.675420641899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.838958090792</lat>
+						<lon>-87.675436735153</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.838802222704</lat>
+						<lon>-87.675479650497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.837615214809</lat>
+						<lon>-87.675549387932</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.836648006913</lat>
+						<lon>-87.675544023514</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.835900608981</lat>
+						<lon>-87.675511837006</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.835832663282</lat>
+						<lon>-87.675447463989</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.834265895383</lat>
+						<lon>-87.675415277481</lon>
+
+							<typ>S</typ>
+                			<stpid>8757</stpid>
+                			<stpnm>Damen &amp; 33rd Street</stpnm>
+                			<pdist>58306.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.831839727577</lat>
+						<lon>-87.675350904465</lon>
+
+							<typ>S</typ>
+                			<stpid>8758</stpid>
+                			<stpnm>Damen &amp; Archer</stpnm>
+                			<pdist>59098.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.830488707949</lat>
+						<lon>-87.677550315857</lon>
+
+							<typ>S</typ>
+                			<stpid>4485</stpid>
+                			<stpnm>Archer &amp; 35th Street/Hoyne</stpnm>
+                			<pdist>59882.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.830380785033</lat>
+						<lon>-87.677721977234</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.830368793587</lat>
+						<lon>-87.680205702782</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.830132961352</lat>
+						<lon>-87.680205702782</lon>
+
+							<typ>S</typ>
+                			<stpid>4486</stpid>
+                			<stpnm>Leavitt &amp; 35th Street</stpnm>
+                			<pdist>60752.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.829465431503</lat>
+						<lon>-87.680178880692</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.828861850617</lat>
+						<lon>-87.681171298027</lon>
+
+							<typ>S</typ>
+                			<stpid>14135</stpid>
+                			<stpnm>35th/Archer Orange Line Station</stpnm>
+                			<pdist>61325.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

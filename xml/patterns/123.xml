@@ -1,0 +1,576 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4496</pid>
+				<ln>8477.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.877993084555</lat>
+						<lon>-87.639774084091</lon>
+
+							<typ>S</typ>
+                			<stpid>67</stpid>
+                			<stpnm>Jackson &amp; Canal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.878017049594</lat>
+						<lon>-87.638207674026</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.878064979647</lat>
+						<lon>-87.636989951134</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.878068973816</lat>
+						<lon>-87.636630535126</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.878368535809</lat>
+						<lon>-87.63664662838</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.880589244925</lat>
+						<lon>-87.636694908142</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.881927224852</lat>
+						<lon>-87.63670027256</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.883273164452</lat>
+						<lon>-87.63675391674</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.884503256559</lat>
+						<lon>-87.636764645576</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.885014456702</lat>
+						<lon>-87.636775374413</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.885441784933</lat>
+						<lon>-87.636721730232</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.885773261873</lat>
+						<lon>-87.63664662838</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.885917034469</lat>
+						<lon>-87.636603713036</lon>
+
+							<typ>S</typ>
+                			<stpid>3946</stpid>
+                			<stpnm>Wacker (Upper) &amp; Lake</stpnm>
+                			<pdist>3830.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.886124705425</lat>
+						<lon>-87.636394500732</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.886687809813</lat>
+						<lon>-87.635546922684</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.886771675999</lat>
+						<lon>-87.635375261307</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.886787650498</lat>
+						<lon>-87.634828090668</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.886759695122</lat>
+						<lon>-87.632489204407</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.886795637747</lat>
+						<lon>-87.631013989449</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.886779663249</lat>
+						<lon>-87.627838253975</lon>
+
+							<typ>S</typ>
+                			<stpid>14223</stpid>
+                			<stpnm>Wacker (Upper) &amp; State</stpnm>
+                			<pdist>6132.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.88675170787</lat>
+						<lon>-87.626400589943</lon>
+
+							<typ>S</typ>
+                			<stpid>15497</stpid>
+                			<stpnm>Wacker Place &amp; Wabash</stpnm>
+                			<pdist>6373.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.886747714243</lat>
+						<lon>-87.624383568764</lon>
+
+							<typ>S</typ>
+                			<stpid>15682</stpid>
+                			<stpnm>South Water (Mid Level) &amp; Michigan</stpnm>
+                			<pdist>7037.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.886711771592</lat>
+						<lon>-87.622361183167</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.886699790703</lat>
+						<lon>-87.62049973011</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.887438607943</lat>
+						<lon>-87.62047290802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.887993713653</lat>
+						<lon>-87.620429992676</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.888045629768</lat>
+						<lon>-87.620837688446</lon>
+
+							<typ>S</typ>
+                			<stpid>14222</stpid>
+                			<stpnm>Wacker (Upper) &amp; Columbus</stpnm>
+                			<pdist>8477.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5855</pid>
+				<ln>8798.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.888045629768</lat>
+						<lon>-87.620837688446</lon>
+
+							<typ>S</typ>
+                			<stpid>14222</stpid>
+                			<stpnm>Wacker (Upper) &amp; Columbus</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.888273261465</lat>
+						<lon>-87.622436285019</lon>
+
+							<typ>S</typ>
+                			<stpid>14224</stpid>
+                			<stpnm>Wacker (Upper) &amp; Stetson</stpnm>
+                			<pdist>450.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.888321183824</lat>
+						<lon>-87.623198032379</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.888325177352</lat>
+						<lon>-87.62442111969</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.888361119096</lat>
+						<lon>-87.625054121017</lon>
+
+							<typ>S</typ>
+                			<stpid>1421</stpid>
+                			<stpnm>Wacker (Upper) &amp; Michigan</stpnm>
+                			<pdist>1014.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.88834514499</lat>
+						<lon>-87.625252604485</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.888269267933</lat>
+						<lon>-87.625494003296</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.888101539382</lat>
+						<lon>-87.625703215599</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.887374710573</lat>
+						<lon>-87.626363039017</lon>
+
+							<typ>S</typ>
+                			<stpid>14509</stpid>
+                			<stpnm>Wacker (Upper) &amp; Wabash</stpnm>
+                			<pdist>1483.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.88719100528</lat>
+						<lon>-87.626615166664</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.887119120456</lat>
+						<lon>-87.626727819443</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.887047235551</lat>
+						<lon>-87.626931667328</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.887007299457</lat>
+						<lon>-87.627130150795</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.886991325013</lat>
+						<lon>-87.628197669983</lon>
+
+							<typ>S</typ>
+                			<stpid>14225</stpid>
+                			<stpnm>Wacker &amp; State</stpnm>
+                			<pdist>2146.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.88698333779</lat>
+						<lon>-87.629587054253</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.886999312236</lat>
+						<lon>-87.631630897522</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.886995318625</lat>
+						<lon>-87.63340651989</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.886979344177</lat>
+						<lon>-87.635343074799</lon>
+
+							<typ>S</typ>
+                			<stpid>15009</stpid>
+                			<stpnm>Wacker (Upper) &amp; Orleans/Franklin</stpnm>
+                			<pdist>4169.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.886931420812</lat>
+						<lon>-87.635563015938</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.886851548455</lat>
+						<lon>-87.635718584061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.886092756091</lat>
+						<lon>-87.636850476265</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.885877097669</lat>
+						<lon>-87.636989951134</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.885393860414</lat>
+						<lon>-87.637086510658</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.884487281488</lat>
+						<lon>-87.637156248093</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.883289139826</lat>
+						<lon>-87.637118697166</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.879422982853</lat>
+						<lon>-87.637022137642</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.879355083378</lat>
+						<lon>-87.638711929321</lon>
+
+							<typ>S</typ>
+                			<stpid>14462</stpid>
+                			<stpnm>Adams &amp; Chicago River</stpnm>
+                			<pdist>7453.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.879311148385</lat>
+						<lon>-87.641136646271</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.878001072902</lat>
+						<lon>-87.641099095345</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.877993084555</lat>
+						<lon>-87.639774084091</lon>
+
+							<typ>S</typ>
+                			<stpid>67</stpid>
+                			<stpnm>Jackson &amp; Canal</stpnm>
+                			<pdist>8798.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

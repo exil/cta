@@ -1,0 +1,3339 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>5343</pid>
+				<ln>67640.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.894075599106</lat>
+						<lon>-87.620242238045</lon>
+
+							<typ>S</typ>
+                			<stpid>593</stpid>
+                			<stpnm>Fairbanks &amp; Erie</stpnm>
+                			<pdist>354.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.894902179677</lat>
+						<lon>-87.620263695717</lon>
+
+							<typ>S</typ>
+                			<stpid>594</stpid>
+                			<stpnm>Fairbanks &amp; Huron</stpnm>
+                			<pdist>655.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.896623189922</lat>
+						<lon>-87.620301246643</lon>
+
+							<typ>S</typ>
+                			<stpid>596</stpid>
+                			<stpnm>Fairbanks &amp; Chicago</stpnm>
+                			<pdist>1282.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.896822840081</lat>
+						<lon>-87.620311975479</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.896798882094</lat>
+						<lon>-87.621738910675</lon>
+
+							<typ>S</typ>
+                			<stpid>597</stpid>
+                			<stpnm>Chicago &amp; Mies Van Der Rohe</stpnm>
+                			<pdist>1730.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.89675495909665</lat>
+						<lon>-87.62435138225555</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.896615203903</lat>
+						<lon>-87.624383568764</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.896467462365</lat>
+						<lon>-87.624410390854</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.896323713514</lat>
+						<lon>-87.624415755272</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.895832569164</lat>
+						<lon>-87.624372839928</lon>
+
+							<typ>S</typ>
+                			<stpid>14488</stpid>
+                			<stpnm>Michigan &amp; Superior</stpnm>
+                			<pdist>2743.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.894351127152</lat>
+						<lon>-87.624362111092</lon>
+
+							<typ>S</typ>
+                			<stpid>1100</stpid>
+                			<stpnm>Michigan &amp; Erie</stpnm>
+                			<pdist>3308.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.892717907321</lat>
+						<lon>-87.624335289001</lon>
+
+							<typ>S</typ>
+                			<stpid>1101</stpid>
+                			<stpnm>Michigan &amp; Ohio</stpnm>
+                			<pdist>3889.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.891136559331</lat>
+						<lon>-87.624297738075</lon>
+
+							<typ>S</typ>
+                			<stpid>1102</stpid>
+                			<stpnm>Michigan &amp; Illinois</stpnm>
+                			<pdist>4432.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.890138213421</lat>
+						<lon>-87.624249458313</lon>
+
+							<typ>S</typ>
+                			<stpid>1103</stpid>
+                			<stpnm>Michigan &amp; Hubbard (Wrigley Bldg.)</stpnm>
+                			<pdist>4889.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.889623060829</lat>
+						<lon>-87.624313831329</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.888337157936</lat>
+						<lon>-87.624603509903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.888193390786</lat>
+						<lon>-87.624635696411</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.886935414427</lat>
+						<lon>-87.624651789665</lon>
+
+							<typ>S</typ>
+                			<stpid>1104</stpid>
+                			<stpnm>Michigan &amp; South Water</stpnm>
+                			<pdist>5950.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.885741312363</lat>
+						<lon>-87.624641060829</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.885106312544</lat>
+						<lon>-87.624635696411</lon>
+
+							<typ>S</typ>
+                			<stpid>1105</stpid>
+                			<stpnm>Michigan &amp; Lake/Randolph</stpnm>
+                			<pdist>6676.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.884527219157</lat>
+						<lon>-87.624619603157</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.883428924177</lat>
+						<lon>-87.624565958977</lon>
+
+							<typ>S</typ>
+                			<stpid>1106</stpid>
+                			<stpnm>Michigan &amp; Washington</stpnm>
+                			<pdist>7280.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.881216301693</lat>
+						<lon>-87.624523043633</lon>
+
+							<typ>S</typ>
+                			<stpid>1107</stpid>
+                			<stpnm>Michigan &amp; Madison/Monroe</stpnm>
+                			<pdist>8073.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.878428448039</lat>
+						<lon>-87.62444794178</lon>
+
+							<typ>S</typ>
+                			<stpid>1110</stpid>
+                			<stpnm>Michigan &amp; Jackson</stpnm>
+                			<pdist>9106.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.876275566652</lat>
+						<lon>-87.624405026436</lon>
+
+							<typ>S</typ>
+                			<stpid>73</stpid>
+                			<stpnm>Michigan &amp; Van Buren/Congress</stpnm>
+                			<pdist>9847.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.874573980144</lat>
+						<lon>-87.624356746674</lon>
+
+							<typ>S</typ>
+                			<stpid>1586</stpid>
+                			<stpnm>Michigan &amp; Harrison</stpnm>
+                			<pdist>10486.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.873279785427</lat>
+						<lon>-87.624335289001</lon>
+
+							<typ>S</typ>
+                			<stpid>1587</stpid>
+                			<stpnm>Michigan &amp; Balbo</stpnm>
+                			<pdist>10989.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.871981569955</lat>
+						<lon>-87.624297738075</lon>
+
+							<typ>S</typ>
+                			<stpid>1588</stpid>
+                			<stpnm>Michigan &amp; 8th Street</stpnm>
+                			<pdist>11451.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.870279869128</lat>
+						<lon>-87.624254822731</lon>
+
+							<typ>S</typ>
+                			<stpid>1589</stpid>
+                			<stpnm>Michigan &amp; 9th Street</stpnm>
+                			<pdist>12089.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.86908545581</lat>
+						<lon>-87.624228000641</lon>
+
+							<typ>S</typ>
+                			<stpid>1590</stpid>
+                			<stpnm>Michigan &amp; 11th Street</stpnm>
+                			<pdist>12635.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.867359708858</lat>
+						<lon>-87.624238729477</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.86719192542</lat>
+						<lon>-87.624228000641</lon>
+
+							<typ>S</typ>
+                			<stpid>1591</stpid>
+                			<stpnm>Michigan &amp; Roosevelt</stpnm>
+                			<pdist>13399.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.867151976917</lat>
+						<lon>-87.624163627625</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.865589970895</lat>
+						<lon>-87.624136805534</lon>
+
+							<typ>S</typ>
+                			<stpid>1592</stpid>
+                			<stpnm>Michigan &amp; 13th Street</stpnm>
+                			<pdist>13850.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.864279614158</lat>
+						<lon>-87.624115347862</lon>
+
+							<typ>S</typ>
+                			<stpid>15956</stpid>
+                			<stpnm>Michigan &amp; 14th Street</stpnm>
+                			<pdist>14330.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.861782671034</lat>
+						<lon>-87.624061703682</lon>
+
+							<typ>S</typ>
+                			<stpid>1594</stpid>
+                			<stpnm>1510 S Michigan</stpnm>
+                			<pdist>15236.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.85992488209</lat>
+						<lon>-87.62401342392</lon>
+
+							<typ>S</typ>
+                			<stpid>1595</stpid>
+                			<stpnm>Michigan &amp; 16th Street</stpnm>
+                			<pdist>15970.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.857635532448</lat>
+						<lon>-87.623975872993</lon>
+
+							<typ>S</typ>
+                			<stpid>1596</stpid>
+                			<stpnm>Michigan &amp; 18th Street</stpnm>
+                			<pdist>16841.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.855314136127</lat>
+						<lon>-87.623922228813</lon>
+
+							<typ>S</typ>
+                			<stpid>1597</stpid>
+                			<stpnm>Michigan &amp; Cullerton</stpnm>
+                			<pdist>17701.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.854015555825</lat>
+						<lon>-87.623895406723</lon>
+
+							<typ>S</typ>
+                			<stpid>1598</stpid>
+                			<stpnm>Michigan &amp; 21st Street</stpnm>
+                			<pdist>18143.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.85275291092805</lat>
+						<lon>-87.62385249137878</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.852756906679</lat>
+						<lon>-87.623627185822</lon>
+
+							<typ>S</typ>
+                			<stpid>17079</stpid>
+                			<stpnm>Cermak &amp; Michigan</stpnm>
+                			<pdist>18661.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.85280885142</lat>
+						<lon>-87.620757222176</lon>
+
+							<typ>S</typ>
+                			<stpid>17088</stpid>
+                			<stpnm>Cermak &amp; Prairie</stpnm>
+                			<pdist>19323.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.8528168429143</lat>
+						<lon>-87.61981308460236</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.852804855671764</lat>
+						<lon>-87.6196414232254</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.852764898180325</lat>
+						<lon>-87.61952877044678</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.85270895765</lat>
+						<lon>-87.619426846504</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.852633038282</lat>
+						<lon>-87.619308829308</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.852501178111</lat>
+						<lon>-87.619142532349</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.8524132711795</lat>
+						<lon>-87.61907815933228</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.85227341899413</lat>
+						<lon>-87.61905670166016</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.851118627834</lat>
+						<lon>-87.619008421898</lon>
+
+							<typ>S</typ>
+                			<stpid>2192</stpid>
+                			<stpnm>McCormick Place</stpnm>
+                			<pdist>20333.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.851002747986</lat>
+						<lon>-87.619019150734</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.850898855529</lat>
+						<lon>-87.619088888168</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.850231542266</lat>
+						<lon>-87.61905670166</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.84990787284744</lat>
+						<lon>-87.61897623538971</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.849716067974</lat>
+						<lon>-87.618890404701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.849424363628</lat>
+						<lon>-87.618627548218</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.84915663381021</lat>
+						<lon>-87.61835932731628</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.848924866795</lat>
+						<lon>-87.618134021759</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.848621170814</lat>
+						<lon>-87.617871165276</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.848473318301</lat>
+						<lon>-87.617806792259</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.848289501187</lat>
+						<lon>-87.617779970169</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.84731046635704</lat>
+						<lon>-87.6177316904068</lon>
+
+							<typ>S</typ>
+                			<stpid>2193</stpid>
+                			<stpnm>King Drive &amp; 25th Street</stpnm>
+                			<pdist>21778.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.845476234245</lat>
+						<lon>-87.617683410645</lon>
+
+							<typ>S</typ>
+                			<stpid>2194</stpid>
+                			<stpnm>King Drive &amp; 26th Street</stpnm>
+                			<pdist>22440.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.843378191866</lat>
+						<lon>-87.6176404953</lon>
+
+							<typ>S</typ>
+                			<stpid>2195</stpid>
+                			<stpnm>2800 S King Drive</stpnm>
+                			<pdist>23195.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.841899530193956</lat>
+						<lon>-87.61761903762817</lon>
+
+							<typ>S</typ>
+                			<stpid>2196</stpid>
+                			<stpnm>King Drive &amp; 29th Street</stpnm>
+                			<pdist>23781.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.840236994102</lat>
+						<lon>-87.61756002903</lon>
+
+							<typ>S</typ>
+                			<stpid>2197</stpid>
+                			<stpnm>3000 S King Drive</stpnm>
+                			<pdist>24447.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.838562424904</lat>
+						<lon>-87.617522478104</lon>
+
+							<typ>S</typ>
+                			<stpid>2198</stpid>
+                			<stpnm>King Drive &amp; 31st Street</stpnm>
+                			<pdist>24993.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.836296291326</lat>
+						<lon>-87.617452740669</lon>
+
+							<typ>S</typ>
+                			<stpid>2199</stpid>
+                			<stpnm>King Drive &amp; 32nd Street</stpnm>
+                			<pdist>25851.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.834897403385</lat>
+						<lon>-87.617425918579</lon>
+
+							<typ>S</typ>
+                			<stpid>17300</stpid>
+                			<stpnm>King Drive &amp; 33rd Street</stpnm>
+                			<pdist>26347.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.832543205798</lat>
+						<lon>-87.617372274399</lon>
+
+							<typ>S</typ>
+                			<stpid>2201</stpid>
+                			<stpnm>3400 S King Drive</stpnm>
+                			<pdist>27210.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.83086443816385</lat>
+						<lon>-87.61735081672668</lon>
+
+							<typ>S</typ>
+                			<stpid>2202</stpid>
+                			<stpnm>King Drive &amp; 35th Street</stpnm>
+                			<pdist>27820.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.830652590548</lat>
+						<lon>-87.617334723473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.830192918782394</lat>
+						<lon>-87.61724889278412</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.8300690066981</lat>
+						<lon>-87.61716842651367</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.82924958203853</lat>
+						<lon>-87.61715769767761</lon>
+
+							<typ>S</typ>
+                			<stpid>2203</stpid>
+                			<stpnm>3600 S King Drive</stpnm>
+                			<pdist>28405.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.82739884286893</lat>
+						<lon>-87.61710941791534</lon>
+
+							<typ>S</typ>
+                			<stpid>2204</stpid>
+                			<stpnm>King Drive &amp; 37th Street</stpnm>
+                			<pdist>29151.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.82553206039271</lat>
+						<lon>-87.61707186698914</lon>
+
+							<typ>S</typ>
+                			<stpid>2205</stpid>
+                			<stpnm>King Drive &amp; 38th Street</stpnm>
+                			<pdist>29803.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.82367321861938</lat>
+						<lon>-87.61703431606293</lon>
+
+							<typ>S</typ>
+                			<stpid>2206</stpid>
+                			<stpnm>King Drive &amp; Pershing</stpnm>
+                			<pdist>30501.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.82254989237728</lat>
+						<lon>-87.61700749397278</lon>
+
+							<typ>S</typ>
+                			<stpid>2207</stpid>
+                			<stpnm>King Drive &amp; Oakwood Boulevard</stpnm>
+                			<pdist>30912.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.82008730041589</lat>
+						<lon>-87.61692702770233</lon>
+
+							<typ>S</typ>
+                			<stpid>2208</stpid>
+                			<stpnm>King Drive &amp; 41st Street</stpnm>
+                			<pdist>31804.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.81827627544211</lat>
+						<lon>-87.61688947677612</lon>
+
+							<typ>S</typ>
+                			<stpid>2209</stpid>
+                			<stpnm>King Drive &amp; 42nd Street</stpnm>
+                			<pdist>32469.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.816513175441</lat>
+						<lon>-87.616830468178</lon>
+
+							<typ>S</typ>
+                			<stpid>2210</stpid>
+                			<stpnm>King Drive &amp; 43rd Street</stpnm>
+                			<pdist>33141.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.8147060475196</lat>
+						<lon>-87.61678218841553</lon>
+
+							<typ>S</typ>
+                			<stpid>2211</stpid>
+                			<stpnm>King Drive &amp; 44th Street</stpnm>
+                			<pdist>33776.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.81288287564753</lat>
+						<lon>-87.61673390865326</lon>
+
+							<typ>S</typ>
+                			<stpid>2212</stpid>
+                			<stpnm>King Drive &amp; 45th Street</stpnm>
+                			<pdist>34452.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.811091638709</lat>
+						<lon>-87.616685628891</lon>
+
+							<typ>S</typ>
+                			<stpid>2213</stpid>
+                			<stpnm>King Drive &amp; 46th Street</stpnm>
+                			<pdist>35114.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.809160405272</lat>
+						<lon>-87.616637349129</lon>
+
+							<typ>S</typ>
+                			<stpid>2214</stpid>
+                			<stpnm>King Drive &amp; 47th Street</stpnm>
+                			<pdist>35798.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.807373062825256</lat>
+						<lon>-87.61659443378448</lon>
+
+							<typ>S</typ>
+                			<stpid>2215</stpid>
+                			<stpnm>King Drive &amp; 48th Street</stpnm>
+                			<pdist>36425.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.805593667904546</lat>
+						<lon>-87.61654615402222</lon>
+
+							<typ>S</typ>
+                			<stpid>2216</stpid>
+                			<stpnm>King Drive &amp; 49th Street</stpnm>
+                			<pdist>37081.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.80365027227245</lat>
+						<lon>-87.61650860309601</lon>
+
+							<typ>S</typ>
+                			<stpid>2217</stpid>
+                			<stpnm>King Drive &amp; 50th Street</stpnm>
+                			<pdist>37806.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.80345033110604</lat>
+						<lon>-87.61649787425995</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.803178410118</lat>
+						<lon>-87.616460323334</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.802138701583</lat>
+						<lon>-87.616165280342</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.8020027384507</lat>
+						<lon>-87.61618137359619</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.801878771814</lat>
+						<lon>-87.616202831268</lon>
+
+							<typ>S</typ>
+                			<stpid>2218</stpid>
+                			<stpnm>King Drive &amp; 51st Street</stpnm>
+                			<pdist>38464.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.800355162267</lat>
+						<lon>-87.616159915924</lon>
+
+							<typ>S</typ>
+                			<stpid>2219</stpid>
+                			<stpnm>5200 S King Drive</stpnm>
+                			<pdist>39011.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.798259640095</lat>
+						<lon>-87.616100907326</lon>
+
+							<typ>S</typ>
+                			<stpid>2220</stpid>
+                			<stpnm>King Drive &amp; 53rd Street</stpnm>
+                			<pdist>39773.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.796463995018215</lat>
+						<lon>-87.61605262756348</lon>
+
+							<typ>S</typ>
+                			<stpid>2221</stpid>
+                			<stpnm>King Drive &amp; 54th Street</stpnm>
+                			<pdist>40433.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.794936257369</lat>
+						<lon>-87.616015076637</lon>
+
+							<typ>S</typ>
+                			<stpid>2222</stpid>
+                			<stpnm>King Drive &amp; Garfield </stpnm>
+                			<pdist>40956.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.794228366584136</lat>
+						<lon>-87.61599361896515</lon>
+
+							<typ>S</typ>
+                			<stpid>2223</stpid>
+                			<stpnm>King Drive &amp; Garfield </stpnm>
+                			<pdist>41234.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.79276456762</lat>
+						<lon>-87.615956068039</lon>
+
+							<typ>S</typ>
+                			<stpid>2224</stpid>
+                			<stpnm>King Drive &amp; 56th Street</stpnm>
+                			<pdist>41747.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.791024763079</lat>
+						<lon>-87.615923881531</lon>
+
+							<typ>S</typ>
+                			<stpid>2225</stpid>
+                			<stpnm>King Drive &amp; 57th Street</stpnm>
+                			<pdist>42434.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.78919691755903</lat>
+						<lon>-87.6158756017685</lon>
+
+							<typ>S</typ>
+                			<stpid>2226</stpid>
+                			<stpnm>King Drive &amp; 58th Street</stpnm>
+                			<pdist>43109.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.787413018069</lat>
+						<lon>-87.615832686424</lon>
+
+							<typ>S</typ>
+                			<stpid>2227</stpid>
+                			<stpnm>King Drive &amp; 59th Street</stpnm>
+                			<pdist>43773.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.78580506612793</lat>
+						<lon>-87.61579513549805</lon>
+
+							<typ>S</typ>
+                			<stpid>2228</stpid>
+                			<stpnm>King Drive &amp; 60th Street</stpnm>
+                			<pdist>44294.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.783729068533</lat>
+						<lon>-87.615752220154</lon>
+
+							<typ>S</typ>
+                			<stpid>2229</stpid>
+                			<stpnm>King Drive &amp; 61st Street</stpnm>
+                			<pdist>45090.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.781969017922</lat>
+						<lon>-87.615714669228</lon>
+
+							<typ>S</typ>
+                			<stpid>2230</stpid>
+                			<stpnm>King Drive &amp; 62nd Street</stpnm>
+                			<pdist>45729.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.780432934273</lat>
+						<lon>-87.615666389465</lon>
+
+							<typ>S</typ>
+                			<stpid>15537</stpid>
+                			<stpnm>King Drive &amp; 63rd Street (Green Line)</stpnm>
+                			<pdist>46263.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.77996090117726</lat>
+						<lon>-87.61567175388336</lon>
+
+							<typ>S</typ>
+                			<stpid>2231</stpid>
+                			<stpnm>King Drive &amp; 63rd Street</stpnm>
+                			<pdist>46418.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.778132740215234</lat>
+						<lon>-87.61562883853912</lon>
+
+							<typ>S</typ>
+                			<stpid>2232</stpid>
+                			<stpnm>King Drive &amp; 64th Street</stpnm>
+                			<pdist>47062.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.77645254632738</lat>
+						<lon>-87.61560201644897</lon>
+
+							<typ>S</typ>
+                			<stpid>2233</stpid>
+                			<stpnm>King Drive &amp; 65th Street</stpnm>
+                			<pdist>47785.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.774668292246545</lat>
+						<lon>-87.61555910110474</lon>
+
+							<typ>S</typ>
+                			<stpid>2234</stpid>
+                			<stpnm>King Drive &amp; 66th Street</stpnm>
+                			<pdist>48428.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.77315203732289</lat>
+						<lon>-87.6155161857605</lon>
+
+							<typ>S</typ>
+                			<stpid>2235</stpid>
+                			<stpnm>King Drive &amp; Marquette Rd</stpnm>
+                			<pdist>48908.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.7726599468865</lat>
+						<lon>-87.61550009250641</lon>
+
+							<typ>S</typ>
+                			<stpid>2236</stpid>
+                			<stpnm>King Drive &amp; Marquette Rd/S. Chicago</stpnm>
+                			<pdist>49142.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.771167649553</lat>
+						<lon>-87.61548936367</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.77055551755</lat>
+						<lon>-87.615451812744</lon>
+
+							<typ>S</typ>
+                			<stpid>2237</stpid>
+                			<stpnm>King Drive &amp; Anthony</stpnm>
+                			<pdist>49910.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.769491274148</lat>
+						<lon>-87.615414261818</lon>
+
+							<typ>S</typ>
+                			<stpid>2238</stpid>
+                			<stpnm>King Drive &amp; 69th Street</stpnm>
+                			<pdist>50308.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.767622804114</lat>
+						<lon>-87.615339159966</lon>
+
+							<typ>S</typ>
+                			<stpid>2239</stpid>
+                			<stpnm>King Drive &amp; 70th Street</stpnm>
+                			<pdist>51109.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.765614238162</lat>
+						<lon>-87.615296244621</lon>
+
+							<typ>S</typ>
+                			<stpid>2240</stpid>
+                			<stpnm>King Drive &amp; 71st Street</stpnm>
+                			<pdist>51744.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.763761660435</lat>
+						<lon>-87.615258693695</lon>
+
+							<typ>S</typ>
+                			<stpid>2241</stpid>
+                			<stpnm>King Drive &amp; 72nd Street</stpnm>
+                			<pdist>52452.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.761949043414816</lat>
+						<lon>-87.61522650718689</lon>
+
+							<typ>S</typ>
+                			<stpid>2242</stpid>
+                			<stpnm>King Drive &amp; 73rd Street</stpnm>
+                			<pdist>53124.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.760164385905796</lat>
+						<lon>-87.61516213417053</lon>
+
+							<typ>S</typ>
+                			<stpid>2243</stpid>
+                			<stpnm>King Drive &amp; 74th Street</stpnm>
+                			<pdist>53772.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.7584557099</lat>
+						<lon>-87.615146040916</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.75821160961373</lat>
+						<lon>-87.61515140533447</lon>
+
+							<typ>S</typ>
+                			<stpid>2244</stpid>
+                			<stpnm>King Drive &amp; 75th Street</stpnm>
+                			<pdist>54440.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.75649887985541</lat>
+						<lon>-87.6151192188263</lon>
+
+							<typ>S</typ>
+                			<stpid>2245</stpid>
+                			<stpnm>King Drive &amp; 76th Street</stpnm>
+                			<pdist>55142.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.75467805393701</lat>
+						<lon>-87.61508703231812</lon>
+
+							<typ>S</typ>
+                			<stpid>2246</stpid>
+                			<stpnm>King Drive &amp; 77th Street</stpnm>
+                			<pdist>55769.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.75283716643175</lat>
+						<lon>-87.61504411697388</lon>
+
+							<typ>S</typ>
+                			<stpid>2247</stpid>
+                			<stpnm>King Drive &amp; 78th Street</stpnm>
+                			<pdist>56449.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.75058000622122</lat>
+						<lon>-87.61499047279358</lon>
+
+							<typ>S</typ>
+                			<stpid>17363</stpid>
+                			<stpnm>King Drive &amp; 79th Street</stpnm>
+                			<pdist>57218.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.74942338096153</lat>
+						<lon>-87.61497974395752</lon>
+
+							<typ>S</typ>
+                			<stpid>2249</stpid>
+                			<stpnm>King Drive &amp; 80th Street</stpnm>
+                			<pdist>57640.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.74736221508814</lat>
+						<lon>-87.61491000652313</lon>
+
+							<typ>S</typ>
+                			<stpid>2250</stpid>
+                			<stpnm>King Drive &amp; 81st Street</stpnm>
+                			<pdist>58466.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.745517115329946</lat>
+						<lon>-87.61486172676086</lon>
+
+							<typ>S</typ>
+                			<stpid>2251</stpid>
+                			<stpnm>King Drive &amp; 82nd Street</stpnm>
+                			<pdist>59109.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.74400817654854</lat>
+						<lon>-87.61482417583466</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.743727998335</lat>
+						<lon>-87.614770531654</lon>
+
+							<typ>S</typ>
+                			<stpid>2252</stpid>
+                			<stpnm>King Drive &amp; 83rd Street</stpnm>
+                			<pdist>59802.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.74184677009966</lat>
+						<lon>-87.61473298072815</lon>
+
+							<typ>S</typ>
+                			<stpid>2253</stpid>
+                			<stpnm>King Drive &amp; 84th Street</stpnm>
+                			<pdist>60466.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.74002552855785</lat>
+						<lon>-87.61467397212982</lon>
+
+							<typ>S</typ>
+                			<stpid>2254</stpid>
+                			<stpnm>King Drive &amp; 85th Street</stpnm>
+                			<pdist>61113.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.73824426433982</lat>
+						<lon>-87.61462569236755</lon>
+
+							<typ>S</typ>
+                			<stpid>2255</stpid>
+                			<stpnm>King Drive &amp; 86th Street</stpnm>
+                			<pdist>61806.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.736398902562826</lat>
+						<lon>-87.61457204818726</lon>
+
+							<typ>S</typ>
+                			<stpid>2256</stpid>
+                			<stpnm>King Drive &amp; 87th Street</stpnm>
+                			<pdist>62458.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.73553824932965</lat>
+						<lon>-87.61453986167908</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.734533472127</lat>
+						<lon>-87.614480853081</lon>
+
+							<typ>S</typ>
+                			<stpid>2257</stpid>
+                			<stpnm>King Drive &amp; 88th Street</stpnm>
+                			<pdist>63142.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.733764867002</lat>
+						<lon>-87.614475488663</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.73271602642059</lat>
+						<lon>-87.61443793773651</lon>
+
+							<typ>S</typ>
+                			<stpid>2258</stpid>
+                			<stpnm>King Drive &amp; 89th Street</stpnm>
+                			<pdist>63814.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.730930556116</lat>
+						<lon>-87.614411115646</lon>
+
+							<typ>S</typ>
+                			<stpid>2259</stpid>
+                			<stpnm>King Drive &amp; 90th Street</stpnm>
+                			<pdist>64449.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.729105001535</lat>
+						<lon>-87.614368200302</lon>
+
+							<typ>S</typ>
+                			<stpid>2260</stpid>
+                			<stpnm>King Drive &amp; 91st Street</stpnm>
+                			<pdist>65132.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.726895050263536</lat>
+						<lon>-87.61432528495789</lon>
+
+							<typ>S</typ>
+                			<stpid>2261</stpid>
+                			<stpnm>King Drive &amp; Burnside</stpnm>
+                			<pdist>65907.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>41.72542971457295</lat>
+						<lon>-87.61427700519562</lon>
+
+							<typ>S</typ>
+                			<stpid>2262</stpid>
+                			<stpnm>King Drive &amp; 93rd Street</stpnm>
+                			<pdist>66443.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>41.723471877847935</lat>
+						<lon>-87.61421799659729</lon>
+
+							<typ>S</typ>
+                			<stpid>2263</stpid>
+                			<stpnm>King Drive &amp; 94th Street</stpnm>
+                			<pdist>67151.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>41.72205851487348</lat>
+						<lon>-87.61419653892517</lon>
+
+							<typ>S</typ>
+                			<stpid>16000</stpid>
+                			<stpnm>King Drive &amp; 95th Street</stpnm>
+                			<pdist>67640.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5342</pid>
+				<ln>67788.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.72223068256435</lat>
+						<lon>-87.61410534381866</lon>
+
+							<typ>S</typ>
+                			<stpid>16001</stpid>
+                			<stpnm>King Drive &amp; 95th Street</stpnm>
+                			<pdist>1166.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.72379218241624</lat>
+						<lon>-87.61414289474487</lon>
+
+							<typ>S</typ>
+                			<stpid>2106</stpid>
+                			<stpnm>King Drive &amp; 94th Street</stpnm>
+                			<pdist>1794.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.725641910061995</lat>
+						<lon>-87.61418581008911</lon>
+
+							<typ>S</typ>
+                			<stpid>2107</stpid>
+                			<stpnm>King Drive &amp; 93rd Street</stpnm>
+                			<pdist>2402.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.72706720499507</lat>
+						<lon>-87.61423945426941</lon>
+
+							<typ>S</typ>
+                			<stpid>2108</stpid>
+                			<stpnm>King Drive &amp; Burnside</stpnm>
+                			<pdist>2923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.72928916070955</lat>
+						<lon>-87.61428236961365</lon>
+
+							<typ>S</typ>
+                			<stpid>2109</stpid>
+                			<stpnm>King Drive &amp; 91st Street</stpnm>
+                			<pdist>3782.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.731134726758</lat>
+						<lon>-87.614325284958</lon>
+
+							<typ>S</typ>
+                			<stpid>2110</stpid>
+                			<stpnm>King Drive &amp; 90th Street</stpnm>
+                			<pdist>4471.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.732944210753</lat>
+						<lon>-87.614352107048</lon>
+
+							<typ>S</typ>
+                			<stpid>2111</stpid>
+                			<stpnm>King Drive &amp; 89th Street</stpnm>
+                			<pdist>5122.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.734773659342</lat>
+						<lon>-87.614416480064</lon>
+
+							<typ>S</typ>
+                			<stpid>2112</stpid>
+                			<stpnm>King Drive &amp; 88th Street</stpnm>
+                			<pdist>5764.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.736683115749</lat>
+						<lon>-87.614486217499</lon>
+
+							<typ>S</typ>
+                			<stpid>2113</stpid>
+                			<stpnm>King Drive &amp; 87th Street</stpnm>
+                			<pdist>6458.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.73858450963704</lat>
+						<lon>-87.6145452260971</lon>
+
+							<typ>S</typ>
+                			<stpid>2114</stpid>
+                			<stpnm>King Drive &amp; 86th Street</stpnm>
+                			<pdist>7104.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.74022566751723</lat>
+						<lon>-87.61458277702332</lon>
+
+							<typ>S</typ>
+                			<stpid>2115</stpid>
+                			<stpnm>King Drive &amp; 85th Street</stpnm>
+                			<pdist>7777.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.742126956521474</lat>
+						<lon>-87.61463642120361</lon>
+
+							<typ>S</typ>
+                			<stpid>2116</stpid>
+                			<stpnm>King Drive &amp; 84th Street</stpnm>
+                			<pdist>8466.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.743812051927755</lat>
+						<lon>-87.61469006538391</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.74390010795403</lat>
+						<lon>-87.61471152305603</lon>
+
+							<typ>S</typ>
+                			<stpid>2117</stpid>
+                			<stpnm>King Drive &amp; 83rd Street</stpnm>
+                			<pdist>9183.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.74400817654854</lat>
+						<lon>-87.61472761631012</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.745741251752555</lat>
+						<lon>-87.61478126049042</lon>
+
+							<typ>S</typ>
+                			<stpid>2118</stpid>
+                			<stpnm>King Drive &amp; 82nd Street</stpnm>
+                			<pdist>9797.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.74761836357431</lat>
+						<lon>-87.61482954025269</lon>
+
+							<typ>S</typ>
+                			<stpid>2119</stpid>
+                			<stpnm>King Drive &amp; 81st Street</stpnm>
+                			<pdist>10474.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.74938736115518</lat>
+						<lon>-87.61487782001495</lon>
+
+							<typ>S</typ>
+                			<stpid>2120</stpid>
+                			<stpnm>King Drive &amp; 80th Street</stpnm>
+                			<pdist>11093.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.75122834759785</lat>
+						<lon>-87.61491537094116</lon>
+
+							<typ>S</typ>
+                			<stpid>2121</stpid>
+                			<stpnm>King Drive &amp; 79th Street</stpnm>
+                			<pdist>11803.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.75306127729841</lat>
+						<lon>-87.61495292186737</lon>
+
+							<typ>S</typ>
+                			<stpid>2122</stpid>
+                			<stpnm>King Drive &amp; 78th Street</stpnm>
+                			<pdist>12461.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.7549101620916</lat>
+						<lon>-87.61500656604767</lon>
+
+							<typ>S</typ>
+                			<stpid>2123</stpid>
+                			<stpnm>King Drive &amp; 77th Street</stpnm>
+                			<pdist>13132.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.75675099014196</lat>
+						<lon>-87.61503875255585</lon>
+
+							<typ>S</typ>
+                			<stpid>2124</stpid>
+                			<stpnm>King Drive &amp; 76th Street</stpnm>
+                			<pdist>13791.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.758571757251</lat>
+						<lon>-87.615060210228</lon>
+
+							<typ>S</typ>
+                			<stpid>2125</stpid>
+                			<stpnm>King Drive &amp; 75th Street</stpnm>
+                			<pdist>14455.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.760396474219</lat>
+						<lon>-87.615076303482</lon>
+
+							<typ>S</typ>
+                			<stpid>2126</stpid>
+                			<stpnm>King Drive &amp; 74th Street</stpnm>
+                			<pdist>15143.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.762249149107</lat>
+						<lon>-87.615146040916</lon>
+
+							<typ>S</typ>
+                			<stpid>17381</stpid>
+                			<stpnm>King Drive &amp; 73rd Street</stpnm>
+                			<pdist>15627.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.764025746058</lat>
+						<lon>-87.615178227425</lon>
+
+							<typ>S</typ>
+                			<stpid>2128</stpid>
+                			<stpnm>King Drive &amp; 72nd Street</stpnm>
+                			<pdist>16422.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.765918327883</lat>
+						<lon>-87.615215778351</lon>
+
+							<typ>S</typ>
+                			<stpid>2129</stpid>
+                			<stpnm>King Drive &amp; 71st Street</stpnm>
+                			<pdist>17103.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.7665905211</lat>
+						<lon>-87.615221142769</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.767646810498</lat>
+						<lon>-87.615253329277</lon>
+
+							<typ>S</typ>
+                			<stpid>2130</stpid>
+                			<stpnm>King Drive &amp; 70th Street</stpnm>
+                			<pdist>17751.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.769441262276</lat>
+						<lon>-87.615320384502</lon>
+
+							<typ>S</typ>
+                			<stpid>2131</stpid>
+                			<stpnm>King Drive &amp; 69th Street</stpnm>
+                			<pdist>18414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.770483501636</lat>
+						<lon>-87.615349888802</lon>
+
+							<typ>S</typ>
+                			<stpid>2132</stpid>
+                			<stpnm>King Drive &amp; Anthony</stpnm>
+                			<pdist>18737.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.771031620724</lat>
+						<lon>-87.615398168564</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.77261993936799</lat>
+						<lon>-87.6154088973999</lon>
+
+							<typ>S</typ>
+                			<stpid>2133</stpid>
+                			<stpnm>King Drive &amp; Marquette Rd/S. Chicago</stpnm>
+                			<pdist>19539.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.77312003155562</lat>
+						<lon>-87.61542499065399</lon>
+
+							<typ>S</typ>
+                			<stpid>2134</stpid>
+                			<stpnm>King Drive &amp; Marquette Rd</stpnm>
+                			<pdist>19753.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.77502834751606</lat>
+						<lon>-87.61547327041626</lon>
+
+							<typ>S</typ>
+                			<stpid>2135</stpid>
+                			<stpnm>King Drive &amp; 66th Street</stpnm>
+                			<pdist>20418.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.776720580208035</lat>
+						<lon>-87.61551082134247</lon>
+
+							<typ>S</typ>
+                			<stpid>2136</stpid>
+                			<stpnm>King Drive &amp; 65th Street</stpnm>
+                			<pdist>21080.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.77829675678411</lat>
+						<lon>-87.61554837226868</lon>
+
+							<typ>S</typ>
+                			<stpid>2137</stpid>
+                			<stpnm>King Drive &amp; 64th Street</stpnm>
+                			<pdist>21617.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.780164915908</lat>
+						<lon>-87.615575194359</lon>
+
+							<typ>S</typ>
+                			<stpid>2138</stpid>
+                			<stpnm>King Drive &amp; 63rd Street (Green Line)</stpnm>
+                			<pdist>22420.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.78222902844</lat>
+						<lon>-87.615623474121</lon>
+
+							<typ>S</typ>
+                			<stpid>2139</stpid>
+                			<stpnm>King Drive &amp; 62nd Street</stpnm>
+                			<pdist>23086.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.783785069349804</lat>
+						<lon>-87.6156610250473</lon>
+
+							<typ>S</typ>
+                			<stpid>2140</stpid>
+                			<stpnm>King Drive &amp; 61st Street</stpnm>
+                			<pdist>23745.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.78562906894</lat>
+						<lon>-87.615687847137</lon>
+
+							<typ>S</typ>
+                			<stpid>2141</stpid>
+                			<stpnm>King Drive &amp; 60th Street</stpnm>
+                			<pdist>24287.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.7876730065107</lat>
+						<lon>-87.61575758457184</lon>
+
+							<typ>S</typ>
+                			<stpid>2142</stpid>
+                			<stpnm>King Drive &amp; 59th Street</stpnm>
+                			<pdist>25033.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.78938090436863</lat>
+						<lon>-87.61580049991608</lon>
+
+							<typ>S</typ>
+                			<stpid>2143</stpid>
+                			<stpnm>King Drive &amp; 58th Street</stpnm>
+                			<pdist>25641.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.79129273605</lat>
+						<lon>-87.61584341526</lon>
+
+							<typ>S</typ>
+                			<stpid>15486</stpid>
+                			<stpnm>King Drive &amp; 57th Street</stpnm>
+                			<pdist>26400.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.793112522861</lat>
+						<lon>-87.615880966187</lon>
+
+							<typ>S</typ>
+                			<stpid>2145</stpid>
+                			<stpnm>King Drive &amp; 56th Street</stpnm>
+                			<pdist>27058.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.794372345004</lat>
+						<lon>-87.615907788277</lon>
+
+							<typ>S</typ>
+                			<stpid>2146</stpid>
+                			<stpnm>King Drive &amp; Garfield </stpnm>
+                			<pdist>27473.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.79505223873</lat>
+						<lon>-87.615934610367</lon>
+
+							<typ>S</typ>
+                			<stpid>2147</stpid>
+                			<stpnm>King Drive &amp; Garfield</stpnm>
+                			<pdist>27750.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.796811930177</lat>
+						<lon>-87.615966796875</lon>
+
+							<typ>S</typ>
+                			<stpid>2148</stpid>
+                			<stpnm>King Drive &amp; 54th Street</stpnm>
+                			<pdist>28275.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.798451599176</lat>
+						<lon>-87.616020441055</lon>
+
+							<typ>S</typ>
+                			<stpid>2149</stpid>
+                			<stpnm>King Drive &amp; 53rd Street</stpnm>
+                			<pdist>29001.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.800243189533</lat>
+						<lon>-87.6160633564</lon>
+
+							<typ>S</typ>
+                			<stpid>2150</stpid>
+                			<stpnm>5200 S King Drive</stpnm>
+                			<pdist>29681.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.801878771814</lat>
+						<lon>-87.616111636162</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.80214270049467</lat>
+						<lon>-87.6160740852356</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.802310654544</lat>
+						<lon>-87.616127729416</lon>
+
+							<typ>S</typ>
+                			<stpid>2151</stpid>
+                			<stpnm>King Drive &amp; 51st Street</stpnm>
+                			<pdist>30415.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.803201403482</lat>
+						<lon>-87.616379857063</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.803491319096</lat>
+						<lon>-87.616413384676</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.80379622893</lat>
+						<lon>-87.616421431303</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.80407914397</lat>
+						<lon>-87.616428136826</lon>
+
+							<typ>S</typ>
+                			<stpid>2152</stpid>
+                			<stpnm>King Drive &amp; 50th Street</stpnm>
+                			<pdist>31078.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.8058735759991</lat>
+						<lon>-87.6164710521698</lon>
+
+							<typ>S</typ>
+                			<stpid>2153</stpid>
+                			<stpnm>King Drive &amp; 49th Street</stpnm>
+                			<pdist>31761.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.807773919692</lat>
+						<lon>-87.616513967514</lon>
+
+							<typ>S</typ>
+                			<stpid>2154</stpid>
+                			<stpnm>King Drive &amp; 48th Street</stpnm>
+                			<pdist>32408.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.80960423425804</lat>
+						<lon>-87.61655688285828</lon>
+
+							<typ>S</typ>
+                			<stpid>2155</stpid>
+                			<stpnm>King Drive &amp; 47th Street</stpnm>
+                			<pdist>33109.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.811397511956</lat>
+						<lon>-87.616610527039</lon>
+
+							<typ>S</typ>
+                			<stpid>2156</stpid>
+                			<stpnm>King Drive &amp; 46th Street</stpnm>
+                			<pdist>33732.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.813206732336276</lat>
+						<lon>-87.61665880680084</lon>
+
+							<typ>S</typ>
+                			<stpid>2157</stpid>
+                			<stpnm>King Drive &amp; 45th Street</stpnm>
+                			<pdist>34378.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.81496992336</lat>
+						<lon>-87.616701722145</lon>
+
+							<typ>S</typ>
+                			<stpid>2158</stpid>
+                			<stpnm>King Drive &amp; 44th Street</stpnm>
+                			<pdist>35062.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.816785039831</lat>
+						<lon>-87.616755366325</lon>
+
+							<typ>S</typ>
+                			<stpid>2159</stpid>
+                			<stpnm>King Drive &amp; 43rd Street</stpnm>
+                			<pdist>35729.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.818624092158984</lat>
+						<lon>-87.61680901050568</lon>
+
+							<typ>S</typ>
+                			<stpid>2160</stpid>
+                			<stpnm>King Drive &amp; 42nd Street</stpnm>
+                			<pdist>36381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.820407122904776</lat>
+						<lon>-87.61685729026794</lon>
+
+							<typ>S</typ>
+                			<stpid>2161</stpid>
+                			<stpnm>King Drive &amp; 41st Street</stpnm>
+                			<pdist>37050.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.82256988056091</lat>
+						<lon>-87.61691629886627</lon>
+
+							<typ>S</typ>
+                			<stpid>2162</stpid>
+                			<stpnm>King Drive &amp; Oakwood Boulevard</stpnm>
+                			<pdist>37775.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.82396104281218</lat>
+						<lon>-87.61695921421051</lon>
+
+							<typ>S</typ>
+                			<stpid>2163</stpid>
+                			<stpnm>King Drive &amp; Pershing</stpnm>
+                			<pdist>38379.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.825727935199986</lat>
+						<lon>-87.61699140071869</lon>
+
+							<typ>S</typ>
+                			<stpid>2164</stpid>
+                			<stpnm>King Drive &amp; 38th Street</stpnm>
+                			<pdist>38997.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.827646677134666</lat>
+						<lon>-87.6170289516449</lon>
+
+							<typ>S</typ>
+                			<stpid>2165</stpid>
+                			<stpnm>King Drive &amp; 37th Street</stpnm>
+                			<pdist>39672.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.82920960983561</lat>
+						<lon>-87.61705577373505</lon>
+
+							<typ>S</typ>
+                			<stpid>2166</stpid>
+                			<stpnm>3600 S King Drive</stpnm>
+                			<pdist>40258.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.8300809982006</lat>
+						<lon>-87.6170665025711</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.830184924462</lat>
+						<lon>-87.617003470659</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.830716544619</lat>
+						<lon>-87.61690557003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.831475994329</lat>
+						<lon>-87.616927027702</lon>
+
+							<typ>S</typ>
+                			<stpid>2167</stpid>
+                			<stpnm>King Drive &amp; 35th Street</stpnm>
+                			<pdist>41141.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.833434533576</lat>
+						<lon>-87.616969943047</lon>
+
+							<typ>S</typ>
+                			<stpid>2168</stpid>
+                			<stpnm>King Drive &amp; 33rd Place</stpnm>
+                			<pdist>41797.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.834957356352</lat>
+						<lon>-87.616991400719</lon>
+
+							<typ>S</typ>
+                			<stpid>2169</stpid>
+                			<stpnm>King Drive &amp; 33rd Street</stpnm>
+                			<pdist>42299.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.836779899759385</lat>
+						<lon>-87.61704504489899</lon>
+
+							<typ>S</typ>
+                			<stpid>2170</stpid>
+                			<stpnm>King Drive &amp; 32nd Street</stpnm>
+                			<pdist>43024.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.83829964545</lat>
+						<lon>-87.617090642452</lon>
+
+							<typ>S</typ>
+                			<stpid>2171</stpid>
+                			<stpnm>King Drive &amp; 31st Street</stpnm>
+                			<pdist>43539.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.839719440998</lat>
+						<lon>-87.617128193378</lon>
+
+							<typ>S</typ>
+                			<stpid>2178</stpid>
+                			<stpnm>King Drive &amp; 30th Street</stpnm>
+                			<pdist>44075.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.842291179044</lat>
+						<lon>-87.61717915535</lon>
+
+							<typ>S</typ>
+                			<stpid>2179</stpid>
+                			<stpnm>King Drive &amp; 29th Street</stpnm>
+                			<pdist>45016.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.843426147888</lat>
+						<lon>-87.617211341858</lon>
+
+							<typ>S</typ>
+                			<stpid>2180</stpid>
+                			<stpnm>2800 S King Drive</stpnm>
+                			<pdist>45418.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.845524188695</lat>
+						<lon>-87.61725962162</lon>
+
+							<typ>S</typ>
+                			<stpid>2181</stpid>
+                			<stpnm>King Drive &amp; 26th Street</stpnm>
+                			<pdist>46184.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.848189600360264</lat>
+						<lon>-87.61731326580048</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.848361429685866</lat>
+						<lon>-87.61736154556274</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.84853325855</lat>
+						<lon>-87.617442011833</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.848912878823</lat>
+						<lon>-87.617742419243</lon>
+
+							<typ>S</typ>
+                			<stpid>17397</stpid>
+                			<stpnm>King Drive &amp; 25th Street</stpnm>
+                			<pdist>47162.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.84943635150391</lat>
+						<lon>-87.61824131011963</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.84982795422027</lat>
+						<lon>-87.61860609054565</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.850055722044495</lat>
+						<lon>-87.61874556541443</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.850287484963</lat>
+						<lon>-87.61882066726685</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.85061514834604</lat>
+						<lon>-87.618847489357</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.850908845196</lat>
+						<lon>-87.618836760521</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.850984766611</lat>
+						<lon>-87.618919909</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.851550178528</lat>
+						<lon>-87.618933320045</lon>
+
+							<typ>S</typ>
+                			<stpid>14559</stpid>
+                			<stpnm>McCormick Place</stpnm>
+                			<pdist>48404.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.852297393676196</lat>
+						<lon>-87.61895477771759</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.85244523735033</lat>
+						<lon>-87.61898696422577</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.852525152707614</lat>
+						<lon>-87.61898159980774</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.85262105100455</lat>
+						<lon>-87.61902987957001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.852736927921484</lat>
+						<lon>-87.61910498142242</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.85285680037329</lat>
+						<lon>-87.61927127838135</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.852916736514935</lat>
+						<lon>-87.61941075325012</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.8529686811256</lat>
+						<lon>-87.61956095695496</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.85300464275444</lat>
+						<lon>-87.61973798274994</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.85300863849</lat>
+						<lon>-87.620505094528</lon>
+
+							<typ>S</typ>
+                			<stpid>2185</stpid>
+                			<stpnm>Cermak &amp; Prairie</stpnm>
+                			<pdist>49325.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.852972676863</lat>
+						<lon>-87.62218952179</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.85297267686314</lat>
+						<lon>-87.62377202510834</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.853396223626</lat>
+						<lon>-87.623782753944</lon>
+
+							<typ>S</typ>
+                			<stpid>15312</stpid>
+                			<stpnm>Michigan &amp; Cermak</stpnm>
+                			<pdist>50362.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.854554969306</lat>
+						<lon>-87.623820304871</lon>
+
+							<typ>S</typ>
+                			<stpid>1573</stpid>
+                			<stpnm>Michigan &amp; 21st Street</stpnm>
+                			<pdist>50774.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.855713693993</lat>
+						<lon>-87.623841762543</lon>
+
+							<typ>S</typ>
+                			<stpid>1574</stpid>
+                			<stpnm>Michigan &amp; Cullerton</stpnm>
+                			<pdist>51213.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.858114984183</lat>
+						<lon>-87.623900771141</lon>
+
+							<typ>S</typ>
+                			<stpid>1575</stpid>
+                			<stpnm>Michigan &amp; 18th Street</stpnm>
+                			<pdist>52096.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.86049221261</lat>
+						<lon>-87.623943686485</lon>
+
+							<typ>S</typ>
+                			<stpid>14760</stpid>
+                			<stpnm>Michigan &amp; 16th Street</stpnm>
+                			<pdist>52984.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.861838603628</lat>
+						<lon>-87.623975872993</lon>
+
+							<typ>S</typ>
+                			<stpid>1577</stpid>
+                			<stpnm>1509 S Michigan</stpnm>
+                			<pdist>53381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.863975991082</lat>
+						<lon>-87.624029517174</lon>
+
+							<typ>S</typ>
+                			<stpid>1578</stpid>
+                			<stpnm>Michigan &amp; 14th Street</stpnm>
+                			<pdist>54178.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.86597348486</lat>
+						<lon>-87.624061703682</lon>
+
+							<typ>S</typ>
+                			<stpid>1579</stpid>
+                			<stpnm>Michigan &amp; 13th Street</stpnm>
+                			<pdist>55038.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.867143987214</lat>
+						<lon>-87.624088525772</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.867211899662</lat>
+						<lon>-87.62401342392</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.867815118829</lat>
+						<lon>-87.623997330666</lon>
+
+							<typ>S</typ>
+                			<stpid>1580</stpid>
+                			<stpnm>Michigan &amp; Roosevelt</stpnm>
+                			<pdist>55721.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.86931714977</lat>
+						<lon>-87.62398660183</lon>
+
+							<typ>S</typ>
+                			<stpid>1581</stpid>
+                			<stpnm>Michigan &amp; 11th Street</stpnm>
+                			<pdist>56085.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.870519548042</lat>
+						<lon>-87.624008059502</lon>
+
+							<typ>S</typ>
+                			<stpid>1582</stpid>
+                			<stpnm>Michigan &amp; 9th Street</stpnm>
+                			<pdist>56563.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.871793825843</lat>
+						<lon>-87.624050974846</lon>
+
+							<typ>S</typ>
+                			<stpid>1583</stpid>
+                			<stpnm>Michigan &amp; 8th Street</stpnm>
+                			<pdist>57052.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.873391630449</lat>
+						<lon>-87.624072432518</lon>
+
+							<typ>S</typ>
+                			<stpid>1584</stpid>
+                			<stpnm>Michigan &amp; Balbo</stpnm>
+                			<pdist>57707.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.87446213719</lat>
+						<lon>-87.62412071228</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.875520643017</lat>
+						<lon>-87.624131441116</lon>
+
+							<typ>S</typ>
+                			<stpid>14485</stpid>
+                			<stpnm>Michigan &amp; Congress</stpnm>
+                			<pdist>58434.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.876982550541</lat>
+						<lon>-87.624126076698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.878124892161</lat>
+						<lon>-87.624158263206</lon>
+
+							<typ>S</typ>
+                			<stpid>76</stpid>
+                			<stpnm>Michigan &amp; Jackson</stpnm>
+                			<pdist>59373.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.879534817125</lat>
+						<lon>-87.624211907387</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.880129931924</lat>
+						<lon>-87.624228000641</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.88066912511</lat>
+						<lon>-87.624195814133</lon>
+
+							<typ>S</typ>
+                			<stpid>15241</stpid>
+                			<stpnm>Michigan &amp; Monroe</stpnm>
+                			<pdist>60213.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.882366555435</lat>
+						<lon>-87.624174356461</lon>
+
+							<typ>S</typ>
+                			<stpid>2188</stpid>
+                			<stpnm>Michigan &amp; Madison</stpnm>
+                			<pdist>60941.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.883400967331</lat>
+						<lon>-87.624190449715</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.884419387395</lat>
+						<lon>-87.624319195747</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.884686969581</lat>
+						<lon>-87.624351382256</lon>
+
+							<typ>S</typ>
+                			<stpid>1119</stpid>
+                			<stpnm>Michigan &amp; Randolph</stpnm>
+                			<pdist>61924.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.885761280809</lat>
+						<lon>-87.624410390854</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.886699790703</lat>
+						<lon>-87.624415755272</lon>
+
+							<typ>S</typ>
+                			<stpid>1120</stpid>
+                			<stpnm>Michigan &amp; South Water</stpnm>
+                			<pdist>62449.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.888045629768</lat>
+						<lon>-87.624405026436</lon>
+
+							<typ>S</typ>
+                			<stpid>1121</stpid>
+                			<stpnm>Michigan &amp; E. Wacker</stpnm>
+                			<pdist>62929.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.88832118382409</lat>
+						<lon>-87.62437283992767</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.8891398519079</lat>
+						<lon>-87.62418508529663</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.88977481163642</lat>
+						<lon>-87.62401342391968</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.889994450324906</lat>
+						<lon>-87.62397587299347</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.890178147557</lat>
+						<lon>-87.623981237411</lon>
+
+							<typ>S</typ>
+                			<stpid>1122</stpid>
+                			<stpnm>Michigan &amp; Hubbard (Tribune Bldg.)</stpnm>
+                			<pdist>63772.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.890397784859</lat>
+						<lon>-87.624002695084</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.891675659635</lat>
+						<lon>-87.624045610428</lon>
+
+							<typ>S</typ>
+                			<stpid>1123</stpid>
+                			<stpnm>Michigan &amp; Grand</stpnm>
+                			<pdist>64387.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.893225048512</lat>
+						<lon>-87.624077796936</lon>
+
+							<typ>S</typ>
+                			<stpid>1124</stpid>
+                			<stpnm>Michigan &amp; Ontario</stpnm>
+                			<pdist>64920.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.894834296652</lat>
+						<lon>-87.624126076698</lon>
+
+							<typ>S</typ>
+                			<stpid>1125</stpid>
+                			<stpnm>Michigan &amp; Huron</stpnm>
+                			<pdist>65457.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>41.895760694065</lat>
+						<lon>-87.624142169952</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>41.89649940651</lat>
+						<lon>-87.624142169952</lon>
+
+							<typ>S</typ>
+                			<stpid>1126</stpid>
+                			<stpnm>Michigan &amp; Chicago</stpnm>
+                			<pdist>66151.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>41.89668707804063</lat>
+						<lon>-87.62412071228027</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>41.896734994088</lat>
+						<lon>-87.621980309486</lon>
+
+							<typ>S</typ>
+                			<stpid>15282</stpid>
+                			<stpnm>Chicago &amp; Mies Van Der Rohe</stpnm>
+                			<pdist>66696.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>41.896750966095</lat>
+						<lon>-87.620708942413</lon>
+
+							<typ>S</typ>
+                			<stpid>582</stpid>
+                			<stpnm>Chicago &amp; Fairbanks</stpnm>
+                			<pdist>67173.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>41.896754959097</lat>
+						<lon>-87.620397806168</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>41.895057911051</lat>
+						<lon>-87.620349526405</lon>
+
+							<typ>S</typ>
+                			<stpid>584</stpid>
+                			<stpnm>Fairbanks &amp; Huron</stpnm>
+                			<pdist>67788.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

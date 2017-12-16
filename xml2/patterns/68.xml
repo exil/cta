@@ -1,0 +1,1155 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>3214</pid>
+				<ln>23901.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.970506975412</lat>
+						<lon>-87.762195467949</lon>
+
+							<typ>S</typ>
+                			<stpid>14110</stpid>
+                			<stpnm>Jefferson Park Transit Center</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.970646568793</lat>
+						<lon>-87.762388586998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.970690440935</lat>
+						<lon>-87.762447595596</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.97041125406</lat>
+						<lon>-87.762951850891</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.9706266269</lat>
+						<lon>-87.76317179203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.971073323801</lat>
+						<lon>-87.763579487801</lon>
+
+							<typ>S</typ>
+                			<stpid>4746</stpid>
+                			<stpnm>Jefferson Park Transit Center</stpnm>
+                			<pdist>497.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.972868056559</lat>
+						<lon>-87.765129804611</lon>
+
+							<typ>S</typ>
+                			<stpid>4747</stpid>
+                			<stpnm>Milwaukee &amp; Carmen/NW Highway</stpnm>
+                			<pdist>1288.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.974259936702</lat>
+						<lon>-87.766444087029</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.974224043327</lat>
+						<lon>-87.766546010971</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.974232019635</lat>
+						<lon>-87.766647934914</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.974271901156</lat>
+						<lon>-87.766733765602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.975268931084</lat>
+						<lon>-87.76850938797</lon>
+
+							<typ>S</typ>
+                			<stpid>9883</stpid>
+                			<stpnm>Northwest Hwy &amp; Central</stpnm>
+                			<pdist>2511.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.975871129599</lat>
+						<lon>-87.769533991814</lon>
+
+							<typ>S</typ>
+                			<stpid>9884</stpid>
+                			<stpnm>Northwest Hwy &amp; Foster</stpnm>
+                			<pdist>2974.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.976190172863</lat>
+						<lon>-87.770129442215</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.977881075478</lat>
+						<lon>-87.773181796074</lon>
+
+							<typ>S</typ>
+                			<stpid>9885</stpid>
+                			<stpnm>Northwest Hwy &amp; Menard</stpnm>
+                			<pdist>4135.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.978626813072</lat>
+						<lon>-87.774517536163</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.979332663605</lat>
+						<lon>-87.775735259056</lon>
+
+							<typ>S</typ>
+                			<stpid>9886</stpid>
+                			<stpnm>Northwest Hwy &amp; Marmora</stpnm>
+                			<pdist>4961.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.980620720966</lat>
+						<lon>-87.778079509735</lon>
+
+							<typ>S</typ>
+                			<stpid>9887</stpid>
+                			<stpnm>Northwest Hwy &amp; Austin</stpnm>
+                			<pdist>5753.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.981848937154</lat>
+						<lon>-87.780262827873</lon>
+
+							<typ>S</typ>
+                			<stpid>9889</stpid>
+                			<stpnm>Northwest Hwy &amp; Meade</stpnm>
+                			<pdist>6565.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.982809959923</lat>
+						<lon>-87.781974077225</lon>
+
+							<typ>S</typ>
+                			<stpid>9890</stpid>
+                			<stpnm>Northwest Hwy &amp; Bryn Mawr</stpnm>
+                			<pdist>7108.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.983970345679</lat>
+						<lon>-87.78408229351</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.984568474406</lat>
+						<lon>-87.785160541534</lon>
+
+							<typ>S</typ>
+                			<stpid>9891</stpid>
+                			<stpnm>Northwest Hwy &amp; Mobile</stpnm>
+                			<pdist>8216.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.98619934352</lat>
+						<lon>-87.788062691689</lon>
+
+							<typ>S</typ>
+                			<stpid>17316</stpid>
+                			<stpnm>Northwest Hwy &amp; Nagle</stpnm>
+                			<pdist>9241.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.986821375502</lat>
+						<lon>-87.789183855057</lon>
+
+							<typ>S</typ>
+                			<stpid>9893</stpid>
+                			<stpnm>Northwest Hwy &amp; Napoleon</stpnm>
+                			<pdist>9615.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.987917891438</lat>
+						<lon>-87.79113650322</lon>
+
+							<typ>S</typ>
+                			<stpid>9894</stpid>
+                			<stpnm>Northwest Hwy &amp; Nashotah</stpnm>
+                			<pdist>10287.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.989006414032</lat>
+						<lon>-87.793105244637</lon>
+
+							<typ>S</typ>
+                			<stpid>9895</stpid>
+                			<stpnm>Northwest Hwy &amp; Naper</stpnm>
+                			<pdist>10956.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.990110866651</lat>
+						<lon>-87.795052528381</lon>
+
+							<typ>S</typ>
+                			<stpid>9896</stpid>
+                			<stpnm>Northwest Hwy &amp; Neola</stpnm>
+                			<pdist>11616.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.991219287197</lat>
+						<lon>-87.797031998634</lon>
+
+							<typ>S</typ>
+                			<stpid>9897</stpid>
+                			<stpnm>Northwest Hwy &amp; Nettleton</stpnm>
+                			<pdist>12289.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.99231572738</lat>
+						<lon>-87.798882722855</lon>
+
+							<typ>S</typ>
+                			<stpid>9898</stpid>
+                			<stpnm>Northwest Hwy &amp; Raven</stpnm>
+                			<pdist>12906.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.993344370454</lat>
+						<lon>-87.800631523132</lon>
+
+							<typ>S</typ>
+                			<stpid>9899</stpid>
+                			<stpnm>Northwest Hwy &amp; Niagara</stpnm>
+                			<pdist>13544.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.994221494826</lat>
+						<lon>-87.802101373672</lon>
+
+							<typ>S</typ>
+                			<stpid>9900</stpid>
+                			<stpnm>Northwest Hwy &amp; Sayre</stpnm>
+                			<pdist>14051.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.995800288236</lat>
+						<lon>-87.804746031761</lon>
+
+							<typ>S</typ>
+                			<stpid>9901</stpid>
+                			<stpnm>Northwest Hwy &amp; Neva</stpnm>
+                			<pdist>14997.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.997642164382</lat>
+						<lon>-87.807819843292</lon>
+
+							<typ>S</typ>
+                			<stpid>9903</stpid>
+                			<stpnm>Northwest Hwy &amp; Devon</stpnm>
+                			<pdist>15450.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.998678694616</lat>
+						<lon>-87.809536457062</lon>
+
+							<typ>S</typ>
+                			<stpid>9904</stpid>
+                			<stpnm>6487 N Northwest Hwy</stpnm>
+                			<pdist>16135.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.999962374041</lat>
+						<lon>-87.811671495438</lon>
+
+							<typ>S</typ>
+                			<stpid>9905</stpid>
+                			<stpnm>Northwest Hwy &amp; Oketo </stpnm>
+                			<pdist>17062.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>42.000404878649</lat>
+						<lon>-87.812325954437</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>42.000998866483</lat>
+						<lon>-87.813280820847</lon>
+
+							<typ>S</typ>
+                			<stpid>9906</stpid>
+                			<stpnm>Northwest Hwy &amp; Ogallah </stpnm>
+                			<pdist>17440.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>42.002146961479</lat>
+						<lon>-87.815099358559</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>42.002756878519</lat>
+						<lon>-87.816043496132</lon>
+
+							<typ>S</typ>
+                			<stpid>9908</stpid>
+                			<stpnm>Northwest Hwy &amp; Oliphant</stpnm>
+                			<pdist>18424.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>42.003438543588</lat>
+						<lon>-87.81711101532</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>42.004562677046</lat>
+						<lon>-87.818918824196</lon>
+
+							<typ>S</typ>
+                			<stpid>9910</stpid>
+                			<stpnm>Northwest Hwy &amp; Overhill</stpnm>
+                			<pdist>19555.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>42.005336005552</lat>
+						<lon>-87.820125818253</lon>
+
+							<typ>S</typ>
+                			<stpid>9911</stpid>
+                			<stpnm>Northwest Hwy &amp; Ozark</stpnm>
+                			<pdist>19966.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>42.006767037121</lat>
+						<lon>-87.822400331497</lon>
+
+							<typ>S</typ>
+                			<stpid>9912</stpid>
+                			<stpnm>Northwest Hwy &amp; Merrill</stpnm>
+                			<pdist>20622.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>42.008174120342</lat>
+						<lon>-87.824594378471</lon>
+
+							<typ>S</typ>
+                			<stpid>9913</stpid>
+                			<stpnm>300 S Northwest Hwy</stpnm>
+                			<pdist>21306.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>42.008772021636</lat>
+						<lon>-87.825538516045</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>42.008417267546</lat>
+						<lon>-87.825940847397</lon>
+
+							<typ>S</typ>
+                			<stpid>9914</stpid>
+                			<stpnm>Washington &amp; Northwest Hwy</stpnm>
+                			<pdist>21923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>42.007647962554</lat>
+						<lon>-87.826793789864</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>42.007711739487</lat>
+						<lon>-87.826901078224</lon>
+
+							<typ>S</typ>
+                			<stpid>9915</stpid>
+                			<stpnm>Washington &amp; Summit</stpnm>
+                			<pdist>22283.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>42.00900320863</lat>
+						<lon>-87.829218506813</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>42.009692778639</lat>
+						<lon>-87.83039867878</lon>
+
+							<typ>S</typ>
+                			<stpid>9916</stpid>
+                			<stpnm>Summit &amp; Prospect</stpnm>
+                			<pdist>23566.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>42.010278707975</lat>
+						<lon>-87.831364274025</lon>
+
+							<typ>S</typ>
+                			<stpid>9917</stpid>
+                			<stpnm>Summit &amp; Prospect</stpnm>
+                			<pdist>23901.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>3215</pid>
+				<ln>24974.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>42.010278707975</lat>
+						<lon>-87.831364274025</lon>
+
+							<typ>S</typ>
+                			<stpid>9917</stpid>
+                			<stpnm>Summit &amp; Prospect</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>42.010422200051</lat>
+						<lon>-87.831589579582</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>42.010557720048</lat>
+						<lon>-87.831718325615</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>42.010733098438</lat>
+						<lon>-87.831771969795</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>42.011075882078</lat>
+						<lon>-87.831761240959</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>42.011079867923</lat>
+						<lon>-87.831037044525</lon>
+
+							<typ>S</typ>
+                			<stpid>9918</stpid>
+                			<stpnm>Touhy &amp; Summit/Prospect</stpnm>
+                			<pdist>564.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>42.011123712206</lat>
+						<lon>-87.830092906952</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>42.011187485655</lat>
+						<lon>-87.829545736313</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>42.010916448057</lat>
+						<lon>-87.829132676125</lon>
+
+							<typ>S</typ>
+                			<stpid>9919</stpid>
+                			<stpnm>Northwest Hwy &amp; Prospect</stpnm>
+                			<pdist>1098.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>42.010298637449</lat>
+						<lon>-87.828097343445</lon>
+
+							<typ>S</typ>
+                			<stpid>9920</stpid>
+                			<stpnm>Northwest Hwy &amp; Euclid</stpnm>
+                			<pdist>1396.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>42.009182577271</lat>
+						<lon>-87.826348543167</lon>
+
+							<typ>S</typ>
+                			<stpid>9921</stpid>
+                			<stpnm>Northwest Hwy &amp; Washington </stpnm>
+                			<pdist>1992.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>42.008122301965</lat>
+						<lon>-87.824642658234</lon>
+
+							<typ>S</typ>
+                			<stpid>9922</stpid>
+                			<stpnm>300 S Northwest Hwy</stpnm>
+                			<pdist>2764.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>42.006719203717</lat>
+						<lon>-87.822470068932</lon>
+
+							<typ>S</typ>
+                			<stpid>9923</stpid>
+                			<stpnm>Northwest Hwy &amp; Merrill</stpnm>
+                			<pdist>3366.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>42.005272226237</lat>
+						<lon>-87.820147275925</lon>
+
+							<typ>S</typ>
+                			<stpid>9924</stpid>
+                			<stpnm>Northwest Hwy &amp; Ozark</stpnm>
+                			<pdist>4249.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>42.004347418985</lat>
+						<lon>-87.818725705147</lon>
+
+							<typ>S</typ>
+                			<stpid>9925</stpid>
+                			<stpnm>Northwest Hwy &amp; Overhill</stpnm>
+                			<pdist>4826.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>42.004036489389</lat>
+						<lon>-87.818189263344</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>42.003398680334</lat>
+						<lon>-87.817175388336</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>42.002840592167</lat>
+						<lon>-87.816311717033</lon>
+
+							<typ>S</typ>
+                			<stpid>9927</stpid>
+                			<stpnm>Northwest Hwy &amp; Oliphant</stpnm>
+                			<pdist>5630.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>42.000931096339</lat>
+						<lon>-87.813296914101</lon>
+
+							<typ>S</typ>
+                			<stpid>9929</stpid>
+                			<stpnm>Northwest Hwy &amp; Ogallah </stpnm>
+                			<pdist>6810.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.999930481698</lat>
+						<lon>-87.811751961708</lon>
+
+							<typ>S</typ>
+                			<stpid>9930</stpid>
+                			<stpnm>Northwest Hwy &amp; Oketo </stpnm>
+                			<pdist>7240.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.998543149314</lat>
+						<lon>-87.809450626373</lon>
+
+							<typ>S</typ>
+                			<stpid>9931</stpid>
+                			<stpnm>6486 N Northwest Hwy</stpnm>
+                			<pdist>7955.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.997658111129</lat>
+						<lon>-87.807975411415</lon>
+
+							<typ>S</typ>
+                			<stpid>9932</stpid>
+                			<stpnm>Northwest Hwy &amp; Devon</stpnm>
+                			<pdist>8549.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.99704415849</lat>
+						<lon>-87.806972265244</lon>
+
+							<typ>S</typ>
+                			<stpid>9933</stpid>
+                			<stpnm>Northwest Hwy &amp; Harlem</stpnm>
+                			<pdist>8929.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.995808261841</lat>
+						<lon>-87.804890871048</lon>
+
+							<typ>S</typ>
+                			<stpid>9934</stpid>
+                			<stpnm>Northwest Hwy &amp; Neva</stpnm>
+                			<pdist>9643.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.994321167286</lat>
+						<lon>-87.802401781082</lon>
+
+							<typ>S</typ>
+                			<stpid>9935</stpid>
+                			<stpnm>Northwest Hwy &amp; Sayre</stpnm>
+                			<pdist>10490.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.993368292188</lat>
+						<lon>-87.800797820091</lon>
+
+							<typ>S</typ>
+                			<stpid>9936</stpid>
+                			<stpnm>Northwest Hwy &amp; Niagara</stpnm>
+                			<pdist>11130.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.992379519682</lat>
+						<lon>-87.799124121666</lon>
+
+							<typ>S</typ>
+                			<stpid>9937</stpid>
+                			<stpnm>Northwest Hwy &amp; Raven</stpnm>
+                			<pdist>11626.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.991318964358</lat>
+						<lon>-87.79736995697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.99015871254</lat>
+						<lon>-87.795267105103</lon>
+
+							<typ>S</typ>
+                			<stpid>9939</stpid>
+                			<stpnm>Northwest Hwy &amp; Neola</stpnm>
+                			<pdist>12916.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.989062235202</lat>
+						<lon>-87.793335914612</lon>
+
+							<typ>S</typ>
+                			<stpid>9940</stpid>
+                			<stpnm>Northwest Hwy &amp; Naper</stpnm>
+                			<pdist>13631.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.987957764389</lat>
+						<lon>-87.791351079941</lon>
+
+							<typ>S</typ>
+                			<stpid>9941</stpid>
+                			<stpnm>Northwest Hwy &amp; Nashotah</stpnm>
+                			<pdist>14337.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.986805000001</lat>
+						<lon>-87.789290000001</lon>
+
+							<typ>S</typ>
+                			<stpid>9942</stpid>
+                			<stpnm>Northwest Hwy &amp; Napoleon</stpnm>
+                			<pdist>14992.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.985948136574</lat>
+						<lon>-87.787767648697</lon>
+
+							<typ>S</typ>
+                			<stpid>9943</stpid>
+                			<stpnm>Northwest Hwy &amp; Nagle</stpnm>
+                			<pdist>15528.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.984532586841</lat>
+						<lon>-87.785214185715</lon>
+
+							<typ>S</typ>
+                			<stpid>9944</stpid>
+                			<stpnm>Northwest Hwy &amp; Mobile</stpnm>
+                			<pdist>16405.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.983061179252</lat>
+						<lon>-87.782553434372</lon>
+
+							<typ>S</typ>
+                			<stpid>9945</stpid>
+                			<stpnm>Northwest Hwy &amp; Bryn Mawr</stpnm>
+                			<pdist>17310.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.981900776927</lat>
+						<lon>-87.780509591103</lon>
+
+							<typ>S</typ>
+                			<stpid>9946</stpid>
+                			<stpnm>Northwest Hwy &amp; Meade</stpnm>
+                			<pdist>17975.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.980636671977</lat>
+						<lon>-87.778251171112</lon>
+
+							<typ>S</typ>
+                			<stpid>9948</stpid>
+                			<stpnm>Northwest Hwy &amp; Austin</stpnm>
+                			<pdist>18749.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.977916966792</lat>
+						<lon>-87.773380279541</lon>
+
+							<typ>S</typ>
+                			<stpid>9950</stpid>
+                			<stpnm>Northwest Hwy &amp; Menard</stpnm>
+                			<pdist>20400.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.97584720129</lat>
+						<lon>-87.769635915756</lon>
+
+							<typ>S</typ>
+                			<stpid>9951</stpid>
+                			<stpnm>Northwest Hwy &amp; Foster</stpnm>
+                			<pdist>21684.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.97521309782</lat>
+						<lon>-87.76856303215</lon>
+
+							<typ>S</typ>
+                			<stpid>9952</stpid>
+                			<stpnm>Northwest Hwy &amp; Central</stpnm>
+                			<pdist>22024.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.974192138088</lat>
+						<lon>-87.766728401184</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.974144280199</lat>
+						<lon>-87.766610383987</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.974180173619</lat>
+						<lon>-87.766470909119</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.973988741811</lat>
+						<lon>-87.766299247742</lon>
+
+							<typ>S</typ>
+                			<stpid>9953</stpid>
+                			<stpnm>Northwest Hwy &amp; Milwaukee</stpnm>
+                			<pdist>22720.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.973127291556</lat>
+						<lon>-87.765467762947</lon>
+
+							<typ>S</typ>
+                			<stpid>4843</stpid>
+                			<stpnm>Milwaukee &amp; Carmen/NW Highway</stpnm>
+                			<pdist>23156.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.972991691843</lat>
+						<lon>-87.76534974575</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.97203450919</lat>
+						<lon>-87.76450753212</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.971448227711</lat>
+						<lon>-87.764030098915</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.970662522302</lat>
+						<lon>-87.763300538063</lon>
+
+							<typ>S</typ>
+                			<stpid>4844</stpid>
+                			<stpnm>Milwaukee &amp; Gale </stpnm>
+                			<pdist>24199.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.969769119605</lat>
+						<lon>-87.76246368885</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.970199868899</lat>
+						<lon>-87.761836051941</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.970506975412</lat>
+						<lon>-87.762195467949</lon>
+
+							<typ>S</typ>
+                			<stpid>14110</stpid>
+                			<stpnm>Jefferson Park Transit Center</stpnm>
+                			<pdist>24974.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

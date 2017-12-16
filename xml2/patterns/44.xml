@@ -1,0 +1,2634 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>6704</pid>
+				<ln>55515.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.736579037826</lat>
+						<lon>-87.653115391731</lon>
+
+							<typ>S</typ>
+                			<stpid>5041</stpid>
+                			<stpnm>Racine &amp; 87th Street Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.736807208435</lat>
+						<lon>-87.653126120567</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.736807208435</lat>
+						<lon>-87.65333533287</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.737559765398</lat>
+						<lon>-87.653340697289</lon>
+
+							<typ>S</typ>
+                			<stpid>5042</stpid>
+                			<stpnm>Racine &amp; 86th Street</stpnm>
+                			<pdist>411.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.739461133333</lat>
+						<lon>-87.653394341469</lon>
+
+							<typ>S</typ>
+                			<stpid>5043</stpid>
+                			<stpnm>Racine &amp; 85th Street</stpnm>
+                			<pdist>1082.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.74131441253</lat>
+						<lon>-87.653437256813</lon>
+
+							<typ>S</typ>
+                			<stpid>5044</stpid>
+                			<stpnm>Racine &amp; 84th Street</stpnm>
+                			<pdist>1724.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.743063570829</lat>
+						<lon>-87.653501629829</lon>
+
+							<typ>S</typ>
+                			<stpid>5045</stpid>
+                			<stpnm>Racine &amp; 83rd Street</stpnm>
+                			<pdist>2418.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.744908741096</lat>
+						<lon>-87.653544545174</lon>
+
+							<typ>S</typ>
+                			<stpid>5046</stpid>
+                			<stpnm>Racine &amp; 82nd Street</stpnm>
+                			<pdist>3062.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.746745853605</lat>
+						<lon>-87.653587460518</lon>
+
+							<typ>S</typ>
+                			<stpid>5047</stpid>
+                			<stpnm>Racine &amp; 81st Street</stpnm>
+                			<pdist>3750.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.748518877484</lat>
+						<lon>-87.65363574028</lon>
+
+							<typ>S</typ>
+                			<stpid>5048</stpid>
+                			<stpnm>Racine &amp; 80th Street</stpnm>
+                			<pdist>4437.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.750764103821</lat>
+						<lon>-87.653710842133</lon>
+
+							<typ>S</typ>
+                			<stpid>15803</stpid>
+                			<stpnm>Racine &amp; 79th Street</stpnm>
+                			<pdist>5244.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.752196845358</lat>
+						<lon>-87.653732299805</lon>
+
+							<typ>S</typ>
+                			<stpid>5050</stpid>
+                			<stpnm>Racine &amp; 78th Street</stpnm>
+                			<pdist>5768.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.753949709106</lat>
+						<lon>-87.653785943985</lon>
+
+							<typ>S</typ>
+                			<stpid>5051</stpid>
+                			<stpnm>Racine &amp; 77th Street</stpnm>
+                			<pdist>6435.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.756210752601</lat>
+						<lon>-87.653839588165</lon>
+
+							<typ>S</typ>
+                			<stpid>10916</stpid>
+                			<stpnm>Racine &amp; 76th Street</stpnm>
+                			<pdist>7095.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.757443287899</lat>
+						<lon>-87.653866410255</lon>
+
+							<typ>S</typ>
+                			<stpid>5053</stpid>
+                			<stpnm>Racine &amp; 75th Street</stpnm>
+                			<pdist>7700.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.758675799526</lat>
+						<lon>-87.653898596764</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.759476119076</lat>
+						<lon>-87.653946876526</lon>
+
+							<typ>S</typ>
+                			<stpid>5054</stpid>
+                			<stpnm>Racine &amp; 74th Street</stpnm>
+                			<pdist>8442.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.761256794264455</lat>
+						<lon>-87.653968334198</lon>
+
+							<typ>S</typ>
+                			<stpid>5055</stpid>
+                			<stpnm>Racine &amp; 73rd Street</stpnm>
+                			<pdist>9107.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.76305742679186</lat>
+						<lon>-87.6540219783783</lon>
+
+							<typ>S</typ>
+                			<stpid>5056</stpid>
+                			<stpnm>Racine &amp; 72nd Street</stpnm>
+                			<pdist>9783.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.764894019915</lat>
+						<lon>-87.654070258141</lon>
+
+							<typ>S</typ>
+                			<stpid>5057</stpid>
+                			<stpnm>Racine &amp; 71st Street</stpnm>
+                			<pdist>10446.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.766686548127964</lat>
+						<lon>-87.65412390232086</lon>
+
+							<typ>S</typ>
+                			<stpid>5058</stpid>
+                			<stpnm>Racine &amp; 70th Street</stpnm>
+                			<pdist>11119.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.76899915562819</lat>
+						<lon>-87.65419900417328</lon>
+
+							<typ>S</typ>
+                			<stpid>15781</stpid>
+                			<stpnm>Racine &amp; 69th Street</stpnm>
+                			<pdist>11947.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.77036747582716</lat>
+						<lon>-87.65422582626343</lon>
+
+							<typ>S</typ>
+                			<stpid>5060</stpid>
+                			<stpnm>Racine &amp; 68th Street</stpnm>
+                			<pdist>12439.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.77221586203245</lat>
+						<lon>-87.65426337718964</lon>
+
+							<typ>S</typ>
+                			<stpid>5061</stpid>
+                			<stpnm>Racine &amp; Marquette Rd</stpnm>
+                			<pdist>13108.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.774004185002866</lat>
+						<lon>-87.65431702136993</lon>
+
+							<typ>S</typ>
+                			<stpid>5062</stpid>
+                			<stpnm>Racine &amp; 66th Street</stpnm>
+                			<pdist>13777.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.77582046199415</lat>
+						<lon>-87.65437066555023</lon>
+
+							<typ>S</typ>
+                			<stpid>5063</stpid>
+                			<stpnm>Racine &amp; 65th Street</stpnm>
+                			<pdist>14442.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.777644688431565</lat>
+						<lon>-87.65440821647644</lon>
+
+							<typ>S</typ>
+                			<stpid>5064</stpid>
+                			<stpnm>Racine &amp; 64th Street</stpnm>
+                			<pdist>15102.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.77965287770754</lat>
+						<lon>-87.65446722507477</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.779648877393</lat>
+						<lon>-87.65464425087</lon>
+
+							<typ>S</typ>
+                			<stpid>16196</stpid>
+                			<stpnm>63rd Street &amp; Racine</stpnm>
+                			<pdist>15926.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.779600873599</lat>
+						<lon>-87.656870484352</lon>
+
+							<typ>S</typ>
+                			<stpid>3242</stpid>
+                			<stpnm>63rd Street &amp; Throop</stpnm>
+                			<pdist>16458.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.779576871689</lat>
+						<lon>-87.659230828285</lon>
+
+							<typ>S</typ>
+                			<stpid>3243</stpid>
+                			<stpnm>63rd Street &amp; Loomis</stpnm>
+                			<pdist>17123.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.779524867519</lat>
+						<lon>-87.661870121956</lon>
+
+							<typ>S</typ>
+                			<stpid>3244</stpid>
+                			<stpnm>63rd Street &amp; Laflin</stpnm>
+                			<pdist>17786.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.7795168668734</lat>
+						<lon>-87.66295909881592</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.778784803605454</lat>
+						<lon>-87.66294300556183</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.77878080323678</lat>
+						<lon>-87.66332387924194</lon>
+
+							<typ>S</typ>
+                			<stpid>17810</stpid>
+                			<stpnm>Ashland/63rd Station (Red Line)</stpnm>
+                			<pdist>18481.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.77878080323678</lat>
+						<lon>-87.66404271125793</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.779412858394</lat>
+						<lon>-87.664069533348</lon>
+
+							<typ>S</typ>
+                			<stpid>6180</stpid>
+                			<stpnm>Ashland &amp; 63rd Street</stpnm>
+                			<pdist>18880.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.77943686036562</lat>
+						<lon>-87.66401588916779</lon>
+
+							<typ>S</typ>
+                			<stpid>3413</stpid>
+                			<stpnm>63rd Street &amp; Ashland</stpnm>
+                			<pdist>19007.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.779464862655</lat>
+						<lon>-87.661902308464</lon>
+
+							<typ>S</typ>
+                			<stpid>3414</stpid>
+                			<stpnm>63rd Street &amp; Laflin</stpnm>
+                			<pdist>19491.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.779508866227</lat>
+						<lon>-87.659472227097</lon>
+
+							<typ>S</typ>
+                			<stpid>3415</stpid>
+                			<stpnm>63rd Street &amp; Loomis</stpnm>
+                			<pdist>20156.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.779540868806</lat>
+						<lon>-87.657101154327</lon>
+
+							<typ>S</typ>
+                			<stpid>3416</stpid>
+                			<stpnm>63rd Street &amp; Throop</stpnm>
+                			<pdist>20821.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.77958487232654</lat>
+						<lon>-87.65446722507477</lon>
+
+							<typ>S</typ>
+                			<stpid>17802</stpid>
+                			<stpnm>Racine &amp; 63rd Street</stpnm>
+                			<pdist>21628.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.781316986909</lat>
+						<lon>-87.654494047165</lon>
+
+							<typ>S</typ>
+                			<stpid>5067</stpid>
+                			<stpnm>Racine &amp; 62nd Street</stpnm>
+                			<pdist>22296.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.783113056314</lat>
+						<lon>-87.654542326927</lon>
+
+							<typ>S</typ>
+                			<stpid>5068</stpid>
+                			<stpnm>Racine &amp; 61st Street</stpnm>
+                			<pdist>22952.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.784949075263</lat>
+						<lon>-87.654585242271</lon>
+
+							<typ>S</typ>
+                			<stpid>5069</stpid>
+                			<stpnm>Racine &amp; 60th Street</stpnm>
+                			<pdist>23629.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.786793041376</lat>
+						<lon>-87.65464425087</lon>
+
+							<typ>S</typ>
+                			<stpid>5070</stpid>
+                			<stpnm>Racine &amp; 59th Street</stpnm>
+                			<pdist>24300.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.788584957632</lat>
+						<lon>-87.654692530632</lon>
+
+							<typ>S</typ>
+                			<stpid>5071</stpid>
+                			<stpnm>Racine &amp; 58th Street</stpnm>
+                			<pdist>24967.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.790400821671</lat>
+						<lon>-87.654730081558</lon>
+
+							<typ>S</typ>
+                			<stpid>5072</stpid>
+                			<stpnm>Racine &amp; 57th Street</stpnm>
+                			<pdist>25632.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.792236631922</lat>
+						<lon>-87.654762268066</lon>
+
+							<typ>S</typ>
+                			<stpid>5073</stpid>
+                			<stpnm>Racine &amp; 56th Street</stpnm>
+                			<pdist>26300.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.79367644631</lat>
+						<lon>-87.654789090157</lon>
+
+							<typ>S</typ>
+                			<stpid>5074</stpid>
+                			<stpnm>Racine &amp; Garfield</stpnm>
+                			<pdist>26835.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.794432335917</lat>
+						<lon>-87.654815912247</lon>
+
+							<typ>S</typ>
+                			<stpid>5075</stpid>
+                			<stpnm>Racine &amp; Garfield</stpnm>
+                			<pdist>27098.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.795840106556</lat>
+						<lon>-87.654864192009</lon>
+
+							<typ>S</typ>
+                			<stpid>5076</stpid>
+                			<stpnm>Racine &amp; 54th Street</stpnm>
+                			<pdist>27638.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.797659764263</lat>
+						<lon>-87.654907107353</lon>
+
+							<typ>S</typ>
+                			<stpid>5077</stpid>
+                			<stpnm>Racine &amp; 53rd Street</stpnm>
+                			<pdist>28315.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.799479370305</lat>
+						<lon>-87.654960751534</lon>
+
+							<typ>S</typ>
+                			<stpid>5078</stpid>
+                			<stpnm>Racine &amp; 52nd Street</stpnm>
+                			<pdist>28969.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.80132291846</lat>
+						<lon>-87.65499830246</lon>
+
+							<typ>S</typ>
+                			<stpid>5079</stpid>
+                			<stpnm>Racine &amp; 51st Street</stpnm>
+                			<pdist>29648.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.803130423942</lat>
+						<lon>-87.655046582222</lon>
+
+							<typ>S</typ>
+                			<stpid>5080</stpid>
+                			<stpnm>Racine &amp; 50th Street</stpnm>
+                			<pdist>30324.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.805349746996</lat>
+						<lon>-87.655100226402</lon>
+
+							<typ>S</typ>
+                			<stpid>5081</stpid>
+                			<stpnm>Racine &amp; 49th Street</stpnm>
+                			<pdist>31126.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.806813258516</lat>
+						<lon>-87.655148506165</lon>
+
+							<typ>S</typ>
+                			<stpid>5082</stpid>
+                			<stpnm>Racine &amp; 48th Street</stpnm>
+                			<pdist>31652.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.808604615088</lat>
+						<lon>-87.655191421509</lon>
+
+							<typ>S</typ>
+                			<stpid>5083</stpid>
+                			<stpnm>Racine &amp; 47th Street</stpnm>
+                			<pdist>32329.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.808704577707</lat>
+						<lon>-87.655186057091</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.808740564212</lat>
+						<lon>-87.652992010117</lon>
+
+							<typ>S</typ>
+                			<stpid>5084</stpid>
+                			<stpnm>47th Street &amp; Aberdeen</stpnm>
+                			<pdist>32947.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.808760556706</lat>
+						<lon>-87.650540471077</lon>
+
+							<typ>S</typ>
+                			<stpid>5085</stpid>
+                			<stpnm>47th Street &amp; Morgan</stpnm>
+                			<pdist>33615.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.808800541675</lat>
+						<lon>-87.648362517357</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.808840526619</lat>
+						<lon>-87.645680308342</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.808840526619</lat>
+						<lon>-87.645492553711</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.809132415954</lat>
+						<lon>-87.645487189293</lon>
+
+							<typ>S</typ>
+                			<stpid>5086</stpid>
+                			<stpnm>Halsted &amp; 47th Street</stpnm>
+                			<pdist>35072.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.810599839446</lat>
+						<lon>-87.645514011383</lon>
+
+							<typ>S</typ>
+                			<stpid>5087</stpid>
+                			<stpnm>Halsted &amp; 46th Street</stpnm>
+                			<pdist>35614.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.812371098776</lat>
+						<lon>-87.645556926727</lon>
+
+							<typ>S</typ>
+                			<stpid>5088</stpid>
+                			<stpnm>Halsted &amp; 45th Street</stpnm>
+                			<pdist>36451.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.814742030653</lat>
+						<lon>-87.645626664162</lon>
+
+							<typ>S</typ>
+                			<stpid>5090</stpid>
+                			<stpnm>Halsted &amp; 43rd Place</stpnm>
+                			<pdist>37126.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.816085386491</lat>
+						<lon>-87.645664215088</lon>
+
+							<typ>S</typ>
+                			<stpid>5091</stpid>
+                			<stpnm>Halsted &amp; 43rd Street</stpnm>
+                			<pdist>37616.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.817676587011</lat>
+						<lon>-87.645701766014</lon>
+
+							<typ>S</typ>
+                			<stpid>5092</stpid>
+                			<stpnm>Halsted &amp; 42nd Street</stpnm>
+                			<pdist>38110.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.818776011512</lat>
+						<lon>-87.645755410194</lon>
+
+							<typ>S</typ>
+                			<stpid>5093</stpid>
+                			<stpnm>Halsted &amp; Exchange</stpnm>
+                			<pdist>38521.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.818708047635</lat>
+						<lon>-87.645701766014</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.81874402852</lat>
+						<lon>-87.645562291145</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.81888395399</lat>
+						<lon>-87.644612789154</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.818939924093</lat>
+						<lon>-87.644387483597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.818939924093</lat>
+						<lon>-87.643014192581</lon>
+
+							<typ>S</typ>
+                			<stpid>17149</stpid>
+                			<stpnm>Root &amp; Union</stpnm>
+                			<pdist>39381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.818959913403</lat>
+						<lon>-87.640868425369</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.819843434695</lat>
+						<lon>-87.640900611877</lon>
+
+							<typ>S</typ>
+                			<stpid>5095</stpid>
+                			<stpnm>Wallace &amp; 41st Street</stpnm>
+                			<pdist>40203.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.823433364137</lat>
+						<lon>-87.641007900238</lon>
+
+							<typ>S</typ>
+                			<stpid>5098</stpid>
+                			<stpnm>Wallace &amp; Pershing</stpnm>
+                			<pdist>41514.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.825248240731</lat>
+						<lon>-87.641040086746</lon>
+
+							<typ>S</typ>
+                			<stpid>5099</stpid>
+                			<stpnm>Wallace &amp; 38th Street</stpnm>
+                			<pdist>42193.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.827088333333</lat>
+						<lon>-87.641104999999</lon>
+
+							<typ>S</typ>
+                			<stpid>5100</stpid>
+                			<stpnm>Wallace &amp; 37th Street</stpnm>
+                			<pdist>42864.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.828917811998</lat>
+						<lon>-87.641131281853</lon>
+
+							<typ>S</typ>
+                			<stpid>5101</stpid>
+                			<stpnm>Wallace &amp; 36th Street</stpnm>
+                			<pdist>43536.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.829677283047</lat>
+						<lon>-87.641163468361</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.830736530253</lat>
+						<lon>-87.641190290451</lon>
+
+							<typ>S</typ>
+                			<stpid>5102</stpid>
+                			<stpnm>Wallace &amp; 35th Street</stpnm>
+                			<pdist>44209.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.832563190862</lat>
+						<lon>-87.641222476959</lon>
+
+							<typ>S</typ>
+                			<stpid>5103</stpid>
+                			<stpnm>3403 S Wallace</stpnm>
+                			<pdist>44857.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.834373811748</lat>
+						<lon>-87.641270756721</lon>
+
+							<typ>S</typ>
+                			<stpid>5104</stpid>
+                			<stpnm>Wallace &amp; 33rd Street</stpnm>
+                			<pdist>45546.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.83618038463</lat>
+						<lon>-87.641324400902</lon>
+
+							<typ>S</typ>
+                			<stpid>5105</stpid>
+                			<stpnm>Wallace &amp; 32nd Street</stpnm>
+                			<pdist>46213.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.838386572613</lat>
+						<lon>-87.641378045082</lon>
+
+							<typ>S</typ>
+                			<stpid>14839</stpid>
+                			<stpnm>Wallace &amp; 31st Street</stpnm>
+                			<pdist>47062.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.839809363652</lat>
+						<lon>-87.64141023159</lon>
+
+							<typ>S</typ>
+                			<stpid>5107</stpid>
+                			<stpnm>Wallace &amp; 30th Street</stpnm>
+                			<pdist>47553.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.841655747556</lat>
+						<lon>-87.641442418098</lon>
+
+							<typ>S</typ>
+                			<stpid>5108</stpid>
+                			<stpnm>Wallace &amp; 29th Street</stpnm>
+                			<pdist>48237.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.842658847212</lat>
+						<lon>-87.641474604607</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.843450125886</lat>
+						<lon>-87.641485333443</lon>
+
+							<typ>S</typ>
+                			<stpid>5109</stpid>
+                			<stpnm>Wallace &amp; 28th Street</stpnm>
+                			<pdist>48901.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.844485167561</lat>
+						<lon>-87.641501426697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.845368336601</lat>
+						<lon>-87.641538977623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.845372332813</lat>
+						<lon>-87.641474604607</lon>
+
+							<typ>S</typ>
+                			<stpid>5110</stpid>
+                			<stpnm>Wallace &amp; 26th Street</stpnm>
+                			<pdist>49573.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.845388317659</lat>
+						<lon>-87.640117406845</lon>
+
+							<typ>S</typ>
+                			<stpid>5111</stpid>
+                			<stpnm>26th Street &amp; Normal</stpnm>
+                			<pdist>49996.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.845420287341</lat>
+						<lon>-87.638282775879</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.845604112699</lat>
+						<lon>-87.638293504715</lon>
+
+							<typ>S</typ>
+                			<stpid>5112</stpid>
+                			<stpnm>Canal &amp; 26th Street</stpnm>
+                			<pdist>50580.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.84626348192</lat>
+						<lon>-87.638325691223</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.84809369542</lat>
+						<lon>-87.638357877731</lon>
+
+							<typ>S</typ>
+                			<stpid>5113</stpid>
+                			<stpnm>Canal &amp; 24th Place</stpnm>
+                			<pdist>51438.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.848964826685</lat>
+						<lon>-87.638379335403</lon>
+
+							<typ>S</typ>
+                			<stpid>5114</stpid>
+                			<stpnm>Canal &amp; 24th Street</stpnm>
+                			<pdist>51772.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.849967811752</lat>
+						<lon>-87.638400793076</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.85079096703</lat>
+						<lon>-87.638427615166</lon>
+
+							<typ>S</typ>
+                			<stpid>5115</stpid>
+                			<stpnm>Canal &amp; 23rd Street/Archer</stpnm>
+                			<pdist>52389.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.851146598801</lat>
+						<lon>-87.638465166092</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.850463304548</lat>
+						<lon>-87.639757990837</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.849979799527</lat>
+						<lon>-87.640331983566</lon>
+
+							<typ>S</typ>
+                			<stpid>4466</stpid>
+                			<stpnm>Archer &amp; Grove</stpnm>
+                			<pdist>53281.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.849720063915</lat>
+						<lon>-87.640734314919</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.848936854764</lat>
+						<lon>-87.642306089401</lon>
+
+							<typ>S</typ>
+                			<stpid>4467</stpid>
+                			<stpnm>Archer &amp; Wallace</stpnm>
+                			<pdist>53933.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.848613178795</lat>
+						<lon>-87.643008828163</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.848377413786</lat>
+						<lon>-87.643985152245</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.84824154881</lat>
+						<lon>-87.644521594048</lon>
+
+							<typ>S</typ>
+                			<stpid>4468</stpid>
+                			<stpnm>Archer &amp; Lowe</stpnm>
+                			<pdist>54469.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.847358419432</lat>
+						<lon>-87.646297216415</lon>
+
+							<typ>S</typ>
+                			<stpid>4469</stpid>
+                			<stpnm>Archer &amp; Halsted</stpnm>
+                			<pdist>55012.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.846687073107</lat>
+						<lon>-87.647675871849</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.846535219985</lat>
+						<lon>-87.647611498833</lon>
+
+							<typ>S</typ>
+                			<stpid>4470</stpid>
+                			<stpnm>Halsted Orange Line Station</stpnm>
+                			<pdist>55515.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>6705</pid>
+				<ln>55679.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.846535219985</lat>
+						<lon>-87.647611498833</lon>
+
+							<typ>S</typ>
+                			<stpid>4470</stpid>
+                			<stpnm>Halsted Orange Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.84661913886</lat>
+						<lon>-87.647659778595</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.847070700441</lat>
+						<lon>-87.64674782753</lon>
+
+							<typ>S</typ>
+                			<stpid>4449</stpid>
+                			<stpnm>Archer &amp; Halsted</stpnm>
+                			<pdist>828.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.847666117477</lat>
+						<lon>-87.645476460457</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.84808570333486</lat>
+						<lon>-87.64457523822784</lon>
+
+							<typ>S</typ>
+                			<stpid>4450</stpid>
+                			<stpnm>Archer &amp; Lowe</stpnm>
+                			<pdist>1543.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.8481656241386</lat>
+						<lon>-87.64439821243286</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.848337453529</lat>
+						<lon>-87.643893957138</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.84853325855</lat>
+						<lon>-87.643046379089</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.848721070966</lat>
+						<lon>-87.642601132393</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.849048742373</lat>
+						<lon>-87.641887664795</lon>
+
+							<typ>S</typ>
+                			<stpid>4451</stpid>
+                			<stpnm>Archer &amp; Wallace</stpnm>
+                			<pdist>2357.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.849612173428</lat>
+						<lon>-87.640798687935</lon>
+
+							<typ>S</typ>
+                			<stpid>15118</stpid>
+                			<stpnm>Archer &amp; Normal</stpnm>
+                			<pdist>2717.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.849959819902</lat>
+						<lon>-87.640230059624</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.85021156272</lat>
+						<lon>-87.639935016632</lon>
+
+							<typ>S</typ>
+                			<stpid>4452</stpid>
+                			<stpnm>Archer &amp; 23rd Place</stpnm>
+                			<pdist>3086.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.850399370209</lat>
+						<lon>-87.639741897583</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.850910843129</lat>
+						<lon>-87.638749480248</lon>
+
+							<typ>S</typ>
+                			<stpid>4453</stpid>
+                			<stpnm>Archer &amp; Canal</stpnm>
+                			<pdist>3476.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.851030719003</lat>
+						<lon>-87.638518810272</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.849628157216</lat>
+						<lon>-87.638465166092</lon>
+
+							<typ>S</typ>
+                			<stpid>17409</stpid>
+                			<stpnm>Canal &amp; 24th Street</stpnm>
+                			<pdist>4022.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.84798580219</lat>
+						<lon>-87.63844370842</lon>
+
+							<typ>S</typ>
+                			<stpid>5129</stpid>
+                			<stpnm>Canal &amp; 24th Place</stpnm>
+                			<pdist>4641.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.847438341145</lat>
+						<lon>-87.638432979584</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.847010758822</lat>
+						<lon>-87.63841688633</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.846395354949</lat>
+						<lon>-87.638400793076</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.845572143109</lat>
+						<lon>-87.638373970985</lon>
+
+							<typ>S</typ>
+                			<stpid>5130</stpid>
+                			<stpnm>Canal &amp; 26th Street</stpnm>
+                			<pdist>5486.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.84546024942009</lat>
+						<lon>-87.63837933540344</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.84543627217557</lat>
+						<lon>-87.63977944850922</lon>
+
+							<typ>S</typ>
+                			<stpid>5131</stpid>
+                			<stpnm>26th Street &amp; Normal</stpnm>
+                			<pdist>5889.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.84540030629189</lat>
+						<lon>-87.64162480831146</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.845244453896</lat>
+						<lon>-87.641614079475</lon>
+
+							<typ>S</typ>
+                			<stpid>5132</stpid>
+                			<stpnm>Wallace &amp; 26th Street</stpnm>
+                			<pdist>6466.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.843669923781</lat>
+						<lon>-87.641587257385</lon>
+
+							<typ>S</typ>
+                			<stpid>5133</stpid>
+                			<stpnm>Wallace &amp; 28th Street</stpnm>
+                			<pdist>6997.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.841851573027</lat>
+						<lon>-87.641522884369</lon>
+
+							<typ>S</typ>
+                			<stpid>5134</stpid>
+                			<stpnm>Wallace &amp; 29th Street</stpnm>
+                			<pdist>7669.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.840017184415</lat>
+						<lon>-87.641496062279</lon>
+
+							<typ>S</typ>
+                			<stpid>5135</stpid>
+                			<stpnm>Wallace &amp; 30th Street</stpnm>
+                			<pdist>8348.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.838230703133</lat>
+						<lon>-87.641458511353</lon>
+
+							<typ>S</typ>
+                			<stpid>5136</stpid>
+                			<stpnm>Wallace &amp; 31st Street</stpnm>
+                			<pdist>9010.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.836432181668</lat>
+						<lon>-87.641415596008</lon>
+
+							<typ>S</typ>
+                			<stpid>5137</stpid>
+                			<stpnm>Wallace &amp; 32nd Street</stpnm>
+                			<pdist>9686.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.834569659503</lat>
+						<lon>-87.64135658741</lon>
+
+							<typ>S</typ>
+                			<stpid>5138</stpid>
+                			<stpnm>Wallace &amp; 33rd Street</stpnm>
+                			<pdist>10348.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.832515226698</lat>
+						<lon>-87.64130294323</lon>
+
+							<typ>S</typ>
+                			<stpid>5139</stpid>
+                			<stpnm>3406 S Wallace</stpnm>
+                			<pdist>11202.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.831020325584</lat>
+						<lon>-87.64127612114</lon>
+
+							<typ>S</typ>
+                			<stpid>5140</stpid>
+                			<stpnm>Wallace &amp; 35th Street</stpnm>
+                			<pdist>11698.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.829649302695</lat>
+						<lon>-87.641243934631</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.829129665355</lat>
+						<lon>-87.641233205795</lon>
+
+							<typ>S</typ>
+                			<stpid>5141</stpid>
+                			<stpnm>Wallace &amp; 36th Street</stpnm>
+                			<pdist>12363.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.827274925376</lat>
+						<lon>-87.641179561615</lon>
+
+							<typ>S</typ>
+                			<stpid>5142</stpid>
+                			<stpnm>Wallace &amp; 37th Street</stpnm>
+                			<pdist>13034.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.825496083322</lat>
+						<lon>-87.641136646271</lon>
+
+							<typ>S</typ>
+                			<stpid>5143</stpid>
+                			<stpnm>Wallace &amp; 38th Street</stpnm>
+                			<pdist>13698.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.823605259941</lat>
+						<lon>-87.641104459763</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.823281455833</lat>
+						<lon>-87.641099095345</lon>
+
+							<typ>S</typ>
+                			<stpid>14861</stpid>
+                			<stpnm>Wallace &amp; Pershing</stpnm>
+                			<pdist>14524.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.819091842696</lat>
+						<lon>-87.640964984894</lon>
+
+							<typ>S</typ>
+                			<stpid>5147</stpid>
+                			<stpnm>Wallace &amp; Root</stpnm>
+                			<pdist>16009.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.819023879155</lat>
+						<lon>-87.640964984894</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.818995894147</lat>
+						<lon>-87.64320731163</lon>
+
+							<typ>S</typ>
+                			<stpid>5148</stpid>
+                			<stpnm>Root &amp; Union</stpnm>
+                			<pdist>16639.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.818999892006</lat>
+						<lon>-87.644355297089</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.81903187487</lat>
+						<lon>-87.644618153572</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.819011885582</lat>
+						<lon>-87.644805908203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.81899189628731</lat>
+						<lon>-87.64584124088287</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.818344239776685</lat>
+						<lon>-87.64581978321075</lon>
+
+							<typ>S</typ>
+                			<stpid>5149</stpid>
+                			<stpnm>Halsted &amp; Exchange</stpnm>
+                			<pdist>17547.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.817576638393</lat>
+						<lon>-87.645787596703</lon>
+
+							<typ>S</typ>
+                			<stpid>5150</stpid>
+                			<stpnm>Halsted &amp; 42nd Street</stpnm>
+                			<pdist>17892.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.816333264548</lat>
+						<lon>-87.645750045776</lon>
+
+							<typ>S</typ>
+                			<stpid>17060</stpid>
+                			<stpnm>Halsted &amp; 43rd Street</stpnm>
+                			<pdist>18452.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.81453012968884</lat>
+						<lon>-87.64571785926819</lon>
+
+							<typ>S</typ>
+                			<stpid>17170</stpid>
+                			<stpnm>Halsted &amp; 43rd Place</stpnm>
+                			<pdist>18932.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.81267896504049</lat>
+						<lon>-87.64566421508789</lon>
+
+							<typ>S</typ>
+                			<stpid>17158</stpid>
+                			<stpnm>Halsted &amp; 45th Street</stpnm>
+                			<pdist>19777.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.8107357843356</lat>
+						<lon>-87.64563202857971</lon>
+
+							<typ>S</typ>
+                			<stpid>5155</stpid>
+                			<stpnm>Halsted &amp; 46th Street</stpnm>
+                			<pdist>20388.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.80889650549823</lat>
+						<lon>-87.64557838439941</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.808888508518</lat>
+						<lon>-87.645916342735</lon>
+
+							<typ>S</typ>
+                			<stpid>15457</stpid>
+                			<stpnm>47th Street &amp; Halsted</stpnm>
+                			<pdist>21106.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.808832529632</lat>
+						<lon>-87.65039563179</lon>
+
+							<typ>S</typ>
+                			<stpid>5157</stpid>
+                			<stpnm>47th Street &amp; Morgan</stpnm>
+                			<pdist>22232.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.80880454017</lat>
+						<lon>-87.652868628502</lon>
+
+							<typ>S</typ>
+                			<stpid>5158</stpid>
+                			<stpnm>47th Street &amp; Aberdeen</stpnm>
+                			<pdist>22959.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.808768553701</lat>
+						<lon>-87.655277252197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.80852864339367</lat>
+						<lon>-87.65527725219727</lon>
+
+							<typ>S</typ>
+                			<stpid>5159</stpid>
+                			<stpnm>Racine &amp; 47th Street</stpnm>
+                			<pdist>23698.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.807057173851824</lat>
+						<lon>-87.65525043010712</lon>
+
+							<typ>S</typ>
+                			<stpid>5160</stpid>
+                			<stpnm>Racine &amp; 48th Street</stpnm>
+                			<pdist>24217.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.80518979835582</lat>
+						<lon>-87.65519142150879</lon>
+
+							<typ>S</typ>
+                			<stpid>5161</stpid>
+                			<stpnm>Racine &amp; 49th Street</stpnm>
+                			<pdist>24888.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.8033743532992</lat>
+						<lon>-87.65515387058258</lon>
+
+							<typ>S</typ>
+                			<stpid>5162</stpid>
+                			<stpnm>Racine &amp; 50th Street</stpnm>
+                			<pdist>25552.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.80161884098938</lat>
+						<lon>-87.65512704849243</lon>
+
+							<typ>S</typ>
+                			<stpid>5163</stpid>
+                			<stpnm>Racine &amp; 51st Street</stpnm>
+                			<pdist>26219.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.799783299465105</lat>
+						<lon>-87.65506267547607</lon>
+
+							<typ>S</typ>
+                			<stpid>5164</stpid>
+                			<stpnm>Racine &amp; 52nd Street</stpnm>
+                			<pdist>26882.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.797903714445</lat>
+						<lon>-87.655003666878</lon>
+
+							<typ>S</typ>
+                			<stpid>5165</stpid>
+                			<stpnm>Racine &amp; 53rd Street</stpnm>
+                			<pdist>27558.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.795996079241</lat>
+						<lon>-87.654950022697</lon>
+
+							<typ>S</typ>
+                			<stpid>5166</stpid>
+                			<stpnm>Racine &amp; 54th Street </stpnm>
+                			<pdist>28225.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.79426836062218</lat>
+						<lon>-87.65490710735321</lon>
+
+							<typ>S</typ>
+                			<stpid>5167</stpid>
+                			<stpnm>Racine &amp; Garfield</stpnm>
+                			<pdist>28872.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.793472474572</lat>
+						<lon>-87.654874920845</lon>
+
+							<typ>S</typ>
+                			<stpid>5168</stpid>
+                			<stpnm>Racine &amp; Garfield</stpnm>
+                			<pdist>29187.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.792476603233</lat>
+						<lon>-87.654853463173</lon>
+
+							<typ>S</typ>
+                			<stpid>5169</stpid>
+                			<stpnm>Racine &amp; 56th Street</stpnm>
+                			<pdist>29552.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.790660797996</lat>
+						<lon>-87.654832005501</lon>
+
+							<typ>S</typ>
+                			<stpid>5170</stpid>
+                			<stpnm>Racine &amp; 57th Street</stpnm>
+                			<pdist>30231.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.788792944668</lat>
+						<lon>-87.654789090157</lon>
+
+							<typ>S</typ>
+                			<stpid>5171</stpid>
+                			<stpnm>Racine &amp; 58th Street</stpnm>
+                			<pdist>30906.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.787041032773</lat>
+						<lon>-87.654740810394</lon>
+
+							<typ>S</typ>
+                			<stpid>5172</stpid>
+                			<stpnm>Racine &amp; 59th Street</stpnm>
+                			<pdist>31569.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.78520907369702</lat>
+						<lon>-87.65468716621399</lon>
+
+							<typ>S</typ>
+                			<stpid>5173</stpid>
+                			<stpnm>Racine &amp; 60th Street</stpnm>
+                			<pdist>32241.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.78334906169465</lat>
+						<lon>-87.65464425086975</lon>
+
+							<typ>S</typ>
+                			<stpid>5174</stpid>
+                			<stpnm>Racine &amp; 61st Street</stpnm>
+                			<pdist>32909.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.78151299692911</lat>
+						<lon>-87.65458524227142</lon>
+
+							<typ>S</typ>
+                			<stpid>5175</stpid>
+                			<stpnm>Racine &amp; 62nd Street</stpnm>
+                			<pdist>33580.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.77964887739301</lat>
+						<lon>-87.65454232692719</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.779648877393</lat>
+						<lon>-87.65464425087</lon>
+
+							<typ>S</typ>
+                			<stpid>16196</stpid>
+                			<stpnm>63rd Street &amp; Racine</stpnm>
+                			<pdist>34349.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.779600873599</lat>
+						<lon>-87.656870484352</lon>
+
+							<typ>S</typ>
+                			<stpid>3242</stpid>
+                			<stpnm>63rd Street &amp; Throop</stpnm>
+                			<pdist>34881.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.779576871689</lat>
+						<lon>-87.659230828285</lon>
+
+							<typ>S</typ>
+                			<stpid>3243</stpid>
+                			<stpnm>63rd Street &amp; Loomis</stpnm>
+                			<pdist>35546.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.779524867519</lat>
+						<lon>-87.661870121956</lon>
+
+							<typ>S</typ>
+                			<stpid>3244</stpid>
+                			<stpnm>63rd Street &amp; Laflin</stpnm>
+                			<pdist>36209.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.779508866227</lat>
+						<lon>-87.663039565086</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.778788803974</lat>
+						<lon>-87.663023471832</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.778793333333</lat>
+						<lon>-87.663706666666</lon>
+
+							<typ>S</typ>
+                			<stpid>17809</stpid>
+                			<stpnm>Ashland/63rd Station (Red Line)</stpnm>
+                			<pdist>36992.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.77878880397388</lat>
+						<lon>-87.66404807567596</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.77943686036562</lat>
+						<lon>-87.66406953334808</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.77943686036562</lat>
+						<lon>-87.66401588916779</lon>
+
+							<typ>S</typ>
+                			<stpid>3413</stpid>
+                			<stpnm>63rd Street &amp; Ashland</stpnm>
+                			<pdist>37446.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.779464862655</lat>
+						<lon>-87.661902308464</lon>
+
+							<typ>S</typ>
+                			<stpid>3414</stpid>
+                			<stpnm>63rd Street &amp; Laflin</stpnm>
+                			<pdist>37930.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.779508866227</lat>
+						<lon>-87.659472227097</lon>
+
+							<typ>S</typ>
+                			<stpid>3415</stpid>
+                			<stpnm>63rd Street &amp; Loomis</stpnm>
+                			<pdist>38595.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.779540868806</lat>
+						<lon>-87.657101154327</lon>
+
+							<typ>S</typ>
+                			<stpid>3416</stpid>
+                			<stpnm>63rd Street &amp; Throop</stpnm>
+                			<pdist>39260.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.779580872007756</lat>
+						<lon>-87.65453696250916</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.77958887264504</lat>
+						<lon>-87.65444040298462</lon>
+
+							<typ>S</typ>
+                			<stpid>3417</stpid>
+                			<stpnm>63rd Street &amp; Racine</stpnm>
+                			<pdist>39928.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.77958487232654</lat>
+						<lon>-87.65454232692719</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.77792871901975</lat>
+						<lon>-87.65450477600098</lon>
+
+							<typ>S</typ>
+                			<stpid>5178</stpid>
+                			<stpnm>Racine &amp; 64th Street</stpnm>
+                			<pdist>40560.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.776072496367426</lat>
+						<lon>-87.65446186065674</lon>
+
+							<typ>S</typ>
+                			<stpid>5179</stpid>
+                			<stpnm>Racine &amp; 65th Street</stpnm>
+                			<pdist>41244.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.77418821540972</lat>
+						<lon>-87.65439748764038</lon>
+
+							<typ>S</typ>
+                			<stpid>5180</stpid>
+                			<stpnm>Racine &amp; 66th Street</stpnm>
+                			<pdist>41912.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.77243990522599</lat>
+						<lon>-87.65435993671417</lon>
+
+							<typ>S</typ>
+                			<stpid>5181</stpid>
+                			<stpnm>Racine &amp; Marquette Rd</stpnm>
+                			<pdist>42543.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.7706235325055</lat>
+						<lon>-87.6543116569519</lon>
+
+							<typ>S</typ>
+                			<stpid>5182</stpid>
+                			<stpnm>Racine &amp; 68th Street</stpnm>
+                			<pdist>43215.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.768503032323196</lat>
+						<lon>-87.6542741060257</lon>
+
+							<typ>S</typ>
+                			<stpid>17065</stpid>
+                			<stpnm>Racine &amp; 69th street</stpnm>
+                			<pdist>44012.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.76696262503148</lat>
+						<lon>-87.65422582626343</lon>
+
+							<typ>S</typ>
+                			<stpid>5184</stpid>
+                			<stpnm>Racine &amp; 70th Street</stpnm>
+                			<pdist>44520.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.76517010453191</lat>
+						<lon>-87.65415608882904</lon>
+
+							<typ>S</typ>
+                			<stpid>5185</stpid>
+                			<stpnm>Racine &amp; 71st Street</stpnm>
+                			<pdist>45188.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.76337753395126</lat>
+						<lon>-87.65410244464874</lon>
+
+							<typ>S</typ>
+                			<stpid>5186</stpid>
+                			<stpnm>Racine &amp; 72nd Street</stpnm>
+                			<pdist>45860.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.76154890030802</lat>
+						<lon>-87.65406489372253</lon>
+
+							<typ>S</typ>
+                			<stpid>5187</stpid>
+                			<stpnm>Racine &amp; 73rd Street</stpnm>
+                			<pdist>46528.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.759220017906</lat>
+						<lon>-87.65401661396</lon>
+
+							<typ>S</typ>
+                			<stpid>5188</stpid>
+                			<stpnm>Racine &amp; 74th Street</stpnm>
+                			<pdist>47195.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.758683802771</lat>
+						<lon>-87.653995156288</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.757619362437</lat>
+						<lon>-87.653957605362</lon>
+
+							<typ>S</typ>
+                			<stpid>5189</stpid>
+                			<stpnm>Racine &amp; 75th Street</stpnm>
+                			<pdist>47871.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.756246768579</lat>
+						<lon>-87.653925418854</lon>
+
+							<typ>S</typ>
+                			<stpid>5190</stpid>
+                			<stpnm>Racine &amp; 76th Street</stpnm>
+                			<pdist>48314.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.754297874974</lat>
+						<lon>-87.653866410255</lon>
+
+							<typ>S</typ>
+                			<stpid>5191</stpid>
+                			<stpnm>Racine &amp; 77th Street</stpnm>
+                			<pdist>49026.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.752464980585</lat>
+						<lon>-87.653828859329</lon>
+
+							<typ>S</typ>
+                			<stpid>5192</stpid>
+                			<stpnm>Racine &amp; 78th Street</stpnm>
+                			<pdist>49706.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.750628031733</lat>
+						<lon>-87.653791308403</lon>
+
+							<typ>S</typ>
+                			<stpid>5193</stpid>
+                			<stpnm>Racine &amp; 79th Street</stpnm>
+                			<pdist>50369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.748787028074</lat>
+						<lon>-87.653726935387</lon>
+
+							<typ>S</typ>
+                			<stpid>5194</stpid>
+                			<stpnm>Racine &amp; 80th Street</stpnm>
+                			<pdist>51038.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.746961981033</lat>
+						<lon>-87.653678655624</lon>
+
+							<typ>S</typ>
+                			<stpid>5195</stpid>
+                			<stpnm>Racine &amp; 81st Street</stpnm>
+                			<pdist>51696.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.745152891974</lat>
+						<lon>-87.653630375862</lon>
+
+							<typ>S</typ>
+                			<stpid>5196</stpid>
+                			<stpnm>Racine &amp; 82nd Street</stpnm>
+                			<pdist>52369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.743327741625</lat>
+						<lon>-87.653592824936</lon>
+
+							<typ>S</typ>
+                			<stpid>5197</stpid>
+                			<stpnm>Racine &amp; 83rd Street</stpnm>
+                			<pdist>53044.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.741486528618</lat>
+						<lon>-87.653523087502</lon>
+
+							<typ>S</typ>
+                			<stpid>5198</stpid>
+                			<stpnm>Racine &amp; 84th Street</stpnm>
+                			<pdist>53713.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.739697299314</lat>
+						<lon>-87.653474807739</lon>
+
+							<typ>S</typ>
+                			<stpid>5199</stpid>
+                			<stpnm>Racine &amp; 85th Street</stpnm>
+                			<pdist>54386.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.73790401724</lat>
+						<lon>-87.653426527977</lon>
+
+							<typ>S</typ>
+                			<stpid>5200</stpid>
+                			<stpnm>Racine &amp; 86th Street</stpnm>
+                			<pdist>55050.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.736579037826</lat>
+						<lon>-87.653399705887</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.736579037826</lat>
+						<lon>-87.653115391731</lon>
+
+							<typ>S</typ>
+                			<stpid>5041</stpid>
+                			<stpnm>Racine &amp; 87th Street Terminal</stpnm>
+                			<pdist>55679.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

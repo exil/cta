@@ -1,0 +1,3996 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4634</pid>
+				<ln>88619.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.956398489731</lat>
+						<lon>-87.663441896439</lon>
+
+							<typ>S</typ>
+                			<stpid>1931</stpid>
+                			<stpnm>Clark &amp; Belle Plaine</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.957587281078</lat>
+						<lon>-87.664182186127</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.957559356704</lat>
+						<lon>-87.664246559143</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.957140489616</lat>
+						<lon>-87.664316296577</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.956230940174</lat>
+						<lon>-87.664284110069</lon>
+
+							<typ>S</typ>
+                			<stpid>5993</stpid>
+                			<stpnm>Southport &amp; Belle Plaine</stpnm>
+                			<pdist>604.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.954403823559</lat>
+						<lon>-87.664246559143</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.954391855374</lat>
+						<lon>-87.664686441422</lon>
+
+							<typ>S</typ>
+                			<stpid>15275</stpid>
+                			<stpnm>Irving Park &amp; Southport</stpnm>
+                			<pdist>1345.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.954351961406</lat>
+						<lon>-87.667315006256</lon>
+
+							<typ>S</typ>
+                			<stpid>5681</stpid>
+                			<stpnm>Irving Park &amp; Greenview</stpnm>
+                			<pdist>2207.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.954336003812</lat>
+						<lon>-87.669160366058</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.954088660593</lat>
+						<lon>-87.66915500164</lon>
+
+							<typ>S</typ>
+                			<stpid>5995</stpid>
+                			<stpnm>Ashland &amp; Irving Park</stpnm>
+                			<pdist>2813.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.9526</lat>
+						<lon>-87.669110000001</lon>
+
+							<typ>S</typ>
+                			<stpid>5996</stpid>
+                			<stpnm>Ashland &amp; Byron</stpnm>
+                			<pdist>3316.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.950771666667</lat>
+						<lon>-87.669046666668</lon>
+
+							<typ>S</typ>
+                			<stpid>5997</stpid>
+                			<stpnm>Ashland &amp; Grace</stpnm>
+                			<pdist>3981.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.948926149173</lat>
+						<lon>-87.669010162354</lon>
+
+							<typ>S</typ>
+                			<stpid>5998</stpid>
+                			<stpnm>Ashland &amp; Waveland</stpnm>
+                			<pdist>4653.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.946747715213</lat>
+						<lon>-87.668956518173</lon>
+
+							<typ>S</typ>
+                			<stpid>17252</stpid>
+                			<stpnm>Ashland &amp; Addison</stpnm>
+                			<pdist>5474.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.945299374516</lat>
+						<lon>-87.668913602829</lon>
+
+							<typ>S</typ>
+                			<stpid>6000</stpid>
+                			<stpnm>Ashland &amp; Cornelia</stpnm>
+                			<pdist>5969.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.945159725602</lat>
+						<lon>-87.668913602829</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.9450160864</lat>
+						<lon>-87.668843865395</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.943444013983</lat>
+						<lon>-87.668806314468</lon>
+
+							<typ>S</typ>
+                			<stpid>6001</stpid>
+                			<stpnm>Ashland &amp; Roscoe</stpnm>
+                			<pdist>6641.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.941612540635</lat>
+						<lon>-87.668725848198</lon>
+
+							<typ>S</typ>
+                			<stpid>6002</stpid>
+                			<stpnm>Ashland &amp; School</stpnm>
+                			<pdist>7314.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.940028413416</lat>
+						<lon>-87.66869366169</lon>
+
+							<typ>S</typ>
+                			<stpid>6003</stpid>
+                			<stpnm>Ashland &amp; Belmont/Lincoln</stpnm>
+                			<pdist>7757.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.939306166031</lat>
+						<lon>-87.668677568436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.939166503991</lat>
+						<lon>-87.66874730587</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.938013282881</lat>
+						<lon>-87.668715119362</lon>
+
+							<typ>S</typ>
+                			<stpid>6004</stpid>
+                			<stpnm>Ashland &amp; Barry</stpnm>
+                			<pdist>8628.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.935894334371</lat>
+						<lon>-87.668629288673</lon>
+
+							<typ>S</typ>
+                			<stpid>14618</stpid>
+                			<stpnm>Ashland &amp; Wellington</stpnm>
+                			<pdist>9312.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.934202317399</lat>
+						<lon>-87.668564915657</lon>
+
+							<typ>S</typ>
+                			<stpid>6006</stpid>
+                			<stpnm>Ashland &amp; George</stpnm>
+                			<pdist>10067.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.932262827638</lat>
+						<lon>-87.668479084969</lon>
+
+							<typ>S</typ>
+                			<stpid>15795</stpid>
+                			<stpnm>Ashland &amp; Diversey</stpnm>
+                			<pdist>10817.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.930642550238</lat>
+						<lon>-87.668436169624</lon>
+
+							<typ>S</typ>
+                			<stpid>6008</stpid>
+                			<stpnm>2656 N Ashland</stpnm>
+                			<pdist>11389.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.928930439004</lat>
+						<lon>-87.66836643219</lon>
+
+							<typ>S</typ>
+                			<stpid>6009</stpid>
+                			<stpnm>Ashland &amp; Wrightwood</stpnm>
+                			<pdist>11960.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.927094557723</lat>
+						<lon>-87.668344974518</lon>
+
+							<typ>S</typ>
+                			<stpid>6010</stpid>
+                			<stpnm>Ashland &amp; Altgeld</stpnm>
+                			<pdist>12641.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.926044888817</lat>
+						<lon>-87.668323516846</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.925270597263</lat>
+						<lon>-87.668243050575</lon>
+
+							<typ>S</typ>
+                			<stpid>6011</stpid>
+                			<stpnm>Ashland &amp; Fullerton</stpnm>
+                			<pdist>13291.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.924380549486</lat>
+						<lon>-87.668162584305</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.924176994214</lat>
+						<lon>-87.668189406395</lon>
+
+							<typ>S</typ>
+                			<stpid>15976</stpid>
+                			<stpnm>Ashland &amp; Clybourn</stpnm>
+                			<pdist>13747.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.923977429592</lat>
+						<lon>-87.668232321739</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.921806126159</lat>
+						<lon>-87.66869366169</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.921594579779</lat>
+						<lon>-87.668731212616</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.921347109538</lat>
+						<lon>-87.668709754944</lon>
+
+							<typ>S</typ>
+                			<stpid>6013</stpid>
+                			<stpnm>Ashland &amp; Webster</stpnm>
+                			<pdist>14833.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.919115842583</lat>
+						<lon>-87.668355703354</lon>
+
+							<typ>S</typ>
+                			<stpid>6015</stpid>
+                			<stpnm>Ashland &amp; Elston</stpnm>
+                			<pdist>15519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.918636848449</lat>
+						<lon>-87.668226957321</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.917291654031</lat>
+						<lon>-87.667856812477</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.916980299353</lat>
+						<lon>-87.667808532715</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.916277749884</lat>
+						<lon>-87.667883634567</lon>
+
+							<typ>S</typ>
+                			<stpid>6016</stpid>
+                			<stpnm>Ashland &amp; Cortland</stpnm>
+                			<pdist>16605.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.916074168763</lat>
+						<lon>-87.667915821075</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.914317755652</lat>
+						<lon>-87.667878270149</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.912537342124</lat>
+						<lon>-87.667851448059</lon>
+
+							<typ>S</typ>
+                			<stpid>6018</stpid>
+                			<stpnm>Ashland &amp; Wabansia</stpnm>
+                			<pdist>17947.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.910752886806</lat>
+						<lon>-87.667808532715</lon>
+
+							<typ>S</typ>
+                			<stpid>6019</stpid>
+                			<stpnm>Ashland &amp; North Ave</stpnm>
+                			<pdist>18610.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.909016288434</lat>
+						<lon>-87.667754888535</lon>
+
+							<typ>S</typ>
+                			<stpid>6020</stpid>
+                			<stpnm>Ashland &amp; Le Moyne </stpnm>
+                			<pdist>19178.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.906888391999</lat>
+						<lon>-87.667695879936</lon>
+
+							<typ>S</typ>
+                			<stpid>14619</stpid>
+                			<stpnm>Ashland &amp; Blackhawk</stpnm>
+                			<pdist>19949.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.905275455139</lat>
+						<lon>-87.667652964592</lon>
+
+							<typ>S</typ>
+                			<stpid>6022</stpid>
+                			<stpnm>1302 N Ashland</stpnm>
+                			<pdist>20618.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.903502774559</lat>
+						<lon>-87.66757786274</lon>
+
+							<typ>S</typ>
+                			<stpid>6024</stpid>
+                			<stpnm>Ashland &amp; Division (Blue Line)</stpnm>
+                			<pdist>21254.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.901530409945</lat>
+						<lon>-87.667524218559</lon>
+
+							<typ>S</typ>
+                			<stpid>6025</stpid>
+                			<stpnm>Ashland &amp; Thomas</stpnm>
+                			<pdist>21992.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.899569962882</lat>
+						<lon>-87.667470574379</lon>
+
+							<typ>S</typ>
+                			<stpid>14779</stpid>
+                			<stpnm>Ashland &amp; Augusta</stpnm>
+                			<pdist>22762.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.89787698257</lat>
+						<lon>-87.667454481125</lon>
+
+							<typ>S</typ>
+                			<stpid>6027</stpid>
+                			<stpnm>Ashland &amp; Chestnut</stpnm>
+                			<pdist>23331.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.895852534456</lat>
+						<lon>-87.667406201363</lon>
+
+							<typ>S</typ>
+                			<stpid>15842</stpid>
+                			<stpnm>Ashland &amp; Chicago</stpnm>
+                			<pdist>24083.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.894387065505</lat>
+						<lon>-87.66733109951</lon>
+
+							<typ>S</typ>
+                			<stpid>6029</stpid>
+                			<stpnm>Ashland &amp; Huron</stpnm>
+                			<pdist>24579.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.893432695711</lat>
+						<lon>-87.667320370674</lon>
+
+							<typ>S</typ>
+                			<stpid>6030</stpid>
+                			<stpnm>Ashland &amp; Erie</stpnm>
+                			<pdist>24921.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.891156526091</lat>
+						<lon>-87.66725063324</lon>
+
+							<typ>S</typ>
+                			<stpid>6032</stpid>
+                			<stpnm>Ashland &amp; Grand</stpnm>
+                			<pdist>25749.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.889535204933</lat>
+						<lon>-87.667213082314</lon>
+
+							<typ>S</typ>
+                			<stpid>17182</stpid>
+                			<stpnm>Ashland &amp; Hubbard</stpnm>
+                			<pdist>26335.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.886987331401</lat>
+						<lon>-87.667148709297</lon>
+
+							<typ>S</typ>
+                			<stpid>6034</stpid>
+                			<stpnm>Ashland &amp; Fulton </stpnm>
+                			<pdist>27211.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.885102318815</lat>
+						<lon>-87.667057514191</lon>
+
+							<typ>S</typ>
+                			<stpid>6035</stpid>
+                			<stpnm>Ashland &amp; Lake (Green &amp; Pink Lines)</stpnm>
+                			<pdist>28016.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.883412948838</lat>
+						<lon>-87.667009234428</lon>
+
+							<typ>S</typ>
+                			<stpid>6036</stpid>
+                			<stpnm>Ashland &amp; Washington</stpnm>
+                			<pdist>28703.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.881300175061</lat>
+						<lon>-87.666928768158</lon>
+
+							<typ>S</typ>
+                			<stpid>17077</stpid>
+                			<stpnm>Ashland &amp; Madison</stpnm>
+                			<pdist>29385.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.879039549577</lat>
+						<lon>-87.666832208633</lon>
+
+							<typ>S</typ>
+                			<stpid>6040</stpid>
+                			<stpnm>Ashland &amp; Adams</stpnm>
+                			<pdist>30160.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.877553723903</lat>
+						<lon>-87.666789293289</lon>
+
+							<typ>S</typ>
+                			<stpid>6041</stpid>
+                			<stpnm>Ashland &amp; Jackson</stpnm>
+                			<pdist>30772.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.875233050716</lat>
+						<lon>-87.666757106781</lon>
+
+							<typ>S</typ>
+                			<stpid>16043</stpid>
+                			<stpnm>Ashland &amp; Congress</stpnm>
+                			<pdist>31496.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.874106635074</lat>
+						<lon>-87.666730284691</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.874106635074</lat>
+						<lon>-87.66659617424</lon>
+
+							<typ>S</typ>
+                			<stpid>6043</stpid>
+                			<stpnm>Ashland &amp; Harrison</stpnm>
+                			<pdist>32038.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.874102640657</lat>
+						<lon>-87.666730284691</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.871334449626</lat>
+						<lon>-87.666633725166</lon>
+
+							<typ>S</typ>
+                			<stpid>17183</stpid>
+                			<stpnm>Ashland &amp; Polk</stpnm>
+                			<pdist>32939.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.868969608515</lat>
+						<lon>-87.666585445404</lon>
+
+							<typ>S</typ>
+                			<stpid>17063</stpid>
+                			<stpnm>Ashland &amp; Taylor</stpnm>
+                			<pdist>33784.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.867048110694</lat>
+						<lon>-87.666526436806</lon>
+
+							<typ>S</typ>
+                			<stpid>6046</stpid>
+                			<stpnm>Ashland &amp; Roosevelt</stpnm>
+                			<pdist>34448.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.865965495009</lat>
+						<lon>-87.666510343552</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.865789718039</lat>
+						<lon>-87.666413784027</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.864771001082</lat>
+						<lon>-87.666376233101</lon>
+
+							<typ>S</typ>
+                			<stpid>17225</stpid>
+                			<stpnm>Ashland &amp; 13th Street</stpnm>
+                			<pdist>35313.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.863416681641</lat>
+						<lon>-87.666333317757</lon>
+
+							<typ>S</typ>
+                			<stpid>17226</stpid>
+                			<stpnm>Ashland &amp; 14th Street</stpnm>
+                			<pdist>35967.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.86159090177</lat>
+						<lon>-87.666279673576</lon>
+
+							<typ>S</typ>
+                			<stpid>6049</stpid>
+                			<stpnm>Ashland &amp; 15th Street</stpnm>
+                			<pdist>36461.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.861463055275</lat>
+						<lon>-87.666344046593</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.8596332243</lat>
+						<lon>-87.666290402412</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.859489392572</lat>
+						<lon>-87.666220664978</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.85884214579</lat>
+						<lon>-87.666209936142</lon>
+
+							<typ>S</typ>
+                			<stpid>6051</stpid>
+                			<stpnm>Ashland &amp; 17th Street</stpnm>
+                			<pdist>37456.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.857947176485</lat>
+						<lon>-87.666183114052</lon>
+
+							<typ>S</typ>
+                			<stpid>17227</stpid>
+                			<stpnm>Ashland &amp; 18th Street</stpnm>
+                			<pdist>37941.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.855246211042</lat>
+						<lon>-87.666086554527</lon>
+
+							<typ>S</typ>
+                			<stpid>6054</stpid>
+                			<stpnm>Ashland &amp; Cullerton</stpnm>
+                			<pdist>38763.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.854307239235</lat>
+						<lon>-87.666059732437</lon>
+
+							<typ>S</typ>
+                			<stpid>6055</stpid>
+                			<stpnm>Ashland &amp; 21st Street</stpnm>
+                			<pdist>39102.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.852541135767</lat>
+						<lon>-87.666043639183</lon>
+
+							<typ>S</typ>
+                			<stpid>6057</stpid>
+                			<stpnm>Ashland &amp; Cermak/Blue Island</stpnm>
+                			<pdist>39711.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.850699061869</lat>
+						<lon>-87.666016817093</lon>
+
+							<typ>S</typ>
+                			<stpid>17235</stpid>
+                			<stpnm>2400 S Ashland </stpnm>
+                			<pdist>41017.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.847490290204</lat>
+						<lon>-87.66594171524</lon>
+
+							<typ>S</typ>
+                			<stpid>6059</stpid>
+                			<stpnm>2450 S Ashland</stpnm>
+                			<pdist>41560.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.843066476842</lat>
+						<lon>-87.665877342224</lon>
+
+							<typ>S</typ>
+                			<stpid>15475</stpid>
+                			<stpnm>2700 S Ashland</stpnm>
+                			<pdist>43104.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.840972351932</lat>
+						<lon>-87.665866613388</lon>
+
+							<typ>S</typ>
+                			<stpid>15476</stpid>
+                			<stpnm>Ashland &amp; 29th Street</stpnm>
+                			<pdist>43814.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.839173907519</lat>
+						<lon>-87.665802240372</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.839265829236</lat>
+						<lon>-87.665491104126</lon>
+
+							<typ>S</typ>
+                			<stpid>14476</stpid>
+                			<stpnm>Ashland Orange Line Station</stpnm>
+                			<pdist>45295.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.839105965294</lat>
+						<lon>-87.66548037529</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.838998056908</lat>
+						<lon>-87.665786147118</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.837890986284</lat>
+						<lon>-87.665775418282</lon>
+
+							<typ>S</typ>
+                			<stpid>6063</stpid>
+                			<stpnm>Ashland &amp; Archer</stpnm>
+                			<pdist>45758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.835716755746</lat>
+						<lon>-87.665737867355</lon>
+
+							<typ>S</typ>
+                			<stpid>6065</stpid>
+                			<stpnm>Ashland &amp; 32nd Street</stpnm>
+                			<pdist>46561.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.834321852039</lat>
+						<lon>-87.665694952011</lon>
+
+							<typ>S</typ>
+                			<stpid>6066</stpid>
+                			<stpnm>Ashland &amp; 33rd Street</stpnm>
+                			<pdist>47068.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.832467262499</lat>
+						<lon>-87.665635943413</lon>
+
+							<typ>S</typ>
+                			<stpid>6067</stpid>
+                			<stpnm>Ashland &amp; 34th Street</stpnm>
+                			<pdist>47740.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.830652590548</lat>
+						<lon>-87.665593028069</lon>
+
+							<typ>S</typ>
+                			<stpid>6068</stpid>
+                			<stpnm>Ashland &amp; 35th Street</stpnm>
+                			<pdist>48386.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.828809886434</lat>
+						<lon>-87.66556084156</lon>
+
+							<typ>S</typ>
+                			<stpid>6069</stpid>
+                			<stpnm>Ashland &amp; 36th Street</stpnm>
+                			<pdist>49070.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.826563394486</lat>
+						<lon>-87.665523290634</lon>
+
+							<typ>S</typ>
+                			<stpid>15971</stpid>
+                			<stpnm>Ashland &amp; 37th Street</stpnm>
+                			<pdist>49904.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.826187639027</lat>
+						<lon>-87.665517926216</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.825987768203</lat>
+						<lon>-87.665630578995</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.825120321599</lat>
+						<lon>-87.665609121323</lon>
+
+							<typ>S</typ>
+                			<stpid>6071</stpid>
+                			<stpnm>Ashland &amp; 38th Street</stpnm>
+                			<pdist>50395.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.824152924889</lat>
+						<lon>-87.665593028069</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.823465344787</lat>
+						<lon>-87.665609121323</lon>
+
+							<typ>S</typ>
+                			<stpid>6072</stpid>
+                			<stpnm>Ashland &amp; Pershing</stpnm>
+                			<pdist>50959.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.822717792926</lat>
+						<lon>-87.665593028069</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.821638424574</lat>
+						<lon>-87.665442824364</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.821410555596</lat>
+						<lon>-87.665292620659</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.82001134234</lat>
+						<lon>-87.665281891823</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.818516149242</lat>
+						<lon>-87.665217518806</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.818368227172</lat>
+						<lon>-87.665297985077</lon>
+
+							<typ>S</typ>
+                			<stpid>6075</stpid>
+                			<stpnm>Ashland &amp; 42nd Street </stpnm>
+                			<pdist>53052.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.81598543539</lat>
+						<lon>-87.665276527405</lon>
+
+							<typ>S</typ>
+                			<stpid>6076</stpid>
+                			<stpnm>Ashland &amp; 43rd Street</stpnm>
+                			<pdist>53724.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.814166298097</lat>
+						<lon>-87.66520678997</lon>
+
+							<typ>S</typ>
+                			<stpid>6077</stpid>
+                			<stpnm>Ashland &amp; 44th Street</stpnm>
+                			<pdist>54396.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.812343110861</lat>
+						<lon>-87.665163874626</lon>
+
+							<typ>S</typ>
+                			<stpid>6078</stpid>
+                			<stpnm>Ashland &amp; 45th Street</stpnm>
+                			<pdist>55063.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.810551858828</lat>
+						<lon>-87.665137052536</lon>
+
+							<typ>S</typ>
+                			<stpid>6079</stpid>
+                			<stpnm>Ashland &amp; 46th Street</stpnm>
+                			<pdist>55726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.808352708597</lat>
+						<lon>-87.665083408356</lon>
+
+							<typ>S</typ>
+                			<stpid>17260</stpid>
+                			<stpnm>Ashland &amp; 47th Street</stpnm>
+                			<pdist>56543.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.806965205883</lat>
+						<lon>-87.665035128593</lon>
+
+							<typ>S</typ>
+                			<stpid>6081</stpid>
+                			<stpnm>Ashland &amp; 48th Street</stpnm>
+                			<pdist>57017.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.80515780858</lat>
+						<lon>-87.665002942085</lon>
+
+							<typ>S</typ>
+                			<stpid>6082</stpid>
+                			<stpnm>Ashland &amp; 49th Street</stpnm>
+                			<pdist>57638.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.803282380044</lat>
+						<lon>-87.664938569069</lon>
+
+							<typ>S</typ>
+                			<stpid>6083</stpid>
+                			<stpnm>Ashland &amp; 50th Street</stpnm>
+                			<pdist>58359.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.801454884081</lat>
+						<lon>-87.664901018143</lon>
+
+							<typ>S</typ>
+                			<stpid>6084</stpid>
+                			<stpnm>Ashland &amp; 51st Street</stpnm>
+                			<pdist>59023.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.799611339722</lat>
+						<lon>-87.664842009544</lon>
+
+							<typ>S</typ>
+                			<stpid>6085</stpid>
+                			<stpnm>Ashland &amp; 52nd Street</stpnm>
+                			<pdist>59692.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.797495797225</lat>
+						<lon>-87.664777636528</lon>
+
+							<typ>S</typ>
+                			<stpid>15145</stpid>
+                			<stpnm>Ashland &amp; 53rd Street</stpnm>
+                			<pdist>60497.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.795712128684</lat>
+						<lon>-87.66474545002</lon>
+
+							<typ>S</typ>
+                			<stpid>6087</stpid>
+                			<stpnm>Ashland &amp; 54th Street</stpnm>
+                			<pdist>60991.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.794172374889</lat>
+						<lon>-87.664702534676</lon>
+
+							<typ>S</typ>
+                			<stpid>6088</stpid>
+                			<stpnm>Ashland &amp; Garfield </stpnm>
+                			<pdist>61675.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.79349247183</lat>
+						<lon>-87.664697170258</lon>
+
+							<typ>S</typ>
+                			<stpid>6089</stpid>
+                			<stpnm>Ashland &amp; Garfield </stpnm>
+                			<pdist>61970.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.792316622459</lat>
+						<lon>-87.664643526077</lon>
+
+							<typ>S</typ>
+                			<stpid>6090</stpid>
+                			<stpnm>Ashland &amp; 56th Street</stpnm>
+                			<pdist>62347.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.790492813414</lat>
+						<lon>-87.664600610733</lon>
+
+							<typ>S</typ>
+                			<stpid>6091</stpid>
+                			<stpnm>Ashland &amp; 57th Street</stpnm>
+                			<pdist>63006.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.788708949985</lat>
+						<lon>-87.664546966553</lon>
+
+							<typ>S</typ>
+                			<stpid>6092</stpid>
+                			<stpnm>Ashland &amp; 58th Street</stpnm>
+                			<pdist>63687.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.786913037333</lat>
+						<lon>-87.664514780045</lon>
+
+							<typ>S</typ>
+                			<stpid>6093</stpid>
+                			<stpnm>Ashland &amp; 59th Street</stpnm>
+                			<pdist>64346.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.785077074624</lat>
+						<lon>-87.664461135864</lon>
+
+							<typ>S</typ>
+                			<stpid>6094</stpid>
+                			<stpnm>Ashland &amp; 60th Street</stpnm>
+                			<pdist>65025.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.783249059521</lat>
+						<lon>-87.66441822052</lon>
+
+							<typ>S</typ>
+                			<stpid>6095</stpid>
+                			<stpnm>Ashland &amp; 61st Street</stpnm>
+                			<pdist>65690.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.781416992096</lat>
+						<lon>-87.664386034012</lon>
+
+							<typ>S</typ>
+                			<stpid>6096</stpid>
+                			<stpnm>Ashland &amp; 62nd Street</stpnm>
+                			<pdist>66362.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.779136835072</lat>
+						<lon>-87.664316296577</lon>
+
+							<typ>S</typ>
+                			<stpid>17521</stpid>
+                			<stpnm>Ashland &amp; 63rd Street</stpnm>
+                			<pdist>67161.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.777828708393</lat>
+						<lon>-87.664262652397</lon>
+
+							<typ>S</typ>
+                			<stpid>6099</stpid>
+                			<stpnm>Ashland &amp; 64th Street</stpnm>
+                			<pdist>67688.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.775996486105</lat>
+						<lon>-87.664225101471</lon>
+
+							<typ>S</typ>
+                			<stpid>6100</stpid>
+                			<stpnm>Ashland &amp; 65th Street</stpnm>
+                			<pdist>68363.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.774244224559</lat>
+						<lon>-87.664187550545</lon>
+
+							<typ>S</typ>
+                			<stpid>6101</stpid>
+                			<stpnm>Ashland &amp; 66th Street</stpnm>
+                			<pdist>69027.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.772391896036</lat>
+						<lon>-87.664160728455</lon>
+
+							<typ>S</typ>
+                			<stpid>6102</stpid>
+                			<stpnm>Ashland &amp; Marquette Rd</stpnm>
+                			<pdist>69679.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.770491503408</lat>
+						<lon>-87.664085626602</lon>
+
+							<typ>S</typ>
+                			<stpid>6103</stpid>
+                			<stpnm>Ashland &amp; 68th Street</stpnm>
+                			<pdist>70368.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.768655070518</lat>
+						<lon>-87.664015889168</lon>
+
+							<typ>S</typ>
+                			<stpid>15944</stpid>
+                			<stpnm>Ashland &amp; 69th Street</stpnm>
+                			<pdist>71184.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.766886603974</lat>
+						<lon>-87.663972973824</lon>
+
+							<typ>S</typ>
+                			<stpid>6105</stpid>
+                			<stpnm>Ashland &amp; 70th Street</stpnm>
+                			<pdist>71693.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.765046066663</lat>
+						<lon>-87.663892507553</lon>
+
+							<typ>S</typ>
+                			<stpid>6106</stpid>
+                			<stpnm>Ashland &amp; 71st Street</stpnm>
+                			<pdist>72356.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.763201475211</lat>
+						<lon>-87.663828134537</lon>
+
+							<typ>S</typ>
+                			<stpid>6107</stpid>
+                			<stpnm>Ashland &amp; 72nd Street</stpnm>
+                			<pdist>73020.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.761372836551</lat>
+						<lon>-87.663790583611</lon>
+
+							<typ>S</typ>
+                			<stpid>6108</stpid>
+                			<stpnm>Ashland &amp; 73rd Street</stpnm>
+                			<pdist>73696.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.759220017906</lat>
+						<lon>-87.663747668266</lon>
+
+							<typ>S</typ>
+                			<stpid>6109</stpid>
+                			<stpnm>Ashland &amp; 74th Street</stpnm>
+                			<pdist>74508.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.757267212877</lat>
+						<lon>-87.663720846176</lon>
+
+							<typ>S</typ>
+                			<stpid>15913</stpid>
+                			<stpnm>Ashland &amp; 75th Place</stpnm>
+                			<pdist>75195.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.755934629435</lat>
+						<lon>-87.663688659668</lon>
+
+							<typ>S</typ>
+                			<stpid>6111</stpid>
+                			<stpnm>Ashland &amp; 76th Street</stpnm>
+                			<pdist>75639.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>41.754113787509</lat>
+						<lon>-87.663624286652</lon>
+
+							<typ>S</typ>
+                			<stpid>6112</stpid>
+                			<stpnm>Ashland &amp; 77th Street</stpnm>
+                			<pdist>76302.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>41.752308902007</lat>
+						<lon>-87.663586735725</lon>
+
+							<typ>S</typ>
+                			<stpid>6113</stpid>
+                			<stpnm>Ashland &amp; 78th Street</stpnm>
+                			<pdist>76969.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>41.750459942285</lat>
+						<lon>-87.663570642471</lon>
+
+							<typ>S</typ>
+                			<stpid>6114</stpid>
+                			<stpnm>Ashland &amp; 79th Street</stpnm>
+                			<pdist>77625.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>41.748618933805</lat>
+						<lon>-87.663511633873</lon>
+
+							<typ>S</typ>
+                			<stpid>6115</stpid>
+                			<stpnm>Ashland &amp; 80th Street</stpnm>
+                			<pdist>78312.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>41.7467698678</lat>
+						<lon>-87.663468718529</lon>
+
+							<typ>S</typ>
+                			<stpid>6116</stpid>
+                			<stpnm>Ashland &amp; 81st Street</stpnm>
+                			<pdist>78977.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>41.745020810467</lat>
+						<lon>-87.663415074348</lon>
+
+							<typ>S</typ>
+                			<stpid>6117</stpid>
+                			<stpnm>Ashland &amp; 82nd Street</stpnm>
+                			<pdist>79646.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>41.743267702903</lat>
+						<lon>-87.663377523422</lon>
+
+							<typ>S</typ>
+                			<stpid>6118</stpid>
+                			<stpnm>Ashland &amp; 83rd Street</stpnm>
+                			<pdist>80309.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>41.74132241794</lat>
+						<lon>-87.663323879242</lon>
+
+							<typ>S</typ>
+                			<stpid>6119</stpid>
+                			<stpnm>Ashland &amp; 84th Street</stpnm>
+                			<pdist>80978.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>41.73952517843</lat>
+						<lon>-87.663270235062</lon>
+
+							<typ>S</typ>
+                			<stpid>6120</stpid>
+                			<stpnm>Ashland &amp; 85th Street</stpnm>
+                			<pdist>81647.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>41.737727888621</lat>
+						<lon>-87.663221955299</lon>
+
+							<typ>S</typ>
+                			<stpid>6121</stpid>
+                			<stpnm>Ashland &amp; 86th Street</stpnm>
+                			<pdist>82315.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>41.735458187977</lat>
+						<lon>-87.663152217865</lon>
+
+							<typ>S</typ>
+                			<stpid>15249</stpid>
+                			<stpnm>Ashland &amp; 87th Street</stpnm>
+                			<pdist>83144.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>41.734085120255</lat>
+						<lon>-87.663109302521</lon>
+
+							<typ>S</typ>
+                			<stpid>6123</stpid>
+                			<stpnm>Ashland &amp; 88th Street</stpnm>
+                			<pdist>83640.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>41.732263658594</lat>
+						<lon>-87.663082480431</lon>
+
+							<typ>S</typ>
+                			<stpid>6124</stpid>
+                			<stpnm>Ashland &amp; 89th Street </stpnm>
+                			<pdist>84288.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>41.730346064023</lat>
+						<lon>-87.663018107414</lon>
+
+							<typ>S</typ>
+                			<stpid>6125</stpid>
+                			<stpnm>Ashland &amp; 90th Street</stpnm>
+                			<pdist>84960.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>41.728548517344</lat>
+						<lon>-87.66294836998</lon>
+
+							<typ>S</typ>
+                			<stpid>6126</stpid>
+                			<stpnm>Ashland &amp; 91st Street</stpnm>
+                			<pdist>85652.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>41.726726898685</lat>
+						<lon>-87.662910819054</lon>
+
+							<typ>S</typ>
+                			<stpid>6127</stpid>
+                			<stpnm>Ashland &amp; 92nd Street</stpnm>
+                			<pdist>86315.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>41.72496128054</lat>
+						<lon>-87.662851810455</lon>
+
+							<typ>S</typ>
+                			<stpid>6128</stpid>
+                			<stpnm>Ashland &amp; 93rd Street</stpnm>
+                			<pdist>86979.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>41.7231115333</lat>
+						<lon>-87.662808895111</lon>
+
+							<typ>S</typ>
+                			<stpid>6129</stpid>
+                			<stpnm>Ashland &amp; 94th Street</stpnm>
+                			<pdist>87654.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>41.721393863181</lat>
+						<lon>-87.662792801857</lon>
+
+							<typ>S</typ>
+                			<stpid>6130</stpid>
+                			<stpnm>Ashland &amp; 95th Street</stpnm>
+                			<pdist>88298.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>41.721181653663</lat>
+						<lon>-87.662787437439</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>41.721049522854</lat>
+						<lon>-87.662690877914</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>41.720757232523</lat>
+						<lon>-87.662680149078</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>168</seq>
+						<lat>41.720753228537</lat>
+						<lon>-87.662985920906</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>169</seq>
+						<lat>41.720581056888</lat>
+						<lon>-87.662980556488</lon>
+
+							<typ>S</typ>
+                			<stpid>6131</stpid>
+                			<stpnm>Ashland &amp; 95th Street Terminal</stpnm>
+                			<pdist>88619.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4642</pid>
+				<ln>88638.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.720581056888</lat>
+						<lon>-87.662980556488</lon>
+
+							<typ>S</typ>
+                			<stpid>6131</stpid>
+                			<stpnm>Ashland &amp; 95th Street Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.720585060885</lat>
+						<lon>-87.66259431839</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.721045518886</lat>
+						<lon>-87.66262114048</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.721153625938</lat>
+						<lon>-87.662535309792</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.721477946004</lat>
+						<lon>-87.662529945374</lon>
+
+							<typ>S</typ>
+                			<stpid>6147</stpid>
+                			<stpnm>Ashland &amp; 95th Street</stpnm>
+                			<pdist>553.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.722915344863</lat>
+						<lon>-87.662578225136</lon>
+
+							<typ>S</typ>
+                			<stpid>6148</stpid>
+                			<stpnm>Ashland &amp; 94th Street</stpnm>
+                			<pdist>1037.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.724765097752</lat>
+						<lon>-87.662642598152</lon>
+
+							<typ>S</typ>
+                			<stpid>6149</stpid>
+                			<stpnm>Ashland &amp; 93rd Street</stpnm>
+                			<pdist>1702.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.726534724914</lat>
+						<lon>-87.662653326988</lon>
+
+							<typ>S</typ>
+                			<stpid>6150</stpid>
+                			<stpnm>Ashland &amp; 92nd Street</stpnm>
+                			<pdist>2367.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.72866461876</lat>
+						<lon>-87.66270160675</lon>
+
+							<typ>S</typ>
+                			<stpid>14781</stpid>
+                			<stpnm>Ashland &amp; 91st Street</stpnm>
+                			<pdist>3042.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.730193935072</lat>
+						<lon>-87.662782073021</lon>
+
+							<typ>S</typ>
+                			<stpid>6152</stpid>
+                			<stpnm>Ashland &amp; 90th Street</stpnm>
+                			<pdist>3706.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.73193538968</lat>
+						<lon>-87.662824988365</lon>
+
+							<typ>S</typ>
+                			<stpid>6153</stpid>
+                			<stpnm>Ashland &amp; 89th Street </stpnm>
+                			<pdist>4332.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.733852936806</lat>
+						<lon>-87.662862539291</lon>
+
+							<typ>S</typ>
+                			<stpid>6154</stpid>
+                			<stpnm>Ashland &amp; 88th Street</stpnm>
+                			<pdist>5041.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.73563832588</lat>
+						<lon>-87.662943005562</lon>
+
+							<typ>S</typ>
+                			<stpid>6155</stpid>
+                			<stpnm>Ashland &amp; 87th Street</stpnm>
+                			<pdist>5692.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.737499721284</lat>
+						<lon>-87.662980556488</lon>
+
+							<typ>S</typ>
+                			<stpid>6156</stpid>
+                			<stpnm>Ashland &amp; 86th Street</stpnm>
+                			<pdist>6381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.739633254388</lat>
+						<lon>-87.663034200668</lon>
+
+							<typ>S</typ>
+                			<stpid>15455</stpid>
+                			<stpnm>Ashland &amp; 85th Street</stpnm>
+                			<pdist>7190.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.741162309557</lat>
+						<lon>-87.663061022758</lon>
+
+							<typ>S</typ>
+                			<stpid>6158</stpid>
+                			<stpnm>Ashland &amp; 84th Street</stpnm>
+                			<pdist>7708.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.742975513655</lat>
+						<lon>-87.663109302521</lon>
+
+							<typ>S</typ>
+                			<stpid>6159</stpid>
+                			<stpnm>Ashland &amp; 83rd Street</stpnm>
+                			<pdist>8373.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.744732631689</lat>
+						<lon>-87.663173675537</lon>
+
+							<typ>S</typ>
+                			<stpid>6160</stpid>
+                			<stpnm>Ashland &amp; 82nd Street</stpnm>
+                			<pdist>9044.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.746945971618</lat>
+						<lon>-87.663216590881</lon>
+
+							<typ>S</typ>
+                			<stpid>15456</stpid>
+                			<stpnm>Ashland &amp; 81st Street</stpnm>
+                			<pdist>9904.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.748430827792</lat>
+						<lon>-87.663259506226</lon>
+
+							<typ>S</typ>
+                			<stpid>6162</stpid>
+                			<stpnm>Ashland &amp; 80th Street</stpnm>
+                			<pdist>10365.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.750239824485</lat>
+						<lon>-87.663297057152</lon>
+
+							<typ>S</typ>
+                			<stpid>6163</stpid>
+                			<stpnm>Ashland &amp; 79th Street</stpnm>
+                			<pdist>11029.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.752068780377</lat>
+						<lon>-87.663350701332</lon>
+
+							<typ>S</typ>
+                			<stpid>6164</stpid>
+                			<stpnm>Ashland &amp; 78th Street</stpnm>
+                			<pdist>11702.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.753825649547</lat>
+						<lon>-87.663377523422</lon>
+
+							<typ>S</typ>
+                			<stpid>6165</stpid>
+                			<stpnm>Ashland &amp; 77th Street</stpnm>
+                			<pdist>12371.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.755694521369</lat>
+						<lon>-87.663420438766</lon>
+
+							<typ>S</typ>
+                			<stpid>6166</stpid>
+                			<stpnm>Ashland &amp; 76th Street</stpnm>
+                			<pdist>13038.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.757043116696</lat>
+						<lon>-87.663463354111</lon>
+
+							<typ>S</typ>
+                			<stpid>15914</stpid>
+                			<stpnm>Ashland &amp; 75th Place </stpnm>
+                			<pdist>13509.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.759368076519</lat>
+						<lon>-87.663511633873</lon>
+
+							<typ>S</typ>
+                			<stpid>6168</stpid>
+                			<stpnm>Ashland &amp; 74th Street</stpnm>
+                			<pdist>14359.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.761168762045</lat>
+						<lon>-87.663554549217</lon>
+
+							<typ>S</typ>
+                			<stpid>6169</stpid>
+                			<stpnm>Ashland &amp; 73rd Street</stpnm>
+                			<pdist>15023.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.762157116844</lat>
+						<lon>-87.663586735725</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.763269497963</lat>
+						<lon>-87.66362965107</lon>
+
+							<typ>S</typ>
+                			<stpid>15146</stpid>
+                			<stpnm>Ashland &amp; 72nd Street</stpnm>
+                			<pdist>15808.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.764785986481</lat>
+						<lon>-87.663672566414</lon>
+
+							<typ>S</typ>
+                			<stpid>6171</stpid>
+                			<stpnm>Ashland &amp; 71st Street</stpnm>
+                			<pdist>16331.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.766630532379</lat>
+						<lon>-87.663699388504</lon>
+
+							<typ>S</typ>
+                			<stpid>6172</stpid>
+                			<stpnm>Ashland &amp; 70th Street</stpnm>
+                			<pdist>17003.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.768683077515</lat>
+						<lon>-87.663769125938</lon>
+
+							<typ>S</typ>
+                			<stpid>14864</stpid>
+                			<stpnm>Ashland &amp; 69th Street</stpnm>
+                			<pdist>17817.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.7702994606</lat>
+						<lon>-87.663817405701</lon>
+
+							<typ>S</typ>
+                			<stpid>6174</stpid>
+                			<stpnm>Ashland &amp; 68th Street</stpnm>
+                			<pdist>18330.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.772119843281</lat>
+						<lon>-87.663871049881</lon>
+
+							<typ>S</typ>
+                			<stpid>6175</stpid>
+                			<stpnm>Ashland &amp; Marquette Rd</stpnm>
+                			<pdist>18994.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.773928172289</lat>
+						<lon>-87.663935422897</lon>
+
+							<typ>S</typ>
+                			<stpid>6176</stpid>
+                			<stpnm>Ashland &amp; 66th Street</stpnm>
+                			<pdist>19667.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.775760453664</lat>
+						<lon>-87.663978338242</lon>
+
+							<typ>S</typ>
+                			<stpid>6177</stpid>
+                			<stpnm>Ashland &amp; 65th Street</stpnm>
+                			<pdist>20334.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.777560679143</lat>
+						<lon>-87.664015889168</lon>
+
+							<typ>S</typ>
+                			<stpid>6178</stpid>
+                			<stpnm>Ashland &amp; 64th Street</stpnm>
+                			<pdist>20997.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.778744799907</lat>
+						<lon>-87.664048075676</lon>
+
+							<typ>S</typ>
+                			<stpid>6179</stpid>
+                			<stpnm>Ashland/63rd Green Line Station</stpnm>
+                			<pdist>21470.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.781128976736</lat>
+						<lon>-87.66411781311</lon>
+
+							<typ>S</typ>
+                			<stpid>6181</stpid>
+                			<stpnm>Ashland &amp; 62nd Street</stpnm>
+                			<pdist>22276.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.782933051627</lat>
+						<lon>-87.664155364037</lon>
+
+							<typ>S</typ>
+                			<stpid>6182</stpid>
+                			<stpnm>Ashland &amp; 61st Street</stpnm>
+                			<pdist>22934.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.784789075703</lat>
+						<lon>-87.664203643799</lon>
+
+							<typ>S</typ>
+                			<stpid>6183</stpid>
+                			<stpnm>Ashland &amp; 60th Street</stpnm>
+                			<pdist>23611.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.786685044823</lat>
+						<lon>-87.664257287979</lon>
+
+							<typ>S</typ>
+                			<stpid>6184</stpid>
+                			<stpnm>Ashland &amp; 59th Street</stpnm>
+                			<pdist>24265.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.788424967146</lat>
+						<lon>-87.664294838905</lon>
+
+							<typ>S</typ>
+                			<stpid>6185</stpid>
+                			<stpnm>Ashland &amp; 58th Street</stpnm>
+                			<pdist>24944.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.789540892469</lat>
+						<lon>-87.66433775425</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.79024483537</lat>
+						<lon>-87.664353847504</lon>
+
+							<typ>S</typ>
+                			<stpid>6186</stpid>
+                			<stpnm>Ashland &amp; 57th Street</stpnm>
+                			<pdist>25606.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.792004658801</lat>
+						<lon>-87.66439139843</lon>
+
+							<typ>S</typ>
+                			<stpid>6187</stpid>
+                			<stpnm>Ashland &amp; 56th Street</stpnm>
+                			<pdist>26278.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.793456476761</lat>
+						<lon>-87.664423584938</lon>
+
+							<typ>S</typ>
+                			<stpid>6188</stpid>
+                			<stpnm>Ashland &amp; Garfield </stpnm>
+                			<pdist>26812.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.794172374889</lat>
+						<lon>-87.664439678192</lon>
+
+							<typ>S</typ>
+                			<stpid>6189</stpid>
+                			<stpnm>Ashland &amp; Garfield </stpnm>
+                			<pdist>27089.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.795760120416</lat>
+						<lon>-87.664482593536</lon>
+
+							<typ>S</typ>
+                			<stpid>6190</stpid>
+                			<stpnm>Ashland &amp; 54th Street</stpnm>
+                			<pdist>27618.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.797679760214</lat>
+						<lon>-87.664541602135</lon>
+
+							<typ>S</typ>
+                			<stpid>6191</stpid>
+                			<stpnm>Ashland &amp; 53rd Street</stpnm>
+                			<pdist>28283.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.799375394208</lat>
+						<lon>-87.664595246315</lon>
+
+							<typ>S</typ>
+                			<stpid>6192</stpid>
+                			<stpnm>Ashland &amp; 52nd Street</stpnm>
+                			<pdist>28947.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.801178955654</lat>
+						<lon>-87.664638161659</lon>
+
+							<typ>S</typ>
+                			<stpid>6193</stpid>
+                			<stpnm>Ashland &amp; 51st Street</stpnm>
+                			<pdist>29615.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.803050446901</lat>
+						<lon>-87.664697170258</lon>
+
+							<typ>S</typ>
+                			<stpid>6194</stpid>
+                			<stpnm>Ashland &amp; 50th Street</stpnm>
+                			<pdist>30291.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.804969868323</lat>
+						<lon>-87.664723992348</lon>
+
+							<typ>S</typ>
+                			<stpid>6195</stpid>
+                			<stpnm>Ashland &amp; 49th Street</stpnm>
+                			<pdist>31109.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.806721290197</lat>
+						<lon>-87.66477227211</lon>
+
+							<typ>S</typ>
+                			<stpid>6196</stpid>
+                			<stpnm>Ashland &amp; 48th Street</stpnm>
+                			<pdist>31615.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.809000466145</lat>
+						<lon>-87.66485273838</lon>
+
+							<typ>S</typ>
+                			<stpid>17256</stpid>
+                			<stpnm>Ashland &amp; 47th Street</stpnm>
+                			<pdist>32455.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.810343942401</lat>
+						<lon>-87.664879560471</lon>
+
+							<typ>S</typ>
+                			<stpid>6198</stpid>
+                			<stpnm>Ashland &amp; 46th Street</stpnm>
+                			<pdist>32917.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.81205923274</lat>
+						<lon>-87.664901018143</lon>
+
+							<typ>S</typ>
+                			<stpid>17257</stpid>
+                			<stpnm>Ashland &amp; 45th Street</stpnm>
+                			<pdist>33713.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.814174294418</lat>
+						<lon>-87.664960026741</lon>
+
+							<typ>S</typ>
+                			<stpid>17258</stpid>
+                			<stpnm>Ashland &amp; 44th Street</stpnm>
+                			<pdist>34357.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.815769540479</lat>
+						<lon>-87.664997577667</lon>
+
+							<typ>S</typ>
+                			<stpid>6201</stpid>
+                			<stpnm>Ashland &amp; 43rd Street</stpnm>
+                			<pdist>34839.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.817080890944</lat>
+						<lon>-87.665019035339</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.818300262863</lat>
+						<lon>-87.665061950684</lon>
+
+							<typ>S</typ>
+                			<stpid>6202</stpid>
+                			<stpnm>Ashland &amp; 42nd Street</stpnm>
+                			<pdist>35681.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.818392214558</lat>
+						<lon>-87.665061950684</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.818500157683</lat>
+						<lon>-87.665142416954</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.819327715603</lat>
+						<lon>-87.665169239044</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.821402560178</lat>
+						<lon>-87.665217518806</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.82167040612</lat>
+						<lon>-87.665110230446</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.823421371389</lat>
+						<lon>-87.665249705315</lon>
+
+							<typ>S</typ>
+                			<stpid>6205</stpid>
+                			<stpnm>Ashland &amp; Pershing</stpnm>
+                			<pdist>37667.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.824148927351</lat>
+						<lon>-87.665276527405</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.824956424838</lat>
+						<lon>-87.665314078331</lon>
+
+							<typ>S</typ>
+                			<stpid>6206</stpid>
+                			<stpnm>Ashland &amp; 38th Street</stpnm>
+                			<pdist>38186.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.82598377078</lat>
+						<lon>-87.665330171585</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.826163654561</lat>
+						<lon>-87.665442824364</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.827047076457</lat>
+						<lon>-87.665442824364</lon>
+
+							<typ>S</typ>
+                			<stpid>15970</stpid>
+                			<stpnm>Ashland &amp; 37th Street</stpnm>
+                			<pdist>39021.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.828642001861</lat>
+						<lon>-87.665475010872</lon>
+
+							<typ>S</typ>
+                			<stpid>6208</stpid>
+                			<stpnm>Ashland &amp; 36th Street</stpnm>
+                			<pdist>39517.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.830396773625</lat>
+						<lon>-87.665512561798</lon>
+
+							<typ>S</typ>
+                			<stpid>6209</stpid>
+                			<stpnm>Ashland &amp; 35th Street</stpnm>
+                			<pdist>40176.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.832215449862</lat>
+						<lon>-87.665550112724</lon>
+
+							<typ>S</typ>
+                			<stpid>6210</stpid>
+                			<stpnm>Ashland &amp; 34th Street</stpnm>
+                			<pdist>40864.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.833250673257</lat>
+						<lon>-87.665571570396</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.834257901571</lat>
+						<lon>-87.665598392487</lon>
+
+							<typ>S</typ>
+                			<stpid>14782</stpid>
+                			<stpnm>Ashland &amp; 33rd Street</stpnm>
+                			<pdist>41670.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.835676787581</lat>
+						<lon>-87.665635943413</lon>
+
+							<typ>S</typ>
+                			<stpid>15951</stpid>
+                			<stpnm>Ashland &amp; 32nd Street</stpnm>
+                			<pdist>42194.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.837615214809</lat>
+						<lon>-87.665684223175</lon>
+
+							<typ>S</typ>
+                			<stpid>6213</stpid>
+                			<stpnm>Ashland &amp; Archer</stpnm>
+                			<pdist>42815.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.838686320546</lat>
+						<lon>-87.665694952011</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.838838192297</lat>
+						<lon>-87.665356993675</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.839085982274</lat>
+						<lon>-87.665421366692</lon>
+
+							<typ>S</typ>
+                			<stpid>4164</stpid>
+                			<stpnm>Ashland Orange Line Station</stpnm>
+                			<pdist>43926.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.838978073853</lat>
+						<lon>-87.665711045265</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.841507878946</lat>
+						<lon>-87.665791511536</lon>
+
+							<typ>S</typ>
+                			<stpid>15473</stpid>
+                			<stpnm>Ashland &amp; 29th Street</stpnm>
+                			<pdist>44942.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.842351125086</lat>
+						<lon>-87.665796875954</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.843250308963</lat>
+						<lon>-87.665796875954</lon>
+
+							<typ>S</typ>
+                			<stpid>6215</stpid>
+                			<stpnm>2700 S Ashland</stpnm>
+                			<pdist>45530.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.845300400953</lat>
+						<lon>-87.665818333626</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.847434345061</lat>
+						<lon>-87.665866613388</lon>
+
+							<typ>S</typ>
+                			<stpid>6217</stpid>
+                			<stpnm>2451 S Ashland</stpnm>
+                			<pdist>47043.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.849596189637</lat>
+						<lon>-87.66591489315</lon>
+
+							<typ>S</typ>
+                			<stpid>15474</stpid>
+                			<stpnm>2400 S Ashland</stpnm>
+                			<pdist>47806.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.850675086588</lat>
+						<lon>-87.66594171524</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.852561114586</lat>
+						<lon>-87.665963172913</lon>
+
+							<typ>S</typ>
+                			<stpid>14499</stpid>
+                			<stpnm>Ashland &amp; Cermak</stpnm>
+                			<pdist>49025.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.853304322208</lat>
+						<lon>-87.665963172913</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.854451082619</lat>
+						<lon>-87.665995359421</lon>
+
+							<typ>S</typ>
+                			<stpid>17228</stpid>
+                			<stpnm>Ashland &amp; 21st Street</stpnm>
+                			<pdist>49642.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.85591347199</lat>
+						<lon>-87.666006088257</lon>
+
+							<typ>S</typ>
+                			<stpid>6223</stpid>
+                			<stpnm>Ashland &amp; 19th Street</stpnm>
+                			<pdist>50135.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.857671491452</lat>
+						<lon>-87.666091918945</lon>
+
+							<typ>S</typ>
+                			<stpid>17229</stpid>
+                			<stpnm>Ashland &amp; 18th Street</stpnm>
+                			<pdist>50957.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.858622400022</lat>
+						<lon>-87.666124105453</lon>
+
+							<typ>S</typ>
+                			<stpid>17230</stpid>
+                			<stpnm>Ashland &amp; 17th Street</stpnm>
+                			<pdist>51334.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.859485397241</lat>
+						<lon>-87.666156291962</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.859569299127</lat>
+						<lon>-87.666097283363</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.861479036101</lat>
+						<lon>-87.66613483429</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.86159090177</lat>
+						<lon>-87.666199207306</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.861654824922</lat>
+						<lon>-87.666199207306</lon>
+
+							<typ>S</typ>
+                			<stpid>6227</stpid>
+                			<stpnm>Ashland &amp; 15th Street</stpnm>
+                			<pdist>52323.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.863157000594</lat>
+						<lon>-87.66624212265</lon>
+
+							<typ>S</typ>
+                			<stpid>6228</stpid>
+                			<stpnm>Ashland &amp; 14th Street</stpnm>
+                			<pdist>52829.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.864179738305</lat>
+						<lon>-87.666290402412</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.864986730733</lat>
+						<lon>-87.666306495667</lon>
+
+							<typ>S</typ>
+                			<stpid>6229</stpid>
+                			<stpnm>Ashland &amp; 13th Street</stpnm>
+                			<pdist>53496.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.86577373829</lat>
+						<lon>-87.666338682175</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.865969489935</lat>
+						<lon>-87.666247487068</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.86667658782</lat>
+						<lon>-87.666247487068</lon>
+
+							<typ>S</typ>
+                			<stpid>6230</stpid>
+                			<stpnm>Ashland &amp; Roosevelt</stpnm>
+                			<pdist>54118.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.867467569408</lat>
+						<lon>-87.666247487068</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.869568816396</lat>
+						<lon>-87.666322588921</lon>
+
+							<typ>S</typ>
+                			<stpid>17061</stpid>
+                			<stpnm>Ashland &amp; Taylor</stpnm>
+                			<pdist>55188.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.872085428163</lat>
+						<lon>-87.666386961937</lon>
+
+							<typ>S</typ>
+                			<stpid>15793</stpid>
+                			<stpnm>Ashland &amp; Polk</stpnm>
+                			<pdist>56072.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.874106635074</lat>
+						<lon>-87.666451334953</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.874110629491</lat>
+						<lon>-87.666456699371</lon>
+
+							<typ>S</typ>
+                			<stpid>6233</stpid>
+                			<stpnm>Ashland &amp; Harrison</stpnm>
+                			<pdist>56792.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.875073276656</lat>
+						<lon>-87.666478157043</lon>
+
+							<typ>S</typ>
+                			<stpid>50</stpid>
+                			<stpnm>Ashland &amp; Congress</stpnm>
+                			<pdist>57155.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.876559159998</lat>
+						<lon>-87.666510343552</lon>
+
+							<typ>S</typ>
+                			<stpid>51</stpid>
+                			<stpnm>Ashland &amp; Van Buren</stpnm>
+                			<pdist>57735.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.877661567252</lat>
+						<lon>-87.66654253006</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.879111443492</lat>
+						<lon>-87.666585445404</lon>
+
+							<typ>S</typ>
+                			<stpid>17177</stpid>
+                			<stpnm>Ashland &amp; Adams</stpnm>
+                			<pdist>58638.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.881675606886</lat>
+						<lon>-87.666676640511</lon>
+
+							<typ>S</typ>
+                			<stpid>17076</stpid>
+                			<stpnm>Ashland &amp; Madison</stpnm>
+                			<pdist>59623.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.882402500531</lat>
+						<lon>-87.666692733765</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.88351678847</lat>
+						<lon>-87.666724920273</lon>
+
+							<typ>S</typ>
+                			<stpid>15991</stpid>
+                			<stpnm>Ashland &amp; Washington</stpnm>
+                			<pdist>60298.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.885234111757</lat>
+						<lon>-87.666783928871</lon>
+
+							<typ>S</typ>
+                			<stpid>14783</stpid>
+                			<stpnm>Ashland &amp; Lake (Green Line)</stpnm>
+                			<pdist>60820.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.886524070751</lat>
+						<lon>-87.666864395142</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.887450588693</lat>
+						<lon>-87.666901946068</lon>
+
+							<typ>S</typ>
+                			<stpid>6241</stpid>
+                			<stpnm>Ashland &amp; Carroll </stpnm>
+                			<pdist>61778.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.889674975619</lat>
+						<lon>-87.666982412338</lon>
+
+							<typ>S</typ>
+                			<stpid>17178</stpid>
+                			<stpnm>Ashland &amp; Hubbard</stpnm>
+                			<pdist>62520.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.890533560268</lat>
+						<lon>-87.667019963264</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.891308273255</lat>
+						<lon>-87.667019963264</lon>
+
+							<typ>S</typ>
+                			<stpid>17179</stpid>
+                			<stpnm>Ashland &amp; Grand</stpnm>
+                			<pdist>63072.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.891464013392</lat>
+						<lon>-87.667019963264</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.893245014618</lat>
+						<lon>-87.667057514191</lon>
+
+							<typ>S</typ>
+                			<stpid>6245</stpid>
+                			<stpnm>Ashland &amp; Erie</stpnm>
+                			<pdist>63774.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.894171435083</lat>
+						<lon>-87.667073607445</lon>
+
+							<typ>S</typ>
+                			<stpid>6246</stpid>
+                			<stpnm>Ashland &amp; Huron</stpnm>
+                			<pdist>64110.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.894714502901</lat>
+						<lon>-87.667073607445</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.895385345008</lat>
+						<lon>-87.667127251625</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.896275797158</lat>
+						<lon>-87.667170166969</lon>
+
+							<typ>S</typ>
+                			<stpid>15843</stpid>
+                			<stpnm>Ashland &amp; Chicago</stpnm>
+                			<pdist>64916.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.897813095642</lat>
+						<lon>-87.667207717896</lon>
+
+							<typ>S</typ>
+                			<stpid>6248</stpid>
+                			<stpnm>Ashland &amp; Chestnut</stpnm>
+                			<pdist>65417.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.899857445647</lat>
+						<lon>-87.667266726494</lon>
+
+							<typ>S</typ>
+                			<stpid>14536</stpid>
+                			<stpnm>Ashland &amp; Augusta</stpnm>
+                			<pdist>66287.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.901402643335</lat>
+						<lon>-87.667309641838</lon>
+
+							<typ>S</typ>
+                			<stpid>6250</stpid>
+                			<stpnm>Ashland &amp; Thomas</stpnm>
+                			<pdist>66761.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.903742328865</lat>
+						<lon>-87.667368650436</lon>
+
+							<typ>S</typ>
+                			<stpid>6252</stpid>
+                			<stpnm>Ashland &amp; Milwaukee (Blue Line)</stpnm>
+                			<pdist>67618.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.905566904667</lat>
+						<lon>-87.667427659035</lon>
+
+							<typ>S</typ>
+                			<stpid>15551</stpid>
+                			<stpnm>1325 N Ashland</stpnm>
+                			<pdist>68401.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.907167857116</lat>
+						<lon>-87.667470574379</lon>
+
+							<typ>S</typ>
+                			<stpid>14537</stpid>
+                			<stpnm>Ashland &amp; Blackhawk</stpnm>
+                			<pdist>68906.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.908752800416</lat>
+						<lon>-87.667513489723</lon>
+
+							<typ>S</typ>
+                			<stpid>6255</stpid>
+                			<stpnm>Ashland &amp; Le Moyne </stpnm>
+                			<pdist>69416.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.911100200811</lat>
+						<lon>-87.667561769485</lon>
+
+							<typ>S</typ>
+                			<stpid>17180</stpid>
+                			<stpnm>Ashland &amp; North Ave</stpnm>
+                			<pdist>70235.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.912317780962</lat>
+						<lon>-87.667593955994</lon>
+
+							<typ>S</typ>
+                			<stpid>6257</stpid>
+                			<stpnm>Ashland &amp; Wabansia</stpnm>
+                			<pdist>70717.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.913351707838</lat>
+						<lon>-87.667636871338</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.914297796134</lat>
+						<lon>-87.667652964592</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.916026267228</lat>
+						<lon>-87.667679786682</lon>
+
+							<typ>S</typ>
+                			<stpid>6259</stpid>
+                			<stpnm>Ashland &amp; Cortland</stpnm>
+                			<pdist>72021.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.916189930657</lat>
+						<lon>-87.667674422264</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>41.916784703971</lat>
+						<lon>-87.667599320412</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>41.917048158835</lat>
+						<lon>-87.667588591576</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>41.917291654031</lat>
+						<lon>-87.667610049248</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>41.917826541854</lat>
+						<lon>-87.667770981789</lon>
+
+							<typ>S</typ>
+                			<stpid>6260</stpid>
+                			<stpnm>Ashland &amp; Armitage</stpnm>
+                			<pdist>72748.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>41.918553024106</lat>
+						<lon>-87.667996287346</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>41.919115842583</lat>
+						<lon>-87.66809284687</lon>
+
+							<typ>S</typ>
+                			<stpid>15217</stpid>
+                			<stpnm>Ashland &amp; Elston</stpnm>
+                			<pdist>73191.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>41.920979893864</lat>
+						<lon>-87.668403983116</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>41.921478827689</lat>
+						<lon>-87.668484449387</lon>
+
+							<typ>S</typ>
+                			<stpid>6262</stpid>
+                			<stpnm>Ashland &amp; Webster</stpnm>
+                			<pdist>74039.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>41.921590588331</lat>
+						<lon>-87.668484449387</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>41.922780028749</lat>
+						<lon>-87.668259143829</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>41.923578298474</lat>
+						<lon>-87.668055295944</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>41.924129098762</lat>
+						<lon>-87.667964100838</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>41.924520243905</lat>
+						<lon>-87.667953372002</lon>
+
+							<typ>S</typ>
+                			<stpid>17391</stpid>
+                			<stpnm>Ashland &amp; Clybourn</stpnm>
+                			<pdist>75185.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>41.925374368841</lat>
+						<lon>-87.668001651764</lon>
+
+							<typ>S</typ>
+                			<stpid>17392</stpid>
+                			<stpnm>Ashland &amp; Fullerton</stpnm>
+                			<pdist>75498.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>41.926088791665</lat>
+						<lon>-87.66809284687</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>41.926855091052</lat>
+						<lon>-87.668103575706</lon>
+
+							<typ>S</typ>
+                			<stpid>6265</stpid>
+                			<stpnm>Ashland &amp; Altgeld</stpnm>
+                			<pdist>75993.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>41.92871093424</lat>
+						<lon>-87.668130397797</lon>
+
+							<typ>S</typ>
+                			<stpid>6266</stpid>
+                			<stpnm>Ashland &amp; Wrightwood</stpnm>
+                			<pdist>76662.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>41.929896250991</lat>
+						<lon>-87.668178677559</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>41.930574705213</lat>
+						<lon>-87.668205499649</lon>
+
+							<typ>S</typ>
+                			<stpid>6267</stpid>
+                			<stpnm>2660 N Ashland</stpnm>
+                			<pdist>77404.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>41.932713784223</lat>
+						<lon>-87.668259143829</lon>
+
+							<typ>S</typ>
+                			<stpid>15243</stpid>
+                			<stpnm>Ashland &amp; Diversey</stpnm>
+                			<pdist>78184.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>41.934110532176</lat>
+						<lon>-87.66831278801</lon>
+
+							<typ>S</typ>
+                			<stpid>6269</stpid>
+                			<stpnm>Ashland &amp; George</stpnm>
+                			<pdist>78659.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>41.93595419264</lat>
+						<lon>-87.668371796608</lon>
+
+							<typ>S</typ>
+                			<stpid>6270</stpid>
+                			<stpnm>Ashland &amp; Wellington</stpnm>
+                			<pdist>79332.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>168</seq>
+						<lat>41.937749914581</lat>
+						<lon>-87.668452262878</lon>
+
+							<typ>S</typ>
+                			<stpid>6271</stpid>
+                			<stpnm>Ashland &amp; Barry</stpnm>
+                			<pdist>79997.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>169</seq>
+						<lat>41.939158523294</lat>
+						<lon>-87.668505907059</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>170</seq>
+						<lat>41.939282223989</lat>
+						<lon>-87.668597102165</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>171</seq>
+						<lat>41.939461789087</lat>
+						<lon>-87.668597102165</lon>
+
+							<typ>S</typ>
+                			<stpid>6272</stpid>
+                			<stpnm>Ashland &amp; Belmont/Lincoln</stpnm>
+                			<pdist>80528.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>172</seq>
+						<lat>41.941855942085</lat>
+						<lon>-87.668661475182</lon>
+
+							<typ>S</typ>
+                			<stpid>17407</stpid>
+                			<stpnm>Ashland &amp; School</stpnm>
+                			<pdist>81476.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>173</seq>
+						<lat>41.943256479914</lat>
+						<lon>-87.668715119362</lon>
+
+							<typ>S</typ>
+                			<stpid>6274</stpid>
+                			<stpnm>Ashland &amp; Roscoe</stpnm>
+                			<pdist>81967.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>174</seq>
+						<lat>41.945008106435</lat>
+						<lon>-87.668758034706</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>175</seq>
+						<lat>41.945147755681</lat>
+						<lon>-87.668699026108</lon>
+
+							<typ>S</typ>
+                			<stpid>6275</stpid>
+                			<stpnm>Ashland &amp; Cornelia</stpnm>
+                			<pdist>82636.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>176</seq>
+						<lat>41.94738609185</lat>
+						<lon>-87.668741941452</lon>
+
+							<typ>S</typ>
+                			<stpid>6276</stpid>
+                			<stpnm>Ashland &amp; Addison</stpnm>
+                			<pdist>83274.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>177</seq>
+						<lat>41.94873065173</lat>
+						<lon>-87.668795585632</lon>
+
+							<typ>S</typ>
+                			<stpid>6277</stpid>
+                			<stpnm>Ashland &amp; Waveland</stpnm>
+                			<pdist>83953.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>178</seq>
+						<lat>41.950553941338</lat>
+						<lon>-87.668849229813</lon>
+
+							<typ>S</typ>
+                			<stpid>6278</stpid>
+                			<stpnm>Ashland &amp; Grace</stpnm>
+                			<pdist>84630.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>179</seq>
+						<lat>41.952389147359</lat>
+						<lon>-87.668881416321</lon>
+
+							<typ>S</typ>
+                			<stpid>6279</stpid>
+                			<stpnm>Ashland &amp; Byron</stpnm>
+                			<pdist>85298.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>180</seq>
+						<lat>41.954072702933</lat>
+						<lon>-87.668929696083</lon>
+
+							<typ>S</typ>
+                			<stpid>6280</stpid>
+                			<stpnm>Ashland &amp; Irving Park</stpnm>
+                			<pdist>85961.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>181</seq>
+						<lat>41.954212332322</lat>
+						<lon>-87.668929696083</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>182</seq>
+						<lat>41.954272173396</lat>
+						<lon>-87.66874730587</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>183</seq>
+						<lat>41.954288131006</lat>
+						<lon>-87.667599320412</lon>
+
+							<typ>S</typ>
+                			<stpid>5665</stpid>
+                			<stpnm>Irving Park &amp; Greenview</stpnm>
+                			<pdist>86330.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>184</seq>
+						<lat>41.954336003812</lat>
+						<lon>-87.664359211922</lon>
+
+							<typ>S</typ>
+                			<stpid>5667</stpid>
+                			<stpnm>Irving Park &amp; Southport</stpnm>
+                			<pdist>87222.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>185</seq>
+						<lat>41.954375897789</lat>
+						<lon>-87.662159800529</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>186</seq>
+						<lat>41.95466712307</lat>
+						<lon>-87.662352919579</lon>
+
+							<typ>S</typ>
+                			<stpid>6281</stpid>
+                			<stpnm>Clark &amp; Irving Park</stpnm>
+                			<pdist>87876.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>187</seq>
+						<lat>41.956398489731</lat>
+						<lon>-87.663441896439</lon>
+
+							<typ>S</typ>
+                			<stpid>1931</stpid>
+                			<stpnm>Clark &amp; Belle Plaine</stpnm>
+                			<pdist>88638.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

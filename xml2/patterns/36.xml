@@ -1,0 +1,2739 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>5905</pid>
+				<ln>52715.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.998878025417</lat>
+						<lon>-87.671290040016</lon>
+
+							<typ>S</typ>
+                			<stpid>14176</stpid>
+                			<stpnm>Clark &amp; Arthur Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.998678694616</lat>
+						<lon>-87.671225667</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.998738493922</lat>
+						<lon>-87.670935988426</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.998032858529</lat>
+						<lon>-87.670716047287</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.99805279184</lat>
+						<lon>-87.670453190804</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.998056778501</lat>
+						<lon>-87.67016351223</lon>
+
+							<typ>S</typ>
+                			<stpid>1739</stpid>
+                			<stpnm>Devon &amp; Clark</stpnm>
+                			<pdist>845.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.998072725144</lat>
+						<lon>-87.668033838272</lon>
+
+							<typ>S</typ>
+                			<stpid>1740</stpid>
+                			<stpnm>Devon &amp; Greenview</stpnm>
+                			<pdist>1410.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.998108605076</lat>
+						<lon>-87.665614485741</lon>
+
+							<typ>S</typ>
+                			<stpid>1741</stpid>
+                			<stpnm>Devon &amp; Glenwood</stpnm>
+                			<pdist>2114.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.998120565049</lat>
+						<lon>-87.663189768791</lon>
+
+							<typ>S</typ>
+                			<stpid>1743</stpid>
+                			<stpnm>Devon &amp; Lakewood</stpnm>
+                			<pdist>2750.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.998140498332</lat>
+						<lon>-87.661628723145</lon>
+
+							<typ>S</typ>
+                			<stpid>1744</stpid>
+                			<stpnm>Devon &amp; Magnolia</stpnm>
+                			<pdist>3255.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.998164418264</lat>
+						<lon>-87.660561203957</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.996218901132</lat>
+						<lon>-87.660486102104</lon>
+
+							<typ>S</typ>
+                			<stpid>14443</stpid>
+                			<stpnm>Broadway &amp; Rosemont</stpnm>
+                			<pdist>4186.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.994376983795</lat>
+						<lon>-87.660421729088</lon>
+
+							<typ>S</typ>
+                			<stpid>14444</stpid>
+                			<stpnm>Broadway &amp; Granville</stpnm>
+                			<pdist>4852.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.992826064006</lat>
+						<lon>-87.660368084908</lon>
+
+							<typ>S</typ>
+                			<stpid>5332</stpid>
+                			<stpnm>Broadway &amp; Glenlake </stpnm>
+                			<pdist>5366.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.990760770247</lat>
+						<lon>-87.660298347473</lon>
+
+							<typ>S</typ>
+                			<stpid>14445</stpid>
+                			<stpnm>Broadway &amp; Elmdale</stpnm>
+                			<pdist>6137.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.990206558394</lat>
+						<lon>-87.660276889801</lon>
+
+							<typ>S</typ>
+                			<stpid>5334</stpid>
+                			<stpnm>Broadway &amp; Thorndale</stpnm>
+                			<pdist>6356.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.98702074344</lat>
+						<lon>-87.660201787949</lon>
+
+							<typ>S</typ>
+                			<stpid>5336</stpid>
+                			<stpnm>Broadway &amp; Victoria</stpnm>
+                			<pdist>7467.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.985561355687</lat>
+						<lon>-87.660158872604</lon>
+
+							<typ>S</typ>
+                			<stpid>8614</stpid>
+                			<stpnm>Broadway &amp; Hollywood</stpnm>
+                			<pdist>8006.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.984062059115</lat>
+						<lon>-87.660099864006</lon>
+
+							<typ>S</typ>
+                			<stpid>5338</stpid>
+                			<stpnm>Broadway &amp; Bryn Mawr/Ridge</stpnm>
+                			<pdist>8631.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.983591527912</lat>
+						<lon>-87.660099864006</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.982044333</lat>
+						<lon>-87.660056948662</lon>
+
+							<typ>S</typ>
+                			<stpid>5339</stpid>
+                			<stpnm>Broadway &amp; Catalpa</stpnm>
+                			<pdist>9369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.980166115461</lat>
+						<lon>-87.659997940063</lon>
+
+							<typ>S</typ>
+                			<stpid>5340</stpid>
+                			<stpnm>Broadway &amp; Balmoral</stpnm>
+                			<pdist>10038.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.978363612565</lat>
+						<lon>-87.659971117973</lon>
+
+							<typ>S</typ>
+                			<stpid>5341</stpid>
+                			<stpnm>Broadway &amp; Berwyn</stpnm>
+                			<pdist>10706.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.976505226518</lat>
+						<lon>-87.659928202629</lon>
+
+							<typ>S</typ>
+                			<stpid>5342</stpid>
+                			<stpnm>Broadway &amp; Foster</stpnm>
+                			<pdist>11375.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.974698631876</lat>
+						<lon>-87.659863829613</lon>
+
+							<typ>S</typ>
+                			<stpid>5344</stpid>
+                			<stpnm>Broadway &amp; Carmen</stpnm>
+                			<pdist>12010.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.973342655212</lat>
+						<lon>-87.659837007523</lon>
+
+							<typ>S</typ>
+                			<stpid>5345</stpid>
+                			<stpnm>Broadway &amp; Argyle </stpnm>
+                			<pdist>12500.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.971296671077</lat>
+						<lon>-87.659783363342</lon>
+
+							<typ>S</typ>
+                			<stpid>17398</stpid>
+                			<stpnm>Broadway &amp; Ainslie</stpnm>
+                			<pdist>13301.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.968951485621</lat>
+						<lon>-87.659718990326</lon>
+
+							<typ>S</typ>
+                			<stpid>5347</stpid>
+                			<stpnm>Broadway &amp; Lawrence</stpnm>
+                			<pdist>14045.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.968760038098</lat>
+						<lon>-87.659702897072</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.967798803299</lat>
+						<lon>-87.659043073654</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.967356072019</lat>
+						<lon>-87.658764123917</lon>
+
+							<typ>S</typ>
+                			<stpid>5348</stpid>
+                			<stpnm>Broadway &amp; Leland</stpnm>
+                			<pdist>14757.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.965317873019</lat>
+						<lon>-87.657449841499</lon>
+
+							<typ>S</typ>
+                			<stpid>5349</stpid>
+                			<stpnm>Broadway &amp; Wilson</stpnm>
+                			<pdist>15654.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.964891079453</lat>
+						<lon>-87.657160162926</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.963219776196</lat>
+						<lon>-87.656081914902</lon>
+
+							<typ>S</typ>
+                			<stpid>5350</stpid>
+                			<stpnm>Broadway &amp; Sunnyside</stpnm>
+                			<pdist>16449.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.962517735976</lat>
+						<lon>-87.655642032623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.961927377987</lat>
+						<lon>-87.655277252197</lon>
+
+							<typ>S</typ>
+                			<stpid>5351</stpid>
+                			<stpnm>Broadway &amp; Montrose</stpnm>
+                			<pdist>16939.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.961727931484</lat>
+						<lon>-87.655148506165</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.961085709503</lat>
+						<lon>-87.654746174812</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.960028621962</lat>
+						<lon>-87.654064893723</lon>
+
+							<typ>S</typ>
+                			<stpid>5353</stpid>
+                			<stpnm>Broadway &amp; Cullom</stpnm>
+                			<pdist>17719.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.958568615616</lat>
+						<lon>-87.653169035912</lon>
+
+							<typ>S</typ>
+                			<stpid>5354</stpid>
+                			<stpnm>Broadway &amp; Buena</stpnm>
+                			<pdist>18308.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.957044748181</lat>
+						<lon>-87.652198076248</lon>
+
+							<typ>S</typ>
+                			<stpid>5355</stpid>
+                			<stpnm>Broadway &amp; Belle Plaine</stpnm>
+                			<pdist>18925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.955520844306</lat>
+						<lon>-87.651194930077</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.954687069958</lat>
+						<lon>-87.650685310364</lon>
+
+							<typ>S</typ>
+                			<stpid>5356</stpid>
+                			<stpnm>Broadway &amp; Irving Park</stpnm>
+                			<pdist>19883.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.953350614638</lat>
+						<lon>-87.649746537209</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.952496864331</lat>
+						<lon>-87.64968752861</lon>
+
+							<typ>S</typ>
+                			<stpid>14880</stpid>
+                			<stpnm>Broadway &amp; W. Sheridan (3900 N)</stpnm>
+                			<pdist>20760.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.951208238241</lat>
+						<lon>-87.649639248848</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.951056633459</lat>
+						<lon>-87.649596333504</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.950801298274</lat>
+						<lon>-87.649387121201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.950007358898</lat>
+						<lon>-87.648920416832</lon>
+
+							<typ>S</typ>
+                			<stpid>5359</stpid>
+                			<stpnm>3726 N Broadway</stpnm>
+                			<pdist>21708.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.949321131974</lat>
+						<lon>-87.648512721062</lon>
+
+							<typ>S</typ>
+                			<stpid>5360</stpid>
+                			<stpnm>Broadway &amp; Waveland</stpnm>
+                			<pdist>21992.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.947509776584</lat>
+						<lon>-87.647423744202</lon>
+
+							<typ>S</typ>
+                			<stpid>5361</stpid>
+                			<stpnm>Broadway &amp; Addison</stpnm>
+                			<pdist>22709.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.94560660105</lat>
+						<lon>-87.646248936653</lon>
+
+							<typ>S</typ>
+                			<stpid>5362</stpid>
+                			<stpnm>Broadway &amp; Cornelia</stpnm>
+                			<pdist>23473.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.943795140118</lat>
+						<lon>-87.645149230957</lon>
+
+							<typ>S</typ>
+                			<stpid>5363</stpid>
+                			<stpnm>Broadway &amp; Roscoe </stpnm>
+                			<pdist>24182.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.942793627511</lat>
+						<lon>-87.644553780556</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.942310820992</lat>
+						<lon>-87.644500136375</lon>
+
+							<typ>S</typ>
+                			<stpid>5364</stpid>
+                			<stpnm>Broadway &amp; Aldine </stpnm>
+                			<pdist>24877.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.940140141563</lat>
+						<lon>-87.644435763359</lon>
+
+							<typ>S</typ>
+                			<stpid>14811</stpid>
+                			<stpnm>Broadway &amp; Belmont</stpnm>
+                			<pdist>25710.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.938053187074</lat>
+						<lon>-87.644387483597</lon>
+
+							<typ>S</typ>
+                			<stpid>5366</stpid>
+                			<stpnm>Broadway &amp; Barry </stpnm>
+                			<pdist>26318.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.936704411511</lat>
+						<lon>-87.644344568253</lon>
+
+							<typ>S</typ>
+                			<stpid>5367</stpid>
+                			<stpnm>Broadway &amp; Wellington</stpnm>
+                			<pdist>26833.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.934984481767</lat>
+						<lon>-87.644274830818</lon>
+
+							<typ>S</typ>
+                			<stpid>5368</stpid>
+                			<stpnm>Broadway &amp; Surf </stpnm>
+                			<pdist>27425.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.93428213053</lat>
+						<lon>-87.644301652908</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.933647613386</lat>
+						<lon>-87.64467716217</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.933104876733</lat>
+						<lon>-87.644864916801</lon>
+
+							<typ>S</typ>
+                			<stpid>5369</stpid>
+                			<stpnm>Broadway &amp; Diversey</stpnm>
+                			<pdist>28146.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.93282951593</lat>
+						<lon>-87.64495074749</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.932302735429</lat>
+						<lon>-87.644854187965</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.931903656396</lat>
+						<lon>-87.644661068916</lon>
+
+							<typ>S</typ>
+                			<stpid>1833</stpid>
+                			<stpnm>Clark &amp; Schubert</stpnm>
+                			<pdist>28601.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.931672189412</lat>
+						<lon>-87.644526958466</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.930059878846</lat>
+						<lon>-87.643572092056</lon>
+
+							<typ>S</typ>
+                			<stpid>15744</stpid>
+                			<stpnm>Clark &amp; Wrightwood </stpnm>
+                			<pdist>29311.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.929992033201</lat>
+						<lon>-87.643513083458</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.92966078578</lat>
+						<lon>-87.642965912819</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.929525093569</lat>
+						<lon>-87.64285326004</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.927812952342</lat>
+						<lon>-87.641860842705</lon>
+
+							<typ>S</typ>
+                			<stpid>1836</stpid>
+                			<stpnm>Clark &amp; Deming</stpnm>
+                			<pdist>29949.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.927050655567</lat>
+						<lon>-87.641394138336</lon>
+
+							<typ>S</typ>
+                			<stpid>1837</stpid>
+                			<stpnm>Clark &amp; Arlington</stpnm>
+                			<pdist>30519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.925693664947</lat>
+						<lon>-87.640584111214</lon>
+
+							<typ>S</typ>
+                			<stpid>1838</stpid>
+                			<stpnm>Clark &amp; Fullerton</stpnm>
+                			<pdist>31057.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.924943316564</lat>
+						<lon>-87.640133500099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.92388962096</lat>
+						<lon>-87.63950586319</lon>
+
+							<typ>S</typ>
+                			<stpid>1839</stpid>
+                			<stpnm>Clark &amp; Belden</stpnm>
+                			<pdist>31790.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.922177328489</lat>
+						<lon>-87.638454437256</lon>
+
+							<typ>S</typ>
+                			<stpid>1840</stpid>
+                			<stpnm>Clark &amp; Webster</stpnm>
+                			<pdist>32520.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.920289363015</lat>
+						<lon>-87.637311816216</lon>
+
+							<typ>S</typ>
+                			<stpid>1841</stpid>
+                			<stpnm>Clark &amp; Dickens</stpnm>
+                			<pdist>33245.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.918772563819</lat>
+						<lon>-87.636330127716</lon>
+
+							<typ>S</typ>
+                			<stpid>14788</stpid>
+                			<stpnm>Clark &amp; Armitage</stpnm>
+                			<pdist>33936.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.916732811218</lat>
+						<lon>-87.635090947151</lon>
+
+							<typ>S</typ>
+                			<stpid>1843</stpid>
+                			<stpnm>Clark &amp; Wisconsin</stpnm>
+                			<pdist>34681.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.914936497603</lat>
+						<lon>-87.633991241455</lon>
+
+							<typ>S</typ>
+                			<stpid>1409</stpid>
+                			<stpnm>Clark &amp; Menomonee</stpnm>
+                			<pdist>35383.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.914317755652</lat>
+						<lon>-87.633599638939</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.913623160767</lat>
+						<lon>-87.633240222931</lon>
+
+							<typ>S</typ>
+                			<stpid>1845</stpid>
+                			<stpnm>Clark &amp; W. LaSalle Drive</stpnm>
+                			<pdist>36081.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.913096221673</lat>
+						<lon>-87.632859349251</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.911319766161</lat>
+						<lon>-87.631775736809</lon>
+
+							<typ>S</typ>
+                			<stpid>1846</stpid>
+                			<stpnm>Clark &amp; North Ave</stpnm>
+                			<pdist>36857.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.911164074446</lat>
+						<lon>-87.631765007973</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.909531284603</lat>
+						<lon>-87.631679177284</lon>
+
+							<typ>S</typ>
+                			<stpid>1847</stpid>
+                			<stpnm>Clark &amp; Burton</stpnm>
+                			<pdist>37513.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.907958337534</lat>
+						<lon>-87.631630897522</lon>
+
+							<typ>S</typ>
+                			<stpid>1848</stpid>
+                			<stpnm>Clark &amp; Schiller</stpnm>
+                			<pdist>38092.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.905910254459</lat>
+						<lon>-87.631539702415</lon>
+
+							<typ>S</typ>
+                			<stpid>1849</stpid>
+                			<stpnm>Clark &amp; Goethe</stpnm>
+                			<pdist>38839.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.903882068462</lat>
+						<lon>-87.631475329399</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.903882068462</lat>
+						<lon>-87.631153464317</lon>
+
+							<typ>S</typ>
+                			<stpid>5370</stpid>
+                			<stpnm>Division &amp; Clark (Red Line)</stpnm>
+                			<pdist>39684.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.903910016345</lat>
+						<lon>-87.629055976868</lon>
+
+							<typ>S</typ>
+                			<stpid>5371</stpid>
+                			<stpnm>Division &amp; State</stpnm>
+                			<pdist>40229.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.903910016345</lat>
+						<lon>-87.62872338295</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.903187360019</lat>
+						<lon>-87.628659009933</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.90266033478</lat>
+						<lon>-87.62847661972</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.90239282788</lat>
+						<lon>-87.628380060196</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.90206542985</lat>
+						<lon>-87.628390789032</lon>
+
+							<typ>S</typ>
+                			<stpid>5373</stpid>
+                			<stpnm>State &amp; Maple</stpnm>
+                			<pdist>40953.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.901869788763</lat>
+						<lon>-87.628401517868</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.900891574336</lat>
+						<lon>-87.628358602524</lon>
+
+							<typ>S</typ>
+                			<stpid>5374</stpid>
+                			<stpnm>State &amp; Oak </stpnm>
+                			<pdist>41389.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.899274493136</lat>
+						<lon>-87.628326416016</lon>
+
+							<typ>S</typ>
+                			<stpid>5375</stpid>
+                			<stpnm>State &amp; Delaware</stpnm>
+                			<pdist>41971.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.898459947839</lat>
+						<lon>-87.628288865089</lon>
+
+							<typ>S</typ>
+                			<stpid>15412</stpid>
+                			<stpnm>State &amp; Chestnut </stpnm>
+                			<pdist>42269.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.896818847083</lat>
+						<lon>-87.628245949745</lon>
+
+							<typ>S</typ>
+                			<stpid>14460</stpid>
+                			<stpnm>State &amp; Chicago (Red Line)</stpnm>
+                			<pdist>42954.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.895037945511</lat>
+						<lon>-87.628219127655</lon>
+
+							<typ>S</typ>
+                			<stpid>5379</stpid>
+                			<stpnm>State &amp; Huron</stpnm>
+                			<pdist>43396.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.89343668892</lat>
+						<lon>-87.628160119057</lon>
+
+							<typ>S</typ>
+                			<stpid>5380</stpid>
+                			<stpnm>State &amp; Ontario</stpnm>
+                			<pdist>43982.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.891695626226</lat>
+						<lon>-87.62812256813</lon>
+
+							<typ>S</typ>
+                			<stpid>2367</stpid>
+                			<stpnm>State &amp; Grand (Red Line)</stpnm>
+                			<pdist>44741.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.889990456901</lat>
+						<lon>-87.628063559532</lon>
+
+							<typ>S</typ>
+                			<stpid>2368</stpid>
+                			<stpnm>State &amp; Hubbard</stpnm>
+                			<pdist>45152.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.888912223299</lat>
+						<lon>-87.62804210186</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.888756476941</lat>
+						<lon>-87.628101110458</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.88836511262178</lat>
+						<lon>-87.62816548347473</lon>
+
+							<typ>S</typ>
+                			<stpid>2370</stpid>
+                			<stpnm>State &amp; Marina City</stpnm>
+                			<pdist>45748.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.886987331401</lat>
+						<lon>-87.62806892395</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.885917034469</lat>
+						<lon>-87.628047466278</lon>
+
+							<typ>S</typ>
+                			<stpid>1423</stpid>
+                			<stpnm>State &amp; Lake</stpnm>
+                			<pdist>46675.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.885725337603</lat>
+						<lon>-87.628036737442</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.88562150156</lat>
+						<lon>-87.627972364426</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.883448893345</lat>
+						<lon>-87.627891898155</lon>
+
+							<typ>S</typ>
+                			<stpid>1425</stpid>
+                			<stpnm>State &amp; Washington</stpnm>
+                			<pdist>47592.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.881016602753</lat>
+						<lon>-87.627811431885</lon>
+
+							<typ>S</typ>
+                			<stpid>1427</stpid>
+                			<stpnm>State &amp; Monroe</stpnm>
+                			<pdist>48505.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.878320605984</lat>
+						<lon>-87.627725601196</lon>
+
+							<typ>S</typ>
+                			<stpid>1429</stpid>
+                			<stpnm>State &amp; Jackson</stpnm>
+                			<pdist>49421.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.876982550541</lat>
+						<lon>-87.627693414688</lon>
+
+							<typ>S</typ>
+                			<stpid>1430</stpid>
+                			<stpnm>State &amp; Van Buren</stpnm>
+                			<pdist>49879.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.876926631196</lat>
+						<lon>-87.630536556244</lon>
+
+							<typ>S</typ>
+                			<stpid>17432</stpid>
+                			<stpnm>Van Buren &amp; Clark</stpnm>
+                			<pdist>50854.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.876902665747</lat>
+						<lon>-87.632569670677</lon>
+
+							<typ>S</typ>
+                			<stpid>15063</stpid>
+                			<stpnm>Van Buren &amp; Financial Place</stpnm>
+                			<pdist>51219.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.87689068302</lat>
+						<lon>-87.633143663406</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.875272994168</lat>
+						<lon>-87.633111476898</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.875276988512</lat>
+						<lon>-87.633014917374</lon>
+
+							<typ>S</typ>
+                			<stpid>17578</stpid>
+                			<stpnm>Financial Place &amp; Congress (LaSalle St Station)</stpnm>
+                			<pdist>52715.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5907</pid>
+				<ln>51702.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.875276988512</lat>
+						<lon>-87.633014917374</lon>
+
+							<typ>S</typ>
+                			<stpid>17578</stpid>
+                			<stpnm>Financial Place &amp; Congress (LaSalle St Station)</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.875480699719</lat>
+						<lon>-87.633014917374</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.875520643017</lat>
+						<lon>-87.629152536392</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.875916080319</lat>
+						<lon>-87.629168629646</lon>
+
+							<typ>S</typ>
+                			<stpid>1877</stpid>
+                			<stpnm>Dearborn &amp; Congress</stpnm>
+                			<pdist>1316.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.876902665747</lat>
+						<lon>-87.629216909409</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.878013055422</lat>
+						<lon>-87.629265189171</lon>
+
+							<typ>S</typ>
+                			<stpid>14508</stpid>
+                			<stpnm>Dearborn &amp; Jackson</stpnm>
+                			<pdist>2006.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.87955478751</lat>
+						<lon>-87.629302740097</lon>
+
+							<typ>S</typ>
+                			<stpid>1880</stpid>
+                			<stpnm>Dearborn &amp; Adams</stpnm>
+                			<pdist>2677.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.88097666289</lat>
+						<lon>-87.629351019859</lon>
+
+							<typ>S</typ>
+                			<stpid>1881</stpid>
+                			<stpnm>Dearborn &amp; Monroe</stpnm>
+                			<pdist>3176.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.882106951365</lat>
+						<lon>-87.629383206367</lon>
+
+							<typ>S</typ>
+                			<stpid>1882</stpid>
+                			<stpnm>Dearborn &amp; Madison</stpnm>
+                			<pdist>3601.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.884730900878</lat>
+						<lon>-87.629442214966</lon>
+
+							<typ>S</typ>
+                			<stpid>1884</stpid>
+                			<stpnm>Dearborn &amp; Randolph</stpnm>
+                			<pdist>4524.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.886180616721</lat>
+						<lon>-87.629474401474</lon>
+
+							<typ>S</typ>
+                			<stpid>1885</stpid>
+                			<stpnm>Dearborn &amp; Wacker/Lake</stpnm>
+                			<pdist>5085.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.888125500631</lat>
+						<lon>-87.629501223564</lon>
+
+							<typ>S</typ>
+                			<stpid>1887</stpid>
+                			<stpnm>Dearborn &amp; Marina City</stpnm>
+                			<pdist>5801.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.888448976606</lat>
+						<lon>-87.629501223564</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.889267643052</lat>
+						<lon>-87.629517316818</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.889918575227</lat>
+						<lon>-87.629560232162</lon>
+
+							<typ>S</typ>
+                			<stpid>15399</stpid>
+                			<stpnm>Dearborn &amp; Hubbard</stpnm>
+                			<pdist>6392.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.890809103592</lat>
+						<lon>-87.629581689835</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.890853030679</lat>
+						<lon>-87.627993822098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.891475993387</lat>
+						<lon>-87.628031373024</lon>
+
+							<typ>S</typ>
+                			<stpid>2361</stpid>
+                			<stpnm>State &amp; Grand (Red Line)</stpnm>
+                			<pdist>7352.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.893189109505</lat>
+						<lon>-87.628074288368</lon>
+
+							<typ>S</typ>
+                			<stpid>5385</stpid>
+                			<stpnm>State &amp; Ontario</stpnm>
+                			<pdist>7940.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.894762420428</lat>
+						<lon>-87.62812256813</lon>
+
+							<typ>S</typ>
+                			<stpid>5386</stpid>
+                			<stpnm>State &amp; Huron</stpnm>
+                			<pdist>8530.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.896515378577</lat>
+						<lon>-87.628160119057</lon>
+
+							<typ>S</typ>
+                			<stpid>5387</stpid>
+                			<stpnm>State &amp; Chicago (Red Line)</stpnm>
+                			<pdist>9182.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.898196416253</lat>
+						<lon>-87.628197669983</lon>
+
+							<typ>S</typ>
+                			<stpid>5388</stpid>
+                			<stpnm>State &amp; Chestnut </stpnm>
+                			<pdist>9797.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.898931666667</lat>
+						<lon>-87.62823</lon>
+
+							<typ>S</typ>
+                			<stpid>5389</stpid>
+                			<stpnm>State &amp; Delaware</stpnm>
+                			<pdist>10081.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.900468342225</lat>
+						<lon>-87.628267407417</lon>
+
+							<typ>S</typ>
+                			<stpid>5390</stpid>
+                			<stpnm>State &amp; Oak </stpnm>
+                			<pdist>10608.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.901777957026</lat>
+						<lon>-87.628321051598</lon>
+
+							<typ>S</typ>
+                			<stpid>5391</stpid>
+                			<stpnm>State &amp; Bellevue</stpnm>
+                			<pdist>11050.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.902388835231</lat>
+						<lon>-87.628294229507</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.903035641078</lat>
+						<lon>-87.628535628319</lon>
+
+							<typ>S</typ>
+                			<stpid>5392</stpid>
+                			<stpnm>State &amp; Elm</stpnm>
+                			<pdist>11513.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.903203330413</lat>
+						<lon>-87.628583908081</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.903977889723</lat>
+						<lon>-87.628642916679</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.903969904623</lat>
+						<lon>-87.629806995392</lon>
+
+							<typ>S</typ>
+                			<stpid>5394</stpid>
+                			<stpnm>Division &amp; Dearborn</stpnm>
+                			<pdist>12138.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.903945949319</lat>
+						<lon>-87.631389498711</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.904017815206</lat>
+						<lon>-87.631389498711</lon>
+
+							<typ>S</typ>
+                			<stpid>5395</stpid>
+                			<stpnm>Division &amp; Clark (Red Line)</stpnm>
+                			<pdist>12540.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.90568667806</lat>
+						<lon>-87.631432414055</lon>
+
+							<typ>S</typ>
+                			<stpid>1900</stpid>
+                			<stpnm>Clark &amp; Goethe</stpnm>
+                			<pdist>13180.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.907726783678</lat>
+						<lon>-87.631539702415</lon>
+
+							<typ>S</typ>
+                			<stpid>1901</stpid>
+                			<stpnm>Clark &amp; Schiller</stpnm>
+                			<pdist>13938.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.909339658607</lat>
+						<lon>-87.63158261776</lon>
+
+							<typ>S</typ>
+                			<stpid>1902</stpid>
+                			<stpnm>Clark &amp; Burton</stpnm>
+                			<pdist>14534.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.911080240287</lat>
+						<lon>-87.63166308403</lon>
+
+							<typ>S</typ>
+                			<stpid>1903</stpid>
+                			<stpnm>Clark &amp; North Ave</stpnm>
+                			<pdist>15155.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.911215971726</lat>
+						<lon>-87.631673812866</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.91133972661</lat>
+						<lon>-87.631695270538</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.913192029105</lat>
+						<lon>-87.632821798325</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.913371667651</lat>
+						<lon>-87.632939815521</lon>
+
+							<typ>S</typ>
+                			<stpid>1451</stpid>
+                			<stpnm>Clark &amp; LaSalle</stpnm>
+                			<pdist>16149.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.913643120495</lat>
+						<lon>-87.63315975666</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.914365658469</lat>
+						<lon>-87.633540630341</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.915503339804</lat>
+						<lon>-87.634243369102</lon>
+
+							<typ>S</typ>
+                			<stpid>1905</stpid>
+                			<stpnm>Clark &amp; Lincoln</stpnm>
+                			<pdist>16900.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.916545198605</lat>
+						<lon>-87.63487637043</lon>
+
+							<typ>S</typ>
+                			<stpid>1906</stpid>
+                			<stpnm>Clark &amp; Wisconsin</stpnm>
+                			<pdist>17371.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.918377391792</lat>
+						<lon>-87.63599216938</lon>
+
+							<typ>S</typ>
+                			<stpid>1907</stpid>
+                			<stpnm>Clark &amp; Armitage</stpnm>
+                			<pdist>18014.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.91923958215</lat>
+						<lon>-87.636539340019</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.920025921532</lat>
+						<lon>-87.63705432415</lon>
+
+							<typ>S</typ>
+                			<stpid>1908</stpid>
+                			<stpnm>Clark &amp; Dickens</stpnm>
+                			<pdist>18706.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.921814109027</lat>
+						<lon>-87.63814330101</lon>
+
+							<typ>S</typ>
+                			<stpid>1909</stpid>
+                			<stpnm>Clark &amp; Webster</stpnm>
+                			<pdist>19441.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.923634176981</lat>
+						<lon>-87.639248371124</lon>
+
+							<typ>S</typ>
+                			<stpid>1910</stpid>
+                			<stpnm>Clark &amp; Belden</stpnm>
+                			<pdist>20158.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.92491138665</lat>
+						<lon>-87.640015482903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.925450201811</lat>
+						<lon>-87.640331983566</lon>
+
+							<typ>S</typ>
+                			<stpid>1911</stpid>
+                			<stpnm>Clark &amp; Fullerton</stpnm>
+                			<pdist>20887.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.927250210577</lat>
+						<lon>-87.64141023159</lon>
+
+							<typ>S</typ>
+                			<stpid>17266</stpid>
+                			<stpnm>Clark &amp; Arlington</stpnm>
+                			<pdist>21535.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.927828916575</lat>
+						<lon>-87.641785740852</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.928631114139</lat>
+						<lon>-87.642225623131</lon>
+
+							<typ>S</typ>
+                			<stpid>1913</stpid>
+                			<stpnm>Clark &amp; Deming</stpnm>
+                			<pdist>22123.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.929317563746</lat>
+						<lon>-87.642660140991</lon>
+
+							<typ>S</typ>
+                			<stpid>17171</stpid>
+                			<stpnm>Clark &amp; Wrightwood</stpnm>
+                			<pdist>22503.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.929696704258</lat>
+						<lon>-87.642901539803</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.930059878846</lat>
+						<lon>-87.64345407486</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.931775950578</lat>
+						<lon>-87.644489407539</lon>
+
+							<typ>S</typ>
+                			<stpid>1916</stpid>
+                			<stpnm>Clark &amp; Schubert</stpnm>
+                			<pdist>23507.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.931967509209</lat>
+						<lon>-87.6445966959</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.932306726207</lat>
+						<lon>-87.644757628441</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.932530209361</lat>
+						<lon>-87.644816637039</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.932773645477</lat>
+						<lon>-87.644864916801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.932949238165</lat>
+						<lon>-87.644891738892</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.933112858188</lat>
+						<lon>-87.644832730293</lon>
+
+							<typ>S</typ>
+                			<stpid>15021</stpid>
+                			<stpnm>Broadway &amp; Diversey</stpnm>
+                			<pdist>23975.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.933599725044</lat>
+						<lon>-87.644607424736</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.934214289375</lat>
+						<lon>-87.644221186638</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.93433001836</lat>
+						<lon>-87.644194364548</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.935048331496</lat>
+						<lon>-87.64418900013</lon>
+
+							<typ>S</typ>
+                			<stpid>14899</stpid>
+                			<stpnm>Broadway &amp; Surf </stpnm>
+                			<pdist>24713.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.936588686836</lat>
+						<lon>-87.644253373146</lon>
+
+							<typ>S</typ>
+                			<stpid>14900</stpid>
+                			<stpnm>Broadway &amp; Wellington</stpnm>
+                			<pdist>25336.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.937877608438</lat>
+						<lon>-87.644290924072</lon>
+
+							<typ>S</typ>
+                			<stpid>5399</stpid>
+                			<stpnm>Broadway &amp; Barry </stpnm>
+                			<pdist>25716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.939840869302</lat>
+						<lon>-87.644339203835</lon>
+
+							<typ>S</typ>
+                			<stpid>5400</stpid>
+                			<stpnm>Broadway &amp; Belmont</stpnm>
+                			<pdist>26459.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.941792099172</lat>
+						<lon>-87.644414305687</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.942075401612</lat>
+						<lon>-87.644408941269</lon>
+
+							<typ>S</typ>
+                			<stpid>5401</stpid>
+                			<stpnm>Broadway &amp; Aldine </stpnm>
+                			<pdist>27256.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.942314811144</lat>
+						<lon>-87.644403576851</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.942797617632</lat>
+						<lon>-87.644484043121</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.943216578977</lat>
+						<lon>-87.644709348679</lon>
+
+							<typ>S</typ>
+                			<stpid>5402</stpid>
+                			<stpnm>Broadway &amp; Roscoe </stpnm>
+                			<pdist>27650.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.945395133595</lat>
+						<lon>-87.64601290226</lon>
+
+							<typ>S</typ>
+                			<stpid>5403</stpid>
+                			<stpnm>Broadway &amp; Cornelia</stpnm>
+                			<pdist>28558.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.94722649829</lat>
+						<lon>-87.647150158882</lon>
+
+							<typ>S</typ>
+                			<stpid>5404</stpid>
+                			<stpnm>Broadway &amp; Addison</stpnm>
+                			<pdist>29301.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.949037861728</lat>
+						<lon>-87.648239135742</lon>
+
+							<typ>S</typ>
+                			<stpid>5405</stpid>
+                			<stpnm>Broadway &amp; Waveland</stpnm>
+                			<pdist>30019.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.949971451859</lat>
+						<lon>-87.648813128471</lon>
+
+							<typ>S</typ>
+                			<stpid>5406</stpid>
+                			<stpnm>3719 N Broadway</stpnm>
+                			<pdist>30280.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.950861142549</lat>
+						<lon>-87.649338841438</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.951056633459</lat>
+						<lon>-87.649526596069</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.951152383889</lat>
+						<lon>-87.649542689323</lon>
+
+							<typ>S</typ>
+                			<stpid>5407</stpid>
+                			<stpnm>Broadway &amp; Grace</stpnm>
+                			<pdist>30780.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.952604581122</lat>
+						<lon>-87.649612426758</lon>
+
+							<typ>S</typ>
+                			<stpid>5408</stpid>
+                			<stpnm>Broadway &amp; W. Sheridan</stpnm>
+                			<pdist>31402.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.953366572478</lat>
+						<lon>-87.649655342102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.953833337554</lat>
+						<lon>-87.6500415802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.954443717494</lat>
+						<lon>-87.650417089462</lon>
+
+							<typ>S</typ>
+                			<stpid>5409</stpid>
+                			<stpnm>Broadway &amp; Irving Park</stpnm>
+                			<pdist>32103.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.956817361696</lat>
+						<lon>-87.651945948601</lon>
+
+							<typ>S</typ>
+                			<stpid>5410</stpid>
+                			<stpnm>Broadway &amp; Belle Plaine</stpnm>
+                			<pdist>33091.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.957698978455</lat>
+						<lon>-87.652525305748</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.958528724263</lat>
+						<lon>-87.653056383133</lon>
+
+							<typ>S</typ>
+                			<stpid>5411</stpid>
+                			<stpnm>Broadway &amp; Buena</stpnm>
+                			<pdist>33697.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.960024632919</lat>
+						<lon>-87.65396296978</lon>
+
+							<typ>S</typ>
+                			<stpid>5412</stpid>
+                			<stpnm>Broadway &amp; Cullom</stpnm>
+                			<pdist>34380.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.961037841767</lat>
+						<lon>-87.654622793198</lon>
+
+							<typ>S</typ>
+                			<stpid>5413</stpid>
+                			<stpnm>Broadway &amp; N. Sheridan</stpnm>
+                			<pdist>34748.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.961277180088</lat>
+						<lon>-87.654772996902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.961727931484</lat>
+						<lon>-87.65505194664</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.961879510883</lat>
+						<lon>-87.655153870583</lon>
+
+							<typ>S</typ>
+                			<stpid>15284</stpid>
+                			<stpnm>Broadway &amp; Montrose</stpnm>
+                			<pdist>35186.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.963674502664</lat>
+						<lon>-87.656275033951</lon>
+
+							<typ>S</typ>
+                			<stpid>17393</stpid>
+                			<stpnm>Broadway &amp; Sunnyside</stpnm>
+                			<pdist>35925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.965605059603</lat>
+						<lon>-87.657535672188</lon>
+
+							<typ>S</typ>
+                			<stpid>16194</stpid>
+                			<stpnm>Broadway &amp; Wilson</stpnm>
+                			<pdist>36649.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.967340117682</lat>
+						<lon>-87.658656835556</lon>
+
+							<typ>S</typ>
+                			<stpid>15343</stpid>
+                			<stpnm>Broadway &amp; Leland</stpnm>
+                			<pdist>37350.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.967882562925</lat>
+						<lon>-87.65900015831</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.968795934552</lat>
+						<lon>-87.659617066383</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.968871715889</lat>
+						<lon>-87.659633159637</lon>
+
+							<typ>S</typ>
+                			<stpid>5418</stpid>
+                			<stpnm>Broadway &amp; Lawrence</stpnm>
+                			<pdist>37910.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.970259694959</lat>
+						<lon>-87.659643888474</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.971671573673</lat>
+						<lon>-87.659697532654</lon>
+
+							<typ>S</typ>
+                			<stpid>14453</stpid>
+                			<stpnm>Broadway &amp; Ainslie</stpnm>
+                			<pdist>38993.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.973390513703</lat>
+						<lon>-87.659745812416</lon>
+
+							<typ>S</typ>
+                			<stpid>14454</stpid>
+                			<stpnm>Broadway &amp; Argyle </stpnm>
+                			<pdist>39603.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.975121371639</lat>
+						<lon>-87.65978872776</lon>
+
+							<typ>S</typ>
+                			<stpid>5421</stpid>
+                			<stpnm>Broadway &amp; Winona </stpnm>
+                			<pdist>40142.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.976604926717</lat>
+						<lon>-87.659837007523</lon>
+
+							<typ>S</typ>
+                			<stpid>4794</stpid>
+                			<stpnm>Broadway &amp; Foster</stpnm>
+                			<pdist>40675.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.978327721503</lat>
+						<lon>-87.659890651703</lon>
+
+							<typ>S</typ>
+                			<stpid>14442</stpid>
+                			<stpnm>Broadway &amp; Berwyn</stpnm>
+                			<pdist>41371.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.979863043321</lat>
+						<lon>-87.659912109375</lon>
+
+							<typ>S</typ>
+                			<stpid>5423</stpid>
+                			<stpnm>Broadway &amp; Balmoral</stpnm>
+                			<pdist>41848.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.981701392955</lat>
+						<lon>-87.659971117973</lon>
+
+							<typ>S</typ>
+                			<stpid>5424</stpid>
+                			<stpnm>Broadway &amp; Catalpa</stpnm>
+                			<pdist>42508.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.983850719259</lat>
+						<lon>-87.660014033318</lon>
+
+							<typ>S</typ>
+                			<stpid>14456</stpid>
+                			<stpnm>Broadway &amp; Bryn Mawr/Ridge</stpnm>
+                			<pdist>43368.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.985377933002</lat>
+						<lon>-87.660067677498</lon>
+
+							<typ>S</typ>
+                			<stpid>5426</stpid>
+                			<stpnm>Broadway &amp; Hollywood</stpnm>
+                			<pdist>43814.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.987463338032</lat>
+						<lon>-87.660121321678</lon>
+
+							<typ>S</typ>
+                			<stpid>5427</stpid>
+                			<stpnm>Broadway &amp; Ardmore</stpnm>
+                			<pdist>44630.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.989078184098</lat>
+						<lon>-87.660180330276</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.989923469903</lat>
+						<lon>-87.660180330276</lon>
+
+							<typ>S</typ>
+                			<stpid>5429</stpid>
+                			<stpnm>Broadway &amp; Thorndale</stpnm>
+                			<pdist>45481.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.990924241886</lat>
+						<lon>-87.660223245621</lon>
+
+							<typ>S</typ>
+                			<stpid>5430</stpid>
+                			<stpnm>Broadway &amp; Elmdale</stpnm>
+                			<pdist>45934.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.992750311172</lat>
+						<lon>-87.660276889801</lon>
+
+							<typ>S</typ>
+                			<stpid>5431</stpid>
+                			<stpnm>Broadway &amp; Glenlake </stpnm>
+                			<pdist>46465.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.994448747806</lat>
+						<lon>-87.660341262817</lon>
+
+							<typ>S</typ>
+                			<stpid>15550</stpid>
+                			<stpnm>Broadway &amp; Granville</stpnm>
+                			<pdist>47210.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.996282689522</lat>
+						<lon>-87.660405635834</lon>
+
+							<typ>S</typ>
+                			<stpid>5433</stpid>
+                			<stpnm>Broadway &amp; Rosemont</stpnm>
+                			<pdist>47690.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.998228204704</lat>
+						<lon>-87.660491466522</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.998216244751</lat>
+						<lon>-87.661108374596</lon>
+
+							<typ>S</typ>
+                			<stpid>1757</stpid>
+                			<stpnm>Devon &amp; Sheridan</stpnm>
+                			<pdist>48536.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.998184351533</lat>
+						<lon>-87.662910819054</lon>
+
+							<typ>S</typ>
+                			<stpid>1758</stpid>
+                			<stpnm>Devon &amp; Lakewood</stpnm>
+                			<pdist>49004.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.998168404918</lat>
+						<lon>-87.665228247643</lon>
+
+							<typ>S</typ>
+                			<stpid>1760</stpid>
+                			<stpnm>Devon &amp; Glenwood</stpnm>
+                			<pdist>49653.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.998144484988</lat>
+						<lon>-87.66773879528</lon>
+
+							<typ>S</typ>
+                			<stpid>1761</stpid>
+                			<stpnm>Devon &amp; Greenview</stpnm>
+                			<pdist>50310.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.998116578392</lat>
+						<lon>-87.670158147812</lon>
+
+							<typ>S</typ>
+                			<stpid>1762</stpid>
+                			<stpnm>Devon &amp; Clark</stpnm>
+                			<pdist>50989.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.998116578392</lat>
+						<lon>-87.670474648476</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.999101275174</lat>
+						<lon>-87.67084479332</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.999097288578</lat>
+						<lon>-87.671365141869</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.998878025417</lat>
+						<lon>-87.671290040016</lon>
+
+							<typ>S</typ>
+                			<stpid>14176</stpid>
+                			<stpnm>Clark &amp; Arthur Terminal</stpnm>
+                			<pdist>51702.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

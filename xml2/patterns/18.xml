@@ -1,0 +1,1650 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>3916</pid>
+				<ln>39498.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.858258819003</lat>
+						<lon>-87.743420004845</lon>
+
+							<typ>S</typ>
+                			<stpid>14466</stpid>
+                			<stpnm>16th Street &amp; 47th Court Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.85857046000318</lat>
+						<lon>-87.74343073368073</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.85861041386769</lat>
+						<lon>-87.7406895160675</lon>
+
+							<typ>S</typ>
+                			<stpid>6735</stpid>
+                			<stpnm>16th Street &amp; 46th Court</stpnm>
+                			<pdist>738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.858658358472155</lat>
+						<lon>-87.73736357688904</lon>
+
+							<typ>S</typ>
+                			<stpid>6736</stpid>
+                			<stpnm>16th Street &amp; Kilbourn</stpnm>
+                			<pdist>1747.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.85869032152182</lat>
+						<lon>-87.73492813110352</lon>
+
+							<typ>S</typ>
+                			<stpid>6737</stpid>
+                			<stpnm>16th Street &amp; Kostner</stpnm>
+                			<pdist>2416.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.85874226144345</lat>
+						<lon>-87.73216545581818</lon>
+
+							<typ>S</typ>
+                			<stpid>6738</stpid>
+                			<stpnm>16th Street &amp; Kildare</stpnm>
+                			<pdist>3084.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.85875424757323</lat>
+						<lon>-87.72997677326202</lon>
+
+							<typ>S</typ>
+                			<stpid>6739</stpid>
+                			<stpnm>16th Street &amp; Keeler</stpnm>
+                			<pdist>3763.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.85879819669651</lat>
+						<lon>-87.72749841213226</lon>
+
+							<typ>S</typ>
+                			<stpid>6740</stpid>
+                			<stpnm>16th Street &amp; Karlov</stpnm>
+                			<pdist>4426.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.85882616430469</lat>
+						<lon>-87.7251273393631</lon>
+
+							<typ>S</typ>
+                			<stpid>6741</stpid>
+                			<stpnm>16th Street &amp; Pulaski</stpnm>
+                			<pdist>5094.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.8588621226401</lat>
+						<lon>-87.72261142730713</lon>
+
+							<typ>S</typ>
+                			<stpid>6742</stpid>
+                			<stpnm>16th Street &amp; Springfield</stpnm>
+                			<pdist>5773.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.85889009022031</lat>
+						<lon>-87.7199399471283</lon>
+
+							<typ>S</typ>
+                			<stpid>15171</stpid>
+                			<stpnm>16th Street &amp; Hamlin</stpnm>
+                			<pdist>6592.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.85890607168923</lat>
+						<lon>-87.71773517131805</lon>
+
+							<typ>S</typ>
+                			<stpid>6744</stpid>
+                			<stpnm>16th Street &amp; Lawndale</stpnm>
+                			<pdist>7088.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.858938034615115</lat>
+						<lon>-87.71536409854889</lon>
+
+							<typ>S</typ>
+                			<stpid>6745</stpid>
+                			<stpnm>16th Street &amp; Central Park</stpnm>
+                			<pdist>7756.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.85896999752498</lat>
+						<lon>-87.71285891532898</lon>
+
+							<typ>S</typ>
+                			<stpid>6746</stpid>
+                			<stpnm>16th Street &amp; St. Louis</stpnm>
+                			<pdist>8433.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.858993969696904</lat>
+						<lon>-87.71040737628937</lon>
+
+							<typ>S</typ>
+                			<stpid>6747</stpid>
+                			<stpnm>16th Street &amp; Homan</stpnm>
+                			<pdist>9097.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.85901794185987</lat>
+						<lon>-87.70800411701202</lon>
+
+							<typ>S</typ>
+                			<stpid>6748</stpid>
+                			<stpnm>16th Street &amp; Spaulding</stpnm>
+                			<pdist>9762.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.859061890802</lat>
+						<lon>-87.705171704292</lon>
+
+							<typ>S</typ>
+                			<stpid>14835</stpid>
+                			<stpnm>16th Street &amp; Kedzie</stpnm>
+                			<pdist>10427.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.859105839714</lat>
+						<lon>-87.703084945679</lon>
+
+							<typ>S</typ>
+                			<stpid>6750</stpid>
+                			<stpnm>16th Street &amp; Albany</stpnm>
+                			<pdist>11099.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.859105839714</lat>
+						<lon>-87.7029722929</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.858590436939</lat>
+						<lon>-87.702934741974</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.859241681614</lat>
+						<lon>-87.701143026352</lon>
+
+							<typ>S</typ>
+                			<stpid>6675</stpid>
+                			<stpnm>Ogden &amp; Sacramento</stpnm>
+                			<pdist>11788.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.86054814633276</lat>
+						<lon>-87.6974630355835</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.861079514255294</lat>
+						<lon>-87.69593954086304</lon>
+
+							<typ>S</typ>
+                			<stpid>6676</stpid>
+                			<stpnm>Ogden &amp; California</stpnm>
+                			<pdist>13367.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.861143437918</lat>
+						<lon>-87.695773243904</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.860120651641</lat>
+						<lon>-87.695741057396</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.859197732795494</lat>
+						<lon>-87.69571959972382</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.85919373744687</lat>
+						<lon>-87.69538164138794</lon>
+
+							<typ>S</typ>
+                			<stpid>6751</stpid>
+                			<stpnm>16th Street &amp; California</stpnm>
+                			<pdist>14165.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.859225700229</lat>
+						<lon>-87.693380713463</lon>
+
+							<typ>S</typ>
+                			<stpid>6752</stpid>
+                			<stpnm>16th Street &amp; Washtenaw</stpnm>
+                			<pdist>14695.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.8592616583397</lat>
+						<lon>-87.69090235233307</lon>
+
+							<typ>S</typ>
+                			<stpid>6753</stpid>
+                			<stpnm>16th Street &amp; Rockwell</stpnm>
+                			<pdist>15383.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.85933357450054</lat>
+						<lon>-87.68606901168823</lon>
+
+							<typ>S</typ>
+                			<stpid>6754</stpid>
+                			<stpnm>16th Street &amp; Western</stpnm>
+                			<pdist>16716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.85932558381999</lat>
+						<lon>-87.68589198589325</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.857180049969045</lat>
+						<lon>-87.68580079078674</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.85728792769134</lat>
+						<lon>-87.68537163734436</lon>
+
+							<typ>S</typ>
+                			<stpid>6755</stpid>
+                			<stpnm>18th Street &amp; Western</stpnm>
+                			<pdist>17642.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.85739580523166</lat>
+						<lon>-87.68492102622986</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.85746372803406</lat>
+						<lon>-87.68460988998413</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.85750767804424</lat>
+						<lon>-87.68432021141052</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.85752765531162</lat>
+						<lon>-87.68406808376312</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.857543637121</lat>
+						<lon>-87.683472633362</lon>
+
+							<typ>S</typ>
+                			<stpid>6756</stpid>
+                			<stpnm>18th Street &amp; Oakley</stpnm>
+                			<pdist>18160.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.857567609828</lat>
+						<lon>-87.680978178978</lon>
+
+							<typ>S</typ>
+                			<stpid>6757</stpid>
+                			<stpnm>18th Street &amp; Leavitt</stpnm>
+                			<pdist>18828.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.85759158252524</lat>
+						<lon>-87.67854809761047</lon>
+
+							<typ>S</typ>
+                			<stpid>6758</stpid>
+                			<stpnm>18th Street &amp; Hoyne</stpnm>
+                			<pdist>19499.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.857623546108115</lat>
+						<lon>-87.67606973648071</lon>
+
+							<typ>S</typ>
+                			<stpid>14834</stpid>
+                			<stpnm>18th Street &amp; Damen</stpnm>
+                			<pdist>20170.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.857659505119734</lat>
+						<lon>-87.67339289188385</lon>
+
+							<typ>S</typ>
+                			<stpid>6760</stpid>
+                			<stpnm>18th Street &amp; Wolcott</stpnm>
+                			<pdist>20909.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.857693333333</lat>
+						<lon>-87.671176666667</lon>
+
+							<typ>S</typ>
+                			<stpid>6761</stpid>
+                			<stpnm>18th Street &amp; Wood</stpnm>
+                			<pdist>21511.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.857711445879</lat>
+						<lon>-87.668731212616</lon>
+
+							<typ>S</typ>
+                			<stpid>6762</stpid>
+                			<stpnm>18th Street &amp; Paulina (Pink Line)</stpnm>
+                			<pdist>22182.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.857743409402</lat>
+						<lon>-87.666344046593</lon>
+
+							<typ>S</typ>
+                			<stpid>6763</stpid>
+                			<stpnm>18th Street &amp; Ashland</stpnm>
+                			<pdist>22844.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.85779934552825</lat>
+						<lon>-87.66387104988098</lon>
+
+							<typ>S</typ>
+                			<stpid>6764</stpid>
+                			<stpnm>18th Street &amp; Laflin</stpnm>
+                			<pdist>23519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.85783130900726</lat>
+						<lon>-87.66149997711182</lon>
+
+							<typ>S</typ>
+                			<stpid>6765</stpid>
+                			<stpnm>18th Street &amp; Blue Island</stpnm>
+                			<pdist>24187.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.857887245057</lat>
+						<lon>-87.65900015831</lon>
+
+							<typ>S</typ>
+                			<stpid>6766</stpid>
+                			<stpnm>18th Street &amp; Throop</stpnm>
+                			<pdist>24850.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.857927199348</lat>
+						<lon>-87.656553983688</lon>
+
+							<typ>S</typ>
+                			<stpid>6767</stpid>
+                			<stpnm>18th Street &amp; Racine</stpnm>
+                			<pdist>25636.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.857959162764</lat>
+						<lon>-87.653292417526</lon>
+
+							<typ>S</typ>
+                			<stpid>6769</stpid>
+                			<stpnm>18th Street &amp; Carpenter </stpnm>
+                			<pdist>26387.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.858019094124</lat>
+						<lon>-87.650020122528</lon>
+
+							<typ>S</typ>
+                			<stpid>6771</stpid>
+                			<stpnm>18th Street &amp; Sangamon</stpnm>
+                			<pdist>27201.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.858039071231</lat>
+						<lon>-87.648357152939</lon>
+
+							<typ>S</typ>
+                			<stpid>6772</stpid>
+                			<stpnm>18th Street &amp; Peoria </stpnm>
+                			<pdist>27651.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.858059048333</lat>
+						<lon>-87.646602988243</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.859801027575</lat>
+						<lon>-87.646661996841</lon>
+
+							<typ>S</typ>
+                			<stpid>5924</stpid>
+                			<stpnm>Halsted &amp; 16th Street</stpnm>
+                			<pdist>28723.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.862198169133</lat>
+						<lon>-87.64672100544</lon>
+
+							<typ>S</typ>
+                			<stpid>5926</stpid>
+                			<stpnm>Halsted &amp; 14th Place</stpnm>
+                			<pdist>29606.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.86465514596822</lat>
+						<lon>-87.64679610729218</lon>
+
+							<typ>S</typ>
+                			<stpid>5928</stpid>
+                			<stpnm>Halsted &amp; Maxwell</stpnm>
+                			<pdist>30498.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.866201195188</lat>
+						<lon>-87.646817564964</lon>
+
+							<typ>S</typ>
+                			<stpid>15311</stpid>
+                			<stpnm>Halsted &amp; Rochford</stpnm>
+                			<pdist>31044.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.86706808498</lat>
+						<lon>-87.646860480309</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.867064090124</lat>
+						<lon>-87.646324038506</lon>
+
+							<typ>S</typ>
+                			<stpid>14459</stpid>
+                			<stpnm>Roosevelt &amp; Halsted</stpnm>
+                			<pdist>31441.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.867120018097</lat>
+						<lon>-87.642295360565</lon>
+
+							<typ>S</typ>
+                			<stpid>310</stpid>
+                			<stpnm>Roosevelt &amp; Jefferson</stpnm>
+                			<pdist>32553.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.867139992362</lat>
+						<lon>-87.640482187271</lon>
+
+							<typ>S</typ>
+                			<stpid>15975</stpid>
+                			<stpnm>Roosevelt &amp; Clinton</stpnm>
+                			<pdist>33101.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.867151976917</lat>
+						<lon>-87.638840675354</lon>
+
+							<typ>S</typ>
+                			<stpid>312</stpid>
+                			<stpnm>Roosevelt &amp; Canal</stpnm>
+                			<pdist>33526.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.867199915117</lat>
+						<lon>-87.635573744774</lon>
+
+							<typ>S</typ>
+                			<stpid>313</stpid>
+                			<stpnm>327 W Roosevelt</stpnm>
+                			<pdist>34444.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.867246666666</lat>
+						<lon>-87.632139999999</lon>
+
+							<typ>S</typ>
+                			<stpid>17516</stpid>
+                			<stpnm>Roosevelt &amp; Delano</stpnm>
+                			<pdist>35361.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.86727182235</lat>
+						<lon>-87.630681395531</lon>
+
+							<typ>S</typ>
+                			<stpid>315</stpid>
+                			<stpnm>Roosevelt &amp; Clark</stpnm>
+                			<pdist>35691.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.867311770778</lat>
+						<lon>-87.627119421959</lon>
+
+							<typ>S</typ>
+                			<stpid>316</stpid>
+                			<stpnm>Roosevelt &amp; State</stpnm>
+                			<pdist>36815.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.867339734662</lat>
+						<lon>-87.623991966248</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.867815118829</lat>
+						<lon>-87.623997330666</lon>
+
+							<typ>S</typ>
+                			<stpid>1580</stpid>
+                			<stpnm>Michigan &amp; Roosevelt</stpnm>
+                			<pdist>37684.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.869349107492</lat>
+						<lon>-87.623981237411</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.869301170903</lat>
+						<lon>-87.62589097023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.86751151254213</lat>
+						<lon>-87.62584805488586</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.867503522884</lat>
+						<lon>-87.626974582672</lon>
+
+							<typ>S</typ>
+                			<stpid>16140</stpid>
+                			<stpnm>Roosevelt Orange/Red/Green Line Station</stpnm>
+                			<pdist>39498.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>3918</pid>
+				<ln>37304.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.867503522884</lat>
+						<lon>-87.626974582672</lon>
+
+							<typ>S</typ>
+                			<stpid>16140</stpid>
+                			<stpnm>Roosevelt Orange/Red/Green Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.867475559071</lat>
+						<lon>-87.627865076065</lon>
+
+							<typ>S</typ>
+                			<stpid>16139</stpid>
+                			<stpnm>Roosevelt &amp; State</stpnm>
+                			<pdist>313.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.867459579743</lat>
+						<lon>-87.630241513252</lon>
+
+							<typ>S</typ>
+                			<stpid>15377</stpid>
+                			<stpnm>Roosevelt &amp; Clark</stpnm>
+                			<pdist>1175.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.86741164173803</lat>
+						<lon>-87.63303101062775</lon>
+
+							<typ>S</typ>
+                			<stpid>17517</stpid>
+                			<stpnm>Roosevelt &amp; Delano</stpnm>
+                			<pdist>1727.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.867367698535</lat>
+						<lon>-87.635536193848</lon>
+
+							<typ>S</typ>
+                			<stpid>326</stpid>
+                			<stpnm>327 W Roosevelt</stpnm>
+                			<pdist>2464.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.867339734662</lat>
+						<lon>-87.639044523239</lon>
+
+							<typ>S</typ>
+                			<stpid>327</stpid>
+                			<stpnm>Roosevelt &amp; Canal</stpnm>
+                			<pdist>3338.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.86732375530135</lat>
+						<lon>-87.64057338237762</lon>
+
+							<typ>S</typ>
+                			<stpid>328</stpid>
+                			<stpnm>Roosevelt &amp; Clinton</stpnm>
+                			<pdist>3753.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.8672997862522</lat>
+						<lon>-87.64204859733582</lon>
+
+							<typ>S</typ>
+                			<stpid>329</stpid>
+                			<stpnm>Roosevelt &amp; Jefferson</stpnm>
+                			<pdist>4145.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.86723187389746</lat>
+						<lon>-87.64695167541504</lon>
+
+							<typ>S</typ>
+                			<stpid>17366</stpid>
+                			<stpnm>Halsted &amp; Roosevelt</stpnm>
+                			<pdist>5617.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.865809692719</lat>
+						<lon>-87.646898031235</lon>
+
+							<typ>S</typ>
+                			<stpid>15310</stpid>
+                			<stpnm>Halsted &amp; Rochford</stpnm>
+                			<pdist>6023.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.86486688101652</lat>
+						<lon>-87.64688193798065</lon>
+
+							<typ>S</typ>
+                			<stpid>5802</stpid>
+                			<stpnm>Halsted &amp; Maxwell</stpnm>
+                			<pdist>6266.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.862389936575</lat>
+						<lon>-87.646812200546</lon>
+
+							<typ>S</typ>
+                			<stpid>5804</stpid>
+                			<stpnm>Halsted &amp; 14th Place</stpnm>
+                			<pdist>7137.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.859721121308</lat>
+						<lon>-87.646742463112</lon>
+
+							<typ>S</typ>
+                			<stpid>5806</stpid>
+                			<stpnm>Halsted &amp; 16th Street</stpnm>
+                			<pdist>8294.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.859141797892</lat>
+						<lon>-87.646710276604</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.858118979599</lat>
+						<lon>-87.646688818932</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.858114984183</lat>
+						<lon>-87.647112607956</lon>
+
+							<typ>S</typ>
+                			<stpid>6805</stpid>
+                			<stpnm>18th Street &amp; Halsted</stpnm>
+                			<pdist>8826.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.858110988767</lat>
+						<lon>-87.64857172966</lon>
+
+							<typ>S</typ>
+                			<stpid>6806</stpid>
+                			<stpnm>18th Street &amp; Peoria </stpnm>
+                			<pdist>9248.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.858099002517</lat>
+						<lon>-87.649757266045</lon>
+
+							<typ>S</typ>
+                			<stpid>6807</stpid>
+                			<stpnm>18th Street &amp; Sangamon</stpnm>
+                			<pdist>9533.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.85803507581</lat>
+						<lon>-87.652938365936</lon>
+
+							<typ>S</typ>
+                			<stpid>6809</stpid>
+                			<stpnm>18th Street &amp; Carpenter </stpnm>
+                			<pdist>10471.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.857983135314</lat>
+						<lon>-87.656677365303</lon>
+
+							<typ>S</typ>
+                			<stpid>17678</stpid>
+                			<stpnm>18th Street &amp; Racine</stpnm>
+                			<pdist>11420.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.857955167338</lat>
+						<lon>-87.658651471138</lon>
+
+							<typ>S</typ>
+                			<stpid>6812</stpid>
+                			<stpnm>18th Street &amp; Throop</stpnm>
+                			<pdist>11973.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.85791521306367</lat>
+						<lon>-87.66087234020233</lon>
+
+							<typ>S</typ>
+                			<stpid>6813</stpid>
+                			<stpnm>18th Street &amp; Blue Island</stpnm>
+                			<pdist>12559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.857867267902</lat>
+						<lon>-87.663554549217</lon>
+
+							<typ>S</typ>
+                			<stpid>6814</stpid>
+                			<stpnm>18th Street &amp; Laflin</stpnm>
+                			<pdist>13309.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.857811331835</lat>
+						<lon>-87.665952444077</lon>
+
+							<typ>S</typ>
+                			<stpid>6815</stpid>
+                			<stpnm>18th Street &amp; Ashland</stpnm>
+                			<pdist>13947.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.857791354656</lat>
+						<lon>-87.666875123978</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.857779368346</lat>
+						<lon>-87.66904771328</lon>
+
+							<typ>S</typ>
+                			<stpid>14067</stpid>
+                			<stpnm>18th Street &amp; Paulina (Pink Line)</stpnm>
+                			<pdist>14819.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.857755395719</lat>
+						<lon>-87.67095208168</lon>
+
+							<typ>S</typ>
+                			<stpid>6817</stpid>
+                			<stpnm>18th Street &amp; Wood</stpnm>
+                			<pdist>15296.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.857719436760824</lat>
+						<lon>-87.67380058765411</lon>
+
+							<typ>S</typ>
+                			<stpid>15939</stpid>
+                			<stpnm>18th Street &amp; Wolcott</stpnm>
+                			<pdist>16122.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.85769146866865</lat>
+						<lon>-87.6760858297348</lon>
+
+							<typ>S</typ>
+                			<stpid>6819</stpid>
+                			<stpnm>18th Street &amp; Damen</stpnm>
+                			<pdist>16612.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.857667496008</lat>
+						<lon>-87.678317427635</lon>
+
+							<typ>S</typ>
+                			<stpid>6820</stpid>
+                			<stpnm>18th Street &amp; Hoyne</stpnm>
+                			<pdist>17285.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.857627541555</lat>
+						<lon>-87.680774331093</lon>
+
+							<typ>S</typ>
+                			<stpid>6821</stpid>
+                			<stpnm>18th Street &amp; Leavitt</stpnm>
+                			<pdist>17957.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.85759557797398</lat>
+						<lon>-87.68325805664062</lon>
+
+							<typ>S</typ>
+                			<stpid>6822</stpid>
+                			<stpnm>18th Street &amp; Oakley</stpnm>
+                			<pdist>18692.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.85758359162704</lat>
+						<lon>-87.68427193164825</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.85754763257275</lat>
+						<lon>-87.68452405929565</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.85749569168083</lat>
+						<lon>-87.684765458107</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.857267950349105</lat>
+						<lon>-87.6857042312622</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.857331877822</lat>
+						<lon>-87.68570959568</lon>
+
+							<typ>S</typ>
+                			<stpid>6823</stpid>
+                			<stpnm>18th Street &amp; Western</stpnm>
+                			<pdist>19307.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.85785528160604</lat>
+						<lon>-87.68576323986053</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.859289625745184</lat>
+						<lon>-87.68582224845886</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.859389509236365</lat>
+						<lon>-87.68576860427856</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.85938151856281</lat>
+						<lon>-87.68616557121277</lon>
+
+							<typ>S</typ>
+                			<stpid>6824</stpid>
+                			<stpnm>16th Street &amp; Western</stpnm>
+                			<pdist>20206.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.85935355119751</lat>
+						<lon>-87.68841326236725</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.85932558381999</lat>
+						<lon>-87.69065022468567</lon>
+
+							<typ>S</typ>
+                			<stpid>6825</stpid>
+                			<stpnm>16th Street &amp; Rockwell</stpnm>
+                			<pdist>21376.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.85928563040229</lat>
+						<lon>-87.69315004348755</lon>
+
+							<typ>S</typ>
+                			<stpid>6826</stpid>
+                			<stpnm>16th Street &amp; Washtenaw</stpnm>
+                			<pdist>22047.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.86021653854954</lat>
+						<lon>-87.69319295883179</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.86098762387771</lat>
+						<lon>-87.69319295883179</lon>
+
+							<typ>S</typ>
+                			<stpid>6827</stpid>
+                			<stpnm>Washtenaw &amp; 15th Street</stpnm>
+                			<pdist>22686.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.862377951127</lat>
+						<lon>-87.693230509758</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.862250106205</lat>
+						<lon>-87.693616747856</lon>
+
+							<typ>S</typ>
+                			<stpid>17089</stpid>
+                			<stpnm>Ogden &amp; Washtenaw</stpnm>
+                			<pdist>23257.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.86145906006799</lat>
+						<lon>-87.69586980342865</lon>
+
+							<typ>S</typ>
+                			<stpid>14980</stpid>
+                			<stpnm>Ogden &amp; California</stpnm>
+                			<pdist>23849.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.861099490407</lat>
+						<lon>-87.696862220764</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.859425467254994</lat>
+						<lon>-87.70160973072052</lon>
+
+							<typ>S</typ>
+                			<stpid>6653</stpid>
+                			<stpnm>Ogden &amp; Sacramento</stpnm>
+                			<pdist>25673.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.8590139465</lat>
+						<lon>-87.70277917385101</lon>
+
+							<typ>S</typ>
+                			<stpid>6654</stpid>
+                			<stpnm>Ogden &amp; Albany</stpnm>
+                			<pdist>26003.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.858989974335536</lat>
+						<lon>-87.70287573337555</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.85916976535</lat>
+						<lon>-87.702886462212</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.859165769999</lat>
+						<lon>-87.703074216843</lon>
+
+							<typ>S</typ>
+                			<stpid>6828</stpid>
+                			<stpnm>16th Street &amp; Albany</stpnm>
+                			<pdist>26197.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.859129811835</lat>
+						<lon>-87.705305814743</lon>
+
+							<typ>S</typ>
+                			<stpid>6829</stpid>
+                			<stpnm>16th Street &amp; Kedzie</stpnm>
+                			<pdist>26739.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.859077872227914</lat>
+						<lon>-87.70771980285645</lon>
+
+							<typ>S</typ>
+                			<stpid>6830</stpid>
+                			<stpnm>16th Street &amp; Spaulding</stpnm>
+                			<pdist>27401.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.85905390008742</lat>
+						<lon>-87.7106112241745</lon>
+
+							<typ>S</typ>
+                			<stpid>15137</stpid>
+                			<stpnm>16th Street &amp; Homan</stpnm>
+                			<pdist>28205.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.85902992793797</lat>
+						<lon>-87.71261751651764</lon>
+
+							<typ>S</typ>
+                			<stpid>6832</stpid>
+                			<stpnm>16th Street &amp; St. Louis</stpnm>
+                			<pdist>28716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.85900595577951</lat>
+						<lon>-87.71490812301636</lon>
+
+							<typ>S</typ>
+                			<stpid>6833</stpid>
+                			<stpnm>16th Street &amp; Central Park</stpnm>
+                			<pdist>29372.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.85897798824996</lat>
+						<lon>-87.7174723148346</lon>
+
+							<typ>S</typ>
+                			<stpid>6834</stpid>
+                			<stpnm>16th Street &amp; Lawndale</stpnm>
+                			<pdist>30052.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.85894202997971</lat>
+						<lon>-87.7203905582428</lon>
+
+							<typ>S</typ>
+                			<stpid>15172</stpid>
+                			<stpnm>16th Street &amp; Hamlin</stpnm>
+                			<pdist>30872.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.85893004388515</lat>
+						<lon>-87.72229492664337</lon>
+
+							<typ>S</typ>
+                			<stpid>6836</stpid>
+                			<stpnm>16th Street &amp; Springfield</stpnm>
+                			<pdist>31366.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.85888609485247</lat>
+						<lon>-87.72474646568298</lon>
+
+							<typ>S</typ>
+                			<stpid>6837</stpid>
+                			<stpnm>16th Street &amp; Pulaski</stpnm>
+                			<pdist>32034.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.8588621226401</lat>
+						<lon>-87.72720873355865</lon>
+
+							<typ>S</typ>
+                			<stpid>6838</stpid>
+                			<stpnm>16th Street &amp; Karlov</stpnm>
+                			<pdist>32711.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.858818173560756</lat>
+						<lon>-87.73014843463898</lon>
+
+							<typ>S</typ>
+                			<stpid>15173</stpid>
+                			<stpnm>16th Street &amp; Keeler</stpnm>
+                			<pdist>33528.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.85879819669651</lat>
+						<lon>-87.73213863372803</lon>
+
+							<typ>S</typ>
+                			<stpid>6840</stpid>
+                			<stpnm>16th Street &amp; Kildare</stpnm>
+                			<pdist>34036.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.85876623370077</lat>
+						<lon>-87.7345472574234</lon>
+
+							<typ>S</typ>
+                			<stpid>6841</stpid>
+                			<stpnm>16th Street &amp; Kostner</stpnm>
+                			<pdist>34707.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.85872627993361</lat>
+						<lon>-87.73697197437286</lon>
+
+							<typ>S</typ>
+                			<stpid>6842</stpid>
+                			<stpnm>16th Street &amp; Kilbourn</stpnm>
+                			<pdist>35378.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.85867034461765</lat>
+						<lon>-87.74061441421509</lon>
+
+							<typ>S</typ>
+                			<stpid>6843</stpid>
+                			<stpnm>16th Street &amp; 46th Court</stpnm>
+                			<pdist>36462.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.85863438617441</lat>
+						<lon>-87.74361848831177</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.858254823596</lat>
+						<lon>-87.743613123894</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.858258819003</lat>
+						<lon>-87.743420004845</lon>
+
+							<typ>S</typ>
+                			<stpid>14466</stpid>
+                			<stpnm>16th Street &amp; 47th Court Terminal</stpnm>
+                			<pdist>37304.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

@@ -1,0 +1,846 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>2306</pid>
+				<ln>19560.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.715647942989</lat>
+						<lon>-87.681906223297</lon>
+
+							<typ>S</typ>
+                			<stpid>3482</stpid>
+                			<stpnm>Western &amp; 98th Street</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.715591882701</lat>
+						<lon>-87.684422135353</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.717842264434</lat>
+						<lon>-87.684470415115</lon>
+
+							<typ>S</typ>
+                			<stpid>14759</stpid>
+                			<stpnm>Evergreen Plaza</stpnm>
+                			<pdist>1559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.719191654835</lat>
+						<lon>-87.684486508369</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.720825300253</lat>
+						<lon>-87.684502601624</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.72084532016</lat>
+						<lon>-87.683011293411</lon>
+
+							<typ>S</typ>
+                			<stpid>3485</stpid>
+                			<stpnm>95th Street &amp; Western</stpnm>
+                			<pdist>2972.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.72084532016</lat>
+						<lon>-87.680570483208</lon>
+
+							<typ>S</typ>
+                			<stpid>14541</stpid>
+                			<stpnm>95th Street &amp; Claremont</stpnm>
+                			<pdist>3711.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.720885359955</lat>
+						<lon>-87.677341103554</lon>
+
+							<typ>S</typ>
+                			<stpid>3488</stpid>
+                			<stpnm>95th Street &amp; Leavitt</stpnm>
+                			<pdist>4542.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.720933407676</lat>
+						<lon>-87.674117088318</lon>
+
+							<typ>S</typ>
+                			<stpid>3489</stpid>
+                			<stpnm>95th Street &amp; Hoyne </stpnm>
+                			<pdist>5433.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.720977451389</lat>
+						<lon>-87.67198741436</lon>
+
+							<typ>S</typ>
+                			<stpid>15028</stpid>
+                			<stpnm>95th Street &amp; Damen </stpnm>
+                			<pdist>5984.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.721009483161</lat>
+						<lon>-87.669310569763</lon>
+
+							<typ>S</typ>
+                			<stpid>3492</stpid>
+                			<stpnm>95th Street &amp; Longwood </stpnm>
+                			<pdist>6707.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.721021495071</lat>
+						<lon>-87.668033838272</lon>
+
+							<typ>S</typ>
+                			<stpid>3493</stpid>
+                			<stpnm>95th Street &amp; Longwood </stpnm>
+                			<pdist>7070.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.721065538724</lat>
+						<lon>-87.666209936142</lon>
+
+							<typ>S</typ>
+                			<stpid>3494</stpid>
+                			<stpnm>95th Street &amp; Vanderpoel </stpnm>
+                			<pdist>7563.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.721109582346</lat>
+						<lon>-87.662980556488</lon>
+
+							<typ>S</typ>
+                			<stpid>3496</stpid>
+                			<stpnm>95th Street &amp; Ashland</stpnm>
+                			<pdist>8455.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.721141614052</lat>
+						<lon>-87.660807967186</lon>
+
+							<typ>S</typ>
+                			<stpid>3497</stpid>
+                			<stpnm>95th Street &amp; Winston</stpnm>
+                			<pdist>9060.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.721153625938</lat>
+						<lon>-87.659273743629</lon>
+
+							<typ>S</typ>
+                			<stpid>3498</stpid>
+                			<stpnm>95th Street &amp; Bishop</stpnm>
+                			<pdist>9489.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.721177649703</lat>
+						<lon>-87.657578587532</lon>
+
+							<typ>S</typ>
+                			<stpid>15027</stpid>
+                			<stpnm>95th Street &amp; Loomis</stpnm>
+                			<pdist>10050.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.7211976695</lat>
+						<lon>-87.655491828918</lon>
+
+							<typ>S</typ>
+                			<stpid>3500</stpid>
+                			<stpnm>95th Street &amp; Throop</stpnm>
+                			<pdist>10511.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.721241713031</lat>
+						<lon>-87.653077840805</lon>
+
+							<typ>S</typ>
+                			<stpid>3501</stpid>
+                			<stpnm>95th Street &amp; Racine</stpnm>
+                			<pdist>11161.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.721265736763</lat>
+						<lon>-87.650953531265</lon>
+
+							<typ>S</typ>
+                			<stpid>3502</stpid>
+                			<stpnm>95th Street &amp; Vincennes</stpnm>
+                			<pdist>11717.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.721297768391</lat>
+						<lon>-87.648142576218</lon>
+
+							<typ>S</typ>
+                			<stpid>3503</stpid>
+                			<stpnm>95th Street &amp; Morgan</stpnm>
+                			<pdist>12515.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.721329800004</lat>
+						<lon>-87.64573931694</lon>
+
+							<typ>S</typ>
+                			<stpid>3504</stpid>
+                			<stpnm>95th Street &amp; Peoria</stpnm>
+                			<pdist>13183.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.721369839497</lat>
+						<lon>-87.642804980278</lon>
+
+							<typ>S</typ>
+                			<stpid>15026</stpid>
+                			<stpnm>95th Street &amp; Halsted</stpnm>
+                			<pdist>14028.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.721385855287</lat>
+						<lon>-87.640938162804</lon>
+
+							<typ>S</typ>
+                			<stpid>3506</stpid>
+                			<stpnm>95th Street &amp; Union</stpnm>
+                			<pdist>14506.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.721417886856</lat>
+						<lon>-87.638508081436</lon>
+
+							<typ>S</typ>
+                			<stpid>3507</stpid>
+                			<stpnm>95th Street &amp; Wallace</stpnm>
+                			<pdist>15169.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.721453922351</lat>
+						<lon>-87.636115550995</lon>
+
+							<typ>S</typ>
+                			<stpid>3508</stpid>
+                			<stpnm>95th Street &amp; Normal</stpnm>
+                			<pdist>15834.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.721481949945</lat>
+						<lon>-87.63414144516</lon>
+
+							<typ>S</typ>
+                			<stpid>3509</stpid>
+                			<stpnm>95th Street &amp; Eggleston </stpnm>
+                			<pdist>16374.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.72152999722</lat>
+						<lon>-87.631223201752</lon>
+
+							<typ>S</typ>
+                			<stpid>3510</stpid>
+                			<stpnm>95th Street &amp; Princeton</stpnm>
+                			<pdist>17145.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.721542009033</lat>
+						<lon>-87.628766298294</lon>
+
+							<typ>S</typ>
+                			<stpid>3511</stpid>
+                			<stpnm>95th Street &amp; Wentworth</stpnm>
+                			<pdist>17817.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.721578044459</lat>
+						<lon>-87.626207470894</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.721586052329</lat>
+						<lon>-87.624973654747</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.722735171281</lat>
+						<lon>-87.625032663345</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.722743179007</lat>
+						<lon>-87.623820304871</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.722178631916</lat>
+						<lon>-87.623798847198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.722174628018</lat>
+						<lon>-87.623895406723</lon>
+
+							<typ>S</typ>
+                			<stpid>14004</stpid>
+                			<stpnm>95th Red Line Station</stpnm>
+                			<pdist>19560.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>2307</pid>
+				<ln>17993.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.722174628018</lat>
+						<lon>-87.623895406723</lon>
+
+							<typ>S</typ>
+                			<stpid>14004</stpid>
+                			<stpnm>95th Red Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.722166620222</lat>
+						<lon>-87.623750567436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.721806268354</lat>
+						<lon>-87.623750567436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.721790252668</lat>
+						<lon>-87.626636624336</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.721746209513</lat>
+						<lon>-87.628262042999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.721734197738</lat>
+						<lon>-87.6291847229</lon>
+
+							<typ>S</typ>
+                			<stpid>15160</stpid>
+                			<stpnm>95th Street &amp; Wentworth</stpnm>
+                			<pdist>1597.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.721718182034</lat>
+						<lon>-87.631180286407</lon>
+
+							<typ>S</typ>
+                			<stpid>3455</stpid>
+                			<stpnm>95th Street &amp; Princeton</stpnm>
+                			<pdist>2179.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.721694158472</lat>
+						<lon>-87.633218765259</lon>
+
+							<typ>S</typ>
+                			<stpid>3456</stpid>
+                			<stpnm>95th Street &amp; Eggleston</stpnm>
+                			<pdist>2742.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.721646111319</lat>
+						<lon>-87.635836601257</lon>
+
+							<typ>S</typ>
+                			<stpid>3457</stpid>
+                			<stpnm>95th Street &amp; Normal</stpnm>
+                			<pdist>3436.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.721618083797</lat>
+						<lon>-87.63819694519</lon>
+
+							<typ>S</typ>
+                			<stpid>3458</stpid>
+                			<stpnm>95th Street &amp; Wallace</stpnm>
+                			<pdist>4103.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.721606071999</lat>
+						<lon>-87.639575600624</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.721590056263</lat>
+						<lon>-87.640562653542</lon>
+
+							<typ>S</typ>
+                			<stpid>3459</stpid>
+                			<stpnm>95th Street &amp; Union</stpnm>
+                			<pdist>4765.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.721550016907</lat>
+						<lon>-87.642939090729</lon>
+
+							<typ>S</typ>
+                			<stpid>17433</stpid>
+                			<stpnm>95th Street &amp; Halsted</stpnm>
+                			<pdist>5593.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.72152999722</lat>
+						<lon>-87.645444273949</lon>
+
+							<typ>S</typ>
+                			<stpid>3461</stpid>
+                			<stpnm>95th Street &amp; Peoria</stpnm>
+                			<pdist>6101.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.721497965707</lat>
+						<lon>-87.647879719734</lon>
+
+							<typ>S</typ>
+                			<stpid>3462</stpid>
+                			<stpnm>95th Street &amp; Morgan</stpnm>
+                			<pdist>6768.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.721477946004</lat>
+						<lon>-87.649236917496</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.721473942062</lat>
+						<lon>-87.649902105331</lon>
+
+							<typ>S</typ>
+                			<stpid>3463</stpid>
+                			<stpnm>95th Street &amp; Vincennes (Metra Station)</stpnm>
+                			<pdist>7328.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.721453922351</lat>
+						<lon>-87.651098370552</lon>
+
+							<typ>S</typ>
+                			<stpid>3464</stpid>
+                			<stpnm>95th Street &amp; Vincennes</stpnm>
+                			<pdist>7634.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.721425894745</lat>
+						<lon>-87.652777433395</lon>
+
+							<typ>S</typ>
+                			<stpid>3465</stpid>
+                			<stpnm>95th Street &amp; Racine</stpnm>
+                			<pdist>8105.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.721397867127</lat>
+						<lon>-87.655175328255</lon>
+
+							<typ>S</typ>
+                			<stpid>3466</stpid>
+                			<stpnm>95th Street &amp; Throop</stpnm>
+                			<pdist>8761.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.721369839497</lat>
+						<lon>-87.657605409622</lon>
+
+							<typ>S</typ>
+                			<stpid>3467</stpid>
+                			<stpnm>95th Street &amp; Loomis</stpnm>
+                			<pdist>9411.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.721345815804</lat>
+						<lon>-87.658839225769</lon>
+
+							<typ>S</typ>
+                			<stpid>3468</stpid>
+                			<stpnm>95th Street &amp; Bishop</stpnm>
+                			<pdist>9755.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.721333803954</lat>
+						<lon>-87.660083770752</lon>
+
+							<typ>S</typ>
+                			<stpid>3469</stpid>
+                			<stpnm>95th Street &amp; Laflin</stpnm>
+                			<pdist>10098.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.721321792102</lat>
+						<lon>-87.661145925522</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.721305776296</lat>
+						<lon>-87.663184404373</lon>
+
+							<typ>S</typ>
+                			<stpid>3471</stpid>
+                			<stpnm>95th Street &amp; Ashland</stpnm>
+                			<pdist>10961.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.721269740718</lat>
+						<lon>-87.664321660995</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.721265736763</lat>
+						<lon>-87.665812969208</lon>
+
+							<typ>S</typ>
+                			<stpid>17078</stpid>
+                			<stpnm>95th Street &amp; Vanderpoel </stpnm>
+                			<pdist>11681.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.721249720943</lat>
+						<lon>-87.667363286018</lon>
+
+							<typ>S</typ>
+                			<stpid>3473</stpid>
+                			<stpnm>95th Street &amp; Wood</stpnm>
+                			<pdist>12053.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.721205677417</lat>
+						<lon>-87.669235467911</lon>
+
+							<typ>S</typ>
+                			<stpid>3474</stpid>
+                			<stpnm>95th Street &amp; Longwood </stpnm>
+                			<pdist>12569.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.721169641782</lat>
+						<lon>-87.672207355499</lon>
+
+							<typ>S</typ>
+                			<stpid>3475</stpid>
+                			<stpnm>95th Street &amp; Damen</stpnm>
+                			<pdist>13386.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.721145618014</lat>
+						<lon>-87.674261927605</lon>
+
+							<typ>S</typ>
+                			<stpid>15129</stpid>
+                			<stpnm>95th Street &amp; Hoyne </stpnm>
+                			<pdist>13953.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.72111358631</lat>
+						<lon>-87.677062153816</lon>
+
+							<typ>S</typ>
+                			<stpid>3477</stpid>
+                			<stpnm>95th Street &amp; Leavitt</stpnm>
+                			<pdist>14688.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.721069542691</lat>
+						<lon>-87.679454684258</lon>
+
+							<typ>S</typ>
+                			<stpid>3478</stpid>
+                			<stpnm>95th Street &amp; Oakley</stpnm>
+                			<pdist>15338.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.72102950301</lat>
+						<lon>-87.682093977928</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.720573048893</lat>
+						<lon>-87.68208861351</lon>
+
+							<typ>S</typ>
+                			<stpid>3479</stpid>
+                			<stpnm>Western &amp; 95th Street</stpnm>
+                			<pdist>16164.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.718859315022</lat>
+						<lon>-87.682013511658</lon>
+
+							<typ>S</typ>
+                			<stpid>3480</stpid>
+                			<stpnm>Western &amp; 96th Street</stpnm>
+                			<pdist>16837.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.717345745702</lat>
+						<lon>-87.681959867477</lon>
+
+							<typ>S</typ>
+                			<stpid>3481</stpid>
+                			<stpnm>Western &amp; 97th Street</stpnm>
+                			<pdist>17414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.715647942989</lat>
+						<lon>-87.681906223297</lon>
+
+							<typ>S</typ>
+                			<stpid>3482</stpid>
+                			<stpnm>Western &amp; 98th Street</stpnm>
+                			<pdist>17993.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

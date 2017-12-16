@@ -1,0 +1,3950 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>963</pid>
+				<ln>51519.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.887107139644</lat>
+						<lon>-87.804118394852</lon>
+
+							<typ>S</typ>
+                			<stpid>14226</stpid>
+                			<stpnm>North Blvd &amp; Harlem (Green Line)</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.88721496687</lat>
+						<lon>-87.800706624985</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.888636671792</lat>
+						<lon>-87.800722718239</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.888656639332</lat>
+						<lon>-87.797133922577</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.888616704245</lat>
+						<lon>-87.794805765152</lon>
+
+							<typ>S</typ>
+                			<stpid>17371</stpid>
+                			<stpnm>Lake Street &amp; Oak Park</stpnm>
+                			<pdist>2939.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.888293229119</lat>
+						<lon>-87.784452438354</lon>
+
+							<typ>S</typ>
+                			<stpid>11722</stpid>
+                			<stpnm>Lake Street &amp; Ridgeland</stpnm>
+                			<pdist>5626.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.888245306739</lat>
+						<lon>-87.783138155937</lon>
+
+							<typ>S</typ>
+                			<stpid>11723</stpid>
+                			<stpnm>Lake Street &amp; Cuyler (Green Line)</stpnm>
+                			<pdist>6110.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.888157448948</lat>
+						<lon>-87.779957056046</lon>
+
+							<typ>S</typ>
+                			<stpid>11724</stpid>
+                			<stpnm>Lake Street &amp; Lombard</stpnm>
+                			<pdist>6803.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.888049623313</lat>
+						<lon>-87.776556015015</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.88800170075</lat>
+						<lon>-87.775059342384</lon>
+
+							<typ>S</typ>
+                			<stpid>16005</stpid>
+                			<stpnm>Lake Street &amp; Austin</stpnm>
+                			<pdist>8098.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.887993713653</lat>
+						<lon>-87.774957418442</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.886943401656</lat>
+						<lon>-87.774903774261</lon>
+
+							<typ>S</typ>
+                			<stpid>9603</stpid>
+                			<stpnm>Austin &amp; Corcoran/South Blvd (Green Line)</stpnm>
+                			<pdist>8539.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.885477728299</lat>
+						<lon>-87.774844765663</lon>
+
+							<typ>S</typ>
+                			<stpid>9604</stpid>
+                			<stpnm>Austin &amp; Fulton/Pleasant</stpnm>
+                			<pdist>9153.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.883856263013</lat>
+						<lon>-87.774812579155</lon>
+
+							<typ>S</typ>
+                			<stpid>9605</stpid>
+                			<stpnm>Austin &amp; West End/Randolph</stpnm>
+                			<pdist>9645.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.881887285559</lat>
+						<lon>-87.774742841721</lon>
+
+							<typ>S</typ>
+                			<stpid>9606</stpid>
+                			<stpnm>Austin &amp; Washington</stpnm>
+                			<pdist>10368.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.880593238937</lat>
+						<lon>-87.774694561958</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.880585250914</lat>
+						<lon>-87.774045467377</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.880309663492</lat>
+						<lon>-87.774034738541</lon>
+
+							<typ>S</typ>
+                			<stpid>386</stpid>
+                			<stpnm>Madison &amp; Austin Terminal</stpnm>
+                			<pdist>11074.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.880034074881</lat>
+						<lon>-87.774034738541</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.880070021289</lat>
+						<lon>-87.771502733231</lon>
+
+							<typ>S</typ>
+                			<stpid>388</stpid>
+                			<stpnm>Madison &amp; Mayfield</stpnm>
+                			<pdist>11778.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.880085997464</lat>
+						<lon>-87.769914865494</lon>
+
+							<typ>S</typ>
+                			<stpid>389</stpid>
+                			<stpnm>Madison &amp; Menard</stpnm>
+                			<pdist>12216.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.880109961719</lat>
+						<lon>-87.768219709396</lon>
+
+							<typ>S</typ>
+                			<stpid>390</stpid>
+                			<stpnm>Madison &amp; Waller</stpnm>
+                			<pdist>12681.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.880141914044</lat>
+						<lon>-87.766642570496</lon>
+
+							<typ>S</typ>
+                			<stpid>391</stpid>
+                			<stpnm>Madison &amp; Parkside</stpnm>
+                			<pdist>13125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.880169872316</lat>
+						<lon>-87.764743566513</lon>
+
+							<typ>S</typ>
+                			<stpid>14956</stpid>
+                			<stpnm>Madison &amp; Central</stpnm>
+                			<pdist>13781.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.880205818648</lat>
+						<lon>-87.76464164257</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.880225788823</lat>
+						<lon>-87.763220071793</lon>
+
+							<typ>S</typ>
+                			<stpid>393</stpid>
+                			<stpnm>Madison &amp; Pine</stpnm>
+                			<pdist>14026.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.880245758992</lat>
+						<lon>-87.761964797974</lon>
+
+							<typ>S</typ>
+                			<stpid>394</stpid>
+                			<stpnm>Madison &amp; Lotus </stpnm>
+                			<pdist>14382.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.88027771125</lat>
+						<lon>-87.760038971901</lon>
+
+							<typ>S</typ>
+                			<stpid>395</stpid>
+                			<stpnm>Madison &amp; Long</stpnm>
+                			<pdist>14924.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.88031765155</lat>
+						<lon>-87.757818102837</lon>
+
+							<typ>S</typ>
+                			<stpid>396</stpid>
+                			<stpnm>Madison &amp; Lockwood </stpnm>
+                			<pdist>15521.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.88036158585</lat>
+						<lon>-87.755339741707</lon>
+
+							<typ>S</typ>
+                			<stpid>397</stpid>
+                			<stpnm>Madison &amp; Laramie</stpnm>
+                			<pdist>16219.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.880397532074</lat>
+						<lon>-87.753537297249</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.880401526098</lat>
+						<lon>-87.752373218536</lon>
+
+							<typ>S</typ>
+                			<stpid>17169</stpid>
+                			<stpnm>Madison &amp; Leclaire</stpnm>
+                			<pdist>16943.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.88041750219</lat>
+						<lon>-87.749063372612</lon>
+
+							<typ>S</typ>
+                			<stpid>17162</stpid>
+                			<stpnm>Madison &amp; Lavergne</stpnm>
+                			<pdist>17874.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.88047341848</lat>
+						<lon>-87.744975686073</lon>
+
+							<typ>S</typ>
+                			<stpid>14959</stpid>
+                			<stpnm>Madison &amp; Cicero</stpnm>
+                			<pdist>18999.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.880505370624</lat>
+						<lon>-87.743006944656</lon>
+
+							<typ>S</typ>
+                			<stpid>402</stpid>
+                			<stpnm>Madison &amp; Kilpatrick</stpnm>
+                			<pdist>19476.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.880517352674</lat>
+						<lon>-87.740727066994</lon>
+
+							<typ>S</typ>
+                			<stpid>403</stpid>
+                			<stpnm>Madison &amp; Kenton</stpnm>
+                			<pdist>20099.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.88055329881</lat>
+						<lon>-87.737588882446</lon>
+
+							<typ>S</typ>
+                			<stpid>17163</stpid>
+                			<stpnm>Madison &amp; Kilbourn</stpnm>
+                			<pdist>20967.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.880593238937</lat>
+						<lon>-87.735233902931</lon>
+
+							<typ>S</typ>
+                			<stpid>15848</stpid>
+                			<stpnm>Madison &amp; Kostner</stpnm>
+                			<pdist>21628.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.880625191021</lat>
+						<lon>-87.733200788498</lon>
+
+							<typ>S</typ>
+                			<stpid>406</stpid>
+                			<stpnm>Madison &amp; Kildare</stpnm>
+                			<pdist>22137.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.880617203002</lat>
+						<lon>-87.730454206467</lon>
+
+							<typ>S</typ>
+                			<stpid>14500</stpid>
+                			<stpnm>Madison &amp; Keeler</stpnm>
+                			<pdist>22964.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.880677113123</lat>
+						<lon>-87.727890014648</lon>
+
+							<typ>S</typ>
+                			<stpid>15852</stpid>
+                			<stpnm>Madison &amp; Karlov</stpnm>
+                			<pdist>23643.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.880705071161</lat>
+						<lon>-87.725915908813</lon>
+
+							<typ>S</typ>
+                			<stpid>409</stpid>
+                			<stpnm>Madison &amp; Pulaski</stpnm>
+                			<pdist>24117.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.88071305917</lat>
+						<lon>-87.723416090012</lon>
+
+							<typ>S</typ>
+                			<stpid>410</stpid>
+                			<stpnm>Madison &amp; Springfield</stpnm>
+                			<pdist>24785.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.8807609872</lat>
+						<lon>-87.721018195152</lon>
+
+							<typ>S</typ>
+                			<stpid>411</stpid>
+                			<stpnm>Madison &amp; Hamlin</stpnm>
+                			<pdist>25443.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.880768975201</lat>
+						<lon>-87.72066950798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.880812909192</lat>
+						<lon>-87.717413306236</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.880820897187</lat>
+						<lon>-87.715991735458</lon>
+
+							<typ>S</typ>
+                			<stpid>412</stpid>
+                			<stpnm>Madison &amp; Central Park</stpnm>
+                			<pdist>26771.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.880844861166</lat>
+						<lon>-87.713738679886</lon>
+
+							<typ>S</typ>
+                			<stpid>413</stpid>
+                			<stpnm>Madison &amp; St. Louis</stpnm>
+                			<pdist>27390.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.880892789097</lat>
+						<lon>-87.710777521133</lon>
+
+							<typ>S</typ>
+                			<stpid>14764</stpid>
+                			<stpnm>Madison &amp; Homan</stpnm>
+                			<pdist>28304.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.880912759058</lat>
+						<lon>-87.708578109741</lon>
+
+							<typ>S</typ>
+                			<stpid>415</stpid>
+                			<stpnm>Madison &amp; Spaulding</stpnm>
+                			<pdist>28844.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.880936723003</lat>
+						<lon>-87.706416249275</lon>
+
+							<typ>S</typ>
+                			<stpid>416</stpid>
+                			<stpnm>Madison &amp; Kedzie</stpnm>
+                			<pdist>29495.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.88097666289</lat>
+						<lon>-87.703138589859</lon>
+
+							<typ>S</typ>
+                			<stpid>417</stpid>
+                			<stpnm>Madison &amp; Albany </stpnm>
+                			<pdist>30367.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.881000626811</lat>
+						<lon>-87.700906991959</lon>
+
+							<typ>S</typ>
+                			<stpid>15185</stpid>
+                			<stpnm>Madison &amp; Sacramento</stpnm>
+                			<pdist>30994.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.881012608768</lat>
+						<lon>-87.69856274128</lon>
+
+							<typ>S</typ>
+                			<stpid>16110</stpid>
+                			<stpnm>Madison &amp; Francisco</stpnm>
+                			<pdist>31658.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.881064530556</lat>
+						<lon>-87.696003913879</lon>
+
+							<typ>S</typ>
+                			<stpid>420</stpid>
+                			<stpnm>Madison &amp; California</stpnm>
+                			<pdist>32339.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.881058333332</lat>
+						<lon>-87.694191666665</lon>
+
+							<typ>S</typ>
+                			<stpid>421</stpid>
+                			<stpnm>Madison &amp; Washtenaw</stpnm>
+                			<pdist>32809.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.881072518519</lat>
+						<lon>-87.692270278931</lon>
+
+							<typ>S</typ>
+                			<stpid>16088</stpid>
+                			<stpnm>Madison &amp; Talman</stpnm>
+                			<pdist>33302.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.88112044628</lat>
+						<lon>-87.688965797424</lon>
+
+							<typ>S</typ>
+                			<stpid>423</stpid>
+                			<stpnm>Madison &amp; Campbell </stpnm>
+                			<pdist>34220.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.881148404123</lat>
+						<lon>-87.686181664467</lon>
+
+							<typ>S</typ>
+                			<stpid>15364</stpid>
+                			<stpnm>Madison &amp; Western</stpnm>
+                			<pdist>35092.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.881170000001</lat>
+						<lon>-87.683718333332</lon>
+
+							<typ>S</typ>
+                			<stpid>17598</stpid>
+                			<stpnm>Madison &amp; Oakley</stpnm>
+                			<pdist>35699.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.881228283609</lat>
+						<lon>-87.681219577789</lon>
+
+							<typ>S</typ>
+                			<stpid>15384</stpid>
+                			<stpnm>Madison &amp; Leavitt</stpnm>
+                			<pdist>36384.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.881244259495</lat>
+						<lon>-87.679315209389</lon>
+
+							<typ>S</typ>
+                			<stpid>427</stpid>
+                			<stpnm>Madison &amp; Hoyne</stpnm>
+                			<pdist>36906.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.881296181094</lat>
+						<lon>-87.67672419548</lon>
+
+							<typ>S</typ>
+                			<stpid>428</stpid>
+                			<stpnm>Madison &amp; Damen</stpnm>
+                			<pdist>37574.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.881320144895</lat>
+						<lon>-87.674245834351</lon>
+
+							<typ>S</typ>
+                			<stpid>429</stpid>
+                			<stpnm>Madison &amp; United Center (1900 W)</stpnm>
+                			<pdist>38145.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.881360084543</lat>
+						<lon>-87.671853303909</lon>
+
+							<typ>S</typ>
+                			<stpid>430</stpid>
+                			<stpnm>Madison &amp; Wood</stpnm>
+                			<pdist>38924.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.881372066432</lat>
+						<lon>-87.669519782066</lon>
+
+							<typ>S</typ>
+                			<stpid>431</stpid>
+                			<stpnm>Madison &amp; Paulina</stpnm>
+                			<pdist>39582.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.881396030205</lat>
+						<lon>-87.668516635895</lon>
+
+							<typ>S</typ>
+                			<stpid>4727</stpid>
+                			<stpnm>1633 W Madison</stpnm>
+                			<pdist>39862.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.881416000008</lat>
+						<lon>-87.667025327682</lon>
+
+							<typ>S</typ>
+                			<stpid>432</stpid>
+                			<stpnm>Madison &amp; Ashland</stpnm>
+                			<pdist>40254.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.881467921468</lat>
+						<lon>-87.664965391159</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.881419993968</lat>
+						<lon>-87.664863467216</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.881423987928</lat>
+						<lon>-87.664182186127</lon>
+
+							<typ>S</typ>
+                			<stpid>15279</stpid>
+                			<stpnm>Madison &amp; Laflin</stpnm>
+                			<pdist>41095.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.881455939597</lat>
+						<lon>-87.662014961243</lon>
+
+							<typ>S</typ>
+                			<stpid>16049</stpid>
+                			<stpnm>Madison &amp; Loomis </stpnm>
+                			<pdist>41667.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.881499873115</lat>
+						<lon>-87.659772634506</lon>
+
+							<typ>S</typ>
+                			<stpid>435</stpid>
+                			<stpnm>Madison &amp; Throop </stpnm>
+                			<pdist>42325.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.881535818698</lat>
+						<lon>-87.657315731049</lon>
+
+							<typ>S</typ>
+                			<stpid>436</stpid>
+                			<stpnm>Madison &amp; Racine </stpnm>
+                			<pdist>43000.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.881571764261</lat>
+						<lon>-87.654896378517</lon>
+
+							<typ>S</typ>
+                			<stpid>437</stpid>
+                			<stpnm>Madison &amp; Aberdeen </stpnm>
+                			<pdist>43659.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.881635667435</lat>
+						<lon>-87.651919126511</lon>
+
+							<typ>S</typ>
+                			<stpid>14647</stpid>
+                			<stpnm>Madison &amp; Morgan</stpnm>
+                			<pdist>44518.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.881667618997</lat>
+						<lon>-87.649816274643</lon>
+
+							<typ>S</typ>
+                			<stpid>439</stpid>
+                			<stpnm>Madison &amp; Peoria</stpnm>
+                			<pdist>45020.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.881683594773</lat>
+						<lon>-87.648485898972</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.881735516015</lat>
+						<lon>-87.648330330849</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.881755485712</lat>
+						<lon>-87.647300362587</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.882007103365</lat>
+						<lon>-87.647316455841</lon>
+
+							<typ>S</typ>
+                			<stpid>440</stpid>
+                			<stpnm>Halsted &amp; Madison</stpnm>
+                			<pdist>45813.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.883125392053</lat>
+						<lon>-87.647348642349</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.883125392053</lat>
+						<lon>-87.647080421448</lon>
+
+							<typ>S</typ>
+                			<stpid>12754</stpid>
+                			<stpnm>Washington &amp; Halsted</stpnm>
+                			<pdist>46237.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.883137373612</lat>
+						<lon>-87.645615935326</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.883145361316</lat>
+						<lon>-87.64285326004</lon>
+
+							<typ>S</typ>
+                			<stpid>442</stpid>
+                			<stpnm>Washington &amp; Jefferson</stpnm>
+                			<pdist>47274.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.883157342871</lat>
+						<lon>-87.641163468361</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.883157342871</lat>
+						<lon>-87.640010118484</lon>
+
+							<typ>S</typ>
+                			<stpid>443</stpid>
+                			<stpnm>Washington &amp; Canal</stpnm>
+                			<pdist>48072.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.883181305974</lat>
+						<lon>-87.635498642921</lon>
+
+							<typ>S</typ>
+                			<stpid>445</stpid>
+                			<stpnm>Washington &amp; Franklin</stpnm>
+                			<pdist>49452.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.883161336722</lat>
+						<lon>-87.632617950439</lon>
+
+							<typ>S</typ>
+                			<stpid>446</stpid>
+                			<stpnm>Washington &amp; Lasalle</stpnm>
+                			<pdist>50066.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.883165330573</lat>
+						<lon>-87.629576325417</lon>
+
+							<typ>S</typ>
+                			<stpid>447</stpid>
+                			<stpnm>Washington &amp; Dearborn</stpnm>
+                			<pdist>50892.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.883181305974</lat>
+						<lon>-87.627489566803</lon>
+
+							<typ>S</typ>
+                			<stpid>448</stpid>
+                			<stpnm>Washington &amp; State</stpnm>
+                			<pdist>51519.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>948</pid>
+				<ln>53571.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.883181305974</lat>
+						<lon>-87.627489566803</lon>
+
+							<typ>S</typ>
+                			<stpid>448</stpid>
+                			<stpnm>Washington &amp; State</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.883185299824</lat>
+						<lon>-87.625976800919</lon>
+
+							<typ>S</typ>
+                			<stpid>449</stpid>
+                			<stpnm>Washington &amp; Wabash</stpnm>
+                			<pdist>498.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.883209262916</lat>
+						<lon>-87.624549865723</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.882134908777</lat>
+						<lon>-87.624528408051</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.882110945281</lat>
+						<lon>-87.625998258591</lon>
+
+							<typ>S</typ>
+                			<stpid>450</stpid>
+                			<stpnm>Madison &amp; Wabash</stpnm>
+                			<pdist>1433.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.882090975695</lat>
+						<lon>-87.627730965614</lon>
+
+							<typ>S</typ>
+                			<stpid>4729</stpid>
+                			<stpnm>Madison &amp; State</stpnm>
+                			<pdist>2087.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.882043048663</lat>
+						<lon>-87.628031373024</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.882031066899</lat>
+						<lon>-87.629372477531</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.882031066899</lat>
+						<lon>-87.630686759949</lon>
+
+							<typ>S</typ>
+                			<stpid>452</stpid>
+                			<stpnm>Madison &amp; Clark</stpnm>
+                			<pdist>2695.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.882023079055</lat>
+						<lon>-87.634098529816</lon>
+
+							<typ>S</typ>
+                			<stpid>453</stpid>
+                			<stpnm>Madison &amp; Wells</stpnm>
+                			<pdist>3721.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.881955182343</lat>
+						<lon>-87.637419104576</lon>
+
+							<typ>S</typ>
+                			<stpid>454</stpid>
+                			<stpnm>Madison &amp; N. Wacker</stpnm>
+                			<pdist>4562.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.881919236996</lat>
+						<lon>-87.638685107231</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.881891279489</lat>
+						<lon>-87.641034722328</lon>
+
+							<typ>S</typ>
+                			<stpid>455</stpid>
+                			<stpnm>Madison &amp; Clinton</stpnm>
+                			<pdist>5497.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.88186332197</lat>
+						<lon>-87.642574310303</lon>
+
+							<typ>S</typ>
+                			<stpid>456</stpid>
+                			<stpnm>Madison &amp; Jefferson</stpnm>
+                			<pdist>6078.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.881843352307</lat>
+						<lon>-87.64416217804</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.881815394767</lat>
+						<lon>-87.647638320923</lon>
+
+							<typ>S</typ>
+                			<stpid>14467</stpid>
+                			<stpnm>Madison &amp; Halsted</stpnm>
+                			<pdist>7375.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.881787437215</lat>
+						<lon>-87.648346424103</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.881823382637</lat>
+						<lon>-87.64854490757</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.881803412961</lat>
+						<lon>-87.649483680725</lon>
+
+							<typ>S</typ>
+                			<stpid>458</stpid>
+                			<stpnm>Madison &amp; Peoria</stpnm>
+                			<pdist>7840.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.881775455404</lat>
+						<lon>-87.651913762093</lon>
+
+							<typ>S</typ>
+                			<stpid>459</stpid>
+                			<stpnm>Madison &amp; Morgan</stpnm>
+                			<pdist>8480.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.881735516015</lat>
+						<lon>-87.654252648354</lon>
+
+							<typ>S</typ>
+                			<stpid>460</stpid>
+                			<stpnm>Madison &amp; Aberdeen </stpnm>
+                			<pdist>9115.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.881695576602</lat>
+						<lon>-87.656462788582</lon>
+
+							<typ>S</typ>
+                			<stpid>461</stpid>
+                			<stpnm>Madison &amp; Racine</stpnm>
+                			<pdist>9741.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.881623685594</lat>
+						<lon>-87.659456133842</lon>
+
+							<typ>S</typ>
+                			<stpid>462</stpid>
+                			<stpnm>Madison &amp; Throop </stpnm>
+                			<pdist>10551.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.8816156977</lat>
+						<lon>-87.660625576973</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.881587740061</lat>
+						<lon>-87.662068605423</lon>
+
+							<typ>S</typ>
+                			<stpid>463</stpid>
+                			<stpnm>Madison &amp; Loomis </stpnm>
+                			<pdist>11248.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.881555788458</lat>
+						<lon>-87.664552330971</lon>
+
+							<typ>S</typ>
+                			<stpid>464</stpid>
+                			<stpnm>Madison &amp; Laflin</stpnm>
+                			<pdist>11917.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.881547800555</lat>
+						<lon>-87.664842009544</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.881523836839</lat>
+						<lon>-87.664933204651</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.881483897293</lat>
+						<lon>-87.666531801224</lon>
+
+							<typ>S</typ>
+                			<stpid>465</stpid>
+                			<stpnm>Madison &amp; Ashland</stpnm>
+                			<pdist>12485.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.881451945639</lat>
+						<lon>-87.66910135746</lon>
+
+							<typ>S</typ>
+                			<stpid>466</stpid>
+                			<stpnm>Madison &amp; Paulina</stpnm>
+                			<pdist>13178.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.881408012088</lat>
+						<lon>-87.671923041344</lon>
+
+							<typ>S</typ>
+                			<stpid>15090</stpid>
+                			<stpnm>Madison &amp; Wood</stpnm>
+                			<pdist>14001.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.88138404832</lat>
+						<lon>-87.674256563187</lon>
+
+							<typ>S</typ>
+                			<stpid>468</stpid>
+                			<stpnm>Madison &amp; United Center (1900 W)</stpnm>
+                			<pdist>14636.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.881364078506</lat>
+						<lon>-87.676455974579</lon>
+
+							<typ>S</typ>
+                			<stpid>469</stpid>
+                			<stpnm>Madison &amp; Damen</stpnm>
+                			<pdist>15162.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.881316150929</lat>
+						<lon>-87.678912878036</lon>
+
+							<typ>S</typ>
+                			<stpid>470</stpid>
+                			<stpnm>Madison &amp; Hoyne</stpnm>
+                			<pdist>15837.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.881268223315</lat>
+						<lon>-87.681922316551</lon>
+
+							<typ>S</typ>
+                			<stpid>17599</stpid>
+                			<stpnm>Madison &amp; Leavitt</stpnm>
+                			<pdist>16589.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.881228283609</lat>
+						<lon>-87.684304118156</lon>
+
+							<typ>S</typ>
+                			<stpid>17600</stpid>
+                			<stpnm>Madison &amp; Oakley</stpnm>
+                			<pdist>17184.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.881200325801</lat>
+						<lon>-87.686787843704</lon>
+
+							<typ>S</typ>
+                			<stpid>473</stpid>
+                			<stpnm>Madison &amp; Western</stpnm>
+                			<pdist>17679.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.881188343879</lat>
+						<lon>-87.688885331154</lon>
+
+							<typ>S</typ>
+                			<stpid>16087</stpid>
+                			<stpnm>Madison &amp; Campbell</stpnm>
+                			<pdist>18412.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.881140416169</lat>
+						<lon>-87.692522406578</lon>
+
+							<typ>S</typ>
+                			<stpid>17596</stpid>
+                			<stpnm>Madison &amp; Talman</stpnm>
+                			<pdist>19402.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.881124440258</lat>
+						<lon>-87.693675756454</lon>
+
+							<typ>S</typ>
+                			<stpid>17597</stpid>
+                			<stpnm>Madison &amp; Washtenaw</stpnm>
+                			<pdist>19870.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.881124440258</lat>
+						<lon>-87.696223855019</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.881104470363</lat>
+						<lon>-87.696647644043</lon>
+
+							<typ>S</typ>
+                			<stpid>14841</stpid>
+                			<stpnm>Madison &amp; California</stpnm>
+                			<pdist>20541.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.881080506482</lat>
+						<lon>-87.698573470116</lon>
+
+							<typ>S</typ>
+                			<stpid>478</stpid>
+                			<stpnm>Madison &amp; Francisco</stpnm>
+                			<pdist>21018.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.881060536573</lat>
+						<lon>-87.701073288918</lon>
+
+							<typ>S</typ>
+                			<stpid>479</stpid>
+                			<stpnm>Madison &amp; Sacramento</stpnm>
+                			<pdist>21702.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.881036572675</lat>
+						<lon>-87.703422904015</lon>
+
+							<typ>S</typ>
+                			<stpid>480</stpid>
+                			<stpnm>Madison &amp; Albany </stpnm>
+                			<pdist>22366.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.881000626811</lat>
+						<lon>-87.706373333931</lon>
+
+							<typ>S</typ>
+                			<stpid>14840</stpid>
+                			<stpnm>Madison &amp; Kedzie</stpnm>
+                			<pdist>23232.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.880968674915</lat>
+						<lon>-87.708567380905</lon>
+
+							<typ>S</typ>
+                			<stpid>482</stpid>
+                			<stpnm>Madison &amp; Spaulding</stpnm>
+                			<pdist>23762.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.880948704971</lat>
+						<lon>-87.711217403412</lon>
+
+							<typ>S</typ>
+                			<stpid>14766</stpid>
+                			<stpnm>Madison &amp; Homan</stpnm>
+                			<pdist>24532.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.880912759058</lat>
+						<lon>-87.713840603828</lon>
+
+							<typ>S</typ>
+                			<stpid>484</stpid>
+                			<stpnm>Madison &amp; St. Louis</stpnm>
+                			<pdist>25195.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.880884801111</lat>
+						<lon>-87.715981006622</lon>
+
+							<typ>S</typ>
+                			<stpid>485</stpid>
+                			<stpnm>Madison &amp; Central Park</stpnm>
+                			<pdist>25714.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.880868825136</lat>
+						<lon>-87.717112898827</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.880816903189</lat>
+						<lon>-87.720975279808</lon>
+
+							<typ>S</typ>
+                			<stpid>486</stpid>
+                			<stpnm>Madison &amp; Hamlin</stpnm>
+                			<pdist>27193.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.880780957202</lat>
+						<lon>-87.723104953766</lon>
+
+							<typ>S</typ>
+                			<stpid>487</stpid>
+                			<stpnm>Madison &amp; Springfield</stpnm>
+                			<pdist>27720.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.880768975201</lat>
+						<lon>-87.725470662117</lon>
+
+							<typ>S</typ>
+                			<stpid>15136</stpid>
+                			<stpnm>Madison &amp; Pulaski</stpnm>
+                			<pdist>28520.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.880749005196</lat>
+						<lon>-87.726935148239</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.880741017192</lat>
+						<lon>-87.728523015976</lon>
+
+							<typ>S</typ>
+                			<stpid>17164</stpid>
+                			<stpnm>Madison &amp; Karlov</stpnm>
+                			<pdist>29156.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.880677113123</lat>
+						<lon>-87.730502486229</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.880685101135</lat>
+						<lon>-87.731049656868</lon>
+
+							<typ>S</typ>
+                			<stpid>17165</stpid>
+                			<stpnm>Madison &amp; Keeler</stpnm>
+                			<pdist>29829.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.880689095141</lat>
+						<lon>-87.733334898949</lon>
+
+							<typ>S</typ>
+                			<stpid>15851</stpid>
+                			<stpnm>Madison &amp; Kildare</stpnm>
+                			<pdist>30499.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.880653149081</lat>
+						<lon>-87.735963463783</lon>
+
+							<typ>S</typ>
+                			<stpid>17166</stpid>
+                			<stpnm>Madison &amp; Kostner</stpnm>
+                			<pdist>31175.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.880609214981</lat>
+						<lon>-87.738409638405</lon>
+
+							<typ>S</typ>
+                			<stpid>17167</stpid>
+                			<stpnm>Madison &amp; Kilbourn</stpnm>
+                			<pdist>31839.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.880581256901</lat>
+						<lon>-87.740635871887</lon>
+
+							<typ>S</typ>
+                			<stpid>494</stpid>
+                			<stpnm>Madison &amp; Kenton </stpnm>
+                			<pdist>32466.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.880569274864</lat>
+						<lon>-87.742631435394</lon>
+
+							<typ>S</typ>
+                			<stpid>495</stpid>
+                			<stpnm>Madison &amp; Kilpatrick</stpnm>
+                			<pdist>32998.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.880533328737</lat>
+						<lon>-87.745125889778</lon>
+
+							<typ>S</typ>
+                			<stpid>496</stpid>
+                			<stpnm>Madison &amp; Cicero</stpnm>
+                			<pdist>33662.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.880493388572</lat>
+						<lon>-87.747496962547</lon>
+
+							<typ>S</typ>
+                			<stpid>497</stpid>
+                			<stpnm>Madison &amp; Lamon</stpnm>
+                			<pdist>34310.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.88047341848</lat>
+						<lon>-87.749991416931</lon>
+
+							<typ>S</typ>
+                			<stpid>498</stpid>
+                			<stpnm>Madison &amp; Lavergne</stpnm>
+                			<pdist>35139.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.880457442402</lat>
+						<lon>-87.752442955971</lon>
+
+							<typ>S</typ>
+                			<stpid>499</stpid>
+                			<stpnm>Madison &amp; Leclaire</stpnm>
+                			<pdist>35627.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.880425490234</lat>
+						<lon>-87.755323648453</lon>
+
+							<typ>S</typ>
+                			<stpid>14958</stpid>
+                			<stpnm>Madison &amp; Laramie</stpnm>
+                			<pdist>36471.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.880377561952</lat>
+						<lon>-87.757877111435</lon>
+
+							<typ>S</typ>
+                			<stpid>17160</stpid>
+                			<stpnm>Madison &amp; Lockwood</stpnm>
+                			<pdist>37145.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.880345609745</lat>
+						<lon>-87.759942412376</lon>
+
+							<typ>S</typ>
+                			<stpid>502</stpid>
+                			<stpnm>Madison &amp; Long</stpnm>
+                			<pdist>37691.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.880325639607</lat>
+						<lon>-87.761304974556</lon>
+
+							<typ>S</typ>
+                			<stpid>17161</stpid>
+                			<stpnm>Madison &amp; Lotus</stpnm>
+                			<pdist>38378.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.88027771125</lat>
+						<lon>-87.764652371407</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.880325639607</lat>
+						<lon>-87.764775753021</lon>
+
+							<typ>S</typ>
+                			<stpid>505</stpid>
+                			<stpnm>Madison &amp; Central</stpnm>
+                			<pdist>39001.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.88031765155</lat>
+						<lon>-87.76641190052</lon>
+
+							<typ>S</typ>
+                			<stpid>506</stpid>
+                			<stpnm>Madison &amp; Parkside</stpnm>
+                			<pdist>39460.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.88031765155</lat>
+						<lon>-87.767978310585</lon>
+
+							<typ>S</typ>
+                			<stpid>507</stpid>
+                			<stpnm>Madison &amp; Waller</stpnm>
+                			<pdist>39899.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.880281705281</lat>
+						<lon>-87.769662737846</lon>
+
+							<typ>S</typ>
+                			<stpid>508</stpid>
+                			<stpnm>Madison &amp; Menard</stpnm>
+                			<pdist>40343.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.880245758992</lat>
+						<lon>-87.771711945534</lon>
+
+							<typ>S</typ>
+                			<stpid>509</stpid>
+                			<stpnm>Madison &amp; Mayfield</stpnm>
+                			<pdist>40893.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.880217800754</lat>
+						<lon>-87.773289084435</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.880177860391</lat>
+						<lon>-87.773932814598</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.880169872316</lat>
+						<lon>-87.774367332458</lon>
+
+							<typ>S</typ>
+                			<stpid>14800</stpid>
+                			<stpnm>Madison &amp; Austin</stpnm>
+                			<pdist>41667.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.880177860391</lat>
+						<lon>-87.774598002434</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.882210793119</lat>
+						<lon>-87.774673104286</lon>
+
+							<typ>S</typ>
+                			<stpid>9626</stpid>
+                			<stpnm>Austin &amp; Washington</stpnm>
+                			<pdist>42503.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.883976077127</lat>
+						<lon>-87.774732112885</lon>
+
+							<typ>S</typ>
+                			<stpid>9627</stpid>
+                			<stpnm>Austin &amp; West End/Randolph</stpnm>
+                			<pdist>43246.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.885685400683</lat>
+						<lon>-87.774758934975</lon>
+
+							<typ>S</typ>
+                			<stpid>9628</stpid>
+                			<stpnm>Austin &amp; Fulton/Pleasant</stpnm>
+                			<pdist>43767.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.886967363339</lat>
+						<lon>-87.774823307991</lon>
+
+							<typ>S</typ>
+                			<stpid>9629</stpid>
+                			<stpnm>Austin &amp; Corcoran/South Blvd (Green Line)</stpnm>
+                			<pdist>44176.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.888057610404</lat>
+						<lon>-87.774860858917</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.888069591037</lat>
+						<lon>-87.775365114212</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.888109526466</lat>
+						<lon>-87.776545286179</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.888157448948</lat>
+						<lon>-87.778127789497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.888213358465</lat>
+						<lon>-87.779881954193</lon>
+
+							<typ>S</typ>
+                			<stpid>16002</stpid>
+                			<stpnm>Lake Street &amp; Lombard</stpnm>
+                			<pdist>45823.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.88834514499</lat>
+						<lon>-87.784447073936</lon>
+
+							<typ>S</typ>
+                			<stpid>16003</stpid>
+                			<stpnm>Lake Street &amp; Ridgeland</stpnm>
+                			<pdist>47155.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.888429009001</lat>
+						<lon>-87.786329984665</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.888676606866</lat>
+						<lon>-87.794296145439</lon>
+
+							<typ>S</typ>
+                			<stpid>17372</stpid>
+                			<stpnm>Lake Street &amp; Oak Park</stpnm>
+                			<pdist>49820.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.888728522426</lat>
+						<lon>-87.797504067421</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.888712548412</lat>
+						<lon>-87.800164818764</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.88867261336</lat>
+						<lon>-87.802804112434</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.888608717224</lat>
+						<lon>-87.805094718933</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.887091165224</lat>
+						<lon>-87.805035710335</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.887107139644</lat>
+						<lon>-87.804118394852</lon>
+
+							<typ>S</typ>
+                			<stpid>14226</stpid>
+                			<stpnm>North Blvd &amp; Harlem (Green Line)</stpnm>
+                			<pdist>53571.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>954</pid>
+				<ln>40908.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.882134908777</lat>
+						<lon>-87.624528408051</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.882110945281</lat>
+						<lon>-87.625998258591</lon>
+
+							<typ>S</typ>
+                			<stpid>450</stpid>
+                			<stpnm>Madison &amp; Wabash</stpnm>
+                			<pdist>251.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.882090975695</lat>
+						<lon>-87.627730965614</lon>
+
+							<typ>S</typ>
+                			<stpid>4729</stpid>
+                			<stpnm>Madison &amp; State</stpnm>
+                			<pdist>905.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.882043048663</lat>
+						<lon>-87.628031373024</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.882031066899</lat>
+						<lon>-87.629372477531</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.882031066899</lat>
+						<lon>-87.630686759949</lon>
+
+							<typ>S</typ>
+                			<stpid>452</stpid>
+                			<stpnm>Madison &amp; Clark</stpnm>
+                			<pdist>1513.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.882023079055</lat>
+						<lon>-87.634098529816</lon>
+
+							<typ>S</typ>
+                			<stpid>453</stpid>
+                			<stpnm>Madison &amp; Wells</stpnm>
+                			<pdist>2539.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.881955182343</lat>
+						<lon>-87.637419104576</lon>
+
+							<typ>S</typ>
+                			<stpid>454</stpid>
+                			<stpnm>Madison &amp; N. Wacker</stpnm>
+                			<pdist>3380.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.881919236996</lat>
+						<lon>-87.638685107231</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.881891279489</lat>
+						<lon>-87.641034722328</lon>
+
+							<typ>S</typ>
+                			<stpid>455</stpid>
+                			<stpnm>Madison &amp; Clinton</stpnm>
+                			<pdist>4315.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.88186332197</lat>
+						<lon>-87.642574310303</lon>
+
+							<typ>S</typ>
+                			<stpid>456</stpid>
+                			<stpnm>Madison &amp; Jefferson</stpnm>
+                			<pdist>4896.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.881843352307</lat>
+						<lon>-87.64416217804</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.881815394767</lat>
+						<lon>-87.647638320923</lon>
+
+							<typ>S</typ>
+                			<stpid>14467</stpid>
+                			<stpnm>Madison &amp; Halsted</stpnm>
+                			<pdist>6193.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.881787437215</lat>
+						<lon>-87.648346424103</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.881823382637</lat>
+						<lon>-87.64854490757</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.881803412961</lat>
+						<lon>-87.649483680725</lon>
+
+							<typ>S</typ>
+                			<stpid>458</stpid>
+                			<stpnm>Madison &amp; Peoria</stpnm>
+                			<pdist>6658.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.881775455404</lat>
+						<lon>-87.651913762093</lon>
+
+							<typ>S</typ>
+                			<stpid>459</stpid>
+                			<stpnm>Madison &amp; Morgan</stpnm>
+                			<pdist>7298.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.881735516015</lat>
+						<lon>-87.654252648354</lon>
+
+							<typ>S</typ>
+                			<stpid>460</stpid>
+                			<stpnm>Madison &amp; Aberdeen </stpnm>
+                			<pdist>7933.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.881695576602</lat>
+						<lon>-87.656462788582</lon>
+
+							<typ>S</typ>
+                			<stpid>461</stpid>
+                			<stpnm>Madison &amp; Racine</stpnm>
+                			<pdist>8559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.881623685594</lat>
+						<lon>-87.659456133842</lon>
+
+							<typ>S</typ>
+                			<stpid>462</stpid>
+                			<stpnm>Madison &amp; Throop </stpnm>
+                			<pdist>9369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.8816156977</lat>
+						<lon>-87.660625576973</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.881587740061</lat>
+						<lon>-87.662068605423</lon>
+
+							<typ>S</typ>
+                			<stpid>463</stpid>
+                			<stpnm>Madison &amp; Loomis </stpnm>
+                			<pdist>10066.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.881555788458</lat>
+						<lon>-87.664552330971</lon>
+
+							<typ>S</typ>
+                			<stpid>464</stpid>
+                			<stpnm>Madison &amp; Laflin</stpnm>
+                			<pdist>10735.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.881547800555</lat>
+						<lon>-87.664842009544</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.881523836839</lat>
+						<lon>-87.664933204651</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.881483897293</lat>
+						<lon>-87.666531801224</lon>
+
+							<typ>S</typ>
+                			<stpid>465</stpid>
+                			<stpnm>Madison &amp; Ashland</stpnm>
+                			<pdist>11303.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.881451945639</lat>
+						<lon>-87.66910135746</lon>
+
+							<typ>S</typ>
+                			<stpid>466</stpid>
+                			<stpnm>Madison &amp; Paulina</stpnm>
+                			<pdist>11996.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.881408012088</lat>
+						<lon>-87.671923041344</lon>
+
+							<typ>S</typ>
+                			<stpid>15090</stpid>
+                			<stpnm>Madison &amp; Wood</stpnm>
+                			<pdist>12819.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.88138404832</lat>
+						<lon>-87.674256563187</lon>
+
+							<typ>S</typ>
+                			<stpid>468</stpid>
+                			<stpnm>Madison &amp; United Center (1900 W)</stpnm>
+                			<pdist>13454.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.881364078506</lat>
+						<lon>-87.676455974579</lon>
+
+							<typ>S</typ>
+                			<stpid>469</stpid>
+                			<stpnm>Madison &amp; Damen</stpnm>
+                			<pdist>13980.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.881316150929</lat>
+						<lon>-87.678912878036</lon>
+
+							<typ>S</typ>
+                			<stpid>470</stpid>
+                			<stpnm>Madison &amp; Hoyne</stpnm>
+                			<pdist>14655.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.881268223315</lat>
+						<lon>-87.681922316551</lon>
+
+							<typ>S</typ>
+                			<stpid>17599</stpid>
+                			<stpnm>Madison &amp; Leavitt</stpnm>
+                			<pdist>15407.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.881228283609</lat>
+						<lon>-87.684304118156</lon>
+
+							<typ>S</typ>
+                			<stpid>17600</stpid>
+                			<stpnm>Madison &amp; Oakley</stpnm>
+                			<pdist>16002.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.881200325801</lat>
+						<lon>-87.686787843704</lon>
+
+							<typ>S</typ>
+                			<stpid>473</stpid>
+                			<stpnm>Madison &amp; Western</stpnm>
+                			<pdist>16497.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.881188343879</lat>
+						<lon>-87.688885331154</lon>
+
+							<typ>S</typ>
+                			<stpid>16087</stpid>
+                			<stpnm>Madison &amp; Campbell</stpnm>
+                			<pdist>17230.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.881140416169</lat>
+						<lon>-87.692522406578</lon>
+
+							<typ>S</typ>
+                			<stpid>17596</stpid>
+                			<stpnm>Madison &amp; Talman</stpnm>
+                			<pdist>18220.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.881124440258</lat>
+						<lon>-87.693675756454</lon>
+
+							<typ>S</typ>
+                			<stpid>17597</stpid>
+                			<stpnm>Madison &amp; Washtenaw</stpnm>
+                			<pdist>18688.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.881124440258</lat>
+						<lon>-87.696223855019</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.881104470363</lat>
+						<lon>-87.696647644043</lon>
+
+							<typ>S</typ>
+                			<stpid>14841</stpid>
+                			<stpnm>Madison &amp; California</stpnm>
+                			<pdist>19359.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.881080506482</lat>
+						<lon>-87.698573470116</lon>
+
+							<typ>S</typ>
+                			<stpid>478</stpid>
+                			<stpnm>Madison &amp; Francisco</stpnm>
+                			<pdist>19836.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.881060536573</lat>
+						<lon>-87.701073288918</lon>
+
+							<typ>S</typ>
+                			<stpid>479</stpid>
+                			<stpnm>Madison &amp; Sacramento</stpnm>
+                			<pdist>20520.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.881036572675</lat>
+						<lon>-87.703422904015</lon>
+
+							<typ>S</typ>
+                			<stpid>480</stpid>
+                			<stpnm>Madison &amp; Albany </stpnm>
+                			<pdist>21184.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.881000626811</lat>
+						<lon>-87.706373333931</lon>
+
+							<typ>S</typ>
+                			<stpid>14840</stpid>
+                			<stpnm>Madison &amp; Kedzie</stpnm>
+                			<pdist>22050.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.880968674915</lat>
+						<lon>-87.708567380905</lon>
+
+							<typ>S</typ>
+                			<stpid>482</stpid>
+                			<stpnm>Madison &amp; Spaulding</stpnm>
+                			<pdist>22580.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.880948704971</lat>
+						<lon>-87.711217403412</lon>
+
+							<typ>S</typ>
+                			<stpid>14766</stpid>
+                			<stpnm>Madison &amp; Homan</stpnm>
+                			<pdist>23350.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.880912759058</lat>
+						<lon>-87.713840603828</lon>
+
+							<typ>S</typ>
+                			<stpid>484</stpid>
+                			<stpnm>Madison &amp; St. Louis</stpnm>
+                			<pdist>24013.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.880884801111</lat>
+						<lon>-87.715981006622</lon>
+
+							<typ>S</typ>
+                			<stpid>485</stpid>
+                			<stpnm>Madison &amp; Central Park</stpnm>
+                			<pdist>24532.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.880868825136</lat>
+						<lon>-87.717112898827</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.880816903189</lat>
+						<lon>-87.720975279808</lon>
+
+							<typ>S</typ>
+                			<stpid>486</stpid>
+                			<stpnm>Madison &amp; Hamlin</stpnm>
+                			<pdist>26011.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.880780957202</lat>
+						<lon>-87.723104953766</lon>
+
+							<typ>S</typ>
+                			<stpid>487</stpid>
+                			<stpnm>Madison &amp; Springfield</stpnm>
+                			<pdist>26538.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.880768975201</lat>
+						<lon>-87.725470662117</lon>
+
+							<typ>S</typ>
+                			<stpid>15136</stpid>
+                			<stpnm>Madison &amp; Pulaski</stpnm>
+                			<pdist>27338.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.880749005196</lat>
+						<lon>-87.726935148239</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.880741017192</lat>
+						<lon>-87.728523015976</lon>
+
+							<typ>S</typ>
+                			<stpid>17164</stpid>
+                			<stpnm>Madison &amp; Karlov</stpnm>
+                			<pdist>27974.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.880677113123</lat>
+						<lon>-87.730502486229</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.880685101135</lat>
+						<lon>-87.731049656868</lon>
+
+							<typ>S</typ>
+                			<stpid>17165</stpid>
+                			<stpnm>Madison &amp; Keeler</stpnm>
+                			<pdist>28647.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.880689095141</lat>
+						<lon>-87.733334898949</lon>
+
+							<typ>S</typ>
+                			<stpid>15851</stpid>
+                			<stpnm>Madison &amp; Kildare</stpnm>
+                			<pdist>29317.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.880653149081</lat>
+						<lon>-87.735963463783</lon>
+
+							<typ>S</typ>
+                			<stpid>17166</stpid>
+                			<stpnm>Madison &amp; Kostner</stpnm>
+                			<pdist>29993.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.880609214981</lat>
+						<lon>-87.738409638405</lon>
+
+							<typ>S</typ>
+                			<stpid>17167</stpid>
+                			<stpnm>Madison &amp; Kilbourn</stpnm>
+                			<pdist>30657.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.880581256901</lat>
+						<lon>-87.740635871887</lon>
+
+							<typ>S</typ>
+                			<stpid>494</stpid>
+                			<stpnm>Madison &amp; Kenton </stpnm>
+                			<pdist>31284.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.880569274864</lat>
+						<lon>-87.742631435394</lon>
+
+							<typ>S</typ>
+                			<stpid>495</stpid>
+                			<stpnm>Madison &amp; Kilpatrick</stpnm>
+                			<pdist>31816.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.880533328737</lat>
+						<lon>-87.745125889778</lon>
+
+							<typ>S</typ>
+                			<stpid>496</stpid>
+                			<stpnm>Madison &amp; Cicero</stpnm>
+                			<pdist>32480.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.880493388572</lat>
+						<lon>-87.747496962547</lon>
+
+							<typ>S</typ>
+                			<stpid>497</stpid>
+                			<stpnm>Madison &amp; Lamon</stpnm>
+                			<pdist>33128.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.88047341848</lat>
+						<lon>-87.749991416931</lon>
+
+							<typ>S</typ>
+                			<stpid>498</stpid>
+                			<stpnm>Madison &amp; Lavergne</stpnm>
+                			<pdist>33957.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.880457442402</lat>
+						<lon>-87.752442955971</lon>
+
+							<typ>S</typ>
+                			<stpid>499</stpid>
+                			<stpnm>Madison &amp; Leclaire</stpnm>
+                			<pdist>34445.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.880425490234</lat>
+						<lon>-87.755323648453</lon>
+
+							<typ>S</typ>
+                			<stpid>14958</stpid>
+                			<stpnm>Madison &amp; Laramie</stpnm>
+                			<pdist>35289.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.880377561952</lat>
+						<lon>-87.757877111435</lon>
+
+							<typ>S</typ>
+                			<stpid>17160</stpid>
+                			<stpnm>Madison &amp; Lockwood</stpnm>
+                			<pdist>35963.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.880345609745</lat>
+						<lon>-87.759942412376</lon>
+
+							<typ>S</typ>
+                			<stpid>502</stpid>
+                			<stpnm>Madison &amp; Long</stpnm>
+                			<pdist>36509.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.880325639607</lat>
+						<lon>-87.761304974556</lon>
+
+							<typ>S</typ>
+                			<stpid>17161</stpid>
+                			<stpnm>Madison &amp; Lotus</stpnm>
+                			<pdist>37196.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.88027771125</lat>
+						<lon>-87.764652371407</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.880325639607</lat>
+						<lon>-87.764775753021</lon>
+
+							<typ>S</typ>
+                			<stpid>505</stpid>
+                			<stpnm>Madison &amp; Central</stpnm>
+                			<pdist>37819.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.88031765155</lat>
+						<lon>-87.76641190052</lon>
+
+							<typ>S</typ>
+                			<stpid>506</stpid>
+                			<stpnm>Madison &amp; Parkside</stpnm>
+                			<pdist>38278.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.88031765155</lat>
+						<lon>-87.767978310585</lon>
+
+							<typ>S</typ>
+                			<stpid>507</stpid>
+                			<stpnm>Madison &amp; Waller</stpnm>
+                			<pdist>38717.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.880281705281</lat>
+						<lon>-87.769662737846</lon>
+
+							<typ>S</typ>
+                			<stpid>508</stpid>
+                			<stpnm>Madison &amp; Menard</stpnm>
+                			<pdist>39161.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.880245758992</lat>
+						<lon>-87.771711945534</lon>
+
+							<typ>S</typ>
+                			<stpid>509</stpid>
+                			<stpnm>Madison &amp; Mayfield</stpnm>
+                			<pdist>39711.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.880217800754</lat>
+						<lon>-87.773289084435</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.880177860391</lat>
+						<lon>-87.773932814598</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.880169872316</lat>
+						<lon>-87.774367332458</lon>
+
+							<typ>S</typ>
+                			<stpid>14800</stpid>
+                			<stpnm>Madison &amp; Austin</stpnm>
+                			<pdist>40485.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.880169872316</lat>
+						<lon>-87.774603366852</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.880577262889</lat>
+						<lon>-87.774624824524</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.880581256901</lat>
+						<lon>-87.774050831795</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.880309663492</lat>
+						<lon>-87.774034738541</lon>
+
+							<typ>S</typ>
+                			<stpid>386</stpid>
+                			<stpnm>Madison &amp; Austin Terminal</stpnm>
+                			<pdist>40908.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>957</pid>
+				<ln>0.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.880309663492</lat>
+						<lon>-87.774034738541</lon>
+
+							<typ>S</typ>
+                			<stpid>386</stpid>
+                			<stpnm>Madison &amp; Austin Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.880034074881</lat>
+						<lon>-87.774034738541</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.880070021289</lat>
+						<lon>-87.771502733231</lon>
+
+							<typ>S</typ>
+                			<stpid>388</stpid>
+                			<stpnm>Madison &amp; Mayfield</stpnm>
+                			<pdist>704.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.880085997464</lat>
+						<lon>-87.769914865494</lon>
+
+							<typ>S</typ>
+                			<stpid>389</stpid>
+                			<stpnm>Madison &amp; Menard</stpnm>
+                			<pdist>1142.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.880109961719</lat>
+						<lon>-87.768219709396</lon>
+
+							<typ>S</typ>
+                			<stpid>390</stpid>
+                			<stpnm>Madison &amp; Waller</stpnm>
+                			<pdist>1607.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.880141914044</lat>
+						<lon>-87.766642570496</lon>
+
+							<typ>S</typ>
+                			<stpid>391</stpid>
+                			<stpnm>Madison &amp; Parkside</stpnm>
+                			<pdist>2051.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.880169872316</lat>
+						<lon>-87.764743566513</lon>
+
+							<typ>S</typ>
+                			<stpid>14956</stpid>
+                			<stpnm>Madison &amp; Central</stpnm>
+                			<pdist>2707.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.880205818648</lat>
+						<lon>-87.76464164257</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.880225788823</lat>
+						<lon>-87.763220071793</lon>
+
+							<typ>S</typ>
+                			<stpid>393</stpid>
+                			<stpnm>Madison &amp; Pine</stpnm>
+                			<pdist>2952.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.880245758992</lat>
+						<lon>-87.761964797974</lon>
+
+							<typ>S</typ>
+                			<stpid>394</stpid>
+                			<stpnm>Madison &amp; Lotus </stpnm>
+                			<pdist>3308.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.88027771125</lat>
+						<lon>-87.760038971901</lon>
+
+							<typ>S</typ>
+                			<stpid>395</stpid>
+                			<stpnm>Madison &amp; Long</stpnm>
+                			<pdist>3850.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.88031765155</lat>
+						<lon>-87.757818102837</lon>
+
+							<typ>S</typ>
+                			<stpid>396</stpid>
+                			<stpnm>Madison &amp; Lockwood </stpnm>
+                			<pdist>4447.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.88036158585</lat>
+						<lon>-87.755339741707</lon>
+
+							<typ>S</typ>
+                			<stpid>397</stpid>
+                			<stpnm>Madison &amp; Laramie</stpnm>
+                			<pdist>5145.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.880397532074</lat>
+						<lon>-87.753537297249</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.880401526098</lat>
+						<lon>-87.752373218536</lon>
+
+							<typ>S</typ>
+                			<stpid>17169</stpid>
+                			<stpnm>Madison &amp; Leclaire</stpnm>
+                			<pdist>5869.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.88041750219</lat>
+						<lon>-87.749063372612</lon>
+
+							<typ>S</typ>
+                			<stpid>17162</stpid>
+                			<stpnm>Madison &amp; Lavergne</stpnm>
+                			<pdist>6800.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.88047341848</lat>
+						<lon>-87.744975686073</lon>
+
+							<typ>S</typ>
+                			<stpid>14959</stpid>
+                			<stpnm>Madison &amp; Cicero</stpnm>
+                			<pdist>7925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.880505370624</lat>
+						<lon>-87.743006944656</lon>
+
+							<typ>S</typ>
+                			<stpid>402</stpid>
+                			<stpnm>Madison &amp; Kilpatrick</stpnm>
+                			<pdist>8402.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.880517352674</lat>
+						<lon>-87.740727066994</lon>
+
+							<typ>S</typ>
+                			<stpid>403</stpid>
+                			<stpnm>Madison &amp; Kenton</stpnm>
+                			<pdist>9025.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.88055329881</lat>
+						<lon>-87.737588882446</lon>
+
+							<typ>S</typ>
+                			<stpid>17163</stpid>
+                			<stpnm>Madison &amp; Kilbourn</stpnm>
+                			<pdist>9893.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.880593238937</lat>
+						<lon>-87.735233902931</lon>
+
+							<typ>S</typ>
+                			<stpid>15848</stpid>
+                			<stpnm>Madison &amp; Kostner</stpnm>
+                			<pdist>10554.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.880625191021</lat>
+						<lon>-87.733200788498</lon>
+
+							<typ>S</typ>
+                			<stpid>406</stpid>
+                			<stpnm>Madison &amp; Kildare</stpnm>
+                			<pdist>11063.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.880617203002</lat>
+						<lon>-87.730454206467</lon>
+
+							<typ>S</typ>
+                			<stpid>14500</stpid>
+                			<stpnm>Madison &amp; Keeler</stpnm>
+                			<pdist>11890.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.880677113123</lat>
+						<lon>-87.727890014648</lon>
+
+							<typ>S</typ>
+                			<stpid>15852</stpid>
+                			<stpnm>Madison &amp; Karlov</stpnm>
+                			<pdist>12569.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.880705071161</lat>
+						<lon>-87.725915908813</lon>
+
+							<typ>S</typ>
+                			<stpid>409</stpid>
+                			<stpnm>Madison &amp; Pulaski</stpnm>
+                			<pdist>13043.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.88071305917</lat>
+						<lon>-87.723416090012</lon>
+
+							<typ>S</typ>
+                			<stpid>410</stpid>
+                			<stpnm>Madison &amp; Springfield</stpnm>
+                			<pdist>13711.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.8807609872</lat>
+						<lon>-87.721018195152</lon>
+
+							<typ>S</typ>
+                			<stpid>411</stpid>
+                			<stpnm>Madison &amp; Hamlin</stpnm>
+                			<pdist>14369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.880768975201</lat>
+						<lon>-87.72066950798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.880812909192</lat>
+						<lon>-87.717413306236</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.880820897187</lat>
+						<lon>-87.715991735458</lon>
+
+							<typ>S</typ>
+                			<stpid>412</stpid>
+                			<stpnm>Madison &amp; Central Park</stpnm>
+                			<pdist>15697.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.880844861166</lat>
+						<lon>-87.713738679886</lon>
+
+							<typ>S</typ>
+                			<stpid>413</stpid>
+                			<stpnm>Madison &amp; St. Louis</stpnm>
+                			<pdist>16316.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.880892789097</lat>
+						<lon>-87.710777521133</lon>
+
+							<typ>S</typ>
+                			<stpid>14764</stpid>
+                			<stpnm>Madison &amp; Homan</stpnm>
+                			<pdist>17230.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.880912759058</lat>
+						<lon>-87.708578109741</lon>
+
+							<typ>S</typ>
+                			<stpid>415</stpid>
+                			<stpnm>Madison &amp; Spaulding</stpnm>
+                			<pdist>17770.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.880936723003</lat>
+						<lon>-87.706416249275</lon>
+
+							<typ>S</typ>
+                			<stpid>416</stpid>
+                			<stpnm>Madison &amp; Kedzie</stpnm>
+                			<pdist>18421.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.88097666289</lat>
+						<lon>-87.703138589859</lon>
+
+							<typ>S</typ>
+                			<stpid>417</stpid>
+                			<stpnm>Madison &amp; Albany </stpnm>
+                			<pdist>19293.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.881000626811</lat>
+						<lon>-87.700906991959</lon>
+
+							<typ>S</typ>
+                			<stpid>15185</stpid>
+                			<stpnm>Madison &amp; Sacramento</stpnm>
+                			<pdist>19920.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.881012608768</lat>
+						<lon>-87.69856274128</lon>
+
+							<typ>S</typ>
+                			<stpid>16110</stpid>
+                			<stpnm>Madison &amp; Francisco</stpnm>
+                			<pdist>20584.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.881064530556</lat>
+						<lon>-87.696003913879</lon>
+
+							<typ>S</typ>
+                			<stpid>420</stpid>
+                			<stpnm>Madison &amp; California</stpnm>
+                			<pdist>21265.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.881058333332</lat>
+						<lon>-87.694191666665</lon>
+
+							<typ>S</typ>
+                			<stpid>421</stpid>
+                			<stpnm>Madison &amp; Washtenaw</stpnm>
+                			<pdist>21735.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.881072518519</lat>
+						<lon>-87.692270278931</lon>
+
+							<typ>S</typ>
+                			<stpid>16088</stpid>
+                			<stpnm>Madison &amp; Talman</stpnm>
+                			<pdist>22228.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.88112044628</lat>
+						<lon>-87.688965797424</lon>
+
+							<typ>S</typ>
+                			<stpid>423</stpid>
+                			<stpnm>Madison &amp; Campbell </stpnm>
+                			<pdist>23146.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.881148404123</lat>
+						<lon>-87.686181664467</lon>
+
+							<typ>S</typ>
+                			<stpid>15364</stpid>
+                			<stpnm>Madison &amp; Western</stpnm>
+                			<pdist>24018.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.881170000001</lat>
+						<lon>-87.683718333332</lon>
+
+							<typ>S</typ>
+                			<stpid>17598</stpid>
+                			<stpnm>Madison &amp; Oakley</stpnm>
+                			<pdist>24625.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.881228283609</lat>
+						<lon>-87.681219577789</lon>
+
+							<typ>S</typ>
+                			<stpid>15384</stpid>
+                			<stpnm>Madison &amp; Leavitt</stpnm>
+                			<pdist>25310.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.881244259495</lat>
+						<lon>-87.679315209389</lon>
+
+							<typ>S</typ>
+                			<stpid>427</stpid>
+                			<stpnm>Madison &amp; Hoyne</stpnm>
+                			<pdist>25832.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.881296181094</lat>
+						<lon>-87.67672419548</lon>
+
+							<typ>S</typ>
+                			<stpid>428</stpid>
+                			<stpnm>Madison &amp; Damen</stpnm>
+                			<pdist>26500.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.881320144895</lat>
+						<lon>-87.674245834351</lon>
+
+							<typ>S</typ>
+                			<stpid>429</stpid>
+                			<stpnm>Madison &amp; United Center (1900 W)</stpnm>
+                			<pdist>27071.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.881360084543</lat>
+						<lon>-87.671853303909</lon>
+
+							<typ>S</typ>
+                			<stpid>430</stpid>
+                			<stpnm>Madison &amp; Wood</stpnm>
+                			<pdist>27850.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.881372066432</lat>
+						<lon>-87.669519782066</lon>
+
+							<typ>S</typ>
+                			<stpid>431</stpid>
+                			<stpnm>Madison &amp; Paulina</stpnm>
+                			<pdist>28508.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.881396030205</lat>
+						<lon>-87.668516635895</lon>
+
+							<typ>S</typ>
+                			<stpid>4727</stpid>
+                			<stpnm>1633 W Madison</stpnm>
+                			<pdist>28788.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.881416000008</lat>
+						<lon>-87.667025327682</lon>
+
+							<typ>S</typ>
+                			<stpid>432</stpid>
+                			<stpnm>Madison &amp; Ashland</stpnm>
+                			<pdist>29180.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.881467921468</lat>
+						<lon>-87.664965391159</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.881419993968</lat>
+						<lon>-87.664863467216</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.881423987928</lat>
+						<lon>-87.664182186127</lon>
+
+							<typ>S</typ>
+                			<stpid>15279</stpid>
+                			<stpnm>Madison &amp; Laflin</stpnm>
+                			<pdist>30021.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.881455939597</lat>
+						<lon>-87.662014961243</lon>
+
+							<typ>S</typ>
+                			<stpid>16049</stpid>
+                			<stpnm>Madison &amp; Loomis </stpnm>
+                			<pdist>30593.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.881499873115</lat>
+						<lon>-87.659772634506</lon>
+
+							<typ>S</typ>
+                			<stpid>435</stpid>
+                			<stpnm>Madison &amp; Throop </stpnm>
+                			<pdist>31251.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.881535818698</lat>
+						<lon>-87.657315731049</lon>
+
+							<typ>S</typ>
+                			<stpid>436</stpid>
+                			<stpnm>Madison &amp; Racine </stpnm>
+                			<pdist>31926.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.881571764261</lat>
+						<lon>-87.654896378517</lon>
+
+							<typ>S</typ>
+                			<stpid>437</stpid>
+                			<stpnm>Madison &amp; Aberdeen </stpnm>
+                			<pdist>32585.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.881635667435</lat>
+						<lon>-87.651919126511</lon>
+
+							<typ>S</typ>
+                			<stpid>14647</stpid>
+                			<stpnm>Madison &amp; Morgan</stpnm>
+                			<pdist>33444.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.881667618997</lat>
+						<lon>-87.649816274643</lon>
+
+							<typ>S</typ>
+                			<stpid>439</stpid>
+                			<stpnm>Madison &amp; Peoria</stpnm>
+                			<pdist>33946.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.881683594773</lat>
+						<lon>-87.648485898972</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.881735516015</lat>
+						<lon>-87.648330330849</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.881755485712</lat>
+						<lon>-87.647300362587</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.882007103365</lat>
+						<lon>-87.647316455841</lon>
+
+							<typ>S</typ>
+                			<stpid>440</stpid>
+                			<stpnm>Halsted &amp; Madison</stpnm>
+                			<pdist>34739.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.883125392053</lat>
+						<lon>-87.647348642349</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.883125392053</lat>
+						<lon>-87.647080421448</lon>
+
+							<typ>S</typ>
+                			<stpid>12754</stpid>
+                			<stpnm>Washington &amp; Halsted</stpnm>
+                			<pdist>35163.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.883137373612</lat>
+						<lon>-87.645615935326</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.883145361316</lat>
+						<lon>-87.64285326004</lon>
+
+							<typ>S</typ>
+                			<stpid>442</stpid>
+                			<stpnm>Washington &amp; Jefferson</stpnm>
+                			<pdist>36200.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.883157342871</lat>
+						<lon>-87.641163468361</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.883157342871</lat>
+						<lon>-87.640010118484</lon>
+
+							<typ>S</typ>
+                			<stpid>443</stpid>
+                			<stpnm>Washington &amp; Canal</stpnm>
+                			<pdist>36998.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.883181305974</lat>
+						<lon>-87.635498642921</lon>
+
+							<typ>S</typ>
+                			<stpid>445</stpid>
+                			<stpnm>Washington &amp; Franklin</stpnm>
+                			<pdist>38378.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.883161336722</lat>
+						<lon>-87.632617950439</lon>
+
+							<typ>S</typ>
+                			<stpid>446</stpid>
+                			<stpnm>Washington &amp; Lasalle</stpnm>
+                			<pdist>38992.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.883165330573</lat>
+						<lon>-87.629576325417</lon>
+
+							<typ>S</typ>
+                			<stpid>447</stpid>
+                			<stpnm>Washington &amp; Dearborn</stpnm>
+                			<pdist>39818.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.883181305974</lat>
+						<lon>-87.627489566803</lon>
+
+							<typ>S</typ>
+                			<stpid>448</stpid>
+                			<stpnm>Washington &amp; State</stpnm>
+                			<pdist>40445.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.883185299824</lat>
+						<lon>-87.625976800919</lon>
+
+							<typ>S</typ>
+                			<stpid>449</stpid>
+                			<stpnm>Washington &amp; Wabash</stpnm>
+                			<pdist>40943.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.883209262916</lat>
+						<lon>-87.624549865723</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

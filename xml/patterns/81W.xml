@@ -1,0 +1,1431 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>1652</pid>
+				<ln>28837.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.983603490613</lat>
+						<lon>-87.839024662971</lon>
+
+							<typ>S</typ>
+                			<stpid>14143</stpid>
+                			<stpnm>Cumberland Blue Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.983507788943</lat>
+						<lon>-87.83913731575</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.982981427191</lat>
+						<lon>-87.838364839554</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.982726219927</lat>
+						<lon>-87.837941050529</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.982395246483</lat>
+						<lon>-87.837275862694</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.982355370048</lat>
+						<lon>-87.83693253994</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.982351382403</lat>
+						<lon>-87.836734056473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.980445259577</lat>
+						<lon>-87.836707234383</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.979221004154</lat>
+						<lon>-87.836728692055</lon>
+
+							<typ>S</typ>
+                			<stpid>8560</stpid>
+                			<stpnm>Cumberland &amp; Catalpa</stpnm>
+                			<pdist>2077.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.97733472742</lat>
+						<lon>-87.836717963219</lon>
+
+							<typ>S</typ>
+                			<stpid>8562</stpid>
+                			<stpnm>Cumberland &amp; Catherine</stpnm>
+                			<pdist>2712.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.977175208855</lat>
+						<lon>-87.836717963219</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.976971822104</lat>
+						<lon>-87.836653590202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.975767440195</lat>
+						<lon>-87.83665895462</lon>
+
+							<typ>S</typ>
+                			<stpid>8564</stpid>
+                			<stpnm>Cumberland &amp; Berwyn</stpnm>
+                			<pdist>3416.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.973897013866</lat>
+						<lon>-87.836669683456</lon>
+
+							<typ>S</typ>
+                			<stpid>8566</stpid>
+                			<stpnm>Cumberland &amp; Foster</stpnm>
+                			<pdist>3885.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.971476145999</lat>
+						<lon>-87.836691141129</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.971208927598</lat>
+						<lon>-87.836766242981</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.970351428142</lat>
+						<lon>-87.836782336235</lon>
+
+							<typ>S</typ>
+                			<stpid>8568</stpid>
+                			<stpnm>Cumberland &amp; Argyle</stpnm>
+                			<pdist>5330.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.968500785328</lat>
+						<lon>-87.836793065071</lon>
+
+							<typ>S</typ>
+                			<stpid>8570</stpid>
+                			<stpnm>Cumberland &amp; Ainslie</stpnm>
+                			<pdist>5898.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.966582282034</lat>
+						<lon>-87.836798429489</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.966578293402</lat>
+						<lon>-87.836299538612</lon>
+
+							<typ>S</typ>
+                			<stpid>9712</stpid>
+                			<stpnm>Lawrence &amp; Cumberland</stpnm>
+                			<pdist>6845.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.966638122863</lat>
+						<lon>-87.833375930786</lon>
+
+							<typ>S</typ>
+                			<stpid>9713</stpid>
+                			<stpnm>Lawrence &amp; Pittsburgh</stpnm>
+                			<pdist>7518.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.966674020513</lat>
+						<lon>-87.831702232361</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.966693963643</lat>
+						<lon>-87.831417918205</lon>
+
+							<typ>S</typ>
+                			<stpid>9714</stpid>
+                			<stpnm>Lawrence &amp; Courtland</stpnm>
+                			<pdist>8056.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.966745815753</lat>
+						<lon>-87.830103635788</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.96674182713</lat>
+						<lon>-87.828821539879</lon>
+
+							<typ>S</typ>
+                			<stpid>9715</stpid>
+                			<stpnm>Lawrence &amp; Vine</stpnm>
+                			<pdist>8754.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.966773736101</lat>
+						<lon>-87.827389240265</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.966789690581</lat>
+						<lon>-87.826380729675</lon>
+
+							<typ>S</typ>
+                			<stpid>9716</stpid>
+                			<stpnm>Lawrence &amp; Canfield</stpnm>
+                			<pdist>9444.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.96685350846</lat>
+						<lon>-87.823242545128</lon>
+
+							<typ>S</typ>
+                			<stpid>9717</stpid>
+                			<stpnm>Lawrence &amp; Opal</stpnm>
+                			<pdist>10249.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.966941257938</lat>
+						<lon>-87.81934261322</lon>
+
+							<typ>S</typ>
+                			<stpid>9718</stpid>
+                			<stpnm>Lawrence &amp; Overhill</stpnm>
+                			<pdist>11246.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.967044961712</lat>
+						<lon>-87.8165102005</lon>
+
+							<typ>S</typ>
+                			<stpid>9719</stpid>
+                			<stpnm>Lawrence &amp; Oriole</stpnm>
+                			<pdist>12079.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.967088836334</lat>
+						<lon>-87.814643383026</lon>
+
+							<typ>S</typ>
+                			<stpid>9720</stpid>
+                			<stpnm>Lawrence &amp; Olcott</stpnm>
+                			<pdist>12577.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.967144676719</lat>
+						<lon>-87.812224030495</lon>
+
+							<typ>S</typ>
+                			<stpid>9721</stpid>
+                			<stpnm>Lawrence &amp; Oketo</stpnm>
+                			<pdist>13235.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.967196528462</lat>
+						<lon>-87.80954182148</lon>
+
+							<typ>S</typ>
+                			<stpid>9722</stpid>
+                			<stpnm>Lawrence &amp; Octavia</stpnm>
+                			<pdist>13923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.967296243232</lat>
+						<lon>-87.807149291039</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.96812586407</lat>
+						<lon>-87.807111740112</lon>
+
+							<typ>S</typ>
+                			<stpid>9723</stpid>
+                			<stpnm>Harlem &amp; Gunnison</stpnm>
+                			<pdist>14897.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.968225577386</lat>
+						<lon>-87.807101011276</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.968257485614</lat>
+						<lon>-87.80493915081</lon>
+
+							<typ>S</typ>
+                			<stpid>9724</stpid>
+                			<stpnm>Gunnison &amp; Montclare</stpnm>
+                			<pdist>15485.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.968273439722</lat>
+						<lon>-87.802659273148</lon>
+
+							<typ>S</typ>
+                			<stpid>9725</stpid>
+                			<stpnm>Gunnison &amp; Sayre/Nordica</stpnm>
+                			<pdist>16118.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.968289393826</lat>
+						<lon>-87.800250649452</lon>
+
+							<typ>S</typ>
+                			<stpid>9726</stpid>
+                			<stpnm>Gunnison &amp; New England</stpnm>
+                			<pdist>16773.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.968329279069</lat>
+						<lon>-87.79655456543</lon>
+
+							<typ>S</typ>
+                			<stpid>9727</stpid>
+                			<stpnm>Gunnison &amp; Oak Park</stpnm>
+                			<pdist>17417.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.968357198724</lat>
+						<lon>-87.795041799545</lon>
+
+							<typ>S</typ>
+                			<stpid>9728</stpid>
+                			<stpnm>Gunnison &amp; Rutherford</stpnm>
+                			<pdist>18114.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.968373152807</lat>
+						<lon>-87.794033288956</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.968365175766</lat>
+						<lon>-87.792820930481</lon>
+
+							<typ>S</typ>
+                			<stpid>9729</stpid>
+                			<stpnm>Gunnison &amp; Natoma</stpnm>
+                			<pdist>18765.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.968397083924</lat>
+						<lon>-87.791683673859</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.968393095405</lat>
+						<lon>-87.790299654007</lon>
+
+							<typ>S</typ>
+                			<stpid>9730</stpid>
+                			<stpnm>Gunnison &amp; Neenah</stpnm>
+                			<pdist>19424.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.968397083924</lat>
+						<lon>-87.787719368935</lon>
+
+							<typ>S</typ>
+                			<stpid>9551</stpid>
+                			<stpnm>Gunnison &amp; Nagle</stpnm>
+                			<pdist>20213.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.968405060961</lat>
+						<lon>-87.785573601723</lon>
+
+							<typ>S</typ>
+                			<stpid>9552</stpid>
+                			<stpnm>Gunnison &amp; Mobile</stpnm>
+                			<pdist>20798.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.968448934647</lat>
+						<lon>-87.783073782921</lon>
+
+							<typ>S</typ>
+                			<stpid>9553</stpid>
+                			<stpnm>Gunnison &amp; Melvina </stpnm>
+                			<pdist>21491.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.968492808303</lat>
+						<lon>-87.780675888062</lon>
+
+							<typ>S</typ>
+                			<stpid>9554</stpid>
+                			<stpnm>Gunnison &amp; Meade</stpnm>
+                			<pdist>22134.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.968508762352</lat>
+						<lon>-87.778465747833</lon>
+
+							<typ>S</typ>
+                			<stpid>9555</stpid>
+                			<stpnm>Gunnison &amp; Austin</stpnm>
+                			<pdist>22711.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.968512750863</lat>
+						<lon>-87.778288722038</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.967635272284</lat>
+						<lon>-87.777312397957</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.967635272284</lat>
+						<lon>-87.776722311974</lon>
+
+							<typ>S</typ>
+                			<stpid>9675</stpid>
+                			<stpnm>Lawrence &amp; Austin/Mason</stpnm>
+                			<pdist>23322.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.967651226548</lat>
+						<lon>-87.774952054024</lon>
+
+							<typ>S</typ>
+                			<stpid>9676</stpid>
+                			<stpnm>Lawrence &amp; Marmora</stpnm>
+                			<pdist>23803.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.96769111219</lat>
+						<lon>-87.772618532181</lon>
+
+							<typ>S</typ>
+                			<stpid>9677</stpid>
+                			<stpnm>Lawrence &amp; Menard</stpnm>
+                			<pdist>24476.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.967723020686</lat>
+						<lon>-87.770027518272</lon>
+
+							<typ>S</typ>
+                			<stpid>9678</stpid>
+                			<stpnm>Lawrence &amp; Major</stpnm>
+                			<pdist>25144.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.967754929166</lat>
+						<lon>-87.767742276192</lon>
+
+							<typ>S</typ>
+                			<stpid>9679</stpid>
+                			<stpnm>Lawrence &amp; Central</stpnm>
+                			<pdist>25808.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.967774871957</lat>
+						<lon>-87.766202688217</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.967778860515</lat>
+						<lon>-87.7652156353</lon>
+
+							<typ>S</typ>
+                			<stpid>9680</stpid>
+                			<stpnm>Lawrence &amp; Linder</stpnm>
+                			<pdist>26484.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.967762906283</lat>
+						<lon>-87.764636278152</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.967643249416</lat>
+						<lon>-87.762694358826</lon>
+
+							<typ>S</typ>
+                			<stpid>9681</stpid>
+                			<stpnm>Lawrence &amp; Long</stpnm>
+                			<pdist>27142.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.967559489476</lat>
+						<lon>-87.761503458023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.967878574374</lat>
+						<lon>-87.760698795319</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.968233554445</lat>
+						<lon>-87.760999202728</lon>
+
+							<typ>S</typ>
+                			<stpid>17064</stpid>
+                			<stpnm>Milwaukee &amp; Ainslie</stpnm>
+                			<pdist>27861.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.969282528937</lat>
+						<lon>-87.761900424957</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.969442067271</lat>
+						<lon>-87.761401534081</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.969645478067</lat>
+						<lon>-87.761063575745</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.969936633566</lat>
+						<lon>-87.76132106781</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.969769119605</lat>
+						<lon>-87.761739492416</lon>
+
+							<typ>S</typ>
+                			<stpid>14104</stpid>
+                			<stpnm>Jefferson Park Transit Center</stpnm>
+                			<pdist>28837.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1651</pid>
+				<ln>0.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.969769119605</lat>
+						<lon>-87.761739492416</lon>
+
+							<typ>S</typ>
+                			<stpid>14104</stpid>
+                			<stpnm>Jefferson Park Transit Center</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.969545766973</lat>
+						<lon>-87.762249112129</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.969027266773</lat>
+						<lon>-87.761798501015</lon>
+
+							<typ>S</typ>
+                			<stpid>3725</stpid>
+                			<stpnm>Milwaukee &amp; Higgins</stpnm>
+                			<pdist>444.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.968006207885</lat>
+						<lon>-87.760918736458</lon>
+
+							<typ>S</typ>
+                			<stpid>17174</stpid>
+                			<stpnm>Lawrence &amp; Milwaukee</stpnm>
+                			<pdist>969.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.967894528577</lat>
+						<lon>-87.760827541351</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.96762729515</lat>
+						<lon>-87.761524915695</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.967683135063</lat>
+						<lon>-87.762399315834</lon>
+
+							<typ>S</typ>
+                			<stpid>9684</stpid>
+                			<stpnm>Lawrence &amp; Long</stpnm>
+                			<pdist>1311.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.967798803299</lat>
+						<lon>-87.764067649841</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.967834700295</lat>
+						<lon>-87.764877676964</lon>
+
+							<typ>S</typ>
+                			<stpid>9685</stpid>
+                			<stpnm>Lawrence &amp; Linder</stpnm>
+                			<pdist>1925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.967830711741</lat>
+						<lon>-87.766224145889</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.967826723187</lat>
+						<lon>-87.767227292061</lon>
+
+							<typ>S</typ>
+                			<stpid>9686</stpid>
+                			<stpnm>Lawrence &amp; Central</stpnm>
+                			<pdist>2623.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.967786837629</lat>
+						<lon>-87.770022153854</lon>
+
+							<typ>S</typ>
+                			<stpid>9687</stpid>
+                			<stpnm>Lawrence &amp; Major</stpnm>
+                			<pdist>3361.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.967750940606</lat>
+						<lon>-87.772672176361</lon>
+
+							<typ>S</typ>
+                			<stpid>9688</stpid>
+                			<stpnm>Lawrence &amp; Menard</stpnm>
+                			<pdist>4075.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.967711055002</lat>
+						<lon>-87.774737477303</lon>
+
+							<typ>S</typ>
+                			<stpid>9689</stpid>
+                			<stpnm>Lawrence &amp; Marmora</stpnm>
+                			<pdist>4650.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.967699089315</lat>
+						<lon>-87.776979804039</lon>
+
+							<typ>S</typ>
+                			<stpid>9731</stpid>
+                			<stpnm>Lawrence &amp; Austin/Mason</stpnm>
+                			<pdist>5211.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.96770706644</lat>
+						<lon>-87.77724802494</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.968572578508</lat>
+						<lon>-87.778235077858</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.96856859</lat>
+						<lon>-87.778733968735</lon>
+
+							<typ>S</typ>
+                			<stpid>9690</stpid>
+                			<stpnm>Gunnison &amp; Austin</stpnm>
+                			<pdist>5859.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.968556624475</lat>
+						<lon>-87.780579328537</lon>
+
+							<typ>S</typ>
+                			<stpid>9691</stpid>
+                			<stpnm>Gunnison &amp; Meade</stpnm>
+                			<pdist>6365.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.968508762352</lat>
+						<lon>-87.783052325249</lon>
+
+							<typ>S</typ>
+                			<stpid>9692</stpid>
+                			<stpnm>Gunnison &amp; Melvina </stpnm>
+                			<pdist>7021.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.968468877221</lat>
+						<lon>-87.785450220108</lon>
+
+							<typ>S</typ>
+                			<stpid>9693</stpid>
+                			<stpnm>Gunnison &amp; Mobile</stpnm>
+                			<pdist>7681.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.968456911677</lat>
+						<lon>-87.787815928459</lon>
+
+							<typ>S</typ>
+                			<stpid>9694</stpid>
+                			<stpnm>Gunnison &amp; Nagle</stpnm>
+                			<pdist>8328.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.968456911677</lat>
+						<lon>-87.790267467499</lon>
+
+							<typ>S</typ>
+                			<stpid>9732</stpid>
+                			<stpnm>Gunnison &amp; Neenah</stpnm>
+                			<pdist>9003.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.968432980583</lat>
+						<lon>-87.79265999794</lon>
+
+							<typ>S</typ>
+                			<stpid>9733</stpid>
+                			<stpnm>Gunnison &amp; Natoma</stpnm>
+                			<pdist>9676.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.968417026515</lat>
+						<lon>-87.795132994652</lon>
+
+							<typ>S</typ>
+                			<stpid>9734</stpid>
+                			<stpnm>Gunnison &amp; Rutherford</stpnm>
+                			<pdist>10320.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.968389106886</lat>
+						<lon>-87.79633462429</lon>
+
+							<typ>S</typ>
+                			<stpid>9735</stpid>
+                			<stpnm>Gunnison &amp; Oak Park</stpnm>
+                			<pdist>10936.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.968353210202</lat>
+						<lon>-87.799982428551</lon>
+
+							<typ>S</typ>
+                			<stpid>9736</stpid>
+                			<stpnm>Gunnison &amp; New England</stpnm>
+                			<pdist>11591.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.968329279069</lat>
+						<lon>-87.80238032341</lon>
+
+							<typ>S</typ>
+                			<stpid>9737</stpid>
+                			<stpnm>Gunnison &amp; Sayre/Nordica</stpnm>
+                			<pdist>12249.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.968313324975</lat>
+						<lon>-87.804767489433</lon>
+
+							<typ>S</typ>
+                			<stpid>9738</stpid>
+                			<stpnm>Gunnison &amp; Montclare</stpnm>
+                			<pdist>12889.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.968293382352</lat>
+						<lon>-87.807186841965</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.967742963487</lat>
+						<lon>-87.807208299637</lon>
+
+							<typ>S</typ>
+                			<stpid>9740</stpid>
+                			<stpnm>Harlem &amp; Lawrence</stpnm>
+                			<pdist>13817.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.967352083435</lat>
+						<lon>-87.807229757309</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.967260345933</lat>
+						<lon>-87.80951499939</lon>
+
+							<typ>S</typ>
+                			<stpid>9741</stpid>
+                			<stpnm>Lawrence &amp; Octavia</stpnm>
+                			<pdist>14527.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.967204505649</lat>
+						<lon>-87.811864614487</lon>
+
+							<typ>S</typ>
+                			<stpid>9742</stpid>
+                			<stpnm>Lawrence &amp; Oketo</stpnm>
+                			<pdist>15121.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.967160631106</lat>
+						<lon>-87.814391255379</lon>
+
+							<typ>S</typ>
+                			<stpid>9743</stpid>
+                			<stpnm>Lawrence &amp; Olcott</stpnm>
+                			<pdist>15783.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.967096813535</lat>
+						<lon>-87.816853523254</lon>
+
+							<typ>S</typ>
+                			<stpid>9744</stpid>
+                			<stpnm>Lawrence &amp; Oriole</stpnm>
+                			<pdist>16447.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.967009064271</lat>
+						<lon>-87.819251418114</lon>
+
+							<typ>S</typ>
+                			<stpid>9745</stpid>
+                			<stpnm>Lawrence &amp; Overhill</stpnm>
+                			<pdist>17118.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.966933280718</lat>
+						<lon>-87.822593450546</lon>
+
+							<typ>S</typ>
+                			<stpid>9746</stpid>
+                			<stpnm>Lawrence &amp; Opal</stpnm>
+                			<pdist>18159.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.966845531228</lat>
+						<lon>-87.826595306396</lon>
+
+							<typ>S</typ>
+                			<stpid>9747</stpid>
+                			<stpnm>Lawrence &amp; Canfield</stpnm>
+                			<pdist>19125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.966801656438</lat>
+						<lon>-87.828676700592</lon>
+
+							<typ>S</typ>
+                			<stpid>9748</stpid>
+                			<stpnm>Lawrence &amp; Vine</stpnm>
+                			<pdist>19682.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.966785701962</lat>
+						<lon>-87.831020951271</lon>
+
+							<typ>S</typ>
+                			<stpid>9749</stpid>
+                			<stpnm>Lawrence &amp; Prospect</stpnm>
+                			<pdist>20465.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.966721884015</lat>
+						<lon>-87.831755876541</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.966701940894</lat>
+						<lon>-87.833150625229</lon>
+
+							<typ>S</typ>
+                			<stpid>9750</stpid>
+                			<stpnm>Lawrence &amp; Pittsburgh</stpnm>
+                			<pdist>20922.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.966642111492</lat>
+						<lon>-87.836433649063</lon>
+
+							<typ>S</typ>
+                			<stpid>9751</stpid>
+                			<stpnm>Lawrence &amp; Cumberland</stpnm>
+                			<pdist>21786.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.966646100121</lat>
+						<lon>-87.836562395096</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.968321302022</lat>
+						<lon>-87.836557030678</lon>
+
+							<typ>S</typ>
+                			<stpid>8571</stpid>
+                			<stpnm>Cumberland &amp; Ainslie</stpnm>
+                			<pdist>22392.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.970128077552</lat>
+						<lon>-87.836562395096</lon>
+
+							<typ>S</typ>
+                			<stpid>8569</stpid>
+                			<stpnm>Cumberland &amp; Argyle</stpnm>
+                			<pdist>23051.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.971208927598</lat>
+						<lon>-87.836546301842</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.971448227711</lat>
+						<lon>-87.836610674858</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.973912966562</lat>
+						<lon>-87.836594581604</lon>
+
+							<typ>S</typ>
+                			<stpid>8567</stpid>
+                			<stpnm>Cumberland &amp; Foster</stpnm>
+                			<pdist>24539.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.975587977364</lat>
+						<lon>-87.836573123932</lon>
+
+							<typ>S</typ>
+                			<stpid>8565</stpid>
+                			<stpnm>Cumberland &amp; Berwyn</stpnm>
+                			<pdist>25061.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.976967834123</lat>
+						<lon>-87.83657848835</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.977143305094</lat>
+						<lon>-87.836503386497</lon>
+
+							<typ>S</typ>
+                			<stpid>8563</stpid>
+                			<stpnm>Cumberland &amp; Catherine</stpnm>
+                			<pdist>25620.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.97803660436</lat>
+						<lon>-87.836460471153</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.979420395893</lat>
+						<lon>-87.836439013481</lon>
+
+							<typ>S</typ>
+                			<stpid>8561</stpid>
+                			<stpnm>Cumberland &amp; Bryn Mawr</stpnm>
+                			<pdist>26437.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.982132061552</lat>
+						<lon>-87.836390733719</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.982554751972</lat>
+						<lon>-87.836422920227</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.982546776707</lat>
+						<lon>-87.836728692055</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.982538801441</lat>
+						<lon>-87.837061285973</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.982550764339</lat>
+						<lon>-87.837270498276</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.982678368451</lat>
+						<lon>-87.837570905685</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

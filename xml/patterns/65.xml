@@ -1,0 +1,2979 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>1431</pid>
+				<ln>55588.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.892346533659</lat>
+						<lon>-87.610055208206</lon>
+
+							<typ>S</typ>
+                			<stpid>14162</stpid>
+                			<stpnm>Navy Pier Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.892122909767</lat>
+						<lon>-87.610033750534</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.892003110932</lat>
+						<lon>-87.611562609673</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.891975157838</lat>
+						<lon>-87.612190246582</lon>
+
+							<typ>S</typ>
+                			<stpid>759</stpid>
+                			<stpnm>Grand &amp; Streeter</stpnm>
+                			<pdist>704.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.891963177937</lat>
+						<lon>-87.613279223442</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.89192723822</lat>
+						<lon>-87.613762021065</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.891911265006</lat>
+						<lon>-87.615392804146</lon>
+
+							<typ>S</typ>
+                			<stpid>760</stpid>
+                			<stpnm>Grand &amp; Peshtigo</stpnm>
+                			<pdist>1629.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.891871331953</lat>
+						<lon>-87.617581486702</lon>
+
+							<typ>S</typ>
+                			<stpid>589</stpid>
+                			<stpnm>Grand &amp; McClurg</stpnm>
+                			<pdist>2139.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.89184737211</lat>
+						<lon>-87.620022296906</lon>
+
+							<typ>S</typ>
+                			<stpid>590</stpid>
+                			<stpnm>Grand &amp; Fairbanks/Columbus</stpnm>
+                			<pdist>2821.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.891799452396</lat>
+						<lon>-87.62254357338</lon>
+
+							<typ>S</typ>
+                			<stpid>761</stpid>
+                			<stpnm>Grand &amp; St. Clair</stpnm>
+                			<pdist>3509.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.8917675059</lat>
+						<lon>-87.624297738075</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.891743546018</lat>
+						<lon>-87.625740766525</lon>
+
+							<typ>S</typ>
+                			<stpid>16028</stpid>
+                			<stpnm>Grand &amp; Rush</stpnm>
+                			<pdist>4368.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.891695626226</lat>
+						<lon>-87.627789974213</lon>
+
+							<typ>S</typ>
+                			<stpid>764</stpid>
+                			<stpnm>Grand &amp; State (Red Line)</stpnm>
+                			<pdist>4965.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.891683646272</lat>
+						<lon>-87.629565596581</lon>
+
+							<typ>S</typ>
+                			<stpid>765</stpid>
+                			<stpnm>Grand &amp; Dearborn</stpnm>
+                			<pdist>5394.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.891663679678</lat>
+						<lon>-87.63095498085</lon>
+
+							<typ>S</typ>
+                			<stpid>766</stpid>
+                			<stpnm>Grand &amp; Clark</stpnm>
+                			<pdist>5804.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.891639719757</lat>
+						<lon>-87.632789611816</lon>
+
+							<typ>S</typ>
+                			<stpid>15549</stpid>
+                			<stpnm>Grand &amp; LaSalle</stpnm>
+                			<pdist>6345.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.891615759826</lat>
+						<lon>-87.63419508934</lon>
+
+							<typ>S</typ>
+                			<stpid>769</stpid>
+                			<stpnm>Grand &amp; Franklin</stpnm>
+                			<pdist>7004.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.891563846613</lat>
+						<lon>-87.637370824814</lon>
+
+							<typ>S</typ>
+                			<stpid>15289</stpid>
+                			<stpnm>Grand &amp; Orleans</stpnm>
+                			<pdist>7531.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.891519920015</lat>
+						<lon>-87.639752626419</lon>
+
+							<typ>S</typ>
+                			<stpid>771</stpid>
+                			<stpnm>Grand &amp; Kingsbury</stpnm>
+                			<pdist>8165.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.891511933357</lat>
+						<lon>-87.639988660812</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.891412100055</lat>
+						<lon>-87.641587257385</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.891320253279</lat>
+						<lon>-87.642778158188</lon>
+
+							<typ>S</typ>
+                			<stpid>772</stpid>
+                			<stpnm>530 W Grand</stpnm>
+                			<pdist>8974.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.891292299887</lat>
+						<lon>-87.643175125122</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.891252366447</lat>
+						<lon>-87.64465034008</lon>
+
+							<typ>S</typ>
+                			<stpid>15672</stpid>
+                			<stpnm>Grand &amp; Desplaines</stpnm>
+                			<pdist>9511.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.891244379756</lat>
+						<lon>-87.644784450531</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.891208439635</lat>
+						<lon>-87.648142576218</lon>
+
+							<typ>S</typ>
+                			<stpid>14774</stpid>
+                			<stpnm>Grand &amp; Milwaukee (Blue Line)</stpnm>
+                			<pdist>10483.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.891192466241</lat>
+						<lon>-87.649848461151</lon>
+
+							<typ>S</typ>
+                			<stpid>776</stpid>
+                			<stpnm>Grand &amp; Peoria</stpnm>
+                			<pdist>10885.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.891176492843</lat>
+						<lon>-87.652444839478</lon>
+
+							<typ>S</typ>
+                			<stpid>15174</stpid>
+                			<stpnm>Grand &amp; Morgan</stpnm>
+                			<pdist>11654.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.891144546036</lat>
+						<lon>-87.654526233673</lon>
+
+							<typ>S</typ>
+                			<stpid>778</stpid>
+                			<stpnm>Grand &amp; Aberdeen</stpnm>
+                			<pdist>12137.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.891112599212</lat>
+						<lon>-87.657240629196</lon>
+
+							<typ>S</typ>
+                			<stpid>780</stpid>
+                			<stpnm>Grand &amp; Racine</stpnm>
+                			<pdist>12893.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.89112058592</lat>
+						<lon>-87.658656835556</lon>
+
+							<typ>S</typ>
+                			<stpid>781</stpid>
+                			<stpnm>Grand &amp; Ogden</stpnm>
+                			<pdist>13294.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.891076659017</lat>
+						<lon>-87.662090063095</lon>
+
+							<typ>S</typ>
+                			<stpid>782</stpid>
+                			<stpnm>Grand &amp; Noble</stpnm>
+                			<pdist>14216.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.891040718801</lat>
+						<lon>-87.665394544601</lon>
+
+							<typ>S</typ>
+                			<stpid>783</stpid>
+                			<stpnm>Grand &amp; Armour</stpnm>
+                			<pdist>15124.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.891016758646</lat>
+						<lon>-87.666960954666</lon>
+
+							<typ>S</typ>
+                			<stpid>784</stpid>
+                			<stpnm>Grand &amp; Ashland</stpnm>
+                			<pdist>15551.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.891016758646</lat>
+						<lon>-87.668350338936</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.890984811759</lat>
+						<lon>-87.669471502304</lon>
+
+							<typ>S</typ>
+                			<stpid>785</stpid>
+                			<stpnm>Grand &amp; Paulina</stpnm>
+                			<pdist>16226.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.890956858219</lat>
+						<lon>-87.67190694809</lon>
+
+							<typ>S</typ>
+                			<stpid>786</stpid>
+                			<stpnm>Grand &amp; Wood</stpnm>
+                			<pdist>16898.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.890924911302</lat>
+						<lon>-87.674369215965</lon>
+
+							<typ>S</typ>
+                			<stpid>787</stpid>
+                			<stpnm>Grand &amp; Wolcott</stpnm>
+                			<pdist>17571.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.890849037309</lat>
+						<lon>-87.67672419548</lon>
+
+							<typ>S</typ>
+                			<stpid>788</stpid>
+                			<stpnm>Grand &amp; Damen</stpnm>
+                			<pdist>18210.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.890825077082</lat>
+						<lon>-87.679224014282</lon>
+
+							<typ>S</typ>
+                			<stpid>789</stpid>
+                			<stpnm>Grand &amp; Hoyne</stpnm>
+                			<pdist>18897.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.890785143351</lat>
+						<lon>-87.68162727356</lon>
+
+							<typ>S</typ>
+                			<stpid>790</stpid>
+                			<stpnm>Grand &amp; Leavitt</stpnm>
+                			<pdist>19577.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.890725242706</lat>
+						<lon>-87.684116363525</lon>
+
+							<typ>S</typ>
+                			<stpid>791</stpid>
+                			<stpnm>Grand &amp; Oakley</stpnm>
+                			<pdist>20246.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.890689302293</lat>
+						<lon>-87.686455249786</lon>
+
+							<typ>S</typ>
+                			<stpid>15340</stpid>
+                			<stpnm>Grand &amp; Western</stpnm>
+                			<pdist>21095.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.890661348624</lat>
+						<lon>-87.687276005745</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.890892964368</lat>
+						<lon>-87.6878875494</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.891531899999</lat>
+						<lon>-87.689534425735</lon>
+
+							<typ>S</typ>
+                			<stpid>15338</stpid>
+                			<stpnm>Grand &amp; Campbell</stpnm>
+                			<pdist>21833.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.892354520212</lat>
+						<lon>-87.691562175751</lon>
+
+							<typ>S</typ>
+                			<stpid>794</stpid>
+                			<stpnm>Grand &amp; Rockwell</stpnm>
+                			<pdist>22286.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.892797772343</lat>
+						<lon>-87.692656517029</lon>
+
+							<typ>S</typ>
+                			<stpid>795</stpid>
+                			<stpnm>Grand &amp; Talman</stpnm>
+                			<pdist>22645.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.893364811124</lat>
+						<lon>-87.694072723389</lon>
+
+							<typ>S</typ>
+                			<stpid>796</stpid>
+                			<stpnm>Grand &amp; Washtenaw</stpnm>
+                			<pdist>23083.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.894195394055</lat>
+						<lon>-87.696229219437</lon>
+
+							<typ>S</typ>
+                			<stpid>797</stpid>
+                			<stpnm>Grand &amp; California</stpnm>
+                			<pdist>23855.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.89528551776</lat>
+						<lon>-87.69894361496</lon>
+
+							<typ>S</typ>
+                			<stpid>798</stpid>
+                			<stpnm>Grand &amp; Chicago</stpnm>
+                			<pdist>24750.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.896423539139</lat>
+						<lon>-87.701743841171</lon>
+
+							<typ>S</typ>
+                			<stpid>799</stpid>
+                			<stpnm>Grand &amp; Sacramento</stpnm>
+                			<pdist>25463.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.897014503646</lat>
+						<lon>-87.703213691711</lon>
+
+							<typ>S</typ>
+                			<stpid>800</stpid>
+                			<stpnm>Grand &amp; Sacramento</stpnm>
+                			<pdist>25826.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.897266061202</lat>
+						<lon>-87.703857421875</lon>
+
+							<typ>S</typ>
+                			<stpid>801</stpid>
+                			<stpnm>Grand &amp; Albany</stpnm>
+                			<pdist>26188.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.898212387895</lat>
+						<lon>-87.706325054169</lon>
+
+							<typ>S</typ>
+                			<stpid>802</stpid>
+                			<stpnm>Grand &amp; Kedzie</stpnm>
+                			<pdist>26952.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.898368111197</lat>
+						<lon>-87.706684470177</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.899002979191</lat>
+						<lon>-87.708256244659</lon>
+
+							<typ>S</typ>
+                			<stpid>803</stpid>
+                			<stpnm>Grand &amp; Augusta</stpnm>
+                			<pdist>27535.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.899809531943</lat>
+						<lon>-87.710246443748</lon>
+
+							<typ>S</typ>
+                			<stpid>17263</stpid>
+                			<stpnm>Grand &amp; Christiana</stpnm>
+                			<pdist>28175.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.900224782852</lat>
+						<lon>-87.711265683174</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.900256725118</lat>
+						<lon>-87.711426615715</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.900168883849</lat>
+						<lon>-87.711566090584</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.900093020837</lat>
+						<lon>-87.711786031723</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.900484313299</lat>
+						<lon>-87.712317109108</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.90080373394</lat>
+						<lon>-87.712730169296</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.901067254766</lat>
+						<lon>-87.713459730148</lon>
+
+							<typ>S</typ>
+                			<stpid>805</stpid>
+                			<stpnm>Grand &amp; Thomas</stpnm>
+                			<pdist>29292.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.901841839988</lat>
+						<lon>-87.715364098549</lon>
+
+							<typ>S</typ>
+                			<stpid>806</stpid>
+                			<stpnm>Grand &amp; Drake</stpnm>
+                			<pdist>29814.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.902608430543</lat>
+						<lon>-87.717300653458</lon>
+
+							<typ>S</typ>
+                			<stpid>808</stpid>
+                			<stpnm>Grand &amp; Division</stpnm>
+                			<pdist>30412.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.90349878198</lat>
+						<lon>-87.719505429268</lon>
+
+							<typ>S</typ>
+                			<stpid>809</stpid>
+                			<stpnm>Grand &amp; Lawndale</stpnm>
+                			<pdist>31127.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.90444102379</lat>
+						<lon>-87.721876502037</lon>
+
+							<typ>S</typ>
+                			<stpid>15557</stpid>
+                			<stpnm>Grand &amp; Hamlin</stpnm>
+                			<pdist>31849.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.905139711069</lat>
+						<lon>-87.723673582077</lon>
+
+							<typ>S</typ>
+                			<stpid>811</stpid>
+                			<stpnm>Grand &amp; Springfield</stpnm>
+                			<pdist>32404.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.905738579794</lat>
+						<lon>-87.725159525871</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.906277556844</lat>
+						<lon>-87.726575732231</lon>
+
+							<typ>S</typ>
+                			<stpid>812</stpid>
+                			<stpnm>Grand &amp; Pulaski</stpnm>
+                			<pdist>33179.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.907171849465</lat>
+						<lon>-87.728748321533</lon>
+
+							<typ>S</typ>
+                			<stpid>813</stpid>
+                			<stpnm>Grand &amp; Karlov</stpnm>
+                			<pdist>33945.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.907670891242</lat>
+						<lon>-87.730084061623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.908157952253</lat>
+						<lon>-87.731248140335</lon>
+
+							<typ>S</typ>
+                			<stpid>814</stpid>
+                			<stpnm>Grand &amp; Keeler</stpnm>
+                			<pdist>34718.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.908688924369</lat>
+						<lon>-87.732632160187</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.90897237384</lat>
+						<lon>-87.733340263367</lon>
+
+							<typ>S</typ>
+                			<stpid>815</stpid>
+                			<stpnm>Grand &amp; Kildare</stpnm>
+                			<pdist>35447.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.909698956878</lat>
+						<lon>-87.735115885735</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.910042284447</lat>
+						<lon>-87.736038565636</lon>
+
+							<typ>S</typ>
+                			<stpid>817</stpid>
+                			<stpnm>Grand &amp; Kostner</stpnm>
+                			<pdist>36109.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.91100439024</lat>
+						<lon>-87.738463282585</lon>
+
+							<typ>S</typ>
+                			<stpid>818</stpid>
+                			<stpnm>Grand &amp; Kilbourn</stpnm>
+                			<pdist>36849.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.911986441778</lat>
+						<lon>-87.740968465805</lon>
+
+							<typ>S</typ>
+                			<stpid>819</stpid>
+                			<stpnm>Grand &amp; Kenton </stpnm>
+                			<pdist>37411.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.912904606379</lat>
+						<lon>-87.743285894394</lon>
+
+							<typ>S</typ>
+                			<stpid>820</stpid>
+                			<stpnm>4700 W Grand</stpnm>
+                			<pdist>38303.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.913886628682</lat>
+						<lon>-87.74582862854</lon>
+
+							<typ>S</typ>
+                			<stpid>821</stpid>
+                			<stpnm>Grand &amp; Cicero</stpnm>
+                			<pdist>39019.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.91432973136</lat>
+						<lon>-87.746906876564</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.914349690867</lat>
+						<lon>-87.747046351433</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.914429528836</lat>
+						<lon>-87.748011946678</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.914449488312</lat>
+						<lon>-87.748151421547</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.914505374813</lat>
+						<lon>-87.748269438744</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.914960448784</lat>
+						<lon>-87.748650312424</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.91510415568</lat>
+						<lon>-87.748821973801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.915251854097</lat>
+						<lon>-87.749261856079</lon>
+
+							<typ>S</typ>
+                			<stpid>822</stpid>
+                			<stpnm>Grand &amp; Lamon</stpnm>
+                			<pdist>40143.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.916641000859</lat>
+						<lon>-87.752754092216</lon>
+
+							<typ>S</typ>
+                			<stpid>823</stpid>
+                			<stpnm>Grand &amp; Leclaire/Armitage</stpnm>
+                			<pdist>41214.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.916880505866</lat>
+						<lon>-87.753333449364</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.91688848935</lat>
+						<lon>-87.754138112068</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.916964332406</lat>
+						<lon>-87.755892276764</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.917036183638</lat>
+						<lon>-87.756262421608</lon>
+
+							<typ>S</typ>
+                			<stpid>3883</stpid>
+                			<stpnm>Grand &amp; Laramie</stpnm>
+                			<pdist>42210.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.917395438586</lat>
+						<lon>-87.758252620697</lon>
+
+							<typ>S</typ>
+                			<stpid>826</stpid>
+                			<stpnm>Grand &amp; Lockwood </stpnm>
+                			<pdist>42903.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.918026125714</lat>
+						<lon>-87.761557102203</lon>
+
+							<typ>S</typ>
+                			<stpid>15450</stpid>
+                			<stpnm>Grand &amp; Long</stpnm>
+                			<pdist>43573.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.918325500334</lat>
+						<lon>-87.763241529465</lon>
+
+							<typ>S</typ>
+                			<stpid>828</stpid>
+                			<stpnm>5500 W Grand</stpnm>
+                			<pdist>44217.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.918888320818</lat>
+						<lon>-87.766320705414</lon>
+
+							<typ>S</typ>
+                			<stpid>829</stpid>
+                			<stpnm>Grand &amp; Central </stpnm>
+                			<pdist>45033.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.919000085997</lat>
+						<lon>-87.766932249069</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.919259540122</lat>
+						<lon>-87.768284082413</lon>
+
+							<typ>S</typ>
+                			<stpid>830</stpid>
+                			<stpnm>Grand &amp; Major</stpnm>
+                			<pdist>45659.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.919734538017</lat>
+						<lon>-87.770955562592</lon>
+
+							<typ>S</typ>
+                			<stpid>15337</stpid>
+                			<stpnm>Grand &amp; Menard</stpnm>
+                			<pdist>46489.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.920121718561</lat>
+						<lon>-87.772967219353</lon>
+
+							<typ>S</typ>
+                			<stpid>832</stpid>
+                			<stpnm>Grand &amp; Marmora</stpnm>
+                			<pdist>47043.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.920560786437</lat>
+						<lon>-87.775408029556</lon>
+
+							<typ>S</typ>
+                			<stpid>833</stpid>
+                			<stpnm>Grand &amp; Austin</stpnm>
+                			<pdist>47714.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.921035774647</lat>
+						<lon>-87.777977585793</lon>
+
+							<typ>S</typ>
+                			<stpid>834</stpid>
+                			<stpnm>Grand &amp; Meade</stpnm>
+                			<pdist>48416.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.921259297287</lat>
+						<lon>-87.779227495193</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.921542690937</lat>
+						<lon>-87.780772447586</lon>
+
+							<typ>S</typ>
+                			<stpid>15335</stpid>
+                			<stpnm>Grand &amp; Melvina</stpnm>
+                			<pdist>49299.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.921925869082</lat>
+						<lon>-87.782810926437</lon>
+
+							<typ>S</typ>
+                			<stpid>836</stpid>
+                			<stpnm>Grand &amp; Mobile</stpnm>
+                			<pdist>49808.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.922285096503</lat>
+						<lon>-87.784130573273</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.922648313284</lat>
+						<lon>-87.785283923149</lon>
+
+							<typ>S</typ>
+                			<stpid>837</stpid>
+                			<stpnm>Grand &amp; Narragansett</stpnm>
+                			<pdist>50530.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.923019510715</lat>
+						<lon>-87.786539196968</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.923127277307</lat>
+						<lon>-87.786903977394</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.923187147557</lat>
+						<lon>-87.787129282951</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.923227061026</lat>
+						<lon>-87.787408232689</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.923262983126</lat>
+						<lon>-87.787697911263</lon>
+
+							<typ>S</typ>
+                			<stpid>838</stpid>
+                			<stpnm>Grand &amp; Natchez</stpnm>
+                			<pdist>51131.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.923306887888</lat>
+						<lon>-87.787864208221</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.923386714651</lat>
+						<lon>-87.788041234016</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.923450575989</lat>
+						<lon>-87.788164615631</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.923690055439</lat>
+						<lon>-87.788545489311</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.923670098852</lat>
+						<lon>-87.790310382843</lon>
+
+							<typ>S</typ>
+                			<stpid>15517</stpid>
+                			<stpnm>Fullerton &amp; Grand</stpnm>
+                			<pdist>51813.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.92364615094</lat>
+						<lon>-87.79260635376</lon>
+
+							<typ>S</typ>
+                			<stpid>840</stpid>
+                			<stpnm>Grand &amp; Normandy </stpnm>
+                			<pdist>52664.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.923622203019</lat>
+						<lon>-87.795422673225</lon>
+
+							<typ>S</typ>
+                			<stpid>14809</stpid>
+                			<stpnm>Grand &amp; Oak Park</stpnm>
+                			<pdist>53333.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.923606237734</lat>
+						<lon>-87.797498703003</lon>
+
+							<typ>S</typ>
+                			<stpid>842</stpid>
+                			<stpnm>Grand &amp; New England </stpnm>
+                			<pdist>53998.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.923582289798</lat>
+						<lon>-87.80085682869</lon>
+
+							<typ>S</typ>
+                			<stpid>844</stpid>
+                			<stpnm>Grand &amp; Sayre</stpnm>
+                			<pdist>54828.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.923570315827</lat>
+						<lon>-87.80159175396</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.924009359974</lat>
+						<lon>-87.801602482796</lon>
+
+							<typ>S</typ>
+                			<stpid>668</stpid>
+                			<stpnm>Grand &amp; Nordica Terminal</stpnm>
+                			<pdist>55588.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>2097</pid>
+				<ln>56123.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.924009359974</lat>
+						<lon>-87.801602482796</lon>
+
+							<typ>S</typ>
+                			<stpid>668</stpid>
+                			<stpnm>Grand &amp; Nordica Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.924009359974</lat>
+						<lon>-87.802015542984</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.923506454608</lat>
+						<lon>-87.801977992058</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.923518428591</lat>
+						<lon>-87.800862193108</lon>
+
+							<typ>S</typ>
+                			<stpid>669</stpid>
+                			<stpnm>Grand &amp; Sayre</stpnm>
+                			<pdist>235.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.923534393899</lat>
+						<lon>-87.799022197723</lon>
+
+							<typ>S</typ>
+                			<stpid>670</stpid>
+                			<stpnm>Grand &amp; Newland</stpnm>
+                			<pdist>704.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.923546367877</lat>
+						<lon>-87.797192931175</lon>
+
+							<typ>S</typ>
+                			<stpid>671</stpid>
+                			<stpnm>Grand &amp; Newcastle </stpnm>
+                			<pdist>1239.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.923558341853</lat>
+						<lon>-87.795417308807</lon>
+
+							<typ>S</typ>
+                			<stpid>672</stpid>
+                			<stpnm>Grand &amp; Oak Park</stpnm>
+                			<pdist>1698.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.923591666667</lat>
+						<lon>-87.791960000001</lon>
+
+							<typ>S</typ>
+                			<stpid>17567</stpid>
+                			<stpnm>Grand &amp; Normandy</stpnm>
+                			<pdist>2649.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.923602246412</lat>
+						<lon>-87.790744900703</lon>
+
+							<typ>S</typ>
+                			<stpid>15516</stpid>
+                			<stpnm>Fullerton &amp; Grand</stpnm>
+                			<pdist>2984.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.92362619434</lat>
+						<lon>-87.789044380188</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.923418645328</lat>
+						<lon>-87.788379192352</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.923334827267</lat>
+						<lon>-87.788202166557</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.923338818605</lat>
+						<lon>-87.788073420525</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.923235043716</lat>
+						<lon>-87.787832021713</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.923183156208</lat>
+						<lon>-87.787654995918</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.923167190813</lat>
+						<lon>-87.787515521049</lon>
+
+							<typ>S</typ>
+                			<stpid>15270</stpid>
+                			<stpnm>Grand &amp; Natchez</stpnm>
+                			<pdist>3879.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.923151225413</lat>
+						<lon>-87.787317037582</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.923123285955</lat>
+						<lon>-87.787150740623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.922588442528</lat>
+						<lon>-87.785321474075</lon>
+
+							<typ>S</typ>
+                			<stpid>14810</stpid>
+                			<stpnm>Grand &amp; Narragansett</stpnm>
+                			<pdist>4628.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.922225225407</lat>
+						<lon>-87.784173488617</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.921917886227</lat>
+						<lon>-87.783073782921</lon>
+
+							<typ>S</typ>
+                			<stpid>677</stpid>
+                			<stpnm>Grand &amp; Mobile</stpnm>
+                			<pdist>5143.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.921865997649</lat>
+						<lon>-87.78288602829</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.921387024158</lat>
+						<lon>-87.780273556709</lon>
+
+							<typ>S</typ>
+                			<stpid>15334</stpid>
+                			<stpnm>Grand &amp; Melvina</stpnm>
+                			<pdist>6032.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.921195433755</lat>
+						<lon>-87.779227495193</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.920935987501</lat>
+						<lon>-87.777811288834</lon>
+
+							<typ>S</typ>
+                			<stpid>15336</stpid>
+                			<stpnm>Grand &amp; Meade</stpnm>
+                			<pdist>6501.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.920548811899</lat>
+						<lon>-87.775713801384</lon>
+
+							<typ>S</typ>
+                			<stpid>680</stpid>
+                			<stpnm>Grand &amp; Austin</stpnm>
+                			<pdist>7193.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.920317303715</lat>
+						<lon>-87.77433514595</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.92011373548</lat>
+						<lon>-87.773256897926</lon>
+
+							<typ>S</typ>
+                			<stpid>681</stpid>
+                			<stpnm>Grand &amp; Marmora</stpnm>
+                			<pdist>7890.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.919538951077</lat>
+						<lon>-87.770258188248</lon>
+
+							<typ>S</typ>
+                			<stpid>15256</stpid>
+                			<stpnm>Grand &amp; Menard</stpnm>
+                			<pdist>8746.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.919207649381</lat>
+						<lon>-87.768353819847</lon>
+
+							<typ>S</typ>
+                			<stpid>683</stpid>
+                			<stpnm>Grand &amp; Major</stpnm>
+                			<pdist>9277.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.918956178271</lat>
+						<lon>-87.767007350922</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.918692731283</lat>
+						<lon>-87.765564322472</lon>
+
+							<typ>S</typ>
+                			<stpid>16083</stpid>
+                			<stpnm>Grand &amp; Central</stpnm>
+                			<pdist>10070.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.91825764221</lat>
+						<lon>-87.76317179203</lon>
+
+							<typ>S</typ>
+                			<stpid>685</stpid>
+                			<stpnm>5500 W Grand</stpnm>
+                			<pdist>10826.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.917846500268</lat>
+						<lon>-87.760999202728</lon>
+
+							<typ>S</typ>
+                			<stpid>686</stpid>
+                			<stpnm>Grand &amp; Long</stpnm>
+                			<pdist>11351.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.917211819643</lat>
+						<lon>-87.757624983788</lon>
+
+							<typ>S</typ>
+                			<stpid>688</stpid>
+                			<stpnm>Grand &amp; Latrobe </stpnm>
+                			<pdist>12284.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.916936390238</lat>
+						<lon>-87.756106853485</lon>
+
+							<typ>S</typ>
+                			<stpid>689</stpid>
+                			<stpnm>Grand &amp; Laramie</stpnm>
+                			<pdist>12727.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.916900464576</lat>
+						<lon>-87.7559030056</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.916816637952</lat>
+						<lon>-87.753526568413</lon>
+
+							<typ>S</typ>
+                			<stpid>690</stpid>
+                			<stpnm>Grand &amp; Leclaire/Armitage</stpnm>
+                			<pdist>13429.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.916816637952</lat>
+						<lon>-87.753381729126</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.916585116228</lat>
+						<lon>-87.752786278725</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.915251854097</lat>
+						<lon>-87.7494764328</lon>
+
+							<typ>S</typ>
+                			<stpid>691</stpid>
+                			<stpnm>Grand &amp; Lamon</stpnm>
+                			<pdist>14666.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.915040285989</lat>
+						<lon>-87.748848795891</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.91492452201</lat>
+						<lon>-87.74871468544</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.914473439676</lat>
+						<lon>-87.748339176178</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.91441356125</lat>
+						<lon>-87.748247981071</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.914377634168</lat>
+						<lon>-87.748097777367</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.91427783661</lat>
+						<lon>-87.746939063072</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.913950499528</lat>
+						<lon>-87.74615585804</lon>
+
+							<typ>S</typ>
+                			<stpid>692</stpid>
+                			<stpnm>Grand &amp; Cicero</stpnm>
+                			<pdist>15736.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.912972470195</lat>
+						<lon>-87.743634581566</lon>
+
+							<typ>S</typ>
+                			<stpid>693</stpid>
+                			<stpnm>4701 W Grand</stpnm>
+                			<pdist>16496.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.912154107604</lat>
+						<lon>-87.741563916206</lon>
+
+							<typ>S</typ>
+                			<stpid>694</stpid>
+                			<stpnm>Grand &amp; Kenton </stpnm>
+                			<pdist>17498.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.911020358678</lat>
+						<lon>-87.738699316978</lon>
+
+							<typ>S</typ>
+                			<stpid>695</stpid>
+                			<stpnm>Grand &amp; Kilbourn</stpnm>
+                			<pdist>18038.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.910122127803</lat>
+						<lon>-87.73640871048</lon>
+
+							<typ>S</typ>
+                			<stpid>696</stpid>
+                			<stpnm>Grand &amp; Kostner</stpnm>
+                			<pdist>18775.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.909635081778</lat>
+						<lon>-87.735131978989</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.909160008713</lat>
+						<lon>-87.734005451202</lon>
+
+							<typ>S</typ>
+                			<stpid>698</stpid>
+                			<stpnm>Grand &amp; Kildare</stpnm>
+                			<pdist>19499.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.908633032775</lat>
+						<lon>-87.732664346695</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.908042175792</lat>
+						<lon>-87.731135487556</lon>
+
+							<typ>S</typ>
+                			<stpid>15559</stpid>
+                			<stpnm>Grand &amp; Keeler</stpnm>
+                			<pdist>20455.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.907607014112</lat>
+						<lon>-87.730073332787</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.907187818863</lat>
+						<lon>-87.72897362709</lon>
+
+							<typ>S</typ>
+                			<stpid>700</stpid>
+                			<stpnm>Grand &amp; Karlov</stpnm>
+                			<pdist>21016.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.906030027208</lat>
+						<lon>-87.726125121117</lon>
+
+							<typ>S</typ>
+                			<stpid>17159</stpid>
+                			<stpnm>Grand &amp; Pulaski</stpnm>
+                			<pdist>21937.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.905195605721</lat>
+						<lon>-87.723995447159</lon>
+
+							<typ>S</typ>
+                			<stpid>702</stpid>
+                			<stpnm>Grand &amp; Springfield</stpnm>
+                			<pdist>22529.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.904261360111</lat>
+						<lon>-87.721602916718</lon>
+
+							<typ>S</typ>
+                			<stpid>703</stpid>
+                			<stpnm>Grand &amp; Hamlin</stpnm>
+                			<pdist>23293.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.903466841336</lat>
+						<lon>-87.719623446465</lon>
+
+							<typ>S</typ>
+                			<stpid>704</stpid>
+                			<stpnm>Grand &amp; Lawndale</stpnm>
+                			<pdist>23926.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.902576489454</lat>
+						<lon>-87.717413306236</lon>
+
+							<typ>S</typ>
+                			<stpid>15560</stpid>
+                			<stpnm>Grand &amp; Division</stpnm>
+                			<pdist>24568.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.901666161689</lat>
+						<lon>-87.715101242065</lon>
+
+							<typ>S</typ>
+                			<stpid>707</stpid>
+                			<stpnm>Grand &amp; Drake</stpnm>
+                			<pdist>25236.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.901087218421</lat>
+						<lon>-87.713695764542</lon>
+
+							<typ>S</typ>
+                			<stpid>708</stpid>
+                			<stpnm>Grand &amp; Thomas</stpnm>
+                			<pdist>25683.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.900747835443</lat>
+						<lon>-87.712783813477</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.900176869424</lat>
+						<lon>-87.712032794952</lon>
+
+							<typ>S</typ>
+                			<stpid>709</stpid>
+                			<stpnm>Grand &amp; Homan</stpnm>
+                			<pdist>26171.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.900029136126</lat>
+						<lon>-87.711812853813</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.900108992005</lat>
+						<lon>-87.71154999733</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.900204818928</lat>
+						<lon>-87.711383700371</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.899470142175</lat>
+						<lon>-87.709575891495</lon>
+
+							<typ>S</typ>
+                			<stpid>710</stpid>
+                			<stpnm>Grand &amp; Augusta</stpnm>
+                			<pdist>27114.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.898591713223</lat>
+						<lon>-87.707408666611</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.898300231856</lat>
+						<lon>-87.706673741341</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.898140515474</lat>
+						<lon>-87.706298232079</lon>
+
+							<typ>S</typ>
+                			<stpid>15175</stpid>
+                			<stpnm>Grand &amp; Kedzie</stpnm>
+                			<pdist>28052.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.897369878317</lat>
+						<lon>-87.70430803299</lon>
+
+							<typ>S</typ>
+                			<stpid>712</stpid>
+                			<stpnm>Grand &amp; Albany</stpnm>
+                			<pdist>28645.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.896862770037</lat>
+						<lon>-87.703042030334</lon>
+
+							<typ>S</typ>
+                			<stpid>713</stpid>
+                			<stpnm>Grand &amp; Sacramento</stpnm>
+                			<pdist>29135.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.896463469346</lat>
+						<lon>-87.702044248581</lon>
+
+							<typ>S</typ>
+                			<stpid>714</stpid>
+                			<stpnm>Grand &amp; Sacramento Blvd.</stpnm>
+                			<pdist>29384.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.895840555282</lat>
+						<lon>-87.70052075386</lon>
+
+							<typ>S</typ>
+                			<stpid>715</stpid>
+                			<stpnm>Grand &amp; Chicago</stpnm>
+                			<pdist>29807.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.894323175085</lat>
+						<lon>-87.696706652641</lon>
+
+							<typ>S</typ>
+                			<stpid>716</stpid>
+                			<stpnm>Grand &amp; California</stpnm>
+                			<pdist>30969.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.893360817911</lat>
+						<lon>-87.694265842438</lon>
+
+							<typ>S</typ>
+                			<stpid>717</stpid>
+                			<stpnm>Grand &amp; Washtenaw</stpnm>
+                			<pdist>31700.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.892809752087</lat>
+						<lon>-87.69287109375</lon>
+
+							<typ>S</typ>
+                			<stpid>718</stpid>
+                			<stpnm>Grand &amp; Talman</stpnm>
+                			<pdist>32153.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.892362506764</lat>
+						<lon>-87.691766023636</lon>
+
+							<typ>S</typ>
+                			<stpid>719</stpid>
+                			<stpnm>Grand &amp; Rockwell</stpnm>
+                			<pdist>32473.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.891372166691</lat>
+						<lon>-87.689309120178</lon>
+
+							<typ>S</typ>
+                			<stpid>720</stpid>
+                			<stpnm>Grand &amp; Campbell</stpnm>
+                			<pdist>33262.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.890880984264</lat>
+						<lon>-87.688043117523</lon>
+
+							<typ>S</typ>
+                			<stpid>15339</stpid>
+                			<stpnm>Grand &amp; Artesian</stpnm>
+                			<pdist>33642.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.89060544125</lat>
+						<lon>-87.687340378761</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.890617421405</lat>
+						<lon>-87.686905860901</lon>
+
+							<typ>S</typ>
+                			<stpid>721</stpid>
+                			<stpnm>Grand &amp; Western</stpnm>
+                			<pdist>33990.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.890665342006</lat>
+						<lon>-87.684363126755</lon>
+
+							<typ>S</typ>
+                			<stpid>722</stpid>
+                			<stpnm>Grand &amp; Oakley</stpnm>
+                			<pdist>34666.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.890721249328</lat>
+						<lon>-87.681911587715</lon>
+
+							<typ>S</typ>
+                			<stpid>723</stpid>
+                			<stpnm>Grand &amp; Leavitt</stpnm>
+                			<pdist>35296.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.890749202971</lat>
+						<lon>-87.679460048676</lon>
+
+							<typ>S</typ>
+                			<stpid>724</stpid>
+                			<stpnm>Grand &amp; Hoyne</stpnm>
+                			<pdist>35997.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.890785143351</lat>
+						<lon>-87.677013874054</lon>
+
+							<typ>S</typ>
+                			<stpid>725</stpid>
+                			<stpnm>Grand &amp; Damen</stpnm>
+                			<pdist>36665.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.890849037309</lat>
+						<lon>-87.674578428268</lon>
+
+							<typ>S</typ>
+                			<stpid>726</stpid>
+                			<stpnm>Grand &amp; Wolcott</stpnm>
+                			<pdist>37304.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.890892964368</lat>
+						<lon>-87.672148346901</lon>
+
+							<typ>S</typ>
+                			<stpid>727</stpid>
+                			<stpnm>Grand &amp; Wood</stpnm>
+                			<pdist>38014.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.89091692457</lat>
+						<lon>-87.66972899437</lon>
+
+							<typ>S</typ>
+                			<stpid>728</stpid>
+                			<stpnm>Grand &amp; Paulina</stpnm>
+                			<pdist>38686.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.890948871491</lat>
+						<lon>-87.667309641838</lon>
+
+							<typ>S</typ>
+                			<stpid>729</stpid>
+                			<stpnm>Grand &amp; Ashland</stpnm>
+                			<pdist>39329.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.890968838309</lat>
+						<lon>-87.665619850159</lon>
+
+							<typ>S</typ>
+                			<stpid>730</stpid>
+                			<stpnm>Grand &amp; Armour</stpnm>
+                			<pdist>39789.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.891000785204</lat>
+						<lon>-87.662369012833</lon>
+
+							<typ>S</typ>
+                			<stpid>731</stpid>
+                			<stpnm>Grand &amp; Noble</stpnm>
+                			<pdist>40680.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.891048705517</lat>
+						<lon>-87.6586997509</lon>
+
+							<typ>S</typ>
+                			<stpid>14588</stpid>
+                			<stpnm>Grand &amp; Ogden</stpnm>
+                			<pdist>41705.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.891052698875</lat>
+						<lon>-87.657154798508</lon>
+
+							<typ>S</typ>
+                			<stpid>15135</stpid>
+                			<stpnm>Grand &amp; Racine</stpnm>
+                			<pdist>42113.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.89109263244</lat>
+						<lon>-87.654740810394</lon>
+
+							<typ>S</typ>
+                			<stpid>735</stpid>
+                			<stpnm>Grand &amp; Aberdeen</stpnm>
+                			<pdist>42723.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.891116592566</lat>
+						<lon>-87.652455568314</lon>
+
+							<typ>S</typ>
+                			<stpid>736</stpid>
+                			<stpnm>Grand &amp; Morgan</stpnm>
+                			<pdist>43350.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.891128572626</lat>
+						<lon>-87.649869918823</lon>
+
+							<typ>S</typ>
+                			<stpid>737</stpid>
+                			<stpnm>Grand &amp; Peoria</stpnm>
+                			<pdist>44100.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.891144546036</lat>
+						<lon>-87.647788524628</lon>
+
+							<typ>S</typ>
+                			<stpid>738</stpid>
+                			<stpnm>Grand &amp; Halsted/Milwaukee (Blue Line)</stpnm>
+                			<pdist>44610.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.891164512792</lat>
+						<lon>-87.645900249481</lon>
+
+							<typ>S</typ>
+                			<stpid>739</stpid>
+                			<stpnm>Grand &amp; Union</stpnm>
+                			<pdist>45108.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.891188472892</lat>
+						<lon>-87.644773721695</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.891212432983</lat>
+						<lon>-87.643636465073</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.891228406371</lat>
+						<lon>-87.643132209778</lon>
+
+							<typ>S</typ>
+                			<stpid>741</stpid>
+                			<stpnm>530 W Grand</stpnm>
+                			<pdist>45857.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.89134820666</lat>
+						<lon>-87.641721367836</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.891364180015</lat>
+						<lon>-87.641420960426</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.891392133376</lat>
+						<lon>-87.640997171402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.891448040062</lat>
+						<lon>-87.639977931976</lon>
+
+							<typ>S</typ>
+                			<stpid>742</stpid>
+                			<stpnm>Grand &amp; Kingsbury</stpnm>
+                			<pdist>46763.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.891507940028</lat>
+						<lon>-87.637209892273</lon>
+
+							<typ>S</typ>
+                			<stpid>743</stpid>
+                			<stpnm>Grand &amp; Orleans</stpnm>
+                			<pdist>47516.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.891543879981</lat>
+						<lon>-87.635697126389</lon>
+
+							<typ>S</typ>
+                			<stpid>744</stpid>
+                			<stpnm>Grand &amp; Franklin</stpnm>
+                			<pdist>47916.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.891551866635</lat>
+						<lon>-87.63416826725</lon>
+
+							<typ>S</typ>
+                			<stpid>745</stpid>
+                			<stpnm>Grand &amp; Wells</stpnm>
+                			<pdist>48318.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.891551866635</lat>
+						<lon>-87.634103894234</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.890757189724</lat>
+						<lon>-87.634103894234</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.8907611831</lat>
+						<lon>-87.63280570507</lon>
+
+							<typ>S</typ>
+                			<stpid>746</stpid>
+                			<stpnm>Illinois &amp; LaSalle</stpnm>
+                			<pdist>48917.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.890789136725</lat>
+						<lon>-87.631486058235</lon>
+
+							<typ>S</typ>
+                			<stpid>747</stpid>
+                			<stpnm>Illinois &amp; Clark</stpnm>
+                			<pdist>49290.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.890853030679</lat>
+						<lon>-87.627736330032</lon>
+
+							<typ>S</typ>
+                			<stpid>14775</stpid>
+                			<stpnm>Illinois &amp; State</stpnm>
+                			<pdist>50263.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.890888971001</lat>
+						<lon>-87.625494003296</lon>
+
+							<typ>S</typ>
+                			<stpid>750</stpid>
+                			<stpnm>Illinois &amp; Rush</stpnm>
+                			<pdist>50867.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.890900951103</lat>
+						<lon>-87.624335289001</lon>
+
+							<typ>S</typ>
+                			<stpid>751</stpid>
+                			<stpnm>Illinois (Lower) &amp; Michigan</stpnm>
+                			<pdist>51144.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.890940884762</lat>
+						<lon>-87.622640132904</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.890948871491</lat>
+						<lon>-87.622135877609</lon>
+
+							<typ>S</typ>
+                			<stpid>17071</stpid>
+                			<stpnm>Illinois (Lower) &amp; St. Clair</stpnm>
+                			<pdist>51788.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.890948871491</lat>
+						<lon>-87.622044682503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.890849037309</lat>
+						<lon>-87.621980309486</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.890797123473</lat>
+						<lon>-87.621867656708</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.890809103592</lat>
+						<lon>-87.621701359749</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.890908937837</lat>
+						<lon>-87.62156188488</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.89098880512</lat>
+						<lon>-87.619292736053</lon>
+
+							<typ>S</typ>
+                			<stpid>15393</stpid>
+                			<stpnm>Illinois &amp; Columbus</stpnm>
+                			<pdist>52571.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.891016758646</lat>
+						<lon>-87.617865800858</lon>
+
+							<typ>S</typ>
+                			<stpid>754</stpid>
+                			<stpnm>Illinois &amp; McClurg</stpnm>
+                			<pdist>53279.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.891056692233</lat>
+						<lon>-87.61538207531</lon>
+
+							<typ>S</typ>
+                			<stpid>755</stpid>
+                			<stpnm>Illinois &amp; Peshtigo</stpnm>
+                			<pdist>53956.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.891084645729</lat>
+						<lon>-87.614217996597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.891076659017</lat>
+						<lon>-87.613161206245</lon>
+
+							<typ>S</typ>
+                			<stpid>756</stpid>
+                			<stpnm>Illinois &amp; Lake Shore</stpnm>
+                			<pdist>54679.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.89112058592</lat>
+						<lon>-87.61151432991</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.892070996966</lat>
+						<lon>-87.611567974091</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.892266668073</lat>
+						<lon>-87.611562609673</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.892358513488</lat>
+						<lon>-87.611535787582</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.892434385688</lat>
+						<lon>-87.611412405968</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.892486298194</lat>
+						<lon>-87.611256837845</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.892542203922</lat>
+						<lon>-87.611111998558</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.892761833095</lat>
+						<lon>-87.610790133476</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.892921562929</lat>
+						<lon>-87.610548734665</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.892969481801</lat>
+						<lon>-87.610403895378</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.89299743446</lat>
+						<lon>-87.610296607018</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.892993441223</lat>
+						<lon>-87.610178589821</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.892949515608</lat>
+						<lon>-87.61009812355</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>41.892346533659</lat>
+						<lon>-87.610055208206</lon>
+
+							<typ>S</typ>
+                			<stpid>14162</stpid>
+                			<stpnm>Navy Pier Terminal</stpnm>
+                			<pdist>56123.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

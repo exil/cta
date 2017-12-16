@@ -1,0 +1,1557 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>749</pid>
+				<ln>34662.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.722178631916</lat>
+						<lon>-87.623852491379</lon>
+
+							<typ>S</typ>
+                			<stpid>14010</stpid>
+                			<stpnm>95th Red Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.722178631916</lat>
+						<lon>-87.623782753944</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.721826287955</lat>
+						<lon>-87.623788118362</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.721790252668</lat>
+						<lon>-87.626293301582</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.721746209513</lat>
+						<lon>-87.628213763237</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.721734197738</lat>
+						<lon>-87.6291847229</lon>
+
+							<typ>S</typ>
+                			<stpid>15160</stpid>
+                			<stpnm>95th Street &amp; Wentworth</stpnm>
+                			<pdist>1532.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.721718182034</lat>
+						<lon>-87.631180286407</lon>
+
+							<typ>S</typ>
+                			<stpid>3455</stpid>
+                			<stpnm>95th Street &amp; Princeton</stpnm>
+                			<pdist>2104.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.721694158472</lat>
+						<lon>-87.633218765259</lon>
+
+							<typ>S</typ>
+                			<stpid>3456</stpid>
+                			<stpnm>95th Street &amp; Eggleston</stpnm>
+                			<pdist>2667.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.721646111319</lat>
+						<lon>-87.635836601257</lon>
+
+							<typ>S</typ>
+                			<stpid>3457</stpid>
+                			<stpnm>95th Street &amp; Normal</stpnm>
+                			<pdist>3361.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.721618083797</lat>
+						<lon>-87.63819694519</lon>
+
+							<typ>S</typ>
+                			<stpid>3458</stpid>
+                			<stpnm>95th Street &amp; Wallace</stpnm>
+                			<pdist>4028.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.721606071999</lat>
+						<lon>-87.639575600624</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.721590056263</lat>
+						<lon>-87.640562653542</lon>
+
+							<typ>S</typ>
+                			<stpid>3459</stpid>
+                			<stpnm>95th Street &amp; Union</stpnm>
+                			<pdist>4690.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.721550016907</lat>
+						<lon>-87.642939090729</lon>
+
+							<typ>S</typ>
+                			<stpid>17433</stpid>
+                			<stpnm>95th Street &amp; Halsted</stpnm>
+                			<pdist>5518.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.72152999722</lat>
+						<lon>-87.645444273949</lon>
+
+							<typ>S</typ>
+                			<stpid>3461</stpid>
+                			<stpnm>95th Street &amp; Peoria</stpnm>
+                			<pdist>6026.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.721497965707</lat>
+						<lon>-87.647879719734</lon>
+
+							<typ>S</typ>
+                			<stpid>3462</stpid>
+                			<stpnm>95th Street &amp; Morgan</stpnm>
+                			<pdist>6693.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.721453922351</lat>
+						<lon>-87.650647759438</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.720933407676</lat>
+						<lon>-87.650814056396</lon>
+
+							<typ>S</typ>
+                			<stpid>6569</stpid>
+                			<stpnm>Vincennes &amp; 95th Street</stpnm>
+                			<pdist>7574.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.719303769083</lat>
+						<lon>-87.651409506798</lon>
+
+							<typ>S</typ>
+                			<stpid>6570</stpid>
+                			<stpnm>Vincennes &amp; 96th Street</stpnm>
+                			<pdist>8217.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.718214650966</lat>
+						<lon>-87.651822566986</lon>
+
+							<typ>S</typ>
+                			<stpid>6571</stpid>
+                			<stpnm>Vincennes &amp; 97th Street </stpnm>
+                			<pdist>8615.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.717077463823</lat>
+						<lon>-87.652240991592</lon>
+
+							<typ>S</typ>
+                			<stpid>6572</stpid>
+                			<stpnm>Vincennes &amp; 97th Place</stpnm>
+                			<pdist>9055.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.715988307977</lat>
+						<lon>-87.652648687363</lon>
+
+							<typ>S</typ>
+                			<stpid>6573</stpid>
+                			<stpnm>Vincennes &amp; 98th Street</stpnm>
+                			<pdist>9482.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.714202372783</lat>
+						<lon>-87.653287053108</lon>
+
+							<typ>S</typ>
+                			<stpid>6574</stpid>
+                			<stpnm>Vincennes &amp; 99th Street</stpnm>
+                			<pdist>10153.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.711503354136</lat>
+						<lon>-87.654295563698</lon>
+
+							<typ>S</typ>
+                			<stpid>6575</stpid>
+                			<stpnm>Vincennes &amp; 100th Place</stpnm>
+                			<pdist>11195.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.709040500848</lat>
+						<lon>-87.655212879181</lon>
+
+							<typ>S</typ>
+                			<stpid>6576</stpid>
+                			<stpnm>Vincennes &amp; Winston (10100 South)</stpnm>
+                			<pdist>12105.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.707114203495</lat>
+						<lon>-87.655931711197</lon>
+
+							<typ>S</typ>
+                			<stpid>6577</stpid>
+                			<stpnm>Vincennes &amp; 103rd Street</stpnm>
+                			<pdist>12818.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.706465416757</lat>
+						<lon>-87.656178474426</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.705083719479</lat>
+						<lon>-87.656688094139</lon>
+
+							<typ>S</typ>
+                			<stpid>12352</stpid>
+                			<stpnm>Vincennes &amp; 104th Street</stpnm>
+                			<pdist>13630.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.703281461015</lat>
+						<lon>-87.657353281975</lon>
+
+							<typ>S</typ>
+                			<stpid>12353</stpid>
+                			<stpnm>Vincennes &amp; 105th Street</stpnm>
+                			<pdist>14317.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.70095447037</lat>
+						<lon>-87.658233046532</lon>
+
+							<typ>S</typ>
+                			<stpid>12354</stpid>
+                			<stpnm>10602 S Vincennes</stpnm>
+                			<pdist>15079.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.700409758159</lat>
+						<lon>-87.658426165581</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.699284271991</lat>
+						<lon>-87.658844590187</lon>
+
+							<typ>S</typ>
+                			<stpid>15472</stpid>
+                			<stpnm>Vincennes &amp; 107th Street</stpnm>
+                			<pdist>15886.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.697882393345</lat>
+						<lon>-87.659343481064</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.697702149588</lat>
+						<lon>-87.65946149826</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.696780895828</lat>
+						<lon>-87.66011595726</lon>
+
+							<typ>S</typ>
+                			<stpid>12356</stpid>
+                			<stpnm>Vincennes &amp; 108th Place</stpnm>
+                			<pdist>16776.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.695879656555</lat>
+						<lon>-87.660754323006</lon>
+
+							<typ>S</typ>
+                			<stpid>12357</stpid>
+                			<stpnm>Vincennes &amp; 109th Street</stpnm>
+                			<pdist>17165.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.694505743051</lat>
+						<lon>-87.661687731743</lon>
+
+							<typ>S</typ>
+                			<stpid>12358</stpid>
+                			<stpnm>Vincennes &amp; Ashland</stpnm>
+                			<pdist>17711.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.692975577434</lat>
+						<lon>-87.662765979767</lon>
+
+							<typ>S</typ>
+                			<stpid>12359</stpid>
+                			<stpnm>Vincennes &amp; Chelsea Place</stpnm>
+                			<pdist>18345.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.692230509794</lat>
+						<lon>-87.663280963898</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.691978146217</lat>
+						<lon>-87.663468718529</lon>
+
+							<typ>S</typ>
+                			<stpid>2928</stpid>
+                			<stpnm>Vincennes &amp; 111th Street</stpnm>
+                			<pdist>18827.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.691072833812</lat>
+						<lon>-87.664085626602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.690211573459</lat>
+						<lon>-87.664627432823</lon>
+
+							<typ>S</typ>
+                			<stpid>2929</stpid>
+                			<stpnm>Vincennes &amp; Monterey</stpnm>
+                			<pdist>19477.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.69013145563</lat>
+						<lon>-87.664686441422</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.690796430583</lat>
+						<lon>-87.666735649109</lon>
+
+							<typ>S</typ>
+                			<stpid>12360</stpid>
+                			<stpnm>Monterey &amp; Hermosa</stpnm>
+                			<pdist>20113.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.691233067024</lat>
+						<lon>-87.668130397797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.691297160197</lat>
+						<lon>-87.668328881264</lon>
+
+							<typ>S</typ>
+                			<stpid>12361</stpid>
+                			<stpnm>Monterey &amp; Esmond</stpnm>
+                			<pdist>20591.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.691725781651</lat>
+						<lon>-87.669691443443</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.691938088416</lat>
+						<lon>-87.670388817787</lon>
+
+							<typ>S</typ>
+                			<stpid>12362</stpid>
+                			<stpnm>Monterey &amp; Hale </stpnm>
+                			<pdist>21188.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.691978146217</lat>
+						<lon>-87.670716047287</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.691982151996</lat>
+						<lon>-87.670893073082</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.691970134659</lat>
+						<lon>-87.67166018486</lon>
+
+							<typ>S</typ>
+                			<stpid>12363</stpid>
+                			<stpnm>111th Street &amp; Longwood</stpnm>
+                			<pdist>21555.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.691922065288</lat>
+						<lon>-87.673682570457</lon>
+
+							<typ>S</typ>
+                			<stpid>12364</stpid>
+                			<stpnm>111th Street &amp; Hoyne</stpnm>
+                			<pdist>22161.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.691857972738</lat>
+						<lon>-87.67729818821</lon>
+
+							<typ>S</typ>
+                			<stpid>12366</stpid>
+                			<stpnm>111th Street &amp; Bell</stpnm>
+                			<pdist>23097.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.691825926438</lat>
+						<lon>-87.680892348289</lon>
+
+							<typ>S</typ>
+                			<stpid>12367</stpid>
+                			<stpnm>111th Street &amp; Western</stpnm>
+                			<pdist>24081.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.691809903283</lat>
+						<lon>-87.683483362198</lon>
+
+							<typ>S</typ>
+                			<stpid>12368</stpid>
+                			<stpnm>111th Street &amp; Campbell</stpnm>
+                			<pdist>24787.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.691781862751</lat>
+						<lon>-87.685757875443</lon>
+
+							<typ>S</typ>
+                			<stpid>12369</stpid>
+                			<stpnm>111th Street &amp; Rockwell</stpnm>
+                			<pdist>25416.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.691749816414</lat>
+						<lon>-87.688391804695</lon>
+
+							<typ>S</typ>
+                			<stpid>12370</stpid>
+                			<stpnm>111th Street &amp; Washtenaw</stpnm>
+                			<pdist>26129.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.691717770061</lat>
+						<lon>-87.690778970718</lon>
+
+							<typ>S</typ>
+                			<stpid>12372</stpid>
+                			<stpnm>111th Street &amp; California</stpnm>
+                			<pdist>26800.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.691697741082</lat>
+						<lon>-87.69289791584</lon>
+
+							<typ>S</typ>
+                			<stpid>12373</stpid>
+                			<stpnm>Mt. Greenwood Cemetery</stpnm>
+                			<pdist>27421.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.691657683106</lat>
+						<lon>-87.695934176445</lon>
+
+							<typ>S</typ>
+                			<stpid>12374</stpid>
+                			<stpnm>111th Street &amp; Sacramento</stpnm>
+                			<pdist>28263.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.691625636707</lat>
+						<lon>-87.698171138763</lon>
+
+							<typ>S</typ>
+                			<stpid>12375</stpid>
+                			<stpnm>111th Street &amp; Albany</stpnm>
+                			<pdist>28820.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.691613619303</lat>
+						<lon>-87.700590491295</lon>
+
+							<typ>S</typ>
+                			<stpid>12376</stpid>
+                			<stpnm>111th Street &amp; Kedzie</stpnm>
+                			<pdist>29480.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.691565549666</lat>
+						<lon>-87.703186869621</lon>
+
+							<typ>S</typ>
+                			<stpid>12377</stpid>
+                			<stpnm>111th Street &amp; Spaulding</stpnm>
+                			<pdist>30180.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.691529497414</lat>
+						<lon>-87.705509662628</lon>
+
+							<typ>S</typ>
+                			<stpid>12378</stpid>
+                			<stpnm>111th Street &amp; Homan</stpnm>
+                			<pdist>30840.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.691489439333</lat>
+						<lon>-87.708020210266</lon>
+
+							<typ>S</typ>
+                			<stpid>12379</stpid>
+                			<stpnm>111th Street &amp; St. Louis</stpnm>
+                			<pdist>31502.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.691461398662</lat>
+						<lon>-87.710407376289</lon>
+
+							<typ>S</typ>
+                			<stpid>12380</stpid>
+                			<stpnm>111th Street &amp; Central Park</stpnm>
+                			<pdist>32157.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.691401311467</lat>
+						<lon>-87.713620662689</lon>
+
+							<typ>S</typ>
+                			<stpid>17748</stpid>
+                			<stpnm>111th Street &amp; Lawndale</stpnm>
+                			<pdist>33021.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.691369264941</lat>
+						<lon>-87.71527826786</lon>
+
+							<typ>S</typ>
+                			<stpid>12382</stpid>
+                			<stpnm>111th Street &amp; Hamlin</stpnm>
+                			<pdist>33482.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.691333212579</lat>
+						<lon>-87.71775662899</lon>
+
+							<typ>S</typ>
+                			<stpid>12383</stpid>
+                			<stpnm>111th Street &amp; Springfield</stpnm>
+                			<pdist>34153.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.691321195121</lat>
+						<lon>-87.719285488129</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.691052804632</lat>
+						<lon>-87.719274759293</lon>
+
+							<typ>S</typ>
+                			<stpid>14178</stpid>
+                			<stpnm>111th Street &amp; Harding Terminal</stpnm>
+                			<pdist>34662.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>752</pid>
+				<ln>34974.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.691052804632</lat>
+						<lon>-87.719274759293</lon>
+
+							<typ>S</typ>
+                			<stpid>14178</stpid>
+                			<stpnm>111th Street &amp; Harding Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.691052804632</lat>
+						<lon>-87.718995809555</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.691261107795</lat>
+						<lon>-87.718995809555</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.691273125265</lat>
+						<lon>-87.717880010605</lon>
+
+							<typ>S</typ>
+                			<stpid>12385</stpid>
+                			<stpnm>111th Street &amp; Springfield</stpnm>
+                			<pdist>486.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.691297160197</lat>
+						<lon>-87.715744972229</lon>
+
+							<typ>S</typ>
+                			<stpid>12386</stpid>
+                			<stpnm>111th Street &amp; Hamlin</stpnm>
+                			<pdist>1063.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.691337218398</lat>
+						<lon>-87.713293433189</lon>
+
+							<typ>S</typ>
+                			<stpid>12387</stpid>
+                			<stpnm>111th Street &amp; Lawndale</stpnm>
+                			<pdist>1701.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.691397305652</lat>
+						<lon>-87.710697054863</lon>
+
+							<typ>S</typ>
+                			<stpid>12388</stpid>
+                			<stpnm>111th Street &amp; Central Park</stpnm>
+                			<pdist>2422.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.691425346352</lat>
+						<lon>-87.708272337914</lon>
+
+							<typ>S</typ>
+                			<stpid>12389</stpid>
+                			<stpnm>111th Street &amp; St. Louis</stpnm>
+                			<pdist>3084.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.691465404473</lat>
+						<lon>-87.705836892128</lon>
+
+							<typ>S</typ>
+                			<stpid>12390</stpid>
+                			<stpnm>111th Street &amp; Homan</stpnm>
+                			<pdist>3751.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.691493445142</lat>
+						<lon>-87.703433632851</lon>
+
+							<typ>S</typ>
+                			<stpid>12391</stpid>
+                			<stpnm>111th Street &amp; Spaulding</stpnm>
+                			<pdist>4424.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.69154552064</lat>
+						<lon>-87.700976729393</lon>
+
+							<typ>S</typ>
+                			<stpid>12392</stpid>
+                			<stpnm>111th Street &amp; Kedzie</stpnm>
+                			<pdist>5093.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.691565549666</lat>
+						<lon>-87.698509097099</lon>
+
+							<typ>S</typ>
+                			<stpid>12393</stpid>
+                			<stpnm>111th Street &amp; Albany</stpnm>
+                			<pdist>5765.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.691589584489</lat>
+						<lon>-87.696250677109</lon>
+
+							<typ>S</typ>
+                			<stpid>12394</stpid>
+                			<stpnm>111th Street &amp; Sacramento</stpnm>
+                			<pdist>6396.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.691617625105</lat>
+						<lon>-87.693139314651</lon>
+
+							<typ>S</typ>
+                			<stpid>12395</stpid>
+                			<stpnm>Mt. Olivet Cemetery</stpnm>
+                			<pdist>7147.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.691645665708</lat>
+						<lon>-87.691079378128</lon>
+
+							<typ>S</typ>
+                			<stpid>12396</stpid>
+                			<stpnm>111th Street &amp; California</stpnm>
+                			<pdist>7831.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.691677712097</lat>
+						<lon>-87.688654661179</lon>
+
+							<typ>S</typ>
+                			<stpid>12398</stpid>
+                			<stpnm>111th Street &amp; Washtenaw</stpnm>
+                			<pdist>8459.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.691713764266</lat>
+						<lon>-87.686181664467</lon>
+
+							<typ>S</typ>
+                			<stpid>12399</stpid>
+                			<stpnm>2600 W 111th Street</stpnm>
+                			<pdist>9089.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.691737799033</lat>
+						<lon>-87.683756947517</lon>
+
+							<typ>S</typ>
+                			<stpid>12400</stpid>
+                			<stpnm>111th Street &amp; Campbell</stpnm>
+                			<pdist>9785.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.691753822207</lat>
+						<lon>-87.680532932281</lon>
+
+							<typ>S</typ>
+                			<stpid>17309</stpid>
+                			<stpnm>111th Street &amp; Western</stpnm>
+                			<pdist>10687.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.691797885914</lat>
+						<lon>-87.677673697472</lon>
+
+							<typ>S</typ>
+                			<stpid>12402</stpid>
+                			<stpnm>111th Street &amp; Bell</stpnm>
+                			<pdist>11460.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.691853966951</lat>
+						<lon>-87.674245834351</lon>
+
+							<typ>S</typ>
+                			<stpid>12404</stpid>
+                			<stpnm>111th Street &amp; Hoyne</stpnm>
+                			<pdist>12416.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.691922065288</lat>
+						<lon>-87.670807242393</lon>
+
+							<typ>S</typ>
+                			<stpid>12405</stpid>
+                			<stpnm>111th Street &amp; Hale </stpnm>
+                			<pdist>13366.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.691886013236</lat>
+						<lon>-87.670469284058</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.691697741082</lat>
+						<lon>-87.669852375984</lon>
+
+							<typ>S</typ>
+                			<stpid>15504</stpid>
+                			<stpnm>Monterey &amp; Homewood</stpnm>
+                			<pdist>13599.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.691289148554</lat>
+						<lon>-87.668532729149</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.690776401317</lat>
+						<lon>-87.666880488396</lon>
+
+							<typ>S</typ>
+                			<stpid>15826</stpid>
+                			<stpnm>Monterey &amp; Hermosa</stpnm>
+                			<pdist>14513.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.690039320004</lat>
+						<lon>-87.664638161659</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.690467949839</lat>
+						<lon>-87.664369940758</lon>
+
+							<typ>S</typ>
+                			<stpid>2869</stpid>
+                			<stpnm>Vincennes &amp; Monterey</stpnm>
+                			<pdist>15276.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.691293154376</lat>
+						<lon>-87.663854956627</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.691934082634</lat>
+						<lon>-87.663404345512</lon>
+
+							<typ>S</typ>
+                			<stpid>2870</stpid>
+                			<stpnm>Vincennes &amp; 111th Street</stpnm>
+                			<pdist>15941.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.692835377193</lat>
+						<lon>-87.662755250931</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.6938968857</lat>
+						<lon>-87.662020325661</lon>
+
+							<typ>S</typ>
+                			<stpid>15738</stpid>
+                			<stpnm>Vincennes &amp; 110th Street</stpnm>
+                			<pdist>16696.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.695719434918</lat>
+						<lon>-87.660759687424</lon>
+
+							<typ>S</typ>
+                			<stpid>12410</stpid>
+                			<stpnm>Vincennes &amp; 109th Street</stpnm>
+                			<pdist>17441.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.69658863251</lat>
+						<lon>-87.660153508186</lon>
+
+							<typ>S</typ>
+                			<stpid>12411</stpid>
+                			<stpnm>Vincennes &amp; 108th Place</stpnm>
+                			<pdist>17905.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.697650079075</lat>
+						<lon>-87.659397125244</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.697834328393</lat>
+						<lon>-87.659279108047</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.699344351822</lat>
+						<lon>-87.658715844154</lon>
+
+							<typ>S</typ>
+                			<stpid>12412</stpid>
+                			<stpnm>Vincennes &amp; 107th Street</stpnm>
+                			<pdist>18885.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.700834313661</lat>
+						<lon>-87.658184766769</lon>
+
+							<typ>S</typ>
+                			<stpid>12413</stpid>
+                			<stpnm>10602 S Vincennes</stpnm>
+                			<pdist>19610.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.702152019963</lat>
+						<lon>-87.657696604729</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.703045161159</lat>
+						<lon>-87.657353281975</lon>
+
+							<typ>S</typ>
+                			<stpid>12414</stpid>
+                			<stpnm>Vincennes &amp; 105th Street</stpnm>
+                			<pdist>20286.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.704875461083</lat>
+						<lon>-87.656677365303</lon>
+
+							<typ>S</typ>
+                			<stpid>12415</stpid>
+                			<stpnm>Vincennes &amp; 104th Street</stpnm>
+                			<pdist>20979.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.706681679731</lat>
+						<lon>-87.656006813049</lon>
+
+							<typ>S</typ>
+                			<stpid>6413</stpid>
+                			<stpnm>Vincennes &amp; 103rd Street</stpnm>
+                			<pdist>21667.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.708567942599</lat>
+						<lon>-87.655298709869</lon>
+
+							<typ>S</typ>
+                			<stpid>6414</stpid>
+                			<stpnm>Vincennes &amp; Winston (10200 South)</stpnm>
+                			<pdist>22460.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.711347175997</lat>
+						<lon>-87.654268741608</lon>
+
+							<typ>S</typ>
+                			<stpid>6415</stpid>
+                			<stpnm>Vincennes &amp; 100th Place</stpnm>
+                			<pdist>23420.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.713958104246</lat>
+						<lon>-87.653297781944</lon>
+
+							<typ>S</typ>
+                			<stpid>6416</stpid>
+                			<stpnm>Vincennes &amp; 99th Street</stpnm>
+                			<pdist>24426.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.715231493965</lat>
+						<lon>-87.652825713158</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.715752054824</lat>
+						<lon>-87.652632594109</lon>
+
+							<typ>S</typ>
+                			<stpid>6417</stpid>
+                			<stpnm>Vincennes &amp; 98th Street</stpnm>
+                			<pdist>25111.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.717445850594</lat>
+						<lon>-87.652021050453</lon>
+
+							<typ>S</typ>
+                			<stpid>6418</stpid>
+                			<stpnm>Vincennes &amp; 97th Street </stpnm>
+                			<pdist>25741.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.71911157311</lat>
+						<lon>-87.651393413544</lon>
+
+							<typ>S</typ>
+                			<stpid>6419</stpid>
+                			<stpnm>Vincennes &amp; 96th Street</stpnm>
+                			<pdist>26381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.720296772457</lat>
+						<lon>-87.650948166847</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.721177649703</lat>
+						<lon>-87.650653123856</lon>
+
+							<typ>S</typ>
+                			<stpid>6420</stpid>
+                			<stpnm>Vincennes &amp; 95th Street</stpnm>
+                			<pdist>27168.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.721273744672</lat>
+						<lon>-87.650615572929</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.721297768391</lat>
+						<lon>-87.648142576218</lon>
+
+							<typ>S</typ>
+                			<stpid>3503</stpid>
+                			<stpnm>95th Street &amp; Morgan</stpnm>
+                			<pdist>27857.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.721329800004</lat>
+						<lon>-87.64573931694</lon>
+
+							<typ>S</typ>
+                			<stpid>3504</stpid>
+                			<stpnm>95th Street &amp; Peoria</stpnm>
+                			<pdist>28525.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.721369839497</lat>
+						<lon>-87.642804980278</lon>
+
+							<typ>S</typ>
+                			<stpid>15026</stpid>
+                			<stpnm>95th Street &amp; Halsted</stpnm>
+                			<pdist>29370.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.721385855287</lat>
+						<lon>-87.640938162804</lon>
+
+							<typ>S</typ>
+                			<stpid>3506</stpid>
+                			<stpnm>95th Street &amp; Union</stpnm>
+                			<pdist>29848.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.721417886856</lat>
+						<lon>-87.638508081436</lon>
+
+							<typ>S</typ>
+                			<stpid>3507</stpid>
+                			<stpnm>95th Street &amp; Wallace</stpnm>
+                			<pdist>30511.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.721453922351</lat>
+						<lon>-87.636115550995</lon>
+
+							<typ>S</typ>
+                			<stpid>3508</stpid>
+                			<stpnm>95th Street &amp; Normal</stpnm>
+                			<pdist>31176.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.721481949945</lat>
+						<lon>-87.63414144516</lon>
+
+							<typ>S</typ>
+                			<stpid>3509</stpid>
+                			<stpnm>95th Street &amp; Eggleston </stpnm>
+                			<pdist>31716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.72152999722</lat>
+						<lon>-87.631223201752</lon>
+
+							<typ>S</typ>
+                			<stpid>3510</stpid>
+                			<stpnm>95th Street &amp; Princeton</stpnm>
+                			<pdist>32487.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.721542009033</lat>
+						<lon>-87.628766298294</lon>
+
+							<typ>S</typ>
+                			<stpid>3511</stpid>
+                			<stpnm>95th Street &amp; Wentworth</stpnm>
+                			<pdist>33159.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.721578044459</lat>
+						<lon>-87.626207470894</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.721586052329</lat>
+						<lon>-87.624973654747</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.722739175144</lat>
+						<lon>-87.625038027763</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.722747182869</lat>
+						<lon>-87.623820304871</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.722178631916</lat>
+						<lon>-87.623798847198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.722178631916</lat>
+						<lon>-87.623852491379</lon>
+
+							<typ>S</typ>
+                			<stpid>14010</stpid>
+                			<stpnm>95th Red Line Station</stpnm>
+                			<pdist>34974.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

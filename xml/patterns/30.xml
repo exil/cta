@@ -1,0 +1,6609 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>5541</pid>
+				<ln>41064.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.646436359683</lat>
+						<lon>-87.543354034424</lon>
+
+							<typ>S</typ>
+                			<stpid>14024</stpid>
+                			<stpnm>Hegewisch Metra Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.645718813836</lat>
+						<lon>-87.542409896851</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.644339820609</lat>
+						<lon>-87.540596723557</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.643718462271</lat>
+						<lon>-87.539738416672</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.644560301159</lat>
+						<lon>-87.53979742527</lon>
+
+							<typ>S</typ>
+                			<stpid>14026</stpid>
+                			<stpnm>Avenue O &amp; Brainard (13800 S)</stpnm>
+                			<pdist>1284.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.646195842413</lat>
+						<lon>-87.539958357811</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.646380239067</lat>
+						<lon>-87.540001273155</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.647234068871</lat>
+						<lon>-87.540028095245</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.648556881433</lat>
+						<lon>-87.539920806885</lon>
+
+							<typ>S</typ>
+                			<stpid>14065</stpid>
+                			<stpnm>13601 S Avenue O (Senior Bldg)</stpnm>
+                			<pdist>2605.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.649719330657</lat>
+						<lon>-87.539861798286</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.649931776006</lat>
+						<lon>-87.53985106945</lon>
+
+							<typ>S</typ>
+                			<stpid>14029</stpid>
+                			<stpnm>Avenue O &amp; 135th Street</stpnm>
+                			<pdist>3234.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.650825642161</lat>
+						<lon>-87.539840340614</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.651771603595</lat>
+						<lon>-87.539813518524</lon>
+
+							<typ>S</typ>
+                			<stpid>14100</stpid>
+                			<stpnm>Avenue O &amp; 134th Street</stpnm>
+                			<pdist>4067.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.65358732963</lat>
+						<lon>-87.539829611778</lon>
+
+							<typ>S</typ>
+                			<stpid>7331</stpid>
+                			<stpnm>Avenue O &amp; 133rd Street</stpnm>
+                			<pdist>4560.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.655326851378</lat>
+						<lon>-87.539829611778</lon>
+
+							<typ>S</typ>
+                			<stpid>7332</stpid>
+                			<stpnm>Avenue O &amp; 132nd Street</stpnm>
+                			<pdist>5365.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.657402993256</lat>
+						<lon>-87.539829611778</lon>
+
+							<typ>S</typ>
+                			<stpid>7333</stpid>
+                			<stpnm>Avenue O &amp; 131st Street</stpnm>
+                			<pdist>5903.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.659038208468</lat>
+						<lon>-87.539834976196</lon>
+
+							<typ>S</typ>
+                			<stpid>7334</stpid>
+                			<stpnm>Avenue O &amp; 130th Street</stpnm>
+                			<pdist>6708.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.662468819175</lat>
+						<lon>-87.539872527122</lon>
+
+							<typ>S</typ>
+                			<stpid>7335</stpid>
+                			<stpnm>12800 S Avenue O</stpnm>
+                			<pdist>8469.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.662877594713</lat>
+						<lon>-87.539877891541</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.663510790914</lat>
+						<lon>-87.539792060852</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.665927298932</lat>
+						<lon>-87.539287805557</lon>
+
+							<typ>S</typ>
+                			<stpid>17559</stpid>
+                			<stpnm>Avenue O &amp; 126th Street</stpnm>
+                			<pdist>9081.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.668415846722</lat>
+						<lon>-87.538767457008</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.668840613384</lat>
+						<lon>-87.538767457008</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.669153175742</lat>
+						<lon>-87.538794279099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.669553894494</lat>
+						<lon>-87.538917660713</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.669766274421</lat>
+						<lon>-87.539014220238</lon>
+
+							<typ>S</typ>
+                			<stpid>7336</stpid>
+                			<stpnm>Avenue O &amp; Veteran's Drive (12400 S)</stpnm>
+                			<pdist>9907.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.671024510938</lat>
+						<lon>-87.539641857147</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.671601528377</lat>
+						<lon>-87.539808154106</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.67209840036</lat>
+						<lon>-87.539915442467</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.672459030849</lat>
+						<lon>-87.539936900139</lon>
+
+							<typ>S</typ>
+                			<stpid>7337</stpid>
+                			<stpnm>12243 S Avenue O</stpnm>
+                			<pdist>11520.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.674169994636</lat>
+						<lon>-87.539942264557</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.675856872253</lat>
+						<lon>-87.539947628975</lon>
+
+							<typ>S</typ>
+                			<stpid>7338</stpid>
+                			<stpnm>Avenue O &amp; Ewing (12000 South)</stpnm>
+                			<pdist>12787.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.678897948463</lat>
+						<lon>-87.539995908737</lon>
+
+							<typ>S</typ>
+                			<stpid>7339</stpid>
+                			<stpnm>11919 S Avenue O</stpnm>
+                			<pdist>13722.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.680913233368</lat>
+						<lon>-87.540049552917</lon>
+
+							<typ>S</typ>
+                			<stpid>17719</stpid>
+                			<stpnm>Avenue O &amp; 118th Street</stpnm>
+                			<pdist>14707.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.680913233368</lat>
+						<lon>-87.536562681198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.681902823329</lat>
+						<lon>-87.536600232124</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.681898816922</lat>
+						<lon>-87.537399530411</lon>
+
+							<typ>S</typ>
+                			<stpid>7291</stpid>
+                			<stpnm>118th Street &amp; Lake Point Plaza (3600 E)</stpnm>
+                			<pdist>16278.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.681902823329</lat>
+						<lon>-87.538220286369</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.680973330359</lat>
+						<lon>-87.538209557533</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.680989356213</lat>
+						<lon>-87.540044188499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.682275418034</lat>
+						<lon>-87.540060281754</lon>
+
+							<typ>S</typ>
+                			<stpid>7340</stpid>
+                			<stpnm>11731 S Avenue O</stpnm>
+                			<pdist>17433.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.684699234147</lat>
+						<lon>-87.540060281754</lon>
+
+							<typ>S</typ>
+                			<stpid>7341</stpid>
+                			<stpnm>Avenue O &amp; 116th Street</stpnm>
+                			<pdist>18384.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.688132483511</lat>
+						<lon>-87.540054917336</lon>
+
+							<typ>S</typ>
+                			<stpid>7342</stpid>
+                			<stpnm>Avenue O &amp; 114th Street</stpnm>
+                			<pdist>19423.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.689955196057</lat>
+						<lon>-87.540044188499</lon>
+
+							<typ>S</typ>
+                			<stpid>7343</stpid>
+                			<stpnm>Avenue O &amp; 113th Street</stpnm>
+                			<pdist>20087.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.691813909072</lat>
+						<lon>-87.54007101059</lon>
+
+							<typ>S</typ>
+                			<stpid>7344</stpid>
+                			<stpnm>Avenue O &amp; 112th Street</stpnm>
+                			<pdist>20747.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.691829932227</lat>
+						<lon>-87.537785768509</lon>
+
+							<typ>S</typ>
+                			<stpid>7346</stpid>
+                			<stpnm>112th Street &amp; Avenue M</stpnm>
+                			<pdist>21381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.691813909072</lat>
+						<lon>-87.535226941109</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.692102325244</lat>
+						<lon>-87.535226941109</lon>
+
+							<typ>S</typ>
+                			<stpid>7348</stpid>
+                			<stpnm>Ewing &amp; 112th Street</stpnm>
+                			<pdist>22173.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.693580437827</lat>
+						<lon>-87.535232305527</lon>
+
+							<typ>S</typ>
+                			<stpid>7349</stpid>
+                			<stpnm>Ewing &amp; 111th Street</stpnm>
+                			<pdist>22698.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.695350923637</lat>
+						<lon>-87.535243034363</lon>
+
+							<typ>S</typ>
+                			<stpid>7350</stpid>
+                			<stpnm>Ewing &amp; 110th Street</stpnm>
+                			<pdist>23367.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.697397736762</lat>
+						<lon>-87.535248398781</lon>
+
+							<typ>S</typ>
+                			<stpid>7351</stpid>
+                			<stpnm>Ewing &amp; 109th Street</stpnm>
+                			<pdist>24206.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.69903193609</lat>
+						<lon>-87.535248398781</lon>
+
+							<typ>S</typ>
+                			<stpid>7352</stpid>
+                			<stpnm>Ewing &amp; 108th Street</stpnm>
+                			<pdist>24732.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.700850334569</lat>
+						<lon>-87.535226941109</lon>
+
+							<typ>S</typ>
+                			<stpid>7353</stpid>
+                			<stpnm>Ewing &amp; 107th Street</stpnm>
+                			<pdist>25390.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.702981079693</lat>
+						<lon>-87.535216212273</lon>
+
+							<typ>S</typ>
+                			<stpid>14943</stpid>
+                			<stpnm>Ewing &amp; 106th Street</stpnm>
+                			<pdist>26187.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.704462947267</lat>
+						<lon>-87.535226941109</lon>
+
+							<typ>S</typ>
+                			<stpid>7355</stpid>
+                			<stpnm>Ewing &amp; 105th Street</stpnm>
+                			<pdist>26723.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.70629721172</lat>
+						<lon>-87.535226941109</lon>
+
+							<typ>S</typ>
+                			<stpid>7356</stpid>
+                			<stpnm>Ewing &amp; 104th Street</stpnm>
+                			<pdist>27391.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.708131423842</lat>
+						<lon>-87.535232305527</lon>
+
+							<typ>S</typ>
+                			<stpid>7357</stpid>
+                			<stpnm>Ewing &amp; 103rd Street</stpnm>
+                			<pdist>28053.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.709957574318</lat>
+						<lon>-87.535237669945</lon>
+
+							<typ>S</typ>
+                			<stpid>7358</stpid>
+                			<stpnm>Ewing &amp; 102nd Street</stpnm>
+                			<pdist>28730.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.711883786474</lat>
+						<lon>-87.535232305527</lon>
+
+							<typ>S</typ>
+                			<stpid>7359</stpid>
+                			<stpnm>Ewing &amp; 101st Street</stpnm>
+                			<pdist>29439.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.712912944778</lat>
+						<lon>-87.535237669945</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.713906046897</lat>
+						<lon>-87.535226941109</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.715744046227</lat>
+						<lon>-87.535237669945</lon>
+
+							<typ>S</typ>
+                			<stpid>7361</stpid>
+                			<stpnm>Ewing &amp; 99th Street</stpnm>
+                			<pdist>30824.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.717682097521</lat>
+						<lon>-87.535226941109</lon>
+
+							<typ>S</typ>
+                			<stpid>15084</stpid>
+                			<stpnm>Ewing &amp; 98th Street</stpnm>
+                			<pdist>31670.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.719463931956</lat>
+						<lon>-87.535232305527</lon>
+
+							<typ>S</typ>
+                			<stpid>7363</stpid>
+                			<stpnm>Ewing &amp; 97th Street</stpnm>
+                			<pdist>32185.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.721277748626</lat>
+						<lon>-87.535237669945</lon>
+
+							<typ>S</typ>
+                			<stpid>7364</stpid>
+                			<stpnm>Ewing &amp; 96th Street</stpnm>
+                			<pdist>32843.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.721433902634</lat>
+						<lon>-87.535269856453</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.722667105574</lat>
+						<lon>-87.536251544952</lon>
+
+							<typ>S</typ>
+                			<stpid>7365</stpid>
+                			<stpnm>Ewing &amp; 95th Street</stpnm>
+                			<pdist>33443.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.724837164968</lat>
+						<lon>-87.538021802902</lon>
+
+							<typ>S</typ>
+                			<stpid>7366</stpid>
+                			<stpnm>Ewing &amp; 94th Street</stpnm>
+                			<pdist>34360.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.726190412136</lat>
+						<lon>-87.539132237434</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.726322532373</lat>
+						<lon>-87.539260983467</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.726410612381</lat>
+						<lon>-87.539379000664</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.726706880611</lat>
+						<lon>-87.539899349213</lon>
+
+							<typ>S</typ>
+                			<stpid>7367</stpid>
+                			<stpnm>9320 S Ewing</stpnm>
+                			<pdist>35256.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.727675748256</lat>
+						<lon>-87.541674971581</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.728204215358</lat>
+						<lon>-87.542726397514</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.728284285752</lat>
+						<lon>-87.542785406113</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.728380370093</lat>
+						<lon>-87.542817592621</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.72850447882</lat>
+						<lon>-87.542828321457</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.72866461876</lat>
+						<lon>-87.542839050293</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.730201941868</lat>
+						<lon>-87.542865872383</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.730189931674</lat>
+						<lon>-87.544164061546</lon>
+
+							<typ>S</typ>
+                			<stpid>7370</stpid>
+                			<stpnm>91st Street &amp; Buffalo</stpnm>
+                			<pdist>37208.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.730157904478</lat>
+						<lon>-87.546819448471</lon>
+
+							<typ>S</typ>
+                			<stpid>7372</stpid>
+                			<stpnm>91st Street &amp; Brandon</stpnm>
+                			<pdist>37939.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.73009385004</lat>
+						<lon>-87.549909353256</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.729849641905</lat>
+						<lon>-87.54989862442</lon>
+
+							<typ>S</typ>
+                			<stpid>7374</stpid>
+                			<stpnm>Houston &amp; 91st Street</stpnm>
+                			<pdist>38849.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.726462659601</lat>
+						<lon>-87.549812793732</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.726442641444</lat>
+						<lon>-87.550681829453</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.726766934815</lat>
+						<lon>-87.551148533821</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.728204215358</lat>
+						<lon>-87.551159262657</lon>
+
+							<typ>S</typ>
+                			<stpid>7252</stpid>
+                			<stpnm>92nd Street &amp; Commercial</stpnm>
+                			<pdist>41064.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5539</pid>
+				<ln>53174.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.728204215358</lat>
+						<lon>-87.551159262657</lon>
+
+							<typ>S</typ>
+                			<stpid>7252</stpid>
+                			<stpnm>92nd Street &amp; Commercial</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.728228236487</lat>
+						<lon>-87.549759149551</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.729941720491</lat>
+						<lon>-87.549812793732</lon>
+
+							<typ>S</typ>
+                			<stpid>7254</stpid>
+                			<stpnm>Houston &amp; 91st Street</stpnm>
+                			<pdist>1029.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.730049812576</lat>
+						<lon>-87.54981815815</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.730089846635</lat>
+						<lon>-87.547082304955</lon>
+
+							<typ>S</typ>
+                			<stpid>7256</stpid>
+                			<stpnm>91st Street &amp; Brandon</stpnm>
+                			<pdist>1799.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.730125877267</lat>
+						<lon>-87.544464468956</lon>
+
+							<typ>S</typ>
+                			<stpid>7258</stpid>
+                			<stpnm>91st Street &amp; Buffalo</stpnm>
+                			<pdist>2519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.730149897677</lat>
+						<lon>-87.542962431908</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.728748692068</lat>
+						<lon>-87.542924880981</lon>
+
+							<typ>S</typ>
+                			<stpid>7260</stpid>
+                			<stpnm>Mackinaw &amp; 92nd Street</stpnm>
+                			<pdist>3414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.728488464805</lat>
+						<lon>-87.542914152145</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.72837236307</lat>
+						<lon>-87.542898058891</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.728252257606</lat>
+						<lon>-87.542871236801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.728172187172</lat>
+						<lon>-87.542796134949</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.727159287569</lat>
+						<lon>-87.540875673294</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.726706880611</lat>
+						<lon>-87.540022730827</lon>
+
+							<typ>S</typ>
+                			<stpid>7261</stpid>
+                			<stpnm>9320 S Ewing</stpnm>
+                			<pdist>4584.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.726302514173</lat>
+						<lon>-87.539341449738</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.726118346437</lat>
+						<lon>-87.539175152779</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.724817146305</lat>
+						<lon>-87.538107633591</lon>
+
+							<typ>S</typ>
+                			<stpid>7262</stpid>
+                			<stpnm>Ewing &amp; 94th Street</stpnm>
+                			<pdist>5462.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.723179598536</lat>
+						<lon>-87.536766529083</lon>
+
+							<typ>S</typ>
+                			<stpid>7263</stpid>
+                			<stpnm>Ewing &amp; 95th Street</stpnm>
+                			<pdist>6167.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.722631070759</lat>
+						<lon>-87.536337375641</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.721453922351</lat>
+						<lon>-87.535393238068</lon>
+
+							<typ>S</typ>
+                			<stpid>7264</stpid>
+                			<stpnm>Ewing &amp; 96th Street</stpnm>
+                			<pdist>6876.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.721333803954</lat>
+						<lon>-87.535334229469</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.719684155253</lat>
+						<lon>-87.535328865051</lon>
+
+							<typ>S</typ>
+                			<stpid>7265</stpid>
+                			<stpnm>Ewing &amp; 97th Street</stpnm>
+                			<pdist>7540.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.717974401838</lat>
+						<lon>-87.535318136215</lon>
+
+							<typ>S</typ>
+                			<stpid>7266</stpid>
+                			<stpnm>Ewing &amp; 98th Street</stpnm>
+                			<pdist>8211.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.71599231226</lat>
+						<lon>-87.535318136215</lon>
+
+							<typ>S</typ>
+                			<stpid>7267</stpid>
+                			<stpnm>Ewing &amp; 99th Street</stpnm>
+                			<pdist>8925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.714678893978</lat>
+						<lon>-87.535318136215</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.713169230665</lat>
+						<lon>-87.535312771797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.712500482534</lat>
+						<lon>-87.535312771797</lon>
+
+							<typ>S</typ>
+                			<stpid>17043</stpid>
+                			<stpnm>Ewing &amp; Indianapolis</stpnm>
+                			<pdist>10155.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.710241904483</lat>
+						<lon>-87.535323500633</lon>
+
+							<typ>S</typ>
+                			<stpid>7270</stpid>
+                			<stpnm>Ewing &amp; 102nd Street</stpnm>
+                			<pdist>11018.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.708443795365</lat>
+						<lon>-87.535318136215</lon>
+
+							<typ>S</typ>
+                			<stpid>7271</stpid>
+                			<stpnm>Ewing &amp; 103rd Street</stpnm>
+                			<pdist>11694.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.706577553205</lat>
+						<lon>-87.535323500633</lon>
+
+							<typ>S</typ>
+                			<stpid>7272</stpid>
+                			<stpnm>Ewing &amp; 104th Street</stpnm>
+                			<pdist>12371.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.704803371481</lat>
+						<lon>-87.535318136215</lon>
+
+							<typ>S</typ>
+                			<stpid>7273</stpid>
+                			<stpnm>Ewing &amp; 105th Street</stpnm>
+                			<pdist>13043.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.702912993065</lat>
+						<lon>-87.535302042961</lon>
+
+							<typ>S</typ>
+                			<stpid>7274</stpid>
+                			<stpnm>Ewing &amp; 106th Street</stpnm>
+                			<pdist>13719.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.701054600789</lat>
+						<lon>-87.535312771797</lon>
+
+							<typ>S</typ>
+                			<stpid>7275</stpid>
+                			<stpnm>Ewing &amp; 107th Street</stpnm>
+                			<pdist>14379.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.699276261343</lat>
+						<lon>-87.535323500633</lon>
+
+							<typ>S</typ>
+                			<stpid>7276</stpid>
+                			<stpnm>Ewing &amp; 108th Street</stpnm>
+                			<pdist>15050.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.697381714994</lat>
+						<lon>-87.535334229469</lon>
+
+							<typ>S</typ>
+                			<stpid>7277</stpid>
+                			<stpnm>Ewing &amp; 109th Street</stpnm>
+                			<pdist>15706.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.695615290639</lat>
+						<lon>-87.535328865051</lon>
+
+							<typ>S</typ>
+                			<stpid>7278</stpid>
+                			<stpnm>Ewing &amp; 110th Street</stpnm>
+                			<pdist>16377.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.693764698803</lat>
+						<lon>-87.535318136215</lon>
+
+							<typ>S</typ>
+                			<stpid>7279</stpid>
+                			<stpnm>Ewing &amp; 111th Street</stpnm>
+                			<pdist>17041.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.691978146217</lat>
+						<lon>-87.535307407379</lon>
+
+							<typ>S</typ>
+                			<stpid>7280</stpid>
+                			<stpnm>Ewing &amp; 112th Street</stpnm>
+                			<pdist>17706.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.691878001667</lat>
+						<lon>-87.535307407379</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.691890019021</lat>
+						<lon>-87.537549734116</lon>
+
+							<typ>S</typ>
+                			<stpid>7282</stpid>
+                			<stpnm>112th Street &amp; Avenue M</stpnm>
+                			<pdist>18329.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.691878001667</lat>
+						<lon>-87.54015147686</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.691565549666</lat>
+						<lon>-87.540146112442</lon>
+
+							<typ>S</typ>
+                			<stpid>7284</stpid>
+                			<stpnm>Avenue O &amp; 112th Street</stpnm>
+                			<pdist>19137.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.690143473311</lat>
+						<lon>-87.540135383606</lon>
+
+							<typ>S</typ>
+                			<stpid>7285</stpid>
+                			<stpnm>Avenue O &amp; 113th Street</stpnm>
+                			<pdist>19648.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.688388868177</lat>
+						<lon>-87.540140748024</lon>
+
+							<typ>S</typ>
+                			<stpid>7286</stpid>
+                			<stpnm>Avenue O &amp; 114th Street</stpnm>
+                			<pdist>20315.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.686950697231</lat>
+						<lon>-87.54015147686</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.684911564101</lat>
+						<lon>-87.54015147686</lon>
+
+							<typ>S</typ>
+                			<stpid>7287</stpid>
+                			<stpnm>Avenue O &amp; 116th Street</stpnm>
+                			<pdist>21561.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.682327500993</lat>
+						<lon>-87.54015147686</lon>
+
+							<typ>S</typ>
+                			<stpid>7288</stpid>
+                			<stpnm>11731 S Avenue O</stpnm>
+                			<pdist>22691.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.680913233368</lat>
+						<lon>-87.540140748024</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.680913233368</lat>
+						<lon>-87.540049552917</lon>
+
+							<typ>S</typ>
+                			<stpid>17719</stpid>
+                			<stpnm>Avenue O &amp; 118th Street</stpnm>
+                			<pdist>23145.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.6809092269</lat>
+						<lon>-87.536562681198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.681898816922</lat>
+						<lon>-87.53658413887</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.681898816922</lat>
+						<lon>-87.537399530411</lon>
+
+							<typ>S</typ>
+                			<stpid>7291</stpid>
+                			<stpnm>118th Street &amp; Lake Point Plaza (3600 E)</stpnm>
+                			<pdist>24716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.681890804109</lat>
+						<lon>-87.538204193115</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.680981343287</lat>
+						<lon>-87.538214921951</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.680993362676</lat>
+						<lon>-87.540135383606</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.678930001202</lat>
+						<lon>-87.540076375008</lon>
+
+							<typ>S</typ>
+                			<stpid>7292</stpid>
+                			<stpnm>11919 S Avenue O</stpnm>
+                			<pdist>26461.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.676205461402</lat>
+						<lon>-87.540044188499</lon>
+
+							<typ>S</typ>
+                			<stpid>7293</stpid>
+                			<stpnm>Avenue O &amp; Ewing (12000 South)</stpnm>
+                			<pdist>27303.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.674791059233</lat>
+						<lon>-87.540033459663</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.673076104999</lat>
+						<lon>-87.540022730827</lon>
+
+							<typ>S</typ>
+                			<stpid>7294</stpid>
+                			<stpnm>12243 S Avenue O</stpnm>
+                			<pdist>28472.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.672414953898</lat>
+						<lon>-87.540022730827</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.67202627402</lat>
+						<lon>-87.539990544319</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.671557450838</lat>
+						<lon>-87.539899349213</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.671008482602</lat>
+						<lon>-87.539722323418</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.669533858616</lat>
+						<lon>-87.53900885582</lon>
+
+							<typ>S</typ>
+                			<stpid>7295</stpid>
+                			<stpnm>Avenue O &amp; Veteran's Drive (12400 S)</stpnm>
+                			<pdist>30124.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.669153175742</lat>
+						<lon>-87.538890838623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.668836606165</lat>
+						<lon>-87.538858652115</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.668387795994</lat>
+						<lon>-87.538858652115</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.666660649098</lat>
+						<lon>-87.539207339287</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.66568284702</lat>
+						<lon>-87.539432644844</lon>
+
+							<typ>S</typ>
+                			<stpid>17558</stpid>
+                			<stpnm>Avenue O &amp; 126th Street</stpnm>
+                			<pdist>31038.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.66422813858</lat>
+						<lon>-87.539733052254</lon>
+
+							<typ>S</typ>
+                			<stpid>7296</stpid>
+                			<stpnm>12800 S Avenue O</stpnm>
+                			<pdist>31565.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.663514798465</lat>
+						<lon>-87.539872527122</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.662901640252</lat>
+						<lon>-87.539963722229</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.662208323606</lat>
+						<lon>-87.539969086647</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.661078161395</lat>
+						<lon>-87.539958357811</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.659463036998</lat>
+						<lon>-87.539931535721</lon>
+
+							<typ>S</typ>
+                			<stpid>7297</stpid>
+                			<stpnm>Avenue O &amp; 130th Street</stpnm>
+                			<pdist>33408.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.657643468685</lat>
+						<lon>-87.539904713631</lon>
+
+							<typ>S</typ>
+                			<stpid>7298</stpid>
+                			<stpnm>Avenue O &amp; 131st Street</stpnm>
+                			<pdist>34071.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.655583366739</lat>
+						<lon>-87.539926171303</lon>
+
+							<typ>S</typ>
+                			<stpid>7299</stpid>
+                			<stpnm>Avenue O &amp; 132nd Street</stpnm>
+                			<pdist>34740.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.653791745912</lat>
+						<lon>-87.539915442467</lon>
+
+							<typ>S</typ>
+                			<stpid>7300</stpid>
+                			<stpnm>Avenue O &amp; 133rd Street</stpnm>
+                			<pdist>35425.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.651976025639</lat>
+						<lon>-87.539904713631</lon>
+
+							<typ>S</typ>
+                			<stpid>14030</stpid>
+                			<stpnm>Avenue O &amp; 134th Street</stpnm>
+                			<pdist>36067.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.650148229038</lat>
+						<lon>-87.539947628975</lon>
+
+							<typ>S</typ>
+                			<stpid>14031</stpid>
+                			<stpnm>Avenue O &amp; 135th Street</stpnm>
+                			<pdist>36742.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.649767431552</lat>
+						<lon>-87.539952993393</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.648673127299</lat>
+						<lon>-87.540001273155</lon>
+
+							<typ>S</typ>
+                			<stpid>14064</stpid>
+                			<stpnm>13600 S Avenue O (Senior Bldg)</stpnm>
+                			<pdist>37376.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.647426479659</lat>
+						<lon>-87.540113925934</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.64631610116</lat>
+						<lon>-87.540087103844</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.646163773375</lat>
+						<lon>-87.540146112442</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.64499324259</lat>
+						<lon>-87.540065646172</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.644083260473</lat>
+						<lon>-87.539985179901</lon>
+
+							<typ>S</typ>
+                			<stpid>14028</stpid>
+                			<stpnm>Avenue O &amp; Brainard (13800 S)</stpnm>
+                			<pdist>38709.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.643967006325</lat>
+						<lon>-87.539974451065</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.646320109781</lat>
+						<lon>-87.543085813522</lon>
+
+							<typ>S</typ>
+                			<stpid>14025</stpid>
+                			<stpnm>Hegewisch Metra Station</stpnm>
+                			<pdist>40070.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.648276287099</lat>
+						<lon>-87.545580267906</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.648512788119</lat>
+						<lon>-87.545853853226</lon>
+
+							<typ>S</typ>
+                			<stpid>14048</stpid>
+                			<stpnm>Brainard &amp; Brandon</stpnm>
+                			<pdist>41187.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.649470808792</lat>
+						<lon>-87.547044754028</lon>
+
+							<typ>S</typ>
+                			<stpid>15920</stpid>
+                			<stpnm>Brainard &amp; Baltimore</stpnm>
+                			<pdist>41648.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.6495429604</lat>
+						<lon>-87.547135949135</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.651759578749</lat>
+						<lon>-87.547076940536</lon>
+
+							<typ>S</typ>
+                			<stpid>7310</stpid>
+                			<stpnm>Baltimore &amp; 134th Street</stpnm>
+                			<pdist>42508.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.653603362303</lat>
+						<lon>-87.547076940536</lon>
+
+							<typ>S</typ>
+                			<stpid>7311</stpid>
+                			<stpnm>Baltimore &amp; 133rd Street</stpnm>
+                			<pdist>43171.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.655415028648</lat>
+						<lon>-87.547087669373</lon>
+
+							<typ>S</typ>
+                			<stpid>7312</stpid>
+                			<stpnm>132nd Street &amp; Baltimore</stpnm>
+                			<pdist>44006.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.655543286281</lat>
+						<lon>-87.547093033791</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.655543286281</lat>
+						<lon>-87.54943728447</lon>
+
+							<typ>S</typ>
+                			<stpid>7313</stpid>
+                			<stpnm>132nd Street &amp; Carondolet</stpnm>
+                			<pdist>44517.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.655551302375</lat>
+						<lon>-87.551802992821</lon>
+
+							<typ>S</typ>
+                			<stpid>7314</stpid>
+                			<stpnm>132nd Street &amp; Exchange</stpnm>
+                			<pdist>45167.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.655559318467</lat>
+						<lon>-87.551958560944</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.657326842516</lat>
+						<lon>-87.55194246769</lon>
+
+							<typ>S</typ>
+                			<stpid>7315</stpid>
+                			<stpnm>Exchange &amp; 131st Street</stpnm>
+                			<pdist>45884.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.659158443242</lat>
+						<lon>-87.551937103271</lon>
+
+							<typ>S</typ>
+                			<stpid>7316</stpid>
+                			<stpnm>Exchange &amp; 130th Street</stpnm>
+                			<pdist>46495.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.659150427598</lat>
+						<lon>-87.549662590027</lon>
+
+							<typ>S</typ>
+                			<stpid>7317</stpid>
+                			<stpnm>130th Street &amp; Carondolet</stpnm>
+                			<pdist>47125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.659122372834</lat>
+						<lon>-87.547302246094</lon>
+
+							<typ>S</typ>
+                			<stpid>7318</stpid>
+                			<stpnm>130th Street &amp; Baltimore</stpnm>
+                			<pdist>47769.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.659118365009</lat>
+						<lon>-87.547173500061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.657439064628</lat>
+						<lon>-87.547162771225</lon>
+
+							<typ>S</typ>
+                			<stpid>7319</stpid>
+                			<stpnm>Baltimore &amp; 131st Street</stpnm>
+                			<pdist>48440.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.65565150346</lat>
+						<lon>-87.547189593315</lon>
+
+							<typ>S</typ>
+                			<stpid>7320</stpid>
+                			<stpnm>Baltimore &amp; 132nd Street</stpnm>
+                			<pdist>49108.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.653795754068</lat>
+						<lon>-87.547157406807</lon>
+
+							<typ>S</typ>
+                			<stpid>7321</stpid>
+                			<stpnm>Baltimore &amp; 133rd Street</stpnm>
+                			<pdist>49773.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.651980033908</lat>
+						<lon>-87.547162771225</lon>
+
+							<typ>S</typ>
+                			<stpid>7322</stpid>
+                			<stpnm>Baltimore &amp; 134th Street</stpnm>
+                			<pdist>50438.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.650701383482</lat>
+						<lon>-87.547178864479</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.649671229725</lat>
+						<lon>-87.547205686569</lon>
+
+							<typ>S</typ>
+                			<stpid>7323</stpid>
+                			<stpnm>Baltimore &amp; Brainard</stpnm>
+                			<pdist>51268.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.649506884606</lat>
+						<lon>-87.547211050987</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.648412575928</lat>
+						<lon>-87.545864582062</lon>
+
+							<typ>S</typ>
+                			<stpid>14027</stpid>
+                			<stpnm>Brainard &amp; Brandon</stpnm>
+                			<pdist>51927.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.646436359683</lat>
+						<lon>-87.543354034424</lon>
+
+							<typ>S</typ>
+                			<stpid>14024</stpid>
+                			<stpnm>Hegewisch Metra Station</stpnm>
+                			<pdist>53174.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>3939</pid>
+				<ln>46495.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.728204215358</lat>
+						<lon>-87.551159262657</lon>
+
+							<typ>S</typ>
+                			<stpid>7252</stpid>
+                			<stpnm>92nd Street &amp; Commercial</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.728228236487</lat>
+						<lon>-87.549759149551</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.729941720491</lat>
+						<lon>-87.549812793732</lon>
+
+							<typ>S</typ>
+                			<stpid>7254</stpid>
+                			<stpnm>Houston &amp; 91st Street</stpnm>
+                			<pdist>1029.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.730049812576</lat>
+						<lon>-87.54981815815</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.730089846635</lat>
+						<lon>-87.547082304955</lon>
+
+							<typ>S</typ>
+                			<stpid>7256</stpid>
+                			<stpnm>91st Street &amp; Brandon</stpnm>
+                			<pdist>1799.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.730125877267</lat>
+						<lon>-87.544464468956</lon>
+
+							<typ>S</typ>
+                			<stpid>7258</stpid>
+                			<stpnm>91st Street &amp; Buffalo</stpnm>
+                			<pdist>2519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.730149897677</lat>
+						<lon>-87.542962431908</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.728748692068</lat>
+						<lon>-87.542924880981</lon>
+
+							<typ>S</typ>
+                			<stpid>7260</stpid>
+                			<stpnm>Mackinaw &amp; 92nd Street</stpnm>
+                			<pdist>3414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.728488464805</lat>
+						<lon>-87.542914152145</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.72837236307</lat>
+						<lon>-87.542898058891</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.728252257606</lat>
+						<lon>-87.542871236801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.728172187172</lat>
+						<lon>-87.542796134949</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.727159287569</lat>
+						<lon>-87.540875673294</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.726706880611</lat>
+						<lon>-87.540022730827</lon>
+
+							<typ>S</typ>
+                			<stpid>7261</stpid>
+                			<stpnm>9320 S Ewing</stpnm>
+                			<pdist>4584.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.726302514173</lat>
+						<lon>-87.539341449738</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.726118346437</lat>
+						<lon>-87.539175152779</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.724817146305</lat>
+						<lon>-87.538107633591</lon>
+
+							<typ>S</typ>
+                			<stpid>7262</stpid>
+                			<stpnm>Ewing &amp; 94th Street</stpnm>
+                			<pdist>5462.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.723179598536</lat>
+						<lon>-87.536766529083</lon>
+
+							<typ>S</typ>
+                			<stpid>7263</stpid>
+                			<stpnm>Ewing &amp; 95th Street</stpnm>
+                			<pdist>6167.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.722631070759</lat>
+						<lon>-87.536337375641</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.721453922351</lat>
+						<lon>-87.535393238068</lon>
+
+							<typ>S</typ>
+                			<stpid>7264</stpid>
+                			<stpnm>Ewing &amp; 96th Street</stpnm>
+                			<pdist>6876.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.721333803954</lat>
+						<lon>-87.535334229469</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.719684155253</lat>
+						<lon>-87.535328865051</lon>
+
+							<typ>S</typ>
+                			<stpid>7265</stpid>
+                			<stpnm>Ewing &amp; 97th Street</stpnm>
+                			<pdist>7540.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.717974401838</lat>
+						<lon>-87.535318136215</lon>
+
+							<typ>S</typ>
+                			<stpid>7266</stpid>
+                			<stpnm>Ewing &amp; 98th Street</stpnm>
+                			<pdist>8211.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.71599231226</lat>
+						<lon>-87.535318136215</lon>
+
+							<typ>S</typ>
+                			<stpid>7267</stpid>
+                			<stpnm>Ewing &amp; 99th Street</stpnm>
+                			<pdist>8925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.714678893978</lat>
+						<lon>-87.535318136215</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.713169230665</lat>
+						<lon>-87.535312771797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.712500482534</lat>
+						<lon>-87.535312771797</lon>
+
+							<typ>S</typ>
+                			<stpid>17043</stpid>
+                			<stpnm>Ewing &amp; Indianapolis</stpnm>
+                			<pdist>10155.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.710241904483</lat>
+						<lon>-87.535323500633</lon>
+
+							<typ>S</typ>
+                			<stpid>7270</stpid>
+                			<stpnm>Ewing &amp; 102nd Street</stpnm>
+                			<pdist>11018.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.708443795365</lat>
+						<lon>-87.535318136215</lon>
+
+							<typ>S</typ>
+                			<stpid>7271</stpid>
+                			<stpnm>Ewing &amp; 103rd Street</stpnm>
+                			<pdist>11694.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.706577553205</lat>
+						<lon>-87.535323500633</lon>
+
+							<typ>S</typ>
+                			<stpid>7272</stpid>
+                			<stpnm>Ewing &amp; 104th Street</stpnm>
+                			<pdist>12371.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.704803371481</lat>
+						<lon>-87.535318136215</lon>
+
+							<typ>S</typ>
+                			<stpid>7273</stpid>
+                			<stpnm>Ewing &amp; 105th Street</stpnm>
+                			<pdist>13043.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.702912993065</lat>
+						<lon>-87.535302042961</lon>
+
+							<typ>S</typ>
+                			<stpid>7274</stpid>
+                			<stpnm>Ewing &amp; 106th Street</stpnm>
+                			<pdist>13719.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.701054600789</lat>
+						<lon>-87.535312771797</lon>
+
+							<typ>S</typ>
+                			<stpid>7275</stpid>
+                			<stpnm>Ewing &amp; 107th Street</stpnm>
+                			<pdist>14379.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.699276261343</lat>
+						<lon>-87.535323500633</lon>
+
+							<typ>S</typ>
+                			<stpid>7276</stpid>
+                			<stpnm>Ewing &amp; 108th Street</stpnm>
+                			<pdist>15050.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.697381714994</lat>
+						<lon>-87.535334229469</lon>
+
+							<typ>S</typ>
+                			<stpid>7277</stpid>
+                			<stpnm>Ewing &amp; 109th Street</stpnm>
+                			<pdist>15706.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.695615290639</lat>
+						<lon>-87.535328865051</lon>
+
+							<typ>S</typ>
+                			<stpid>7278</stpid>
+                			<stpnm>Ewing &amp; 110th Street</stpnm>
+                			<pdist>16377.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.693764698803</lat>
+						<lon>-87.535318136215</lon>
+
+							<typ>S</typ>
+                			<stpid>7279</stpid>
+                			<stpnm>Ewing &amp; 111th Street</stpnm>
+                			<pdist>17041.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.691978146217</lat>
+						<lon>-87.535307407379</lon>
+
+							<typ>S</typ>
+                			<stpid>7280</stpid>
+                			<stpnm>Ewing &amp; 112th Street</stpnm>
+                			<pdist>17706.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.691878001667</lat>
+						<lon>-87.535307407379</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.691890019021</lat>
+						<lon>-87.537549734116</lon>
+
+							<typ>S</typ>
+                			<stpid>7282</stpid>
+                			<stpnm>112th Street &amp; Avenue M</stpnm>
+                			<pdist>18329.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.691878001667</lat>
+						<lon>-87.54015147686</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.691565549666</lat>
+						<lon>-87.540146112442</lon>
+
+							<typ>S</typ>
+                			<stpid>7284</stpid>
+                			<stpnm>Avenue O &amp; 112th Street</stpnm>
+                			<pdist>19137.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.690143473311</lat>
+						<lon>-87.540135383606</lon>
+
+							<typ>S</typ>
+                			<stpid>7285</stpid>
+                			<stpnm>Avenue O &amp; 113th Street</stpnm>
+                			<pdist>19648.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.688388868177</lat>
+						<lon>-87.540140748024</lon>
+
+							<typ>S</typ>
+                			<stpid>7286</stpid>
+                			<stpnm>Avenue O &amp; 114th Street</stpnm>
+                			<pdist>20315.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.686950697231</lat>
+						<lon>-87.54015147686</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.684911564101</lat>
+						<lon>-87.54015147686</lon>
+
+							<typ>S</typ>
+                			<stpid>7287</stpid>
+                			<stpnm>Avenue O &amp; 116th Street</stpnm>
+                			<pdist>21561.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.682327500993</lat>
+						<lon>-87.54015147686</lon>
+
+							<typ>S</typ>
+                			<stpid>7288</stpid>
+                			<stpnm>11731 S Avenue O</stpnm>
+                			<pdist>22691.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.680913233368</lat>
+						<lon>-87.540140748024</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.680913233368</lat>
+						<lon>-87.540049552917</lon>
+
+							<typ>S</typ>
+                			<stpid>17719</stpid>
+                			<stpnm>Avenue O &amp; 118th Street</stpnm>
+                			<pdist>23145.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.6809092269</lat>
+						<lon>-87.536562681198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.681898816922</lat>
+						<lon>-87.53658413887</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.681898816922</lat>
+						<lon>-87.537399530411</lon>
+
+							<typ>S</typ>
+                			<stpid>7291</stpid>
+                			<stpnm>118th Street &amp; Lake Point Plaza (3600 E)</stpnm>
+                			<pdist>24716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.681890804109</lat>
+						<lon>-87.538204193115</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.680981343287</lat>
+						<lon>-87.538214921951</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.680993362676</lat>
+						<lon>-87.540135383606</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.678930001202</lat>
+						<lon>-87.540076375008</lon>
+
+							<typ>S</typ>
+                			<stpid>7292</stpid>
+                			<stpnm>11919 S Avenue O</stpnm>
+                			<pdist>26461.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.676205461402</lat>
+						<lon>-87.540044188499</lon>
+
+							<typ>S</typ>
+                			<stpid>7293</stpid>
+                			<stpnm>Avenue O &amp; Ewing (12000 South)</stpnm>
+                			<pdist>27303.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.674791059233</lat>
+						<lon>-87.540033459663</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.673076104999</lat>
+						<lon>-87.540022730827</lon>
+
+							<typ>S</typ>
+                			<stpid>7294</stpid>
+                			<stpnm>12243 S Avenue O</stpnm>
+                			<pdist>28472.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.672414953898</lat>
+						<lon>-87.540022730827</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.67202627402</lat>
+						<lon>-87.539990544319</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.671557450838</lat>
+						<lon>-87.539899349213</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.671008482602</lat>
+						<lon>-87.539722323418</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.669533858616</lat>
+						<lon>-87.53900885582</lon>
+
+							<typ>S</typ>
+                			<stpid>7295</stpid>
+                			<stpnm>Avenue O &amp; Veteran's Drive (12400 S)</stpnm>
+                			<pdist>30124.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.669153175742</lat>
+						<lon>-87.538890838623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.668836606165</lat>
+						<lon>-87.538858652115</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.668387795994</lat>
+						<lon>-87.538858652115</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.666660649098</lat>
+						<lon>-87.539207339287</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.66568284702</lat>
+						<lon>-87.539432644844</lon>
+
+							<typ>S</typ>
+                			<stpid>17558</stpid>
+                			<stpnm>Avenue O &amp; 126th Street</stpnm>
+                			<pdist>31038.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.66422813858</lat>
+						<lon>-87.539733052254</lon>
+
+							<typ>S</typ>
+                			<stpid>7296</stpid>
+                			<stpnm>12800 S Avenue O</stpnm>
+                			<pdist>31565.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.663514798465</lat>
+						<lon>-87.539872527122</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.662901640252</lat>
+						<lon>-87.539963722229</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.662208323606</lat>
+						<lon>-87.539969086647</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.661078161395</lat>
+						<lon>-87.539958357811</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.659463036998</lat>
+						<lon>-87.539931535721</lon>
+
+							<typ>S</typ>
+                			<stpid>7297</stpid>
+                			<stpnm>Avenue O &amp; 130th Street</stpnm>
+                			<pdist>33408.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.657643468685</lat>
+						<lon>-87.539904713631</lon>
+
+							<typ>S</typ>
+                			<stpid>7298</stpid>
+                			<stpnm>Avenue O &amp; 131st Street</stpnm>
+                			<pdist>34071.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.655583366739</lat>
+						<lon>-87.539926171303</lon>
+
+							<typ>S</typ>
+                			<stpid>7299</stpid>
+                			<stpnm>Avenue O &amp; 132nd Street</stpnm>
+                			<pdist>34740.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.653791745912</lat>
+						<lon>-87.539915442467</lon>
+
+							<typ>S</typ>
+                			<stpid>7300</stpid>
+                			<stpnm>Avenue O &amp; 133rd Street</stpnm>
+                			<pdist>35425.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.651976025639</lat>
+						<lon>-87.539904713631</lon>
+
+							<typ>S</typ>
+                			<stpid>14030</stpid>
+                			<stpnm>Avenue O &amp; 134th Street</stpnm>
+                			<pdist>36067.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.650148229038</lat>
+						<lon>-87.539947628975</lon>
+
+							<typ>S</typ>
+                			<stpid>14031</stpid>
+                			<stpnm>Avenue O &amp; 135th Street</stpnm>
+                			<pdist>36742.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.649767431552</lat>
+						<lon>-87.539952993393</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.648673127299</lat>
+						<lon>-87.540001273155</lon>
+
+							<typ>S</typ>
+                			<stpid>14064</stpid>
+                			<stpnm>13600 S Avenue O (Senior Bldg)</stpnm>
+                			<pdist>37376.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.647426479659</lat>
+						<lon>-87.540113925934</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.64631610116</lat>
+						<lon>-87.540087103844</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.646163773375</lat>
+						<lon>-87.540146112442</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.64499324259</lat>
+						<lon>-87.540065646172</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.644083260473</lat>
+						<lon>-87.539985179901</lon>
+
+							<typ>S</typ>
+                			<stpid>14028</stpid>
+                			<stpnm>Avenue O &amp; Brainard (13800 S)</stpnm>
+                			<pdist>38709.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.643967006325</lat>
+						<lon>-87.539974451065</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.646320109781</lat>
+						<lon>-87.543085813522</lon>
+
+							<typ>S</typ>
+                			<stpid>14025</stpid>
+                			<stpnm>Hegewisch Metra Station</stpnm>
+                			<pdist>40070.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.648276287099</lat>
+						<lon>-87.545580267906</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.648512788119</lat>
+						<lon>-87.545853853226</lon>
+
+							<typ>S</typ>
+                			<stpid>14048</stpid>
+                			<stpnm>Brainard &amp; Brandon</stpnm>
+                			<pdist>41187.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.649470808792</lat>
+						<lon>-87.547044754028</lon>
+
+							<typ>S</typ>
+                			<stpid>15920</stpid>
+                			<stpnm>Brainard &amp; Baltimore</stpnm>
+                			<pdist>41648.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.6495429604</lat>
+						<lon>-87.547135949135</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.651759578749</lat>
+						<lon>-87.547076940536</lon>
+
+							<typ>S</typ>
+                			<stpid>7310</stpid>
+                			<stpnm>Baltimore &amp; 134th Street</stpnm>
+                			<pdist>42508.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.653603362303</lat>
+						<lon>-87.547076940536</lon>
+
+							<typ>S</typ>
+                			<stpid>7311</stpid>
+                			<stpnm>Baltimore &amp; 133rd Street</stpnm>
+                			<pdist>43171.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.655415028648</lat>
+						<lon>-87.547087669373</lon>
+
+							<typ>S</typ>
+                			<stpid>7312</stpid>
+                			<stpnm>132nd Street &amp; Baltimore</stpnm>
+                			<pdist>44006.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.655543286281</lat>
+						<lon>-87.547093033791</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.655543286281</lat>
+						<lon>-87.54943728447</lon>
+
+							<typ>S</typ>
+                			<stpid>7313</stpid>
+                			<stpnm>132nd Street &amp; Carondolet</stpnm>
+                			<pdist>44517.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.655551302375</lat>
+						<lon>-87.551802992821</lon>
+
+							<typ>S</typ>
+                			<stpid>7314</stpid>
+                			<stpnm>132nd Street &amp; Exchange</stpnm>
+                			<pdist>45167.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.655559318467</lat>
+						<lon>-87.551958560944</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.657326842516</lat>
+						<lon>-87.55194246769</lon>
+
+							<typ>S</typ>
+                			<stpid>7315</stpid>
+                			<stpnm>Exchange &amp; 131st Street</stpnm>
+                			<pdist>45884.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.659158443242</lat>
+						<lon>-87.551937103271</lon>
+
+							<typ>S</typ>
+                			<stpid>7316</stpid>
+                			<stpnm>Exchange &amp; 130th Street</stpnm>
+                			<pdist>46495.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5534</pid>
+				<ln>80250.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.76879910637</lat>
+						<lon>-87.625998258591</lon>
+
+							<typ>S</typ>
+                			<stpid>14138</stpid>
+                			<stpnm>69th Red Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.76879910637</lat>
+						<lon>-87.626486420631</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.769087177104</lat>
+						<lon>-87.626502513885</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.769103180996</lat>
+						<lon>-87.625300884247</lon>
+
+							<typ>S</typ>
+                			<stpid>10178</stpid>
+                			<stpnm>69th Red Line Station</stpnm>
+                			<pdist>398.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.769103180996</lat>
+						<lon>-87.624619603157</lon>
+
+							<typ>S</typ>
+                			<stpid>10179</stpid>
+                			<stpnm>69th Street &amp; State</stpnm>
+                			<pdist>758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.769103180996</lat>
+						<lon>-87.624351382256</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.769131187797</lat>
+						<lon>-87.624174356461</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.769151192647</lat>
+						<lon>-87.623509168625</lon>
+
+							<typ>S</typ>
+                			<stpid>7215</stpid>
+                			<stpnm>69th Street &amp; Wabash</stpnm>
+                			<pdist>1002.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.769179199427</lat>
+						<lon>-87.621910572052</lon>
+
+							<typ>S</typ>
+                			<stpid>7216</stpid>
+                			<stpnm>69th Street &amp; Michigan</stpnm>
+                			<pdist>1441.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.769211207161</lat>
+						<lon>-87.620344161987</lon>
+
+							<typ>S</typ>
+                			<stpid>7217</stpid>
+                			<stpnm>69th Street &amp; Indiana</stpnm>
+                			<pdist>1894.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.769243214878</lat>
+						<lon>-87.618697285652</lon>
+
+							<typ>S</typ>
+                			<stpid>7218</stpid>
+                			<stpnm>69th Street &amp; Prairie</stpnm>
+                			<pdist>2340.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.769279223542</lat>
+						<lon>-87.617061138153</lon>
+
+							<typ>S</typ>
+                			<stpid>7219</stpid>
+                			<stpnm>69th Street &amp; Calumet</stpnm>
+                			<pdist>2786.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.769299228346</lat>
+						<lon>-87.61548936367</lon>
+
+							<typ>S</typ>
+                			<stpid>7220</stpid>
+                			<stpnm>69th Street &amp; King Drive</stpnm>
+                			<pdist>3228.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.769331236019</lat>
+						<lon>-87.614051699638</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.769367244633</lat>
+						<lon>-87.613772749901</lon>
+
+							<typ>S</typ>
+                			<stpid>7221</stpid>
+                			<stpnm>69th Street &amp; Anthony</stpnm>
+                			<pdist>3731.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.7694872732</lat>
+						<lon>-87.613531351089</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.77050750695</lat>
+						<lon>-87.612195611</lon>
+
+							<typ>S</typ>
+                			<stpid>7222</stpid>
+                			<stpnm>Keefe &amp; South Chicago</stpnm>
+                			<pdist>4285.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.770543514903</lat>
+						<lon>-87.61216878891</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.769483272251</lat>
+						<lon>-87.610688209534</lon>
+
+							<typ>S</typ>
+                			<stpid>7223</stpid>
+                			<stpnm>South Chicago &amp; 69th street</stpnm>
+                			<pdist>4871.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.768006905181</lat>
+						<lon>-87.608617544174</lon>
+
+							<typ>S</typ>
+                			<stpid>7224</stpid>
+                			<stpnm>South Chicago &amp; 69th Place</stpnm>
+                			<pdist>5685.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.766106382648</lat>
+						<lon>-87.605946063995</lon>
+
+							<typ>S</typ>
+                			<stpid>7225</stpid>
+                			<stpnm>South Chicago &amp; 71st Street/Cottage Grove</stpnm>
+                			<pdist>6647.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.765454190361</lat>
+						<lon>-87.605028748512</lon>
+
+							<typ>S</typ>
+                			<stpid>7226</stpid>
+                			<stpnm>South Chicago &amp; 71st Street/Cottage Grove</stpnm>
+                			<pdist>6973.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.764449881299</lat>
+						<lon>-87.60361790657</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.76330550998</lat>
+						<lon>-87.602008581161</lon>
+
+							<typ>S</typ>
+                			<stpid>17660</stpid>
+                			<stpnm>South Chicago &amp; Ingleside</stpnm>
+                			<pdist>8080.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.762521243722</lat>
+						<lon>-87.600919604301</lon>
+
+							<typ>S</typ>
+                			<stpid>7229</stpid>
+                			<stpnm>South Chicago &amp; 73rd Street/Ellis</stpnm>
+                			<pdist>8529.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.760584545168</lat>
+						<lon>-87.598237395287</lon>
+
+							<typ>S</typ>
+                			<stpid>7230</stpid>
+                			<stpnm>South Chicago &amp; 74th Street/Greenwood</stpnm>
+                			<pdist>9526.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.758879881959</lat>
+						<lon>-87.595909237862</lon>
+
+							<typ>S</typ>
+                			<stpid>7231</stpid>
+                			<stpnm>South Chicago &amp; 75th Street/Woodlawn</stpnm>
+                			<pdist>10380.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.757075130484</lat>
+						<lon>-87.593377232552</lon>
+
+							<typ>S</typ>
+                			<stpid>7232</stpid>
+                			<stpnm>South Chicago &amp; 76th Street</stpnm>
+                			<pdist>11383.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.755602479705</lat>
+						<lon>-87.591349482536</lon>
+
+							<typ>S</typ>
+                			<stpid>7233</stpid>
+                			<stpnm>South Chicago &amp; Dorchester</stpnm>
+                			<pdist>12151.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.754778100658</lat>
+						<lon>-87.590180039406</lon>
+
+							<typ>S</typ>
+                			<stpid>7234</stpid>
+                			<stpnm>South Chicago &amp; Dante</stpnm>
+                			<pdist>12607.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.753829651472</lat>
+						<lon>-87.58886039257</lon>
+
+							<typ>S</typ>
+                			<stpid>7235</stpid>
+                			<stpnm>South Chicago &amp; Blackstone</stpnm>
+                			<pdist>13045.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.752917206117</lat>
+						<lon>-87.587572932243</lon>
+
+							<typ>S</typ>
+                			<stpid>7236</stpid>
+                			<stpnm>South Chicago &amp; Harper</stpnm>
+                			<pdist>13547.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.751864676285</lat>
+						<lon>-87.586097717285</lon>
+
+							<typ>S</typ>
+                			<stpid>7237</stpid>
+                			<stpnm>South Chicago &amp; 79th Street/Stony Island</stpnm>
+                			<pdist>14162.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.751080270206</lat>
+						<lon>-87.585019469261</lon>
+
+							<typ>S</typ>
+                			<stpid>7238</stpid>
+                			<stpnm>South Chicago &amp; 79th Street/Stony Island</stpnm>
+                			<pdist>14536.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.749943664799</lat>
+						<lon>-87.583479881287</lon>
+
+							<typ>S</typ>
+                			<stpid>7239</stpid>
+                			<stpnm>South Chicago &amp; East End </stpnm>
+                			<pdist>15134.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.748726994457</lat>
+						<lon>-87.581800818443</lon>
+
+							<typ>S</typ>
+                			<stpid>7240</stpid>
+                			<stpnm>South Chicago &amp; East End </stpnm>
+                			<pdist>15667.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.747310184802</lat>
+						<lon>-87.579826712608</lon>
+
+							<typ>S</typ>
+                			<stpid>15967</stpid>
+                			<stpnm>South Chicago &amp; Elliott</stpnm>
+                			<pdist>16532.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.746193524651</lat>
+						<lon>-87.57827103138</lon>
+
+							<typ>S</typ>
+                			<stpid>7241</stpid>
+                			<stpnm>South Chicago &amp; Bennett</stpnm>
+                			<pdist>17133.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.744524501767</lat>
+						<lon>-87.575969696045</lon>
+
+							<typ>S</typ>
+                			<stpid>7242</stpid>
+                			<stpnm>South Chicago &amp; Jeffery</stpnm>
+                			<pdist>17933.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.742415146994</lat>
+						<lon>-87.573003172874</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.741310409825</lat>
+						<lon>-87.571479678154</lon>
+
+							<typ>S</typ>
+                			<stpid>17642</stpid>
+                			<stpnm>South Chicago &amp; 85th Street</stpnm>
+                			<pdist>19627.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.739465136153</lat>
+						<lon>-87.568936944008</lon>
+
+							<typ>S</typ>
+                			<stpid>7244</stpid>
+                			<stpnm>South Chicago &amp; 86th Street/Crandon</stpnm>
+                			<pdist>20569.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.738676575702</lat>
+						<lon>-87.567831873894</lon>
+
+							<typ>S</typ>
+                			<stpid>7245</stpid>
+                			<stpnm>South Chicago &amp; Oglesby</stpnm>
+                			<pdist>21024.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.737415659429</lat>
+						<lon>-87.566077709198</lon>
+
+							<typ>S</typ>
+                			<stpid>7246</stpid>
+                			<stpnm>South Chicago &amp; 87th Street/Yates</stpnm>
+                			<pdist>21659.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.737115437619</lat>
+						<lon>-87.56566464901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.735121929208</lat>
+						<lon>-87.562896609306</lon>
+
+							<typ>S</typ>
+                			<stpid>7247</stpid>
+                			<stpnm>South Chicago &amp; Kingston</stpnm>
+                			<pdist>22900.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.733800895573</lat>
+						<lon>-87.56106197834</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.733224436017</lat>
+						<lon>-87.560251951218</lon>
+
+							<typ>S</typ>
+                			<stpid>7248</stpid>
+                			<stpnm>South Chicago &amp; 89th Street</stpnm>
+                			<pdist>23881.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.732876155861</lat>
+						<lon>-87.559785246849</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.729993764851</lat>
+						<lon>-87.555783390999</lon>
+
+							<typ>S</typ>
+                			<stpid>7249</stpid>
+                			<stpnm>South Chicago &amp; 91st Avenue</stpnm>
+                			<pdist>25626.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.728816751333</lat>
+						<lon>-87.5541472435</lon>
+
+							<typ>S</typ>
+                			<stpid>7250</stpid>
+                			<stpnm>9177 S South Chicago (CHA Building)</stpnm>
+                			<pdist>26215.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.728188201267</lat>
+						<lon>-87.553272843361</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.72819220479</lat>
+						<lon>-87.552655935287</lon>
+
+							<typ>S</typ>
+                			<stpid>7251</stpid>
+                			<stpnm>92nd Street &amp; Exchange</stpnm>
+                			<pdist>26700.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.728204215358</lat>
+						<lon>-87.551159262657</lon>
+
+							<typ>S</typ>
+                			<stpid>7252</stpid>
+                			<stpnm>92nd Street &amp; Commercial</stpnm>
+                			<pdist>27076.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.728228236487</lat>
+						<lon>-87.549759149551</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.729941720491</lat>
+						<lon>-87.549812793732</lon>
+
+							<typ>S</typ>
+                			<stpid>7254</stpid>
+                			<stpnm>Houston &amp; 91st Street</stpnm>
+                			<pdist>28105.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.730049812576</lat>
+						<lon>-87.54981815815</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.730089846635</lat>
+						<lon>-87.547082304955</lon>
+
+							<typ>S</typ>
+                			<stpid>7256</stpid>
+                			<stpnm>91st Street &amp; Brandon</stpnm>
+                			<pdist>28875.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.730125877267</lat>
+						<lon>-87.544464468956</lon>
+
+							<typ>S</typ>
+                			<stpid>7258</stpid>
+                			<stpnm>91st Street &amp; Buffalo</stpnm>
+                			<pdist>29595.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.730149897677</lat>
+						<lon>-87.542962431908</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.728748692068</lat>
+						<lon>-87.542924880981</lon>
+
+							<typ>S</typ>
+                			<stpid>7260</stpid>
+                			<stpnm>Mackinaw &amp; 92nd Street</stpnm>
+                			<pdist>30490.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.728488464805</lat>
+						<lon>-87.542914152145</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.72837236307</lat>
+						<lon>-87.542898058891</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.728252257606</lat>
+						<lon>-87.542871236801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.728172187172</lat>
+						<lon>-87.542796134949</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.727159287569</lat>
+						<lon>-87.540875673294</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.726706880611</lat>
+						<lon>-87.540022730827</lon>
+
+							<typ>S</typ>
+                			<stpid>7261</stpid>
+                			<stpnm>9320 S Ewing</stpnm>
+                			<pdist>31660.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.726302514173</lat>
+						<lon>-87.539341449738</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.726118346437</lat>
+						<lon>-87.539175152779</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.724817146305</lat>
+						<lon>-87.538107633591</lon>
+
+							<typ>S</typ>
+                			<stpid>7262</stpid>
+                			<stpnm>Ewing &amp; 94th Street</stpnm>
+                			<pdist>32538.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.723179598536</lat>
+						<lon>-87.536766529083</lon>
+
+							<typ>S</typ>
+                			<stpid>7263</stpid>
+                			<stpnm>Ewing &amp; 95th Street</stpnm>
+                			<pdist>33243.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.722631070759</lat>
+						<lon>-87.536337375641</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.721453922351</lat>
+						<lon>-87.535393238068</lon>
+
+							<typ>S</typ>
+                			<stpid>7264</stpid>
+                			<stpnm>Ewing &amp; 96th Street</stpnm>
+                			<pdist>33952.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.721333803954</lat>
+						<lon>-87.535334229469</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.719684155253</lat>
+						<lon>-87.535328865051</lon>
+
+							<typ>S</typ>
+                			<stpid>7265</stpid>
+                			<stpnm>Ewing &amp; 97th Street</stpnm>
+                			<pdist>34616.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.717974401838</lat>
+						<lon>-87.535318136215</lon>
+
+							<typ>S</typ>
+                			<stpid>7266</stpid>
+                			<stpnm>Ewing &amp; 98th Street</stpnm>
+                			<pdist>35287.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.71599231226</lat>
+						<lon>-87.535318136215</lon>
+
+							<typ>S</typ>
+                			<stpid>7267</stpid>
+                			<stpnm>Ewing &amp; 99th Street</stpnm>
+                			<pdist>36001.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.714678893978</lat>
+						<lon>-87.535318136215</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.713169230665</lat>
+						<lon>-87.535312771797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.712500482534</lat>
+						<lon>-87.535312771797</lon>
+
+							<typ>S</typ>
+                			<stpid>17043</stpid>
+                			<stpnm>Ewing &amp; Indianapolis</stpnm>
+                			<pdist>37231.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.710241904483</lat>
+						<lon>-87.535323500633</lon>
+
+							<typ>S</typ>
+                			<stpid>7270</stpid>
+                			<stpnm>Ewing &amp; 102nd Street</stpnm>
+                			<pdist>38094.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.708443795365</lat>
+						<lon>-87.535318136215</lon>
+
+							<typ>S</typ>
+                			<stpid>7271</stpid>
+                			<stpnm>Ewing &amp; 103rd Street</stpnm>
+                			<pdist>38770.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.706577553205</lat>
+						<lon>-87.535323500633</lon>
+
+							<typ>S</typ>
+                			<stpid>7272</stpid>
+                			<stpnm>Ewing &amp; 104th Street</stpnm>
+                			<pdist>39447.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.704803371481</lat>
+						<lon>-87.535318136215</lon>
+
+							<typ>S</typ>
+                			<stpid>7273</stpid>
+                			<stpnm>Ewing &amp; 105th Street</stpnm>
+                			<pdist>40119.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.702912993065</lat>
+						<lon>-87.535302042961</lon>
+
+							<typ>S</typ>
+                			<stpid>7274</stpid>
+                			<stpnm>Ewing &amp; 106th Street</stpnm>
+                			<pdist>40795.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.701054600789</lat>
+						<lon>-87.535312771797</lon>
+
+							<typ>S</typ>
+                			<stpid>7275</stpid>
+                			<stpnm>Ewing &amp; 107th Street</stpnm>
+                			<pdist>41455.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.699276261343</lat>
+						<lon>-87.535323500633</lon>
+
+							<typ>S</typ>
+                			<stpid>7276</stpid>
+                			<stpnm>Ewing &amp; 108th Street</stpnm>
+                			<pdist>42126.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.697381714994</lat>
+						<lon>-87.535334229469</lon>
+
+							<typ>S</typ>
+                			<stpid>7277</stpid>
+                			<stpnm>Ewing &amp; 109th Street</stpnm>
+                			<pdist>42782.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.695615290639</lat>
+						<lon>-87.535328865051</lon>
+
+							<typ>S</typ>
+                			<stpid>7278</stpid>
+                			<stpnm>Ewing &amp; 110th Street</stpnm>
+                			<pdist>43453.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.693764698803</lat>
+						<lon>-87.535318136215</lon>
+
+							<typ>S</typ>
+                			<stpid>7279</stpid>
+                			<stpnm>Ewing &amp; 111th Street</stpnm>
+                			<pdist>44117.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.691978146217</lat>
+						<lon>-87.535307407379</lon>
+
+							<typ>S</typ>
+                			<stpid>7280</stpid>
+                			<stpnm>Ewing &amp; 112th Street</stpnm>
+                			<pdist>44782.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.691878001667</lat>
+						<lon>-87.535307407379</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.691890019021</lat>
+						<lon>-87.537549734116</lon>
+
+							<typ>S</typ>
+                			<stpid>7282</stpid>
+                			<stpnm>112th Street &amp; Avenue M</stpnm>
+                			<pdist>45405.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.691878001667</lat>
+						<lon>-87.54015147686</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.691565549666</lat>
+						<lon>-87.540146112442</lon>
+
+							<typ>S</typ>
+                			<stpid>7284</stpid>
+                			<stpnm>Avenue O &amp; 112th Street</stpnm>
+                			<pdist>46213.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.690143473311</lat>
+						<lon>-87.540135383606</lon>
+
+							<typ>S</typ>
+                			<stpid>7285</stpid>
+                			<stpnm>Avenue O &amp; 113th Street</stpnm>
+                			<pdist>46724.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.688388868177</lat>
+						<lon>-87.540140748024</lon>
+
+							<typ>S</typ>
+                			<stpid>7286</stpid>
+                			<stpnm>Avenue O &amp; 114th Street</stpnm>
+                			<pdist>47391.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.686950697231</lat>
+						<lon>-87.54015147686</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.684911564101</lat>
+						<lon>-87.54015147686</lon>
+
+							<typ>S</typ>
+                			<stpid>7287</stpid>
+                			<stpnm>Avenue O &amp; 116th Street</stpnm>
+                			<pdist>48637.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.682327500993</lat>
+						<lon>-87.54015147686</lon>
+
+							<typ>S</typ>
+                			<stpid>7288</stpid>
+                			<stpnm>11731 S Avenue O</stpnm>
+                			<pdist>49767.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.680913233368</lat>
+						<lon>-87.540140748024</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.680913233368</lat>
+						<lon>-87.540049552917</lon>
+
+							<typ>S</typ>
+                			<stpid>17719</stpid>
+                			<stpnm>Avenue O &amp; 118th Street</stpnm>
+                			<pdist>50221.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.6809092269</lat>
+						<lon>-87.536562681198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.681898816922</lat>
+						<lon>-87.53658413887</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.681898816922</lat>
+						<lon>-87.537399530411</lon>
+
+							<typ>S</typ>
+                			<stpid>7291</stpid>
+                			<stpnm>118th Street &amp; Lake Point Plaza (3600 E)</stpnm>
+                			<pdist>51792.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.681890804109</lat>
+						<lon>-87.538204193115</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.680981343287</lat>
+						<lon>-87.538214921951</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.680993362676</lat>
+						<lon>-87.540135383606</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.678930001202</lat>
+						<lon>-87.540076375008</lon>
+
+							<typ>S</typ>
+                			<stpid>7292</stpid>
+                			<stpnm>11919 S Avenue O</stpnm>
+                			<pdist>53537.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.676205461402</lat>
+						<lon>-87.540044188499</lon>
+
+							<typ>S</typ>
+                			<stpid>7293</stpid>
+                			<stpnm>Avenue O &amp; Ewing (12000 South)</stpnm>
+                			<pdist>54379.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.674791059233</lat>
+						<lon>-87.540033459663</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.673076104999</lat>
+						<lon>-87.540022730827</lon>
+
+							<typ>S</typ>
+                			<stpid>7294</stpid>
+                			<stpnm>12243 S Avenue O</stpnm>
+                			<pdist>55548.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.672414953898</lat>
+						<lon>-87.540022730827</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.67202627402</lat>
+						<lon>-87.539990544319</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.671557450838</lat>
+						<lon>-87.539899349213</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.671008482602</lat>
+						<lon>-87.539722323418</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.669533858616</lat>
+						<lon>-87.53900885582</lon>
+
+							<typ>S</typ>
+                			<stpid>7295</stpid>
+                			<stpnm>Avenue O &amp; Veteran's Drive (12400 S)</stpnm>
+                			<pdist>57200.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.669153175742</lat>
+						<lon>-87.538890838623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.668836606165</lat>
+						<lon>-87.538858652115</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.668387795994</lat>
+						<lon>-87.538858652115</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.666660649098</lat>
+						<lon>-87.539207339287</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.66568284702</lat>
+						<lon>-87.539432644844</lon>
+
+							<typ>S</typ>
+                			<stpid>17558</stpid>
+                			<stpnm>Avenue O &amp; 126th Street</stpnm>
+                			<pdist>58114.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.66422813858</lat>
+						<lon>-87.539733052254</lon>
+
+							<typ>S</typ>
+                			<stpid>7296</stpid>
+                			<stpnm>12800 S Avenue O</stpnm>
+                			<pdist>58641.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.663514798465</lat>
+						<lon>-87.539872527122</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.662901640252</lat>
+						<lon>-87.539963722229</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.662208323606</lat>
+						<lon>-87.539969086647</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.661078161395</lat>
+						<lon>-87.539958357811</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.659463036998</lat>
+						<lon>-87.539931535721</lon>
+
+							<typ>S</typ>
+                			<stpid>7297</stpid>
+                			<stpnm>Avenue O &amp; 130th Street</stpnm>
+                			<pdist>60484.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.657643468685</lat>
+						<lon>-87.539904713631</lon>
+
+							<typ>S</typ>
+                			<stpid>7298</stpid>
+                			<stpnm>Avenue O &amp; 131st Street</stpnm>
+                			<pdist>61147.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.655583366739</lat>
+						<lon>-87.539926171303</lon>
+
+							<typ>S</typ>
+                			<stpid>7299</stpid>
+                			<stpnm>Avenue O &amp; 132nd Street</stpnm>
+                			<pdist>61816.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.653791745912</lat>
+						<lon>-87.539915442467</lon>
+
+							<typ>S</typ>
+                			<stpid>7300</stpid>
+                			<stpnm>Avenue O &amp; 133rd Street</stpnm>
+                			<pdist>62501.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.651976025639</lat>
+						<lon>-87.539904713631</lon>
+
+							<typ>S</typ>
+                			<stpid>14030</stpid>
+                			<stpnm>Avenue O &amp; 134th Street</stpnm>
+                			<pdist>63143.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.650148229038</lat>
+						<lon>-87.539947628975</lon>
+
+							<typ>S</typ>
+                			<stpid>14031</stpid>
+                			<stpnm>Avenue O &amp; 135th Street</stpnm>
+                			<pdist>63818.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.649767431552</lat>
+						<lon>-87.539952993393</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.648673127299</lat>
+						<lon>-87.540001273155</lon>
+
+							<typ>S</typ>
+                			<stpid>14064</stpid>
+                			<stpnm>13600 S Avenue O (Senior Bldg)</stpnm>
+                			<pdist>64452.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.647426479659</lat>
+						<lon>-87.540113925934</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.64631610116</lat>
+						<lon>-87.540087103844</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.646163773375</lat>
+						<lon>-87.540146112442</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.64499324259</lat>
+						<lon>-87.540065646172</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.644083260473</lat>
+						<lon>-87.539985179901</lon>
+
+							<typ>S</typ>
+                			<stpid>14028</stpid>
+                			<stpnm>Avenue O &amp; Brainard (13800 S)</stpnm>
+                			<pdist>65785.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.643967006325</lat>
+						<lon>-87.539974451065</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.646320109781</lat>
+						<lon>-87.543085813522</lon>
+
+							<typ>S</typ>
+                			<stpid>14025</stpid>
+                			<stpnm>Hegewisch Metra Station</stpnm>
+                			<pdist>67146.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.648276287099</lat>
+						<lon>-87.545580267906</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.648512788119</lat>
+						<lon>-87.545853853226</lon>
+
+							<typ>S</typ>
+                			<stpid>14048</stpid>
+                			<stpnm>Brainard &amp; Brandon</stpnm>
+                			<pdist>68263.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.649470808792</lat>
+						<lon>-87.547044754028</lon>
+
+							<typ>S</typ>
+                			<stpid>15920</stpid>
+                			<stpnm>Brainard &amp; Baltimore</stpnm>
+                			<pdist>68724.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>41.6495429604</lat>
+						<lon>-87.547135949135</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>41.651759578749</lat>
+						<lon>-87.547076940536</lon>
+
+							<typ>S</typ>
+                			<stpid>7310</stpid>
+                			<stpnm>Baltimore &amp; 134th Street</stpnm>
+                			<pdist>69584.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>41.653603362303</lat>
+						<lon>-87.547076940536</lon>
+
+							<typ>S</typ>
+                			<stpid>7311</stpid>
+                			<stpnm>Baltimore &amp; 133rd Street</stpnm>
+                			<pdist>70247.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>41.655415028648</lat>
+						<lon>-87.547087669373</lon>
+
+							<typ>S</typ>
+                			<stpid>7312</stpid>
+                			<stpnm>132nd Street &amp; Baltimore</stpnm>
+                			<pdist>71082.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>41.655543286281</lat>
+						<lon>-87.547093033791</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>41.655543286281</lat>
+						<lon>-87.54943728447</lon>
+
+							<typ>S</typ>
+                			<stpid>7313</stpid>
+                			<stpnm>132nd Street &amp; Carondolet</stpnm>
+                			<pdist>71593.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>41.655551302375</lat>
+						<lon>-87.551802992821</lon>
+
+							<typ>S</typ>
+                			<stpid>7314</stpid>
+                			<stpnm>132nd Street &amp; Exchange</stpnm>
+                			<pdist>72243.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>41.655559318467</lat>
+						<lon>-87.551958560944</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>41.657326842516</lat>
+						<lon>-87.55194246769</lon>
+
+							<typ>S</typ>
+                			<stpid>7315</stpid>
+                			<stpnm>Exchange &amp; 131st Street</stpnm>
+                			<pdist>72960.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>41.659158443242</lat>
+						<lon>-87.551937103271</lon>
+
+							<typ>S</typ>
+                			<stpid>7316</stpid>
+                			<stpnm>Exchange &amp; 130th Street</stpnm>
+                			<pdist>73571.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>41.659150427598</lat>
+						<lon>-87.549662590027</lon>
+
+							<typ>S</typ>
+                			<stpid>7317</stpid>
+                			<stpnm>130th Street &amp; Carondolet</stpnm>
+                			<pdist>74201.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>41.659122372834</lat>
+						<lon>-87.547302246094</lon>
+
+							<typ>S</typ>
+                			<stpid>7318</stpid>
+                			<stpnm>130th Street &amp; Baltimore</stpnm>
+                			<pdist>74845.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>41.659118365009</lat>
+						<lon>-87.547173500061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>41.657439064628</lat>
+						<lon>-87.547162771225</lon>
+
+							<typ>S</typ>
+                			<stpid>7319</stpid>
+                			<stpnm>Baltimore &amp; 131st Street</stpnm>
+                			<pdist>75516.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>41.65565150346</lat>
+						<lon>-87.547189593315</lon>
+
+							<typ>S</typ>
+                			<stpid>7320</stpid>
+                			<stpnm>Baltimore &amp; 132nd Street</stpnm>
+                			<pdist>76184.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>41.653795754068</lat>
+						<lon>-87.547157406807</lon>
+
+							<typ>S</typ>
+                			<stpid>7321</stpid>
+                			<stpnm>Baltimore &amp; 133rd Street</stpnm>
+                			<pdist>76849.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>41.651980033908</lat>
+						<lon>-87.547162771225</lon>
+
+							<typ>S</typ>
+                			<stpid>7322</stpid>
+                			<stpnm>Baltimore &amp; 134th Street</stpnm>
+                			<pdist>77514.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>41.650701383482</lat>
+						<lon>-87.547178864479</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>41.649671229725</lat>
+						<lon>-87.547205686569</lon>
+
+							<typ>S</typ>
+                			<stpid>7323</stpid>
+                			<stpnm>Baltimore &amp; Brainard</stpnm>
+                			<pdist>78344.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>41.649506884606</lat>
+						<lon>-87.547211050987</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>41.648412575928</lat>
+						<lon>-87.545864582062</lon>
+
+							<typ>S</typ>
+                			<stpid>14027</stpid>
+                			<stpnm>Brainard &amp; Brandon</stpnm>
+                			<pdist>79003.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>41.646436359683</lat>
+						<lon>-87.543354034424</lon>
+
+							<typ>S</typ>
+                			<stpid>14024</stpid>
+                			<stpnm>Hegewisch Metra Station</stpnm>
+                			<pdist>80250.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5540</pid>
+				<ln>66808.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.646436359683</lat>
+						<lon>-87.543354034424</lon>
+
+							<typ>S</typ>
+                			<stpid>14024</stpid>
+                			<stpnm>Hegewisch Metra Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.645718813836</lat>
+						<lon>-87.542409896851</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.644339820609</lat>
+						<lon>-87.540596723557</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.643718462271</lat>
+						<lon>-87.539738416672</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.644560301159</lat>
+						<lon>-87.53979742527</lon>
+
+							<typ>S</typ>
+                			<stpid>14026</stpid>
+                			<stpnm>Avenue O &amp; Brainard (13800 S)</stpnm>
+                			<pdist>1284.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.646195842413</lat>
+						<lon>-87.539958357811</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.646380239067</lat>
+						<lon>-87.540001273155</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.647234068871</lat>
+						<lon>-87.540028095245</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.648556881433</lat>
+						<lon>-87.539920806885</lon>
+
+							<typ>S</typ>
+                			<stpid>14065</stpid>
+                			<stpnm>13601 S Avenue O (Senior Bldg)</stpnm>
+                			<pdist>2605.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.649719330657</lat>
+						<lon>-87.539861798286</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.649931776006</lat>
+						<lon>-87.53985106945</lon>
+
+							<typ>S</typ>
+                			<stpid>14029</stpid>
+                			<stpnm>Avenue O &amp; 135th Street</stpnm>
+                			<pdist>3234.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.650825642161</lat>
+						<lon>-87.539840340614</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.651771603595</lat>
+						<lon>-87.539813518524</lon>
+
+							<typ>S</typ>
+                			<stpid>14100</stpid>
+                			<stpnm>Avenue O &amp; 134th Street</stpnm>
+                			<pdist>4067.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.65358732963</lat>
+						<lon>-87.539829611778</lon>
+
+							<typ>S</typ>
+                			<stpid>7331</stpid>
+                			<stpnm>Avenue O &amp; 133rd Street</stpnm>
+                			<pdist>4560.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.655326851378</lat>
+						<lon>-87.539829611778</lon>
+
+							<typ>S</typ>
+                			<stpid>7332</stpid>
+                			<stpnm>Avenue O &amp; 132nd Street</stpnm>
+                			<pdist>5365.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.657402993256</lat>
+						<lon>-87.539829611778</lon>
+
+							<typ>S</typ>
+                			<stpid>7333</stpid>
+                			<stpnm>Avenue O &amp; 131st Street</stpnm>
+                			<pdist>5903.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.659038208468</lat>
+						<lon>-87.539834976196</lon>
+
+							<typ>S</typ>
+                			<stpid>7334</stpid>
+                			<stpnm>Avenue O &amp; 130th Street</stpnm>
+                			<pdist>6708.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.662468819175</lat>
+						<lon>-87.539872527122</lon>
+
+							<typ>S</typ>
+                			<stpid>7335</stpid>
+                			<stpnm>12800 S Avenue O</stpnm>
+                			<pdist>8469.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.662877594713</lat>
+						<lon>-87.539877891541</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.663510790914</lat>
+						<lon>-87.539792060852</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.665927298932</lat>
+						<lon>-87.539287805557</lon>
+
+							<typ>S</typ>
+                			<stpid>17559</stpid>
+                			<stpnm>Avenue O &amp; 126th Street</stpnm>
+                			<pdist>9081.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.668415846722</lat>
+						<lon>-87.538767457008</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.668840613384</lat>
+						<lon>-87.538767457008</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.669153175742</lat>
+						<lon>-87.538794279099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.669553894494</lat>
+						<lon>-87.538917660713</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.669766274421</lat>
+						<lon>-87.539014220238</lon>
+
+							<typ>S</typ>
+                			<stpid>7336</stpid>
+                			<stpnm>Avenue O &amp; Veteran's Drive (12400 S)</stpnm>
+                			<pdist>9907.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.671024510938</lat>
+						<lon>-87.539641857147</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.671601528377</lat>
+						<lon>-87.539808154106</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.67209840036</lat>
+						<lon>-87.539915442467</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.672459030849</lat>
+						<lon>-87.539936900139</lon>
+
+							<typ>S</typ>
+                			<stpid>7337</stpid>
+                			<stpnm>12243 S Avenue O</stpnm>
+                			<pdist>11520.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.674169994636</lat>
+						<lon>-87.539942264557</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.675856872253</lat>
+						<lon>-87.539947628975</lon>
+
+							<typ>S</typ>
+                			<stpid>7338</stpid>
+                			<stpnm>Avenue O &amp; Ewing (12000 South)</stpnm>
+                			<pdist>12787.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.678897948463</lat>
+						<lon>-87.539995908737</lon>
+
+							<typ>S</typ>
+                			<stpid>7339</stpid>
+                			<stpnm>11919 S Avenue O</stpnm>
+                			<pdist>13722.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.680913233368</lat>
+						<lon>-87.540049552917</lon>
+
+							<typ>S</typ>
+                			<stpid>17719</stpid>
+                			<stpnm>Avenue O &amp; 118th Street</stpnm>
+                			<pdist>14707.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.680913233368</lat>
+						<lon>-87.536562681198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.681902823329</lat>
+						<lon>-87.536600232124</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.681898816922</lat>
+						<lon>-87.537399530411</lon>
+
+							<typ>S</typ>
+                			<stpid>7291</stpid>
+                			<stpnm>118th Street &amp; Lake Point Plaza (3600 E)</stpnm>
+                			<pdist>16278.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.681902823329</lat>
+						<lon>-87.538220286369</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.680973330359</lat>
+						<lon>-87.538209557533</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.680989356213</lat>
+						<lon>-87.540044188499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.682275418034</lat>
+						<lon>-87.540060281754</lon>
+
+							<typ>S</typ>
+                			<stpid>7340</stpid>
+                			<stpnm>11731 S Avenue O</stpnm>
+                			<pdist>17433.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.684699234147</lat>
+						<lon>-87.540060281754</lon>
+
+							<typ>S</typ>
+                			<stpid>7341</stpid>
+                			<stpnm>Avenue O &amp; 116th Street</stpnm>
+                			<pdist>18384.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.688132483511</lat>
+						<lon>-87.540054917336</lon>
+
+							<typ>S</typ>
+                			<stpid>7342</stpid>
+                			<stpnm>Avenue O &amp; 114th Street</stpnm>
+                			<pdist>19423.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.689955196057</lat>
+						<lon>-87.540044188499</lon>
+
+							<typ>S</typ>
+                			<stpid>7343</stpid>
+                			<stpnm>Avenue O &amp; 113th Street</stpnm>
+                			<pdist>20087.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.691813909072</lat>
+						<lon>-87.54007101059</lon>
+
+							<typ>S</typ>
+                			<stpid>7344</stpid>
+                			<stpnm>Avenue O &amp; 112th Street</stpnm>
+                			<pdist>20747.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.691829932227</lat>
+						<lon>-87.537785768509</lon>
+
+							<typ>S</typ>
+                			<stpid>7346</stpid>
+                			<stpnm>112th Street &amp; Avenue M</stpnm>
+                			<pdist>21381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.691813909072</lat>
+						<lon>-87.535226941109</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.692102325244</lat>
+						<lon>-87.535226941109</lon>
+
+							<typ>S</typ>
+                			<stpid>7348</stpid>
+                			<stpnm>Ewing &amp; 112th Street</stpnm>
+                			<pdist>22173.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.693580437827</lat>
+						<lon>-87.535232305527</lon>
+
+							<typ>S</typ>
+                			<stpid>7349</stpid>
+                			<stpnm>Ewing &amp; 111th Street</stpnm>
+                			<pdist>22698.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.695350923637</lat>
+						<lon>-87.535243034363</lon>
+
+							<typ>S</typ>
+                			<stpid>7350</stpid>
+                			<stpnm>Ewing &amp; 110th Street</stpnm>
+                			<pdist>23367.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.697397736762</lat>
+						<lon>-87.535248398781</lon>
+
+							<typ>S</typ>
+                			<stpid>7351</stpid>
+                			<stpnm>Ewing &amp; 109th Street</stpnm>
+                			<pdist>24206.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.69903193609</lat>
+						<lon>-87.535248398781</lon>
+
+							<typ>S</typ>
+                			<stpid>7352</stpid>
+                			<stpnm>Ewing &amp; 108th Street</stpnm>
+                			<pdist>24732.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.700850334569</lat>
+						<lon>-87.535226941109</lon>
+
+							<typ>S</typ>
+                			<stpid>7353</stpid>
+                			<stpnm>Ewing &amp; 107th Street</stpnm>
+                			<pdist>25390.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.702981079693</lat>
+						<lon>-87.535216212273</lon>
+
+							<typ>S</typ>
+                			<stpid>14943</stpid>
+                			<stpnm>Ewing &amp; 106th Street</stpnm>
+                			<pdist>26187.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.704462947267</lat>
+						<lon>-87.535226941109</lon>
+
+							<typ>S</typ>
+                			<stpid>7355</stpid>
+                			<stpnm>Ewing &amp; 105th Street</stpnm>
+                			<pdist>26723.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.70629721172</lat>
+						<lon>-87.535226941109</lon>
+
+							<typ>S</typ>
+                			<stpid>7356</stpid>
+                			<stpnm>Ewing &amp; 104th Street</stpnm>
+                			<pdist>27391.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.708131423842</lat>
+						<lon>-87.535232305527</lon>
+
+							<typ>S</typ>
+                			<stpid>7357</stpid>
+                			<stpnm>Ewing &amp; 103rd Street</stpnm>
+                			<pdist>28053.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.709957574318</lat>
+						<lon>-87.535237669945</lon>
+
+							<typ>S</typ>
+                			<stpid>7358</stpid>
+                			<stpnm>Ewing &amp; 102nd Street</stpnm>
+                			<pdist>28730.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.711883786474</lat>
+						<lon>-87.535232305527</lon>
+
+							<typ>S</typ>
+                			<stpid>7359</stpid>
+                			<stpnm>Ewing &amp; 101st Street</stpnm>
+                			<pdist>29439.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.712912944778</lat>
+						<lon>-87.535237669945</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.713906046897</lat>
+						<lon>-87.535226941109</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.715744046227</lat>
+						<lon>-87.535237669945</lon>
+
+							<typ>S</typ>
+                			<stpid>7361</stpid>
+                			<stpnm>Ewing &amp; 99th Street</stpnm>
+                			<pdist>30824.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.717682097521</lat>
+						<lon>-87.535226941109</lon>
+
+							<typ>S</typ>
+                			<stpid>15084</stpid>
+                			<stpnm>Ewing &amp; 98th Street</stpnm>
+                			<pdist>31670.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.719463931956</lat>
+						<lon>-87.535232305527</lon>
+
+							<typ>S</typ>
+                			<stpid>7363</stpid>
+                			<stpnm>Ewing &amp; 97th Street</stpnm>
+                			<pdist>32185.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.721277748626</lat>
+						<lon>-87.535237669945</lon>
+
+							<typ>S</typ>
+                			<stpid>7364</stpid>
+                			<stpnm>Ewing &amp; 96th Street</stpnm>
+                			<pdist>32843.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.721433902634</lat>
+						<lon>-87.535269856453</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.722667105574</lat>
+						<lon>-87.536251544952</lon>
+
+							<typ>S</typ>
+                			<stpid>7365</stpid>
+                			<stpnm>Ewing &amp; 95th Street</stpnm>
+                			<pdist>33443.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.724837164968</lat>
+						<lon>-87.538021802902</lon>
+
+							<typ>S</typ>
+                			<stpid>7366</stpid>
+                			<stpnm>Ewing &amp; 94th Street</stpnm>
+                			<pdist>34360.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.726190412136</lat>
+						<lon>-87.539132237434</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.726322532373</lat>
+						<lon>-87.539260983467</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.726410612381</lat>
+						<lon>-87.539379000664</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.726706880611</lat>
+						<lon>-87.539899349213</lon>
+
+							<typ>S</typ>
+                			<stpid>7367</stpid>
+                			<stpnm>9320 S Ewing</stpnm>
+                			<pdist>35256.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.727675748256</lat>
+						<lon>-87.541674971581</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.728204215358</lat>
+						<lon>-87.542726397514</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.728284285752</lat>
+						<lon>-87.542785406113</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.728380370093</lat>
+						<lon>-87.542817592621</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.72850447882</lat>
+						<lon>-87.542828321457</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.72866461876</lat>
+						<lon>-87.542839050293</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.730201941868</lat>
+						<lon>-87.542865872383</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.730189931674</lat>
+						<lon>-87.544164061546</lon>
+
+							<typ>S</typ>
+                			<stpid>7370</stpid>
+                			<stpnm>91st Street &amp; Buffalo</stpnm>
+                			<pdist>37208.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.730157904478</lat>
+						<lon>-87.546819448471</lon>
+
+							<typ>S</typ>
+                			<stpid>7372</stpid>
+                			<stpnm>91st Street &amp; Brandon</stpnm>
+                			<pdist>37939.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.73009385004</lat>
+						<lon>-87.549909353256</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.729849641905</lat>
+						<lon>-87.54989862442</lon>
+
+							<typ>S</typ>
+                			<stpid>7374</stpid>
+                			<stpnm>Houston &amp; 91st Street</stpnm>
+                			<pdist>38849.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.728288289269</lat>
+						<lon>-87.54984498024</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.728276278717</lat>
+						<lon>-87.551078796387</lon>
+
+							<typ>S</typ>
+                			<stpid>7376</stpid>
+                			<stpnm>92nd Street &amp; Commercial</stpnm>
+                			<pdist>39697.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.728260264644</lat>
+						<lon>-87.552398443222</lon>
+
+							<typ>S</typ>
+                			<stpid>7377</stpid>
+                			<stpnm>92nd Street &amp; Exchange</stpnm>
+                			<pdist>40049.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.728260264644</lat>
+						<lon>-87.553229928017</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.728676629239</lat>
+						<lon>-87.553803920746</lon>
+
+							<typ>S</typ>
+                			<stpid>7378</stpid>
+                			<stpnm>9177 S South Chicago (CHA Building)</stpnm>
+                			<pdist>40633.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.73069035453</lat>
+						<lon>-87.556604146957</lon>
+
+							<typ>S</typ>
+                			<stpid>7379</stpid>
+                			<stpnm>South Chicago &amp; Marquette Avenue</stpnm>
+                			<pdist>41525.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.732852136471</lat>
+						<lon>-87.559602856636</lon>
+
+							<typ>S</typ>
+                			<stpid>7380</stpid>
+                			<stpnm>South Chicago &amp; Colfax </stpnm>
+                			<pdist>42756.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.733344532184</lat>
+						<lon>-87.560294866562</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.734977817769</lat>
+						<lon>-87.56255865097</lon>
+
+							<typ>S</typ>
+                			<stpid>7381</stpid>
+                			<stpnm>South Chicago &amp; Kingston</stpnm>
+                			<pdist>43830.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.736995348503</lat>
+						<lon>-87.565380334854</lon>
+
+							<typ>S</typ>
+                			<stpid>7382</stpid>
+                			<stpnm>South Chicago &amp; 87th Street</stpnm>
+                			<pdist>44898.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.738536475116</lat>
+						<lon>-87.567499279976</lon>
+
+							<typ>S</typ>
+                			<stpid>7383</stpid>
+                			<stpnm>South Chicago &amp; Oglesby</stpnm>
+                			<pdist>45715.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.739385079696</lat>
+						<lon>-87.568690180779</lon>
+
+							<typ>S</typ>
+                			<stpid>7384</stpid>
+                			<stpnm>South Chicago &amp; Crandon</stpnm>
+                			<pdist>46157.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.740665971032</lat>
+						<lon>-87.570487260818</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.7414985367</lat>
+						<lon>-87.571613788605</lon>
+
+							<typ>S</typ>
+                			<stpid>7385</stpid>
+                			<stpnm>South Chicago &amp; 85th Street </stpnm>
+                			<pdist>47250.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.743015539658</lat>
+						<lon>-87.573727369308</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.744112242431</lat>
+						<lon>-87.575245499611</lon>
+
+							<typ>S</typ>
+                			<stpid>7386</stpid>
+                			<stpnm>South Chicago &amp; 83rd Street</stpnm>
+                			<pdist>48674.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.744800674017</lat>
+						<lon>-87.576216459274</lon>
+
+							<typ>S</typ>
+                			<stpid>7387</stpid>
+                			<stpnm>South Chicago &amp; Jeffery</stpnm>
+                			<pdist>49054.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.745465083549</lat>
+						<lon>-87.577144503593</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.746301589386</lat>
+						<lon>-87.578292489052</lon>
+
+							<typ>S</typ>
+                			<stpid>7388</stpid>
+                			<stpnm>South Chicago &amp; Bennett</stpnm>
+                			<pdist>49806.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.747754442042</lat>
+						<lon>-87.580293416977</lon>
+
+							<typ>S</typ>
+                			<stpid>15968</stpid>
+                			<stpnm>South Chicago &amp; Constance</stpnm>
+                			<pdist>50636.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.748598922553</lat>
+						<lon>-87.581478953362</lon>
+
+							<typ>S</typ>
+                			<stpid>7389</stpid>
+                			<stpnm>South Chicago &amp; Ridgeland</stpnm>
+                			<pdist>51047.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.749795584444</lat>
+						<lon>-87.583141922951</lon>
+
+							<typ>S</typ>
+                			<stpid>7390</stpid>
+                			<stpnm>South Chicago &amp; East End </stpnm>
+                			<pdist>51657.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.751300385124</lat>
+						<lon>-87.585196495056</lon>
+
+							<typ>S</typ>
+                			<stpid>7391</stpid>
+                			<stpnm>South Chicago &amp; 79th Street/Stony Island</stpnm>
+                			<pdist>52455.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.752204849411</lat>
+						<lon>-87.586451768875</lon>
+
+							<typ>S</typ>
+                			<stpid>7392</stpid>
+                			<stpnm>South Chicago &amp; 79th Street/Stony Island</stpnm>
+                			<pdist>52918.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.752813154507</lat>
+						<lon>-87.587315440178</lon>
+
+							<typ>S</typ>
+                			<stpid>7393</stpid>
+                			<stpnm>South Chicago &amp; Harper</stpnm>
+                			<pdist>53256.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.753709593614</lat>
+						<lon>-87.588570713997</lon>
+
+							<typ>S</typ>
+                			<stpid>7394</stpid>
+                			<stpnm>South Chicago &amp; Blackstone</stpnm>
+                			<pdist>53709.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.754630031455</lat>
+						<lon>-87.589863538742</lon>
+
+							<typ>S</typ>
+                			<stpid>7395</stpid>
+                			<stpnm>South Chicago &amp; Dante</stpnm>
+                			<pdist>54220.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.755482425163</lat>
+						<lon>-87.591032981873</lon>
+
+							<typ>S</typ>
+                			<stpid>7396</stpid>
+                			<stpnm>South Chicago &amp; Dorchester</stpnm>
+                			<pdist>54660.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.756694965719</lat>
+						<lon>-87.592744231224</lon>
+
+							<typ>S</typ>
+                			<stpid>7397</stpid>
+                			<stpnm>South Chicago &amp; 76th Street</stpnm>
+                			<pdist>55311.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.757363253858</lat>
+						<lon>-87.593650817871</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.759007933351</lat>
+						<lon>-87.59596824646</lon>
+
+							<typ>S</typ>
+                			<stpid>7398</stpid>
+                			<stpnm>South Chicago &amp; 75th Street/Woodlawn</stpnm>
+                			<pdist>56597.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.760320445381</lat>
+						<lon>-87.597749233246</lon>
+
+							<typ>S</typ>
+                			<stpid>7399</stpid>
+                			<stpnm>South Chicago &amp; 74th Street</stpnm>
+                			<pdist>57233.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.762057081626</lat>
+						<lon>-87.600200772285</lon>
+
+							<typ>S</typ>
+                			<stpid>7400</stpid>
+                			<stpnm>South Chicago &amp; 73rd Street/Ellis</stpnm>
+                			<pdist>58182.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.763493572402</lat>
+						<lon>-87.602131962776</lon>
+
+							<typ>S</typ>
+                			<stpid>7401</stpid>
+                			<stpnm>South Chicago &amp; Ingleside</stpnm>
+                			<pdist>58912.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.765646247674</lat>
+						<lon>-87.605173587799</lon>
+
+							<typ>S</typ>
+                			<stpid>7403</stpid>
+                			<stpnm>South Chicago &amp; 71st Street/Cottage Grove</stpnm>
+                			<pdist>60067.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.766298438008</lat>
+						<lon>-87.606090903282</lon>
+
+							<typ>S</typ>
+                			<stpid>7404</stpid>
+                			<stpnm>South Chicago &amp; 71st Street/Cottage Grove</stpnm>
+                			<pdist>60415.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.767942888497</lat>
+						<lon>-87.608419060707</lon>
+
+							<typ>S</typ>
+                			<stpid>7405</stpid>
+                			<stpnm>South Chicago &amp; 69th Place</stpnm>
+                			<pdist>61287.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.769239213914</lat>
+						<lon>-87.610205411911</lon>
+
+							<typ>S</typ>
+                			<stpid>7406</stpid>
+                			<stpnm>South Chicago &amp; 69th Street</stpnm>
+                			<pdist>61960.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.769955382464</lat>
+						<lon>-87.611246109009</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.77063153426</lat>
+						<lon>-87.612152695656</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.770311463293</lat>
+						<lon>-87.612571120262</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.769499276044</lat>
+						<lon>-87.61363863945</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.7694392618</lat>
+						<lon>-87.613762021065</lon>
+
+							<typ>S</typ>
+                			<stpid>7408</stpid>
+                			<stpnm>69th Street &amp; Anthony</stpnm>
+                			<pdist>63429.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.769395251319</lat>
+						<lon>-87.613896131516</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.769367244633</lat>
+						<lon>-87.615247964859</lon>
+
+							<typ>S</typ>
+                			<stpid>7409</stpid>
+                			<stpnm>69th Street &amp; King Drive</stpnm>
+                			<pdist>63719.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.769339237935</lat>
+						<lon>-87.616782188416</lon>
+
+							<typ>S</typ>
+                			<stpid>7410</stpid>
+                			<stpnm>69th Street &amp; Calumet</stpnm>
+                			<pdist>64143.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.769307230266</lat>
+						<lon>-87.618412971497</lon>
+
+							<typ>S</typ>
+                			<stpid>7411</stpid>
+                			<stpnm>69th Street &amp; Prairie</stpnm>
+                			<pdist>64587.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.769299228346</lat>
+						<lon>-87.61911034584</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.769283224503</lat>
+						<lon>-87.620075941086</lon>
+
+							<typ>S</typ>
+                			<stpid>7412</stpid>
+                			<stpnm>69th Street &amp; Indiana</stpnm>
+                			<pdist>65055.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.769239213914</lat>
+						<lon>-87.621658444405</lon>
+
+							<typ>S</typ>
+                			<stpid>7413</stpid>
+                			<stpnm>69th Street &amp; Michigan</stpnm>
+                			<pdist>65469.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.769223210057</lat>
+						<lon>-87.622291445732</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.769211207161</lat>
+						<lon>-87.623262405396</lon>
+
+							<typ>S</typ>
+                			<stpid>7414</stpid>
+                			<stpnm>69th Street &amp; Wabash</stpnm>
+                			<pdist>65909.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.769195203296</lat>
+						<lon>-87.624201178551</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.769239213914</lat>
+						<lon>-87.624399662018</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.769283224503</lat>
+						<lon>-87.625172138214</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.768903132062</lat>
+						<lon>-87.62512922287</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.768823112314</lat>
+						<lon>-87.625220417976</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.76879910637</lat>
+						<lon>-87.625998258591</lon>
+
+							<typ>S</typ>
+                			<stpid>14138</stpid>
+                			<stpnm>69th Red Line Station</stpnm>
+                			<pdist>66808.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

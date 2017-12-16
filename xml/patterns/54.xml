@@ -1,0 +1,1917 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4588</pid>
+				<ln>41357.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.846551204541</lat>
+						<lon>-87.744374871254</lon>
+
+							<typ>S</typ>
+                			<stpid>6301</stpid>
+                			<stpnm>Cicero &amp; 24th Place Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.846559196818</lat>
+						<lon>-87.744069099426</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.848577214697</lat>
+						<lon>-87.744133472443</lon>
+
+							<typ>S</typ>
+                			<stpid>10270</stpid>
+                			<stpnm>Cicero &amp; 23rd Place</stpnm>
+                			<pdist>617.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.849464323206</lat>
+						<lon>-87.744165658951</lon>
+
+							<typ>S</typ>
+                			<stpid>10271</stpid>
+                			<stpnm>Cicero &amp; 23rd Street</stpnm>
+                			<pdist>973.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.851066681721</lat>
+						<lon>-87.744208574295</lon>
+
+							<typ>S</typ>
+                			<stpid>10272</stpid>
+                			<stpnm>Cicero &amp; Cermak (Pink Line)</stpnm>
+                			<pdist>1694.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.852053650657</lat>
+						<lon>-87.744256854057</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.852920732256</lat>
+						<lon>-87.744256854057</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.853232399268</lat>
+						<lon>-87.744256854057</lon>
+
+							<typ>S</typ>
+                			<stpid>10274</stpid>
+                			<stpnm>Cicero &amp; 21st Street</stpnm>
+                			<pdist>2396.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.854842654636</lat>
+						<lon>-87.744326591492</lon>
+
+							<typ>S</typ>
+                			<stpid>10275</stpid>
+                			<stpnm>Cicero &amp; 19th Street</stpnm>
+                			<pdist>3069.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.856680613698</lat>
+						<lon>-87.74438560009</lon>
+
+							<typ>S</typ>
+                			<stpid>10276</stpid>
+                			<stpnm>Cicero &amp; 18th Street</stpnm>
+                			<pdist>3732.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.858494547592</lat>
+						<lon>-87.744455337524</lon>
+
+							<typ>S</typ>
+                			<stpid>10277</stpid>
+                			<stpnm>Cicero &amp; 16th Street</stpnm>
+                			<pdist>4386.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.860576113176</lat>
+						<lon>-87.744525074959</lon>
+
+							<typ>S</typ>
+                			<stpid>10278</stpid>
+                			<stpnm>Cicero &amp; 15th Street</stpnm>
+                			<pdist>5162.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.862166207836</lat>
+						<lon>-87.744605541229</lon>
+
+							<typ>S</typ>
+                			<stpid>10279</stpid>
+                			<stpnm>Cicero &amp; 14th Street</stpnm>
+                			<pdist>5723.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.86399197128</lat>
+						<lon>-87.744648456573</lon>
+
+							<typ>S</typ>
+                			<stpid>10280</stpid>
+                			<stpnm>Cicero &amp; 13th Street</stpnm>
+                			<pdist>6400.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.866253129009</lat>
+						<lon>-87.744723558426</lon>
+
+							<typ>S</typ>
+                			<stpid>16031</stpid>
+                			<stpnm>Cicero &amp; Roosevelt</stpnm>
+                			<pdist>7222.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.868753892303</lat>
+						<lon>-87.74476647377</lon>
+
+							<typ>S</typ>
+                			<stpid>10283</stpid>
+                			<stpnm>Cicero &amp; Fifth Avenue</stpnm>
+                			<pdist>8169.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.870347778245</lat>
+						<lon>-87.744857668877</lon>
+
+							<typ>S</typ>
+                			<stpid>10284</stpid>
+                			<stpnm>Cicero &amp; Polk</stpnm>
+                			<pdist>8709.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.871050833097</lat>
+						<lon>-87.744889855385</lon>
+
+							<typ>S</typ>
+                			<stpid>10285</stpid>
+                			<stpnm>Cicero &amp; Lexington (Blue Line)</stpnm>
+                			<pdist>8986.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.87127852534</lat>
+						<lon>-87.744895219803</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.873251824141</lat>
+						<lon>-87.744927406311</lon>
+
+							<typ>S</typ>
+                			<stpid>10286</stpid>
+                			<stpnm>Cicero &amp; Harrison</stpnm>
+                			<pdist>9684.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.87403473553</lat>
+						<lon>-87.744970321655</lon>
+
+							<typ>S</typ>
+                			<stpid>10287</stpid>
+                			<stpnm>Cicero &amp; Congress Parkway</stpnm>
+                			<pdist>10035.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.874873558519</lat>
+						<lon>-87.745007872581</lon>
+
+							<typ>S</typ>
+                			<stpid>10288</stpid>
+                			<stpnm>Cicero &amp; Van Buren</stpnm>
+                			<pdist>10369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.875896108796</lat>
+						<lon>-87.745077610016</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.876686976307</lat>
+						<lon>-87.74509370327</lon>
+
+							<typ>S</typ>
+                			<stpid>10289</stpid>
+                			<stpnm>Cicero &amp; Jackson</stpnm>
+                			<pdist>10999.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.877945154449</lat>
+						<lon>-87.745136618614</lon>
+
+							<typ>S</typ>
+                			<stpid>10290</stpid>
+                			<stpnm>Cicero &amp; Adams</stpnm>
+                			<pdist>11454.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.879087478863</lat>
+						<lon>-87.745179533958</lon>
+
+							<typ>S</typ>
+                			<stpid>10291</stpid>
+                			<stpnm>Cicero &amp; Monroe</stpnm>
+                			<pdist>11901.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.880341615717</lat>
+						<lon>-87.745227813721</lon>
+
+							<typ>S</typ>
+                			<stpid>10292</stpid>
+                			<stpnm>Cicero &amp; Madison</stpnm>
+                			<pdist>12353.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.881683594773</lat>
+						<lon>-87.745286822319</lon>
+
+							<typ>S</typ>
+                			<stpid>10293</stpid>
+                			<stpnm>Cicero &amp; Washington</stpnm>
+                			<pdist>12854.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.883041521081</lat>
+						<lon>-87.745335102081</lon>
+
+							<typ>S</typ>
+                			<stpid>10294</stpid>
+                			<stpnm>Cicero &amp; West End</stpnm>
+                			<pdist>13330.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.884351493229</lat>
+						<lon>-87.745378017426</lon>
+
+							<typ>S</typ>
+                			<stpid>10295</stpid>
+                			<stpnm>Cicero &amp; Maypole</stpnm>
+                			<pdist>13820.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.886967363339</lat>
+						<lon>-87.74544775486</lon>
+
+							<typ>S</typ>
+                			<stpid>15832</stpid>
+                			<stpnm>Cicero &amp; Lake (Green Line)</stpnm>
+                			<pdist>14757.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.888608717224</lat>
+						<lon>-87.74552822113</lon>
+
+							<typ>S</typ>
+                			<stpid>10297</stpid>
+                			<stpnm>Cicero &amp; Hubbard</stpnm>
+                			<pdist>15346.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.889643028061</lat>
+						<lon>-87.745581865311</lon>
+
+							<typ>S</typ>
+                			<stpid>10298</stpid>
+                			<stpnm>Cicero &amp; Ferdinand</stpnm>
+                			<pdist>15663.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.891643713077</lat>
+						<lon>-87.745646238327</lon>
+
+							<typ>S</typ>
+                			<stpid>15446</stpid>
+                			<stpnm>Cicero &amp; Ohio</stpnm>
+                			<pdist>16487.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.893069312669</lat>
+						<lon>-87.745689153671</lon>
+
+							<typ>S</typ>
+                			<stpid>10300</stpid>
+                			<stpnm>Cicero &amp; Huron</stpnm>
+                			<pdist>16988.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.894842282894</lat>
+						<lon>-87.745758891106</lon>
+
+							<typ>S</typ>
+                			<stpid>10301</stpid>
+                			<stpnm>Cicero &amp; Chicago</stpnm>
+                			<pdist>17657.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.89598430522</lat>
+						<lon>-87.74577498436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.896715029072</lat>
+						<lon>-87.745807170868</lon>
+
+							<typ>S</typ>
+                			<stpid>10302</stpid>
+                			<stpnm>Cicero &amp; Iowa</stpnm>
+                			<pdist>18347.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.898579734563</lat>
+						<lon>-87.745839357376</lon>
+
+							<typ>S</typ>
+                			<stpid>10303</stpid>
+                			<stpnm>Cicero &amp; Augusta</stpnm>
+                			<pdist>19018.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.900532226497</lat>
+						<lon>-87.745871543884</lon>
+
+							<typ>S</typ>
+                			<stpid>10304</stpid>
+                			<stpnm>Cicero &amp; Thomas</stpnm>
+                			<pdist>19657.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.902205173117</lat>
+						<lon>-87.745925188065</lon>
+
+							<typ>S</typ>
+                			<stpid>10305</stpid>
+                			<stpnm>Cicero &amp; Division</stpnm>
+                			<pdist>20344.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.90408568847</lat>
+						<lon>-87.745957374573</lon>
+
+							<typ>S</typ>
+                			<stpid>10306</stpid>
+                			<stpnm>Cicero &amp; Potomac</stpnm>
+                			<pdist>21094.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.905974133287</lat>
+						<lon>-87.745984196663</lon>
+
+							<typ>S</typ>
+                			<stpid>10307</stpid>
+                			<stpnm>Cicero &amp; Hirsch</stpnm>
+                			<pdist>21669.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.907646937325</lat>
+						<lon>-87.746016383171</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.90775872219</lat>
+						<lon>-87.745973467827</lon>
+
+							<typ>S</typ>
+                			<stpid>10308</stpid>
+                			<stpnm>Cicero &amp; Le Moyne</stpnm>
+                			<pdist>22344.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.909395549582</lat>
+						<lon>-87.745994925499</lon>
+
+							<typ>S</typ>
+                			<stpid>10309</stpid>
+                			<stpnm>Cicero &amp; North Ave</stpnm>
+                			<pdist>22984.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.909714925643</lat>
+						<lon>-87.745989561081</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.910062245296</lat>
+						<lon>-87.745973467827</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.910437508084</lat>
+						<lon>-87.745871543884</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.910960477013</lat>
+						<lon>-87.745742797852</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.911403600005</lat>
+						<lon>-87.745753526688</lon>
+
+							<typ>S</typ>
+                			<stpid>10310</stpid>
+                			<stpnm>Cicero &amp; Wabansia</stpnm>
+                			<pdist>23674.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.911655100875</lat>
+						<lon>-87.745844721794</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.913738927106</lat>
+						<lon>-87.745962738991</lon>
+
+							<typ>S</typ>
+                			<stpid>10311</stpid>
+                			<stpnm>Cicero &amp; Grand</stpnm>
+                			<pdist>24534.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.915235886717</lat>
+						<lon>-87.745994925499</lon>
+
+							<typ>S</typ>
+                			<stpid>15222</stpid>
+                			<stpnm>Cicero &amp; Cortland</stpnm>
+                			<pdist>25186.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.917163918962</lat>
+						<lon>-87.746043205261</lon>
+
+							<typ>S</typ>
+                			<stpid>14641</stpid>
+                			<stpnm>Cicero &amp; Armitage</stpnm>
+                			<pdist>25846.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.918604915379</lat>
+						<lon>-87.746112942696</lon>
+
+							<typ>S</typ>
+                			<stpid>10314</stpid>
+                			<stpnm>Cicero &amp; Dickens</stpnm>
+                			<pdist>26330.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.920836200199</lat>
+						<lon>-87.746177315712</lon>
+
+							<typ>S</typ>
+                			<stpid>15758</stpid>
+                			<stpnm>Cicero &amp; Palmer</stpnm>
+                			<pdist>27100.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.922289087908</lat>
+						<lon>-87.746214866638</lon>
+
+							<typ>S</typ>
+                			<stpid>10316</stpid>
+                			<stpnm>Cicero &amp; Belden</stpnm>
+                			<pdist>27654.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.924488313779</lat>
+						<lon>-87.746257781982</lon>
+
+							<typ>S</typ>
+                			<stpid>14773</stpid>
+                			<stpnm>Cicero &amp; Fullerton</stpnm>
+                			<pdist>28509.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.926012959454</lat>
+						<lon>-87.746322154999</lon>
+
+							<typ>S</typ>
+                			<stpid>10318</stpid>
+                			<stpnm>Cicero &amp; Altgeld</stpnm>
+                			<pdist>28997.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.928435554469</lat>
+						<lon>-87.746402621269</lon>
+
+							<typ>S</typ>
+                			<stpid>10319</stpid>
+                			<stpnm>Cicero &amp; Wrightwood</stpnm>
+                			<pdist>29858.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.929668767666</lat>
+						<lon>-87.746472358704</lon>
+
+							<typ>S</typ>
+                			<stpid>10320</stpid>
+                			<stpnm>Cicero &amp; Schubert</stpnm>
+                			<pdist>30214.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.931847785132</lat>
+						<lon>-87.746558189392</lon>
+
+							<typ>S</typ>
+                			<stpid>14824</stpid>
+                			<stpnm>Cicero &amp; Diversey</stpnm>
+                			<pdist>31124.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.933244552049</lat>
+						<lon>-87.746611833572</lon>
+
+							<typ>S</typ>
+                			<stpid>10322</stpid>
+                			<stpnm>Cicero &amp; George</stpnm>
+                			<pdist>31610.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.935080256337</lat>
+						<lon>-87.746692299843</lon>
+
+							<typ>S</typ>
+                			<stpid>10323</stpid>
+                			<stpnm>Cicero &amp; Wellington</stpnm>
+                			<pdist>32265.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.936879993377</lat>
+						<lon>-87.746751308441</lon>
+
+							<typ>S</typ>
+                			<stpid>10324</stpid>
+                			<stpnm>Cicero &amp; Barry</stpnm>
+                			<pdist>32934.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.938735544909</lat>
+						<lon>-87.746815681458</lon>
+
+							<typ>S</typ>
+                			<stpid>10325</stpid>
+                			<stpnm>Cicero &amp; Belmont</stpnm>
+                			<pdist>33597.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.940571091152</lat>
+						<lon>-87.746869325638</lon>
+
+							<typ>S</typ>
+                			<stpid>10326</stpid>
+                			<stpnm>Cicero &amp; School</stpnm>
+                			<pdist>34266.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.942685894142</lat>
+						<lon>-87.7469176054</lon>
+
+							<typ>S</typ>
+                			<stpid>15479</stpid>
+                			<stpnm>Cicero &amp; Roscoe</stpnm>
+                			<pdist>35071.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.944517336659</lat>
+						<lon>-87.74697124958</lon>
+
+							<typ>S</typ>
+                			<stpid>10328</stpid>
+                			<stpnm>Cicero &amp; Cornelia</stpnm>
+                			<pdist>35715.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.946017564098</lat>
+						<lon>-87.747003436089</lon>
+
+							<typ>S</typ>
+                			<stpid>10329</stpid>
+                			<stpnm>Cicero &amp; Addison</stpnm>
+                			<pdist>36251.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.947820982273</lat>
+						<lon>-87.747078537941</lon>
+
+							<typ>S</typ>
+                			<stpid>10330</stpid>
+                			<stpnm>Cicero &amp; Waveland</stpnm>
+                			<pdist>36919.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.949648287592</lat>
+						<lon>-87.747142910957</lon>
+
+							<typ>S</typ>
+                			<stpid>10331</stpid>
+                			<stpnm>Cicero &amp; Grace</stpnm>
+                			<pdist>37579.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.951479530109</lat>
+						<lon>-87.747201919556</lon>
+
+							<typ>S</typ>
+                			<stpid>10333</stpid>
+                			<stpnm>Cicero &amp; Byron</stpnm>
+                			<pdist>38227.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.953167099181</lat>
+						<lon>-87.747255563736</lon>
+
+							<typ>S</typ>
+                			<stpid>10334</stpid>
+                			<stpnm>Cicero &amp; Irving Park/Milwaukee</stpnm>
+                			<pdist>38832.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.954343982609</lat>
+						<lon>-87.747250199318</lon>
+
+							<typ>S</typ>
+                			<stpid>15857</stpid>
+                			<stpnm>Cicero &amp; Irving Park/Milwaukee</stpnm>
+                			<pdist>39083.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.955373239116</lat>
+						<lon>-87.747293114662</lon>
+
+							<typ>S</typ>
+                			<stpid>10336</stpid>
+                			<stpnm>Cicero &amp; Belle Plaine</stpnm>
+                			<pdist>39576.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.956988898944</lat>
+						<lon>-87.747357487679</lon>
+
+							<typ>S</typ>
+                			<stpid>10337</stpid>
+                			<stpnm>Cicero &amp; Berteau </stpnm>
+                			<pdist>40216.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.958827908803</lat>
+						<lon>-87.747421860695</lon>
+
+							<typ>S</typ>
+                			<stpid>10338</stpid>
+                			<stpnm>Cicero &amp; Cullom</stpnm>
+                			<pdist>40888.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.959964797247</lat>
+						<lon>-87.747475504875</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.959964797247</lat>
+						<lon>-87.74803340435</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.960108402765</lat>
+						<lon>-87.748038768768</lon>
+
+							<typ>S</typ>
+                			<stpid>10199</stpid>
+                			<stpnm>Cicero &amp; Pensacola Terminal</stpnm>
+                			<pdist>41357.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4590</pid>
+				<ln>41843.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.960690799606</lat>
+						<lon>-87.747647166252</lon>
+
+							<typ>S</typ>
+                			<stpid>11324</stpid>
+                			<stpnm>Montrose &amp; Cicero</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.960694788607</lat>
+						<lon>-87.747577428818</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.959785289894</lat>
+						<lon>-87.747550606728</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.958995451533</lat>
+						<lon>-87.747507691383</lon>
+
+							<typ>S</typ>
+                			<stpid>10200</stpid>
+                			<stpnm>Cicero &amp; Cullom</stpnm>
+                			<pdist>480.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.956988898944</lat>
+						<lon>-87.747443318367</lon>
+
+							<typ>S</typ>
+                			<stpid>15189</stpid>
+                			<stpnm>Cicero &amp; Berteau </stpnm>
+                			<pdist>1259.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.95555674822</lat>
+						<lon>-87.747389674187</lon>
+
+							<typ>S</typ>
+                			<stpid>10202</stpid>
+                			<stpnm>Cicero &amp; Belle Plaine</stpnm>
+                			<pdist>1759.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.954635208036</lat>
+						<lon>-87.747330665588</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.953673760135</lat>
+						<lon>-87.74735212326</lon>
+
+							<typ>S</typ>
+                			<stpid>10203</stpid>
+                			<stpnm>Cicero &amp; Irving Park/Milwaukee</stpnm>
+                			<pdist>2377.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.953486256157</lat>
+						<lon>-87.747357487679</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.951639113021</lat>
+						<lon>-87.747287750244</lon>
+
+							<typ>S</typ>
+                			<stpid>10204</stpid>
+                			<stpnm>Cicero &amp; Byron</stpnm>
+                			<pdist>3116.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.949831813179</lat>
+						<lon>-87.747234106064</lon>
+
+							<typ>S</typ>
+                			<stpid>10206</stpid>
+                			<stpnm>Cicero &amp; Grace</stpnm>
+                			<pdist>3759.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.948032441682</lat>
+						<lon>-87.747169733047</lon>
+
+							<typ>S</typ>
+                			<stpid>10207</stpid>
+                			<stpnm>Cicero &amp; Waveland</stpnm>
+                			<pdist>4435.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.946244989113</lat>
+						<lon>-87.747099995613</lon>
+
+							<typ>S</typ>
+                			<stpid>10208</stpid>
+                			<stpnm>Cicero &amp; Addison</stpnm>
+                			<pdist>5100.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.944780677009</lat>
+						<lon>-87.747062444687</lon>
+
+							<typ>S</typ>
+                			<stpid>10209</stpid>
+                			<stpnm>Cicero &amp; Cornelia</stpnm>
+                			<pdist>5760.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.942530278954</lat>
+						<lon>-87.747003436089</lon>
+
+							<typ>S</typ>
+                			<stpid>10210</stpid>
+                			<stpnm>Cicero &amp; Roscoe</stpnm>
+                			<pdist>6418.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.940730701372</lat>
+						<lon>-87.746949791908</lon>
+
+							<typ>S</typ>
+                			<stpid>10211</stpid>
+                			<stpnm>Cicero &amp; School</stpnm>
+                			<pdist>7103.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.938671698872</lat>
+						<lon>-87.746901512146</lon>
+
+							<typ>S</typ>
+                			<stpid>14771</stpid>
+                			<stpnm>Cicero &amp; Belmont</stpnm>
+                			<pdist>7929.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.936792202505</lat>
+						<lon>-87.746831774712</lon>
+
+							<typ>S</typ>
+                			<stpid>15395</stpid>
+                			<stpnm>Cicero &amp; Barry</stpnm>
+                			<pdist>8562.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.934896688285</lat>
+						<lon>-87.746767401695</lon>
+
+							<typ>S</typ>
+                			<stpid>15242</stpid>
+                			<stpnm>Cicero &amp; Wellington</stpnm>
+                			<pdist>9198.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.933476013326</lat>
+						<lon>-87.746708393097</lon>
+
+							<typ>S</typ>
+                			<stpid>10215</stpid>
+                			<stpnm>Cicero &amp; George</stpnm>
+                			<pdist>9714.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.931640262866</lat>
+						<lon>-87.746627926826</lon>
+
+							<typ>S</typ>
+                			<stpid>10216</stpid>
+                			<stpnm>Cicero &amp; Diversey</stpnm>
+                			<pdist>10373.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.929553030224</lat>
+						<lon>-87.746552824974</lon>
+
+							<typ>S</typ>
+                			<stpid>10217</stpid>
+                			<stpnm>Cicero &amp; Schubert</stpnm>
+                			<pdist>11021.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.928563266974</lat>
+						<lon>-87.746488451958</lon>
+
+							<typ>S</typ>
+                			<stpid>10218</stpid>
+                			<stpnm>Cicero &amp; Wrightwood</stpnm>
+                			<pdist>11697.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.925861294762</lat>
+						<lon>-87.746397256851</lon>
+
+							<typ>S</typ>
+                			<stpid>15396</stpid>
+                			<stpnm>Cicero &amp; Altgeld</stpnm>
+                			<pdist>12496.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.924416470938</lat>
+						<lon>-87.746338248253</lon>
+
+							<typ>S</typ>
+                			<stpid>14974</stpid>
+                			<stpnm>Cicero &amp; Fullerton</stpnm>
+                			<pdist>13171.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.922496640594</lat>
+						<lon>-87.746300697327</lon>
+
+							<typ>S</typ>
+                			<stpid>10221</stpid>
+                			<stpnm>Cicero &amp; Belden</stpnm>
+                			<pdist>13676.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.920464990067</lat>
+						<lon>-87.746252417564</lon>
+
+							<typ>S</typ>
+                			<stpid>15255</stpid>
+                			<stpnm>Cicero &amp; Palmer</stpnm>
+                			<pdist>14491.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.918856387873</lat>
+						<lon>-87.74620950222</lon>
+
+							<typ>S</typ>
+                			<stpid>10223</stpid>
+                			<stpnm>Cicero &amp; Dickens</stpnm>
+                			<pdist>15011.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.917068117493</lat>
+						<lon>-87.746134400368</lon>
+
+							<typ>S</typ>
+                			<stpid>10224</stpid>
+                			<stpnm>Cicero &amp; Armitage</stpnm>
+                			<pdist>15655.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.915187984553</lat>
+						<lon>-87.746070027351</lon>
+
+							<typ>S</typ>
+                			<stpid>10225</stpid>
+                			<stpnm>Cicero &amp; Cortland</stpnm>
+                			<pdist>16356.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.914126144025</lat>
+						<lon>-87.746064662933</lon>
+
+							<typ>S</typ>
+                			<stpid>10226</stpid>
+                			<stpnm>Cicero &amp; Grand</stpnm>
+                			<pdist>16736.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.911659092944</lat>
+						<lon>-87.745935916901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.911507394135</lat>
+						<lon>-87.745978832245</lon>
+
+							<typ>S</typ>
+                			<stpid>10227</stpid>
+                			<stpnm>Cicero &amp; Wabansia</stpnm>
+                			<pdist>17683.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.91094450856</lat>
+						<lon>-87.746000289917</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.910772847432</lat>
+						<lon>-87.746021747589</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.910517350946</lat>
+						<lon>-87.746091485023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.910126119969</lat>
+						<lon>-87.746204137802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.909794769409</lat>
+						<lon>-87.746230959892</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.909307720885</lat>
+						<lon>-87.746225595474</lon>
+
+							<typ>S</typ>
+                			<stpid>10228</stpid>
+                			<stpnm>Cicero &amp; North Ave</stpnm>
+                			<pdist>18600.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.907882483777</lat>
+						<lon>-87.746171951294</lon>
+
+							<typ>S</typ>
+                			<stpid>10229</stpid>
+                			<stpnm>Cicero &amp; Le Moyne</stpnm>
+                			<pdist>19082.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.907662906604</lat>
+						<lon>-87.746091485023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.906085921081</lat>
+						<lon>-87.746059298515</lon>
+
+							<typ>S</typ>
+                			<stpid>10230</stpid>
+                			<stpnm>Cicero &amp; Hirsch</stpnm>
+                			<pdist>19762.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.904249382515</lat>
+						<lon>-87.746043205261</lon>
+
+							<typ>S</typ>
+                			<stpid>10231</stpid>
+                			<stpnm>Cicero &amp; Potomac</stpnm>
+                			<pdist>20425.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.902448724937</lat>
+						<lon>-87.746021747589</lon>
+
+							<typ>S</typ>
+                			<stpid>10232</stpid>
+                			<stpnm>Cicero &amp; Division</stpnm>
+                			<pdist>21072.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.900596110705</lat>
+						<lon>-87.745946645737</lon>
+
+							<typ>S</typ>
+                			<stpid>10233</stpid>
+                			<stpnm>Cicero &amp; Thomas</stpnm>
+                			<pdist>21761.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.89876739998</lat>
+						<lon>-87.745925188065</lon>
+
+							<typ>S</typ>
+                			<stpid>10234</stpid>
+                			<stpnm>Cicero &amp; Augusta</stpnm>
+                			<pdist>22423.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.89696259482</lat>
+						<lon>-87.745903730392</lon>
+
+							<typ>S</typ>
+                			<stpid>10235</stpid>
+                			<stpnm>Cicero &amp; Iowa</stpnm>
+                			<pdist>23078.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.894858255375</lat>
+						<lon>-87.745839357376</lon>
+
+							<typ>S</typ>
+                			<stpid>15299</stpid>
+                			<stpnm>Cicero &amp; Chicago</stpnm>
+                			<pdist>23976.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.893241021397</lat>
+						<lon>-87.745785713196</lon>
+
+							<typ>S</typ>
+                			<stpid>10237</stpid>
+                			<stpnm>Cicero &amp; Huron</stpnm>
+                			<pdist>24422.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.891623746471</lat>
+						<lon>-87.745726704597</lon>
+
+							<typ>S</typ>
+                			<stpid>10238</stpid>
+                			<stpnm>Cicero &amp; Ohio</stpnm>
+                			<pdist>25094.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.889659001842</lat>
+						<lon>-87.745662331581</lon>
+
+							<typ>S</typ>
+                			<stpid>10239</stpid>
+                			<stpnm>Cicero &amp; Ferdinand</stpnm>
+                			<pdist>25754.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.888772450944</lat>
+						<lon>-87.745614051819</lon>
+
+							<typ>S</typ>
+                			<stpid>10240</stpid>
+                			<stpnm>Cicero &amp; Hubbard</stpnm>
+                			<pdist>26073.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.886943401656</lat>
+						<lon>-87.745533585548</lon>
+
+							<typ>S</typ>
+                			<stpid>10241</stpid>
+                			<stpnm>Cicero &amp; Lake (Green Line)</stpnm>
+                			<pdist>26823.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.8845671568</lat>
+						<lon>-87.745463848114</lon>
+
+							<typ>S</typ>
+                			<stpid>10242</stpid>
+                			<stpnm>Cicero &amp; Maypole</stpnm>
+                			<pdist>27607.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.883233225999</lat>
+						<lon>-87.745426297188</lon>
+
+							<typ>S</typ>
+                			<stpid>10243</stpid>
+                			<stpnm>Cicero &amp; West End</stpnm>
+                			<pdist>28091.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.881655637163</lat>
+						<lon>-87.745378017426</lon>
+
+							<typ>S</typ>
+                			<stpid>10244</stpid>
+                			<stpnm>Cicero &amp; Washington</stpnm>
+                			<pdist>28571.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.880645161065</lat>
+						<lon>-87.745335102081</lon>
+
+							<typ>S</typ>
+                			<stpid>14772</stpid>
+                			<stpnm>Cicero &amp; Madison</stpnm>
+                			<pdist>29257.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.879602716409</lat>
+						<lon>-87.745270729065</lon>
+
+							<typ>S</typ>
+                			<stpid>10246</stpid>
+                			<stpnm>Cicero &amp; Monroe</stpnm>
+                			<pdist>29437.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.878676084661</lat>
+						<lon>-87.745249271393</lon>
+
+							<typ>S</typ>
+                			<stpid>10247</stpid>
+                			<stpnm>Cicero &amp; Adams</stpnm>
+                			<pdist>29772.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.876958585113</lat>
+						<lon>-87.745184898376</lon>
+
+							<typ>S</typ>
+                			<stpid>10248</stpid>
+                			<stpnm>Cicero &amp; Jackson</stpnm>
+                			<pdist>30428.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.875117214562</lat>
+						<lon>-87.745104432106</lon>
+
+							<typ>S</typ>
+                			<stpid>10249</stpid>
+                			<stpnm>Cicero &amp; Van Buren</stpnm>
+                			<pdist>31086.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.87418252895</lat>
+						<lon>-87.745061516762</lon>
+
+							<typ>S</typ>
+                			<stpid>10250</stpid>
+                			<stpnm>Cicero &amp; Congress</stpnm>
+                			<pdist>31422.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.873303752234</lat>
+						<lon>-87.745013237</lon>
+
+							<typ>S</typ>
+                			<stpid>10251</stpid>
+                			<stpnm>Cicero &amp; Harrison</stpnm>
+                			<pdist>31752.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.87165801061</lat>
+						<lon>-87.744981050491</lon>
+
+							<typ>S</typ>
+                			<stpid>10252</stpid>
+                			<stpnm>Cicero Blue Line Station</stpnm>
+                			<pdist>32374.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.870367751501</lat>
+						<lon>-87.744932770729</lon>
+
+							<typ>S</typ>
+                			<stpid>10253</stpid>
+                			<stpnm>Cicero &amp; Polk</stpnm>
+                			<pdist>32817.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.86860608633</lat>
+						<lon>-87.744846940041</lon>
+
+							<typ>S</typ>
+                			<stpid>10254</stpid>
+                			<stpnm>Cicero &amp; Fifth Avenue</stpnm>
+                			<pdist>33435.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.866820403382</lat>
+						<lon>-87.744825482368</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.866049388393</lat>
+						<lon>-87.744809389114</lon>
+
+							<typ>S</typ>
+                			<stpid>10256</stpid>
+                			<stpnm>Cicero &amp; Roosevelt</stpnm>
+                			<pdist>34402.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.864015941569</lat>
+						<lon>-87.744734287262</lon>
+
+							<typ>S</typ>
+                			<stpid>10257</stpid>
+                			<stpnm>Cicero &amp; 13th Street</stpnm>
+                			<pdist>35078.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.862365965677</lat>
+						<lon>-87.744691371918</lon>
+
+							<typ>S</typ>
+                			<stpid>10258</stpid>
+                			<stpnm>Cicero &amp; 14th Street</stpnm>
+                			<pdist>35716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.860520179478</lat>
+						<lon>-87.744600176811</lon>
+
+							<typ>S</typ>
+                			<stpid>10259</stpid>
+                			<stpnm>Cicero &amp; 15th Street</stpnm>
+                			<pdist>36418.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.858502538376</lat>
+						<lon>-87.744535803795</lon>
+
+							<typ>S</typ>
+                			<stpid>10260</stpid>
+                			<stpnm>Cicero &amp; 16th Street</stpnm>
+                			<pdist>37039.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.856844429225</lat>
+						<lon>-87.74446606636</lon>
+
+							<typ>S</typ>
+                			<stpid>10261</stpid>
+                			<stpnm>Cicero &amp; 18th Street</stpnm>
+                			<pdist>37741.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.854870623974</lat>
+						<lon>-87.744407057762</lon>
+
+							<typ>S</typ>
+                			<stpid>10262</stpid>
+                			<stpnm>Cicero &amp; 19th Street</stpnm>
+                			<pdist>38417.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.853228403546</lat>
+						<lon>-87.744353413582</lon>
+
+							<typ>S</typ>
+                			<stpid>10263</stpid>
+                			<stpnm>Cicero &amp; 21st Street</stpnm>
+                			<pdist>39076.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.852121579132</lat>
+						<lon>-87.744342684746</lon>
+
+							<typ>S</typ>
+                			<stpid>10264</stpid>
+                			<stpnm>Cicero &amp; 21st Place (Pink Line)</stpnm>
+                			<pdist>39465.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.851054694151</lat>
+						<lon>-87.744289040565</lon>
+
+							<typ>S</typ>
+                			<stpid>10265</stpid>
+                			<stpnm>Cicero &amp; Cermak</stpnm>
+                			<pdist>39968.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.849456331292</lat>
+						<lon>-87.744240760803</lon>
+
+							<typ>S</typ>
+                			<stpid>10266</stpid>
+                			<stpnm>Cicero &amp; 23rd Street</stpnm>
+                			<pdist>40451.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.848537254565</lat>
+						<lon>-87.744213938713</lon>
+
+							<typ>S</typ>
+                			<stpid>10267</stpid>
+                			<stpnm>Cicero &amp; 23rd Place</stpnm>
+                			<pdist>40960.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.847642141059</lat>
+						<lon>-87.744187116623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.846790972404</lat>
+						<lon>-87.744149565697</lon>
+
+							<typ>S</typ>
+                			<stpid>10268</stpid>
+                			<stpnm>Cicero &amp; 24th Place</stpnm>
+                			<pdist>41399.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.846551204541</lat>
+						<lon>-87.744144201279</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.846551204541</lat>
+						<lon>-87.744374871254</lon>
+
+							<typ>S</typ>
+                			<stpid>6301</stpid>
+                			<stpnm>Cicero &amp; 24th Place Terminal</stpnm>
+                			<pdist>41843.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

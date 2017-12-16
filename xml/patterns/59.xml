@@ -1,0 +1,2142 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>1331</pid>
+				<ln>48700.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.786225057466</lat>
+						<lon>-87.586719989777</lon>
+
+							<typ>S</typ>
+                			<stpid>13022</stpid>
+                			<stpnm>60th Street &amp; Stony Island</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.786173058688</lat>
+						<lon>-87.586719989777</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.786137059509</lat>
+						<lon>-87.590308785439</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.786121059867</lat>
+						<lon>-87.591505050659</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.785961063232</lat>
+						<lon>-87.591499686241</lon>
+
+							<typ>S</typ>
+                			<stpid>13023</stpid>
+                			<stpnm>Dorchester &amp; 60th Street</stpnm>
+                			<pdist>1338.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.784241074184</lat>
+						<lon>-87.591467499733</lon>
+
+							<typ>S</typ>
+                			<stpid>13024</stpid>
+                			<stpnm>Dorchester &amp; 61st Street</stpnm>
+                			<pdist>1857.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.784213073981</lat>
+						<lon>-87.592830061913</lon>
+
+							<typ>S</typ>
+                			<stpid>13025</stpid>
+                			<stpnm>61st Street &amp; Kenwood</stpnm>
+                			<pdist>2270.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.784197073859</lat>
+						<lon>-87.594691514969</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.784165073604</lat>
+						<lon>-87.596660256386</lon>
+
+							<typ>S</typ>
+                			<stpid>15163</stpid>
+                			<stpnm>61st Street &amp; Woodlawn</stpnm>
+                			<pdist>3312.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.784121073226</lat>
+						<lon>-87.600935697556</lon>
+
+							<typ>S</typ>
+                			<stpid>13030</stpid>
+                			<stpnm>61st Street &amp; Ellis</stpnm>
+                			<pdist>4498.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.784117073191</lat>
+						<lon>-87.602571845055</lon>
+
+							<typ>S</typ>
+                			<stpid>13031</stpid>
+                			<stpnm>61st Street &amp; Ingleside</stpnm>
+                			<pdist>4944.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.784093072971</lat>
+						<lon>-87.605736851692</lon>
+
+							<typ>S</typ>
+                			<stpid>13033</stpid>
+                			<stpnm>61st Street &amp; Cottage Grove</stpnm>
+                			<pdist>5822.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.78407307278</lat>
+						<lon>-87.607287168503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.784025072298</lat>
+						<lon>-87.608596086502</lon>
+
+							<typ>S</typ>
+                			<stpid>13034</stpid>
+                			<stpnm>61st Street &amp; Langley</stpnm>
+                			<pdist>6520.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.784001072044</lat>
+						<lon>-87.611020803452</lon>
+
+							<typ>S</typ>
+                			<stpid>13036</stpid>
+                			<stpnm>61st Street &amp; St. Lawrence</stpnm>
+                			<pdist>7172.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.783949071462</lat>
+						<lon>-87.613402605057</lon>
+
+							<typ>S</typ>
+                			<stpid>13037</stpid>
+                			<stpnm>61st Street &amp; Eberhart</stpnm>
+                			<pdist>7834.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.783901070887</lat>
+						<lon>-87.616036534309</lon>
+
+							<typ>S</typ>
+                			<stpid>15511</stpid>
+                			<stpnm>61st Street &amp; King Drive</stpnm>
+                			<pdist>8620.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.783873070535</lat>
+						<lon>-87.618740200996</lon>
+
+							<typ>S</typ>
+                			<stpid>13041</stpid>
+                			<stpnm>61st Street &amp; Prairie</stpnm>
+                			<pdist>9330.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.783861070381</lat>
+						<lon>-87.620483636856</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.783937071322</lat>
+						<lon>-87.620489001274</lon>
+
+							<typ>S</typ>
+                			<stpid>13042</stpid>
+                			<stpnm>61st Street &amp; Indiana</stpnm>
+                			<pdist>9781.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.785645068704</lat>
+						<lon>-87.620548009872</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.785637068822</lat>
+						<lon>-87.620821595192</lon>
+
+							<typ>S</typ>
+                			<stpid>13043</stpid>
+                			<stpnm>60th Street &amp; Indiana</stpnm>
+                			<pdist>10561.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.785601069342</lat>
+						<lon>-87.62371301651</lon>
+
+							<typ>S</typ>
+                			<stpid>13045</stpid>
+                			<stpnm>60th Street &amp; Wabash</stpnm>
+                			<pdist>11258.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.785597069399</lat>
+						<lon>-87.62523651123</lon>
+
+							<typ>S</typ>
+                			<stpid>13046</stpid>
+                			<stpnm>60th Street &amp; State</stpnm>
+                			<pdist>11714.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.785597069399</lat>
+						<lon>-87.625418901443</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.787285023372</lat>
+						<lon>-87.62545645237</lon>
+
+							<typ>S</typ>
+                			<stpid>13047</stpid>
+                			<stpnm>59th Street &amp; State</stpnm>
+                			<pdist>12499.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.787401018577</lat>
+						<lon>-87.625461816788</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.787389019083</lat>
+						<lon>-87.62659907341</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.787361020254</lat>
+						<lon>-87.627462744713</lon>
+
+							<typ>S</typ>
+                			<stpid>13048</stpid>
+                			<stpnm>59th Street &amp; Perry</stpnm>
+                			<pdist>12909.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.78735702042</lat>
+						<lon>-87.628283500671</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.787333021413</lat>
+						<lon>-87.628948688507</lon>
+
+							<typ>S</typ>
+                			<stpid>13049</stpid>
+                			<stpnm>59th Street &amp; LaSalle</stpnm>
+                			<pdist>13316.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.787321021906</lat>
+						<lon>-87.630144953728</lon>
+
+							<typ>S</typ>
+                			<stpid>13050</stpid>
+                			<stpnm>59th Street &amp; Wentworth</stpnm>
+                			<pdist>13651.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.78731702207</lat>
+						<lon>-87.630316615105</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.789812871325</lat>
+						<lon>-87.630375623703</lon>
+
+							<typ>S</typ>
+                			<stpid>6459</stpid>
+                			<stpnm>Wentworth &amp; 57th Place</stpnm>
+                			<pdist>14591.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.790888776367</lat>
+						<lon>-87.630370259285</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.791104755128</lat>
+						<lon>-87.630370259285</lon>
+
+							<typ>S</typ>
+                			<stpid>15858</stpid>
+                			<stpnm>Wentworth &amp; 57th Street</stpnm>
+                			<pdist>15131.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.792612586577</lat>
+						<lon>-87.630407810211</lon>
+
+							<typ>S</typ>
+                			<stpid>6461</stpid>
+                			<stpnm>5556 S Wentworth</stpnm>
+                			<pdist>15536.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.794608308938</lat>
+						<lon>-87.630477547646</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.794600310175</lat>
+						<lon>-87.631121277809</lon>
+
+							<typ>S</typ>
+                			<stpid>10589</stpid>
+                			<stpnm>Garfield Red Line Station</stpnm>
+                			<pdist>16433.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.794588312028</lat>
+						<lon>-87.631840109825</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.793980402991</lat>
+						<lon>-87.631829380989</lon>
+
+							<typ>S</typ>
+                			<stpid>6528</stpid>
+                			<stpnm>Wells &amp; Garfield </stpnm>
+                			<pdist>16834.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.79255659347</lat>
+						<lon>-87.631818652153</lon>
+
+							<typ>S</typ>
+                			<stpid>6529</stpid>
+                			<stpnm>5600 S Wells</stpnm>
+                			<pdist>17406.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.791028762684</lat>
+						<lon>-87.631781101227</lon>
+
+							<typ>S</typ>
+                			<stpid>6530</stpid>
+                			<stpnm>Wells &amp; 57th Street</stpnm>
+                			<pdist>17887.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.789032928871</lat>
+						<lon>-87.631802558899</lon>
+
+							<typ>S</typ>
+                			<stpid>6531</stpid>
+                			<stpnm>Wells &amp; 58th Street</stpnm>
+                			<pdist>18625.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.788176981103</lat>
+						<lon>-87.631931304932</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.787421017729</lat>
+						<lon>-87.63199031353</lon>
+
+							<typ>S</typ>
+                			<stpid>13053</stpid>
+                			<stpnm>59th Street &amp; Wells</stpnm>
+                			<pdist>19324.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.787281023533</lat>
+						<lon>-87.631995677948</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.787257024498</lat>
+						<lon>-87.632977366447</lon>
+
+							<typ>S</typ>
+                			<stpid>15909</stpid>
+                			<stpnm>59th Street &amp; Princeton</stpnm>
+                			<pdist>19549.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.787237025295</lat>
+						<lon>-87.634227275848</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.787197026869</lat>
+						<lon>-87.635729312897</lon>
+
+							<typ>S</typ>
+                			<stpid>13054</stpid>
+                			<stpnm>59th Street &amp; Stewart</stpnm>
+                			<pdist>20242.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.787185027337</lat>
+						<lon>-87.63743519783</lon>
+
+							<typ>S</typ>
+                			<stpid>13055</stpid>
+                			<stpnm>59th Street &amp; Normal</stpnm>
+                			<pdist>20726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.787137029185</lat>
+						<lon>-87.640224695206</lon>
+
+							<typ>S</typ>
+                			<stpid>13056</stpid>
+                			<stpnm>59th Street &amp; Wallace</stpnm>
+                			<pdist>21556.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.787097030697</lat>
+						<lon>-87.642692327499</lon>
+
+							<typ>S</typ>
+                			<stpid>13057</stpid>
+                			<stpnm>59th Street &amp; Union</stpnm>
+                			<pdist>22058.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.787069031741</lat>
+						<lon>-87.643749117851</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.787069031741</lat>
+						<lon>-87.645138502121</lon>
+
+							<typ>S</typ>
+                			<stpid>13058</stpid>
+                			<stpnm>59th Street &amp; Halsted</stpnm>
+                			<pdist>22720.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.787025033357</lat>
+						<lon>-87.647573947906</lon>
+
+							<typ>S</typ>
+                			<stpid>13059</stpid>
+                			<stpnm>59th Street &amp; Peoria</stpnm>
+                			<pdist>23395.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.787005034081</lat>
+						<lon>-87.649977207184</lon>
+
+							<typ>S</typ>
+                			<stpid>13060</stpid>
+                			<stpnm>59th Street &amp; Morgan</stpnm>
+                			<pdist>24049.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.786953035935</lat>
+						<lon>-87.652396559715</lon>
+
+							<typ>S</typ>
+                			<stpid>13061</stpid>
+                			<stpnm>59th Street &amp; Aberdeen</stpnm>
+                			<pdist>24728.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.786925036916</lat>
+						<lon>-87.654542326927</lon>
+
+							<typ>S</typ>
+                			<stpid>13062</stpid>
+                			<stpnm>59th Street &amp; Racine</stpnm>
+                			<pdist>25382.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.786893038022</lat>
+						<lon>-87.656999230385</lon>
+
+							<typ>S</typ>
+                			<stpid>13063</stpid>
+                			<stpnm>59th Street &amp; Throop</stpnm>
+                			<pdist>26063.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.786849039517</lat>
+						<lon>-87.659391760826</lon>
+
+							<typ>S</typ>
+                			<stpid>13064</stpid>
+                			<stpnm>59th Street &amp; Loomis</stpnm>
+                			<pdist>26718.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.78682504032</lat>
+						<lon>-87.661789655685</lon>
+
+							<typ>S</typ>
+                			<stpid>13065</stpid>
+                			<stpnm>59th Street &amp; Laflin</stpnm>
+                			<pdist>27389.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.786801041114</lat>
+						<lon>-87.664149999619</lon>
+
+							<typ>S</typ>
+                			<stpid>13066</stpid>
+                			<stpnm>59th Street &amp; Ashland</stpnm>
+                			<pdist>28022.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.786757042545</lat>
+						<lon>-87.666671276093</lon>
+
+							<typ>S</typ>
+                			<stpid>13067</stpid>
+                			<stpnm>59th Street &amp; Paulina</stpnm>
+                			<pdist>28722.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.786725043568</lat>
+						<lon>-87.66910135746</lon>
+
+							<typ>S</typ>
+                			<stpid>13068</stpid>
+                			<stpnm>59th Street &amp; Wood</stpnm>
+                			<pdist>29385.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.786697044449</lat>
+						<lon>-87.6715528965</lon>
+
+							<typ>S</typ>
+                			<stpid>13069</stpid>
+                			<stpnm>59th Street &amp; Wolcott</stpnm>
+                			<pdist>30054.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.786673045195</lat>
+						<lon>-87.673891782761</lon>
+
+							<typ>S</typ>
+                			<stpid>13070</stpid>
+                			<stpnm>59th Street &amp; Damen</stpnm>
+                			<pdist>30714.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.78662104678</lat>
+						<lon>-87.677072882652</lon>
+
+							<typ>S</typ>
+                			<stpid>17533</stpid>
+                			<stpnm>59th Street &amp; Hoyne</stpnm>
+                			<pdist>31566.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.786577048088</lat>
+						<lon>-87.680903077126</lon>
+
+							<typ>S</typ>
+                			<stpid>13072</stpid>
+                			<stpnm>59th Street &amp; Oakley</stpnm>
+                			<pdist>32632.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.786573048205</lat>
+						<lon>-87.684110999107</lon>
+
+							<typ>S</typ>
+                			<stpid>15459</stpid>
+                			<stpnm>59th Street &amp; Western</stpnm>
+                			<pdist>33557.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.786549048905</lat>
+						<lon>-87.686122655869</lon>
+
+							<typ>S</typ>
+                			<stpid>13074</stpid>
+                			<stpnm>59th Street &amp; Campbell</stpnm>
+                			<pdist>34057.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.786521049709</lat>
+						<lon>-87.68856883049</lon>
+
+							<typ>S</typ>
+                			<stpid>13075</stpid>
+                			<stpnm>59th Street &amp; Rockwell</stpnm>
+                			<pdist>34724.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.786489050614</lat>
+						<lon>-87.691025733948</lon>
+
+							<typ>S</typ>
+                			<stpid>13076</stpid>
+                			<stpnm>59th Street &amp; Washtenaw</stpnm>
+                			<pdist>35395.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.786437052049</lat>
+						<lon>-87.693488001823</lon>
+
+							<typ>S</typ>
+                			<stpid>13077</stpid>
+                			<stpnm>59th Street &amp; California</stpnm>
+                			<pdist>36066.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.786405052912</lat>
+						<lon>-87.695891261101</lon>
+
+							<typ>S</typ>
+                			<stpid>13078</stpid>
+                			<stpnm>59th Street &amp; Francisco</stpnm>
+                			<pdist>36738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.786357054176</lat>
+						<lon>-87.698332071304</lon>
+
+							<typ>S</typ>
+                			<stpid>13079</stpid>
+                			<stpnm>59th Street &amp; Sacramento</stpnm>
+                			<pdist>37392.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.786317055202</lat>
+						<lon>-87.700783610344</lon>
+
+							<typ>S</typ>
+                			<stpid>13080</stpid>
+                			<stpnm>59th Street &amp; Albany</stpnm>
+                			<pdist>38082.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.786281056104</lat>
+						<lon>-87.703202962875</lon>
+
+							<typ>S</typ>
+                			<stpid>13081</stpid>
+                			<stpnm>59th Street &amp; Kedzie</stpnm>
+                			<pdist>38742.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.786257056694</lat>
+						<lon>-87.705638408661</lon>
+
+							<typ>S</typ>
+                			<stpid>13082</stpid>
+                			<stpnm>59th Street &amp; Spaulding</stpnm>
+                			<pdist>39422.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.786213057752</lat>
+						<lon>-87.708089947701</lon>
+
+							<typ>S</typ>
+                			<stpid>13083</stpid>
+                			<stpnm>59th Street &amp; Homan</stpnm>
+                			<pdist>40097.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.78616905878</lat>
+						<lon>-87.710509300232</lon>
+
+							<typ>S</typ>
+                			<stpid>13084</stpid>
+                			<stpnm>59th Street &amp; St. Louis</stpnm>
+                			<pdist>40772.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.786141059419</lat>
+						<lon>-87.712681889534</lon>
+
+							<typ>S</typ>
+                			<stpid>13085</stpid>
+                			<stpnm>59th Street &amp; Central Park</stpnm>
+                			<pdist>41368.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.786097060397</lat>
+						<lon>-87.715428471565</lon>
+
+							<typ>S</typ>
+                			<stpid>13086</stpid>
+                			<stpnm>59th Street &amp; Lawndale</stpnm>
+                			<pdist>42115.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.786061061176</lat>
+						<lon>-87.717837095261</lon>
+
+							<typ>S</typ>
+                			<stpid>13087</stpid>
+                			<stpnm>59th Street &amp; Hamlin</stpnm>
+                			<pdist>42794.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.786013062182</lat>
+						<lon>-87.720293998718</lon>
+
+							<typ>S</typ>
+                			<stpid>13088</stpid>
+                			<stpnm>59th Street &amp; Springfield</stpnm>
+                			<pdist>43461.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.785989062672</lat>
+						<lon>-87.722729444504</lon>
+
+							<typ>S</typ>
+                			<stpid>13089</stpid>
+                			<stpnm>59th Street &amp; Pulaski</stpnm>
+                			<pdist>44123.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.785949063468</lat>
+						<lon>-87.725256085396</lon>
+
+							<typ>S</typ>
+                			<stpid>13090</stpid>
+                			<stpnm>59th Street &amp; Karlov</stpnm>
+                			<pdist>44811.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.785925063934</lat>
+						<lon>-87.727643251419</lon>
+
+							<typ>S</typ>
+                			<stpid>13091</stpid>
+                			<stpnm>59th Street &amp; Keeler</stpnm>
+                			<pdist>45482.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.785925063934</lat>
+						<lon>-87.730153799057</lon>
+
+							<typ>S</typ>
+                			<stpid>13092</stpid>
+                			<stpnm>59th Street &amp; Kildare</stpnm>
+                			<pdist>46149.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.785889064616</lat>
+						<lon>-87.73246049881</lon>
+
+							<typ>S</typ>
+                			<stpid>13093</stpid>
+                			<stpnm>59th Street &amp; Kostner</stpnm>
+                			<pdist>46822.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.785853065277</lat>
+						<lon>-87.735051512718</lon>
+
+							<typ>S</typ>
+                			<stpid>13094</stpid>
+                			<stpnm>59th Street &amp; Kilbourn</stpnm>
+                			<pdist>47493.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.785805066128</lat>
+						<lon>-87.737916111946</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.785765066809</lat>
+						<lon>-87.738082408905</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.785697067911</lat>
+						<lon>-87.738248705864</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.7862690564</lat>
+						<lon>-87.738972902298</lon>
+
+							<typ>S</typ>
+                			<stpid>14120</stpid>
+                			<stpnm>Midway Orange Line Station</stpnm>
+                			<pdist>48700.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1335</pid>
+				<ln>51435.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.7862690564</lat>
+						<lon>-87.738972902298</lon>
+
+							<typ>S</typ>
+                			<stpid>14120</stpid>
+                			<stpnm>Midway Orange Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.785653068585</lat>
+						<lon>-87.73820579052</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.785733067337</lat>
+						<lon>-87.737953662872</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.785765066809</lat>
+						<lon>-87.737513780594</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.785785066472</lat>
+						<lon>-87.735303640366</lon>
+
+							<typ>S</typ>
+                			<stpid>12952</stpid>
+                			<stpnm>59th Street &amp; Kilbourn</stpnm>
+                			<pdist>2424.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.785829065707</lat>
+						<lon>-87.732846736908</lon>
+
+							<typ>S</typ>
+                			<stpid>12953</stpid>
+                			<stpnm>59th Street &amp; Kostner</stpnm>
+                			<pdist>3112.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.785857065205</lat>
+						<lon>-87.730411291122</lon>
+
+							<typ>S</typ>
+                			<stpid>12954</stpid>
+                			<stpnm>59th Street &amp; Kildare</stpnm>
+                			<pdist>3764.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.785873064912</lat>
+						<lon>-87.727981209755</lon>
+
+							<typ>S</typ>
+                			<stpid>12955</stpid>
+                			<stpnm>59th Street &amp; Keeler</stpnm>
+                			<pdist>4436.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.78588506469</lat>
+						<lon>-87.725535035133</lon>
+
+							<typ>S</typ>
+                			<stpid>12956</stpid>
+                			<stpnm>59th Street &amp; Karlov</stpnm>
+                			<pdist>5119.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.785909064239</lat>
+						<lon>-87.724049091339</lon>
+
+							<typ>S</typ>
+                			<stpid>12957</stpid>
+                			<stpnm>59th Street &amp; Pulaski</stpnm>
+                			<pdist>5775.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.785945063546</lat>
+						<lon>-87.720610499382</lon>
+
+							<typ>S</typ>
+                			<stpid>12958</stpid>
+                			<stpnm>59th Street &amp; Springfield</stpnm>
+                			<pdist>6460.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.786005062346</lat>
+						<lon>-87.718169689178</lon>
+
+							<typ>S</typ>
+                			<stpid>12959</stpid>
+                			<stpnm>59th Street &amp; Hamlin</stpnm>
+                			<pdist>7131.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.786037061684</lat>
+						<lon>-87.715739607811</lon>
+
+							<typ>S</typ>
+                			<stpid>12960</stpid>
+                			<stpnm>59th Street &amp; Lawndale</stpnm>
+                			<pdist>7814.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.786077060832</lat>
+						<lon>-87.71271944046</lon>
+
+							<typ>S</typ>
+                			<stpid>12961</stpid>
+                			<stpnm>59th Street &amp; Central Park</stpnm>
+                			<pdist>8719.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.78610106031</lat>
+						<lon>-87.710804343224</lon>
+
+							<typ>S</typ>
+                			<stpid>12962</stpid>
+                			<stpnm>59th Street &amp; St. Louis</stpnm>
+                			<pdist>9186.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.786141059419</lat>
+						<lon>-87.70945250988</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.786149059238</lat>
+						<lon>-87.708342075348</lon>
+
+							<typ>S</typ>
+                			<stpid>12963</stpid>
+                			<stpnm>59th Street &amp; Homan</stpnm>
+                			<pdist>9854.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.78618505841</lat>
+						<lon>-87.706030011177</lon>
+
+							<typ>S</typ>
+                			<stpid>12964</stpid>
+                			<stpnm>59th Street &amp; Spaulding</stpnm>
+                			<pdist>10472.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.786213057752</lat>
+						<lon>-87.703562378883</lon>
+
+							<typ>S</typ>
+                			<stpid>12965</stpid>
+                			<stpnm>59th Street &amp; Kedzie</stpnm>
+                			<pdist>11181.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.786253056791</lat>
+						<lon>-87.701035737991</lon>
+
+							<typ>S</typ>
+                			<stpid>12966</stpid>
+                			<stpnm>59th Street &amp; Albany</stpnm>
+                			<pdist>11850.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.786297055705</lat>
+						<lon>-87.698176503181</lon>
+
+							<typ>S</typ>
+                			<stpid>15260</stpid>
+                			<stpnm>59th Street &amp; Sacramento</stpnm>
+                			<pdist>12693.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.786345054486</lat>
+						<lon>-87.69616484642</lon>
+
+							<typ>S</typ>
+                			<stpid>12968</stpid>
+                			<stpnm>59th Street &amp; Francisco</stpnm>
+                			<pdist>13176.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.786377053654</lat>
+						<lon>-87.693504095078</lon>
+
+							<typ>S</typ>
+                			<stpid>12969</stpid>
+                			<stpnm>59th Street &amp; California</stpnm>
+                			<pdist>13860.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.786429052267</lat>
+						<lon>-87.691261768341</lon>
+
+							<typ>S</typ>
+                			<stpid>12970</stpid>
+                			<stpnm>59th Street &amp; Washtenaw</stpnm>
+                			<pdist>14524.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.786461051392</lat>
+						<lon>-87.688826322556</lon>
+
+							<typ>S</typ>
+                			<stpid>12971</stpid>
+                			<stpnm>59th Street &amp; Rockwell</stpnm>
+                			<pdist>15196.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.786489050614</lat>
+						<lon>-87.686423063278</lon>
+
+							<typ>S</typ>
+                			<stpid>12972</stpid>
+                			<stpnm>59th Street &amp; Campbell</stpnm>
+                			<pdist>15864.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.786513049937</lat>
+						<lon>-87.683365345001</lon>
+
+							<typ>S</typ>
+                			<stpid>15460</stpid>
+                			<stpnm>59th Street &amp; Western</stpnm>
+                			<pdist>16760.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.786529049481</lat>
+						<lon>-87.681133747101</lon>
+
+							<typ>S</typ>
+                			<stpid>12974</stpid>
+                			<stpnm>59th Street &amp; Oakley</stpnm>
+                			<pdist>17350.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.786565048439</lat>
+						<lon>-87.676649093628</lon>
+
+							<typ>S</typ>
+                			<stpid>12975</stpid>
+                			<stpnm>59th Street &amp; Hoyne</stpnm>
+                			<pdist>18667.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.78661304702</lat>
+						<lon>-87.674251198769</lon>
+
+							<typ>S</typ>
+                			<stpid>12976</stpid>
+                			<stpnm>59th Street &amp; Damen</stpnm>
+                			<pdist>19375.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.786625046659</lat>
+						<lon>-87.671756744385</lon>
+
+							<typ>S</typ>
+                			<stpid>12977</stpid>
+                			<stpnm>59th Street &amp; Wolcott</stpnm>
+                			<pdist>20035.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.786665045441</lat>
+						<lon>-87.66940176487</lon>
+
+							<typ>S</typ>
+                			<stpid>12978</stpid>
+                			<stpnm>59th Street &amp; Wood</stpnm>
+                			<pdist>20668.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.786701044324</lat>
+						<lon>-87.666928768158</lon>
+
+							<typ>S</typ>
+                			<stpid>12979</stpid>
+                			<stpnm>59th Street &amp; Paulina</stpnm>
+                			<pdist>21366.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.786733043314</lat>
+						<lon>-87.664509415627</lon>
+
+							<typ>S</typ>
+                			<stpid>12980</stpid>
+                			<stpnm>59th Street &amp; Ashland</stpnm>
+                			<pdist>22021.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.786761042416</lat>
+						<lon>-87.662047147751</lon>
+
+							<typ>S</typ>
+                			<stpid>12981</stpid>
+                			<stpnm>59th Street &amp; Laflin</stpnm>
+                			<pdist>22710.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.786777041898</lat>
+						<lon>-87.659622430801</lon>
+
+							<typ>S</typ>
+                			<stpid>12982</stpid>
+                			<stpnm>59th Street &amp; Loomis</stpnm>
+                			<pdist>23375.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.786829040187</lat>
+						<lon>-87.65722990036</lon>
+
+							<typ>S</typ>
+                			<stpid>12983</stpid>
+                			<stpnm>59th Street &amp; Throop</stpnm>
+                			<pdist>24033.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.786861039113</lat>
+						<lon>-87.654826641083</lon>
+
+							<typ>S</typ>
+                			<stpid>12984</stpid>
+                			<stpnm>59th Street &amp; Racine</stpnm>
+                			<pdist>24705.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.786893038022</lat>
+						<lon>-87.652385830879</lon>
+
+							<typ>S</typ>
+                			<stpid>12985</stpid>
+                			<stpnm>59th Street &amp; Aberdeen</stpnm>
+                			<pdist>25372.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.786945036217</lat>
+						<lon>-87.649966478348</lon>
+
+							<typ>S</typ>
+                			<stpid>12986</stpid>
+                			<stpnm>59th Street &amp; Morgan</stpnm>
+                			<pdist>26036.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.786965035511</lat>
+						<lon>-87.647477388382</lon>
+
+							<typ>S</typ>
+                			<stpid>12987</stpid>
+                			<stpnm>59th Street &amp; Peoria</stpnm>
+                			<pdist>26708.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.787005034081</lat>
+						<lon>-87.645111680031</lon>
+
+							<typ>S</typ>
+                			<stpid>12988</stpid>
+                			<stpnm>59th Street &amp; Halsted</stpnm>
+                			<pdist>27358.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.787025033357</lat>
+						<lon>-87.642681598663</lon>
+
+							<typ>S</typ>
+                			<stpid>12989</stpid>
+                			<stpnm>59th Street &amp; Union</stpnm>
+                			<pdist>28042.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.787073031593</lat>
+						<lon>-87.640289068222</lon>
+
+							<typ>S</typ>
+                			<stpid>12990</stpid>
+                			<stpnm>59th Street &amp; Wallace</stpnm>
+                			<pdist>28711.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.787117029944</lat>
+						<lon>-87.637778520584</lon>
+
+							<typ>S</typ>
+                			<stpid>12991</stpid>
+                			<stpnm>59th Street &amp; Normal</stpnm>
+                			<pdist>29374.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.787137029185</lat>
+						<lon>-87.635933160782</lon>
+
+							<typ>S</typ>
+                			<stpid>15908</stpid>
+                			<stpnm>59th Street &amp; Stewart</stpnm>
+                			<pdist>29862.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.787181027492</lat>
+						<lon>-87.634007334709</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.787197026869</lat>
+						<lon>-87.632972002029</lon>
+
+							<typ>S</typ>
+                			<stpid>12992</stpid>
+                			<stpnm>59th Street &amp; Princeton</stpnm>
+                			<pdist>30717.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.787217026085</lat>
+						<lon>-87.632172703743</lon>
+
+							<typ>S</typ>
+                			<stpid>12993</stpid>
+                			<stpnm>59th Street &amp; Wells</stpnm>
+                			<pdist>30935.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.787217026085</lat>
+						<lon>-87.63199031353</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.787229025612</lat>
+						<lon>-87.631126642227</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.787257024498</lat>
+						<lon>-87.630321979523</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.789812871325</lat>
+						<lon>-87.630375623703</lon>
+
+							<typ>S</typ>
+                			<stpid>6459</stpid>
+                			<stpnm>Wentworth &amp; 57th Place</stpnm>
+                			<pdist>32388.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.790888776367</lat>
+						<lon>-87.630370259285</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.791104755128</lat>
+						<lon>-87.630370259285</lon>
+
+							<typ>S</typ>
+                			<stpid>15858</stpid>
+                			<stpnm>Wentworth &amp; 57th Street</stpnm>
+                			<pdist>32928.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.792612586577</lat>
+						<lon>-87.630407810211</lon>
+
+							<typ>S</typ>
+                			<stpid>6461</stpid>
+                			<stpnm>5556 S Wentworth</stpnm>
+                			<pdist>33333.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.794608308938</lat>
+						<lon>-87.630477547646</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.794600310175</lat>
+						<lon>-87.631121277809</lon>
+
+							<typ>S</typ>
+                			<stpid>10589</stpid>
+                			<stpnm>Garfield Red Line Station</stpnm>
+                			<pdist>34230.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.794588312028</lat>
+						<lon>-87.631840109825</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.793980402991</lat>
+						<lon>-87.631829380989</lon>
+
+							<typ>S</typ>
+                			<stpid>6528</stpid>
+                			<stpnm>Wells &amp; Garfield </stpnm>
+                			<pdist>34631.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.79255659347</lat>
+						<lon>-87.631818652153</lon>
+
+							<typ>S</typ>
+                			<stpid>6529</stpid>
+                			<stpnm>5600 S Wells</stpnm>
+                			<pdist>35203.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.791028762684</lat>
+						<lon>-87.631781101227</lon>
+
+							<typ>S</typ>
+                			<stpid>6530</stpid>
+                			<stpnm>Wells &amp; 57th Street</stpnm>
+                			<pdist>35684.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.789032928871</lat>
+						<lon>-87.631802558899</lon>
+
+							<typ>S</typ>
+                			<stpid>6531</stpid>
+                			<stpnm>Wells &amp; 58th Street</stpnm>
+                			<pdist>36422.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.78817298132</lat>
+						<lon>-87.631931304932</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.787217026085</lat>
+						<lon>-87.631995677948</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.787233025453</lat>
+						<lon>-87.631126642227</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.787253024658</lat>
+						<lon>-87.630123496056</lon>
+
+							<typ>S</typ>
+                			<stpid>12994</stpid>
+                			<stpnm>59th Street &amp; Wentworth</stpnm>
+                			<pdist>37621.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.787269024017</lat>
+						<lon>-87.629168629646</lon>
+
+							<typ>S</typ>
+                			<stpid>12995</stpid>
+                			<stpnm>59th Street &amp; LaSalle</stpnm>
+                			<pdist>37822.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.787297022886</lat>
+						<lon>-87.628288865089</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.787301022723</lat>
+						<lon>-87.627757787704</lon>
+
+							<typ>S</typ>
+                			<stpid>12996</stpid>
+                			<stpnm>59th Street &amp; Perry</stpnm>
+                			<pdist>38302.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.787337021248</lat>
+						<lon>-87.625622749329</lon>
+
+							<typ>S</typ>
+                			<stpid>12997</stpid>
+                			<stpnm>59th Street &amp; State</stpnm>
+                			<pdist>38765.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.787337021248</lat>
+						<lon>-87.625542283058</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.785737067272</lat>
+						<lon>-87.625499367714</lon>
+
+							<typ>S</typ>
+                			<stpid>2426</stpid>
+                			<stpnm>State &amp; 60th Street</stpnm>
+                			<pdist>39398.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.783705068167</lat>
+						<lon>-87.625451087952</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.783717068351</lat>
+						<lon>-87.623890042305</lon>
+
+							<typ>S</typ>
+                			<stpid>13000</stpid>
+                			<stpnm>61st Street &amp; Wabash</stpnm>
+                			<pdist>40446.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.78374906883</lat>
+						<lon>-87.622264623642</lon>
+
+							<typ>S</typ>
+                			<stpid>13001</stpid>
+                			<stpnm>61st Street &amp; Michigan</stpnm>
+                			<pdist>40885.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.783809069685</lat>
+						<lon>-87.619099617004</lon>
+
+							<typ>S</typ>
+                			<stpid>13003</stpid>
+                			<stpnm>61st Street &amp; Prairie</stpnm>
+                			<pdist>41769.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.783845070171</lat>
+						<lon>-87.615832686424</lon>
+
+							<typ>S</typ>
+                			<stpid>15487</stpid>
+                			<stpnm>61st Street &amp; King Drive</stpnm>
+                			<pdist>42808.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.783893070788</lat>
+						<lon>-87.613359689713</lon>
+
+							<typ>S</typ>
+                			<stpid>13007</stpid>
+                			<stpnm>61st Street &amp; Eberhart</stpnm>
+                			<pdist>43309.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.783949071462</lat>
+						<lon>-87.611020803452</lon>
+
+							<typ>S</typ>
+                			<stpid>13008</stpid>
+                			<stpnm>61st Street &amp; St. Lawrence</stpnm>
+                			<pdist>43957.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.7839610716</lat>
+						<lon>-87.608622908592</lon>
+
+							<typ>S</typ>
+                			<stpid>13010</stpid>
+                			<stpnm>61st Street &amp; Langley</stpnm>
+                			<pdist>44609.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.78402907234</lat>
+						<lon>-87.605844140053</lon>
+
+							<typ>S</typ>
+                			<stpid>15697</stpid>
+                			<stpnm>61st Street &amp; Cottage Grove</stpnm>
+                			<pdist>45271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.784061072663</lat>
+						<lon>-87.602899074554</lon>
+
+							<typ>S</typ>
+                			<stpid>13013</stpid>
+                			<stpnm>61st Street &amp; Ingleside</stpnm>
+                			<pdist>45967.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.784069072742</lat>
+						<lon>-87.601257562637</lon>
+
+							<typ>S</typ>
+                			<stpid>13014</stpid>
+                			<stpnm>61st Street &amp; Ellis</stpnm>
+                			<pdist>46410.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.784093072971</lat>
+						<lon>-87.598028182983</lon>
+
+							<typ>S</typ>
+                			<stpid>13016</stpid>
+                			<stpnm>61st Street &amp; University</stpnm>
+                			<pdist>47288.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.784101666667</lat>
+						<lon>-87.595948333332</lon>
+
+							<typ>S</typ>
+                			<stpid>17626</stpid>
+                			<stpnm>61st Street &amp; Woodlawn</stpnm>
+                			<pdist>47868.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.784161073571</lat>
+						<lon>-87.593243122101</lon>
+
+							<typ>S</typ>
+                			<stpid>13019</stpid>
+                			<stpnm>61st Street &amp; Kenwood</stpnm>
+                			<pdist>48605.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.784177073701</lat>
+						<lon>-87.591370940208</lon>
+
+							<typ>S</typ>
+                			<stpid>13020</stpid>
+                			<stpnm>Dorchester &amp; 61st Street</stpnm>
+                			<pdist>49203.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.785985062753</lat>
+						<lon>-87.591424584389</lon>
+
+							<typ>S</typ>
+                			<stpid>13021</stpid>
+                			<stpnm>Dorchester &amp; 60th Street</stpnm>
+                			<pdist>49754.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.786073060919</lat>
+						<lon>-87.591424584389</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.786117059956</lat>
+						<lon>-87.586714625359</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.786225057466</lat>
+						<lon>-87.586719989777</lon>
+
+							<typ>S</typ>
+                			<stpid>13022</stpid>
+                			<stpnm>60th Street &amp; Stony Island</stpnm>
+                			<pdist>51435.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

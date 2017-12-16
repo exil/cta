@@ -1,0 +1,3286 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>1506</pid>
+				<ln>26037.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.911279845245</lat>
+						<lon>-87.631239295006</lon>
+
+							<typ>S</typ>
+                			<stpid>923</stpid>
+                			<stpnm>North Ave &amp; Clark Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.911247908494</lat>
+						<lon>-87.631850838661</lon>
+
+							<typ>S</typ>
+                			<stpid>924</stpid>
+                			<stpnm>North Ave &amp; Clark</stpnm>
+                			<pdist>278.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.911207987532</lat>
+						<lon>-87.632843255997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.911279845245</lat>
+						<lon>-87.633020281792</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.911279845245</lat>
+						<lon>-87.63454914093</lon>
+
+							<typ>S</typ>
+                			<stpid>926</stpid>
+                			<stpnm>North Ave &amp; Wells</stpnm>
+                			<pdist>1005.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.911251900588</lat>
+						<lon>-87.63667345047</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.911231940112</lat>
+						<lon>-87.638400793076</lon>
+
+							<typ>S</typ>
+                			<stpid>927</stpid>
+                			<stpnm>North Ave &amp; Sedgwick (Brown Line)</stpnm>
+                			<pdist>1924.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.91119201914</lat>
+						<lon>-87.640755772591</lon>
+
+							<typ>S</typ>
+                			<stpid>928</stpid>
+                			<stpnm>North Ave &amp; Cleveland</stpnm>
+                			<pdist>2712.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.911112177123</lat>
+						<lon>-87.643486261368</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.911052295544</lat>
+						<lon>-87.643674015999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.911048303436</lat>
+						<lon>-87.64383494854</lon>
+
+							<typ>S</typ>
+                			<stpid>929</stpid>
+                			<stpnm>North Ave &amp; Larrabee</stpnm>
+                			<pdist>3559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.911028342896</lat>
+						<lon>-87.644317746162</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.910992413908</lat>
+						<lon>-87.645680308342</lon>
+
+							<typ>S</typ>
+                			<stpid>16142</stpid>
+                			<stpnm>North Ave &amp; Orchard</stpnm>
+                			<pdist>4041.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.910976445463</lat>
+						<lon>-87.64680147171</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.910964469126</lat>
+						<lon>-87.648507356644</lon>
+
+							<typ>S</typ>
+                			<stpid>14428</stpid>
+                			<stpnm>North Ave &amp; Clybourn/Halsted (Red Line)</stpnm>
+                			<pdist>4849.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.910960477013</lat>
+						<lon>-87.649628520012</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.910904587409</lat>
+						<lon>-87.651007175446</lon>
+
+							<typ>S</typ>
+                			<stpid>933</stpid>
+                			<stpnm>North Ave &amp; Fremont</stpnm>
+                			<pdist>5482.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.910868658351</lat>
+						<lon>-87.653979063034</lon>
+
+							<typ>S</typ>
+                			<stpid>934</stpid>
+                			<stpnm>North Ave &amp; Sheffield/Kingsbury</stpnm>
+                			<pdist>6255.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.910852689875</lat>
+						<lon>-87.655491828918</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.910768855308</lat>
+						<lon>-87.660534381866</lon>
+
+							<typ>S</typ>
+                			<stpid>17127</stpid>
+                			<stpnm>North Ave &amp; Throop</stpnm>
+                			<pdist>8100.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.910768855308</lat>
+						<lon>-87.662497758865</lon>
+
+							<typ>S</typ>
+                			<stpid>15397</stpid>
+                			<stpnm>North Ave &amp; Elston</stpnm>
+                			<pdist>8619.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.910736918301</lat>
+						<lon>-87.664450407028</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.910673044239</lat>
+						<lon>-87.666258215904</lon>
+
+							<typ>S</typ>
+                			<stpid>939</stpid>
+                			<stpnm>North Ave &amp; Bosworth</stpnm>
+                			<pdist>9635.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.910669052108</lat>
+						<lon>-87.66656935215</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.910669052108</lat>
+						<lon>-87.667148709297</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.910665059977</lat>
+						<lon>-87.667980194092</lon>
+
+							<typ>S</typ>
+                			<stpid>17000</stpid>
+                			<stpnm>North Ave &amp; Ashland</stpnm>
+                			<pdist>10084.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.910641107184</lat>
+						<lon>-87.669562697411</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.910625138651</lat>
+						<lon>-87.670013308525</lon>
+
+							<typ>S</typ>
+                			<stpid>941</stpid>
+                			<stpnm>North Ave &amp; Paulina</stpnm>
+                			<pdist>10570.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.9105852173</lat>
+						<lon>-87.672480940819</lon>
+
+							<typ>S</typ>
+                			<stpid>942</stpid>
+                			<stpnm>North Ave &amp; Wood</stpnm>
+                			<pdist>11230.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.910533319506</lat>
+						<lon>-87.675141692162</lon>
+
+							<typ>S</typ>
+                			<stpid>943</stpid>
+                			<stpnm>North Ave &amp; Wolcott</stpnm>
+                			<pdist>11907.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.910509366664</lat>
+						<lon>-87.6766705513</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.910517350946</lat>
+						<lon>-87.677448391914</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.910517350946</lat>
+						<lon>-87.678156495094</lon>
+
+							<typ>S</typ>
+                			<stpid>945</stpid>
+                			<stpnm>North Ave &amp; Milwaukee/Damen (Blue Line)</stpnm>
+                			<pdist>12832.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.910493398098</lat>
+						<lon>-87.679781913757</lon>
+
+							<typ>S</typ>
+                			<stpid>946</stpid>
+                			<stpnm>North Ave &amp; Hoyne</stpnm>
+                			<pdist>13245.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.910461460953</lat>
+						<lon>-87.680683135986</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.910437508084</lat>
+						<lon>-87.682217359543</lon>
+
+							<typ>S</typ>
+                			<stpid>947</stpid>
+                			<stpnm>North Ave &amp; Leavitt</stpnm>
+                			<pdist>13903.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.910409563059</lat>
+						<lon>-87.68355846405</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.910393594467</lat>
+						<lon>-87.684625983238</lon>
+
+							<typ>S</typ>
+                			<stpid>948</stpid>
+                			<stpnm>North Ave &amp; Oakley</stpnm>
+                			<pdist>14576.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.910365649423</lat>
+						<lon>-87.686980962753</lon>
+
+							<typ>S</typ>
+                			<stpid>949</stpid>
+                			<stpnm>North Ave &amp; Western</stpnm>
+                			<pdist>15226.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.910345688669</lat>
+						<lon>-87.688429355621</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.910349680821</lat>
+						<lon>-87.689534425735</lon>
+
+							<typ>S</typ>
+                			<stpid>950</stpid>
+                			<stpnm>North Ave &amp; Campbell</stpnm>
+                			<pdist>15905.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.910313751451</lat>
+						<lon>-87.691948413849</lon>
+
+							<typ>S</typ>
+                			<stpid>951</stpid>
+                			<stpnm>North Ave &amp; Rockwell</stpnm>
+                			<pdist>16581.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.910285806371</lat>
+						<lon>-87.694389224052</lon>
+
+							<typ>S</typ>
+                			<stpid>952</stpid>
+                			<stpnm>North Ave &amp; Washtenaw</stpnm>
+                			<pdist>17244.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.910277822061</lat>
+						<lon>-87.695521116257</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.910317743604</lat>
+						<lon>-87.695692777634</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.910317743604</lat>
+						<lon>-87.697323560715</lon>
+
+							<typ>S</typ>
+                			<stpid>17128</stpid>
+                			<stpnm>North Ave &amp; California</stpnm>
+                			<pdist>18085.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.910313751451</lat>
+						<lon>-87.698069214821</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.91025786128</lat>
+						<lon>-87.698273062706</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.910253869123</lat>
+						<lon>-87.69894361496</lon>
+
+							<typ>S</typ>
+                			<stpid>954</stpid>
+                			<stpnm>North Ave &amp; Francisco</stpnm>
+                			<pdist>18477.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.910217939699</lat>
+						<lon>-87.702328562737</lon>
+
+							<typ>S</typ>
+                			<stpid>17129</stpid>
+                			<stpnm>North Ave &amp; Humboldt</stpnm>
+                			<pdist>19438.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.910197978899</lat>
+						<lon>-87.704393863678</lon>
+
+							<typ>S</typ>
+                			<stpid>957</stpid>
+                			<stpnm>North Ave &amp; Albany</stpnm>
+                			<pdist>19955.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.910178018093</lat>
+						<lon>-87.706464529037</lon>
+
+							<typ>S</typ>
+                			<stpid>17130</stpid>
+                			<stpnm>North Ave &amp; Kedzie</stpnm>
+                			<pdist>20758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.910174025931</lat>
+						<lon>-87.706909775734</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.910118135638</lat>
+						<lon>-87.709441781044</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.910118135638</lat>
+						<lon>-87.709817290306</lon>
+
+							<typ>S</typ>
+                			<stpid>959</stpid>
+                			<stpnm>North Ave &amp; Spaulding</stpnm>
+                			<pdist>21464.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.910090190473</lat>
+						<lon>-87.712022066116</lon>
+
+							<typ>S</typ>
+                			<stpid>14832</stpid>
+                			<stpnm>North Ave &amp; Kimball/Homan</stpnm>
+                			<pdist>22115.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.910054260957</lat>
+						<lon>-87.714725732803</lon>
+
+							<typ>S</typ>
+                			<stpid>961</stpid>
+                			<stpnm>North Ave &amp; Drake</stpnm>
+                			<pdist>22773.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.910050268787</lat>
+						<lon>-87.716544270515</lon>
+
+							<typ>S</typ>
+                			<stpid>962</stpid>
+                			<stpnm>North Ave &amp; Central Park</stpnm>
+                			<pdist>23230.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.910010347077</lat>
+						<lon>-87.71884560585</lon>
+
+							<typ>S</typ>
+                			<stpid>963</stpid>
+                			<stpnm>North Ave &amp; Lawndale</stpnm>
+                			<pdist>23872.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.910018331421</lat>
+						<lon>-87.720487117767</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.910002362732</lat>
+						<lon>-87.721291780472</lon>
+
+							<typ>S</typ>
+                			<stpid>964</stpid>
+                			<stpnm>North Ave &amp; Hamlin</stpnm>
+                			<pdist>24559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.909978409691</lat>
+						<lon>-87.722659707069</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.909986394039</lat>
+						<lon>-87.723818421364</lon>
+
+							<typ>S</typ>
+                			<stpid>965</stpid>
+                			<stpnm>North Ave &amp; Springfield</stpnm>
+                			<pdist>25219.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.909942480112</lat>
+						<lon>-87.726747393608</lon>
+
+							<typ>S</typ>
+                			<stpid>17439</stpid>
+                			<stpnm>North Ave &amp; Pulaski</stpnm>
+                			<pdist>26037.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1519</pid>
+				<ln>47441.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.909040241837</lat>
+						<lon>-87.804011106491</lon>
+
+							<typ>S</typ>
+                			<stpid>845</stpid>
+                			<stpnm>Neva &amp; North Ave</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.908820668646</lat>
+						<lon>-87.804000377655</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.908848614366</lat>
+						<lon>-87.802670001984</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.908880552318</lat>
+						<lon>-87.801296710968</lon>
+
+							<typ>S</typ>
+                			<stpid>846</stpid>
+                			<stpnm>North Ave &amp; Forest</stpnm>
+                			<pdist>785.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.908908498013</lat>
+						<lon>-87.800245285034</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.908912490254</lat>
+						<lon>-87.798099517822</lon>
+
+							<typ>S</typ>
+                			<stpid>847</stpid>
+                			<stpnm>North Ave &amp; Kenilworth</stpnm>
+                			<pdist>1602.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.908952412651</lat>
+						<lon>-87.795127630234</lon>
+
+							<typ>S</typ>
+                			<stpid>848</stpid>
+                			<stpnm>North Ave &amp; Oak Park</stpnm>
+                			<pdist>2457.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.908964389365</lat>
+						<lon>-87.793357372284</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.909028265137</lat>
+						<lon>-87.79328763485</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.909040241837</lat>
+						<lon>-87.792472243309</lon>
+
+							<typ>S</typ>
+                			<stpid>849</stpid>
+                			<stpnm>North Ave &amp; Linden</stpnm>
+                			<pdist>3125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.909048226302</lat>
+						<lon>-87.790095806122</lon>
+
+							<typ>S</typ>
+                			<stpid>850</stpid>
+                			<stpnm>North Ave &amp; East</stpnm>
+                			<pdist>3775.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.909096133074</lat>
+						<lon>-87.787472605705</lon>
+
+							<typ>S</typ>
+                			<stpid>851</stpid>
+                			<stpnm>North Ave &amp; Elmwood</stpnm>
+                			<pdist>4567.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.909116094218</lat>
+						<lon>-87.785149812698</lon>
+
+							<typ>S</typ>
+                			<stpid>852</stpid>
+                			<stpnm>North Ave &amp; Narragansett</stpnm>
+                			<pdist>5193.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.909128070902</lat>
+						<lon>-87.783497571945</lon>
+
+							<typ>S</typ>
+                			<stpid>854</stpid>
+                			<stpnm>North Ave &amp; Ridgeland</stpnm>
+                			<pdist>5650.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.909152024262</lat>
+						<lon>-87.782108187675</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.909160008713</lat>
+						<lon>-87.780933380127</lon>
+
+							<typ>S</typ>
+                			<stpid>856</stpid>
+                			<stpnm>North Ave &amp; Lombard</stpnm>
+                			<pdist>6345.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.909199930956</lat>
+						<lon>-87.778294086456</lon>
+
+							<typ>S</typ>
+                			<stpid>857</stpid>
+                			<stpnm>North Ave &amp; Taylor</stpnm>
+                			<pdist>7060.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.909219892067</lat>
+						<lon>-87.777081727982</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.909160008713</lat>
+						<lon>-87.776931524277</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.909175977613</lat>
+						<lon>-87.775526046753</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.909175977613</lat>
+						<lon>-87.775139808655</lon>
+
+							<typ>S</typ>
+                			<stpid>16035</stpid>
+                			<stpnm>North Ave &amp; Austin</stpnm>
+                			<pdist>7919.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.909195938733</lat>
+						<lon>-87.774195671082</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.90922787651</lat>
+						<lon>-87.772945761681</lon>
+
+							<typ>S</typ>
+                			<stpid>859</stpid>
+                			<stpnm>North Ave &amp; Mayfield </stpnm>
+                			<pdist>8635.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.909231868732</lat>
+						<lon>-87.770869731903</lon>
+
+							<typ>S</typ>
+                			<stpid>860</stpid>
+                			<stpnm>North Ave &amp; Menard</stpnm>
+                			<pdist>9100.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.909275783147</lat>
+						<lon>-87.77022600174</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.909287759801</lat>
+						<lon>-87.768064141273</lon>
+
+							<typ>S</typ>
+                			<stpid>861</stpid>
+                			<stpnm>North Ave &amp; Waller</stpnm>
+                			<pdist>9946.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.909319697533</lat>
+						<lon>-87.765473127365</lon>
+
+							<typ>S</typ>
+                			<stpid>15011</stpid>
+                			<stpnm>North Ave &amp; Central</stpnm>
+                			<pdist>10640.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.909335666393</lat>
+						<lon>-87.763182520866</lon>
+
+							<typ>S</typ>
+                			<stpid>863</stpid>
+                			<stpnm>North Ave &amp; Linder</stpnm>
+                			<pdist>11200.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.909375588525</lat>
+						<lon>-87.761063575745</lon>
+
+							<typ>S</typ>
+                			<stpid>864</stpid>
+                			<stpnm>North Ave &amp; Long</stpnm>
+                			<pdist>11734.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.909399541793</lat>
+						<lon>-87.758193612099</lon>
+
+							<typ>S</typ>
+                			<stpid>865</stpid>
+                			<stpnm>North Ave &amp; Lockwood</stpnm>
+                			<pdist>12580.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.909431479469</lat>
+						<lon>-87.756090760231</lon>
+
+							<typ>S</typ>
+                			<stpid>866</stpid>
+                			<stpnm>North Ave &amp; Laramie</stpnm>
+                			<pdist>13114.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.909483378158</lat>
+						<lon>-87.752754092216</lon>
+
+							<typ>S</typ>
+                			<stpid>867</stpid>
+                			<stpnm>North Ave &amp; Leclaire </stpnm>
+                			<pdist>14002.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.909499346977</lat>
+						<lon>-87.751155495644</lon>
+
+							<typ>S</typ>
+                			<stpid>868</stpid>
+                			<stpnm>North Ave &amp; Lavergne</stpnm>
+                			<pdist>14459.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.909503339181</lat>
+						<lon>-87.748977541924</lon>
+
+							<typ>S</typ>
+                			<stpid>15484</stpid>
+                			<stpnm>North Ave &amp; Lamon</stpnm>
+                			<pdist>15129.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.909555237812</lat>
+						<lon>-87.746381163597</lon>
+
+							<typ>S</typ>
+                			<stpid>870</stpid>
+                			<stpnm>North Ave &amp; Cicero</stpnm>
+                			<pdist>15747.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.909575198813</lat>
+						<lon>-87.74506688118</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.909631089582</lat>
+						<lon>-87.744943499565</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.909647058364</lat>
+						<lon>-87.743806242943</lon>
+
+							<typ>S</typ>
+                			<stpid>871</stpid>
+                			<stpnm>North Ave &amp; Kilpatrick</stpnm>
+                			<pdist>16456.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.909659034948</lat>
+						<lon>-87.743146419525</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.909694964686</lat>
+						<lon>-87.741451263428</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.90970294907</lat>
+						<lon>-87.740560770035</lon>
+
+							<typ>S</typ>
+                			<stpid>872</stpid>
+                			<stpnm>North Ave &amp; Kenton</stpnm>
+                			<pdist>17381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.909698956878</lat>
+						<lon>-87.739772200584</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.909726902214</lat>
+						<lon>-87.738747596741</lon>
+
+							<typ>S</typ>
+                			<stpid>873</stpid>
+                			<stpnm>North Ave &amp; Kilbourn</stpnm>
+                			<pdist>17841.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.909734886594</lat>
+						<lon>-87.73853302002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.909762831914</lat>
+						<lon>-87.736553549767</lon>
+
+							<typ>S</typ>
+                			<stpid>874</stpid>
+                			<stpnm>North Ave &amp; Kostner</stpnm>
+                			<pdist>18454.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.909774808477</lat>
+						<lon>-87.734466791153</lon>
+
+							<typ>S</typ>
+                			<stpid>875</stpid>
+                			<stpnm>North Ave &amp; Grand</stpnm>
+                			<pdist>18931.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.90981073815</lat>
+						<lon>-87.731553912163</lon>
+
+							<typ>S</typ>
+                			<stpid>876</stpid>
+                			<stpnm>North Ave &amp; Keeler</stpnm>
+                			<pdist>19793.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.909826706887</lat>
+						<lon>-87.730196714401</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.909850659985</lat>
+						<lon>-87.728689312935</lon>
+
+							<typ>S</typ>
+                			<stpid>15483</stpid>
+                			<stpnm>North Ave &amp; Karlov</stpnm>
+                			<pdist>20584.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.909886589616</lat>
+						<lon>-87.725985646248</lon>
+
+							<typ>S</typ>
+                			<stpid>15149</stpid>
+                			<stpnm>North Ave &amp; Pulaski</stpnm>
+                			<pdist>21327.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.909918527048</lat>
+						<lon>-87.724242210388</lon>
+
+							<typ>S</typ>
+                			<stpid>879</stpid>
+                			<stpnm>North Ave &amp; Springfield</stpnm>
+                			<pdist>21778.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.909918527048</lat>
+						<lon>-87.722895741463</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.909926511404</lat>
+						<lon>-87.721774578094</lon>
+
+							<typ>S</typ>
+                			<stpid>880</stpid>
+                			<stpnm>North Ave &amp; Hamlin</stpnm>
+                			<pdist>22454.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.909942480112</lat>
+						<lon>-87.721409797668</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.909962440991</lat>
+						<lon>-87.720412015915</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.909950464464</lat>
+						<lon>-87.719129920006</lon>
+
+							<typ>S</typ>
+                			<stpid>881</stpid>
+                			<stpnm>North Ave &amp; Lawndale</stpnm>
+                			<pdist>23105.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.909966433166</lat>
+						<lon>-87.71800339222</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.909990386212</lat>
+						<lon>-87.716571092606</lon>
+
+							<typ>S</typ>
+                			<stpid>882</stpid>
+                			<stpnm>North Ave &amp; Central Park</stpnm>
+                			<pdist>23781.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.910002362732</lat>
+						<lon>-87.714478969574</lon>
+
+							<typ>S</typ>
+                			<stpid>883</stpid>
+                			<stpnm>North Ave &amp; St. Louis </stpnm>
+                			<pdist>24440.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.910034300106</lat>
+						<lon>-87.7116304636</lon>
+
+							<typ>S</typ>
+                			<stpid>14831</stpid>
+                			<stpnm>North Ave &amp; Kimball/Homan</stpnm>
+                			<pdist>25263.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.910058253127</lat>
+						<lon>-87.710149884224</lon>
+
+							<typ>S</typ>
+                			<stpid>885</stpid>
+                			<stpnm>North Ave &amp; Spaulding</stpnm>
+                			<pdist>25766.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.910066237465</lat>
+						<lon>-87.709457874298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.910118135638</lat>
+						<lon>-87.70692050457</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.910118135638</lat>
+						<lon>-87.706287503242</lon>
+
+							<typ>S</typ>
+                			<stpid>17125</stpid>
+                			<stpnm>North Ave &amp; Kedzie</stpnm>
+                			<pdist>26648.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.910134104298</lat>
+						<lon>-87.704780101776</lon>
+
+							<typ>S</typ>
+                			<stpid>887</stpid>
+                			<stpnm>North Ave &amp; Albany</stpnm>
+                			<pdist>27105.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.910166041607</lat>
+						<lon>-87.702049612999</lon>
+
+							<typ>S</typ>
+                			<stpid>888</stpid>
+                			<stpnm>North Ave &amp; Humboldt</stpnm>
+                			<pdist>27827.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.910193986739</lat>
+						<lon>-87.698932886124</lon>
+
+							<typ>S</typ>
+                			<stpid>889</stpid>
+                			<stpnm>North Ave &amp; Francisco</stpnm>
+                			<pdist>28674.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.91020596322</lat>
+						<lon>-87.698267698288</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.910158057281</lat>
+						<lon>-87.698020935059</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.910170033769</lat>
+						<lon>-87.697248458862</lon>
+
+							<typ>S</typ>
+                			<stpid>890</stpid>
+                			<stpnm>North Ave &amp; California</stpnm>
+                			<pdist>29142.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.910170033769</lat>
+						<lon>-87.695708870888</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.910217939699</lat>
+						<lon>-87.695547938347</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.910217939699</lat>
+						<lon>-87.694657444954</lon>
+
+							<typ>S</typ>
+                			<stpid>891</stpid>
+                			<stpnm>North Ave &amp; Washtenaw</stpnm>
+                			<pdist>29843.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.91025786128</lat>
+						<lon>-87.691803574562</lon>
+
+							<typ>S</typ>
+                			<stpid>15958</stpid>
+                			<stpnm>North Ave &amp; Rockwell</stpnm>
+                			<pdist>30626.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.910277822061</lat>
+						<lon>-87.689808011055</lon>
+
+							<typ>S</typ>
+                			<stpid>893</stpid>
+                			<stpnm>North Ave &amp; Campbell</stpnm>
+                			<pdist>31162.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.910285806371</lat>
+						<lon>-87.688423991203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.910305767144</lat>
+						<lon>-87.687222361565</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.910309759297</lat>
+						<lon>-87.687050700188</lon>
+
+							<typ>S</typ>
+                			<stpid>894</stpid>
+                			<stpnm>North Ave &amp; Western</stpnm>
+                			<pdist>31805.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.910329720062</lat>
+						<lon>-87.684856653214</lon>
+
+							<typ>S</typ>
+                			<stpid>895</stpid>
+                			<stpnm>North Ave &amp; Oakley</stpnm>
+                			<pdist>32489.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.910377625872</lat>
+						<lon>-87.682437300682</lon>
+
+							<typ>S</typ>
+                			<stpid>896</stpid>
+                			<stpnm>North Ave &amp; Leavitt</stpnm>
+                			<pdist>33154.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.910397586616</lat>
+						<lon>-87.68064558506</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.9104215395</lat>
+						<lon>-87.680055499077</lon>
+
+							<typ>S</typ>
+                			<stpid>897</stpid>
+                			<stpnm>North Ave &amp; Hoyne</stpnm>
+                			<pdist>33821.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.910453476664</lat>
+						<lon>-87.679165005684</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.910465453097</lat>
+						<lon>-87.677727341652</lon>
+
+							<typ>S</typ>
+                			<stpid>898</stpid>
+                			<stpnm>North Ave &amp; Milwaukee/Damen (Blue Line)</stpnm>
+                			<pdist>34465.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.910441500229</lat>
+						<lon>-87.676348686218</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.910477429527</lat>
+						<lon>-87.675125598907</lon>
+
+							<typ>S</typ>
+                			<stpid>899</stpid>
+                			<stpnm>North Ave &amp; Wolcott</stpnm>
+                			<pdist>35166.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.910521343086</lat>
+						<lon>-87.672679424286</lon>
+
+							<typ>S</typ>
+                			<stpid>900</stpid>
+                			<stpnm>North Ave &amp; Wood</stpnm>
+                			<pdist>35838.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.910557272339</lat>
+						<lon>-87.670238614082</lon>
+
+							<typ>S</typ>
+                			<stpid>901</stpid>
+                			<stpnm>North Ave &amp; Paulina</stpnm>
+                			<pdist>36497.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.910589209436</lat>
+						<lon>-87.669321298599</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.910597193708</lat>
+						<lon>-87.667888998985</lon>
+
+							<typ>S</typ>
+                			<stpid>902</stpid>
+                			<stpnm>North Ave &amp; Ashland</stpnm>
+                			<pdist>37160.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.910609170113</lat>
+						<lon>-87.666285037994</lon>
+
+							<typ>S</typ>
+                			<stpid>903</stpid>
+                			<stpnm>North Ave &amp; Bosworth</stpnm>
+                			<pdist>37635.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.910645099317</lat>
+						<lon>-87.665142416954</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.91067703637</lat>
+						<lon>-87.664428949356</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.910708973406</lat>
+						<lon>-87.662765979767</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.91068901276</lat>
+						<lon>-87.661800384521</lon>
+
+							<typ>S</typ>
+                			<stpid>15375</stpid>
+                			<stpnm>North Ave &amp; Elston</stpnm>
+                			<pdist>38921.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.910701666666</lat>
+						<lon>-87.660225000002</lon>
+
+							<typ>S</typ>
+                			<stpid>17126</stpid>
+                			<stpnm>North Ave &amp; Throop</stpnm>
+                			<pdist>39382.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.910764863183</lat>
+						<lon>-87.657267451286</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.910808776544</lat>
+						<lon>-87.653217315674</lon>
+
+							<typ>S</typ>
+                			<stpid>910</stpid>
+                			<stpnm>North Ave &amp; Sheffield</stpnm>
+                			<pdist>41145.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.910844705635</lat>
+						<lon>-87.650856971741</lon>
+
+							<typ>S</typ>
+                			<stpid>15376</stpid>
+                			<stpnm>North Ave &amp; Fremont</stpnm>
+                			<pdist>41880.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.910900595292</lat>
+						<lon>-87.649263739586</lon>
+
+							<typ>S</typ>
+                			<stpid>913</stpid>
+                			<stpnm>North Ave &amp; Clybourn/Halsted (Red Line)</stpnm>
+                			<pdist>42377.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.910896603175</lat>
+						<lon>-87.648276686668</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.910920555872</lat>
+						<lon>-87.645964622498</lon>
+
+							<typ>S</typ>
+                			<stpid>915</stpid>
+                			<stpnm>North Ave &amp; Orchard</stpnm>
+                			<pdist>43137.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.910960477013</lat>
+						<lon>-87.644360661507</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.910980437575</lat>
+						<lon>-87.643845677376</lon>
+
+							<typ>S</typ>
+                			<stpid>916</stpid>
+                			<stpnm>North Ave &amp; Larrabee</stpnm>
+                			<pdist>43806.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.910988421797</lat>
+						<lon>-87.643674015999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.9109564849</lat>
+						<lon>-87.643400430679</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.91100838235</lat>
+						<lon>-87.642230987549</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.911020358678</lat>
+						<lon>-87.641104459763</lon>
+
+							<typ>S</typ>
+                			<stpid>917</stpid>
+                			<stpnm>North Ave &amp; Cleveland</stpnm>
+                			<pdist>44498.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.911052295544</lat>
+						<lon>-87.6388245821</lon>
+
+							<typ>S</typ>
+                			<stpid>918</stpid>
+                			<stpnm>North Ave &amp; Sedgwick (Brown Line)</stpnm>
+                			<pdist>45144.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.911092216602</lat>
+						<lon>-87.636802196503</lon>
+
+							<typ>S</typ>
+                			<stpid>919</stpid>
+                			<stpnm>North Ave &amp; North Park</stpnm>
+                			<pdist>45667.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.911100200811</lat>
+						<lon>-87.634919285774</lon>
+
+							<typ>S</typ>
+                			<stpid>920</stpid>
+                			<stpnm>North Ave &amp; Wells</stpnm>
+                			<pdist>46207.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.911100200811</lat>
+						<lon>-87.63302564621</lon>
+
+							<typ>S</typ>
+                			<stpid>15276</stpid>
+                			<stpnm>North Ave &amp; LaSalle</stpnm>
+                			<pdist>46796.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.911156090245</lat>
+						<lon>-87.632837891579</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.91119201914</lat>
+						<lon>-87.631866931915</lon>
+
+							<typ>S</typ>
+                			<stpid>922</stpid>
+                			<stpnm>North Ave &amp; Clark</stpnm>
+                			<pdist>47017.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.911207987532</lat>
+						<lon>-87.630815505981</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.911343718699</lat>
+						<lon>-87.630831599236</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.911431544595</lat>
+						<lon>-87.630885243416</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.911467473336</lat>
+						<lon>-87.631013989449</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.911431544595</lat>
+						<lon>-87.631126642227</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.911279845245</lat>
+						<lon>-87.63130903244</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.911279845245</lat>
+						<lon>-87.631239295006</lon>
+
+							<typ>S</typ>
+                			<stpid>923</stpid>
+                			<stpnm>North Ave &amp; Clark Terminal</stpnm>
+                			<pdist>47441.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5602</pid>
+				<ln>49153.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.911279845245</lat>
+						<lon>-87.631239295006</lon>
+
+							<typ>S</typ>
+                			<stpid>923</stpid>
+                			<stpnm>North Ave &amp; Clark Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.911247908494</lat>
+						<lon>-87.631850838661</lon>
+
+							<typ>S</typ>
+                			<stpid>924</stpid>
+                			<stpnm>North Ave &amp; Clark</stpnm>
+                			<pdist>278.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.911207987532</lat>
+						<lon>-87.632843255997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.911279845245</lat>
+						<lon>-87.633020281792</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.911279845245</lat>
+						<lon>-87.63454914093</lon>
+
+							<typ>S</typ>
+                			<stpid>926</stpid>
+                			<stpnm>North Ave &amp; Wells</stpnm>
+                			<pdist>1005.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.911251900588</lat>
+						<lon>-87.63667345047</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.911231940112</lat>
+						<lon>-87.638400793076</lon>
+
+							<typ>S</typ>
+                			<stpid>927</stpid>
+                			<stpnm>North Ave &amp; Sedgwick (Brown Line)</stpnm>
+                			<pdist>1924.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.91119201914</lat>
+						<lon>-87.640755772591</lon>
+
+							<typ>S</typ>
+                			<stpid>928</stpid>
+                			<stpnm>North Ave &amp; Cleveland</stpnm>
+                			<pdist>2712.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.911112177123</lat>
+						<lon>-87.643486261368</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.911052295544</lat>
+						<lon>-87.643674015999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.911048303436</lat>
+						<lon>-87.64383494854</lon>
+
+							<typ>S</typ>
+                			<stpid>929</stpid>
+                			<stpnm>North Ave &amp; Larrabee</stpnm>
+                			<pdist>3559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.911028342896</lat>
+						<lon>-87.644317746162</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.910992413908</lat>
+						<lon>-87.645680308342</lon>
+
+							<typ>S</typ>
+                			<stpid>16142</stpid>
+                			<stpnm>North Ave &amp; Orchard</stpnm>
+                			<pdist>4041.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.910976445463</lat>
+						<lon>-87.64680147171</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.910964469126</lat>
+						<lon>-87.648507356644</lon>
+
+							<typ>S</typ>
+                			<stpid>14428</stpid>
+                			<stpnm>North Ave &amp; Clybourn/Halsted (Red Line)</stpnm>
+                			<pdist>4849.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.910960477013</lat>
+						<lon>-87.649628520012</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.910904587409</lat>
+						<lon>-87.651007175446</lon>
+
+							<typ>S</typ>
+                			<stpid>933</stpid>
+                			<stpnm>North Ave &amp; Fremont</stpnm>
+                			<pdist>5482.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.910868658351</lat>
+						<lon>-87.653979063034</lon>
+
+							<typ>S</typ>
+                			<stpid>934</stpid>
+                			<stpnm>North Ave &amp; Sheffield/Kingsbury</stpnm>
+                			<pdist>6255.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.910852689875</lat>
+						<lon>-87.655491828918</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.910768855308</lat>
+						<lon>-87.660534381866</lon>
+
+							<typ>S</typ>
+                			<stpid>17127</stpid>
+                			<stpnm>North Ave &amp; Throop</stpnm>
+                			<pdist>8100.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.910768855308</lat>
+						<lon>-87.662497758865</lon>
+
+							<typ>S</typ>
+                			<stpid>15397</stpid>
+                			<stpnm>North Ave &amp; Elston</stpnm>
+                			<pdist>8619.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.910736918301</lat>
+						<lon>-87.664450407028</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.910673044239</lat>
+						<lon>-87.666258215904</lon>
+
+							<typ>S</typ>
+                			<stpid>939</stpid>
+                			<stpnm>North Ave &amp; Bosworth</stpnm>
+                			<pdist>9635.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.910669052108</lat>
+						<lon>-87.66656935215</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.910669052108</lat>
+						<lon>-87.667148709297</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.910665059977</lat>
+						<lon>-87.667980194092</lon>
+
+							<typ>S</typ>
+                			<stpid>17000</stpid>
+                			<stpnm>North Ave &amp; Ashland</stpnm>
+                			<pdist>10084.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.910641107184</lat>
+						<lon>-87.669562697411</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.910625138651</lat>
+						<lon>-87.670013308525</lon>
+
+							<typ>S</typ>
+                			<stpid>941</stpid>
+                			<stpnm>North Ave &amp; Paulina</stpnm>
+                			<pdist>10570.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.9105852173</lat>
+						<lon>-87.672480940819</lon>
+
+							<typ>S</typ>
+                			<stpid>942</stpid>
+                			<stpnm>North Ave &amp; Wood</stpnm>
+                			<pdist>11230.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.910533319506</lat>
+						<lon>-87.675141692162</lon>
+
+							<typ>S</typ>
+                			<stpid>943</stpid>
+                			<stpnm>North Ave &amp; Wolcott</stpnm>
+                			<pdist>11907.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.910509366664</lat>
+						<lon>-87.6766705513</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.910517350946</lat>
+						<lon>-87.677448391914</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.910517350946</lat>
+						<lon>-87.678156495094</lon>
+
+							<typ>S</typ>
+                			<stpid>945</stpid>
+                			<stpnm>North Ave &amp; Milwaukee/Damen (Blue Line)</stpnm>
+                			<pdist>12832.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.910493398098</lat>
+						<lon>-87.679781913757</lon>
+
+							<typ>S</typ>
+                			<stpid>946</stpid>
+                			<stpnm>North Ave &amp; Hoyne</stpnm>
+                			<pdist>13245.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.910461460953</lat>
+						<lon>-87.680683135986</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.910437508084</lat>
+						<lon>-87.682217359543</lon>
+
+							<typ>S</typ>
+                			<stpid>947</stpid>
+                			<stpnm>North Ave &amp; Leavitt</stpnm>
+                			<pdist>13903.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.910409563059</lat>
+						<lon>-87.68355846405</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.910393594467</lat>
+						<lon>-87.684625983238</lon>
+
+							<typ>S</typ>
+                			<stpid>948</stpid>
+                			<stpnm>North Ave &amp; Oakley</stpnm>
+                			<pdist>14576.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.910365649423</lat>
+						<lon>-87.686980962753</lon>
+
+							<typ>S</typ>
+                			<stpid>949</stpid>
+                			<stpnm>North Ave &amp; Western</stpnm>
+                			<pdist>15226.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.910345688669</lat>
+						<lon>-87.688429355621</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.910349680821</lat>
+						<lon>-87.689534425735</lon>
+
+							<typ>S</typ>
+                			<stpid>950</stpid>
+                			<stpnm>North Ave &amp; Campbell</stpnm>
+                			<pdist>15905.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.910313751451</lat>
+						<lon>-87.691948413849</lon>
+
+							<typ>S</typ>
+                			<stpid>951</stpid>
+                			<stpnm>North Ave &amp; Rockwell</stpnm>
+                			<pdist>16581.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.910285806371</lat>
+						<lon>-87.694389224052</lon>
+
+							<typ>S</typ>
+                			<stpid>952</stpid>
+                			<stpnm>North Ave &amp; Washtenaw</stpnm>
+                			<pdist>17244.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.910277822061</lat>
+						<lon>-87.695521116257</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.910317743604</lat>
+						<lon>-87.695692777634</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.910317743604</lat>
+						<lon>-87.697323560715</lon>
+
+							<typ>S</typ>
+                			<stpid>17128</stpid>
+                			<stpnm>North Ave &amp; California</stpnm>
+                			<pdist>18085.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.910313751451</lat>
+						<lon>-87.698069214821</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.91025786128</lat>
+						<lon>-87.698273062706</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.910253869123</lat>
+						<lon>-87.69894361496</lon>
+
+							<typ>S</typ>
+                			<stpid>954</stpid>
+                			<stpnm>North Ave &amp; Francisco</stpnm>
+                			<pdist>18477.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.910217939699</lat>
+						<lon>-87.702328562737</lon>
+
+							<typ>S</typ>
+                			<stpid>17129</stpid>
+                			<stpnm>North Ave &amp; Humboldt</stpnm>
+                			<pdist>19438.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.910197978899</lat>
+						<lon>-87.704393863678</lon>
+
+							<typ>S</typ>
+                			<stpid>957</stpid>
+                			<stpnm>North Ave &amp; Albany</stpnm>
+                			<pdist>19955.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.910178018093</lat>
+						<lon>-87.706464529037</lon>
+
+							<typ>S</typ>
+                			<stpid>17130</stpid>
+                			<stpnm>North Ave &amp; Kedzie</stpnm>
+                			<pdist>20758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.910174025931</lat>
+						<lon>-87.706909775734</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.910118135638</lat>
+						<lon>-87.709441781044</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.910118135638</lat>
+						<lon>-87.709817290306</lon>
+
+							<typ>S</typ>
+                			<stpid>959</stpid>
+                			<stpnm>North Ave &amp; Spaulding</stpnm>
+                			<pdist>21464.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.910090190473</lat>
+						<lon>-87.712022066116</lon>
+
+							<typ>S</typ>
+                			<stpid>14832</stpid>
+                			<stpnm>North Ave &amp; Kimball/Homan</stpnm>
+                			<pdist>22115.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.910054260957</lat>
+						<lon>-87.714725732803</lon>
+
+							<typ>S</typ>
+                			<stpid>961</stpid>
+                			<stpnm>North Ave &amp; Drake</stpnm>
+                			<pdist>22773.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.910050268787</lat>
+						<lon>-87.716544270515</lon>
+
+							<typ>S</typ>
+                			<stpid>962</stpid>
+                			<stpnm>North Ave &amp; Central Park</stpnm>
+                			<pdist>23230.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.910010347077</lat>
+						<lon>-87.71884560585</lon>
+
+							<typ>S</typ>
+                			<stpid>963</stpid>
+                			<stpnm>North Ave &amp; Lawndale</stpnm>
+                			<pdist>23872.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.910018331421</lat>
+						<lon>-87.720487117767</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.910002362732</lat>
+						<lon>-87.721291780472</lon>
+
+							<typ>S</typ>
+                			<stpid>964</stpid>
+                			<stpnm>North Ave &amp; Hamlin</stpnm>
+                			<pdist>24559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.909978409691</lat>
+						<lon>-87.722659707069</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.909986394039</lat>
+						<lon>-87.723818421364</lon>
+
+							<typ>S</typ>
+                			<stpid>965</stpid>
+                			<stpnm>North Ave &amp; Springfield</stpnm>
+                			<pdist>25219.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.909942480112</lat>
+						<lon>-87.726747393608</lon>
+
+							<typ>S</typ>
+                			<stpid>17439</stpid>
+                			<stpnm>North Ave &amp; Pulaski</stpnm>
+                			<pdist>26037.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.909922519226</lat>
+						<lon>-87.728673219681</lon>
+
+							<typ>S</typ>
+                			<stpid>967</stpid>
+                			<stpnm>North Ave &amp; Karlov</stpnm>
+                			<pdist>26542.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.909878605255</lat>
+						<lon>-87.731108665466</lon>
+
+							<typ>S</typ>
+                			<stpid>968</stpid>
+                			<stpnm>North Ave &amp; Keeler</stpnm>
+                			<pdist>27206.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.90984267562</lat>
+						<lon>-87.733919620514</lon>
+
+							<typ>S</typ>
+                			<stpid>16101</stpid>
+                			<stpnm>North Ave &amp; Kildare</stpnm>
+                			<pdist>27959.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.909818722519</lat>
+						<lon>-87.736794948578</lon>
+
+							<typ>S</typ>
+                			<stpid>971</stpid>
+                			<stpnm>North Ave &amp; Kostner/Grand</stpnm>
+                			<pdist>28752.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.90980275378</lat>
+						<lon>-87.738398909569</lon>
+
+							<typ>S</typ>
+                			<stpid>972</stpid>
+                			<stpnm>North Ave &amp; Kilbourn</stpnm>
+                			<pdist>29173.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.909758839727</lat>
+						<lon>-87.739761471748</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.909766824102</lat>
+						<lon>-87.740453481674</lon>
+
+							<typ>S</typ>
+                			<stpid>973</stpid>
+                			<stpnm>North Ave &amp; Kenton</stpnm>
+                			<pdist>29741.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.909718917834</lat>
+						<lon>-87.743344902992</lon>
+
+							<typ>S</typ>
+                			<stpid>974</stpid>
+                			<stpnm>North Ave &amp; Kilpatrick</stpnm>
+                			<pdist>30512.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.909686980302</lat>
+						<lon>-87.744970321655</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.909754847538</lat>
+						<lon>-87.745082974434</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.909758839727</lat>
+						<lon>-87.745871543884</lon>
+
+							<typ>S</typ>
+                			<stpid>975</stpid>
+                			<stpnm>North Ave &amp; Cicero</stpnm>
+                			<pdist>31222.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.909766824102</lat>
+						<lon>-87.7462631464</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.909714925643</lat>
+						<lon>-87.74909555912</lon>
+
+							<typ>S</typ>
+                			<stpid>976</stpid>
+                			<stpnm>North Ave &amp; Lamon</stpnm>
+                			<pdist>32086.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.909671011529</lat>
+						<lon>-87.751021385193</lon>
+
+							<typ>S</typ>
+                			<stpid>977</stpid>
+                			<stpnm>North Ave &amp; Lavergne</stpnm>
+                			<pdist>32607.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.909659034948</lat>
+						<lon>-87.752539515495</lon>
+
+							<typ>S</typ>
+                			<stpid>978</stpid>
+                			<stpnm>North Ave &amp; Leclaire </stpnm>
+                			<pdist>33031.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.909635081778</lat>
+						<lon>-87.753633856773</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.909627097386</lat>
+						<lon>-87.755565047264</lon>
+
+							<typ>S</typ>
+                			<stpid>979</stpid>
+                			<stpnm>North Ave &amp; Laramie</stpnm>
+                			<pdist>33843.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.909583183212</lat>
+						<lon>-87.757995128632</lon>
+
+							<typ>S</typ>
+                			<stpid>980</stpid>
+                			<stpnm>North Ave &amp; Lockwood</stpnm>
+                			<pdist>34644.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.909563222213</lat>
+						<lon>-87.759320139885</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.909555237812</lat>
+						<lon>-87.760425209999</lon>
+
+							<typ>S</typ>
+                			<stpid>981</stpid>
+                			<stpnm>North Ave &amp; Long</stpnm>
+                			<pdist>35199.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.909523300198</lat>
+						<lon>-87.763187885284</lon>
+
+							<typ>S</typ>
+                			<stpid>982</stpid>
+                			<stpnm>North Ave &amp; Linder</stpnm>
+                			<pdist>36009.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.909499346977</lat>
+						<lon>-87.765237092972</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.909499346977</lat>
+						<lon>-87.765827178955</lon>
+
+							<typ>S</typ>
+                			<stpid>15283</stpid>
+                			<stpnm>North Ave &amp; Central</stpnm>
+                			<pdist>36736.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.909467409335</lat>
+						<lon>-87.767822742462</lon>
+
+							<typ>S</typ>
+                			<stpid>984</stpid>
+                			<stpnm>North Ave &amp; Major</stpnm>
+                			<pdist>37211.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.909455432715</lat>
+						<lon>-87.769099473953</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.909423495051</lat>
+						<lon>-87.770113348961</lon>
+
+							<typ>S</typ>
+                			<stpid>985</stpid>
+                			<stpnm>North Ave &amp; Menard</stpnm>
+                			<pdist>37847.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.909383572949</lat>
+						<lon>-87.773085236549</lon>
+
+							<typ>S</typ>
+                			<stpid>986</stpid>
+                			<stpnm>North Ave &amp; Mayfield </stpnm>
+                			<pdist>38678.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.909359619675</lat>
+						<lon>-87.775096893311</lon>
+
+							<typ>S</typ>
+                			<stpid>987</stpid>
+                			<stpnm>North Ave &amp; Austin</stpnm>
+                			<pdist>39426.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.909339658607</lat>
+						<lon>-87.776936888695</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.909279775365</lat>
+						<lon>-87.777076363564</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.90926779871</lat>
+						<lon>-87.777489423752</lon>
+
+							<typ>S</typ>
+                			<stpid>988</stpid>
+                			<stpnm>North Ave &amp; Meade</stpnm>
+                			<pdist>39842.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.90922787651</lat>
+						<lon>-87.779983878136</lon>
+
+							<typ>S</typ>
+                			<stpid>989</stpid>
+                			<stpnm>North Ave &amp; Melvina</stpnm>
+                			<pdist>40507.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.909215899846</lat>
+						<lon>-87.781577110291</lon>
+
+							<typ>S</typ>
+                			<stpid>990</stpid>
+                			<stpnm>North Ave &amp; Merrimac</stpnm>
+                			<pdist>40962.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.909187954286</lat>
+						<lon>-87.783363461494</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.909183962062</lat>
+						<lon>-87.784404158592</lon>
+
+							<typ>S</typ>
+                			<stpid>992</stpid>
+                			<stpnm>North Ave &amp; Narragansett</stpnm>
+                			<pdist>41686.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.909160008713</lat>
+						<lon>-87.786490917206</lon>
+
+							<typ>S</typ>
+                			<stpid>993</stpid>
+                			<stpnm>North Ave &amp; Nagle</stpnm>
+                			<pdist>42255.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.909140047583</lat>
+						<lon>-87.788454294205</lon>
+
+							<typ>S</typ>
+                			<stpid>16102</stpid>
+                			<stpnm>North Ave &amp; Natchez</stpnm>
+                			<pdist>42803.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.909116094218</lat>
+						<lon>-87.790964841843</lon>
+
+							<typ>S</typ>
+                			<stpid>996</stpid>
+                			<stpnm>North Ave &amp; Natoma</stpnm>
+                			<pdist>43738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.909084156384</lat>
+						<lon>-87.793266177177</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.909136055356</lat>
+						<lon>-87.793346643448</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.909128070902</lat>
+						<lon>-87.794516086578</lon>
+
+							<typ>S</typ>
+                			<stpid>997</stpid>
+                			<stpnm>North Ave &amp; Oak Park</stpnm>
+                			<pdist>44481.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.909100125303</lat>
+						<lon>-87.797069549561</lon>
+
+							<typ>S</typ>
+                			<stpid>998</stpid>
+                			<stpnm>North Ave &amp; New England</stpnm>
+                			<pdist>45154.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.909060202998</lat>
+						<lon>-87.800127267838</lon>
+
+							<typ>S</typ>
+                			<stpid>999</stpid>
+                			<stpnm>North Ave &amp; Sayre</stpnm>
+                			<pdist>45988.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.909044234069</lat>
+						<lon>-87.801994085312</lon>
+
+							<typ>S</typ>
+                			<stpid>1000</stpid>
+                			<stpnm>North Ave &amp; Nordica</stpnm>
+                			<pdist>46489.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.909028265137</lat>
+						<lon>-87.803710699081</lon>
+
+							<typ>S</typ>
+                			<stpid>1001</stpid>
+                			<stpnm>North Ave &amp; Neva</stpnm>
+                			<pdist>46989.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.908976366077</lat>
+						<lon>-87.80570089817</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.909742870972</lat>
+						<lon>-87.805738449097</lon>
+
+							<typ>S</typ>
+                			<stpid>1003</stpid>
+                			<stpnm>Harlem &amp; North Ave</stpnm>
+                			<pdist>47811.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.910609170113</lat>
+						<lon>-87.805770635605</lon>
+
+							<typ>S</typ>
+                			<stpid>1004</stpid>
+                			<stpnm>Harlem &amp; Wabansia</stpnm>
+                			<pdist>48084.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.91067703637</lat>
+						<lon>-87.805770635605</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.910708973406</lat>
+						<lon>-87.804048657417</lon>
+
+							<typ>S</typ>
+                			<stpid>1005</stpid>
+                			<stpnm>Wabansia &amp; Neva</stpnm>
+                			<pdist>48486.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.910708973406</lat>
+						<lon>-87.804016470909</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.909040241837</lat>
+						<lon>-87.804011106491</lon>
+
+							<typ>S</typ>
+                			<stpid>845</stpid>
+                			<stpnm>Neva &amp; North Ave</stpnm>
+                			<pdist>49153.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

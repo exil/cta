@@ -1,0 +1,2520 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>5895</pid>
+				<ln>29772.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.94021595698</lat>
+						<lon>-87.648775577545</lon>
+
+							<typ>S</typ>
+                			<stpid>14150</stpid>
+                			<stpnm>Belmont &amp; Halsted Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.939940626878</lat>
+						<lon>-87.648775577545</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.939968558972</lat>
+						<lon>-87.646924853325</lon>
+
+							<typ>S</typ>
+                			<stpid>4987</stpid>
+                			<stpnm>Belmont &amp; Orchard</stpnm>
+                			<pdist>539.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.940000481349</lat>
+						<lon>-87.644054889679</lon>
+
+							<typ>S</typ>
+                			<stpid>14914</stpid>
+                			<stpnm>Belmont &amp; Broadway</stpnm>
+                			<pdist>1207.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.940016442532</lat>
+						<lon>-87.642059326172</lon>
+
+							<typ>S</typ>
+                			<stpid>4990</stpid>
+                			<stpnm>Belmont &amp; Pine Grove</stpnm>
+                			<pdist>1706.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.940084277514</lat>
+						<lon>-87.639774084091</lon>
+
+							<typ>S</typ>
+                			<stpid>9291</stpid>
+                			<stpnm>Belmont &amp; Sheridan</stpnm>
+                			<pdist>2336.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.940088267805</lat>
+						<lon>-87.639580965042</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.938583910466</lat>
+						<lon>-87.639548778534</lon>
+
+							<typ>S</typ>
+                			<stpid>1072</stpid>
+                			<stpnm>Sheridan &amp; Briar</stpnm>
+                			<pdist>2774.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.937538421069</lat>
+						<lon>-87.639511227608</lon>
+
+							<typ>S</typ>
+                			<stpid>1073</stpid>
+                			<stpnm>Sheridan &amp; Barry</stpnm>
+                			<pdist>3132.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.936417094688</lat>
+						<lon>-87.639457583427</lon>
+
+							<typ>S</typ>
+                			<stpid>1074</stpid>
+                			<stpnm>Sheridan &amp; Wellington</stpnm>
+                			<pdist>3542.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.935395513279</lat>
+						<lon>-87.639414668083</lon>
+
+							<typ>S</typ>
+                			<stpid>1075</stpid>
+                			<stpnm>Sheridan &amp; Oakdale</stpnm>
+                			<pdist>3918.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.934182364101</lat>
+						<lon>-87.639371752739</lon>
+
+							<typ>S</typ>
+                			<stpid>1076</stpid>
+                			<stpnm>Sheridan &amp; Surf</stpnm>
+                			<pdist>4361.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.932993136261</lat>
+						<lon>-87.639371752739</lon>
+
+							<typ>S</typ>
+                			<stpid>1077</stpid>
+                			<stpnm>Sheridan &amp; Diversey</stpnm>
+                			<pdist>4678.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.932893367817</lat>
+						<lon>-87.639366388321</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.932757682482</lat>
+						<lon>-87.63925909996</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.932645941401</lat>
+						<lon>-87.639157176018</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.932442412501</lat>
+						<lon>-87.638947963715</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.932306726207</lat>
+						<lon>-87.638776302338</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.932194984336</lat>
+						<lon>-87.638813853264</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.932087233061</lat>
+						<lon>-87.638910412788</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.931939573611</lat>
+						<lon>-87.639001607895</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.931716088387</lat>
+						<lon>-87.639055252075</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.931504574865</lat>
+						<lon>-87.639055252075</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.931324987362</lat>
+						<lon>-87.639039158821</lon>
+
+							<typ>S</typ>
+                			<stpid>1078</stpid>
+                			<stpnm>Stockton &amp; Wrightwood</stpnm>
+                			<pdist>5402.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.930674477284</lat>
+						<lon>-87.638883590698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.930379151501</lat>
+						<lon>-87.638846039772</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.929792486768</lat>
+						<lon>-87.63879776001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.929517111665</lat>
+						<lon>-87.638813853264</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.92913397911</lat>
+						<lon>-87.638867497444</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.92873088925</lat>
+						<lon>-87.63890504837</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.928315823762</lat>
+						<lon>-87.63890504837</lon>
+
+							<typ>S</typ>
+                			<stpid>1079</stpid>
+                			<stpnm>Stockton &amp; Roslyn</stpnm>
+                			<pdist>6582.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.92808434376</lat>
+						<lon>-87.638883590698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.927800979165</lat>
+						<lon>-87.638835310936</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.927593443733</lat>
+						<lon>-87.638744115829</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.92728213932</lat>
+						<lon>-87.638567090034</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.92708258441</lat>
+						<lon>-87.63839006424</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.926898993342</lat>
+						<lon>-87.638218402863</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.926699437234</lat>
+						<lon>-87.637987732887</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.926539791898</lat>
+						<lon>-87.637783885002</lon>
+
+							<typ>S</typ>
+                			<stpid>1080</stpid>
+                			<stpnm>Stockton &amp; Arlington</stpnm>
+                			<pdist>7246.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.926312296603</lat>
+						<lon>-87.637376189232</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.92606484466</lat>
+						<lon>-87.636909484863</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.92596506538</lat>
+						<lon>-87.636641263962</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.925913180092</lat>
+						<lon>-87.63634622097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.925865285943</lat>
+						<lon>-87.636228203773</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.925777479909</lat>
+						<lon>-87.636147737503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.925522043489</lat>
+						<lon>-87.636040449142</lon>
+
+							<typ>S</typ>
+                			<stpid>1081</stpid>
+                			<stpnm>Stockton &amp; Fullerton</stpnm>
+                			<pdist>7894.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.925290553349</lat>
+						<lon>-87.6359385252</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.925031123746</lat>
+						<lon>-87.635868787766</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.924484322512</lat>
+						<lon>-87.635836601257</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.922149388604</lat>
+						<lon>-87.635761499405</lon>
+
+							<typ>S</typ>
+                			<stpid>1082</stpid>
+                			<stpnm>Stockton &amp; Webster</stpnm>
+                			<pdist>9047.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.920313312187</lat>
+						<lon>-87.635659575462</lon>
+
+							<typ>S</typ>
+                			<stpid>1083</stpid>
+                			<stpnm>Stockton &amp; Dickens</stpnm>
+                			<pdist>9709.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.920185583167</lat>
+						<lon>-87.635643482208</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.919978022963</lat>
+						<lon>-87.635552287102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.91979041989</lat>
+						<lon>-87.635423541069</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.919363321476</lat>
+						<lon>-87.634989023209</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.919047186978</lat>
+						<lon>-87.634715437889</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.918776555443</lat>
+						<lon>-87.634581327438</lon>
+
+							<typ>S</typ>
+                			<stpid>1084</stpid>
+                			<stpnm>Stockton &amp; Armitage</stpnm>
+                			<pdist>10515.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.918545040829</lat>
+						<lon>-87.634516954422</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.917227786529</lat>
+						<lon>-87.634264826775</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.916920423279</lat>
+						<lon>-87.634119987488</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.916688901932</lat>
+						<lon>-87.633985877037</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.916481330356</lat>
+						<lon>-87.633819580078</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.916317667675</lat>
+						<lon>-87.633674740791</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.916030259024</lat>
+						<lon>-87.633342146873</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.915722890008</lat>
+						<lon>-87.63307929039</lon>
+
+							<typ>S</typ>
+                			<stpid>1085</stpid>
+                			<stpnm>Stockton &amp; Lincoln</stpnm>
+                			<pdist>11403.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.915571200857</lat>
+						<lon>-87.632955908775</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.915391568501</lat>
+						<lon>-87.632875442505</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.915191976401</lat>
+						<lon>-87.632811069489</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.915040285989</lat>
+						<lon>-87.632746696472</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.914908554548</lat>
+						<lon>-87.632634043694</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.914469447782</lat>
+						<lon>-87.632140517235</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.914217958001</lat>
+						<lon>-87.631920576096</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.914010378388</lat>
+						<lon>-87.631797194481</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.913858685167</lat>
+						<lon>-87.631759643555</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.913655096329</lat>
+						<lon>-87.631754279137</lon>
+
+							<typ>S</typ>
+                			<stpid>1086</stpid>
+                			<stpnm>Stockton &amp; LaSalle</stpnm>
+                			<pdist>12291.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.913483442491</lat>
+						<lon>-87.631759643555</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.91343953097</lat>
+						<lon>-87.632076144218</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.913387635497</lat>
+						<lon>-87.632296085358</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.913327756053</lat>
+						<lon>-87.632516026497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.913207996996</lat>
+						<lon>-87.632832527161</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.913100213652</lat>
+						<lon>-87.633057832718</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.912980454168</lat>
+						<lon>-87.633218765259</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.912832750495</lat>
+						<lon>-87.633272409439</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.91260919834</lat>
+						<lon>-87.633293867111</lon>
+
+							<typ>S</typ>
+                			<stpid>1410</stpid>
+                			<stpnm>LaSalle &amp; Eugenie</stpnm>
+                			<pdist>13095.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.912321772989</lat>
+						<lon>-87.633288502693</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.910844705635</lat>
+						<lon>-87.633256316185</lon>
+
+							<typ>S</typ>
+                			<stpid>1411</stpid>
+                			<stpnm>LaSalle &amp; North Ave</stpnm>
+                			<pdist>13699.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.908976366077</lat>
+						<lon>-87.633208036423</lon>
+
+							<typ>S</typ>
+                			<stpid>1412</stpid>
+                			<stpnm>LaSalle &amp; Burton</stpnm>
+                			<pdist>14426.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.907519182954</lat>
+						<lon>-87.633154392242</lon>
+
+							<typ>S</typ>
+                			<stpid>1413</stpid>
+                			<stpnm>LaSalle &amp; Schiller</stpnm>
+                			<pdist>14983.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.905570897117</lat>
+						<lon>-87.63310611248</lon>
+
+							<typ>S</typ>
+                			<stpid>1414</stpid>
+                			<stpnm>LaSalle &amp; Goethe</stpnm>
+                			<pdist>15675.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.90364251468</lat>
+						<lon>-87.633036375046</lon>
+
+							<typ>S</typ>
+                			<stpid>1415</stpid>
+                			<stpnm>LaSalle &amp; Division</stpnm>
+                			<pdist>16376.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.901969605719</lat>
+						<lon>-87.632993459702</lon>
+
+							<typ>S</typ>
+                			<stpid>14763</stpid>
+                			<stpnm>LaSalle &amp; Maple</stpnm>
+                			<pdist>17126.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.900336580713</lat>
+						<lon>-87.632955908775</lon>
+
+							<typ>S</typ>
+                			<stpid>1417</stpid>
+                			<stpnm>LaSalle &amp; Oak</stpnm>
+                			<pdist>17566.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.899002979191</lat>
+						<lon>-87.632923722267</lon>
+
+							<typ>S</typ>
+                			<stpid>1418</stpid>
+                			<stpnm>LaSalle &amp; Delaware</stpnm>
+                			<pdist>18077.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.897920904796</lat>
+						<lon>-87.632891535759</lon>
+
+							<typ>S</typ>
+                			<stpid>1419</stpid>
+                			<stpnm>LaSalle &amp; Chestnut</stpnm>
+                			<pdist>18466.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.896363643783</lat>
+						<lon>-87.632843255997</lon>
+
+							<typ>S</typ>
+                			<stpid>4957</stpid>
+                			<stpnm>LaSalle &amp; Chicago</stpnm>
+                			<pdist>19047.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.894666585339</lat>
+						<lon>-87.632789611816</lon>
+
+							<typ>S</typ>
+                			<stpid>4958</stpid>
+                			<stpnm>LaSalle &amp; Huron</stpnm>
+                			<pdist>19683.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.893045353275</lat>
+						<lon>-87.632768154144</lon>
+
+							<typ>S</typ>
+                			<stpid>15526</stpid>
+                			<stpnm>LaSalle &amp; Ontario</stpnm>
+                			<pdist>20266.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.89141609339</lat>
+						<lon>-87.6327252388</lon>
+
+							<typ>S</typ>
+                			<stpid>4961</stpid>
+                			<stpnm>LaSalle &amp; Grand</stpnm>
+                			<pdist>20856.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.889926562084</lat>
+						<lon>-87.632682323456</lon>
+
+							<typ>S</typ>
+                			<stpid>4962</stpid>
+                			<stpnm>LaSalle &amp; Hubbard</stpnm>
+                			<pdist>21428.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.889040014898</lat>
+						<lon>-87.632687687874</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.888369106147</lat>
+						<lon>-87.632650136948</lon>
+
+							<typ>S</typ>
+                			<stpid>4963</stpid>
+                			<stpnm>321 N LaSalle</stpnm>
+                			<pdist>21823.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.886955382499</lat>
+						<lon>-87.632607221603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.886380299521</lat>
+						<lon>-87.632601857185</lon>
+
+							<typ>S</typ>
+                			<stpid>14058</stpid>
+                			<stpnm>LaSalle &amp; Wacker/Lake</stpnm>
+                			<pdist>22428.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.885118293731</lat>
+						<lon>-87.632575035095</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.8840359841</lat>
+						<lon>-87.632542848587</lon>
+
+							<typ>S</typ>
+                			<stpid>14059</stpid>
+                			<stpnm>LaSalle &amp; Randolph/Washington</stpnm>
+                			<pdist>23291.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.883113410492</lat>
+						<lon>-87.632548213005</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.883025545645</lat>
+						<lon>-87.632494568825</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.882075000022</lat>
+						<lon>-87.632478475571</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.881771461466</lat>
+						<lon>-87.632440924644</lon>
+
+							<typ>S</typ>
+                			<stpid>14060</stpid>
+                			<stpnm>LaSalle &amp; Madison</stpnm>
+                			<pdist>24185.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.881300175061</lat>
+						<lon>-87.6323980093</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.880661137096</lat>
+						<lon>-87.632360458374</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.879570763814</lat>
+						<lon>-87.632322907448</lon>
+
+							<typ>S</typ>
+                			<stpid>4970</stpid>
+                			<stpnm>LaSalle &amp; Adams</stpnm>
+                			<pdist>24866.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.879442953273</lat>
+						<lon>-87.63231754303</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.879434965106</lat>
+						<lon>-87.634109258652</lon>
+
+							<typ>S</typ>
+                			<stpid>80</stpid>
+                			<stpnm>Adams &amp; Wells</stpnm>
+                			<pdist>25409.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.879407006513</lat>
+						<lon>-87.637048959732</lon>
+
+							<typ>S</typ>
+                			<stpid>1108</stpid>
+                			<stpnm>Adams &amp; S. Wacker</stpnm>
+                			<pdist>26026.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.879359077467</lat>
+						<lon>-87.638577818871</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.87933111884</lat>
+						<lon>-87.639575600624</lon>
+
+							<typ>S</typ>
+                			<stpid>12713</stpid>
+                			<stpnm>Adams &amp; Canal</stpnm>
+                			<pdist>26820.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.879315142477</lat>
+						<lon>-87.640954256058</lon>
+
+							<typ>S</typ>
+                			<stpid>15288</stpid>
+                			<stpnm>Adams &amp; Clinton</stpnm>
+                			<pdist>27240.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.879291177924</lat>
+						<lon>-87.644070982933</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.878696055314</lat>
+						<lon>-87.644070982933</lon>
+
+							<typ>S</typ>
+                			<stpid>15385</stpid>
+                			<stpnm>Desplaines &amp; Quincy</stpnm>
+                			<pdist>28382.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.877473839824</lat>
+						<lon>-87.644049525261</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.876738901609</lat>
+						<lon>-87.644022703171</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.876279560933</lat>
+						<lon>-87.643995881081</lon>
+
+							<typ>S</typ>
+                			<stpid>14209</stpid>
+                			<stpnm>Desplaines &amp; Van Buren</stpnm>
+                			<pdist>29142.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.87534089798</lat>
+						<lon>-87.643952965736</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.875085259724</lat>
+						<lon>-87.643958330154</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.874789676715</lat>
+						<lon>-87.6442694664</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.874625907163</lat>
+						<lon>-87.644344568253</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.874526047473</lat>
+						<lon>-87.644360661507</lon>
+
+							<typ>S</typ>
+                			<stpid>13155</stpid>
+                			<stpnm>Desplaines &amp; Harrison Terminal</stpnm>
+                			<pdist>29772.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5900</pid>
+				<ln>31184.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.874526047473</lat>
+						<lon>-87.644360661507</lon>
+
+							<typ>S</typ>
+                			<stpid>13155</stpid>
+                			<stpnm>Desplaines &amp; Harrison Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.874334316432</lat>
+						<lon>-87.644360661507</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.874350294041</lat>
+						<lon>-87.642638683319</lon>
+
+							<typ>S</typ>
+                			<stpid>6349</stpid>
+                			<stpnm>Harrison &amp; Jefferson</stpnm>
+                			<pdist>523.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.874366271646</lat>
+						<lon>-87.641115188599</lon>
+
+							<typ>S</typ>
+                			<stpid>6350</stpid>
+                			<stpnm>Harrison &amp; Clinton</stpnm>
+                			<pdist>930.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.874378254847</lat>
+						<lon>-87.639473676682</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.874653867848</lat>
+						<lon>-87.639489769936</lon>
+
+							<typ>S</typ>
+                			<stpid>14210</stpid>
+                			<stpnm>Canal &amp; Harrison</stpnm>
+                			<pdist>1526.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.876627062444</lat>
+						<lon>-87.639602422714</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.876934619677</lat>
+						<lon>-87.639548778534</lon>
+
+							<typ>S</typ>
+                			<stpid>6351</stpid>
+                			<stpnm>Canal &amp; Van Buren</stpnm>
+                			<pdist>2340.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.877397949856</lat>
+						<lon>-87.639495134354</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.878009061249</lat>
+						<lon>-87.63950586319</lon>
+
+							<typ>S</typ>
+                			<stpid>6352</stpid>
+                			<stpnm>Canal &amp; Jackson</stpnm>
+                			<pdist>2648.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.878029032111</lat>
+						<lon>-87.638239860535</lon>
+
+							<typ>S</typ>
+                			<stpid>14461</stpid>
+                			<stpnm>Jackson &amp; Chicago River</stpnm>
+                			<pdist>2999.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.878096932995</lat>
+						<lon>-87.635471820831</lon>
+
+							<typ>S</typ>
+                			<stpid>68</stpid>
+                			<stpnm>Jackson &amp; Franklin</stpnm>
+                			<pdist>3819.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.878120897995</lat>
+						<lon>-87.632204890251</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.878660108133</lat>
+						<lon>-87.632220983505</lon>
+
+							<typ>S</typ>
+                			<stpid>14061</stpid>
+                			<stpnm>LaSalle &amp; Quincy</stpnm>
+                			<pdist>4818.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.88066912511</lat>
+						<lon>-87.632279992104</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.881635667435</lat>
+						<lon>-87.632333636284</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.881859328038</lat>
+						<lon>-87.632365822792</lon>
+
+							<typ>S</typ>
+                			<stpid>4973</stpid>
+                			<stpnm>LaSalle &amp; Madison</stpnm>
+                			<pdist>5979.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.882047042583</lat>
+						<lon>-87.632387280464</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.883009570205</lat>
+						<lon>-87.632408738136</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.883145361316</lat>
+						<lon>-87.632322907448</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.884295580332</lat>
+						<lon>-87.632328271866</lon>
+
+							<typ>S</typ>
+                			<stpid>4975</stpid>
+                			<stpnm>LaSalle &amp; Randolph</stpnm>
+                			<pdist>6879.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.885741312363</lat>
+						<lon>-87.632349729538</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.88622454699</lat>
+						<lon>-87.632365822792</lon>
+
+							<typ>S</typ>
+                			<stpid>15904</stpid>
+                			<stpnm>LaSalle &amp; Wacker/Lake</stpnm>
+                			<pdist>7664.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.887881894186</lat>
+						<lon>-87.632392644882</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.888385080247</lat>
+						<lon>-87.632387280464</lon>
+
+							<typ>S</typ>
+                			<stpid>4978</stpid>
+                			<stpnm>321 N LaSalle</stpnm>
+                			<pdist>8427.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.889403420863</lat>
+						<lon>-87.632392644882</lon>
+
+							<typ>S</typ>
+                			<stpid>14528</stpid>
+                			<stpnm>LaSalle &amp; Kinzie</stpnm>
+                			<pdist>8778.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.890002437172</lat>
+						<lon>-87.632403373718</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.890693295673</lat>
+						<lon>-87.632430195808</lon>
+
+							<typ>S</typ>
+                			<stpid>4979</stpid>
+                			<stpnm>LaSalle &amp; Illinois</stpnm>
+                			<pdist>9158.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.89175552596</lat>
+						<lon>-87.632451653481</lon>
+
+							<typ>S</typ>
+                			<stpid>4980</stpid>
+                			<stpnm>LaSalle &amp; Grand</stpnm>
+                			<pdist>9586.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.893256994279</lat>
+						<lon>-87.632526755333</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.893931844872</lat>
+						<lon>-87.632521390915</lon>
+
+							<typ>S</typ>
+                			<stpid>14427</stpid>
+                			<stpnm>LaSalle &amp; Erie</stpnm>
+                			<pdist>10347.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.894926138374</lat>
+						<lon>-87.632564306259</lon>
+
+							<typ>S</typ>
+                			<stpid>4982</stpid>
+                			<stpnm>LaSalle &amp; Huron</stpnm>
+                			<pdist>10780.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.896830826074</lat>
+						<lon>-87.632591128349</lon>
+
+							<typ>S</typ>
+                			<stpid>4983</stpid>
+                			<stpnm>LaSalle &amp; Chicago</stpnm>
+                			<pdist>11474.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.899322407242</lat>
+						<lon>-87.632660865784</lon>
+
+							<typ>S</typ>
+                			<stpid>1443</stpid>
+                			<stpnm>LaSalle &amp; Delaware</stpnm>
+                			<pdist>12406.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.900663987606</lat>
+						<lon>-87.632703781128</lon>
+
+							<typ>S</typ>
+                			<stpid>1444</stpid>
+                			<stpnm>LaSalle &amp; Oak</stpnm>
+                			<pdist>12882.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.902045466502</lat>
+						<lon>-87.632762789726</lon>
+
+							<typ>S</typ>
+                			<stpid>1445</stpid>
+                			<stpnm>LaSalle &amp; Maple</stpnm>
+                			<pdist>13312.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.905922231744</lat>
+						<lon>-87.632864713669</lon>
+
+							<typ>S</typ>
+                			<stpid>1447</stpid>
+                			<stpnm>LaSalle &amp; Goethe</stpnm>
+                			<pdist>14732.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.907918414515</lat>
+						<lon>-87.632923722267</lon>
+
+							<typ>S</typ>
+                			<stpid>1448</stpid>
+                			<stpnm>LaSalle &amp; Schiller</stpnm>
+                			<pdist>15441.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.909008303965</lat>
+						<lon>-87.632955908775</lon>
+
+							<typ>S</typ>
+                			<stpid>1449</stpid>
+                			<stpnm>LaSalle &amp; Burton</stpnm>
+                			<pdist>15902.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.911036327113</lat>
+						<lon>-87.633004188538</lon>
+
+							<typ>S</typ>
+                			<stpid>1450</stpid>
+                			<stpnm>LaSalle &amp; North Ave</stpnm>
+                			<pdist>16549.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.912808798516</lat>
+						<lon>-87.633020281792</lon>
+
+							<typ>S</typ>
+                			<stpid>4984</stpid>
+                			<stpnm>LaSalle &amp; Eugenie</stpnm>
+                			<pdist>17142.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.912936542301</lat>
+						<lon>-87.632929086685</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.913016382037</lat>
+						<lon>-87.632746696472</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.913204005024</lat>
+						<lon>-87.632172703743</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.913239932766</lat>
+						<lon>-87.631995677948</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.913251908676</lat>
+						<lon>-87.631700634956</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.91354332179</lat>
+						<lon>-87.631668448448</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.913794814229</lat>
+						<lon>-87.631668448448</lon>
+
+							<typ>S</typ>
+                			<stpid>1139</stpid>
+                			<stpnm>Stockton &amp; LaSalle</stpnm>
+                			<pdist>17777.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.914022354153</lat>
+						<lon>-87.63171672821</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.914289812326</lat>
+						<lon>-87.631888389587</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.91449739103</lat>
+						<lon>-87.632065415382</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.914984399956</lat>
+						<lon>-87.632607221603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.915144074205</lat>
+						<lon>-87.632703781128</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.915403544007</lat>
+						<lon>-87.632773518562</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.915607127267</lat>
+						<lon>-87.632875442505</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.915806718068</lat>
+						<lon>-87.633041739464</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.916014291839</lat>
+						<lon>-87.633229494095</lon>
+
+							<typ>S</typ>
+                			<stpid>1140</stpid>
+                			<stpnm>Stockton &amp; Lincoln</stpnm>
+                			<pdist>18714.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.916429437356</lat>
+						<lon>-87.633690834045</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.916700877195</lat>
+						<lon>-87.633900046349</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.916944373716</lat>
+						<lon>-87.634028792381</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.917223794808</lat>
+						<lon>-87.634162902832</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.918572982293</lat>
+						<lon>-87.634431123734</lon>
+
+							<typ>S</typ>
+                			<stpid>1141</stpid>
+                			<stpnm>Stockton &amp; Armitage</stpnm>
+                			<pdist>19638.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.918836429775</lat>
+						<lon>-87.634506225586</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.919071934937</lat>
+						<lon>-87.634629607201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.919379287824</lat>
+						<lon>-87.634881734848</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.919662689823</lat>
+						<lon>-87.63520359993</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.919874242608</lat>
+						<lon>-87.635380625725</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.92012970164</lat>
+						<lon>-87.635520100594</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.920249447709</lat>
+						<lon>-87.635563015938</lon>
+
+							<typ>S</typ>
+                			<stpid>1142</stpid>
+                			<stpnm>Stockton &amp; Dickens</stpnm>
+                			<pdist>20521.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.920393142695</lat>
+						<lon>-87.635573744774</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.921255305818</lat>
+						<lon>-87.635622024536</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.921917886227</lat>
+						<lon>-87.635648846626</lon>
+
+							<typ>S</typ>
+                			<stpid>1143</stpid>
+                			<stpnm>Stockton &amp; Webster</stpnm>
+                			<pdist>20981.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.922436769696</lat>
+						<lon>-87.635681033134</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.924715815577</lat>
+						<lon>-87.635750770569</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.925090992209</lat>
+						<lon>-87.635788321495</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.925494105068</lat>
+						<lon>-87.635927796364</lon>
+
+							<typ>S</typ>
+                			<stpid>1144</stpid>
+                			<stpnm>Stockton &amp; Fullerton</stpnm>
+                			<pdist>22344.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.925753532788</lat>
+						<lon>-87.636040449142</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.925877259484</lat>
+						<lon>-87.636120915413</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.92594910068</lat>
+						<lon>-87.636233568192</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.925985021248</lat>
+						<lon>-87.636410593987</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.926016950625</lat>
+						<lon>-87.63661980629</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.926100765163</lat>
+						<lon>-87.636823654175</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.926483915936</lat>
+						<lon>-87.637547850609</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.926595667811</lat>
+						<lon>-87.637724876404</lon>
+
+							<typ>S</typ>
+                			<stpid>1145</stpid>
+                			<stpnm>Stockton &amp; Arlington</stpnm>
+                			<pdist>22995.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.926898993342</lat>
+						<lon>-87.638121843338</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.927126486544</lat>
+						<lon>-87.638341784477</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.927405863051</lat>
+						<lon>-87.638540267944</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.927773041742</lat>
+						<lon>-87.638722658157</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.928088334801</lat>
+						<lon>-87.638792395592</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.928315823762</lat>
+						<lon>-87.638808488846</lon>
+
+							<typ>S</typ>
+                			<stpid>1146</stpid>
+                			<stpnm>Stockton &amp; Roslyn</stpnm>
+                			<pdist>23606.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.928714925243</lat>
+						<lon>-87.638819217682</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.929784504897</lat>
+						<lon>-87.638706564903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.930407087782</lat>
+						<lon>-87.638754844666</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.930750303954</lat>
+						<lon>-87.638813853264</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.931261133906</lat>
+						<lon>-87.638931870461</lon>
+
+							<typ>S</typ>
+                			<stpid>1147</stpid>
+                			<stpnm>Stockton &amp; Wrightwood</stpnm>
+                			<pdist>24864.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.931668198595</lat>
+						<lon>-87.638974785805</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.931887693182</lat>
+						<lon>-87.638926506042</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.932059297516</lat>
+						<lon>-87.6388245821</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.93217503041</lat>
+						<lon>-87.638733386993</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.932302735429</lat>
+						<lon>-87.638652920723</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.932590070787</lat>
+						<lon>-87.639006972313</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.932909330778</lat>
+						<lon>-87.639280557632</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.933021071397</lat>
+						<lon>-87.63928592205</lon>
+
+							<typ>S</typ>
+                			<stpid>1148</stpid>
+                			<stpnm>Sheridan &amp; Diversey</stpnm>
+                			<pdist>25618.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.934497625482</lat>
+						<lon>-87.639291286469</lon>
+
+							<typ>S</typ>
+                			<stpid>1149</stpid>
+                			<stpnm>Sheridan &amp; Surf</stpnm>
+                			<pdist>26107.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.935790579905</lat>
+						<lon>-87.639344930649</lon>
+
+							<typ>S</typ>
+                			<stpid>1150</stpid>
+                			<stpnm>Sheridan &amp; Oakdale</stpnm>
+                			<pdist>26551.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.93676426902</lat>
+						<lon>-87.639382481575</lon>
+
+							<typ>S</typ>
+                			<stpid>1151</stpid>
+                			<stpnm>Sheridan &amp; Wellington</stpnm>
+                			<pdist>26920.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.937905541436</lat>
+						<lon>-87.639430761337</lon>
+
+							<typ>S</typ>
+                			<stpid>1152</stpid>
+                			<stpnm>Sheridan &amp; Barry</stpnm>
+                			<pdist>27381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.938723573782</lat>
+						<lon>-87.639462947845</lon>
+
+							<typ>S</typ>
+                			<stpid>1153</stpid>
+                			<stpnm>Sheridan &amp; Briar</stpnm>
+                			<pdist>27586.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.940152112424</lat>
+						<lon>-87.639495134354</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.940148122138</lat>
+						<lon>-87.639908194542</lon>
+
+							<typ>S</typ>
+                			<stpid>4993</stpid>
+                			<stpnm>Belmont &amp; Sheridan</stpnm>
+                			<pdist>28391.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.940076296932</lat>
+						<lon>-87.641935944557</lon>
+
+							<typ>S</typ>
+                			<stpid>4994</stpid>
+                			<stpnm>Belmont &amp; Pine Grove</stpnm>
+                			<pdist>28852.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.940056345471</lat>
+						<lon>-87.64429628849</lon>
+
+							<typ>S</typ>
+                			<stpid>4996</stpid>
+                			<stpnm>Belmont &amp; Broadway</stpnm>
+                			<pdist>29400.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.940028413416</lat>
+						<lon>-87.6468282938</lon>
+
+							<typ>S</typ>
+                			<stpid>4997</stpid>
+                			<stpnm>Belmont &amp; Orchard</stpnm>
+                			<pdist>30092.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.940000481349</lat>
+						<lon>-87.648754119873</lon>
+
+							<typ>S</typ>
+                			<stpid>4998</stpid>
+                			<stpnm>Belmont &amp; Halsted</stpnm>
+                			<pdist>30760.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.940004471645</lat>
+						<lon>-87.649220824242</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.940383548633</lat>
+						<lon>-87.649247646332</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.940387538906</lat>
+						<lon>-87.648780941963</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.94021595698</lat>
+						<lon>-87.648775577545</lon>
+
+							<typ>S</typ>
+                			<stpid>14150</stpid>
+                			<stpnm>Belmont &amp; Halsted Terminal</stpnm>
+                			<pdist>31184.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

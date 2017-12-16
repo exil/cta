@@ -1,0 +1,2451 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4619</pid>
+				<ln>48971.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.931017692017</lat>
+						<lon>-87.805577516556</lon>
+
+							<typ>S</typ>
+                			<stpid>10964</stpid>
+                			<stpnm>Diversey &amp; Neva Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.931117463395</lat>
+						<lon>-87.805577516556</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.931121454247</lat>
+						<lon>-87.80532002449</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.930738331328</lat>
+						<lon>-87.805303931236</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.930750303954</lat>
+						<lon>-87.804048657417</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.930762276577</lat>
+						<lon>-87.802948951721</lon>
+
+							<typ>S</typ>
+                			<stpid>10965</stpid>
+                			<stpnm>Diversey &amp; Nordica</stpnm>
+                			<pdist>754.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.930782230946</lat>
+						<lon>-87.801103591919</lon>
+
+							<typ>S</typ>
+                			<stpid>10966</stpid>
+                			<stpnm>Diversey &amp; Sayre</stpnm>
+                			<pdist>1265.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.930790212691</lat>
+						<lon>-87.799290418625</lon>
+
+							<typ>S</typ>
+                			<stpid>10967</stpid>
+                			<stpnm>Diversey &amp; Newland</stpnm>
+                			<pdist>1759.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.930842094012</lat>
+						<lon>-87.796790599823</lon>
+
+							<typ>S</typ>
+                			<stpid>10968</stpid>
+                			<stpnm>Diversey &amp; Newcastle</stpnm>
+                			<pdist>2434.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.93085007575</lat>
+						<lon>-87.79557287693</lon>
+
+							<typ>S</typ>
+                			<stpid>10969</stpid>
+                			<stpnm>Diversey &amp; Oak Park</stpnm>
+                			<pdist>2781.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.930878011825</lat>
+						<lon>-87.793132066727</lon>
+
+							<typ>S</typ>
+                			<stpid>10970</stpid>
+                			<stpnm>Diversey &amp; Normandy</stpnm>
+                			<pdist>3453.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.930913929618</lat>
+						<lon>-87.790744900703</lon>
+
+							<typ>S</typ>
+                			<stpid>10971</stpid>
+                			<stpnm>6600 W Diversey</stpnm>
+                			<pdist>4125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.930909938753</lat>
+						<lon>-87.789355516434</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.930925902211</lat>
+						<lon>-87.788228988647</lon>
+
+							<typ>S</typ>
+                			<stpid>10972</stpid>
+                			<stpnm>Diversey &amp; Natchez</stpnm>
+                			<pdist>4771.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.930937874802</lat>
+						<lon>-87.78688788414</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.930965810839</lat>
+						<lon>-87.78585255146</lon>
+
+							<typ>S</typ>
+                			<stpid>10973</stpid>
+                			<stpnm>Diversey &amp; Narragansett</stpnm>
+                			<pdist>5450.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.930973792561</lat>
+						<lon>-87.785568237305</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.931005719441</lat>
+						<lon>-87.783342003822</lon>
+
+							<typ>S</typ>
+                			<stpid>10974</stpid>
+                			<stpnm>Diversey &amp; Mobile</stpnm>
+                			<pdist>6117.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.931037646305</lat>
+						<lon>-87.780643701553</lon>
+
+							<typ>S</typ>
+                			<stpid>15514</stpid>
+                			<stpnm>Diversey &amp; Melvina</stpnm>
+                			<pdist>6924.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.931069573153</lat>
+						<lon>-87.77853012085</lon>
+
+							<typ>S</typ>
+                			<stpid>10976</stpid>
+                			<stpnm>Diversey &amp; Meade</stpnm>
+                			<pdist>7425.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.931109481691</lat>
+						<lon>-87.776083946228</lon>
+
+							<typ>S</typ>
+                			<stpid>10977</stpid>
+                			<stpnm>Diversey &amp; Austin</stpnm>
+                			<pdist>8090.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.931157371903</lat>
+						<lon>-87.773643136024</lon>
+
+							<typ>S</typ>
+                			<stpid>10978</stpid>
+                			<stpnm>Diversey &amp; Marmora</stpnm>
+                			<pdist>8753.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.931177326147</lat>
+						<lon>-87.771207690239</lon>
+
+							<typ>S</typ>
+                			<stpid>10979</stpid>
+                			<stpnm>Diversey &amp; Menard</stpnm>
+                			<pdist>9415.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.931197280385</lat>
+						<lon>-87.76989877224</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.931213243771</lat>
+						<lon>-87.768766880035</lon>
+
+							<typ>S</typ>
+                			<stpid>10980</stpid>
+                			<stpnm>Diversey &amp; Major</stpnm>
+                			<pdist>10086.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.931217234617</lat>
+						<lon>-87.76742041111</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.931245170532</lat>
+						<lon>-87.766449451447</lon>
+
+							<typ>S</typ>
+                			<stpid>10981</stpid>
+                			<stpnm>Diversey &amp; Central</stpnm>
+                			<pdist>10749.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.931277097276</lat>
+						<lon>-87.763938903809</lon>
+
+							<typ>S</typ>
+                			<stpid>10982</stpid>
+                			<stpnm>Diversey &amp; Linder</stpnm>
+                			<pdist>11426.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.931309024004</lat>
+						<lon>-87.761449813843</lon>
+
+							<typ>S</typ>
+                			<stpid>10983</stpid>
+                			<stpnm>Diversey &amp; Long</stpnm>
+                			<pdist>12093.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.931340950716</lat>
+						<lon>-87.758987545967</lon>
+
+							<typ>S</typ>
+                			<stpid>10984</stpid>
+                			<stpnm>Diversey &amp; Lockwood</stpnm>
+                			<pdist>12764.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.931384849919</lat>
+						<lon>-87.756536006927</lon>
+
+							<typ>S</typ>
+                			<stpid>10985</stpid>
+                			<stpnm>Diversey &amp; Laramie</stpnm>
+                			<pdist>13435.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.931396822424</lat>
+						<lon>-87.754073739052</lon>
+
+							<typ>S</typ>
+                			<stpid>10986</stpid>
+                			<stpnm>Diversey &amp; Leclaire</stpnm>
+                			<pdist>14100.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.931432739925</lat>
+						<lon>-87.751611471176</lon>
+
+							<typ>S</typ>
+                			<stpid>10987</stpid>
+                			<stpnm>Diversey &amp; Lavergne</stpnm>
+                			<pdist>14777.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.931464666575</lat>
+						<lon>-87.749170660973</lon>
+
+							<typ>S</typ>
+                			<stpid>10988</stpid>
+                			<stpnm>Diversey &amp; Lamon</stpnm>
+                			<pdist>15446.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.931520538174</lat>
+						<lon>-87.746815681458</lon>
+
+							<typ>S</typ>
+                			<stpid>10989</stpid>
+                			<stpnm>Diversey &amp; Cicero</stpnm>
+                			<pdist>16100.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.931544483131</lat>
+						<lon>-87.743961811066</lon>
+
+							<typ>S</typ>
+                			<stpid>15228</stpid>
+                			<stpnm>Diversey &amp; Kilpatrick</stpnm>
+                			<pdist>17075.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.931588382194</lat>
+						<lon>-87.740662693977</lon>
+
+							<typ>S</typ>
+                			<stpid>10992</stpid>
+                			<stpnm>Diversey &amp; Kolmar </stpnm>
+                			<pdist>17781.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.931604345482</lat>
+						<lon>-87.739369869232</lon>
+
+							<typ>S</typ>
+                			<stpid>10993</stpid>
+                			<stpnm>Diversey &amp; Kilbourn</stpnm>
+                			<pdist>18120.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.931636272046</lat>
+						<lon>-87.736945152283</lon>
+
+							<typ>S</typ>
+                			<stpid>10994</stpid>
+                			<stpnm>Diversey &amp; Kostner</stpnm>
+                			<pdist>18762.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.931668198595</lat>
+						<lon>-87.734472155571</lon>
+
+							<typ>S</typ>
+                			<stpid>10995</stpid>
+                			<stpnm>Diversey &amp; Kildare</stpnm>
+                			<pdist>19451.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.931684161863</lat>
+						<lon>-87.733055949211</lon>
+
+							<typ>S</typ>
+                			<stpid>10996</stpid>
+                			<stpnm>Diversey &amp; Tripp</stpnm>
+                			<pdist>19958.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.931724070016</lat>
+						<lon>-87.729542255402</lon>
+
+							<typ>S</typ>
+                			<stpid>10997</stpid>
+                			<stpnm>Diversey &amp; Karlov</stpnm>
+                			<pdist>20797.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.93175599652</lat>
+						<lon>-87.727053165436</lon>
+
+							<typ>S</typ>
+                			<stpid>10998</stpid>
+                			<stpnm>Diversey &amp; Pulaski</stpnm>
+                			<pdist>21445.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.931795904629</lat>
+						<lon>-87.724499702454</lon>
+
+							<typ>S</typ>
+                			<stpid>10999</stpid>
+                			<stpnm>Diversey &amp; Springfield</stpnm>
+                			<pdist>22134.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.931839803519</lat>
+						<lon>-87.722203731537</lon>
+
+							<typ>S</typ>
+                			<stpid>11000</stpid>
+                			<stpnm>Diversey &amp; Hamlin</stpnm>
+                			<pdist>22793.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.93185975755</lat>
+						<lon>-87.719768285751</lon>
+
+							<typ>S</typ>
+                			<stpid>11001</stpid>
+                			<stpnm>Diversey &amp; Lawndale</stpnm>
+                			<pdist>23455.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.93186773916</lat>
+						<lon>-87.718341350555</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.93189567479</lat>
+						<lon>-87.717268466949</lon>
+
+							<typ>S</typ>
+                			<stpid>11002</stpid>
+                			<stpnm>Diversey &amp; Central Park</stpnm>
+                			<pdist>24120.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.931911638001</lat>
+						<lon>-87.71595954895</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.931919619605</lat>
+						<lon>-87.715074419975</lon>
+
+							<typ>S</typ>
+                			<stpid>11003</stpid>
+                			<stpnm>Diversey &amp; St. Louis</stpnm>
+                			<pdist>24799.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.931951546012</lat>
+						<lon>-87.712317109108</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.931712097573</lat>
+						<lon>-87.71187722683</lon>
+
+							<typ>S</typ>
+                			<stpid>17413</stpid>
+                			<stpnm>Milwaukee &amp; Diversey/Kimball</stpnm>
+                			<pdist>25642.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.931069573153</lat>
+						<lon>-87.710723876953</lon>
+
+							<typ>S</typ>
+                			<stpid>5465</stpid>
+                			<stpnm>Milwaukee &amp; Spaulding</stpnm>
+                			<pdist>26059.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.930435024051</lat>
+						<lon>-87.709677815437</lon>
+
+							<typ>S</typ>
+                			<stpid>5466</stpid>
+                			<stpnm>Milwaukee &amp; Sawyer </stpnm>
+                			<pdist>26478.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.929409355866</lat>
+						<lon>-87.708068490028</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.929086087379</lat>
+						<lon>-87.707515954971</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.929189852751</lat>
+						<lon>-87.707360386848</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.929449265443</lat>
+						<lon>-87.70732820034</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.929908223775</lat>
+						<lon>-87.707338929176</lon>
+
+							<typ>S</typ>
+                			<stpid>11005</stpid>
+                			<stpnm>Logan Square Blue Line Station</stpnm>
+                			<pdist>27067.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.930411078678</lat>
+						<lon>-87.70732820034</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.931233197998</lat>
+						<lon>-87.70735502243</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.931927601208</lat>
+						<lon>-87.707376480103</lon>
+
+							<typ>S</typ>
+                			<stpid>11006</stpid>
+                			<stpnm>Kedzie &amp; Diversey</stpnm>
+                			<pdist>27877.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.931991453997</lat>
+						<lon>-87.707376480103</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.932011407981</lat>
+						<lon>-87.70506978035</lon>
+
+							<typ>S</typ>
+                			<stpid>11007</stpid>
+                			<stpnm>Diversey &amp; Albany</stpnm>
+                			<pdist>28503.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.932031361958</lat>
+						<lon>-87.7026450634</lon>
+
+							<typ>S</typ>
+                			<stpid>11008</stpid>
+                			<stpnm>Diversey &amp; Sacramento</stpnm>
+                			<pdist>29178.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.932055306723</lat>
+						<lon>-87.700198888779</lon>
+
+							<typ>S</typ>
+                			<stpid>11009</stpid>
+                			<stpnm>Diversey &amp; Francisco</stpnm>
+                			<pdist>29845.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.932071269894</lat>
+						<lon>-87.697902917862</lon>
+
+							<typ>S</typ>
+                			<stpid>11010</stpid>
+                			<stpnm>Diversey &amp; California</stpnm>
+                			<pdist>30509.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.932091223852</lat>
+						<lon>-87.694405317307</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.932095214643</lat>
+						<lon>-87.693010568619</lon>
+
+							<typ>S</typ>
+                			<stpid>11012</stpid>
+                			<stpnm>Diversey &amp; Rockwell</stpnm>
+                			<pdist>31825.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.932119159384</lat>
+						<lon>-87.690424919128</lon>
+
+							<typ>S</typ>
+                			<stpid>11013</stpid>
+                			<stpnm>Diversey &amp; Campbell</stpnm>
+                			<pdist>32497.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.932135122539</lat>
+						<lon>-87.687254548073</lon>
+
+							<typ>S</typ>
+                			<stpid>17528</stpid>
+                			<stpnm>Diversey &amp; Western/Elston</stpnm>
+                			<pdist>33426.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.932151085691</lat>
+						<lon>-87.685527205467</lon>
+
+							<typ>S</typ>
+                			<stpid>11015</stpid>
+                			<stpnm>Diversey &amp; Oakley</stpnm>
+                			<pdist>33936.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.932179021196</lat>
+						<lon>-87.684014439583</lon>
+
+							<typ>S</typ>
+                			<stpid>11016</stpid>
+                			<stpnm>Diversey &amp; Logan</stpnm>
+                			<pdist>34268.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.932238882952</lat>
+						<lon>-87.679674625397</lon>
+
+							<typ>S</typ>
+                			<stpid>11017</stpid>
+                			<stpnm>2049 W Diversey</stpnm>
+                			<pdist>35496.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.932262827638</lat>
+						<lon>-87.67773270607</lon>
+
+							<typ>S</typ>
+                			<stpid>11018</stpid>
+                			<stpnm>Diversey &amp; Damen/Clybourn</stpnm>
+                			<pdist>36086.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.932274799978</lat>
+						<lon>-87.675833702087</lon>
+
+							<typ>S</typ>
+                			<stpid>11019</stpid>
+                			<stpnm>Diversey &amp; Wolcott </stpnm>
+                			<pdist>36532.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.932298744651</lat>
+						<lon>-87.673489451408</lon>
+
+							<typ>S</typ>
+                			<stpid>11020</stpid>
+                			<stpnm>1761 W Diversey</stpnm>
+                			<pdist>37240.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.932334661644</lat>
+						<lon>-87.670710682869</lon>
+
+							<typ>S</typ>
+                			<stpid>11021</stpid>
+                			<stpnm>Diversey &amp; Paulina</stpnm>
+                			<pdist>38019.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.93237456939</lat>
+						<lon>-87.668597102165</lon>
+
+							<typ>S</typ>
+                			<stpid>11022</stpid>
+                			<stpnm>Diversey &amp; Ashland</stpnm>
+                			<pdist>38504.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.932406495569</lat>
+						<lon>-87.66586124897</lon>
+
+							<typ>S</typ>
+                			<stpid>11023</stpid>
+                			<stpnm>Diversey &amp; Greenview</stpnm>
+                			<pdist>39339.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.93241048634</lat>
+						<lon>-87.664740085602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.932462366343</lat>
+						<lon>-87.663431167603</lon>
+
+							<typ>S</typ>
+                			<stpid>11024</stpid>
+                			<stpnm>Diversey &amp; Southport</stpnm>
+                			<pdist>40020.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.932486310946</lat>
+						<lon>-87.661263942719</lon>
+
+							<typ>S</typ>
+                			<stpid>11025</stpid>
+                			<stpnm>Diversey &amp; Lakewood</stpnm>
+                			<pdist>40508.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.93251025554</lat>
+						<lon>-87.659938931465</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.932538190888</lat>
+						<lon>-87.658141851425</lon>
+
+							<typ>S</typ>
+                			<stpid>11026</stpid>
+                			<stpnm>Diversey &amp; Racine/Lincoln</stpnm>
+                			<pdist>41362.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.932554153938</lat>
+						<lon>-87.656403779984</lon>
+
+							<typ>S</typ>
+                			<stpid>11027</stpid>
+                			<stpnm>Diversey &amp; Seminary</stpnm>
+                			<pdist>41959.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.932598052306</lat>
+						<lon>-87.653625011444</lon>
+
+							<typ>S</typ>
+                			<stpid>11028</stpid>
+                			<stpnm>Diversey Brown Line Station</stpnm>
+                			<pdist>42717.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.932645941401</lat>
+						<lon>-87.651296854019</lon>
+
+							<typ>S</typ>
+                			<stpid>11029</stpid>
+                			<stpnm>Diversey &amp; Mildred</stpnm>
+                			<pdist>43321.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.93269383046</lat>
+						<lon>-87.648743391037</lon>
+
+							<typ>S</typ>
+                			<stpid>11030</stpid>
+                			<stpnm>Diversey &amp; Halsted</stpnm>
+                			<pdist>43952.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.932733737981</lat>
+						<lon>-87.646415233612</lon>
+
+							<typ>S</typ>
+                			<stpid>11031</stpid>
+                			<stpnm>Diversey &amp; Orchard</stpnm>
+                			<pdist>44628.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.932761673231</lat>
+						<lon>-87.644484043121</lon>
+
+							<typ>S</typ>
+                			<stpid>11032</stpid>
+                			<stpnm>Diversey &amp; Clark/Broadway</stpnm>
+                			<pdist>45093.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.932809562203</lat>
+						<lon>-87.642606496811</lon>
+
+							<typ>S</typ>
+                			<stpid>14898</stpid>
+                			<stpnm>Diversey &amp; Hampden Court</stpnm>
+                			<pdist>45588.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.932837497419</lat>
+						<lon>-87.64092206955</lon>
+
+							<typ>S</typ>
+                			<stpid>11034</stpid>
+                			<stpnm>Diversey &amp; Pine Grove</stpnm>
+                			<pdist>46013.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.932869423367</lat>
+						<lon>-87.63961315155</lon>
+
+							<typ>S</typ>
+                			<stpid>11035</stpid>
+                			<stpnm>Diversey &amp; Sheridan/Lakeview</stpnm>
+                			<pdist>46370.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.932881395593</lat>
+						<lon>-87.639355659485</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.932454384807</lat>
+						<lon>-87.638974785805</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.932270809198</lat>
+						<lon>-87.638685107231</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.931947555212</lat>
+						<lon>-87.638148665428</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.93156044643</lat>
+						<lon>-87.637590765953</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.93112943595</lat>
+						<lon>-87.637177705765</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.929780513962</lat>
+						<lon>-87.636169195175</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.928990303808</lat>
+						<lon>-87.635627388954</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.928475464654</lat>
+						<lon>-87.63525724411</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.92790873768</lat>
+						<lon>-87.634919285774</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.927405863051</lat>
+						<lon>-87.634608149529</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.927330032406</lat>
+						<lon>-87.634742259979</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.927250210577</lat>
+						<lon>-87.634758353233</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.927086575515</lat>
+						<lon>-87.634693980217</lon>
+
+							<typ>S</typ>
+                			<stpid>13152</stpid>
+                			<stpnm>Cannon &amp; Nature Museum/Fullerton</stpnm>
+                			<pdist>48971.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4621</pid>
+				<ln>53850.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.927086575515</lat>
+						<lon>-87.634693980217</lon>
+
+							<typ>S</typ>
+                			<stpid>13152</stpid>
+                			<stpnm>Cannon &amp; Nature Museum/Fullerton</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.926898993342</lat>
+						<lon>-87.634592056274</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.926835135455</lat>
+						<lon>-87.634516954422</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.926835135455</lat>
+						<lon>-87.634431123734</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.926914957804</lat>
+						<lon>-87.634227275848</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.927761068557</lat>
+						<lon>-87.634710073471</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.928982321838</lat>
+						<lon>-87.635520100594</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.92991620563</lat>
+						<lon>-87.636196017265</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.931161362752</lat>
+						<lon>-87.63710796833</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.931524529001</lat>
+						<lon>-87.637429833412</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.931999435591</lat>
+						<lon>-87.638132572174</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.932310716984</lat>
+						<lon>-87.638652920723</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.932566126224</lat>
+						<lon>-87.638990879059</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.932941256689</lat>
+						<lon>-87.639302015305</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.932929284474</lat>
+						<lon>-87.639634609222</lon>
+
+							<typ>S</typ>
+                			<stpid>11037</stpid>
+                			<stpnm>Diversey &amp; Sheridan/Lakeview</stpnm>
+                			<pdist>2839.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.932861441881</lat>
+						<lon>-87.642638683319</lon>
+
+							<typ>S</typ>
+                			<stpid>14897</stpid>
+                			<stpnm>Diversey &amp; Cambridge</stpnm>
+                			<pdist>3495.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.932817543694</lat>
+						<lon>-87.645369172096</lon>
+
+							<typ>S</typ>
+                			<stpid>11040</stpid>
+                			<stpnm>Diversey &amp; Clark/Broadway</stpnm>
+                			<pdist>4217.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.932785617721</lat>
+						<lon>-87.646855115891</lon>
+
+							<typ>S</typ>
+                			<stpid>11041</stpid>
+                			<stpnm>Diversey &amp; Orchard</stpnm>
+                			<pdist>4700.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.932733737981</lat>
+						<lon>-87.649376392365</lon>
+
+							<typ>S</typ>
+                			<stpid>11042</stpid>
+                			<stpnm>Diversey &amp; Halsted</stpnm>
+                			<pdist>5308.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.932709793471</lat>
+						<lon>-87.651307582855</lon>
+
+							<typ>S</typ>
+                			<stpid>14896</stpid>
+                			<stpnm>Diversey &amp; Mildred</stpnm>
+                			<pdist>5823.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.932661904425</lat>
+						<lon>-87.653737664223</lon>
+
+							<typ>S</typ>
+                			<stpid>11044</stpid>
+                			<stpnm>Diversey Brown Line Station</stpnm>
+                			<pdist>6348.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.9326180061</lat>
+						<lon>-87.656645178795</lon>
+
+							<typ>S</typ>
+                			<stpid>11046</stpid>
+                			<stpnm>Diversey &amp; Seminary</stpnm>
+                			<pdist>7301.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.932582089267</lat>
+						<lon>-87.65943467617</lon>
+
+							<typ>S</typ>
+                			<stpid>11047</stpid>
+                			<stpnm>Diversey &amp; Racine/Lincoln</stpnm>
+                			<pdist>8014.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.932554153938</lat>
+						<lon>-87.660958170891</lon>
+
+							<typ>S</typ>
+                			<stpid>11048</stpid>
+                			<stpnm>Diversey &amp; Lakewood</stpnm>
+                			<pdist>8485.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.93251025554</lat>
+						<lon>-87.663844227791</lon>
+
+							<typ>S</typ>
+                			<stpid>11049</stpid>
+                			<stpnm>Diversey &amp; Southport</stpnm>
+                			<pdist>9294.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.932474338646</lat>
+						<lon>-87.66471862793</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.932470347879</lat>
+						<lon>-87.666140198708</lon>
+
+							<typ>S</typ>
+                			<stpid>11050</stpid>
+                			<stpnm>Diversey &amp; Greenview</stpnm>
+                			<pdist>9941.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.932430440193</lat>
+						<lon>-87.6686668396</lon>
+
+							<typ>S</typ>
+                			<stpid>11051</stpid>
+                			<stpnm>Diversey &amp; Ashland</stpnm>
+                			<pdist>10645.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.932394523254</lat>
+						<lon>-87.671037912369</lon>
+
+							<typ>S</typ>
+                			<stpid>11052</stpid>
+                			<stpnm>Diversey &amp; Paulina</stpnm>
+                			<pdist>11291.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.932362597069</lat>
+						<lon>-87.673505544662</lon>
+
+							<typ>S</typ>
+                			<stpid>11053</stpid>
+                			<stpnm>1800 W Diversey</stpnm>
+                			<pdist>11942.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.932334661644</lat>
+						<lon>-87.67555475235</lon>
+
+							<typ>S</typ>
+                			<stpid>11054</stpid>
+                			<stpnm>Diversey &amp; Wolcott </stpnm>
+                			<pdist>12444.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.932314707762</lat>
+						<lon>-87.678537368774</lon>
+
+							<typ>S</typ>
+                			<stpid>11055</stpid>
+                			<stpnm>Diversey &amp; Damen/Clybourn</stpnm>
+                			<pdist>13328.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.932302735429</lat>
+						<lon>-87.679798007011</lon>
+
+							<typ>S</typ>
+                			<stpid>11056</stpid>
+                			<stpnm>2049 W Diversey</stpnm>
+                			<pdist>13597.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.932238882952</lat>
+						<lon>-87.684137821198</lon>
+
+							<typ>S</typ>
+                			<stpid>11057</stpid>
+                			<stpnm>Diversey &amp; Logan</stpnm>
+                			<pdist>14860.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.932218929039</lat>
+						<lon>-87.68522143364</lon>
+
+							<typ>S</typ>
+                			<stpid>11058</stpid>
+                			<stpnm>Diversey &amp; Oakley</stpnm>
+                			<pdist>15128.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.932194984336</lat>
+						<lon>-87.688305974007</lon>
+
+							<typ>S</typ>
+                			<stpid>17529</stpid>
+                			<stpnm>Diversey &amp; Western/Elston</stpnm>
+                			<pdist>15960.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.93217503041</lat>
+						<lon>-87.690247893333</lon>
+
+							<typ>S</typ>
+                			<stpid>11060</stpid>
+                			<stpnm>Diversey &amp; Campbell</stpnm>
+                			<pdist>16452.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.932151666666</lat>
+						<lon>-87.693094999999</lon>
+
+							<typ>S</typ>
+                			<stpid>17530</stpid>
+                			<stpnm>Diversey &amp; Rockwell</stpnm>
+                			<pdist>17263.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.932131131751</lat>
+						<lon>-87.697747349739</lon>
+
+							<typ>S</typ>
+                			<stpid>11063</stpid>
+                			<stpnm>Diversey &amp; California</stpnm>
+                			<pdist>18646.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.932123150173</lat>
+						<lon>-87.699855566025</lon>
+
+							<typ>S</typ>
+                			<stpid>11064</stpid>
+                			<stpnm>Diversey &amp; Francisco</stpnm>
+                			<pdist>19139.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.932095214643</lat>
+						<lon>-87.702392935753</lon>
+
+							<typ>S</typ>
+                			<stpid>11065</stpid>
+                			<stpnm>Diversey &amp; Sacramento</stpnm>
+                			<pdist>19807.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.932079251478</lat>
+						<lon>-87.704758644104</lon>
+
+							<typ>S</typ>
+                			<stpid>11066</stpid>
+                			<stpnm>Diversey &amp; Albany</stpnm>
+                			<pdist>20480.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.932055306723</lat>
+						<lon>-87.707451581955</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.931879711574</lat>
+						<lon>-87.707451581955</lon>
+
+							<typ>S</typ>
+                			<stpid>11067</stpid>
+                			<stpnm>Kedzie &amp; Diversey</stpnm>
+                			<pdist>21313.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.930462960308</lat>
+						<lon>-87.707414031029</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.930263415348</lat>
+						<lon>-87.707473039627</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.92991620563</lat>
+						<lon>-87.707558870316</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.929541057373</lat>
+						<lon>-87.707591056824</lon>
+
+							<typ>S</typ>
+                			<stpid>11068</stpid>
+                			<stpnm>Kedzie &amp; Milwaukee (Blue LIne)</stpnm>
+                			<pdist>22048.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.929469220221</lat>
+						<lon>-87.707671523094</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.929429310658</lat>
+						<lon>-87.707757353783</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.929405364907</lat>
+						<lon>-87.707923650742</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.929632849172</lat>
+						<lon>-87.708277702332</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.929900241919</lat>
+						<lon>-87.707923650742</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.929920196557</lat>
+						<lon>-87.707585692406</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.929632849172</lat>
+						<lon>-87.707607150078</lon>
+
+							<typ>S</typ>
+                			<stpid>17674</stpid>
+                			<stpnm>Logan Square Blue Line Station</stpnm>
+                			<pdist>22501.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.929624867282</lat>
+						<lon>-87.707344293594</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.929960105813</lat>
+						<lon>-87.707344293594</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.930267406253</lat>
+						<lon>-87.707317471504</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.930435024051</lat>
+						<lon>-87.707338929176</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.931811867865</lat>
+						<lon>-87.707360386848</lon>
+
+							<typ>S</typ>
+                			<stpid>11069</stpid>
+                			<stpnm>Diversey &amp; Kedzie</stpnm>
+                			<pdist>23418.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.932055306723</lat>
+						<lon>-87.707360386848</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.932059297516</lat>
+						<lon>-87.708621025085</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.932047325135</lat>
+						<lon>-87.709693908691</lon>
+
+							<typ>S</typ>
+                			<stpid>11070</stpid>
+                			<stpnm>Diversey &amp; Spaulding</stpnm>
+                			<pdist>23968.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.932007417185</lat>
+						<lon>-87.712129354477</lon>
+
+							<typ>S</typ>
+                			<stpid>11071</stpid>
+                			<stpnm>Diversey &amp; Milwaukee/Kimball</stpnm>
+                			<pdist>24608.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.932015398777</lat>
+						<lon>-87.712306380272</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.932290763094</lat>
+						<lon>-87.71263897419</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.933324366377</lat>
+						<lon>-87.714291214943</lon>
+
+							<typ>S</typ>
+                			<stpid>5563</stpid>
+                			<stpnm>Milwaukee &amp; Wisner</stpnm>
+                			<pdist>25399.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.9344896442</lat>
+						<lon>-87.716200947762</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.935207955539</lat>
+						<lon>-87.717424035072</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.936792202505</lat>
+						<lon>-87.719956040382</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.93918645573</lat>
+						<lon>-87.72388279438</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.939170494339</lat>
+						<lon>-87.724317312241</lon>
+
+							<typ>S</typ>
+                			<stpid>17460</stpid>
+                			<stpnm>Belmont &amp; Milwaukee</stpnm>
+                			<pdist>28876.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.939142561896</lat>
+						<lon>-87.727219462395</lon>
+
+							<typ>S</typ>
+                			<stpid>14620</stpid>
+                			<stpnm>Pulaski &amp; Belmont</stpnm>
+                			<pdist>29772.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.93543541911</lat>
+						<lon>-87.727090716362</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.931959527611</lat>
+						<lon>-87.727004885674</lon>
+
+							<typ>S</typ>
+                			<stpid>9005</stpid>
+                			<stpnm>Pulaski &amp; Diversey</stpnm>
+                			<pdist>32259.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.931819849481</lat>
+						<lon>-87.727004885674</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.931783932199</lat>
+						<lon>-87.729375958443</lon>
+
+							<typ>S</typ>
+                			<stpid>11078</stpid>
+                			<stpnm>Diversey &amp; Karlov</stpnm>
+                			<pdist>32887.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.931744024083</lat>
+						<lon>-87.732857465744</lon>
+
+							<typ>S</typ>
+                			<stpid>11079</stpid>
+                			<stpnm>Diversey &amp; Tripp</stpnm>
+                			<pdist>33865.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.931724070016</lat>
+						<lon>-87.734187841415</lon>
+
+							<typ>S</typ>
+                			<stpid>11080</stpid>
+                			<stpnm>Diversey &amp; Kildare</stpnm>
+                			<pdist>34199.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.931696134311</lat>
+						<lon>-87.736601829529</lon>
+
+							<typ>S</typ>
+                			<stpid>11081</stpid>
+                			<stpnm>Diversey &amp; Kostner</stpnm>
+                			<pdist>34875.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.931664207777</lat>
+						<lon>-87.739053368568</lon>
+
+							<typ>S</typ>
+                			<stpid>11082</stpid>
+                			<stpnm>Diversey &amp; Kilbourn</stpnm>
+                			<pdist>35551.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.931616317945</lat>
+						<lon>-87.741987705231</lon>
+
+							<typ>S</typ>
+                			<stpid>11083</stpid>
+                			<stpnm>4600 W Diversey</stpnm>
+                			<pdist>36572.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.931604345482</lat>
+						<lon>-87.74395108223</lon>
+
+							<typ>S</typ>
+                			<stpid>11084</stpid>
+                			<stpnm>Diversey &amp; Kilpatrick</stpnm>
+                			<pdist>36875.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.931580400548</lat>
+						<lon>-87.746413350105</lon>
+
+							<typ>S</typ>
+                			<stpid>11085</stpid>
+                			<stpnm>Diversey &amp; Cicero</stpnm>
+                			<pdist>37531.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.931528519827</lat>
+						<lon>-87.748929262161</lon>
+
+							<typ>S</typ>
+                			<stpid>11086</stpid>
+                			<stpnm>Diversey &amp; Lamon</stpnm>
+                			<pdist>38216.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.931496593209</lat>
+						<lon>-87.751375436783</lon>
+
+							<typ>S</typ>
+                			<stpid>11087</stpid>
+                			<stpnm>Diversey &amp; Lavergne</stpnm>
+                			<pdist>38892.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.931468657405</lat>
+						<lon>-87.753794789314</lon>
+
+							<typ>S</typ>
+                			<stpid>11088</stpid>
+                			<stpnm>Diversey &amp; Leclaire</stpnm>
+                			<pdist>39563.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.931448703252</lat>
+						<lon>-87.756267786026</lon>
+
+							<typ>S</typ>
+                			<stpid>11089</stpid>
+                			<stpnm>Diversey &amp; Laramie</stpnm>
+                			<pdist>40234.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.931408794926</lat>
+						<lon>-87.758692502975</lon>
+
+							<typ>S</typ>
+                			<stpid>11090</stpid>
+                			<stpnm>Diversey &amp; Lockwood</stpnm>
+                			<pdist>40905.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.931376868248</lat>
+						<lon>-87.761149406433</lon>
+
+							<typ>S</typ>
+                			<stpid>11091</stpid>
+                			<stpnm>Diversey &amp; Long</stpnm>
+                			<pdist>41578.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.931340950716</lat>
+						<lon>-87.763627767563</lon>
+
+							<typ>S</typ>
+                			<stpid>11092</stpid>
+                			<stpnm>Diversey &amp; Linder</stpnm>
+                			<pdist>42251.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.931309024004</lat>
+						<lon>-87.766106128693</lon>
+
+							<typ>S</typ>
+                			<stpid>11093</stpid>
+                			<stpnm>Diversey &amp; Central</stpnm>
+                			<pdist>42919.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.931269115591</lat>
+						<lon>-87.768520116806</lon>
+
+							<typ>S</typ>
+                			<stpid>11094</stpid>
+                			<stpnm>Diversey &amp; Major</stpnm>
+                			<pdist>43590.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.931233197998</lat>
+						<lon>-87.770944833755</lon>
+
+							<typ>S</typ>
+                			<stpid>11095</stpid>
+                			<stpnm>Diversey &amp; Menard</stpnm>
+                			<pdist>44253.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.931213243771</lat>
+						<lon>-87.773364186287</lon>
+
+							<typ>S</typ>
+                			<stpid>11096</stpid>
+                			<stpnm>Diversey &amp; Marmora</stpnm>
+                			<pdist>44913.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.93116934445</lat>
+						<lon>-87.775810360909</lon>
+
+							<typ>S</typ>
+                			<stpid>11097</stpid>
+                			<stpnm>Diversey &amp; Austin</stpnm>
+                			<pdist>45580.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.931137417652</lat>
+						<lon>-87.77820289135</lon>
+
+							<typ>S</typ>
+                			<stpid>11098</stpid>
+                			<stpnm>Diversey &amp; Meade</stpnm>
+                			<pdist>46243.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.931097509132</lat>
+						<lon>-87.780654430389</lon>
+
+							<typ>S</typ>
+                			<stpid>11099</stpid>
+                			<stpnm>Diversey &amp; Melvina</stpnm>
+                			<pdist>46912.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.931065582298</lat>
+						<lon>-87.783406376839</lon>
+
+							<typ>S</typ>
+                			<stpid>11100</stpid>
+                			<stpnm>Diversey &amp; Mobile</stpnm>
+                			<pdist>47574.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.931037646305</lat>
+						<lon>-87.785573601723</lon>
+
+							<typ>S</typ>
+                			<stpid>11101</stpid>
+                			<stpnm>Diversey &amp; Narragansett</stpnm>
+                			<pdist>48236.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.930997737723</lat>
+						<lon>-87.786855697632</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.930989756003</lat>
+						<lon>-87.787966132164</lon>
+
+							<typ>S</typ>
+                			<stpid>11102</stpid>
+                			<stpnm>Diversey &amp; Natchez</stpnm>
+                			<pdist>48905.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.9309698017</lat>
+						<lon>-87.789355516434</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.9309698017</lat>
+						<lon>-87.790750265121</lon>
+
+							<typ>S</typ>
+                			<stpid>11103</stpid>
+                			<stpnm>6600 W Diversey</stpnm>
+                			<pdist>49528.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.930945856528</lat>
+						<lon>-87.792820930481</lon>
+
+							<typ>S</typ>
+                			<stpid>11104</stpid>
+                			<stpnm>Diversey &amp; Normandy</stpnm>
+                			<pdist>50232.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.930913929618</lat>
+						<lon>-87.795272469521</lon>
+
+							<typ>S</typ>
+                			<stpid>11105</stpid>
+                			<stpnm>Diversey &amp; Oak Park</stpnm>
+                			<pdist>50913.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.930901957023</lat>
+						<lon>-87.796533107758</lon>
+
+							<typ>S</typ>
+                			<stpid>11106</stpid>
+                			<stpnm>Diversey &amp; Newcastle</stpnm>
+                			<pdist>51236.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.930862048355</lat>
+						<lon>-87.798957824707</lon>
+
+							<typ>S</typ>
+                			<stpid>11107</stpid>
+                			<stpnm>Diversey &amp; Newland</stpnm>
+                			<pdist>51911.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.930842094012</lat>
+						<lon>-87.800824642181</lon>
+
+							<typ>S</typ>
+                			<stpid>11108</stpid>
+                			<stpnm>Diversey &amp; Sayre</stpnm>
+                			<pdist>52416.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.930818148792</lat>
+						<lon>-87.802643179893</lon>
+
+							<typ>S</typ>
+                			<stpid>11109</stpid>
+                			<stpnm>Diversey &amp; Nordica</stpnm>
+                			<pdist>52925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.930806176179</lat>
+						<lon>-87.803946733475</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.930794203563</lat>
+						<lon>-87.804756760597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.930798194435</lat>
+						<lon>-87.80556678772</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.931017692017</lat>
+						<lon>-87.805577516556</lon>
+
+							<typ>S</typ>
+                			<stpid>10964</stpid>
+                			<stpnm>Diversey &amp; Neva Terminal</stpnm>
+                			<pdist>53850.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

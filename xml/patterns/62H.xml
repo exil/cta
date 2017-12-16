@@ -1,0 +1,1716 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>6136</pid>
+				<ln>31855.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.786277056202</lat>
+						<lon>-87.738972902298</lon>
+
+							<typ>S</typ>
+                			<stpid>8759</stpid>
+                			<stpnm>Midway Orange Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.786285056004</lat>
+						<lon>-87.739380598068</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.786145059328</lat>
+						<lon>-87.739385962486</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.785877064838</lat>
+						<lon>-87.739471793175</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.784993075072</lat>
+						<lon>-87.739992141724</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.784861075555</lat>
+						<lon>-87.740018963814</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.784341074811</lat>
+						<lon>-87.740008234978</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.784353074875</lat>
+						<lon>-87.740877270699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.784477075413</lat>
+						<lon>-87.741102576256</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.784613075726</lat>
+						<lon>-87.741177678108</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.784761075739</lat>
+						<lon>-87.741156220436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.785773066675</lat>
+						<lon>-87.741204500198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.787313022234</lat>
+						<lon>-87.741263508797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.789916862935</lat>
+						<lon>-87.741360068321</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.791388726096</lat>
+						<lon>-87.741408348083</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.791904670128</lat>
+						<lon>-87.741424441338</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.79230862341</lat>
+						<lon>-87.74144589901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.792656581126</lat>
+						<lon>-87.741585373878</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.792896550865</lat>
+						<lon>-87.741708755493</lon>
+
+							<typ>S</typ>
+                			<stpid>4605</stpid>
+                			<stpnm>Cicero &amp; 55th Street</stpnm>
+                			<pdist>4323.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.79338848602</lat>
+						<lon>-87.741993069649</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.794716292143</lat>
+						<lon>-87.742636799812</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.794964252889</lat>
+						<lon>-87.742658257484</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.798731538471</lat>
+						<lon>-87.742787003517</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.798643557681</lat>
+						<lon>-87.743371725082</lon>
+
+							<typ>S</typ>
+                			<stpid>4385</stpid>
+                			<stpnm>Archer &amp; Cicero</stpnm>
+                			<pdist>6372.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.798391612025</lat>
+						<lon>-87.745179533958</lon>
+
+							<typ>S</typ>
+                			<stpid>4516</stpid>
+                			<stpnm>Archer &amp; Lamon</stpnm>
+                			<pdist>6819.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.798207651079</lat>
+						<lon>-87.746531367302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.798039686275</lat>
+						<lon>-87.747668623924</lon>
+
+							<typ>S</typ>
+                			<stpid>4517</stpid>
+                			<stpnm>Archer &amp; Lavergne</stpnm>
+                			<pdist>7494.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.797839727602</lat>
+						<lon>-87.748939990997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.797679760214</lat>
+						<lon>-87.750066518784</lon>
+
+							<typ>S</typ>
+                			<stpid>4519</stpid>
+                			<stpnm>Archer &amp; Leclaire</stpnm>
+                			<pdist>8167.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.797299836068</lat>
+						<lon>-87.752491235733</lon>
+
+							<typ>S</typ>
+                			<stpid>4520</stpid>
+                			<stpnm>Archer &amp; Laramie</stpnm>
+                			<pdist>8846.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.796935906616</lat>
+						<lon>-87.754921317101</lon>
+
+							<typ>S</typ>
+                			<stpid>4521</stpid>
+                			<stpnm>Archer &amp; Lockwood</stpnm>
+                			<pdist>9529.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.796739943747</lat>
+						<lon>-87.756224870682</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.796571975097</lat>
+						<lon>-87.75737285614</lon>
+
+							<typ>S</typ>
+                			<stpid>4522</stpid>
+                			<stpnm>Archer &amp; Long</stpnm>
+                			<pdist>10201.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.796372011845</lat>
+						<lon>-87.758740782738</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.796181666667</lat>
+						<lon>-87.759709999999</lon>
+
+							<typ>S</typ>
+                			<stpid>17573</stpid>
+                			<stpnm>Archer &amp; Linder</stpnm>
+                			<pdist>11068.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.795952086983</lat>
+						<lon>-87.761154770851</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.795768119034</lat>
+						<lon>-87.762190103531</lon>
+
+							<typ>S</typ>
+                			<stpid>4524</stpid>
+                			<stpnm>Archer &amp; Central</stpnm>
+                			<pdist>11554.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.795434999999</lat>
+						<lon>-87.764621666666</lon>
+
+							<typ>S</typ>
+                			<stpid>4525</stpid>
+                			<stpnm>Archer &amp; Major</stpnm>
+                			<pdist>12237.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.795068236143</lat>
+						<lon>-87.766996622086</lon>
+
+							<typ>S</typ>
+                			<stpid>4526</stpid>
+                			<stpnm>Archer &amp; Menard</stpnm>
+                			<pdist>12906.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.794695000001</lat>
+						<lon>-87.769468333334</lon>
+
+							<typ>S</typ>
+                			<stpid>17574</stpid>
+                			<stpnm>Archer &amp; Mayfield</stpnm>
+                			<pdist>13787.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.794292357033</lat>
+						<lon>-87.771899700165</lon>
+
+							<typ>S</typ>
+                			<stpid>17575</stpid>
+                			<stpnm>Archer &amp; Austin</stpnm>
+                			<pdist>14461.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.793896415105</lat>
+						<lon>-87.774378061295</lon>
+
+							<typ>S</typ>
+                			<stpid>4529</stpid>
+                			<stpnm>Archer &amp; Meade</stpnm>
+                			<pdist>14973.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.793540465223</lat>
+						<lon>-87.776851058006</lon>
+
+							<typ>S</typ>
+                			<stpid>4530</stpid>
+                			<stpnm>Archer &amp; Melvina</stpnm>
+                			<pdist>15657.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.793348491433</lat>
+						<lon>-87.777999043465</lon>
+
+							<typ>S</typ>
+                			<stpid>4531</stpid>
+                			<stpnm>Archer &amp; Merrimac</stpnm>
+                			<pdist>15963.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.793056530191</lat>
+						<lon>-87.779361605644</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.792744570135</lat>
+						<lon>-87.780472040176</lon>
+
+							<typ>S</typ>
+                			<stpid>17576</stpid>
+                			<stpnm>Archer &amp; Mulligan</stpnm>
+                			<pdist>16835.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.792368616254</lat>
+						<lon>-87.78185069561</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.792328621031</lat>
+						<lon>-87.784098386765</lon>
+
+							<typ>S</typ>
+                			<stpid>4535</stpid>
+                			<stpnm>Archer &amp; Natchez</stpnm>
+                			<pdist>17685.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.79230862341</lat>
+						<lon>-87.785375118256</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.792288625782</lat>
+						<lon>-87.786555290222</lon>
+
+							<typ>S</typ>
+                			<stpid>4536</stpid>
+                			<stpnm>Archer &amp; Nashville</stpnm>
+                			<pdist>18362.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.792264628621</lat>
+						<lon>-87.787869572639</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.792248630509</lat>
+						<lon>-87.78898537159</lon>
+
+							<typ>S</typ>
+                			<stpid>4537</stpid>
+                			<stpnm>Archer &amp; Normandy</stpnm>
+                			<pdist>19018.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.792220633803</lat>
+						<lon>-87.791436910629</lon>
+
+							<typ>S</typ>
+                			<stpid>4538</stpid>
+                			<stpnm>Archer &amp; Oak Park</stpnm>
+                			<pdist>19686.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.792172639421</lat>
+						<lon>-87.793899178505</lon>
+
+							<typ>S</typ>
+                			<stpid>4539</stpid>
+                			<stpnm>Archer &amp; New England</stpnm>
+                			<pdist>20359.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.792156641286</lat>
+						<lon>-87.794596552849</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.792100647781</lat>
+						<lon>-87.796313166618</lon>
+
+							<typ>S</typ>
+                			<stpid>4540</stpid>
+                			<stpnm>Archer &amp; Sayre</stpnm>
+                			<pdist>21019.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.792076650549</lat>
+						<lon>-87.797718644142</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.792044654227</lat>
+						<lon>-87.798834443092</lon>
+
+							<typ>S</typ>
+                			<stpid>4541</stpid>
+                			<stpnm>Archer &amp; Nottingham</stpnm>
+                			<pdist>21719.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.791964663351</lat>
+						<lon>-87.801709771156</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.791592704465</lat>
+						<lon>-87.80167222023</lon>
+
+							<typ>S</typ>
+                			<stpid>7693</stpid>
+                			<stpnm>Harlem &amp; Archer</stpnm>
+                			<pdist>22646.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.790284831893</lat>
+						<lon>-87.801581025124</lon>
+
+							<typ>S</typ>
+                			<stpid>7694</stpid>
+                			<stpnm>Harlem &amp; 56th Street</stpnm>
+                			<pdist>23099.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.788420967379</lat>
+						<lon>-87.801489830017</lon>
+
+							<typ>S</typ>
+                			<stpid>7695</stpid>
+                			<stpnm>Harlem &amp; 57th Street</stpnm>
+                			<pdist>23764.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.787429017388</lat>
+						<lon>-87.801473736763</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.78662104678</lat>
+						<lon>-87.801420092583</lon>
+
+							<typ>S</typ>
+                			<stpid>7696</stpid>
+                			<stpnm>Harlem &amp; 58th Street</stpnm>
+                			<pdist>24431.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.78473707576</lat>
+						<lon>-87.801339626312</lon>
+
+							<typ>S</typ>
+                			<stpid>7697</stpid>
+                			<stpnm>Harlem &amp; 59th Street</stpnm>
+                			<pdist>25078.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.782833048804</lat>
+						<lon>-87.801280617714</lon>
+
+							<typ>S</typ>
+                			<stpid>7698</stpid>
+                			<stpnm>Harlem &amp; 60th Street</stpnm>
+                			<pdist>25738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.781048972239</lat>
+						<lon>-87.801194787025</lon>
+
+							<typ>S</typ>
+                			<stpid>7699</stpid>
+                			<stpnm>Harlem &amp; 61st Street</stpnm>
+                			<pdist>26402.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.780016905286</lat>
+						<lon>-87.801162600517</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.779200840586</lat>
+						<lon>-87.801125049591</lon>
+
+							<typ>S</typ>
+                			<stpid>7700</stpid>
+                			<stpnm>Harlem &amp; 62nd Street</stpnm>
+                			<pdist>27087.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.777400661147</lat>
+						<lon>-87.800996303558</lon>
+
+							<typ>S</typ>
+                			<stpid>7701</stpid>
+                			<stpnm>Harlem &amp; 63rd Street</stpnm>
+                			<pdist>27730.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.777348655212</lat>
+						<lon>-87.803217172623</lon>
+
+							<typ>S</typ>
+                			<stpid>4686</stpid>
+                			<stpnm>63rd Street &amp; 73rd Avenue</stpnm>
+                			<pdist>28338.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.777296649235</lat>
+						<lon>-87.805657982826</lon>
+
+							<typ>S</typ>
+                			<stpid>4687</stpid>
+                			<stpnm>63rd Street &amp; 74th Avenue</stpnm>
+                			<pdist>28993.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.777256644609</lat>
+						<lon>-87.805910110474</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.777208639024</lat>
+						<lon>-87.808077335358</lon>
+
+							<typ>S</typ>
+                			<stpid>4688</stpid>
+                			<stpnm>63rd Street &amp; 75th Avenue</stpnm>
+                			<pdist>29669.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.777160633404</lat>
+						<lon>-87.809380888939</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.777140631051</lat>
+						<lon>-87.810448408127</lon>
+
+							<typ>S</typ>
+                			<stpid>4689</stpid>
+                			<stpnm>63rd Street &amp; 76th Avenue</stpnm>
+                			<pdist>30470.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.777060621579</lat>
+						<lon>-87.814616560936</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.77694860815</lat>
+						<lon>-87.814616560936</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.776944607667</lat>
+						<lon>-87.814498543739</lon>
+
+							<typ>S</typ>
+                			<stpid>15926</stpid>
+                			<stpnm>63rd Street &amp; Archer Terminal</stpnm>
+                			<pdist>31855.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>6137</pid>
+				<ln>32055.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.776944607667</lat>
+						<lon>-87.814498543739</lon>
+
+							<typ>S</typ>
+                			<stpid>15926</stpid>
+                			<stpnm>63rd Street &amp; Archer Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.777008615368</lat>
+						<lon>-87.814493179321</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.777004614889</lat>
+						<lon>-87.813881635666</lon>
+
+							<typ>S</typ>
+                			<stpid>4645</stpid>
+                			<stpnm>63rd Street &amp; Archer</stpnm>
+                			<pdist>270.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.777060621579</lat>
+						<lon>-87.810904383659</lon>
+
+							<typ>S</typ>
+                			<stpid>4646</stpid>
+                			<stpnm>63rd Street &amp; 76th Avenue</stpnm>
+                			<pdist>1068.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.777140631051</lat>
+						<lon>-87.808361649513</lon>
+
+							<typ>S</typ>
+                			<stpid>4647</stpid>
+                			<stpnm>63rd Street &amp; 75th Avenue</stpnm>
+                			<pdist>1732.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.777196637622</lat>
+						<lon>-87.805915474892</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.777148631993</lat>
+						<lon>-87.805818915367</lon>
+
+							<typ>S</typ>
+                			<stpid>4648</stpid>
+                			<stpnm>63rd Street &amp; 74th Avenue</stpnm>
+                			<pdist>2413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.77713663058</lat>
+						<lon>-87.804515361786</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.777148631993</lat>
+						<lon>-87.803410291672</lon>
+
+							<typ>S</typ>
+                			<stpid>4649</stpid>
+                			<stpnm>63rd Street &amp; 73rd Avenue</stpnm>
+                			<pdist>3073.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.777188636687</lat>
+						<lon>-87.801023125648</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.777188636687</lat>
+						<lon>-87.800722718239</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.777956721967</lat>
+						<lon>-87.800760269165</lon>
+
+							<typ>S</typ>
+                			<stpid>15272</stpid>
+                			<stpnm>Harlem &amp; 63rd Street</stpnm>
+                			<pdist>3952.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.778972820652</lat>
+						<lon>-87.800824642181</lon>
+
+							<typ>S</typ>
+                			<stpid>7703</stpid>
+                			<stpnm>Harlem &amp; 62nd Street</stpnm>
+                			<pdist>4373.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.780872961995</lat>
+						<lon>-87.800915837288</lon>
+
+							<typ>S</typ>
+                			<stpid>7704</stpid>
+                			<stpnm>Harlem &amp; 61st Street</stpnm>
+                			<pdist>5062.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.781869013596</lat>
+						<lon>-87.80093729496</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.782649043203</lat>
+						<lon>-87.801007032394</lon>
+
+							<typ>S</typ>
+                			<stpid>17383</stpid>
+                			<stpnm>Harlem &amp; 60th Street</stpnm>
+                			<pdist>5860.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.783789069406</lat>
+						<lon>-87.801039218903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.784945075279</lat>
+						<lon>-87.801114320755</lon>
+
+							<typ>S</typ>
+                			<stpid>7811</stpid>
+                			<stpnm>Harlem &amp; 59th Street</stpnm>
+                			<pdist>6651.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.78641705259</lat>
+						<lon>-87.801173329353</lon>
+
+							<typ>S</typ>
+                			<stpid>7812</stpid>
+                			<stpnm>Harlem &amp; 58th Street</stpnm>
+                			<pdist>7190.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.788224978476</lat>
+						<lon>-87.80126452446</lon>
+
+							<typ>S</typ>
+                			<stpid>7813</stpid>
+                			<stpnm>Harlem &amp; 57th Street</stpnm>
+                			<pdist>7805.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.790076849698</lat>
+						<lon>-87.801312804222</lon>
+
+							<typ>S</typ>
+                			<stpid>7659</stpid>
+                			<stpnm>Harlem &amp; 56th Street</stpnm>
+                			<pdist>8534.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.791368728181</lat>
+						<lon>-87.801355719566</lon>
+
+							<typ>S</typ>
+                			<stpid>7660</stpid>
+                			<stpnm>Harlem &amp; Archer</stpnm>
+                			<pdist>8991.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.791908669678</lat>
+						<lon>-87.80137181282</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.791968662897</lat>
+						<lon>-87.799226045609</lon>
+
+							<typ>S</typ>
+                			<stpid>4378</stpid>
+                			<stpnm>Archer &amp; Nottingham</stpnm>
+                			<pdist>9764.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.792020656974</lat>
+						<lon>-87.79764354229</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.792036655144</lat>
+						<lon>-87.796710133553</lon>
+
+							<typ>S</typ>
+                			<stpid>4379</stpid>
+                			<stpnm>Archer &amp; Sayre</stpnm>
+                			<pdist>10447.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.792112646393</lat>
+						<lon>-87.793781161308</lon>
+
+							<typ>S</typ>
+                			<stpid>15507</stpid>
+                			<stpnm>Archer &amp; New England</stpnm>
+                			<pdist>11277.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.792148642216</lat>
+						<lon>-87.791764140129</lon>
+
+							<typ>S</typ>
+                			<stpid>4381</stpid>
+                			<stpnm>Archer &amp; Oak Park</stpnm>
+                			<pdist>11785.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.792172639421</lat>
+						<lon>-87.789355516434</lon>
+
+							<typ>S</typ>
+                			<stpid>4382</stpid>
+                			<stpnm>Archer &amp; Normandy</stpnm>
+                			<pdist>12436.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.792220633803</lat>
+						<lon>-87.786877155304</lon>
+
+							<typ>S</typ>
+                			<stpid>4383</stpid>
+                			<stpnm>Archer &amp; Nashville</stpnm>
+                			<pdist>13115.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.792260629094</lat>
+						<lon>-87.784441709518</lon>
+
+							<typ>S</typ>
+                			<stpid>4384</stpid>
+                			<stpnm>Archer &amp; Natchez</stpnm>
+                			<pdist>13788.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.792296624834</lat>
+						<lon>-87.78177022934</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.792792564088</lat>
+						<lon>-87.780064344406</lon>
+
+							<typ>S</typ>
+                			<stpid>15388</stpid>
+                			<stpnm>Archer &amp; Mulligan</stpnm>
+                			<pdist>14820.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.79321250965</lat>
+						<lon>-87.778353095055</lon>
+
+							<typ>S</typ>
+                			<stpid>4386</stpid>
+                			<stpnm>Archer &amp; Merrimac</stpnm>
+                			<pdist>15486.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.793500470731</lat>
+						<lon>-87.776647210121</lon>
+
+							<typ>S</typ>
+                			<stpid>15454</stpid>
+                			<stpnm>Archer &amp; Melvina</stpnm>
+                			<pdist>15991.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.793780431653</lat>
+						<lon>-87.774651646614</lon>
+
+							<typ>S</typ>
+                			<stpid>17577</stpid>
+                			<stpnm>Archer &amp; Meade</stpnm>
+                			<pdist>16663.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.79416837548</lat>
+						<lon>-87.772285938263</lon>
+
+							<typ>S</typ>
+                			<stpid>4389</stpid>
+                			<stpnm>Archer &amp; Austin</stpnm>
+                			<pdist>17154.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.794584312646</lat>
+						<lon>-87.769759297371</lon>
+
+							<typ>S</typ>
+                			<stpid>4390</stpid>
+                			<stpnm>Archer &amp; Mayfield</stpnm>
+                			<pdist>17854.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.794808277693</lat>
+						<lon>-87.768391370773</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.794932258008</lat>
+						<lon>-87.767436504364</lon>
+
+							<typ>S</typ>
+                			<stpid>4391</stpid>
+                			<stpnm>Archer &amp; Menard</stpnm>
+                			<pdist>18519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.79533619221</lat>
+						<lon>-87.764797210693</lon>
+
+							<typ>S</typ>
+                			<stpid>4392</stpid>
+                			<stpnm>Archer &amp; Major</stpnm>
+                			<pdist>19227.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.795416178878</lat>
+						<lon>-87.764292955399</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.795636141702</lat>
+						<lon>-87.762651443481</lon>
+
+							<typ>S</typ>
+                			<stpid>4393</stpid>
+                			<stpnm>Archer &amp; Central</stpnm>
+                			<pdist>19852.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.795676134862</lat>
+						<lon>-87.762367129326</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.795904095395</lat>
+						<lon>-87.761144042015</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.796060067925</lat>
+						<lon>-87.760012149811</lon>
+
+							<typ>S</typ>
+                			<stpid>4394</stpid>
+                			<stpnm>Archer &amp; Linder</stpnm>
+                			<pdist>20545.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.796300024921</lat>
+						<lon>-87.758751511574</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.79645199722</lat>
+						<lon>-87.757683992386</lon>
+
+							<typ>S</typ>
+                			<stpid>4395</stpid>
+                			<stpnm>Archer &amp; Long</stpnm>
+                			<pdist>21229.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.79682792715</lat>
+						<lon>-87.75522172451</lon>
+
+							<typ>S</typ>
+                			<stpid>4396</stpid>
+                			<stpnm>Archer &amp; Lockwood</stpnm>
+                			<pdist>21896.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.797175860333</lat>
+						<lon>-87.752823829651</lon>
+
+							<typ>S</typ>
+                			<stpid>4397</stpid>
+                			<stpnm>Archer &amp; Laramie</stpnm>
+                			<pdist>22590.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.797575781198</lat>
+						<lon>-87.750329375267</lon>
+
+							<typ>S</typ>
+                			<stpid>4398</stpid>
+                			<stpnm>Archer &amp; Leclaire</stpnm>
+                			<pdist>23265.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.797775740695</lat>
+						<lon>-87.748923897743</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.797959702881</lat>
+						<lon>-87.747797369957</lon>
+
+							<typ>S</typ>
+                			<stpid>4400</stpid>
+                			<stpnm>Archer &amp; Lavergne</stpnm>
+                			<pdist>24093.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.798131667055</lat>
+						<lon>-87.746611833572</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.798295632466</lat>
+						<lon>-87.745426297188</lon>
+
+							<typ>S</typ>
+                			<stpid>4401</stpid>
+                			<stpnm>Archer &amp; Lamon</stpnm>
+                			<pdist>24762.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.798603566373</lat>
+						<lon>-87.743200063705</lon>
+
+							<typ>S</typ>
+                			<stpid>4402</stpid>
+                			<stpnm>Archer &amp; Cicero</stpnm>
+                			<pdist>25398.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.79862356203</lat>
+						<lon>-87.743049860001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.796691952749</lat>
+						<lon>-87.743006944656</lon>
+
+							<typ>S</typ>
+                			<stpid>10355</stpid>
+                			<stpnm>Cicero &amp; 53rd Street</stpnm>
+                			<pdist>26056.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.794824275167</lat>
+						<lon>-87.742958664894</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.794716292143</lat>
+						<lon>-87.742953300476</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.793488472379</lat>
+						<lon>-87.742336392403</lon>
+
+							<typ>S</typ>
+                			<stpid>4608</stpid>
+                			<stpnm>Cicero &amp; 55th Street</stpnm>
+                			<pdist>27271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.792632584103</lat>
+						<lon>-87.741912603378</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.792364616733</lat>
+						<lon>-87.74177312851</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.791552708758</lat>
+						<lon>-87.741703391075</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.78976487514</lat>
+						<lon>-87.741639018059</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.786161058964</lat>
+						<lon>-87.741483449936</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.785213073665</lat>
+						<lon>-87.741408348083</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.784973075163</lat>
+						<lon>-87.741429805756</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.784613075726</lat>
+						<lon>-87.741451263428</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.784357074896</lat>
+						<lon>-87.74152636528</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.784289074504</lat>
+						<lon>-87.741268873215</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.784289074504</lat>
+						<lon>-87.740668058395</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.784289074504</lat>
+						<lon>-87.739970684052</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.784333074766</lat>
+						<lon>-87.739654183388</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.784425075216</lat>
+						<lon>-87.739396691322</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.784629075744</lat>
+						<lon>-87.739160656929</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.784957075231</lat>
+						<lon>-87.738908529282</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.785281073077</lat>
+						<lon>-87.738645672798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.785469071076</lat>
+						<lon>-87.738431096077</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.785641068763</lat>
+						<lon>-87.738216519356</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.785717067594</lat>
+						<lon>-87.738055586815</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.786277056202</lat>
+						<lon>-87.738972902298</lon>
+
+							<typ>S</typ>
+                			<stpid>8759</stpid>
+                			<stpnm>Midway Orange Line Station</stpnm>
+                			<pdist>32055.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

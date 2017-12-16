@@ -1,0 +1,1731 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>2289</pid>
+				<ln>40924.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.9017859424</lat>
+						<lon>-87.775000333786</lon>
+
+							<typ>S</typ>
+                			<stpid>1970</stpid>
+                			<stpnm>Division &amp; Austin Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.901797920458</lat>
+						<lon>-87.774742841721</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.901989569092</lat>
+						<lon>-87.774732112885</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.902001547112</lat>
+						<lon>-87.773095965385</lon>
+
+							<typ>S</typ>
+                			<stpid>1971</stpid>
+                			<stpnm>Division &amp; Mayfield</stpnm>
+                			<pdist>552.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.902041473831</lat>
+						<lon>-87.770671248436</lon>
+
+							<typ>S</typ>
+                			<stpid>1972</stpid>
+                			<stpnm>Division &amp; Menard</stpnm>
+                			<pdist>1229.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.902053451842</lat>
+						<lon>-87.769281864166</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.902081400525</lat>
+						<lon>-87.768187522888</lon>
+
+							<typ>S</typ>
+                			<stpid>1973</stpid>
+                			<stpnm>Division &amp; Waller</stpnm>
+                			<pdist>1894.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.902109349196</lat>
+						<lon>-87.765784263611</lon>
+
+							<typ>S</typ>
+                			<stpid>1974</stpid>
+                			<stpnm>Division &amp; Central</stpnm>
+                			<pdist>2559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.902129312525</lat>
+						<lon>-87.763944268227</lon>
+
+							<typ>S</typ>
+                			<stpid>1975</stpid>
+                			<stpnm>Division &amp; Pine</stpnm>
+                			<pdist>3053.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.902173231826</lat>
+						<lon>-87.761047482491</lon>
+
+							<typ>S</typ>
+                			<stpid>1976</stpid>
+                			<stpnm>Division &amp; Long</stpnm>
+                			<pdist>3842.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.902185209812</lat>
+						<lon>-87.758343815804</lon>
+
+							<typ>S</typ>
+                			<stpid>1977</stpid>
+                			<stpnm>Division &amp; Lockwood</stpnm>
+                			<pdist>4571.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.902225136416</lat>
+						<lon>-87.75554895401</lon>
+
+							<typ>S</typ>
+                			<stpid>17186</stpid>
+                			<stpnm>Division &amp; Laramie</stpnm>
+                			<pdist>5358.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.902245099709</lat>
+						<lon>-87.75342464447</lon>
+
+							<typ>S</typ>
+                			<stpid>1979</stpid>
+                			<stpnm>Division &amp; Leclaire</stpnm>
+                			<pdist>5888.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.902273048308</lat>
+						<lon>-87.750576138496</lon>
+
+							<typ>S</typ>
+                			<stpid>15463</stpid>
+                			<stpnm>Division &amp; Lavergne</stpnm>
+                			<pdist>6701.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.902293011585</lat>
+						<lon>-87.748591303825</lon>
+
+							<typ>S</typ>
+                			<stpid>1981</stpid>
+                			<stpnm>Division &amp; Lamon</stpnm>
+                			<pdist>7215.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.902328945469</lat>
+						<lon>-87.745538949966</lon>
+
+							<typ>S</typ>
+                			<stpid>15191</stpid>
+                			<stpnm>Division &amp; Cicero</stpnm>
+                			<pdist>8042.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.902364879333</lat>
+						<lon>-87.74324297905</lon>
+
+							<typ>S</typ>
+                			<stpid>1983</stpid>
+                			<stpnm>4659 W Division</stpnm>
+                			<pdist>8565.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.902420776414</lat>
+						<lon>-87.739986777306</lon>
+
+							<typ>S</typ>
+                			<stpid>1984</stpid>
+                			<stpnm>Division &amp; Kolmar</stpnm>
+                			<pdist>9514.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.902436747</lat>
+						<lon>-87.738672494888</lon>
+
+							<typ>S</typ>
+                			<stpid>1985</stpid>
+                			<stpnm>Division &amp; Kilbourn</stpnm>
+                			<pdist>9890.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.902492644018</lat>
+						<lon>-87.736258506775</lon>
+
+							<typ>S</typ>
+                			<stpid>1986</stpid>
+                			<stpnm>Division &amp; Kostner</stpnm>
+                			<pdist>10561.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.90253257043</lat>
+						<lon>-87.73384988308</lon>
+
+							<typ>S</typ>
+                			<stpid>1987</stpid>
+                			<stpnm>Division &amp; Kildare</stpnm>
+                			<pdist>11232.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.902572496817</lat>
+						<lon>-87.731087207794</lon>
+
+							<typ>S</typ>
+                			<stpid>15805</stpid>
+                			<stpnm>Division &amp; Keeler</stpnm>
+                			<pdist>12068.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.902600445272</lat>
+						<lon>-87.728871703148</lon>
+
+							<typ>S</typ>
+                			<stpid>1989</stpid>
+                			<stpnm>Division &amp; Karlov</stpnm>
+                			<pdist>12564.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.902652349515</lat>
+						<lon>-87.726409435272</lon>
+
+							<typ>S</typ>
+                			<stpid>1990</stpid>
+                			<stpnm>Division &amp; Pulaski</stpnm>
+                			<pdist>13236.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.902656342147</lat>
+						<lon>-87.723979353905</lon>
+
+							<typ>S</typ>
+                			<stpid>1991</stpid>
+                			<stpnm>Division &amp; Springfield</stpnm>
+                			<pdist>13903.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.902684290567</lat>
+						<lon>-87.721527814865</lon>
+
+							<typ>S</typ>
+                			<stpid>1992</stpid>
+                			<stpnm>Division &amp; Hamlin</stpnm>
+                			<pdist>14568.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.902712238974</lat>
+						<lon>-87.719628810883</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.902704253716</lat>
+						<lon>-87.717933654785</lon>
+
+							<typ>S</typ>
+                			<stpid>1993</stpid>
+                			<stpnm>Division &amp; Grand/Monticello</stpnm>
+                			<pdist>15552.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.902724216858</lat>
+						<lon>-87.716656923294</lon>
+
+							<typ>S</typ>
+                			<stpid>1994</stpid>
+                			<stpnm>Division &amp; Central Park</stpnm>
+                			<pdist>15901.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.902732202114</lat>
+						<lon>-87.7145165205</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.902748172622</lat>
+						<lon>-87.711737751961</lon>
+
+							<typ>S</typ>
+                			<stpid>1996</stpid>
+                			<stpnm>Division &amp; Homan</stpnm>
+                			<pdist>17229.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.9027601505</lat>
+						<lon>-87.710562944412</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.902772128376</lat>
+						<lon>-87.709500789642</lon>
+
+							<typ>S</typ>
+                			<stpid>1997</stpid>
+                			<stpnm>Division &amp; Spaulding</stpnm>
+                			<pdist>17838.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.902780113625</lat>
+						<lon>-87.709216475487</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.902800076744</lat>
+						<lon>-87.707017064095</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.9027601505</lat>
+						<lon>-87.706754207611</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.9027601505</lat>
+						<lon>-87.706641554832</lon>
+
+							<typ>S</typ>
+                			<stpid>14570</stpid>
+                			<stpnm>Division &amp; Kedzie</stpnm>
+                			<pdist>18726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.902788098874</lat>
+						<lon>-87.70368039608</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.902800076744</lat>
+						<lon>-87.702484130859</lon>
+
+							<typ>S</typ>
+                			<stpid>15829</stpid>
+                			<stpnm>Division &amp; Humboldt</stpnm>
+                			<pdist>19755.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.902796084121</lat>
+						<lon>-87.702258825302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.902851980825</lat>
+						<lon>-87.702108621597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.902859966064</lat>
+						<lon>-87.700687050819</lon>
+
+							<typ>S</typ>
+                			<stpid>2000</stpid>
+                			<stpnm>Division &amp; Richmond</stpnm>
+                			<pdist>20231.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.902867951302</lat>
+						<lon>-87.699458599091</lon>
+
+							<typ>S</typ>
+                			<stpid>2001</stpid>
+                			<stpnm>Division &amp; Francisco</stpnm>
+                			<pdist>20561.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.902903884863</lat>
+						<lon>-87.69651889801</lon>
+
+							<typ>S</typ>
+                			<stpid>15014</stpid>
+                			<stpnm>Division &amp; California</stpnm>
+                			<pdist>21413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.902919855328</lat>
+						<lon>-87.694517970085</lon>
+
+							<typ>S</typ>
+                			<stpid>2003</stpid>
+                			<stpnm>Division &amp; Washtenaw</stpnm>
+                			<pdist>21901.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.902935825788</lat>
+						<lon>-87.691690921783</lon>
+
+							<typ>S</typ>
+                			<stpid>2004</stpid>
+                			<stpnm>Division &amp; Rockwell</stpnm>
+                			<pdist>22586.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.902951796245</lat>
+						<lon>-87.689614892006</lon>
+
+							<typ>S</typ>
+                			<stpid>2005</stpid>
+                			<stpnm>Division &amp; Campbell</stpnm>
+                			<pdist>23266.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.90299172237</lat>
+						<lon>-87.686862945557</lon>
+
+							<typ>S</typ>
+                			<stpid>14596</stpid>
+                			<stpnm>Division &amp; Western</stpnm>
+                			<pdist>24112.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.903015678033</lat>
+						<lon>-87.684722542763</lon>
+
+							<typ>S</typ>
+                			<stpid>2007</stpid>
+                			<stpnm>Division &amp; Oakley</stpnm>
+                			<pdist>24593.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.903071574544</lat>
+						<lon>-87.681959867477</lon>
+
+							<typ>S</typ>
+                			<stpid>14565</stpid>
+                			<stpnm>Division &amp; Leavitt</stpnm>
+                			<pdist>25406.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.903111500594</lat>
+						<lon>-87.67983019352</lon>
+
+							<typ>S</typ>
+                			<stpid>2009</stpid>
+                			<stpnm>Division &amp; Hoyne</stpnm>
+                			<pdist>25918.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.90315541922</lat>
+						<lon>-87.676960229874</lon>
+
+							<typ>S</typ>
+                			<stpid>14776</stpid>
+                			<stpnm>Division &amp; Damen</stpnm>
+                			<pdist>26745.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.903191352618</lat>
+						<lon>-87.674921751022</lon>
+
+							<typ>S</typ>
+                			<stpid>2011</stpid>
+                			<stpnm>Division &amp; Wolcott</stpnm>
+                			<pdist>27235.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.903235271189</lat>
+						<lon>-87.672550678253</lon>
+
+							<typ>S</typ>
+                			<stpid>17131</stpid>
+                			<stpnm>Division &amp; Wood</stpnm>
+                			<pdist>28027.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.903267211949</lat>
+						<lon>-87.670474648476</lon>
+
+							<typ>S</typ>
+                			<stpid>2013</stpid>
+                			<stpnm>Division &amp; Paulina</stpnm>
+                			<pdist>28558.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.903303145285</lat>
+						<lon>-87.667728066444</lon>
+
+							<typ>S</typ>
+                			<stpid>2014</stpid>
+                			<stpnm>Division &amp; Ashland (Blue Line)</stpnm>
+                			<pdist>29195.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.903331093421</lat>
+						<lon>-87.66594171524</lon>
+
+							<typ>S</typ>
+                			<stpid>16081</stpid>
+                			<stpnm>Division &amp; Milwaukee (Blue Line)</stpnm>
+                			<pdist>29714.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.90334307119</lat>
+						<lon>-87.663570642471</lon>
+
+							<typ>S</typ>
+                			<stpid>15372</stpid>
+                			<stpnm>Division &amp; Cleaver</stpnm>
+                			<pdist>30344.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.903375011896</lat>
+						<lon>-87.661746740341</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.903442885843</lat>
+						<lon>-87.658420801163</lon>
+
+							<typ>S</typ>
+                			<stpid>2020</stpid>
+                			<stpnm>Division &amp; Elston</stpnm>
+                			<pdist>31561.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.903506767139</lat>
+						<lon>-87.655609846115</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.903510759717</lat>
+						<lon>-87.654258012772</lon>
+
+							<typ>S</typ>
+                			<stpid>2022</stpid>
+                			<stpnm>Division &amp; Cherry</stpnm>
+                			<pdist>32850.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.903534715186</lat>
+						<lon>-87.652514576912</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.903566655796</lat>
+						<lon>-87.651125192642</lon>
+
+							<typ>S</typ>
+                			<stpid>15374</stpid>
+                			<stpnm>Division &amp; Hooker</stpnm>
+                			<pdist>33682.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.903614566681</lat>
+						<lon>-87.648169398308</lon>
+
+							<typ>S</typ>
+                			<stpid>17184</stpid>
+                			<stpnm>Division &amp; Halsted</stpnm>
+                			<pdist>34600.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.903682440373</lat>
+						<lon>-87.643668651581</lon>
+
+							<typ>S</typ>
+                			<stpid>2028</stpid>
+                			<stpnm>Division &amp; Larrabee</stpnm>
+                			<pdist>35743.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.903718373475</lat>
+						<lon>-87.64130294323</lon>
+
+							<typ>S</typ>
+                			<stpid>2029</stpid>
+                			<stpnm>Division &amp; Cleveland</stpnm>
+                			<pdist>36302.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.903738336301</lat>
+						<lon>-87.638958692551</lon>
+
+							<typ>S</typ>
+                			<stpid>2030</stpid>
+                			<stpnm>Division &amp; Clybourn</stpnm>
+                			<pdist>36924.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.903790239619</lat>
+						<lon>-87.636029720306</lon>
+
+							<typ>S</typ>
+                			<stpid>2032</stpid>
+                			<stpnm>311 W Division</stpnm>
+                			<pdist>37721.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.903822180101</lat>
+						<lon>-87.634672522545</lon>
+
+							<typ>S</typ>
+                			<stpid>2033</stpid>
+                			<stpnm>Division &amp; Wells</stpnm>
+                			<pdist>38134.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.903834157778</lat>
+						<lon>-87.633326053619</lon>
+
+							<typ>S</typ>
+                			<stpid>2034</stpid>
+                			<stpnm>Division &amp; LaSalle</stpnm>
+                			<pdist>38549.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.903842142894</lat>
+						<lon>-87.633036375046</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.901797920458</lat>
+						<lon>-87.632977366447</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.901825869253</lat>
+						<lon>-87.630080580711</lon>
+
+							<typ>S</typ>
+                			<stpid>17683</stpid>
+                			<stpnm>Maple &amp; Dearborn</stpnm>
+                			<pdist>40043.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.901829861937</lat>
+						<lon>-87.629973292351</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.899849460032</lat>
+						<lon>-87.629914283752</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.899845467224</lat>
+						<lon>-87.630005478859</lon>
+
+							<typ>S</typ>
+                			<stpid>1896</stpid>
+                			<stpnm>Walton &amp; Dearborn</stpnm>
+                			<pdist>40924.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>2291</pid>
+				<ln>40670.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.899845467224</lat>
+						<lon>-87.630005478859</lon>
+
+							<typ>S</typ>
+                			<stpid>1896</stpid>
+                			<stpnm>Walton &amp; Dearborn</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.899825503182</lat>
+						<lon>-87.63128221035</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.900464349456</lat>
+						<lon>-87.631303668022</lon>
+
+							<typ>S</typ>
+                			<stpid>1897</stpid>
+                			<stpnm>Clark &amp; Oak</stpnm>
+                			<pdist>481.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.900572154135</lat>
+						<lon>-87.631325125694</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.900592117944</lat>
+						<lon>-87.632714509964</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.901841839988</lat>
+						<lon>-87.63275206089</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.903910016345</lat>
+						<lon>-87.632827162743</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.903902031236</lat>
+						<lon>-87.633390426636</lon>
+
+							<typ>S</typ>
+                			<stpid>17684</stpid>
+                			<stpnm>Division &amp; LaSalle</stpnm>
+                			<pdist>2244.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.903878075906</lat>
+						<lon>-87.634913921356</lon>
+
+							<typ>S</typ>
+                			<stpid>15676</stpid>
+                			<stpnm>Division &amp; Wells</stpnm>
+                			<pdist>2693.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.903842142894</lat>
+						<lon>-87.636560797691</lon>
+
+							<typ>S</typ>
+                			<stpid>2041</stpid>
+                			<stpnm>300 W Division</stpnm>
+                			<pdist>3154.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.903814194982</lat>
+						<lon>-87.638272047043</lon>
+
+							<typ>S</typ>
+                			<stpid>2042</stpid>
+                			<stpnm>Division &amp; Sedgwick</stpnm>
+                			<pdist>3580.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.903798224741</lat>
+						<lon>-87.640031576157</lon>
+
+							<typ>S</typ>
+                			<stpid>2043</stpid>
+                			<stpnm>Division &amp; Clybourn</stpnm>
+                			<pdist>4148.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.903754306557</lat>
+						<lon>-87.643566727638</lon>
+
+							<typ>S</typ>
+                			<stpid>17740</stpid>
+                			<stpnm>Division &amp; Larrabee</stpnm>
+                			<pdist>4772.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.903678447805</lat>
+						<lon>-87.648083567619</lon>
+
+							<typ>S</typ>
+                			<stpid>2048</stpid>
+                			<stpnm>Division &amp; Halsted</stpnm>
+                			<pdist>6207.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.903634529539</lat>
+						<lon>-87.649928927422</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.903630536968</lat>
+						<lon>-87.650953531265</lon>
+
+							<typ>S</typ>
+                			<stpid>15368</stpid>
+                			<stpnm>Division &amp; Hooker</stpnm>
+                			<pdist>7180.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.903570648371</lat>
+						<lon>-87.65401661396</lon>
+
+							<typ>S</typ>
+                			<stpid>2051</stpid>
+                			<stpnm>Division &amp; Cherry</stpnm>
+                			<pdist>7805.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.90356266322</lat>
+						<lon>-87.655845880508</lon>
+
+							<typ>S</typ>
+                			<stpid>15369</stpid>
+                			<stpnm>Division &amp; North Branch</stpnm>
+                			<pdist>8364.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.9034947894</lat>
+						<lon>-87.658914327621</lon>
+
+							<typ>S</typ>
+                			<stpid>2053</stpid>
+                			<stpnm>Division &amp; Elston</stpnm>
+                			<pdist>9236.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.903466841336</lat>
+						<lon>-87.66006231308</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.903438893259</lat>
+						<lon>-87.662428021431</lon>
+
+							<typ>S</typ>
+                			<stpid>2055</stpid>
+                			<stpnm>Division &amp; Noble</stpnm>
+                			<pdist>10118.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.903410945171</lat>
+						<lon>-87.663715481758</lon>
+
+							<typ>S</typ>
+                			<stpid>2056</stpid>
+                			<stpnm>Division &amp; Cleaver</stpnm>
+                			<pdist>10434.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.903371019308</lat>
+						<lon>-87.667298913002</lon>
+
+							<typ>S</typ>
+                			<stpid>2059</stpid>
+                			<stpnm>Division &amp; Ashland (Blue Line)</stpnm>
+                			<pdist>11382.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.903359041545</lat>
+						<lon>-87.667937278748</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.903327100831</lat>
+						<lon>-87.670302987099</lon>
+
+							<typ>S</typ>
+                			<stpid>2060</stpid>
+                			<stpnm>Division &amp; Paulina</stpnm>
+                			<pdist>12209.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.903299152693</lat>
+						<lon>-87.672207355499</lon>
+
+							<typ>S</typ>
+                			<stpid>2061</stpid>
+                			<stpnm>Division &amp; Wood</stpnm>
+                			<pdist>12728.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.903271204543</lat>
+						<lon>-87.674637436867</lon>
+
+							<typ>S</typ>
+                			<stpid>2062</stpid>
+                			<stpnm>Division &amp; Wolcott</stpnm>
+                			<pdist>13413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.903219300803</lat>
+						<lon>-87.676960229874</lon>
+
+							<typ>S</typ>
+                			<stpid>2063</stpid>
+                			<stpnm>Division &amp; Damen</stpnm>
+                			<pdist>14075.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.903167397021</lat>
+						<lon>-87.679497599602</lon>
+
+							<typ>S</typ>
+                			<stpid>2064</stpid>
+                			<stpnm>Division &amp; Hoyne</stpnm>
+                			<pdist>14743.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.903135456212</lat>
+						<lon>-87.681916952133</lon>
+
+							<typ>S</typ>
+                			<stpid>2065</stpid>
+                			<stpnm>Division &amp; Leavitt</stpnm>
+                			<pdist>15406.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.903087544967</lat>
+						<lon>-87.684379220009</lon>
+
+							<typ>S</typ>
+                			<stpid>2066</stpid>
+                			<stpnm>Division &amp; Oakley</stpnm>
+                			<pdist>16074.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.903059596724</lat>
+						<lon>-87.68674492836</lon>
+
+							<typ>S</typ>
+                			<stpid>14569</stpid>
+                			<stpnm>Division &amp; Western</stpnm>
+                			<pdist>16959.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.903019670642</lat>
+						<lon>-87.689314484596</lon>
+
+							<typ>S</typ>
+                			<stpid>2068</stpid>
+                			<stpnm>Division &amp; Campbell</stpnm>
+                			<pdist>17421.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.902995714981</lat>
+						<lon>-87.691749930382</lon>
+
+							<typ>S</typ>
+                			<stpid>2069</stpid>
+                			<stpnm>Division &amp; Rockwell</stpnm>
+                			<pdist>18097.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.902987729759</lat>
+						<lon>-87.694298028946</lon>
+
+							<typ>S</typ>
+                			<stpid>2070</stpid>
+                			<stpnm>Division &amp; Washtenaw</stpnm>
+                			<pdist>18765.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.902951796245</lat>
+						<lon>-87.696749567986</lon>
+
+							<typ>S</typ>
+                			<stpid>14597</stpid>
+                			<stpnm>Division &amp; California</stpnm>
+                			<pdist>19609.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.902927840559</lat>
+						<lon>-87.699426412582</lon>
+
+							<typ>S</typ>
+                			<stpid>2072</stpid>
+                			<stpnm>Division &amp; Francisco</stpnm>
+                			<pdist>20163.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.902915862712</lat>
+						<lon>-87.700628042221</lon>
+
+							<typ>S</typ>
+                			<stpid>2073</stpid>
+                			<stpnm>Division &amp; Richmond</stpnm>
+                			<pdist>20498.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.902911870096</lat>
+						<lon>-87.702140808105</lon>
+
+							<typ>S</typ>
+                			<stpid>2074</stpid>
+                			<stpnm>Division &amp; Humboldt</stpnm>
+                			<pdist>20899.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.902951796245</lat>
+						<lon>-87.702301740646</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.902947803631</lat>
+						<lon>-87.702704071999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.902919855328</lat>
+						<lon>-87.705493569374</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.902903884863</lat>
+						<lon>-87.706673741341</lon>
+
+							<typ>S</typ>
+                			<stpid>2075</stpid>
+                			<stpnm>Division &amp; Kedzie</stpnm>
+                			<pdist>22311.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.902867951302</lat>
+						<lon>-87.70694732666</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.902840002964</lat>
+						<lon>-87.709055542946</lon>
+
+							<typ>S</typ>
+                			<stpid>2076</stpid>
+                			<stpnm>Division &amp; Spaulding</stpnm>
+                			<pdist>22816.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.902812054613</lat>
+						<lon>-87.711431980133</lon>
+
+							<typ>S</typ>
+                			<stpid>14571</stpid>
+                			<stpnm>Division &amp; Homan</stpnm>
+                			<pdist>23658.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.902784106249</lat>
+						<lon>-87.71666765213</lon>
+
+							<typ>S</typ>
+                			<stpid>2079</stpid>
+                			<stpnm>Division &amp; Central Park</stpnm>
+                			<pdist>24739.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.9027601505</lat>
+						<lon>-87.717971205711</lon>
+
+							<typ>S</typ>
+                			<stpid>15042</stpid>
+                			<stpnm>Division &amp; Grand/Monticello</stpnm>
+                			<pdist>25317.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.902768135751</lat>
+						<lon>-87.720068693161</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.902744179995</lat>
+						<lon>-87.721554636955</lon>
+
+							<typ>S</typ>
+                			<stpid>2081</stpid>
+                			<stpnm>Division &amp; Hamlin</stpnm>
+                			<pdist>26028.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.902724216858</lat>
+						<lon>-87.723990082741</lon>
+
+							<typ>S</typ>
+                			<stpid>2082</stpid>
+                			<stpnm>Division &amp; Springfield</stpnm>
+                			<pdist>26707.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.902708246345</lat>
+						<lon>-87.726420164108</lon>
+
+							<typ>S</typ>
+                			<stpid>2083</stpid>
+                			<stpnm>Division &amp; Pulaski</stpnm>
+                			<pdist>27375.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.902664327411</lat>
+						<lon>-87.728898525238</lon>
+
+							<typ>S</typ>
+                			<stpid>2084</stpid>
+                			<stpnm>Division &amp; Karlov</stpnm>
+                			<pdist>28043.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.902628393716</lat>
+						<lon>-87.731114029884</lon>
+
+							<typ>S</typ>
+                			<stpid>2085</stpid>
+                			<stpnm>Division &amp; Keeler</stpnm>
+                			<pdist>28711.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.902596452637</lat>
+						<lon>-87.73384988308</lon>
+
+							<typ>S</typ>
+                			<stpid>2086</stpid>
+                			<stpnm>Division &amp; Kildare</stpnm>
+                			<pdist>29373.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.902560518903</lat>
+						<lon>-87.735840082169</lon>
+
+							<typ>S</typ>
+                			<stpid>2087</stpid>
+                			<stpnm>Division &amp; Kostner</stpnm>
+                			<pdist>30034.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.902488651376</lat>
+						<lon>-87.73896753788</lon>
+
+							<typ>S</typ>
+                			<stpid>15962</stpid>
+                			<stpnm>Division &amp; Kilbourn</stpnm>
+                			<pdist>30853.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.90248066609</lat>
+						<lon>-87.739825844765</lon>
+
+							<typ>S</typ>
+                			<stpid>2089</stpid>
+                			<stpnm>Division &amp; Kolmar</stpnm>
+                			<pdist>31054.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.902420776414</lat>
+						<lon>-87.743747234344</lon>
+
+							<typ>S</typ>
+                			<stpid>2090</stpid>
+                			<stpnm>4659 W Division</stpnm>
+                			<pdist>32156.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.902372864633</lat>
+						<lon>-87.746316790581</lon>
+
+							<typ>S</typ>
+                			<stpid>16095</stpid>
+                			<stpnm>Division &amp; Cicero</stpnm>
+                			<pdist>32862.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.902352901381</lat>
+						<lon>-87.74871468544</lon>
+
+							<typ>S</typ>
+                			<stpid>2092</stpid>
+                			<stpnm>Division &amp; Lamon</stpnm>
+                			<pdist>33342.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.902328945469</lat>
+						<lon>-87.750597596169</lon>
+
+							<typ>S</typ>
+                			<stpid>2093</stpid>
+                			<stpnm>Division &amp; Lavergne</stpnm>
+                			<pdist>34019.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.902304989549</lat>
+						<lon>-87.753440737724</lon>
+
+							<typ>S</typ>
+                			<stpid>2094</stpid>
+                			<stpnm>Division &amp; Leclaire</stpnm>
+                			<pdist>34679.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.902273048308</lat>
+						<lon>-87.756101489067</lon>
+
+							<typ>S</typ>
+                			<stpid>17185</stpid>
+                			<stpnm>Division &amp; Laramie</stpnm>
+                			<pdist>35488.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.902245099709</lat>
+						<lon>-87.758359909058</lon>
+
+							<typ>S</typ>
+                			<stpid>2096</stpid>
+                			<stpnm>Division &amp; Lockwood</stpnm>
+                			<pdist>35979.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.902225136416</lat>
+						<lon>-87.761047482491</lon>
+
+							<typ>S</typ>
+                			<stpid>2097</stpid>
+                			<stpnm>Division &amp; Long</stpnm>
+                			<pdist>36729.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.902189202474</lat>
+						<lon>-87.763949632645</lon>
+
+							<typ>S</typ>
+                			<stpid>2098</stpid>
+                			<stpnm>Division &amp; Pine</stpnm>
+                			<pdist>37497.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.902169239163</lat>
+						<lon>-87.765784263611</lon>
+
+							<typ>S</typ>
+                			<stpid>2099</stpid>
+                			<stpnm>Division &amp; Central</stpnm>
+                			<pdist>38004.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.902141290519</lat>
+						<lon>-87.768214344978</lon>
+
+							<typ>S</typ>
+                			<stpid>2100</stpid>
+                			<stpnm>Division &amp; Waller</stpnm>
+                			<pdist>38679.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.902105356529</lat>
+						<lon>-87.77063369751</lon>
+
+							<typ>S</typ>
+                			<stpid>2101</stpid>
+                			<stpnm>Division &amp; Menard</stpnm>
+                			<pdist>39327.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.902057444512</lat>
+						<lon>-87.773042321205</lon>
+
+							<typ>S</typ>
+                			<stpid>2102</stpid>
+                			<stpnm>Division &amp; Mayfield</stpnm>
+                			<pdist>39986.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.902053451842</lat>
+						<lon>-87.775107622147</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.9017859424</lat>
+						<lon>-87.775107622147</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.9017859424</lat>
+						<lon>-87.775000333786</lon>
+
+							<typ>S</typ>
+                			<stpid>1970</stpid>
+                			<stpnm>Division &amp; Austin Terminal</stpnm>
+                			<pdist>40670.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

@@ -1,0 +1,3597 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4645</pid>
+				<ln>67289.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.768803107361</lat>
+						<lon>-87.625724673271</lon>
+
+							<typ>S</typ>
+                			<stpid>14139</stpid>
+                			<stpnm>69th Red Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.768803107361</lat>
+						<lon>-87.625418901443</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.769107181968</lat>
+						<lon>-87.625418901443</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.769103180996</lat>
+						<lon>-87.625300884247</lon>
+
+							<typ>S</typ>
+                			<stpid>10178</stpid>
+                			<stpnm>69th Red Line Station</stpnm>
+                			<pdist>471.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.769103180996</lat>
+						<lon>-87.624619603157</lon>
+
+							<typ>S</typ>
+                			<stpid>10179</stpid>
+                			<stpnm>69th Street &amp; State</stpnm>
+                			<pdist>831.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.769103180996</lat>
+						<lon>-87.624351382256</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.769131187797</lat>
+						<lon>-87.624174356461</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.769151192647</lat>
+						<lon>-87.623509168625</lon>
+
+							<typ>S</typ>
+                			<stpid>7215</stpid>
+                			<stpnm>69th Street &amp; Wabash</stpnm>
+                			<pdist>1075.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.769179199427</lat>
+						<lon>-87.621910572052</lon>
+
+							<typ>S</typ>
+                			<stpid>7216</stpid>
+                			<stpnm>69th Street &amp; Michigan</stpnm>
+                			<pdist>1514.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.769211207161</lat>
+						<lon>-87.620344161987</lon>
+
+							<typ>S</typ>
+                			<stpid>7217</stpid>
+                			<stpnm>69th Street &amp; Indiana</stpnm>
+                			<pdist>1967.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.769243214878</lat>
+						<lon>-87.618697285652</lon>
+
+							<typ>S</typ>
+                			<stpid>7218</stpid>
+                			<stpnm>69th Street &amp; Prairie</stpnm>
+                			<pdist>2413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.769279223542</lat>
+						<lon>-87.617061138153</lon>
+
+							<typ>S</typ>
+                			<stpid>7219</stpid>
+                			<stpnm>69th Street &amp; Calumet</stpnm>
+                			<pdist>2859.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.769299228346</lat>
+						<lon>-87.61548936367</lon>
+
+							<typ>S</typ>
+                			<stpid>7220</stpid>
+                			<stpnm>69th Street &amp; King Drive</stpnm>
+                			<pdist>3301.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.769331236019</lat>
+						<lon>-87.614051699638</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.769367244633</lat>
+						<lon>-87.613772749901</lon>
+
+							<typ>S</typ>
+                			<stpid>7221</stpid>
+                			<stpnm>69th Street &amp; Anthony</stpnm>
+                			<pdist>3804.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.7694872732</lat>
+						<lon>-87.613531351089</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.77050750695</lat>
+						<lon>-87.612195611</lon>
+
+							<typ>S</typ>
+                			<stpid>7222</stpid>
+                			<stpnm>Keefe &amp; South Chicago</stpnm>
+                			<pdist>4358.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.770919596766</lat>
+						<lon>-87.611734271049</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.77099161219</lat>
+						<lon>-87.611728906631</lon>
+
+							<typ>S</typ>
+                			<stpid>10180</stpid>
+                			<stpnm>Rhodes &amp; 68th Street</stpnm>
+                			<pdist>4646.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.772851982628</lat>
+						<lon>-87.611782550812</lon>
+
+							<typ>S</typ>
+                			<stpid>10181</stpid>
+                			<stpnm>Rhodes &amp; 67th Street</stpnm>
+                			<pdist>5304.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.772988007597</lat>
+						<lon>-87.611782550812</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.773012011973</lat>
+						<lon>-87.610768675804</lon>
+
+							<typ>S</typ>
+                			<stpid>10182</stpid>
+                			<stpnm>67th Street &amp; St. Lawrence</stpnm>
+                			<pdist>5619.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.773056019973</lat>
+						<lon>-87.608370780945</lon>
+
+							<typ>S</typ>
+                			<stpid>10183</stpid>
+                			<stpnm>67th Street &amp; Langley</stpnm>
+                			<pdist>6275.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.773112030111</lat>
+						<lon>-87.605929970741</lon>
+
+							<typ>S</typ>
+                			<stpid>10184</stpid>
+                			<stpnm>67th Street &amp; Cottage Grove</stpnm>
+                			<pdist>6925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.773144035883</lat>
+						<lon>-87.603430151939</lon>
+
+							<typ>S</typ>
+                			<stpid>10185</stpid>
+                			<stpnm>67th Street &amp; Drexel</stpnm>
+                			<pdist>7654.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.773160038762</lat>
+						<lon>-87.602217793465</lon>
+
+							<typ>S</typ>
+                			<stpid>10186</stpid>
+                			<stpnm>67th Street &amp; Ingleside</stpnm>
+                			<pdist>7990.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.773164039481</lat>
+						<lon>-87.601000070572</lon>
+
+							<typ>S</typ>
+                			<stpid>10187</stpid>
+                			<stpnm>67th Street &amp; Ellis</stpnm>
+                			<pdist>8325.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.773164039481</lat>
+						<lon>-87.599809169769</lon>
+
+							<typ>S</typ>
+                			<stpid>10188</stpid>
+                			<stpnm>67th Street &amp; Greenwood</stpnm>
+                			<pdist>8626.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.773176041638</lat>
+						<lon>-87.598478794098</lon>
+
+							<typ>S</typ>
+                			<stpid>10189</stpid>
+                			<stpnm>67th Street &amp; University</stpnm>
+                			<pdist>8997.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.773192044509</lat>
+						<lon>-87.597244977951</lon>
+
+							<typ>S</typ>
+                			<stpid>10190</stpid>
+                			<stpnm>67th Street &amp; Minerva</stpnm>
+                			<pdist>9331.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.773208047377</lat>
+						<lon>-87.595984339714</lon>
+
+							<typ>S</typ>
+                			<stpid>10191</stpid>
+                			<stpnm>67th Street &amp; Woodlawn</stpnm>
+                			<pdist>9667.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.773216048809</lat>
+						<lon>-87.594450116158</lon>
+
+							<typ>S</typ>
+                			<stpid>10192</stpid>
+                			<stpnm>67th Street &amp; Kimbark</stpnm>
+                			<pdist>10094.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.773232051671</lat>
+						<lon>-87.593023180962</lon>
+
+							<typ>S</typ>
+                			<stpid>10193</stpid>
+                			<stpnm>67th Street &amp; Kenwood</stpnm>
+                			<pdist>10529.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.7732400531</lat>
+						<lon>-87.591542601585</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.773536105284</lat>
+						<lon>-87.591467499733</lon>
+
+							<typ>S</typ>
+                			<stpid>17701</stpid>
+                			<stpnm>Dorchester &amp; 67th Street</stpnm>
+                			<pdist>11030.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.775072354133</lat>
+						<lon>-87.591118812561</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.775108359524</lat>
+						<lon>-87.588940858841</lon>
+
+							<typ>S</typ>
+                			<stpid>17702</stpid>
+                			<stpnm>Marquette &amp; Blackstone</stpnm>
+                			<pdist>12191.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.775140364299</lat>
+						<lon>-87.586365938187</lon>
+
+							<typ>S</typ>
+                			<stpid>17703</stpid>
+                			<stpnm>Marquette &amp; Stony Island</stpnm>
+                			<pdist>12850.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.775160367275</lat>
+						<lon>-87.58513212204</lon>
+
+							<typ>S</typ>
+                			<stpid>17704</stpid>
+                			<stpnm>Marquette &amp; Cornell</stpnm>
+                			<pdist>13238.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.775216375576</lat>
+						<lon>-87.584654688835</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.775340393781</lat>
+						<lon>-87.583989500999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.775464411747</lat>
+						<lon>-87.583538889885</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.775560425492</lat>
+						<lon>-87.583109736443</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.775624434575</lat>
+						<lon>-87.582669854164</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.77562843514</lat>
+						<lon>-87.58227288723</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.775596430609</lat>
+						<lon>-87.581505775452</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.775596430609</lat>
+						<lon>-87.581103444099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.775636436271</lat>
+						<lon>-87.580642104149</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.775696444717</lat>
+						<lon>-87.580196857452</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.775796458669</lat>
+						<lon>-87.579655051231</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.775864468067</lat>
+						<lon>-87.578855752945</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.775896472465</lat>
+						<lon>-87.578094005585</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.775772455335</lat>
+						<lon>-87.577085494995</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.775356396113</lat>
+						<lon>-87.575325965881</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.775228377348</lat>
+						<lon>-87.575363516808</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.775012345103</lat>
+						<lon>-87.575481534004</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.77479631213</lat>
+						<lon>-87.575680017471</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.774536271475</lat>
+						<lon>-87.575953602791</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.774212219337</lat>
+						<lon>-87.576296925545</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.774032189664</lat>
+						<lon>-87.576441764832</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.773872162864</lat>
+						<lon>-87.576516866684</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.773764144548</lat>
+						<lon>-87.576495409012</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.77341208359</lat>
+						<lon>-87.576516866684</lon>
+
+							<typ>S</typ>
+                			<stpid>5209</stpid>
+                			<stpnm>Jeffery &amp; 67th Street</stpnm>
+                			<pdist>16863.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.771499718719</lat>
+						<lon>-87.576479315758</lon>
+
+							<typ>S</typ>
+                			<stpid>5210</stpid>
+                			<stpnm>Jeffery &amp; 68th Street</stpnm>
+                			<pdist>17462.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.769691321248</lat>
+						<lon>-87.576452493668</lon>
+
+							<typ>S</typ>
+                			<stpid>5211</stpid>
+                			<stpnm>Jeffery &amp; 69th Street</stpnm>
+                			<pdist>18135.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.767894875941</lat>
+						<lon>-87.576393485069</lon>
+
+							<typ>S</typ>
+                			<stpid>5212</stpid>
+                			<stpnm>Jeffery &amp; 70th Street</stpnm>
+                			<pdist>18800.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.766302439156</lat>
+						<lon>-87.576355934143</lon>
+
+							<typ>S</typ>
+                			<stpid>17564</stpid>
+                			<stpnm>Jeffery &amp; 71st Street</stpnm>
+                			<pdist>19288.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.764273825502</lat>
+						<lon>-87.576286196709</lon>
+
+							<typ>S</typ>
+                			<stpid>5214</stpid>
+                			<stpnm>Jeffery &amp; 72nd Street</stpnm>
+                			<pdist>20113.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.762405203513</lat>
+						<lon>-87.576254010201</lon>
+
+							<typ>S</typ>
+                			<stpid>5215</stpid>
+                			<stpnm>Jeffery &amp; 73rd Street</stpnm>
+                			<pdist>20773.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.760596549678</lat>
+						<lon>-87.576211094856</lon>
+
+							<typ>S</typ>
+                			<stpid>5216</stpid>
+                			<stpnm>Jeffery &amp; 74th Street</stpnm>
+                			<pdist>21436.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.758831862621</lat>
+						<lon>-87.576162815094</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.758867877128</lat>
+						<lon>-87.573813199997</lon>
+
+							<typ>S</typ>
+                			<stpid>10955</stpid>
+                			<stpnm>75th Street &amp; Clyde</stpnm>
+                			<pdist>22640.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.758891886788</lat>
+						<lon>-87.571377754211</lon>
+
+							<typ>S</typ>
+                			<stpid>10956</stpid>
+                			<stpnm>75th Street &amp; Paxton</stpnm>
+                			<pdist>23312.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.758919898046</lat>
+						<lon>-87.568979859352</lon>
+
+							<typ>S</typ>
+                			<stpid>10957</stpid>
+                			<stpnm>75th Street &amp; Crandon</stpnm>
+                			<pdist>23987.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.758943907687</lat>
+						<lon>-87.566549777985</lon>
+
+							<typ>S</typ>
+                			<stpid>10958</stpid>
+                			<stpnm>75th Street &amp; Yates</stpnm>
+                			<pdist>24652.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.758955912504</lat>
+						<lon>-87.565251588821</lon>
+
+							<typ>S</typ>
+                			<stpid>10959</stpid>
+                			<stpnm>75th Street &amp; Phillips </stpnm>
+                			<pdist>24991.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.758995928543</lat>
+						<lon>-87.562826871872</lon>
+
+							<typ>S</typ>
+                			<stpid>10960</stpid>
+                			<stpnm>75th Street &amp; Kingston </stpnm>
+                			<pdist>25658.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.759023939757</lat>
+						<lon>-87.560294866562</lon>
+
+							<typ>S</typ>
+                			<stpid>10961</stpid>
+                			<stpnm>75th Street &amp; Exchange </stpnm>
+                			<pdist>26339.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.759135984487</lat>
+						<lon>-87.559962272644</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.759780237888</lat>
+						<lon>-87.558685541153</lon>
+
+							<typ>S</typ>
+                			<stpid>10962</stpid>
+                			<stpnm>75th Street &amp; Coles</stpnm>
+                			<pdist>26878.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.760488509007</lat>
+						<lon>-87.557269334793</lon>
+
+							<typ>S</typ>
+                			<stpid>10963</stpid>
+                			<stpnm>75th Street &amp; South Shore</stpnm>
+                			<pdist>27334.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.760540528612</lat>
+						<lon>-87.557194232941</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.758919898046</lat>
+						<lon>-87.555568814278</lon>
+
+							<typ>S</typ>
+                			<stpid>17710</stpid>
+                			<stpnm>S. Shore Drive &amp; 76th Street</stpnm>
+                			<pdist>28074.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.752685090755</lat>
+						<lon>-87.548868656158</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.75224486966</lat>
+						<lon>-87.548380494118</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.75194071514</lat>
+						<lon>-87.548187375069</lon>
+
+							<typ>S</typ>
+                			<stpid>2814</stpid>
+                			<stpnm>79th Street &amp; South Shore</stpnm>
+                			<pdist>31917.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.751732608586</lat>
+						<lon>-87.54812836647</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.751608544742</lat>
+						<lon>-87.548106908798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.750027710254</lat>
+						<lon>-87.548069357872</lon>
+
+							<typ>S</typ>
+                			<stpid>7062</stpid>
+                			<stpnm>S. Shore Drive &amp; 80th Street</stpnm>
+                			<pdist>32720.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.748198696208</lat>
+						<lon>-87.548015713692</lon>
+
+							<typ>S</typ>
+                			<stpid>7063</stpid>
+                			<stpnm>S. Shore Drive &amp; 81st Street</stpnm>
+                			<pdist>33372.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.746389641998</lat>
+						<lon>-87.547967433929</lon>
+
+							<typ>S</typ>
+                			<stpid>7064</stpid>
+                			<stpnm>S. Shore Drive &amp; 82nd Street</stpnm>
+                			<pdist>34045.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.74489273117</lat>
+						<lon>-87.547940611839</lon>
+
+							<typ>S</typ>
+                			<stpid>7065</stpid>
+                			<stpnm>S. Shore Drive &amp; 83rd Street</stpnm>
+                			<pdist>34488.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.744740636673</lat>
+						<lon>-87.547940611839</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.744716621719</lat>
+						<lon>-87.548970580101</lon>
+
+							<typ>S</typ>
+                			<stpid>7066</stpid>
+                			<stpnm>83rd Street &amp; Coles</stpnm>
+                			<pdist>35049.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.744692606756</lat>
+						<lon>-87.551432847977</lon>
+
+							<typ>S</typ>
+                			<stpid>7067</stpid>
+                			<stpnm>83rd Street &amp; Commercial</stpnm>
+                			<pdist>35510.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.744664589289</lat>
+						<lon>-87.552800774574</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.744524501767</lat>
+						<lon>-87.55275785923</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.744432444087</lat>
+						<lon>-87.552661299706</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.744192292994</lat>
+						<lon>-87.552248239517</lon>
+
+							<typ>S</typ>
+                			<stpid>17545</stpid>
+                			<stpnm>Exchange &amp; 83rd Street</stpnm>
+                			<pdist>36164.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.743996168936</lat>
+						<lon>-87.551872730255</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.743936130839</lat>
+						<lon>-87.551808357239</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.743876092686</lat>
+						<lon>-87.551776170731</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.743487844608</lat>
+						<lon>-87.551770806313</lon>
+
+							<typ>S</typ>
+                			<stpid>7068</stpid>
+                			<stpnm>Commercial &amp; 83rd Place</stpnm>
+                			<pdist>36493.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.742515212828</lat>
+						<lon>-87.5515884161</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.742074921993</lat>
+						<lon>-87.551556229591</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.741206339402</lat>
+						<lon>-87.551534771919</lon>
+
+							<typ>S</typ>
+                			<stpid>7069</stpid>
+                			<stpnm>Commercial &amp; 85th Street</stpnm>
+                			<pdist>37399.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.739385079696</lat>
+						<lon>-87.551513314247</lon>
+
+							<typ>S</typ>
+                			<stpid>7070</stpid>
+                			<stpnm>Commercial &amp; 86th Street</stpnm>
+                			<pdist>38064.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.737487712454</lat>
+						<lon>-87.551475763321</lon>
+
+							<typ>S</typ>
+                			<stpid>7071</stpid>
+                			<stpnm>Commercial &amp; 87th Street</stpnm>
+                			<pdist>38723.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.735682359512</lat>
+						<lon>-87.551432847977</lon>
+
+							<typ>S</typ>
+                			<stpid>7072</stpid>
+                			<stpnm>Commercial &amp; 88th Street</stpnm>
+                			<pdist>39395.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.733840927294</lat>
+						<lon>-87.551379203796</lon>
+
+							<typ>S</typ>
+                			<stpid>7073</stpid>
+                			<stpnm>Commercial &amp; 89th Street</stpnm>
+                			<pdist>40054.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.731999442283</lat>
+						<lon>-87.551330924034</lon>
+
+							<typ>S</typ>
+                			<stpid>7074</stpid>
+                			<stpnm>Commercial &amp; 90th Street</stpnm>
+                			<pdist>40726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.730185928275</lat>
+						<lon>-87.55128800869</lon>
+
+							<typ>S</typ>
+                			<stpid>14542</stpid>
+                			<stpnm>Commercial &amp; 91st Street</stpnm>
+                			<pdist>41401.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.728360352534</lat>
+						<lon>-87.551245093346</lon>
+
+							<typ>S</typ>
+                			<stpid>7076</stpid>
+                			<stpnm>Commercial &amp; 92nd Street</stpnm>
+                			<pdist>42057.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.728272275199</lat>
+						<lon>-87.551250457764</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.728252257606</lat>
+						<lon>-87.552629113197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.728008042471</lat>
+						<lon>-87.552618384361</lon>
+
+							<typ>S</typ>
+                			<stpid>12004</stpid>
+                			<stpnm>Exchange &amp; South Chicago</stpnm>
+                			<pdist>42533.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.727791851249</lat>
+						<lon>-87.552613019943</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.727715783794</lat>
+						<lon>-87.552661299706</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.72649068501</lat>
+						<lon>-87.553884387016</lon>
+
+							<typ>S</typ>
+                			<stpid>12005</stpid>
+                			<stpnm>Exchange &amp; Anthony</stpnm>
+                			<pdist>43175.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.726410612381</lat>
+						<lon>-87.554066777229</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.726378583301</lat>
+						<lon>-87.556571960449</lon>
+
+							<typ>S</typ>
+                			<stpid>12006</stpid>
+                			<stpnm>93rd Street &amp; Manistee</stpnm>
+                			<pdist>43913.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.726362568755</lat>
+						<lon>-87.557934522629</lon>
+
+							<typ>S</typ>
+                			<stpid>12007</stpid>
+                			<stpnm>93rd Street &amp; Marquette Avenue</stpnm>
+                			<pdist>44294.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.726326536013</lat>
+						<lon>-87.560665011406</lon>
+
+							<typ>S</typ>
+                			<stpid>12008</stpid>
+                			<stpnm>93rd Street &amp; Colfax</stpnm>
+                			<pdist>45058.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.726282495966</lat>
+						<lon>-87.563164830208</lon>
+
+							<typ>S</typ>
+                			<stpid>12009</stpid>
+                			<stpnm>93rd Street &amp; Essex</stpnm>
+                			<pdist>45726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.726270485039</lat>
+						<lon>-87.565568089485</lon>
+
+							<typ>S</typ>
+                			<stpid>12010</stpid>
+                			<stpnm>93rd Street &amp; Yates</stpnm>
+                			<pdist>46406.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.726242459534</lat>
+						<lon>-87.566850185394</lon>
+
+							<typ>S</typ>
+                			<stpid>12011</stpid>
+                			<stpnm>93rd Street &amp; Oglesby</stpnm>
+                			<pdist>46773.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.72623845589</lat>
+						<lon>-87.567821145058</lon>
+
+							<typ>S</typ>
+                			<stpid>12012</stpid>
+                			<stpnm>93rd Street &amp; Crandon </stpnm>
+                			<pdist>46995.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.726198419431</lat>
+						<lon>-87.570465803146</lon>
+
+							<typ>S</typ>
+                			<stpid>12013</stpid>
+                			<stpnm>93rd Street &amp; Paxton</stpnm>
+                			<pdist>47738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.726170393894</lat>
+						<lon>-87.572847604752</lon>
+
+							<typ>S</typ>
+                			<stpid>12014</stpid>
+                			<stpnm>93rd Street &amp; Clyde</stpnm>
+                			<pdist>48409.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.726146371996</lat>
+						<lon>-87.575261592865</lon>
+
+							<typ>S</typ>
+                			<stpid>12015</stpid>
+                			<stpnm>93rd Street &amp; Jeffery</stpnm>
+                			<pdist>49078.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.726106335479</lat>
+						<lon>-87.577707767487</lon>
+
+							<typ>S</typ>
+                			<stpid>12016</stpid>
+                			<stpnm>93rd Street &amp; Bennett</stpnm>
+                			<pdist>49762.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.726082313557</lat>
+						<lon>-87.580207586288</lon>
+
+							<typ>S</typ>
+                			<stpid>12017</stpid>
+                			<stpnm>93rd Street &amp; Cregier</stpnm>
+                			<pdist>50433.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.72605428797</lat>
+						<lon>-87.582503557205</lon>
+
+							<typ>S</typ>
+                			<stpid>12018</stpid>
+                			<stpnm>93rd Street &amp; East End</stpnm>
+                			<pdist>51055.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.726010247737</lat>
+						<lon>-87.584788799286</lon>
+
+							<typ>S</typ>
+                			<stpid>12019</stpid>
+                			<stpnm>93rd Street &amp; Stony Island</stpnm>
+                			<pdist>51681.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.726014251396</lat>
+						<lon>-87.585448622704</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.725838090174</lat>
+						<lon>-87.585437893867</lon>
+
+							<typ>S</typ>
+                			<stpid>12020</stpid>
+                			<stpnm>Stony Island &amp; 93rd Street</stpnm>
+                			<pdist>51979.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.724604948092</lat>
+						<lon>-87.585416436195</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.724352711569</lat>
+						<lon>-87.585389614105</lon>
+
+							<typ>S</typ>
+                			<stpid>7210</stpid>
+                			<stpnm>Stony Island &amp; 94th Street</stpnm>
+                			<pdist>52422.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.724048424921</lat>
+						<lon>-87.585287690163</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.723844231758</lat>
+						<lon>-87.585164308548</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.722575016562</lat>
+						<lon>-87.585164308548</lon>
+
+							<typ>S</typ>
+                			<stpid>7211</stpid>
+                			<stpnm>Stony Island &amp; 95th Street</stpnm>
+                			<pdist>53119.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.722490935175</lat>
+						<lon>-87.5852394104</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.722366814831</lat>
+						<lon>-87.585244774818</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.722338787623</lat>
+						<lon>-87.587851881981</lon>
+
+							<typ>S</typ>
+                			<stpid>12021</stpid>
+                			<stpnm>1500 E 95th Street</stpnm>
+                			<pdist>53973.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.722286737062</lat>
+						<lon>-87.59060382843</lon>
+
+							<typ>S</typ>
+                			<stpid>12022</stpid>
+                			<stpnm>95th Street &amp; Dorchester</stpnm>
+                			<pdist>54554.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>41.722250702033</lat>
+						<lon>-87.59242773056</lon>
+
+							<typ>S</typ>
+                			<stpid>12023</stpid>
+                			<stpnm>1300 E 95th Street</stpnm>
+                			<pdist>55127.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>41.72221867088</lat>
+						<lon>-87.594707608223</lon>
+
+							<typ>S</typ>
+                			<stpid>12024</stpid>
+                			<stpnm>95th Street &amp; Woodlawn</stpnm>
+                			<pdist>55727.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>41.722214666985</lat>
+						<lon>-87.594729065895</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>41.723992371961</lat>
+						<lon>-87.594766616821</lon>
+
+							<typ>S</typ>
+                			<stpid>12025</stpid>
+                			<stpnm>Woodlawn &amp; 94th Street</stpnm>
+                			<pdist>56367.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>41.725882130525</lat>
+						<lon>-87.594814896584</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>41.725878126858</lat>
+						<lon>-87.595195770264</lon>
+
+							<typ>S</typ>
+                			<stpid>12026</stpid>
+                			<stpnm>93rd Street &amp; Woodlawn</stpnm>
+                			<pdist>57152.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>41.725846097512</lat>
+						<lon>-87.597202062607</lon>
+
+							<typ>S</typ>
+                			<stpid>12027</stpid>
+                			<stpnm>93rd Street &amp; Greenwood</stpnm>
+                			<pdist>57678.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>41.725814068151</lat>
+						<lon>-87.59956240654</lon>
+
+							<typ>S</typ>
+                			<stpid>12028</stpid>
+                			<stpnm>93rd Street &amp; Ellis</stpnm>
+                			<pdist>58351.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>41.72579004612</lat>
+						<lon>-87.600790858269</lon>
+
+							<typ>S</typ>
+                			<stpid>12029</stpid>
+                			<stpnm>93rd Street &amp; Drexel</stpnm>
+                			<pdist>58682.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>41.725725987326</lat>
+						<lon>-87.604696154594</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>41.725553829001</lat>
+						<lon>-87.604696154594</lon>
+
+							<typ>S</typ>
+                			<stpid>2596</stpid>
+                			<stpnm>Cottage Grove &amp; 93rd Street</stpnm>
+                			<pdist>59832.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>41.724288651342</lat>
+						<lon>-87.604663968086</lon>
+
+							<typ>S</typ>
+                			<stpid>2597</stpid>
+                			<stpnm>Cottage Grove &amp; Lyon</stpnm>
+                			<pdist>60259.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>41.72369208741</lat>
+						<lon>-87.604637145996</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>41.722122577324</lat>
+						<lon>-87.604562044144</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>41.722118573423</lat>
+						<lon>-87.604663968086</lon>
+
+							<typ>S</typ>
+                			<stpid>2599</stpid>
+                			<stpnm>Cottage Grove &amp; 95th Street</stpnm>
+                			<pdist>60990.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>41.722114569521</lat>
+						<lon>-87.606788277626</lon>
+
+							<typ>S</typ>
+                			<stpid>2600</stpid>
+                			<stpnm>95th Street &amp; Langley</stpnm>
+                			<pdist>61605.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>41.722070526588</lat>
+						<lon>-87.609202265739</lon>
+
+							<typ>S</typ>
+                			<stpid>2979</stpid>
+                			<stpnm>95th Street &amp; St. Lawrence</stpnm>
+                			<pdist>62265.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>41.722022479717</lat>
+						<lon>-87.611541152</lon>
+
+							<typ>S</typ>
+                			<stpid>2104</stpid>
+                			<stpnm>95th Street &amp; Eberhart</stpnm>
+                			<pdist>62928.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>41.721998456268</lat>
+						<lon>-87.613976597786</lon>
+
+							<typ>S</typ>
+                			<stpid>2105</stpid>
+                			<stpnm>95th Street &amp; King Drive</stpnm>
+                			<pdist>63590.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>41.721942401519</lat>
+						<lon>-87.615424990654</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>41.721922381954</lat>
+						<lon>-87.616412043571</lon>
+
+							<typ>S</typ>
+                			<stpid>2980</stpid>
+                			<stpnm>95th Street &amp; Forest</stpnm>
+                			<pdist>64254.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>41.721890350637</lat>
+						<lon>-87.618820667267</lon>
+
+							<typ>S</typ>
+                			<stpid>2981</stpid>
+                			<stpnm>95th Street &amp; Indiana</stpnm>
+                			<pdist>64914.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>168</seq>
+						<lat>41.721842303632</lat>
+						<lon>-87.621030807495</lon>
+
+							<typ>S</typ>
+                			<stpid>2982</stpid>
+                			<stpnm>95th Street &amp; Michigan</stpnm>
+                			<pdist>65508.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>169</seq>
+						<lat>41.721818280115</lat>
+						<lon>-87.623702287674</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>170</seq>
+						<lat>41.72217062412</lat>
+						<lon>-87.623718380928</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>171</seq>
+						<lat>41.722162616323</lat>
+						<lon>-87.623895406723</lon>
+
+							<typ>S</typ>
+                			<stpid>14009</stpid>
+                			<stpnm>95th Red Line Station</stpnm>
+                			<pdist>67289.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4646</pid>
+				<ln>64206.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.722162616323</lat>
+						<lon>-87.623895406723</lon>
+
+							<typ>S</typ>
+                			<stpid>14009</stpid>
+                			<stpnm>95th Red Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.722166620222</lat>
+						<lon>-87.62379348278</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.721582048394</lat>
+						<lon>-87.623777389526</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.721618083797</lat>
+						<lon>-87.622972726822</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.721686150615</lat>
+						<lon>-87.620751857758</lon>
+
+							<typ>S</typ>
+                			<stpid>2816</stpid>
+                			<stpnm>95th Street &amp; Michigan</stpnm>
+                			<pdist>1089.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.721714178108</lat>
+						<lon>-87.619142532349</lon>
+
+							<typ>S</typ>
+                			<stpid>2817</stpid>
+                			<stpnm>95th Street &amp; Indiana</stpnm>
+                			<pdist>1532.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.721730193812</lat>
+						<lon>-87.616664171219</lon>
+
+							<typ>S</typ>
+                			<stpid>2818</stpid>
+                			<stpnm>95th Street &amp; Forest</stpnm>
+                			<pdist>2204.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.72179425659</lat>
+						<lon>-87.614336013794</lon>
+
+							<typ>S</typ>
+                			<stpid>2819</stpid>
+                			<stpnm>95th Street &amp; King Drive</stpnm>
+                			<pdist>2860.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.721838299713</lat>
+						<lon>-87.611836194992</lon>
+
+							<typ>S</typ>
+                			<stpid>2265</stpid>
+                			<stpnm>95th Street &amp; Eberhart</stpnm>
+                			<pdist>3603.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.721874334973</lat>
+						<lon>-87.609561681747</lon>
+
+							<typ>S</typ>
+                			<stpid>2266</stpid>
+                			<stpnm>95th Street &amp; St. Lawrence</stpnm>
+                			<pdist>4175.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.721930389781</lat>
+						<lon>-87.606954574585</lon>
+
+							<typ>S</typ>
+                			<stpid>2461</stpid>
+                			<stpnm>95th Street &amp; Langley</stpnm>
+                			<pdist>4956.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.721958417167</lat>
+						<lon>-87.604347467422</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.722422869209</lat>
+						<lon>-87.604352831841</lon>
+
+							<typ>S</typ>
+                			<stpid>2462</stpid>
+                			<stpnm>Cottage Grove &amp; 95th Street</stpnm>
+                			<pdist>5737.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.723968349248</lat>
+						<lon>-87.604401111603</lon>
+
+							<typ>S</typ>
+                			<stpid>2463</stpid>
+                			<stpnm>Cottage Grove &amp; Lyon</stpnm>
+                			<pdist>6300.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.725581854806</lat>
+						<lon>-87.604438662529</lon>
+
+							<typ>S</typ>
+                			<stpid>2464</stpid>
+                			<stpnm>Cottage Grove &amp; 93rd Street</stpnm>
+                			<pdist>6873.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.725665932149</lat>
+						<lon>-87.604438662529</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.725721983649</lat>
+						<lon>-87.601155638695</lon>
+
+							<typ>S</typ>
+                			<stpid>11927</stpid>
+                			<stpnm>93rd Street &amp; Drexel</stpnm>
+                			<pdist>7814.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.725746005706</lat>
+						<lon>-87.599648237228</lon>
+
+							<typ>S</typ>
+                			<stpid>11928</stpid>
+                			<stpnm>93rd Street &amp; Ellis</stpnm>
+                			<pdist>8225.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.725778035101</lat>
+						<lon>-87.597502470016</lon>
+
+							<typ>S</typ>
+                			<stpid>11929</stpid>
+                			<stpnm>93rd Street &amp; Greenwood</stpnm>
+                			<pdist>8813.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.725822075493</lat>
+						<lon>-87.595056295395</lon>
+
+							<typ>S</typ>
+                			<stpid>11930</stpid>
+                			<stpnm>93rd Street &amp; Woodlawn</stpnm>
+                			<pdist>9485.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.725822075493</lat>
+						<lon>-87.594895362854</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.724152523147</lat>
+						<lon>-87.59485244751</lon>
+
+							<typ>S</typ>
+                			<stpid>11931</stpid>
+                			<stpnm>Woodlawn &amp; 94th Street</stpnm>
+                			<pdist>10107.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.722158612424</lat>
+						<lon>-87.594809532166</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.722158612424</lat>
+						<lon>-87.594455480576</lon>
+
+							<typ>S</typ>
+                			<stpid>11932</stpid>
+                			<stpnm>95th Street &amp; Woodlawn</stpnm>
+                			<pdist>10925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.722194647504</lat>
+						<lon>-87.592395544052</lon>
+
+							<typ>S</typ>
+                			<stpid>11933</stpid>
+                			<stpnm>1300 E 95th Street</stpnm>
+                			<pdist>11552.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.72222667867</lat>
+						<lon>-87.590775489807</lon>
+
+							<typ>S</typ>
+                			<stpid>11934</stpid>
+                			<stpnm>95th Street &amp; Dorchester</stpnm>
+                			<pdist>12124.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.722274725388</lat>
+						<lon>-87.587975263596</lon>
+
+							<typ>S</typ>
+                			<stpid>11935</stpid>
+                			<stpnm>1500 E 95th Street</stpnm>
+                			<pdist>12512.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.722306756513</lat>
+						<lon>-87.584992647171</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.722498942931</lat>
+						<lon>-87.585014104843</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.722575016562</lat>
+						<lon>-87.585078477859</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.722687124907</lat>
+						<lon>-87.585078477859</lon>
+
+							<typ>S</typ>
+                			<stpid>7100</stpid>
+                			<stpnm>Stony Island &amp; 95th Street</stpnm>
+                			<pdist>13611.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.723848235552</lat>
+						<lon>-87.585078477859</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.723964345462</lat>
+						<lon>-87.585003376007</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.724076451383</lat>
+						<lon>-87.584960460663</lon>
+
+							<typ>S</typ>
+                			<stpid>7101</stpid>
+                			<stpnm>Stony Island &amp; 94th Street</stpnm>
+                			<pdist>14157.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.724376734137</lat>
+						<lon>-87.584928274155</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.725858108519</lat>
+						<lon>-87.584912180901</lon>
+
+							<typ>S</typ>
+                			<stpid>7102</stpid>
+                			<stpnm>Stony Island &amp; 93rd Street</stpnm>
+                			<pdist>14736.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.725946189163</lat>
+						<lon>-87.584901452065</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.725986225779</lat>
+						<lon>-87.582862973213</lon>
+
+							<typ>S</typ>
+                			<stpid>11936</stpid>
+                			<stpnm>93rd Street &amp; East End</stpnm>
+                			<pdist>15334.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.726010247737</lat>
+						<lon>-87.580497264862</lon>
+
+							<typ>S</typ>
+                			<stpid>11937</stpid>
+                			<stpnm>93rd Street &amp; Cregier</stpnm>
+                			<pdist>15974.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.726038273344</lat>
+						<lon>-87.578034996986</lon>
+
+							<typ>S</typ>
+                			<stpid>11938</stpid>
+                			<stpnm>93rd Street &amp; Bennett</stpnm>
+                			<pdist>16642.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.726074306248</lat>
+						<lon>-87.575658559799</lon>
+
+							<typ>S</typ>
+                			<stpid>11939</stpid>
+                			<stpnm>93rd Street &amp; Jeffery</stpnm>
+                			<pdist>17301.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.726110339132</lat>
+						<lon>-87.573185563087</lon>
+
+							<typ>S</typ>
+                			<stpid>11940</stpid>
+                			<stpnm>93rd Street &amp; Clyde</stpnm>
+                			<pdist>17976.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.726134361044</lat>
+						<lon>-87.570739388466</lon>
+
+							<typ>S</typ>
+                			<stpid>11941</stpid>
+                			<stpnm>93rd Street &amp; Paxton</stpnm>
+                			<pdist>18644.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.726170393894</lat>
+						<lon>-87.568309307098</lon>
+
+							<typ>S</typ>
+                			<stpid>11942</stpid>
+                			<stpnm>93rd Street &amp; Crandon </stpnm>
+                			<pdist>19313.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.72618240484</lat>
+						<lon>-87.56708085537</lon>
+
+							<typ>S</typ>
+                			<stpid>11943</stpid>
+                			<stpnm>93rd Street &amp; Oglesby</stpnm>
+                			<pdist>19649.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.726202423078</lat>
+						<lon>-87.565841674805</lon>
+
+							<typ>S</typ>
+                			<stpid>11944</stpid>
+                			<stpnm>93rd Street &amp; Yates</stpnm>
+                			<pdist>19991.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.726222441309</lat>
+						<lon>-87.563422322273</lon>
+
+							<typ>S</typ>
+                			<stpid>11945</stpid>
+                			<stpnm>93rd Street &amp; Essex</stpnm>
+                			<pdist>20653.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.726262477754</lat>
+						<lon>-87.561040520668</lon>
+
+							<typ>S</typ>
+                			<stpid>11946</stpid>
+                			<stpnm>93rd Street &amp; Colfax</stpnm>
+                			<pdist>21307.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.726294506891</lat>
+						<lon>-87.558245658875</lon>
+
+							<typ>S</typ>
+                			<stpid>11947</stpid>
+                			<stpnm>93rd Street &amp; Marquette Avenue</stpnm>
+                			<pdist>22073.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.726310521454</lat>
+						<lon>-87.556850910187</lon>
+
+							<typ>S</typ>
+                			<stpid>11948</stpid>
+                			<stpnm>93rd Street &amp; Manistee</stpnm>
+                			<pdist>22449.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.726346554206</lat>
+						<lon>-87.554115056992</lon>
+
+							<typ>S</typ>
+                			<stpid>11949</stpid>
+                			<stpnm>93rd Street &amp; Escanaba</stpnm>
+                			<pdist>23218.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.726414616015</lat>
+						<lon>-87.553857564926</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.727467563052</lat>
+						<lon>-87.552795410156</lon>
+
+							<typ>S</typ>
+                			<stpid>11950</stpid>
+                			<stpnm>Exchange &amp; South Chicago</stpnm>
+                			<pdist>23827.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.727739805106</lat>
+						<lon>-87.552532553673</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.728128148391</lat>
+						<lon>-87.552532553673</lon>
+
+							<typ>S</typ>
+                			<stpid>11951</stpid>
+                			<stpnm>Exchange &amp; 92nd Street</stpnm>
+                			<pdist>24029.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.730013781901</lat>
+						<lon>-87.552586197853</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.730037802353</lat>
+						<lon>-87.551207542419</lon>
+
+							<typ>S</typ>
+                			<stpid>7007</stpid>
+                			<stpnm>Commercial &amp; 91st Street</stpnm>
+                			<pdist>25039.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.731811287581</lat>
+						<lon>-87.551239728928</lon>
+
+							<typ>S</typ>
+                			<stpid>7008</stpid>
+                			<stpnm>Commercial &amp; 90th Street</stpnm>
+                			<pdist>25715.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.733981038123</lat>
+						<lon>-87.551293373108</lon>
+
+							<typ>S</typ>
+                			<stpid>15678</stpid>
+                			<stpnm>Commercial &amp; 89th Street</stpnm>
+                			<pdist>26553.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.735446178766</lat>
+						<lon>-87.551336288452</lon>
+
+							<typ>S</typ>
+                			<stpid>7010</stpid>
+                			<stpnm>Commercial &amp; 88th Street</stpnm>
+                			<pdist>27049.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.737259544263</lat>
+						<lon>-87.551384568214</lon>
+
+							<typ>S</typ>
+                			<stpid>7011</stpid>
+                			<stpnm>Commercial &amp; 87th Street</stpnm>
+                			<pdist>27716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.739112886996</lat>
+						<lon>-87.551422119141</lon>
+
+							<typ>S</typ>
+                			<stpid>7012</stpid>
+                			<stpnm>Commercial &amp; 86th Street</stpnm>
+                			<pdist>28392.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.741274385467</lat>
+						<lon>-87.551448941231</lon>
+
+							<typ>S</typ>
+                			<stpid>15253</stpid>
+                			<stpnm>Commercial &amp; 85th Street</stpnm>
+                			<pdist>29056.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.742158977749</lat>
+						<lon>-87.551470398903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.742571249627</lat>
+						<lon>-87.551491856575</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.743391782866</lat>
+						<lon>-87.55166888237</lon>
+
+							<typ>S</typ>
+                			<stpid>7014</stpid>
+                			<stpnm>Commercial &amp; 83rd Place</stpnm>
+                			<pdist>30034.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.743864085049</lat>
+						<lon>-87.551690340042</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.743956143544</lat>
+						<lon>-87.55172252655</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.744044199373</lat>
+						<lon>-87.551819086075</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.744448454128</lat>
+						<lon>-87.552548646927</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.744520499262</lat>
+						<lon>-87.552645206451</lon>
+
+							<typ>S</typ>
+                			<stpid>7015</stpid>
+                			<stpnm>Exchange &amp; 83rd Street</stpnm>
+                			<pdist>30403.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.744608554317</lat>
+						<lon>-87.55270421505</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.744624564314</lat>
+						<lon>-87.551540136337</lon>
+
+							<typ>S</typ>
+                			<stpid>7016</stpid>
+                			<stpnm>83rd Street &amp; Commercial</stpnm>
+                			<pdist>30692.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.744660586792</lat>
+						<lon>-87.549051046371</lon>
+
+							<typ>S</typ>
+                			<stpid>7017</stpid>
+                			<stpnm>83rd Street &amp; Coles</stpnm>
+                			<pdist>31429.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.744672594281</lat>
+						<lon>-87.547865509987</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.744860711305</lat>
+						<lon>-87.547860145569</lon>
+
+							<typ>S</typ>
+                			<stpid>7018</stpid>
+                			<stpnm>S. Shore Drive &amp; 83rd Street</stpnm>
+                			<pdist>31822.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.746709832296</lat>
+						<lon>-87.547876238823</lon>
+
+							<typ>S</typ>
+                			<stpid>7019</stpid>
+                			<stpnm>S. Shore Drive &amp; 82nd Street</stpnm>
+                			<pdist>32482.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.748442834575</lat>
+						<lon>-87.547935247421</lon>
+
+							<typ>S</typ>
+                			<stpid>7020</stpid>
+                			<stpnm>S. Shore Drive &amp; 81st Street</stpnm>
+                			<pdist>33154.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.750283848105</lat>
+						<lon>-87.547988891602</lon>
+
+							<typ>S</typ>
+                			<stpid>7021</stpid>
+                			<stpnm>S. Shore Drive &amp; 80th Street</stpnm>
+                			<pdist>33809.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.751648565363</lat>
+						<lon>-87.54802107811</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.751860674238</lat>
+						<lon>-87.548069357872</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.752004747791</lat>
+						<lon>-87.548133730888</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.751992741674</lat>
+						<lon>-87.548654079437</lon>
+
+							<typ>S</typ>
+                			<stpid>14947</stpid>
+                			<stpnm>79th Street &amp; South Shore</stpnm>
+                			<pdist>34604.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.751972731474</lat>
+						<lon>-87.550118565559</lon>
+
+							<typ>S</typ>
+                			<stpid>2603</stpid>
+                			<stpnm>79th Street &amp; Coles </stpnm>
+                			<pdist>34961.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.751972731474</lat>
+						<lon>-87.550188302994</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.754509975094</lat>
+						<lon>-87.552913427353</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.756246768579</lat>
+						<lon>-87.554764151573</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.757067127038</lat>
+						<lon>-87.553476691246</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.758983923734</lat>
+						<lon>-87.555520534515</lon>
+
+							<typ>S</typ>
+                			<stpid>7026</stpid>
+                			<stpnm>S. Shore Drive &amp; 76th Street</stpnm>
+                			<pdist>38404.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.760628561693</lat>
+						<lon>-87.557167410851</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.760564537646</lat>
+						<lon>-87.557290792465</lon>
+
+							<typ>S</typ>
+                			<stpid>14893</stpid>
+                			<stpnm>75th Street &amp; South Shore</stpnm>
+                			<pdist>39183.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.759916290574</lat>
+						<lon>-87.558567523956</lon>
+
+							<typ>S</typ>
+                			<stpid>14884</stpid>
+                			<stpnm>75th Street &amp; Coles</stpnm>
+                			<pdist>39481.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.759208013138</lat>
+						<lon>-87.559983730316</lon>
+
+							<typ>S</typ>
+                			<stpid>10854</stpid>
+                			<stpnm>75th Street &amp; Exchange </stpnm>
+                			<pdist>39941.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.759115976513</lat>
+						<lon>-87.560176849365</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.759079962146</lat>
+						<lon>-87.560418248177</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.759051950957</lat>
+						<lon>-87.562993168831</lon>
+
+							<typ>S</typ>
+                			<stpid>10855</stpid>
+                			<stpnm>75th Street &amp; Kingston </stpnm>
+                			<pdist>40775.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.759031942958</lat>
+						<lon>-87.564618587494</lon>
+
+							<typ>S</typ>
+                			<stpid>10856</stpid>
+                			<stpnm>75th Street &amp; Phillips </stpnm>
+                			<pdist>41219.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.759015936554</lat>
+						<lon>-87.566249370575</lon>
+
+							<typ>S</typ>
+                			<stpid>10857</stpid>
+                			<stpnm>75th Street &amp; Yates</stpnm>
+                			<pdist>41671.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.758979922131</lat>
+						<lon>-87.568663358688</lon>
+
+							<typ>S</typ>
+                			<stpid>10858</stpid>
+                			<stpnm>75th Street &amp; Crandon</stpnm>
+                			<pdist>42339.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.758955912504</lat>
+						<lon>-87.571152448654</lon>
+
+							<typ>S</typ>
+                			<stpid>10859</stpid>
+                			<stpnm>75th Street &amp; Paxton</stpnm>
+                			<pdist>43004.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.758931902868</lat>
+						<lon>-87.57356107235</lon>
+
+							<typ>S</typ>
+                			<stpid>10860</stpid>
+                			<stpnm>75th Street &amp; Clyde</stpnm>
+                			<pdist>43683.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.758903891614</lat>
+						<lon>-87.575975060463</lon>
+
+							<typ>S</typ>
+                			<stpid>10861</stpid>
+                			<stpnm>75th Street &amp; Jeffery</stpnm>
+                			<pdist>44284.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.758903891614</lat>
+						<lon>-87.576066255569</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.760908666147</lat>
+						<lon>-87.576141357422</lon>
+
+							<typ>S</typ>
+                			<stpid>5304</stpid>
+                			<stpnm>Jeffery &amp; 74th Street</stpnm>
+                			<pdist>45040.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.762761326248</lat>
+						<lon>-87.576178908348</lon>
+
+							<typ>S</typ>
+                			<stpid>5305</stpid>
+                			<stpnm>Jeffery &amp; 73rd Street</stpnm>
+                			<pdist>45719.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.764501897693</lat>
+						<lon>-87.576205730438</lon>
+
+							<typ>S</typ>
+                			<stpid>5306</stpid>
+                			<stpnm>Jeffery &amp; 72nd Street</stpnm>
+                			<pdist>46392.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.766338449469</lat>
+						<lon>-87.576270103455</lon>
+
+							<typ>S</typ>
+                			<stpid>5307</stpid>
+                			<stpnm>Jeffery &amp; 71st Street</stpnm>
+                			<pdist>47081.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.768126936293</lat>
+						<lon>-87.576329112053</lon>
+
+							<typ>S</typ>
+                			<stpid>5308</stpid>
+                			<stpnm>Jeffery &amp; 70th Street</stpnm>
+                			<pdist>47706.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.770023398056</lat>
+						<lon>-87.576366662979</lon>
+
+							<typ>S</typ>
+                			<stpid>5309</stpid>
+                			<stpnm>Jeffery &amp; 69th Street</stpnm>
+                			<pdist>48389.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.771715762795</lat>
+						<lon>-87.576393485069</lon>
+
+							<typ>S</typ>
+                			<stpid>5310</stpid>
+                			<stpnm>Jeffery &amp; 68th Street</stpnm>
+                			<pdist>49060.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.773476094817</lat>
+						<lon>-87.576431035995</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.773472094117</lat>
+						<lon>-87.576811909676</lon>
+
+							<typ>S</typ>
+                			<stpid>5311</stpid>
+                			<stpnm>67th Street &amp; Jeffery</stpnm>
+                			<pdist>49736.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.773436087807</lat>
+						<lon>-87.579075694084</lon>
+
+							<typ>S</typ>
+                			<stpid>5312</stpid>
+                			<stpnm>67th Street &amp; Bennett</stpnm>
+                			<pdist>50282.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.773404082182</lat>
+						<lon>-87.581398487091</lon>
+
+							<typ>S</typ>
+                			<stpid>5313</stpid>
+                			<stpnm>67th Street &amp; Cregier</stpnm>
+                			<pdist>50971.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.773384078658</lat>
+						<lon>-87.583823204041</lon>
+
+							<typ>S</typ>
+                			<stpid>5314</stpid>
+                			<stpnm>67th Street &amp; East End</stpnm>
+                			<pdist>51547.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.773364075128</lat>
+						<lon>-87.585663199425</lon>
+
+							<typ>S</typ>
+                			<stpid>5315</stpid>
+                			<stpnm>67th Street &amp; Cornell Drive</stpnm>
+                			<pdist>52062.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.773352073006</lat>
+						<lon>-87.586671710014</lon>
+
+							<typ>S</typ>
+                			<stpid>10069</stpid>
+                			<stpnm>67th Street &amp; Stony Island</stpnm>
+                			<pdist>52391.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.773328068757</lat>
+						<lon>-87.588667273521</lon>
+
+							<typ>S</typ>
+                			<stpid>10070</stpid>
+                			<stpnm>67th Street &amp; Blackstone</stpnm>
+                			<pdist>52909.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.77330806521</lat>
+						<lon>-87.591408491135</lon>
+
+							<typ>S</typ>
+                			<stpid>10071</stpid>
+                			<stpnm>67th Street &amp; Dorchester </stpnm>
+                			<pdist>53603.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.773288061656</lat>
+						<lon>-87.592765688896</lon>
+
+							<typ>S</typ>
+                			<stpid>10072</stpid>
+                			<stpnm>67th Street &amp; Kenwood</stpnm>
+                			<pdist>54053.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.773280060232</lat>
+						<lon>-87.594332098961</lon>
+
+							<typ>S</typ>
+                			<stpid>10073</stpid>
+                			<stpnm>67th Street &amp; Kimbark</stpnm>
+                			<pdist>54459.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.773264057382</lat>
+						<lon>-87.59591460228</lon>
+
+							<typ>S</typ>
+                			<stpid>10074</stpid>
+                			<stpnm>67th Street &amp; Woodlawn</stpnm>
+                			<pdist>54909.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.773252055243</lat>
+						<lon>-87.597148418427</lon>
+
+							<typ>S</typ>
+                			<stpid>10075</stpid>
+                			<stpnm>67th Street &amp; Minerva</stpnm>
+                			<pdist>55249.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.7732400531</lat>
+						<lon>-87.598285675049</lon>
+
+							<typ>S</typ>
+                			<stpid>10076</stpid>
+                			<stpnm>67th Street &amp; University</stpnm>
+                			<pdist>55591.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.773228050956</lat>
+						<lon>-87.599471211433</lon>
+
+							<typ>S</typ>
+                			<stpid>10077</stpid>
+                			<stpnm>67th Street &amp; Greenwood</stpnm>
+                			<pdist>55892.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.773228050956</lat>
+						<lon>-87.600796222687</lon>
+
+							<typ>S</typ>
+                			<stpid>10078</stpid>
+                			<stpnm>67th Street &amp; Ellis</stpnm>
+                			<pdist>56252.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.773216048809</lat>
+						<lon>-87.601965665817</lon>
+
+							<typ>S</typ>
+                			<stpid>10079</stpid>
+                			<stpnm>67th Street &amp; Ingleside</stpnm>
+                			<pdist>56590.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.773200045944</lat>
+						<lon>-87.603204846382</lon>
+
+							<typ>S</typ>
+                			<stpid>10080</stpid>
+                			<stpnm>67th Street &amp; Drexel</stpnm>
+                			<pdist>56929.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.773196045227</lat>
+						<lon>-87.604465484619</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.773180042356</lat>
+						<lon>-87.605645656586</lon>
+
+							<typ>S</typ>
+                			<stpid>10081</stpid>
+                			<stpnm>67th Street &amp; Cottage Grove</stpnm>
+                			<pdist>57581.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.773152037323</lat>
+						<lon>-87.606847286224</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.773120031556</lat>
+						<lon>-87.608006000519</lon>
+
+							<typ>S</typ>
+                			<stpid>10082</stpid>
+                			<stpnm>67th Street &amp; Langley</stpnm>
+                			<pdist>58274.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.773080024324</lat>
+						<lon>-87.610409259796</lon>
+
+							<typ>S</typ>
+                			<stpid>10083</stpid>
+                			<stpnm>67th Street &amp; St. Lawrence</stpnm>
+                			<pdist>58926.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.773052019247</lat>
+						<lon>-87.611702084541</lon>
+
+							<typ>S</typ>
+                			<stpid>10084</stpid>
+                			<stpnm>Rhodes &amp; 67th Street</stpnm>
+                			<pdist>59427.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.773048018521</lat>
+						<lon>-87.611879110336</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.771323682267</lat>
+						<lon>-87.611820101738</lon>
+
+							<typ>S</typ>
+                			<stpid>10085</stpid>
+                			<stpnm>Rhodes &amp; 68th Street</stpnm>
+                			<pdist>59933.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.77113164195</lat>
+						<lon>-87.61181473732</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.770939601058</lat>
+						<lon>-87.611836194992</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.770727555239</lat>
+						<lon>-87.612056136131</lon>
+
+							<typ>S</typ>
+                			<stpid>10086</stpid>
+                			<stpnm>Keefe &amp; South Chicago</stpnm>
+                			<pdist>60169.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.770311463293</lat>
+						<lon>-87.612571120262</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.769555289288</lat>
+						<lon>-87.613574266434</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.7694392618</lat>
+						<lon>-87.613762021065</lon>
+
+							<typ>S</typ>
+                			<stpid>7408</stpid>
+                			<stpnm>69th Street &amp; Anthony</stpnm>
+                			<pdist>60948.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.769395251319</lat>
+						<lon>-87.613896131516</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.769367244633</lat>
+						<lon>-87.615247964859</lon>
+
+							<typ>S</typ>
+                			<stpid>7409</stpid>
+                			<stpnm>69th Street &amp; King Drive</stpnm>
+                			<pdist>61238.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.769339237935</lat>
+						<lon>-87.616782188416</lon>
+
+							<typ>S</typ>
+                			<stpid>7410</stpid>
+                			<stpnm>69th Street &amp; Calumet</stpnm>
+                			<pdist>61662.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>41.769307230266</lat>
+						<lon>-87.618412971497</lon>
+
+							<typ>S</typ>
+                			<stpid>7411</stpid>
+                			<stpnm>69th Street &amp; Prairie</stpnm>
+                			<pdist>62106.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>41.769299228346</lat>
+						<lon>-87.61911034584</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>41.769283224503</lat>
+						<lon>-87.620075941086</lon>
+
+							<typ>S</typ>
+                			<stpid>7412</stpid>
+                			<stpnm>69th Street &amp; Indiana</stpnm>
+                			<pdist>62574.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>41.769239213914</lat>
+						<lon>-87.621658444405</lon>
+
+							<typ>S</typ>
+                			<stpid>7413</stpid>
+                			<stpnm>69th Street &amp; Michigan</stpnm>
+                			<pdist>62988.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>41.769223210057</lat>
+						<lon>-87.622291445732</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>41.769211207161</lat>
+						<lon>-87.623262405396</lon>
+
+							<typ>S</typ>
+                			<stpid>7414</stpid>
+                			<stpnm>69th Street &amp; Wabash</stpnm>
+                			<pdist>63428.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>41.769203205229</lat>
+						<lon>-87.624168992043</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>41.769227211022</lat>
+						<lon>-87.624351382256</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>41.769287225464</lat>
+						<lon>-87.625172138214</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>41.768875125162</lat>
+						<lon>-87.625123858452</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>41.768807108352</lat>
+						<lon>-87.625247240067</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>41.768803107361</lat>
+						<lon>-87.625724673271</lon>
+
+							<typ>S</typ>
+                			<stpid>14139</stpid>
+                			<stpnm>69th Red Line Station</stpnm>
+                			<pdist>64206.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

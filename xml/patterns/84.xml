@@ -1,0 +1,1536 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>1681</pid>
+				<ln>36716.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.996087337376</lat>
+						<lon>-87.764566540718</lon>
+
+							<typ>S</typ>
+                			<stpid>11427</stpid>
+                			<stpnm>Caldwell &amp; Central Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.995999628054</lat>
+						<lon>-87.764555811882</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.995915905407</lat>
+						<lon>-87.764464616776</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.995860090247</lat>
+						<lon>-87.764303684235</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.996055443091</lat>
+						<lon>-87.76420712471</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.995947799761</lat>
+						<lon>-87.763971090317</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.995246120263</lat>
+						<lon>-87.762447595596</lon>
+
+							<typ>S</typ>
+                			<stpid>11428</stpid>
+                			<stpnm>Caldwell &amp; Spokane</stpnm>
+                			<pdist>710.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.995218212396</lat>
+						<lon>-87.7623295784</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.994321167286</lat>
+						<lon>-87.760382294655</lon>
+
+							<typ>S</typ>
+                			<stpid>11429</stpid>
+                			<stpnm>Caldwell &amp; Navajo</stpnm>
+                			<pdist>1440.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.993368292188</lat>
+						<lon>-87.758333086967</lon>
+
+							<typ>S</typ>
+                			<stpid>11430</stpid>
+                			<stpnm>Caldwell &amp; Leroy</stpnm>
+                			<pdist>1994.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.992447298933</lat>
+						<lon>-87.756353616714</lon>
+
+							<typ>S</typ>
+                			<stpid>11431</stpid>
+                			<stpnm>Caldwell &amp; Lenox</stpnm>
+                			<pdist>2661.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.99145851212</lat>
+						<lon>-87.754282951355</lon>
+
+							<typ>S</typ>
+                			<stpid>11432</stpid>
+                			<stpnm>Caldwell &amp; Leader</stpnm>
+                			<pdist>3307.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.991219287197</lat>
+						<lon>-87.753719687462</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.991151506638</lat>
+						<lon>-87.753639221191</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.990848486788</lat>
+						<lon>-87.75304377079</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.990525529834</lat>
+						<lon>-87.752223014832</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.989999226101</lat>
+						<lon>-87.750404477119</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.989867649488</lat>
+						<lon>-87.749782204628</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.98983176491</lat>
+						<lon>-87.749417424202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.98983176491</lat>
+						<lon>-87.748575210571</lon>
+
+							<typ>S</typ>
+                			<stpid>11433</stpid>
+                			<stpnm>Peterson &amp; Cicero</stpnm>
+                			<pdist>5018.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.989835752086</lat>
+						<lon>-87.746011018753</lon>
+
+							<typ>S</typ>
+                			<stpid>11434</stpid>
+                			<stpnm>Peterson &amp; Kilpatrick</stpnm>
+                			<pdist>5711.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.989883598183</lat>
+						<lon>-87.742738723755</lon>
+
+							<typ>S</typ>
+                			<stpid>11435</stpid>
+                			<stpnm>Peterson &amp; Forest Glen</stpnm>
+                			<pdist>6570.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.989895559702</lat>
+						<lon>-87.740925550461</lon>
+
+							<typ>S</typ>
+                			<stpid>11436</stpid>
+                			<stpnm>Peterson &amp; Kilbourn</stpnm>
+                			<pdist>7105.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.989939418584</lat>
+						<lon>-87.737787365913</lon>
+
+							<typ>S</typ>
+                			<stpid>14966</stpid>
+                			<stpnm>Peterson &amp; Kostner</stpnm>
+                			<pdist>7923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.989959354429</lat>
+						<lon>-87.735861539841</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.990007200433</lat>
+						<lon>-87.735668420792</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.990023149093</lat>
+						<lon>-87.735496759415</lon>
+
+							<typ>S</typ>
+                			<stpid>11438</stpid>
+                			<stpnm>4300 W Peterson</stpnm>
+                			<pdist>8438.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.990051059238</lat>
+						<lon>-87.73322224617</lon>
+
+							<typ>S</typ>
+                			<stpid>11439</stpid>
+                			<stpnm>Peterson &amp; Rogers</stpnm>
+                			<pdist>9205.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.990106879492</lat>
+						<lon>-87.728206515312</lon>
+
+							<typ>S</typ>
+                			<stpid>11440</stpid>
+                			<stpnm>Peterson &amp; Pulaski</stpnm>
+                			<pdist>10530.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.99015871254</lat>
+						<lon>-87.724767923355</lon>
+
+							<typ>S</typ>
+                			<stpid>11441</stpid>
+                			<stpnm>3800 W Peterson</stpnm>
+                			<pdist>11460.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.9902145327</lat>
+						<lon>-87.721281051636</lon>
+
+							<typ>S</typ>
+                			<stpid>11442</stpid>
+                			<stpnm>Peterson &amp; Lawndale</stpnm>
+                			<pdist>12447.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.990254404212</lat>
+						<lon>-87.718968987465</lon>
+
+							<typ>S</typ>
+                			<stpid>11443</stpid>
+                			<stpnm>Peterson &amp; Central Park</stpnm>
+                			<pdist>13070.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.990258391362</lat>
+						<lon>-87.71625995636</lon>
+
+							<typ>S</typ>
+                			<stpid>11444</stpid>
+                			<stpnm>Peterson &amp; St. Louis</stpnm>
+                			<pdist>13724.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.990310224287</lat>
+						<lon>-87.714146375656</lon>
+
+							<typ>S</typ>
+                			<stpid>11445</stpid>
+                			<stpnm>Peterson &amp; Kimball</stpnm>
+                			<pdist>14393.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.990338134307</lat>
+						<lon>-87.711217403412</lon>
+
+							<typ>S</typ>
+                			<stpid>11446</stpid>
+                			<stpnm>Peterson &amp; Jersey</stpnm>
+                			<pdist>15202.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.990366044314</lat>
+						<lon>-87.70760178566</lon>
+
+							<typ>S</typ>
+                			<stpid>11447</stpid>
+                			<stpnm>Peterson &amp; Lincoln</stpnm>
+                			<pdist>16197.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.990366044314</lat>
+						<lon>-87.707542777061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.989787905954</lat>
+						<lon>-87.706550359726</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.989759995693</lat>
+						<lon>-87.706330418587</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.986482448573</lat>
+						<lon>-87.700885534286</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.98310903044</lat>
+						<lon>-87.695140242577</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.983140931212</lat>
+						<lon>-87.689335942268</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.990457748537</lat>
+						<lon>-87.689555883408</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.990505594166</lat>
+						<lon>-87.687157988548</lon>
+
+							<typ>S</typ>
+                			<stpid>11456</stpid>
+                			<stpnm>Peterson &amp; Oakley</stpnm>
+                			<pdist>25249.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.990545465496</lat>
+						<lon>-87.685071229935</lon>
+
+							<typ>S</typ>
+                			<stpid>11457</stpid>
+                			<stpnm>Rosehill Cemetery</stpnm>
+                			<pdist>25863.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.990581349672</lat>
+						<lon>-87.683408260345</lon>
+
+							<typ>S</typ>
+                			<stpid>11458</stpid>
+                			<stpnm>Peterson &amp; Target (2100 W)</stpnm>
+                			<pdist>26316.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.990645143712</lat>
+						<lon>-87.679690718651</lon>
+
+							<typ>S</typ>
+                			<stpid>14556</stpid>
+                			<stpnm>Peterson &amp; Damen</stpnm>
+                			<pdist>27395.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.990685014955</lat>
+						<lon>-87.677174806595</lon>
+
+							<typ>S</typ>
+                			<stpid>11460</stpid>
+                			<stpnm>Peterson &amp; Wolcott</stpnm>
+                			<pdist>27976.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.990728873293</lat>
+						<lon>-87.674331665039</lon>
+
+							<typ>S</typ>
+                			<stpid>11461</stpid>
+                			<stpnm>Peterson &amp; Ravenswood </stpnm>
+                			<pdist>28767.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.990748808891</lat>
+						<lon>-87.672271728516</lon>
+
+							<typ>S</typ>
+                			<stpid>11462</stpid>
+                			<stpnm>Peterson &amp; Ridge</stpnm>
+                			<pdist>29268.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.989748034149</lat>
+						<lon>-87.670254707336</lon>
+
+							<typ>S</typ>
+                			<stpid>11463</stpid>
+                			<stpnm>Ridge &amp; Clark</stpnm>
+                			<pdist>29974.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.989564623527</lat>
+						<lon>-87.66988992691</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.989492854009</lat>
+						<lon>-87.669702172279</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.988815026792</lat>
+						<lon>-87.668602466583</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.988200988848</lat>
+						<lon>-87.667599320412</lon>
+
+							<typ>S</typ>
+                			<stpid>11464</stpid>
+                			<stpnm>Ridge &amp; Ardmore</stpnm>
+                			<pdist>30876.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.986693779693</lat>
+						<lon>-87.665147781372</lon>
+
+							<typ>S</typ>
+                			<stpid>11465</stpid>
+                			<stpnm>Ridge &amp; Glenwood</stpnm>
+                			<pdist>31742.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.985844463577</lat>
+						<lon>-87.663785219193</lon>
+
+							<typ>S</typ>
+                			<stpid>11466</stpid>
+                			<stpnm>Ridge &amp; Wayne</stpnm>
+                			<pdist>32253.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.985054948294</lat>
+						<lon>-87.662476301193</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.983822806395</lat>
+						<lon>-87.660491466522</lon>
+
+							<typ>S</typ>
+                			<stpid>11467</stpid>
+                			<stpnm>Ridge &amp; Broadway/Bryn Mawr</stpnm>
+                			<pdist>33429.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.983587540344</lat>
+						<lon>-87.660110592842</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.983607478179</lat>
+						<lon>-87.659322023392</lon>
+
+							<typ>S</typ>
+                			<stpid>11468</stpid>
+                			<stpnm>Bryn Mawr Red Line Station</stpnm>
+                			<pdist>33834.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.983615453311</lat>
+						<lon>-87.658855319023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.98364735383</lat>
+						<lon>-87.656173110008</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.98365931652</lat>
+						<lon>-87.655561566353</lon>
+
+							<typ>S</typ>
+                			<stpid>11470</stpid>
+                			<stpnm>Bryn Mawr &amp; Sheridan</stpnm>
+                			<pdist>34809.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.983667291645</lat>
+						<lon>-87.65513241291</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.983759005518</lat>
+						<lon>-87.654488682747</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.983798881074</lat>
+						<lon>-87.653957605362</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.983751030404</lat>
+						<lon>-87.653844952583</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.983691217016</lat>
+						<lon>-87.653732299805</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.983611465745</lat>
+						<lon>-87.653641104698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.983699192138</lat>
+						<lon>-87.653517723083</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.983814831289</lat>
+						<lon>-87.653453350067</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.98387863211</lat>
+						<lon>-87.653458714485</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.983870657011</lat>
+						<lon>-87.653893232346</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.983826793948</lat>
+						<lon>-87.654499411583</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.983739067731</lat>
+						<lon>-87.655137777328</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.983723117497</lat>
+						<lon>-87.655534744263</lon>
+
+							<typ>S</typ>
+                			<stpid>11471</stpid>
+                			<stpnm>Bryn Mawr &amp; Sheridan</stpnm>
+                			<pdist>35921.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.983715142378</lat>
+						<lon>-87.656189203262</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.983691217016</lat>
+						<lon>-87.657916545868</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.983695204577</lat>
+						<lon>-87.658152580261</lon>
+
+							<typ>S</typ>
+                			<stpid>11473</stpid>
+                			<stpnm>Bryn Mawr Red Line Station</stpnm>
+                			<pdist>36716.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1682</pid>
+				<ln>33933.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.983695204577</lat>
+						<lon>-87.658152580261</lon>
+
+							<typ>S</typ>
+                			<stpid>11473</stpid>
+                			<stpnm>Bryn Mawr Red Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.983651341393</lat>
+						<lon>-87.66003549099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.98393047023</lat>
+						<lon>-87.660486102104</lon>
+
+							<typ>S</typ>
+                			<stpid>11474</stpid>
+                			<stpnm>Ridge &amp; Broadway/Bryn Mawr</stpnm>
+                			<pdist>549.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.984480749211</lat>
+						<lon>-87.661360502243</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.985537431019</lat>
+						<lon>-87.663141489029</lon>
+
+							<typ>S</typ>
+                			<stpid>11475</stpid>
+                			<stpnm>Ridge &amp; Wayne</stpnm>
+                			<pdist>1451.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.986618019561</lat>
+						<lon>-87.664868831635</lon>
+
+							<typ>S</typ>
+                			<stpid>11476</stpid>
+                			<stpnm>Ridge &amp; Glenwood</stpnm>
+                			<pdist>2088.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.987949789801</lat>
+						<lon>-87.667052149773</lon>
+
+							<typ>S</typ>
+                			<stpid>11477</stpid>
+                			<stpnm>Ridge &amp; Ardmore</stpnm>
+                			<pdist>2839.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.98955664914</lat>
+						<lon>-87.669648528099</lon>
+
+							<typ>S</typ>
+                			<stpid>11478</stpid>
+                			<stpnm>Ridge &amp; Clark</stpnm>
+                			<pdist>3775.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.989704175135</lat>
+						<lon>-87.66980946064</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.989875623836</lat>
+						<lon>-87.67010986805</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.990445787124</lat>
+						<lon>-87.67130613327</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.990792667185</lat>
+						<lon>-87.672030329704</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.990808615648</lat>
+						<lon>-87.672706246376</lon>
+
+							<typ>S</typ>
+                			<stpid>11479</stpid>
+                			<stpnm>Peterson &amp; Ridge</stpnm>
+                			<pdist>4808.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.990784692952</lat>
+						<lon>-87.674599885941</lon>
+
+							<typ>S</typ>
+                			<stpid>11480</stpid>
+                			<stpnm>Peterson &amp; Ravenswood </stpnm>
+                			<pdist>5219.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.99075279601</lat>
+						<lon>-87.676987051964</lon>
+
+							<typ>S</typ>
+                			<stpid>11481</stpid>
+                			<stpnm>Peterson &amp; Wolcott</stpnm>
+                			<pdist>5849.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.990704950567</lat>
+						<lon>-87.679733633995</lon>
+
+							<typ>S</typ>
+                			<stpid>11482</stpid>
+                			<stpnm>Peterson &amp; Damen</stpnm>
+                			<pdist>6599.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.990641156586</lat>
+						<lon>-87.682598233223</lon>
+
+							<typ>S</typ>
+                			<stpid>11483</stpid>
+                			<stpnm>2100 W Peterson</stpnm>
+                			<pdist>7494.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.990605272444</lat>
+						<lon>-87.68489420414</lon>
+
+							<typ>S</typ>
+                			<stpid>11484</stpid>
+                			<stpnm>Rosehill Cemetery</stpnm>
+                			<pdist>7979.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.990569388282</lat>
+						<lon>-87.68701851368</lon>
+
+							<typ>S</typ>
+                			<stpid>11485</stpid>
+                			<stpnm>Peterson &amp; Oakley</stpnm>
+                			<pdist>8600.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.990521542701</lat>
+						<lon>-87.689775824547</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.983200745117</lat>
+						<lon>-87.689555883408</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.983164856781</lat>
+						<lon>-87.695086598396</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.986534284573</lat>
+						<lon>-87.700831890106</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.989827777734</lat>
+						<lon>-87.706298232079</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.989947392923</lat>
+						<lon>-87.706410884857</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.990425851431</lat>
+						<lon>-87.70722091198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.99039794145</lat>
+						<lon>-87.710809707642</lon>
+
+							<typ>S</typ>
+                			<stpid>11495</stpid>
+                			<stpnm>Peterson &amp; Jersey</stpnm>
+                			<pdist>18625.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.990378005742</lat>
+						<lon>-87.713867425919</lon>
+
+							<typ>S</typ>
+                			<stpid>11496</stpid>
+                			<stpnm>Peterson &amp; Kimball</stpnm>
+                			<pdist>19423.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.990330160017</lat>
+						<lon>-87.71623313427</lon>
+
+							<typ>S</typ>
+                			<stpid>11497</stpid>
+                			<stpnm>Peterson &amp; St. Louis</stpnm>
+                			<pdist>20102.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.990298262847</lat>
+						<lon>-87.718684673309</lon>
+
+							<typ>S</typ>
+                			<stpid>11498</stpid>
+                			<stpnm>Peterson &amp; Central Park</stpnm>
+                			<pdist>20767.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.990278327108</lat>
+						<lon>-87.721045017242</lon>
+
+							<typ>S</typ>
+                			<stpid>11499</stpid>
+                			<stpnm>Peterson &amp; Lawndale</stpnm>
+                			<pdist>21446.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.990218519852</lat>
+						<lon>-87.724660634995</lon>
+
+							<typ>S</typ>
+                			<stpid>11500</stpid>
+                			<stpnm>3800 W Peterson</stpnm>
+                			<pdist>22384.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.990166686852</lat>
+						<lon>-87.728464007378</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.990174661162</lat>
+						<lon>-87.729048728943</lon>
+
+							<typ>S</typ>
+                			<stpid>15208</stpid>
+                			<stpnm>Peterson &amp; Pulaski</stpnm>
+                			<pdist>23599.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.990118840968</lat>
+						<lon>-87.73286819458</lon>
+
+							<typ>S</typ>
+                			<stpid>11502</stpid>
+                			<stpnm>Peterson &amp; Sauganash</stpnm>
+                			<pdist>24607.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.990082956532</lat>
+						<lon>-87.735212445259</lon>
+
+							<typ>S</typ>
+                			<stpid>11503</stpid>
+                			<stpnm>4300 W Peterson</stpnm>
+                			<pdist>25449.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.990070995048</lat>
+						<lon>-87.735636234283</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.990114853809</lat>
+						<lon>-87.735759615898</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.990098905173</lat>
+						<lon>-87.738221883774</lon>
+
+							<typ>S</typ>
+                			<stpid>11504</stpid>
+                			<stpnm>Peterson &amp; Kostner</stpnm>
+                			<pdist>26068.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.990082956532</lat>
+						<lon>-87.740635871887</lon>
+
+							<typ>S</typ>
+                			<stpid>11505</stpid>
+                			<stpnm>Peterson &amp; Kilbourn</stpnm>
+                			<pdist>26736.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.990067007887</lat>
+						<lon>-87.741966247559</lon>
+
+							<typ>S</typ>
+                			<stpid>11506</stpid>
+                			<stpnm>Peterson &amp; Forest Glen</stpnm>
+                			<pdist>27183.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.990023149093</lat>
+						<lon>-87.744626998901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.990019161928</lat>
+						<lon>-87.745705246925</lon>
+
+							<typ>S</typ>
+                			<stpid>11507</stpid>
+                			<stpnm>Peterson &amp; Kilpatrick</stpnm>
+                			<pdist>28118.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.989991251769</lat>
+						<lon>-87.748119235039</lon>
+
+							<typ>S</typ>
+                			<stpid>11508</stpid>
+                			<stpnm>Peterson &amp; Cicero</stpnm>
+                			<pdist>28762.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.989983277435</lat>
+						<lon>-87.749176025391</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.990027136257</lat>
+						<lon>-87.749658823013</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.990070995048</lat>
+						<lon>-87.749948501587</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.99015871254</lat>
+						<lon>-87.750399112701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.9902942757</lat>
+						<lon>-87.750903367996</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.99055742689</lat>
+						<lon>-87.751842141151</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.990824564107</lat>
+						<lon>-87.752646803856</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.99124320973</lat>
+						<lon>-87.753553390503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.991263145167</lat>
+						<lon>-87.75369822979</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.991414654285</lat>
+						<lon>-87.754036188126</lon>
+
+							<typ>S</typ>
+                			<stpid>11509</stpid>
+                			<stpnm>Caldwell &amp; Leader</stpnm>
+                			<pdist>30485.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.992395467748</lat>
+						<lon>-87.756112217903</lon>
+
+							<typ>S</typ>
+                			<stpid>11510</stpid>
+                			<stpnm>Caldwell &amp; Lenox</stpnm>
+                			<pdist>31164.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.992933712616</lat>
+						<lon>-87.757249474525</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.993364305233</lat>
+						<lon>-87.758172154427</lon>
+
+							<typ>S</typ>
+                			<stpid>11511</stpid>
+                			<stpnm>Caldwell &amp; Leroy</stpnm>
+                			<pdist>31829.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.994285285218</lat>
+						<lon>-87.760135531425</lon>
+
+							<typ>S</typ>
+                			<stpid>11512</stpid>
+                			<stpnm>Caldwell &amp; Navajo</stpnm>
+                			<pdist>32487.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.995258080774</lat>
+						<lon>-87.762243747711</lon>
+
+							<typ>S</typ>
+                			<stpid>11513</stpid>
+                			<stpnm>Caldwell &amp; Spokane</stpnm>
+                			<pdist>33152.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.99536173844</lat>
+						<lon>-87.762377858162</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.99604348273</lat>
+						<lon>-87.763820886612</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.996414252875</lat>
+						<lon>-87.764566540718</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.996270729204</lat>
+						<lon>-87.76464164257</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.996139165555</lat>
+						<lon>-87.764598727226</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.996087337376</lat>
+						<lon>-87.764566540718</lon>
+
+							<typ>S</typ>
+                			<stpid>11427</stpid>
+                			<stpnm>Caldwell &amp; Central Terminal</stpnm>
+                			<pdist>33933.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

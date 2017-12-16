@@ -1,0 +1,1125 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>1728</pid>
+				<ln>21551.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.970483045088</lat>
+						<lon>-87.762200832367</lon>
+
+							<typ>S</typ>
+                			<stpid>14109</stpid>
+                			<stpnm>Jefferson Park Transit Center</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.970586743096</lat>
+						<lon>-87.762351036072</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.970315532564</lat>
+						<lon>-87.762876749039</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.970439172803</lat>
+						<lon>-87.763005495071</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.970666510679</lat>
+						<lon>-87.763209342957</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.970514952185</lat>
+						<lon>-87.763515114784</lon>
+
+							<typ>S</typ>
+                			<stpid>9798</stpid>
+                			<stpnm>Gale &amp; Milwaukee</stpnm>
+                			<pdist>424.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.96968536246</lat>
+						<lon>-87.765054702759</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.969725246829</lat>
+						<lon>-87.765226364136</lon>
+
+							<typ>S</typ>
+                			<stpid>9799</stpid>
+                			<stpnm>Gale &amp; Higgins</stpnm>
+                			<pdist>893.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.970283625367</lat>
+						<lon>-87.767280936241</lon>
+
+							<typ>S</typ>
+                			<stpid>9800</stpid>
+                			<stpnm>Higgins &amp; Central/Edmunds</stpnm>
+                			<pdist>1536.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.97126875271</lat>
+						<lon>-87.770928740501</lon>
+
+							<typ>S</typ>
+                			<stpid>9801</stpid>
+                			<stpnm>Higgins &amp; Major</stpnm>
+                			<pdist>2607.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.971898907151</lat>
+						<lon>-87.773315906525</lon>
+
+							<typ>S</typ>
+                			<stpid>9802</stpid>
+                			<stpnm>Higgins &amp; Menard</stpnm>
+                			<pdist>3299.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.972521078836</lat>
+						<lon>-87.775649428368</lon>
+
+							<typ>S</typ>
+                			<stpid>9803</stpid>
+                			<stpnm>Higgins &amp; Marmora</stpnm>
+                			<pdist>3996.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.973151220887</lat>
+						<lon>-87.778047323227</lon>
+
+							<typ>S</typ>
+                			<stpid>15038</stpid>
+                			<stpnm>Higgins &amp; Austin</stpnm>
+                			<pdist>4687.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.973944871941</lat>
+						<lon>-87.780520319939</lon>
+
+							<typ>S</typ>
+                			<stpid>9805</stpid>
+                			<stpnm>Higgins &amp; Meade</stpnm>
+                			<pdist>5413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.97485416853</lat>
+						<lon>-87.78332054615</lon>
+
+							<typ>S</typ>
+                			<stpid>15883</stpid>
+                			<stpnm>Higgins &amp; Melvina</stpnm>
+                			<pdist>6283.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.975536132452</lat>
+						<lon>-87.78544485569</lon>
+
+							<typ>S</typ>
+                			<stpid>9807</stpid>
+                			<stpnm>Higgins &amp; Foster</stpnm>
+                			<pdist>6857.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.976285885531</lat>
+						<lon>-87.787730097771</lon>
+
+							<typ>S</typ>
+                			<stpid>9809</stpid>
+                			<stpnm>Higgins &amp; Nagle</stpnm>
+                			<pdist>7568.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.977047593715</lat>
+						<lon>-87.79007434845</lon>
+
+							<typ>S</typ>
+                			<stpid>9810</stpid>
+                			<stpnm>Higgins &amp; Neenah</stpnm>
+                			<pdist>8315.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.977813280718</lat>
+						<lon>-87.792493700981</lon>
+
+							<typ>S</typ>
+                			<stpid>9811</stpid>
+                			<stpnm>Higgins &amp; Natoma</stpnm>
+                			<pdist>9023.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.978495212954</lat>
+						<lon>-87.794591188431</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.978678655467</lat>
+						<lon>-87.795417308807</lon>
+
+							<typ>S</typ>
+                			<stpid>9813</stpid>
+                			<stpnm>Higgins &amp; Talcott</stpnm>
+                			<pdist>9814.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.979109344508</lat>
+						<lon>-87.797450423241</lon>
+
+							<typ>S</typ>
+                			<stpid>9814</stpid>
+                			<stpnm>Higgins &amp; Newcastle</stpnm>
+                			<pdist>10410.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.979631750454</lat>
+						<lon>-87.799896597862</lon>
+
+							<typ>S</typ>
+                			<stpid>9815</stpid>
+                			<stpnm>Higgins &amp; Newland</stpnm>
+                			<pdist>11087.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.980118262061</lat>
+						<lon>-87.802256941795</lon>
+
+							<typ>S</typ>
+                			<stpid>9817</stpid>
+                			<stpnm>Higgins &amp; Nordica</stpnm>
+                			<pdist>11753.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.980612745459</lat>
+						<lon>-87.804520726204</lon>
+
+							<typ>S</typ>
+                			<stpid>9818</stpid>
+                			<stpnm>Higgins &amp; Montclare</stpnm>
+                			<pdist>12421.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.981083298675</lat>
+						<lon>-87.80676305294</lon>
+
+							<typ>S</typ>
+                			<stpid>9819</stpid>
+                			<stpnm>Higgins &amp; Harlem</stpnm>
+                			<pdist>13047.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.981490045263</lat>
+						<lon>-87.808549404144</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.981864887858</lat>
+						<lon>-87.808281183243</lon>
+
+							<typ>S</typ>
+                			<stpid>14144</stpid>
+                			<stpnm>Harlem Blue Line Station</stpnm>
+                			<pdist>13809.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.982518863271</lat>
+						<lon>-87.807835936546</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.98257469013</lat>
+						<lon>-87.80774474144</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.982594628282</lat>
+						<lon>-87.807583808899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.982618554056</lat>
+						<lon>-87.806811332703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.982905662641</lat>
+						<lon>-87.806827425957</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.982993390007</lat>
+						<lon>-87.806891798973</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.985880350403</lat>
+						<lon>-87.806859612465</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.986494410731</lat>
+						<lon>-87.808227539063</lon>
+
+							<typ>S</typ>
+                			<stpid>9841</stpid>
+                			<stpnm>Talcott &amp; Oconto</stpnm>
+                			<pdist>15633.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.987387578816</lat>
+						<lon>-87.810153365135</lon>
+
+							<typ>S</typ>
+                			<stpid>9842</stpid>
+                			<stpnm>Talcott &amp; Odell</stpnm>
+                			<pdist>16271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.988185039732</lat>
+						<lon>-87.811837792397</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.988910720484</lat>
+						<lon>-87.813264727592</lon>
+
+							<typ>S</typ>
+                			<stpid>9843</stpid>
+                			<stpnm>Resurrection Hospital</stpnm>
+                			<pdist>17048.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.989907521218</lat>
+						<lon>-87.815265655518</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.990625208081</lat>
+						<lon>-87.816676497459</lon>
+
+							<typ>S</typ>
+                			<stpid>9844</stpid>
+                			<stpnm>Talcott &amp; Oriole</stpnm>
+                			<pdist>18382.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.991785451395</lat>
+						<lon>-87.818929553032</lon>
+
+							<typ>S</typ>
+                			<stpid>9845</stpid>
+                			<stpnm>Talcott &amp; Overhill</stpnm>
+                			<pdist>19142.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.99202866123</lat>
+						<lon>-87.819439172745</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.993296526958</lat>
+						<lon>-87.821933627129</lon>
+
+							<typ>S</typ>
+                			<stpid>9846</stpid>
+                			<stpnm>Talcott &amp; Canfield</stpnm>
+                			<pdist>20134.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.993372279142</lat>
+						<lon>-87.822078466415</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.994903251331</lat>
+						<lon>-87.821815609932</lon>
+
+							<typ>S</typ>
+                			<stpid>9847</stpid>
+                			<stpnm>Canfield &amp; Palatine</stpnm>
+                			<pdist>20726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.995884011036</lat>
+						<lon>-87.821633219719</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.996665418519</lat>
+						<lon>-87.821407914162</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.996661431771</lat>
+						<lon>-87.821021676064</lon>
+
+							<typ>S</typ>
+                			<stpid>17262</stpid>
+                			<stpnm>Devon &amp; Canfield</stpnm>
+                			<pdist>21551.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4672</pid>
+				<ln>22633.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.996661431771</lat>
+						<lon>-87.821021676064</lon>
+
+							<typ>S</typ>
+                			<stpid>17262</stpid>
+                			<stpnm>Devon &amp; Canfield</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.996677378763</lat>
+						<lon>-87.820774912834</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.996828874994</lat>
+						<lon>-87.820764183998</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.996876715834</lat>
+						<lon>-87.819101214409</lon>
+
+							<typ>S</typ>
+                			<stpid>9849</stpid>
+                			<stpnm>Devon &amp; Overhill</stpnm>
+                			<pdist>486.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.996936516833</lat>
+						<lon>-87.816821336746</lon>
+
+							<typ>S</typ>
+                			<stpid>9850</stpid>
+                			<stpnm>Devon &amp; Oriole</stpnm>
+                			<pdist>1120.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.997012264685</lat>
+						<lon>-87.813726067543</lon>
+
+							<typ>S</typ>
+                			<stpid>9851</stpid>
+                			<stpnm>Devon &amp; Olcott</stpnm>
+                			<pdist>1962.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.997115919494</lat>
+						<lon>-87.810405492783</lon>
+
+							<typ>S</typ>
+                			<stpid>9852</stpid>
+                			<stpnm>Devon &amp; Odell/Avondale</stpnm>
+                			<pdist>2837.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.996398305816</lat>
+						<lon>-87.809198498726</lon>
+
+							<typ>S</typ>
+                			<stpid>9853</stpid>
+                			<stpnm>Avondale &amp; Highland</stpnm>
+                			<pdist>3258.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.99535775161</lat>
+						<lon>-87.80736386776</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.995369712099</lat>
+						<lon>-87.806956171989</lon>
+
+							<typ>S</typ>
+                			<stpid>9854</stpid>
+                			<stpnm>Palatine &amp; Harlem</stpnm>
+                			<pdist>4012.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.99536572527</lat>
+						<lon>-87.806838154793</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.993715156322</lat>
+						<lon>-87.806870341301</lon>
+
+							<typ>S</typ>
+                			<stpid>9855</stpid>
+                			<stpnm>Harlem &amp; Myrtle</stpnm>
+                			<pdist>4660.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.992204090698</lat>
+						<lon>-87.806886434555</lon>
+
+							<typ>S</typ>
+                			<stpid>9856</stpid>
+                			<stpnm>Harlem &amp; Hood</stpnm>
+                			<pdist>5210.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.990182635472</lat>
+						<lon>-87.806907892227</lon>
+
+							<typ>S</typ>
+                			<stpid>9857</stpid>
+                			<stpnm>Harlem &amp; Peterson</stpnm>
+                			<pdist>5960.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.988846924706</lat>
+						<lon>-87.806918621063</lon>
+
+							<typ>S</typ>
+                			<stpid>9858</stpid>
+                			<stpnm>Harlem &amp; Thorndale</stpnm>
+                			<pdist>6386.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.987156313282</lat>
+						<lon>-87.806945443153</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.986087696111</lat>
+						<lon>-87.806923985481</lon>
+
+							<typ>S</typ>
+                			<stpid>9859</stpid>
+                			<stpnm>Harlem &amp; Talcott</stpnm>
+                			<pdist>7440.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.985876362979</lat>
+						<lon>-87.806929349899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.985748765276</lat>
+						<lon>-87.806966900826</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.984153772419</lat>
+						<lon>-87.806961536407</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.982985414797</lat>
+						<lon>-87.806977629662</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.982873761751</lat>
+						<lon>-87.807047367096</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.982347394758</lat>
+						<lon>-87.807042002678</lon>
+
+							<typ>S</typ>
+                			<stpid>9839</stpid>
+                			<stpnm>Harlem Blue Line Station</stpnm>
+                			<pdist>8798.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.981864887858</lat>
+						<lon>-87.807047367096</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.981095261847</lat>
+						<lon>-87.807101011276</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.980931764968</lat>
+						<lon>-87.806333899498</lon>
+
+							<typ>S</typ>
+                			<stpid>9860</stpid>
+                			<stpnm>Higgins &amp; Harlem</stpnm>
+                			<pdist>9386.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.980604769951</lat>
+						<lon>-87.804783582687</lon>
+
+							<typ>S</typ>
+                			<stpid>9861</stpid>
+                			<stpnm>Higgins &amp; Montclare</stpnm>
+                			<pdist>9859.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.980321638762</lat>
+						<lon>-87.803431749344</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.980030530734</lat>
+						<lon>-87.802101373672</lon>
+
+							<typ>S</typ>
+                			<stpid>15036</stpid>
+                			<stpnm>Higgins &amp; Nordica</stpnm>
+                			<pdist>10656.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.979555981918</lat>
+						<lon>-87.7998483181</lon>
+
+							<typ>S</typ>
+                			<stpid>9864</stpid>
+                			<stpnm>Higgins &amp; Newland</stpnm>
+                			<pdist>11255.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.979085417416</lat>
+						<lon>-87.797638177872</lon>
+
+							<typ>S</typ>
+                			<stpid>9865</stpid>
+                			<stpnm>Higgins &amp; Newcastle</stpnm>
+                			<pdist>11870.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.978563006988</lat>
+						<lon>-87.795175909996</lon>
+
+							<typ>S</typ>
+                			<stpid>9866</stpid>
+                			<stpnm>Higgins &amp; Rutherford</stpnm>
+                			<pdist>12547.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.978435394629</lat>
+						<lon>-87.794596552849</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.977825244504</lat>
+						<lon>-87.792761921883</lon>
+
+							<typ>S</typ>
+                			<stpid>9868</stpid>
+                			<stpnm>Higgins &amp; Natoma</stpnm>
+                			<pdist>13261.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.977067533597</lat>
+						<lon>-87.790358662605</lon>
+
+							<typ>S</typ>
+                			<stpid>9869</stpid>
+                			<stpnm>Higgins &amp; Neenah</stpnm>
+                			<pdist>13982.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.976166244674</lat>
+						<lon>-87.78759598732</lon>
+
+							<typ>S</typ>
+                			<stpid>15037</stpid>
+                			<stpnm>Higgins &amp; Nagle</stpnm>
+                			<pdist>14856.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.975392561707</lat>
+						<lon>-87.785219550133</lon>
+
+							<typ>S</typ>
+                			<stpid>9872</stpid>
+                			<stpnm>Higgins &amp; Mobile</stpnm>
+                			<pdist>15506.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.974734524984</lat>
+						<lon>-87.783154249191</lon>
+
+							<typ>S</typ>
+                			<stpid>9873</stpid>
+                			<stpnm>Higgins &amp; Melvina</stpnm>
+                			<pdist>16086.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.973952848283</lat>
+						<lon>-87.780729532242</lon>
+
+							<typ>S</typ>
+                			<stpid>9874</stpid>
+                			<stpnm>Higgins &amp; Meade</stpnm>
+                			<pdist>16805.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.973530100764</lat>
+						<lon>-87.779463529587</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.973067468189</lat>
+						<lon>-87.777972221375</lon>
+
+							<typ>S</typ>
+                			<stpid>14640</stpid>
+                			<stpnm>Higgins &amp; Austin</stpnm>
+                			<pdist>17497.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.972529055357</lat>
+						<lon>-87.775944471359</lon>
+
+							<typ>S</typ>
+                			<stpid>9876</stpid>
+                			<stpnm>Higgins &amp; Marmora</stpnm>
+                			<pdist>18223.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.971767293131</lat>
+						<lon>-87.773090600967</lon>
+
+							<typ>S</typ>
+                			<stpid>15188</stpid>
+                			<stpnm>Higgins &amp; Menard</stpnm>
+                			<pdist>19048.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.971244822672</lat>
+						<lon>-87.771116495132</lon>
+
+							<typ>S</typ>
+                			<stpid>9878</stpid>
+                			<stpnm>Higgins &amp; Major</stpnm>
+                			<pdist>19682.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.970327497759</lat>
+						<lon>-87.767693996429</lon>
+
+							<typ>S</typ>
+                			<stpid>9879</stpid>
+                			<stpnm>Higgins &amp; Central/Edmunds</stpnm>
+                			<pdist>20607.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.969617558976</lat>
+						<lon>-87.765043973923</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.969733223699</lat>
+						<lon>-87.764829397202</lon>
+
+							<typ>S</typ>
+                			<stpid>9880</stpid>
+                			<stpnm>Gale &amp; Higgins</stpnm>
+                			<pdist>21448.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.970036344047</lat>
+						<lon>-87.764298319817</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.970435184412</lat>
+						<lon>-87.763504385948</lon>
+
+							<typ>S</typ>
+                			<stpid>9881</stpid>
+                			<stpnm>Gale &amp; Milwaukee</stpnm>
+                			<pdist>21897.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.970582754714</lat>
+						<lon>-87.763220071793</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.969805015491</lat>
+						<lon>-87.762490510941</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.970128077552</lat>
+						<lon>-87.761852145195</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.970483045088</lat>
+						<lon>-87.762200832367</lon>
+
+							<typ>S</typ>
+                			<stpid>14109</stpid>
+                			<stpnm>Jefferson Park Transit Center</stpnm>
+                			<pdist>22633.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

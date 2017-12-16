@@ -1,0 +1,1264 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>2104</pid>
+				<ln>25400.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>42.007879153633</lat>
+						<lon>-87.665973901749</lon>
+
+							<typ>S</typ>
+                			<stpid>1754</stpid>
+                			<stpnm>Morse &amp; Glenwood (Red Line)</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>42.007915028035</lat>
+						<lon>-87.663817405701</lon>
+
+							<typ>S</typ>
+                			<stpid>1755</stpid>
+                			<stpnm>Morse &amp; Lakewood</stpnm>
+                			<pdist>438.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>42.007919014079</lat>
+						<lon>-87.663012742996</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>42.007954888459</lat>
+						<lon>-87.661564350128</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>42.008146218144</lat>
+						<lon>-87.661634087563</lon>
+
+							<typ>S</typ>
+                			<stpid>1210</stpid>
+                			<stpnm>Sheridan &amp; Morse</stpnm>
+                			<pdist>1126.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>42.009226422862</lat>
+						<lon>-87.662025690079</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>42.009226422862</lat>
+						<lon>-87.662401199341</lon>
+
+							<typ>S</typ>
+                			<stpid>12060</stpid>
+                			<stpnm>Lunt &amp; Sheridan</stpnm>
+                			<pdist>1626.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>42.009162647447</lat>
+						<lon>-87.665716409683</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>42.009158661482</lat>
+						<lon>-87.66613483429</lon>
+
+							<typ>S</typ>
+                			<stpid>12061</stpid>
+                			<stpnm>Lunt &amp; Glenwood </stpnm>
+                			<pdist>2581.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>42.009118801812</lat>
+						<lon>-87.668044567108</lon>
+
+							<typ>S</typ>
+                			<stpid>12062</stpid>
+                			<stpnm>Lunt &amp; Greenview</stpnm>
+                			<pdist>3173.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>42.009090900029</lat>
+						<lon>-87.669943571091</lon>
+
+							<typ>S</typ>
+                			<stpid>12063</stpid>
+                			<stpnm>Lunt &amp; Ashland</stpnm>
+                			<pdist>3623.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>42.009047054345</lat>
+						<lon>-87.672411203384</lon>
+
+							<typ>S</typ>
+                			<stpid>12064</stpid>
+                			<stpnm>Lunt &amp; Paulina</stpnm>
+                			<pdist>4356.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>42.008995236679</lat>
+						<lon>-87.674428224564</lon>
+
+							<typ>S</typ>
+                			<stpid>12065</stpid>
+                			<stpnm>Lunt &amp; Clark</stpnm>
+                			<pdist>4838.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>42.008975306796</lat>
+						<lon>-87.675801515579</lon>
+
+							<typ>S</typ>
+                			<stpid>12066</stpid>
+                			<stpnm>Lunt &amp; Ravenswood </stpnm>
+                			<pdist>5324.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>42.008943418971</lat>
+						<lon>-87.677882909775</lon>
+
+							<typ>S</typ>
+                			<stpid>12067</stpid>
+                			<stpnm>Lunt &amp; Wolcott</stpnm>
+                			<pdist>5809.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>42.008895587203</lat>
+						<lon>-87.679980397224</lon>
+
+							<typ>S</typ>
+                			<stpid>12068</stpid>
+                			<stpnm>Lunt &amp; Damen</stpnm>
+                			<pdist>6366.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>42.008863699338</lat>
+						<lon>-87.681584358215</lon>
+
+							<typ>S</typ>
+                			<stpid>12069</stpid>
+                			<stpnm>Lunt &amp; Ridge</stpnm>
+                			<pdist>6835.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>42.008855727369</lat>
+						<lon>-87.6817882061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>42.00901915253</lat>
+						<lon>-87.681868672371</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>42.008907545149</lat>
+						<lon>-87.683794498444</lon>
+
+							<typ>S</typ>
+                			<stpid>12070</stpid>
+                			<stpnm>Lunt &amp; Hamilton</stpnm>
+                			<pdist>7427.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>42.00882782547</lat>
+						<lon>-87.685918807983</lon>
+
+							<typ>S</typ>
+                			<stpid>12071</stpid>
+                			<stpnm>Lunt &amp; Bell</stpnm>
+                			<pdist>7999.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>42.008728175732</lat>
+						<lon>-87.687919735909</lon>
+
+							<typ>S</typ>
+                			<stpid>12072</stpid>
+                			<stpnm>Lunt &amp; Oakley</stpnm>
+                			<pdist>8554.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>42.008660413821</lat>
+						<lon>-87.689968943596</lon>
+
+							<typ>S</typ>
+                			<stpid>12073</stpid>
+                			<stpnm>Lunt &amp; Western</stpnm>
+                			<pdist>9106.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>42.008632511837</lat>
+						<lon>-87.692500948906</lon>
+
+							<typ>S</typ>
+                			<stpid>12074</stpid>
+                			<stpnm>Lunt &amp; Campbell</stpnm>
+                			<pdist>9758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>42.008580693833</lat>
+						<lon>-87.694759368896</lon>
+
+							<typ>S</typ>
+                			<stpid>12075</stpid>
+                			<stpnm>Lunt &amp; Rockwell</stpnm>
+                			<pdist>10426.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>42.008528875788</lat>
+						<lon>-87.697205543518</lon>
+
+							<typ>S</typ>
+                			<stpid>12076</stpid>
+                			<stpnm>Lunt &amp; Washtenaw</stpnm>
+                			<pdist>11086.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>42.008508945759</lat>
+						<lon>-87.699415683746</lon>
+
+							<typ>S</typ>
+                			<stpid>12077</stpid>
+                			<stpnm>Lunt &amp; California</stpnm>
+                			<pdist>11713.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>42.008504959752</lat>
+						<lon>-87.699699997902</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>42.009377889216</lat>
+						<lon>-87.699689269066</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>42.010167102803</lat>
+						<lon>-87.699694633484</lon>
+
+							<typ>S</typ>
+                			<stpid>11916</stpid>
+                			<stpnm>California &amp; Estes</stpnm>
+                			<pdist>12369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>42.012088278788</lat>
+						<lon>-87.699673175812</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>42.012088278788</lat>
+						<lon>-87.699989676476</lon>
+
+							<typ>S</typ>
+                			<stpid>12078</stpid>
+                			<stpnm>Touhy &amp; California</stpnm>
+                			<pdist>13179.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>42.012052406739</lat>
+						<lon>-87.702140808105</lon>
+
+							<typ>S</typ>
+                			<stpid>12079</stpid>
+                			<stpnm>Touhy &amp; Francisco</stpnm>
+                			<pdist>13718.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>42.012004577309</lat>
+						<lon>-87.704249024391</lon>
+
+							<typ>S</typ>
+                			<stpid>12080</stpid>
+                			<stpnm>Touhy &amp; Sacramento</stpnm>
+                			<pdist>14298.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>42.01194479047</lat>
+						<lon>-87.706604003906</lon>
+
+							<typ>S</typ>
+                			<stpid>12081</stpid>
+                			<stpnm>Touhy &amp; Albany</stpnm>
+                			<pdist>14948.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>42.011920875719</lat>
+						<lon>-87.707837820053</lon>
+
+							<typ>S</typ>
+                			<stpid>14752</stpid>
+                			<stpnm>Touhy &amp; Kedzie</stpnm>
+                			<pdist>15719.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>42.011885003576</lat>
+						<lon>-87.711281776428</lon>
+
+							<typ>S</typ>
+                			<stpid>14401</stpid>
+                			<stpnm>Touhy &amp; McCormick</stpnm>
+                			<pdist>16178.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>42.011892975165</lat>
+						<lon>-87.711485624313</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>42.009254324586</lat>
+						<lon>-87.711555361748</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>42.009282226297</lat>
+						<lon>-87.713803052902</lon>
+
+							<typ>S</typ>
+                			<stpid>14801</stpid>
+                			<stpnm>Lincolnwood Town Center</stpnm>
+                			<pdist>19444.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>42.009047054345</lat>
+						<lon>-87.71481692791</lon>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>42.009302156084</lat>
+						<lon>-87.714532613754</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>42.009059012262</lat>
+						<lon>-87.714827656746</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>42.008768035646</lat>
+						<lon>-87.715181708336</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>42.008728175732</lat>
+						<lon>-87.714473605156</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>42.008720203747</lat>
+						<lon>-87.713867425919</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>42.00854880581</lat>
+						<lon>-87.713819146156</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>42.008329575219</lat>
+						<lon>-87.71372795105</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>42.008162162258</lat>
+						<lon>-87.713626027107</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>42.007879153633</lat>
+						<lon>-87.713293433189</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>42.007739641875</lat>
+						<lon>-87.712960839272</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>42.007703767374</lat>
+						<lon>-87.71160364151</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>42.004738071964</lat>
+						<lon>-87.71168410778</lon>
+
+							<typ>S</typ>
+                			<stpid>14998</stpid>
+                			<stpnm>McCormick &amp; Pratt</stpnm>
+                			<pdist>21969.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>42.001700482553</lat>
+						<lon>-87.711764574051</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.997347148844</lat>
+						<lon>-87.711694836617</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.99735113555</lat>
+						<lon>-87.709280848503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.997929205214</lat>
+						<lon>-87.709323763847</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.997929205214</lat>
+						<lon>-87.709538340569</lon>
+
+							<typ>S</typ>
+                			<stpid>15001</stpid>
+                			<stpnm>Devon &amp; Kedzie Terminal</stpnm>
+                			<pdist>25400.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>2107</pid>
+				<ln>22428.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.997929205214</lat>
+						<lon>-87.709538340569</lon>
+
+							<typ>S</typ>
+                			<stpid>15001</stpid>
+                			<stpnm>Devon &amp; Kedzie Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.997925218544</lat>
+						<lon>-87.709720730782</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.997410936103</lat>
+						<lon>-87.7097260952</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.997406949402</lat>
+						<lon>-87.711609005928</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>42.00174034687</lat>
+						<lon>-87.71168410778</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>42.004578622058</lat>
+						<lon>-87.711609005928</lon>
+
+							<typ>S</typ>
+                			<stpid>14999</stpid>
+                			<stpnm>McCormick &amp; Pratt</stpnm>
+                			<pdist>3375.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>42.007942930334</lat>
+						<lon>-87.711517810822</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>42.007907055948</lat>
+						<lon>-87.712290287018</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>42.007911041992</lat>
+						<lon>-87.712622880936</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>42.007942930334</lat>
+						<lon>-87.712891101837</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>42.008086427679</lat>
+						<lon>-87.713180780411</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>42.008277756969</lat>
+						<lon>-87.713438272476</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>42.008437197604</lat>
+						<lon>-87.713529467583</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>42.008732161725</lat>
+						<lon>-87.713588476181</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>42.008736147717</lat>
+						<lon>-87.713250517845</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>42.009282226297</lat>
+						<lon>-87.713803052902</lon>
+
+							<typ>S</typ>
+                			<stpid>14801</stpid>
+                			<stpnm>Lincolnwood Town Center</stpnm>
+                			<pdist>5751.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>42.009306142041</lat>
+						<lon>-87.714511156082</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>42.008783979605</lat>
+						<lon>-87.715208530426</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>42.009198521126</lat>
+						<lon>-87.715820074081</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>42.009501453606</lat>
+						<lon>-87.716120481491</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>42.009868159415</lat>
+						<lon>-87.716292142868</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>42.010155145095</lat>
+						<lon>-87.716238498688</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>42.010964278305</lat>
+						<lon>-87.715841531754</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>42.011259230708</lat>
+						<lon>-87.715626955032</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>42.01133894734</lat>
+						<lon>-87.715428471565</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>42.011354890654</lat>
+						<lon>-87.715187072754</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>42.011342933168</lat>
+						<lon>-87.714688181877</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>42.011358876482</lat>
+						<lon>-87.714414596558</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>42.011446564633</lat>
+						<lon>-87.714275121689</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>42.011785358627</lat>
+						<lon>-87.714259028435</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>42.011821230827</lat>
+						<lon>-87.71124958992</lon>
+
+							<typ>S</typ>
+                			<stpid>14400</stpid>
+                			<stpnm>Touhy &amp; McCormick</stpnm>
+                			<pdist>8502.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>42.01183717402</lat>
+						<lon>-87.708728313446</lon>
+
+							<typ>S</typ>
+                			<stpid>14751</stpid>
+                			<stpnm>Touhy &amp; Kedzie</stpnm>
+                			<pdist>9103.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>42.011888989371</lat>
+						<lon>-87.706807851791</lon>
+
+							<typ>S</typ>
+                			<stpid>12039</stpid>
+                			<stpnm>Touhy &amp; Albany</stpnm>
+                			<pdist>9585.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>42.011940804679</lat>
+						<lon>-87.704533338547</lon>
+
+							<typ>S</typ>
+                			<stpid>12040</stpid>
+                			<stpnm>Touhy &amp; Sacramento</stpnm>
+                			<pdist>10178.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>42.011988634157</lat>
+						<lon>-87.702194452286</lon>
+
+							<typ>S</typ>
+                			<stpid>12041</stpid>
+                			<stpnm>Touhy &amp; Francisco</stpnm>
+                			<pdist>10833.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>42.012032477814</lat>
+						<lon>-87.699877023697</lon>
+
+							<typ>S</typ>
+                			<stpid>12042</stpid>
+                			<stpnm>Touhy &amp; California</stpnm>
+                			<pdist>11483.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>42.0120364636</lat>
+						<lon>-87.699753642082</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>42.010370383505</lat>
+						<lon>-87.699775099754</lon>
+
+							<typ>S</typ>
+                			<stpid>11870</stpid>
+                			<stpnm>California &amp; Estes</stpnm>
+                			<pdist>12104.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>42.009373903264</lat>
+						<lon>-87.699764370918</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>42.008437197604</lat>
+						<lon>-87.699791193008</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>42.008441183614</lat>
+						<lon>-87.699587345123</lon>
+
+							<typ>S</typ>
+                			<stpid>12043</stpid>
+                			<stpnm>Lunt &amp; California</stpnm>
+                			<pdist>12880.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>42.008469085683</lat>
+						<lon>-87.697516679764</lon>
+
+							<typ>S</typ>
+                			<stpid>12044</stpid>
+                			<stpnm>Lunt &amp; Washtenaw</stpnm>
+                			<pdist>13414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>42.008516917771</lat>
+						<lon>-87.695070505142</lon>
+
+							<typ>S</typ>
+                			<stpid>12045</stpid>
+                			<stpnm>Lunt &amp; Rockwell</stpnm>
+                			<pdist>14066.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>42.008572721829</lat>
+						<lon>-87.692656517029</lon>
+
+							<typ>S</typ>
+                			<stpid>12046</stpid>
+                			<stpnm>Lunt &amp; Campbell</stpnm>
+                			<pdist>14726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>42.00860460984</lat>
+						<lon>-87.689963579178</lon>
+
+							<typ>S</typ>
+                			<stpid>12047</stpid>
+                			<stpnm>Lunt &amp; Western</stpnm>
+                			<pdist>15519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>42.008656427824</lat>
+						<lon>-87.688171863556</lon>
+
+							<typ>S</typ>
+                			<stpid>12048</stpid>
+                			<stpnm>Lunt &amp; Oakley</stpnm>
+                			<pdist>15950.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>42.008756077675</lat>
+						<lon>-87.686133384705</lon>
+
+							<typ>S</typ>
+                			<stpid>12049</stpid>
+                			<stpnm>Lunt &amp; Bell</stpnm>
+                			<pdist>16511.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>42.008839783429</lat>
+						<lon>-87.684068083763</lon>
+
+							<typ>S</typ>
+                			<stpid>12050</stpid>
+                			<stpnm>Lunt &amp; Hamilton</stpnm>
+                			<pdist>17080.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>42.00894740495</lat>
+						<lon>-87.682099342346</lon>
+
+							<typ>S</typ>
+                			<stpid>12051</stpid>
+                			<stpnm>Lunt &amp; Ridge</stpnm>
+                			<pdist>17619.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>42.008959362886</lat>
+						<lon>-87.681943774223</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>42.008795937571</lat>
+						<lon>-87.681841850281</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>42.008831811457</lat>
+						<lon>-87.680152058601</lon>
+
+							<typ>S</typ>
+                			<stpid>12052</stpid>
+                			<stpnm>Lunt &amp; Damen</stpnm>
+                			<pdist>18169.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>42.008883629256</lat>
+						<lon>-87.678204774857</lon>
+
+							<typ>S</typ>
+                			<stpid>12053</stpid>
+                			<stpnm>Lunt &amp; Wolcott</stpnm>
+                			<pdist>18684.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>42.008915517111</lat>
+						<lon>-87.675957083702</lon>
+
+							<typ>S</typ>
+                			<stpid>12054</stpid>
+                			<stpnm>Lunt &amp; Ravenswood </stpnm>
+                			<pdist>19289.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>42.008943418971</lat>
+						<lon>-87.674208283424</lon>
+
+							<typ>S</typ>
+                			<stpid>12055</stpid>
+                			<stpnm>Lunt &amp; Clark</stpnm>
+                			<pdist>19811.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>42.008943418971</lat>
+						<lon>-87.673993706703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>42.007759572145</lat>
+						<lon>-87.673720121384</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>42.007759572145</lat>
+						<lon>-87.67334997654</lon>
+
+							<typ>S</typ>
+                			<stpid>12056</stpid>
+                			<stpnm>Morse &amp; Clark</stpnm>
+                			<pdist>20437.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>42.007819362917</lat>
+						<lon>-87.670184969902</lon>
+
+							<typ>S</typ>
+                			<stpid>12058</stpid>
+                			<stpnm>Morse &amp; Ashland</stpnm>
+                			<pdist>21134.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>42.007847265258</lat>
+						<lon>-87.667942643166</lon>
+
+							<typ>S</typ>
+                			<stpid>1753</stpid>
+                			<stpnm>Morse &amp; Greenview</stpnm>
+                			<pdist>21738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>42.007879153633</lat>
+						<lon>-87.665973901749</lon>
+
+							<typ>S</typ>
+                			<stpid>1754</stpid>
+                			<stpnm>Morse &amp; Glenwood (Red Line)</stpnm>
+                			<pdist>22428.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

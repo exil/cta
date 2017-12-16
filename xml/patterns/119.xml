@@ -1,0 +1,1668 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>754</pid>
+				<ln>33979.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.677659899206</lat>
+						<lon>-87.680312991142</lon>
+
+							<typ>S</typ>
+                			<stpid>15819</stpid>
+                			<stpnm>119th Street &amp; Western</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.677671919216</lat>
+						<lon>-87.680827975273</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.677595792447</lat>
+						<lon>-87.680763602257</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.677239197435</lat>
+						<lon>-87.680736780167</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.677219163948</lat>
+						<lon>-87.680130600929</lon>
+
+							<typ>S</typ>
+                			<stpid>14180</stpid>
+                			<stpnm>Western &amp; 119th Street Terminal</stpnm>
+                			<pdist>347.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.677183103657</lat>
+						<lon>-87.678751945496</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.677227177344</lat>
+						<lon>-87.677056789398</lon>
+
+							<typ>S</typ>
+                			<stpid>12437</stpid>
+                			<stpnm>119th Street &amp; Bell</stpnm>
+                			<pdist>1192.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.677303304549</lat>
+						<lon>-87.672164440155</lon>
+
+							<typ>S</typ>
+                			<stpid>12440</stpid>
+                			<stpnm>119th Street &amp; Vincennes</stpnm>
+                			<pdist>2375.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.677367411599</lat>
+						<lon>-87.669004797935</lon>
+
+							<typ>S</typ>
+                			<stpid>17094</stpid>
+                			<stpnm>119th &amp; Division</stpnm>
+                			<pdist>3380.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.677439531954</lat>
+						<lon>-87.6651263237</lon>
+
+							<typ>S</typ>
+                			<stpid>12441</stpid>
+                			<stpnm>119th Street &amp; Page</stpnm>
+                			<pdist>4331.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.677487612146</lat>
+						<lon>-87.662664055824</lon>
+
+							<typ>S</typ>
+                			<stpid>12442</stpid>
+                			<stpnm>119th Street &amp; Marshfield</stpnm>
+                			<pdist>5092.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.677507645549</lat>
+						<lon>-87.661494612694</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.677523672267</lat>
+						<lon>-87.660233974457</lon>
+
+							<typ>S</typ>
+                			<stpid>12443</stpid>
+                			<stpnm>119th Street &amp; Justine</stpnm>
+                			<pdist>5822.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.677547712336</lat>
+						<lon>-87.659075260162</lon>
+
+							<typ>S</typ>
+                			<stpid>12444</stpid>
+                			<stpnm>119th Street &amp; Laflin</stpnm>
+                			<pdist>6077.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.677559732367</lat>
+						<lon>-87.657723426819</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.677619832489</lat>
+						<lon>-87.656618356705</lon>
+
+							<typ>S</typ>
+                			<stpid>12445</stpid>
+                			<stpnm>119th Street &amp; Loomis</stpnm>
+                			<pdist>6742.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.677627845834</lat>
+						<lon>-87.65510559082</lon>
+
+							<typ>S</typ>
+                			<stpid>17421</stpid>
+                			<stpnm>119th Street &amp; Ada</stpnm>
+                			<pdist>7192.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.677691952561</lat>
+						<lon>-87.651683092117</lon>
+
+							<typ>S</typ>
+                			<stpid>12446</stpid>
+                			<stpnm>1220 W 119th Street</stpnm>
+                			<pdist>7876.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.677715992567</lat>
+						<lon>-87.646876573563</lon>
+
+							<typ>S</typ>
+                			<stpid>12447</stpid>
+                			<stpnm>119th Street &amp; Morgan</stpnm>
+                			<pdist>9447.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.677736025899</lat>
+						<lon>-87.644462585449</lon>
+
+							<typ>S</typ>
+                			<stpid>12449</stpid>
+                			<stpnm>119th Street &amp; Peoria</stpnm>
+                			<pdist>10100.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.67777208588</lat>
+						<lon>-87.642080783844</lon>
+
+							<typ>S</typ>
+                			<stpid>12453</stpid>
+                			<stpnm>119th Street &amp; Halsted</stpnm>
+                			<pdist>10741.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.67780413918</lat>
+						<lon>-87.639580965042</lon>
+
+							<typ>S</typ>
+                			<stpid>12454</stpid>
+                			<stpnm>119th Street &amp; Union</stpnm>
+                			<pdist>11425.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.677824172484</lat>
+						<lon>-87.637209892273</lon>
+
+							<typ>S</typ>
+                			<stpid>12455</stpid>
+                			<stpnm>119th Street &amp; Wallace</stpnm>
+                			<pdist>12081.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.677852219099</lat>
+						<lon>-87.635868787766</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.677856225758</lat>
+						<lon>-87.634806632996</lon>
+
+							<typ>S</typ>
+                			<stpid>12456</stpid>
+                			<stpnm>119th Street &amp; Normal</stpnm>
+                			<pdist>12748.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.677884272359</lat>
+						<lon>-87.632430195808</lon>
+
+							<typ>S</typ>
+                			<stpid>12457</stpid>
+                			<stpnm>119th Street &amp; Stewart</stpnm>
+                			<pdist>13416.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.677904305638</lat>
+						<lon>-87.629989385605</lon>
+
+							<typ>S</typ>
+                			<stpid>12458</stpid>
+                			<stpnm>119th Street &amp; Princeton</stpnm>
+                			<pdist>14066.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.677928345565</lat>
+						<lon>-87.627564668655</lon>
+
+							<typ>S</typ>
+                			<stpid>12459</stpid>
+                			<stpnm>119th Street &amp; Wentworth</stpnm>
+                			<pdist>14745.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.677940365525</lat>
+						<lon>-87.626212835312</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.677948378831</lat>
+						<lon>-87.625268697739</lon>
+
+							<typ>S</typ>
+                			<stpid>12460</stpid>
+                			<stpnm>119th Street &amp; Perry</stpnm>
+                			<pdist>15387.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.677972418741</lat>
+						<lon>-87.622801065445</lon>
+
+							<typ>S</typ>
+                			<stpid>12461</stpid>
+                			<stpnm>119th Street &amp; State</stpnm>
+                			<pdist>16059.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.678000465292</lat>
+						<lon>-87.62191593647</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.678032518478</lat>
+						<lon>-87.620435357094</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.678252883699</lat>
+						<lon>-87.620435357094</lon>
+
+							<typ>S</typ>
+                			<stpid>7599</stpid>
+                			<stpnm>Michigan &amp; 119th Street</stpnm>
+                			<pdist>16805.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.679799425655</lat>
+						<lon>-87.620510458946</lon>
+
+							<typ>S</typ>
+                			<stpid>7600</stpid>
+                			<stpnm>Michigan &amp; 118th Street</stpnm>
+                			<pdist>17319.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.681462117129</lat>
+						<lon>-87.620542645454</lon>
+
+							<typ>S</typ>
+                			<stpid>7601</stpid>
+                			<stpnm>Michigan &amp; 117th Street</stpnm>
+                			<pdist>17941.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.682463717763</lat>
+						<lon>-87.620596289635</lon>
+
+							<typ>S</typ>
+                			<stpid>7602</stpid>
+                			<stpnm>Michigan &amp; 116th Street</stpnm>
+                			<pdist>18304.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.68308870866</lat>
+						<lon>-87.620628476143</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.683849907322</lat>
+						<lon>-87.620633840561</lon>
+
+							<typ>S</typ>
+                			<stpid>7603</stpid>
+                			<stpnm>Michigan &amp; Kensington</stpnm>
+                			<pdist>18806.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.68520401742</lat>
+						<lon>-87.62074649334</lon>
+
+							<typ>S</typ>
+                			<stpid>7604</stpid>
+                			<stpnm>Michigan &amp; 115th Street</stpnm>
+                			<pdist>19327.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.686253633451</lat>
+						<lon>-87.620816230774</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.687187056224</lat>
+						<lon>-87.620875239372</lon>
+
+							<typ>S</typ>
+                			<stpid>7605</stpid>
+                			<stpnm>Michigan &amp; 114th Street</stpnm>
+                			<pdist>20042.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.688056369116</lat>
+						<lon>-87.620944976807</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.689137986269</lat>
+						<lon>-87.620944976807</lon>
+
+							<typ>S</typ>
+                			<stpid>15079</stpid>
+                			<stpnm>Michigan &amp; 113th Street</stpnm>
+                			<pdist>20813.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.691044792959</lat>
+						<lon>-87.620977163315</lon>
+
+							<typ>S</typ>
+                			<stpid>17232</stpid>
+                			<stpnm>Michigan &amp; 112th Street</stpnm>
+                			<pdist>21477.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.692747251171</lat>
+						<lon>-87.620987892151</lon>
+
+							<typ>S</typ>
+                			<stpid>14950</stpid>
+                			<stpnm>Michigan &amp; 111th Street</stpnm>
+                			<pdist>22133.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.693007623161</lat>
+						<lon>-87.620982527733</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.693207908589</lat>
+						<lon>-87.620982527733</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.693420210462</lat>
+						<lon>-87.620912790298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.693944953596</lat>
+						<lon>-87.620767951012</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.694357534885</lat>
+						<lon>-87.620714306831</lon>
+
+							<typ>S</typ>
+                			<stpid>7609</stpid>
+                			<stpnm>Michigan &amp; 110th Street</stpnm>
+                			<pdist>22789.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.694950365502</lat>
+						<lon>-87.620714306831</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.69648048414</lat>
+						<lon>-87.62074649334</lon>
+
+							<typ>S</typ>
+                			<stpid>15080</stpid>
+                			<stpnm>Michigan &amp; 109th Street</stpnm>
+                			<pdist>23451.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.697946479893</lat>
+						<lon>-87.620810866356</lon>
+
+							<typ>S</typ>
+                			<stpid>7611</stpid>
+                			<stpnm>Michigan &amp; 108th Street</stpnm>
+                			<pdist>23956.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.699788333333</lat>
+						<lon>-87.620855</lon>
+
+							<typ>S</typ>
+                			<stpid>7612</stpid>
+                			<stpnm>Michigan &amp; 107th Street</stpnm>
+                			<pdist>24620.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.701643364499</lat>
+						<lon>-87.620730400085</lon>
+
+							<typ>S</typ>
+                			<stpid>7613</stpid>
+                			<stpnm>10600 S Michigan</stpnm>
+                			<pdist>25263.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.703373577672</lat>
+						<lon>-87.620612382889</lon>
+
+							<typ>S</typ>
+                			<stpid>7614</stpid>
+                			<stpnm>Michigan &amp; 105th Street</stpnm>
+                			<pdist>25939.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.705279962351</lat>
+						<lon>-87.62044608593</lon>
+
+							<typ>S</typ>
+                			<stpid>7615</stpid>
+                			<stpnm>Michigan &amp; 104th Street</stpnm>
+                			<pdist>26636.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.706317236152</lat>
+						<lon>-87.620295882225</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.707466628115</lat>
+						<lon>-87.620081305504</lon>
+
+							<typ>S</typ>
+                			<stpid>7616</stpid>
+                			<stpnm>Michigan &amp; 103rd Street</stpnm>
+                			<pdist>27554.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.708111399975</lat>
+						<lon>-87.620006203651</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.708972420637</lat>
+						<lon>-87.619861364365</lon>
+
+							<typ>S</typ>
+                			<stpid>7617</stpid>
+                			<stpnm>Michigan &amp; 102nd Street</stpnm>
+                			<pdist>27982.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.709961578977</lat>
+						<lon>-87.619839906693</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.710726464262</lat>
+						<lon>-87.619834542274</lon>
+
+							<typ>S</typ>
+                			<stpid>7618</stpid>
+                			<stpnm>Michigan &amp; 101st Street</stpnm>
+                			<pdist>28649.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.710926694509</lat>
+						<lon>-87.619850635529</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.711835731987</lat>
+						<lon>-87.619995474815</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.712572563505</lat>
+						<lon>-87.620086669922</lon>
+
+							<typ>S</typ>
+                			<stpid>7619</stpid>
+                			<stpnm>Michigan &amp; 100th Street</stpnm>
+                			<pdist>29308.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.714426618491</lat>
+						<lon>-87.620338797569</lon>
+
+							<typ>S</typ>
+                			<stpid>7620</stpid>
+                			<stpnm>Michigan &amp; 99th Street</stpnm>
+                			<pdist>30006.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.714722941977</lat>
+						<lon>-87.620387077332</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.715411688585</lat>
+						<lon>-87.620413899422</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.716240577333</lat>
+						<lon>-87.620408535004</lon>
+
+							<typ>S</typ>
+                			<stpid>7621</stpid>
+                			<stpnm>Michigan &amp; 98th Street</stpnm>
+                			<pdist>30648.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.718010439264</lat>
+						<lon>-87.620462179184</lon>
+
+							<typ>S</typ>
+                			<stpid>7622</stpid>
+                			<stpnm>Michigan &amp; 97th Street</stpnm>
+                			<pdist>31321.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.719880353555</lat>
+						<lon>-87.620515823364</lon>
+
+							<typ>S</typ>
+                			<stpid>7623</stpid>
+                			<stpnm>Michigan &amp; 96th Street</stpnm>
+                			<pdist>31979.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.721850311468</lat>
+						<lon>-87.62055337429</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.721842303632</lat>
+						<lon>-87.621030807495</lon>
+
+							<typ>S</typ>
+                			<stpid>2982</stpid>
+                			<stpnm>95th Street &amp; Michigan</stpnm>
+                			<pdist>32801.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.721814276195</lat>
+						<lon>-87.624968290329</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.722306756513</lat>
+						<lon>-87.625011205673</lon>
+
+							<typ>S</typ>
+                			<stpid>14011</stpid>
+                			<stpnm>95th Red Line Station</stpnm>
+                			<pdist>33979.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>757</pid>
+				<ln>33762.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.722306756513</lat>
+						<lon>-87.625011205673</lon>
+
+							<typ>S</typ>
+                			<stpid>14011</stpid>
+                			<stpnm>95th Red Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.722302752624</lat>
+						<lon>-87.625091671944</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.721582048394</lat>
+						<lon>-87.625064849854</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.721606071999</lat>
+						<lon>-87.623037099838</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.721686150615</lat>
+						<lon>-87.620751857758</lon>
+
+							<typ>S</typ>
+                			<stpid>2816</stpid>
+                			<stpnm>95th Street &amp; Michigan</stpnm>
+                			<pdist>1534.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.721690154544</lat>
+						<lon>-87.620649933815</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.720040514991</lat>
+						<lon>-87.620601654053</lon>
+
+							<typ>S</typ>
+                			<stpid>7529</stpid>
+                			<stpnm>Michigan &amp; 96th Street</stpnm>
+                			<pdist>2164.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.719147609899</lat>
+						<lon>-87.620590925217</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.7182546924</lat>
+						<lon>-87.620558738708</lon>
+
+							<typ>S</typ>
+                			<stpid>7530</stpid>
+                			<stpnm>Michigan &amp; 97th Street</stpnm>
+                			<pdist>2739.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.716464815931</lat>
+						<lon>-87.620494365692</lon>
+
+							<typ>S</typ>
+                			<stpid>7531</stpid>
+                			<stpnm>Michigan &amp; 98th Street</stpnm>
+                			<pdist>3501.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.715431710179</lat>
+						<lon>-87.620494365692</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.71465887215</lat>
+						<lon>-87.620462179184</lon>
+
+							<typ>S</typ>
+                			<stpid>7532</stpid>
+                			<stpnm>Michigan &amp; 99th Street</stpnm>
+                			<pdist>4036.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.713501599902</lat>
+						<lon>-87.620285153389</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.712540527528</lat>
+						<lon>-87.620167136192</lon>
+
+							<typ>S</typ>
+                			<stpid>15082</stpid>
+                			<stpnm>Michigan &amp; 100th Street</stpnm>
+                			<pdist>4956.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.710910676112</lat>
+						<lon>-87.619952559471</lon>
+
+							<typ>S</typ>
+                			<stpid>7534</stpid>
+                			<stpnm>Michigan &amp; 101st Street</stpnm>
+                			<pdist>5471.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.70997759761</lat>
+						<lon>-87.619909644127</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.709132609255</lat>
+						<lon>-87.619947195053</lon>
+
+							<typ>S</typ>
+                			<stpid>7535</stpid>
+                			<stpnm>Michigan &amp; 102nd Street</stpnm>
+                			<pdist>6136.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.7075267003</lat>
+						<lon>-87.620161771774</lon>
+
+							<typ>S</typ>
+                			<stpid>7536</stpid>
+                			<stpnm>Michigan &amp; 103rd Street</stpnm>
+                			<pdist>6834.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.706305221493</lat>
+						<lon>-87.620387077332</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.705516253994</lat>
+						<lon>-87.62049973011</lon>
+
+							<typ>S</typ>
+                			<stpid>7537</stpid>
+                			<stpnm>Michigan &amp; 104th Street</stpnm>
+                			<pdist>7504.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.703633906644</lat>
+						<lon>-87.620676755905</lon>
+
+							<typ>S</typ>
+                			<stpid>7538</stpid>
+                			<stpnm>Michigan &amp; 105th Street</stpnm>
+                			<pdist>8187.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.701767524865</lat>
+						<lon>-87.620810866356</lon>
+
+							<typ>S</typ>
+                			<stpid>7539</stpid>
+                			<stpnm>10600 S Michigan</stpnm>
+                			<pdist>9022.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.6999050942</lat>
+						<lon>-87.620955705643</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.699672787236</lat>
+						<lon>-87.620944976807</lon>
+
+							<typ>S</typ>
+                			<stpid>15081</stpid>
+                			<stpnm>Michigan &amp; 107th Street</stpnm>
+                			<pdist>9636.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.698182798485</lat>
+						<lon>-87.620896697044</lon>
+
+							<typ>S</typ>
+                			<stpid>7541</stpid>
+                			<stpnm>Michigan &amp; 108th Street</stpnm>
+                			<pdist>10160.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.696448440144</lat>
+						<lon>-87.620832324028</lon>
+
+							<typ>S</typ>
+                			<stpid>7542</stpid>
+                			<stpnm>Michigan &amp; 109th Street</stpnm>
+                			<pdist>10836.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.694569832964</lat>
+						<lon>-87.620784044266</lon>
+
+							<typ>S</typ>
+                			<stpid>7543</stpid>
+                			<stpnm>Michigan &amp; 110th Street</stpnm>
+                			<pdist>11509.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.693976998839</lat>
+						<lon>-87.620837688446</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.693211914291</lat>
+						<lon>-87.621057629585</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.692378722862</lat>
+						<lon>-87.621079087257</lon>
+
+							<typ>S</typ>
+                			<stpid>14951</stpid>
+                			<stpnm>Michigan &amp; 111th Street</stpnm>
+                			<pdist>12306.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.690920611891</lat>
+						<lon>-87.621052265167</lon>
+
+							<typ>S</typ>
+                			<stpid>7545</stpid>
+                			<stpnm>Michigan &amp; 112th Street</stpnm>
+                			<pdist>12823.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.68917403986</lat>
+						<lon>-87.621020078659</lon>
+
+							<typ>S</typ>
+                			<stpid>7546</stpid>
+                			<stpnm>Michigan &amp; 113th Street</stpnm>
+                			<pdist>13492.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.688068387184</lat>
+						<lon>-87.621025443077</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.687239135207</lat>
+						<lon>-87.620955705643</lon>
+
+							<typ>S</typ>
+                			<stpid>7547</stpid>
+                			<stpnm>Michigan &amp; 114th Street</stpnm>
+                			<pdist>14193.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.686225590497</lat>
+						<lon>-87.620869874954</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.68499168843</lat>
+						<lon>-87.620784044266</lon>
+
+							<typ>S</typ>
+                			<stpid>17233</stpid>
+                			<stpnm>Michigan &amp; 115th Street</stpnm>
+                			<pdist>14988.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.68403419617</lat>
+						<lon>-87.620725035667</lon>
+
+							<typ>S</typ>
+                			<stpid>7549</stpid>
+                			<stpnm>Michigan &amp; Kensington</stpnm>
+                			<pdist>15335.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.683148803619</lat>
+						<lon>-87.620708942413</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.682656023301</lat>
+						<lon>-87.620698213577</lon>
+
+							<typ>S</typ>
+                			<stpid>7550</stpid>
+                			<stpnm>Michigan &amp; 116th Street</stpnm>
+                			<pdist>15841.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.681758592541</lat>
+						<lon>-87.620633840561</lon>
+
+							<typ>S</typ>
+                			<stpid>7551</stpid>
+                			<stpnm>Michigan &amp; 117th Street</stpnm>
+                			<pdist>16173.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.680007765254</lat>
+						<lon>-87.620596289635</lon>
+
+							<typ>S</typ>
+                			<stpid>7552</stpid>
+                			<stpnm>Michigan &amp; 118th Street</stpnm>
+                			<pdist>16828.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.678160731062</lat>
+						<lon>-87.620515823364</lon>
+
+							<typ>S</typ>
+                			<stpid>7553</stpid>
+                			<stpnm>Michigan &amp; 119th Street</stpnm>
+                			<pdist>17460.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.678100631445</lat>
+						<lon>-87.620510458946</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.678032518478</lat>
+						<lon>-87.622511386871</lon>
+
+							<typ>S</typ>
+                			<stpid>12416</stpid>
+                			<stpnm>119th Street &amp; State</stpnm>
+                			<pdist>17979.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.678012485239</lat>
+						<lon>-87.624989748001</lon>
+
+							<typ>S</typ>
+                			<stpid>12417</stpid>
+                			<stpnm>119th Street &amp; Perry</stpnm>
+                			<pdist>18666.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.678004471941</lat>
+						<lon>-87.626207470894</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.677988445343</lat>
+						<lon>-87.627371549606</lon>
+
+							<typ>S</typ>
+                			<stpid>12418</stpid>
+                			<stpnm>119th Street &amp; Wentworth</stpnm>
+                			<pdist>19312.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.677972418741</lat>
+						<lon>-87.629694342613</lon>
+
+							<typ>S</typ>
+                			<stpid>12419</stpid>
+                			<stpnm>119th Street &amp; Princeton</stpnm>
+                			<pdist>19968.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.677956392135</lat>
+						<lon>-87.632113695145</lon>
+
+							<typ>S</typ>
+                			<stpid>12420</stpid>
+                			<stpnm>119th Street &amp; Stewart</stpnm>
+                			<pdist>20609.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.677932352219</lat>
+						<lon>-87.634516954422</lon>
+
+							<typ>S</typ>
+                			<stpid>12421</stpid>
+                			<stpnm>119th Street &amp; Normal</stpnm>
+                			<pdist>21264.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.677920332257</lat>
+						<lon>-87.63588488102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.677892285672</lat>
+						<lon>-87.636952400208</lon>
+
+							<typ>S</typ>
+                			<stpid>12422</stpid>
+                			<stpnm>119th Street &amp; Wallace</stpnm>
+                			<pdist>21922.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.677872252389</lat>
+						<lon>-87.639328837395</lon>
+
+							<typ>S</typ>
+                			<stpid>12423</stpid>
+                			<stpnm>119th Street &amp; Union</stpnm>
+                			<pdist>22580.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.677832185804</lat>
+						<lon>-87.642198801041</lon>
+
+							<typ>S</typ>
+                			<stpid>15770</stpid>
+                			<stpnm>119th Street &amp; Halsted</stpnm>
+                			<pdist>23431.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.67780413918</lat>
+						<lon>-87.644172906876</lon>
+
+							<typ>S</typ>
+                			<stpid>12425</stpid>
+                			<stpnm>119th Street &amp; Peoria</stpnm>
+                			<pdist>23910.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.677788112532</lat>
+						<lon>-87.646656632423</lon>
+
+							<typ>S</typ>
+                			<stpid>12426</stpid>
+                			<stpnm>119th Street &amp; Morgan</stpnm>
+                			<pdist>24539.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.677760065889</lat>
+						<lon>-87.651436328888</lon>
+
+							<typ>S</typ>
+                			<stpid>12427</stpid>
+                			<stpnm>119th Street &amp; Racine</stpnm>
+                			<pdist>25915.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.67769595923</lat>
+						<lon>-87.654853463173</lon>
+
+							<typ>S</typ>
+                			<stpid>17422</stpid>
+                			<stpnm>119th Street &amp; Ada</stpnm>
+                			<pdist>26758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.677691952561</lat>
+						<lon>-87.656355500221</lon>
+
+							<typ>S</typ>
+                			<stpid>12428</stpid>
+                			<stpnm>119th Street &amp; Loomis</stpnm>
+                			<pdist>27170.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.677623839162</lat>
+						<lon>-87.657723426819</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.677611819142</lat>
+						<lon>-87.658796310425</lon>
+
+							<typ>S</typ>
+                			<stpid>12429</stpid>
+                			<stpnm>119th Street &amp; Laflin</stpnm>
+                			<pdist>27841.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.677575759071</lat>
+						<lon>-87.661092281342</lon>
+
+							<typ>S</typ>
+                			<stpid>12430</stpid>
+                			<stpnm>119th Street &amp; Ashland</stpnm>
+                			<pdist>28492.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.677575759071</lat>
+						<lon>-87.661424875259</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.67755572569</lat>
+						<lon>-87.662744522095</lon>
+
+							<typ>S</typ>
+                			<stpid>12431</stpid>
+                			<stpnm>119th Street &amp; Marshfield</stpnm>
+                			<pdist>28977.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.677507645549</lat>
+						<lon>-87.665061950684</lon>
+
+							<typ>S</typ>
+                			<stpid>12432</stpid>
+                			<stpnm>119th Street &amp; Page</stpnm>
+                			<pdist>29665.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.677503638869</lat>
+						<lon>-87.66626894474</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.677447545322</lat>
+						<lon>-87.668457627296</lon>
+
+							<typ>S</typ>
+                			<stpid>17093</stpid>
+                			<stpnm>1916 W 119th Street</stpnm>
+                			<pdist>30469.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.677379431664</lat>
+						<lon>-87.671670913696</lon>
+
+							<typ>S</typ>
+                			<stpid>12433</stpid>
+                			<stpnm>119th Street &amp; Vincennes</stpnm>
+                			<pdist>31305.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.677295291163</lat>
+						<lon>-87.676799297333</lon>
+
+							<typ>S</typ>
+                			<stpid>12436</stpid>
+                			<stpnm>119th Street &amp; Bell</stpnm>
+                			<pdist>32646.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.677247210827</lat>
+						<lon>-87.678735852242</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.677275257694</lat>
+						<lon>-87.680060863495</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.677659899206</lat>
+						<lon>-87.680060863495</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.677659899206</lat>
+						<lon>-87.680312991142</lon>
+
+							<typ>S</typ>
+                			<stpid>15819</stpid>
+                			<stpnm>119th Street &amp; Western</stpnm>
+                			<pdist>33762.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

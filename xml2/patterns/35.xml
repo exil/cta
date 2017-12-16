@@ -1,0 +1,2121 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>6122</pid>
+				<ln>46090.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.8312841342</lat>
+						<lon>-87.610859870911</lon>
+
+							<typ>S</typ>
+                			<stpid>7629</stpid>
+                			<stpnm>35th Street &amp; Cottage Grove</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.831296125475</lat>
+						<lon>-87.610940337181</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.831292128383</lat>
+						<lon>-87.613123655319</lon>
+
+							<typ>S</typ>
+                			<stpid>2526</stpid>
+                			<stpnm>35th Street &amp; Rhodes </stpnm>
+                			<pdist>723.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.83126814583</lat>
+						<lon>-87.614985108376</lon>
+
+							<typ>S</typ>
+                			<stpid>2527</stpid>
+                			<stpnm>Lake Meadows Shopping Center</stpnm>
+                			<pdist>1226.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.831244163267</lat>
+						<lon>-87.616658806801</lon>
+
+							<typ>S</typ>
+                			<stpid>2528</stpid>
+                			<stpnm>35th Street &amp; King Drive</stpnm>
+                			<pdist>1666.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.831220180696</lat>
+						<lon>-87.617318630219</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.831136241625</lat>
+						<lon>-87.617517113686</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.831120253218</lat>
+						<lon>-87.617726325989</lon>
+
+							<typ>S</typ>
+                			<stpid>7630</stpid>
+                			<stpnm>35th Street &amp; King Drive</stpnm>
+                			<pdist>1997.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.831100267704</lat>
+						<lon>-87.619244456291</lon>
+
+							<typ>S</typ>
+                			<stpid>7631</stpid>
+                			<stpnm>35th Street &amp; Giles</stpnm>
+                			<pdist>2374.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.831068290868</lat>
+						<lon>-87.622130513191</lon>
+
+							<typ>S</typ>
+                			<stpid>15315</stpid>
+                			<stpnm>35th Street &amp; Indiana</stpnm>
+                			<pdist>3113.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.831068290868</lat>
+						<lon>-87.623729109764</lon>
+
+							<typ>S</typ>
+                			<stpid>15316</stpid>
+                			<stpnm>35th Street &amp; Michigan</stpnm>
+                			<pdist>3527.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.831040311123</lat>
+						<lon>-87.626706361771</lon>
+
+							<typ>S</typ>
+                			<stpid>7635</stpid>
+                			<stpnm>35th Street &amp; State (Red/Green Line)</stpnm>
+                			<pdist>4233.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.831004337148</lat>
+						<lon>-87.628852128983</lon>
+
+							<typ>S</typ>
+                			<stpid>7636</stpid>
+                			<stpnm>35th Street &amp; Federal</stpnm>
+                			<pdist>4916.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.83100433714831</lat>
+						<lon>-87.62943685054779</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.8310762850784</lat>
+						<lon>-87.62984454631805</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.831040311123</lat>
+						<lon>-87.631604075432</lon>
+
+							<typ>S</typ>
+                			<stpid>17382</stpid>
+                			<stpnm>35th Street &amp; Wentworth</stpnm>
+                			<pdist>5768.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.830968363153</lat>
+						<lon>-87.631775736809</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.830948377591</lat>
+						<lon>-87.634908556938</lon>
+
+							<typ>S</typ>
+                			<stpid>7640</stpid>
+                			<stpnm>35th Street &amp; Shields</stpnm>
+                			<pdist>6608.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.830908406449</lat>
+						<lon>-87.636415958405</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.830880426635</lat>
+						<lon>-87.638615369797</lon>
+
+							<typ>S</typ>
+                			<stpid>7641</stpid>
+                			<stpnm>35th Street &amp; Normal</stpnm>
+                			<pdist>7601.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.83084445256967</lat>
+						<lon>-87.64113128185272</lon>
+
+							<typ>S</typ>
+                			<stpid>7642</stpid>
+                			<stpnm>35th Street &amp; Wallace</stpnm>
+                			<pdist>8278.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.830824466969</lat>
+						<lon>-87.643539905548</lon>
+
+							<typ>S</typ>
+                			<stpid>7643</stpid>
+                			<stpnm>35th Street &amp; Union</stpnm>
+                			<pdist>8943.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.83078449575</lat>
+						<lon>-87.645937800407</lon>
+
+							<typ>S</typ>
+                			<stpid>7644</stpid>
+                			<stpnm>35th Street &amp; Halsted</stpnm>
+                			<pdist>9610.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.830752518756</lat>
+						<lon>-87.648351788521</lon>
+
+							<typ>S</typ>
+                			<stpid>7645</stpid>
+                			<stpnm>35th Street &amp; Lituanica </stpnm>
+                			<pdist>10266.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.830724538874</lat>
+						<lon>-87.650808691978</lon>
+
+							<typ>S</typ>
+                			<stpid>7646</stpid>
+                			<stpnm>35th Street &amp; Morgan</stpnm>
+                			<pdist>10934.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.830680570462</lat>
+						<lon>-87.6532548666</lon>
+
+							<typ>S</typ>
+                			<stpid>7647</stpid>
+                			<stpnm>35th Street &amp; Aberdeen</stpnm>
+                			<pdist>11594.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.830660584811</lat>
+						<lon>-87.655593752861</lon>
+
+							<typ>S</typ>
+                			<stpid>7648</stpid>
+                			<stpnm>35th Street &amp; Racine</stpnm>
+                			<pdist>12241.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.830592633549</lat>
+						<lon>-87.659246921539</lon>
+
+							<typ>S</typ>
+                			<stpid>7649</stpid>
+                			<stpnm>35th Street &amp; Iron</stpnm>
+                			<pdist>13195.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.830576645006</lat>
+						<lon>-87.660620212555</lon>
+
+							<typ>S</typ>
+                			<stpid>7650</stpid>
+                			<stpnm>1349 W 35th Street</stpnm>
+                			<pdist>13652.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.83054067077</lat>
+						<lon>-87.664042711258</lon>
+
+							<typ>S</typ>
+                			<stpid>7651</stpid>
+                			<stpnm>35th Street &amp; Justine</stpnm>
+                			<pdist>14598.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.830524682214</lat>
+						<lon>-87.665389180183</lon>
+
+							<typ>S</typ>
+                			<stpid>7652</stpid>
+                			<stpnm>35th Street &amp; Ashland</stpnm>
+                			<pdist>14937.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.830504696514</lat>
+						<lon>-87.667781710625</lon>
+
+							<typ>S</typ>
+                			<stpid>7653</stpid>
+                			<stpnm>35th Street &amp; Paulina</stpnm>
+                			<pdist>15616.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.830488707949</lat>
+						<lon>-87.66904771328</lon>
+
+							<typ>S</typ>
+                			<stpid>7654</stpid>
+                			<stpnm>35th Street &amp; Hermitage</stpnm>
+                			<pdist>15946.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.830468722238</lat>
+						<lon>-87.670496106148</lon>
+
+							<typ>S</typ>
+                			<stpid>15936</stpid>
+                			<stpnm>35th Street &amp; Wood</stpnm>
+                			<pdist>16432.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.830440742231</lat>
+						<lon>-87.67269551754</lon>
+
+							<typ>S</typ>
+                			<stpid>7656</stpid>
+                			<stpnm>35th Street &amp; Wolcott</stpnm>
+                			<pdist>16946.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.830416759359</lat>
+						<lon>-87.675098776817</lon>
+
+							<typ>S</typ>
+                			<stpid>7657</stpid>
+                			<stpnm>35th Street &amp; Damen</stpnm>
+                			<pdist>17611.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.830384782182</lat>
+						<lon>-87.677292823792</lon>
+
+							<typ>S</typ>
+                			<stpid>7658</stpid>
+                			<stpnm>35th Street &amp; Archer</stpnm>
+                			<pdist>18199.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.830368793587</lat>
+						<lon>-87.680221796036</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.830132961352</lat>
+						<lon>-87.680205702782</lon>
+
+							<typ>S</typ>
+                			<stpid>4486</stpid>
+                			<stpnm>Leavitt &amp; 35th Street</stpnm>
+                			<pdist>19128.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.829477423119</lat>
+						<lon>-87.680178880692</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.828893828555</lat>
+						<lon>-87.681208848953</lon>
+
+							<typ>S</typ>
+                			<stpid>4432</stpid>
+                			<stpnm>35th/Archer Orange Line Station</stpnm>
+                			<pdist>19716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.82843414416</lat>
+						<lon>-87.680758237839</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.828841864398</lat>
+						<lon>-87.680076956749</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.830368793587</lat>
+						<lon>-87.680114507675</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.830368793587</lat>
+						<lon>-87.680511474609</lon>
+
+							<typ>S</typ>
+                			<stpid>15179</stpid>
+                			<stpnm>35th Street &amp; Leavitt</stpnm>
+                			<pdist>20860.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.830336816386</lat>
+						<lon>-87.682533860207</lon>
+
+							<typ>S</typ>
+                			<stpid>15180</stpid>
+                			<stpnm>35th Street &amp; Oakley</stpnm>
+                			<pdist>21451.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.830320827779</lat>
+						<lon>-87.684835195541</lon>
+
+							<typ>S</typ>
+                			<stpid>15181</stpid>
+                			<stpnm>35th Street &amp; Western</stpnm>
+                			<pdist>21856.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.830312833474</lat>
+						<lon>-87.685409188271</lon>
+
+							<typ>S</typ>
+                			<stpid>7415</stpid>
+                			<stpnm>35th Street &amp; Western Avenue</stpnm>
+                			<pdist>22206.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.830292847708</lat>
+						<lon>-87.686299681664</lon>
+
+							<typ>S</typ>
+                			<stpid>7416</stpid>
+                			<stpnm>35th Street &amp; Artesian</stpnm>
+                			<pdist>22478.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.830236887529</lat>
+						<lon>-87.688697576523</lon>
+
+							<typ>S</typ>
+                			<stpid>7417</stpid>
+                			<stpnm>35th Street &amp; Maplewood</stpnm>
+                			<pdist>23159.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.83021290458</lat>
+						<lon>-87.689834833145</lon>
+
+							<typ>S</typ>
+                			<stpid>7418</stpid>
+                			<stpnm>35th Street &amp; Rockwell</stpnm>
+                			<pdist>23407.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.830168935817</lat>
+						<lon>-87.692420482635</lon>
+
+							<typ>S</typ>
+                			<stpid>7419</stpid>
+                			<stpnm>35th Street &amp; Washtenaw</stpnm>
+                			<pdist>24167.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.830100984033</lat>
+						<lon>-87.694855928421</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.829901125427064</lat>
+						<lon>-87.69485056400299</lon>
+
+							<typ>S</typ>
+                			<stpid>4264</stpid>
+                			<stpnm>California &amp; 35th Street</stpnm>
+                			<pdist>24913.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.828334212333</lat>
+						<lon>-87.694823741913</lon>
+
+							<typ>S</typ>
+                			<stpid>4265</stpid>
+                			<stpnm>California &amp; 36th Street</stpnm>
+                			<pdist>25407.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.827482786841</lat>
+						<lon>-87.694786190987</lon>
+
+							<typ>S</typ>
+                			<stpid>4266</stpid>
+                			<stpnm>California &amp; 36th Place</stpnm>
+                			<pdist>25749.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.827374858857</lat>
+						<lon>-87.694780826569</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.827346877498</lat>
+						<lon>-87.697055339813</lon>
+
+							<typ>S</typ>
+                			<stpid>15434</stpid>
+                			<stpnm>36th Place &amp; Francisco</stpnm>
+                			<pdist>26400.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.827298909426</lat>
+						<lon>-87.699496150017</lon>
+
+							<typ>S</typ>
+                			<stpid>15435</stpid>
+                			<stpnm>36th Place &amp; Sacramento</stpnm>
+                			<pdist>27063.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.827250941318</lat>
+						<lon>-87.702022790909</lon>
+
+							<typ>S</typ>
+                			<stpid>15436</stpid>
+                			<stpnm>36th Place &amp; Albany</stpnm>
+                			<pdist>27719.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.828150337364</lat>
+						<lon>-87.702044248581</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.828146340076</lat>
+						<lon>-87.702301740646</lon>
+
+							<typ>S</typ>
+                			<stpid>15182</stpid>
+                			<stpnm>36th Street &amp; Albany</stpnm>
+                			<pdist>28156.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.828114361764</lat>
+						<lon>-87.704302668571</lon>
+
+							<typ>S</typ>
+                			<stpid>15183</stpid>
+                			<stpnm>36th Street &amp; Kedzie</stpnm>
+                			<pdist>28656.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.8281183590543</lat>
+						<lon>-87.70448505878448</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.83303883353822</lat>
+						<lon>-87.70464062690735</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.837263504538214</lat>
+						<lon>-87.70478010177612</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.8372555111</lat>
+						<lon>-87.705482840538</lon>
+
+							<typ>S</typ>
+                			<stpid>17696</stpid>
+                			<stpnm>31st Street &amp; Kedzie</stpnm>
+                			<pdist>32178.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.837227534061</lat>
+						<lon>-87.707049250603</lon>
+
+							<typ>S</typ>
+                			<stpid>7425</stpid>
+                			<stpnm>31st Street &amp; Spaulding</stpnm>
+                			<pdist>32606.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.837183570116</lat>
+						<lon>-87.709532976151</lon>
+
+							<typ>S</typ>
+                			<stpid>7426</stpid>
+                			<stpnm>31st Street &amp; Homan</stpnm>
+                			<pdist>33277.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.837143602868</lat>
+						<lon>-87.71201133728</lon>
+
+							<typ>S</typ>
+                			<stpid>17768</stpid>
+                			<stpnm>31st Street &amp; St. Louis</stpnm>
+                			<pdist>34123.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.837083651948</lat>
+						<lon>-87.715058326721</lon>
+
+							<typ>S</typ>
+                			<stpid>17689</stpid>
+                			<stpnm>31st Street &amp; Central Park</stpnm>
+                			<pdist>34788.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.837051678101</lat>
+						<lon>-87.716919779778</lon>
+
+							<typ>S</typ>
+                			<stpid>7429</stpid>
+                			<stpnm>31st Street &amp; Lawndale</stpnm>
+                			<pdist>35275.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.837007714036</lat>
+						<lon>-87.719382047653</lon>
+
+							<typ>S</typ>
+                			<stpid>7430</stpid>
+                			<stpnm>31st Street &amp; Hamlin</stpnm>
+                			<pdist>35937.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.836955756465</lat>
+						<lon>-87.72175848484</lon>
+
+							<typ>S</typ>
+                			<stpid>7431</stpid>
+                			<stpnm>31st Street &amp; Springfield</stpnm>
+                			<pdist>36627.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.836907795594</lat>
+						<lon>-87.724655270576</lon>
+
+							<typ>S</typ>
+                			<stpid>12950</stpid>
+                			<stpnm>31st Street &amp; Pulaski</stpnm>
+                			<pdist>37461.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.83689580537</lat>
+						<lon>-87.726618647575</lon>
+
+							<typ>S</typ>
+                			<stpid>17769</stpid>
+                			<stpnm>31st Street &amp; Karlov</stpnm>
+                			<pdist>38117.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.836851841197536</lat>
+						<lon>-87.72902190685272</lon>
+
+							<typ>S</typ>
+                			<stpid>17770</stpid>
+                			<stpnm>31st Street &amp; Keeler</stpnm>
+                			<pdist>38786.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.836831857473</lat>
+						<lon>-87.731462717056</lon>
+
+							<typ>S</typ>
+                			<stpid>17690</stpid>
+                			<stpnm>31st Street &amp; Kildare</stpnm>
+                			<pdist>39287.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.836823863981</lat>
+						<lon>-87.734493613243</lon>
+
+							<typ>S</typ>
+                			<stpid>17691</stpid>
+                			<stpnm>31st Street &amp; Kostner</stpnm>
+                			<pdist>40107.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.83677590301</lat>
+						<lon>-87.736902236938</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.836739932259</lat>
+						<lon>-87.740619778633</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.836703961487</lat>
+						<lon>-87.742191553116</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.836667990695</lat>
+						<lon>-87.742599248886</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.836648006913</lat>
+						<lon>-87.743436098099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.836703961487</lat>
+						<lon>-87.743634581566</lon>
+
+							<typ>S</typ>
+                			<stpid>17698</stpid>
+                			<stpnm>Cicero &amp; 31st Street</stpnm>
+                			<pdist>42759.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.838510468596</lat>
+						<lon>-87.743768692017</lon>
+
+							<typ>S</typ>
+                			<stpid>10406</stpid>
+                			<stpnm>Cicero &amp; 30th Street</stpnm>
+                			<pdist>43157.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.840197028761</lat>
+						<lon>-87.743822336197</lon>
+
+							<typ>S</typ>
+                			<stpid>10407</stpid>
+                			<stpnm>Cicero &amp; 29th Street</stpnm>
+                			<pdist>43807.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.841947487325</lat>
+						<lon>-87.743875980377</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.842031412217</lat>
+						<lon>-87.743822336197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.84213132266</lat>
+						<lon>-87.743816971779</lon>
+
+							<typ>S</typ>
+                			<stpid>10408</stpid>
+                			<stpnm>Cicero &amp; 28th Street</stpnm>
+                			<pdist>44477.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.846207535704</lat>
+						<lon>-87.74397790432</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.846299447318</lat>
+						<lon>-87.744047641754</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.846547208402</lat>
+						<lon>-87.744063735008</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.846551204541</lat>
+						<lon>-87.744374871254</lon>
+
+							<typ>S</typ>
+                			<stpid>6301</stpid>
+                			<stpnm>Cicero &amp; 24th Place Terminal</stpnm>
+                			<pdist>46090.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>6123</pid>
+				<ln>46582.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.84655520068</lat>
+						<lon>-87.744364142418</lon>
+
+							<typ>S</typ>
+                			<stpid>10269</stpid>
+                			<stpnm>Cicero &amp; 24th Place Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.846491262435</lat>
+						<lon>-87.744337320328</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.846439312564</lat>
+						<lon>-87.744267582893</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.846439312564</lat>
+						<lon>-87.744154930115</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.846295451164</lat>
+						<lon>-87.744154930115</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.846211531864</lat>
+						<lon>-87.744197845459</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.844888789313</lat>
+						<lon>-87.744122743607</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.842970564222</lat>
+						<lon>-87.744101285934</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.842307164661</lat>
+						<lon>-87.744053006172</lon>
+
+							<typ>S</typ>
+                			<stpid>10339</stpid>
+                			<stpnm>Cicero &amp; 28th Street</stpnm>
+                			<pdist>1670.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.842015426532</lat>
+						<lon>-87.744010090828</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.841927505191</lat>
+						<lon>-87.74395108223</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.840408844786</lat>
+						<lon>-87.743913531303</lon>
+
+							<typ>S</typ>
+                			<stpid>10340</stpid>
+                			<stpnm>Cicero &amp; 29th Street</stpnm>
+                			<pdist>2359.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.838610384536</lat>
+						<lon>-87.743859887123</lon>
+
+							<typ>S</typ>
+                			<stpid>10341</stpid>
+                			<stpnm>Cicero &amp; 30th Street</stpnm>
+                			<pdist>3026.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.836644010156</lat>
+						<lon>-87.743720412254</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.836588055529</lat>
+						<lon>-87.743430733681</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.83660803933</lat>
+						<lon>-87.742701172829</lon>
+
+							<typ>S</typ>
+                			<stpid>17692</stpid>
+                			<stpnm>Cicero &amp; 31st Street</stpnm>
+                			<pdist>4012.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.83663601664</lat>
+						<lon>-87.742229104042</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.836767909512</lat>
+						<lon>-87.734370231628</lon>
+
+							<typ>S</typ>
+                			<stpid>17693</stpid>
+                			<stpnm>31st Street &amp; Kostner</stpnm>
+                			<pdist>6295.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.836763912762</lat>
+						<lon>-87.731757760048</lon>
+
+							<typ>S</typ>
+                			<stpid>7441</stpid>
+                			<stpnm>31st Street &amp; Kildare</stpnm>
+                			<pdist>7007.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.836791890005</lat>
+						<lon>-87.729343771935</lon>
+
+							<typ>S</typ>
+                			<stpid>7442</stpid>
+                			<stpnm>31st Street &amp; Keeler</stpnm>
+                			<pdist>7669.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.836831857473</lat>
+						<lon>-87.726945877075</lon>
+
+							<typ>S</typ>
+                			<stpid>7443</stpid>
+                			<stpnm>31st Street &amp; Karlov</stpnm>
+                			<pdist>8320.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.836851841198</lat>
+						<lon>-87.724596261978</lon>
+
+							<typ>S</typ>
+                			<stpid>7445</stpid>
+                			<stpnm>31st Street &amp; Pulaski</stpnm>
+                			<pdist>8960.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.836887811886</lat>
+						<lon>-87.721989154816</lon>
+
+							<typ>S</typ>
+                			<stpid>7446</stpid>
+                			<stpnm>31st Street &amp; Springfield</stpnm>
+                			<pdist>9629.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.836935772773</lat>
+						<lon>-87.719559073448</lon>
+
+							<typ>S</typ>
+                			<stpid>7447</stpid>
+                			<stpnm>31st Street &amp; Hamlin</stpnm>
+                			<pdist>10290.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.836983733624</lat>
+						<lon>-87.716973423958</lon>
+
+							<typ>S</typ>
+                			<stpid>7448</stpid>
+                			<stpnm>31st Street &amp; Lawndale</stpnm>
+                			<pdist>10950.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.837031694439</lat>
+						<lon>-87.714248299599</lon>
+
+							<typ>S</typ>
+                			<stpid>17694</stpid>
+                			<stpnm>31st Street &amp; Central Park</stpnm>
+                			<pdist>11767.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.837071661757</lat>
+						<lon>-87.712343931198</lon>
+
+							<typ>S</typ>
+                			<stpid>17695</stpid>
+                			<stpnm>31st Street &amp; St. Louis</stpnm>
+                			<pdist>12285.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.837107632323</lat>
+						<lon>-87.709870934486</lon>
+
+							<typ>S</typ>
+                			<stpid>7451</stpid>
+                			<stpnm>31st Street &amp; Homan</stpnm>
+                			<pdist>12957.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.837147599594</lat>
+						<lon>-87.707462310791</lon>
+
+							<typ>S</typ>
+                			<stpid>7452</stpid>
+                			<stpnm>31st Street &amp; Spaulding</stpnm>
+                			<pdist>13607.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.83718756684</lat>
+						<lon>-87.704876661301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.833866203554</lat>
+						<lon>-87.704747915268</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.831436023516</lat>
+						<lon>-87.704704999924</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.828050405094</lat>
+						<lon>-87.704570889473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.828058399681</lat>
+						<lon>-87.704318761826</lon>
+
+							<typ>S</typ>
+                			<stpid>7809</stpid>
+                			<stpnm>36th Street &amp; Kedzie</stpnm>
+                			<pdist>17720.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.828082383437</lat>
+						<lon>-87.702232003212</lon>
+
+							<typ>S</typ>
+                			<stpid>7786</stpid>
+                			<stpnm>36th Street &amp; Albany</stpnm>
+                			<pdist>18245.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.828150337364</lat>
+						<lon>-87.699801921844</lon>
+
+							<typ>S</typ>
+                			<stpid>7787</stpid>
+                			<stpnm>36th Street &amp; Sacramento</stpnm>
+                			<pdist>18917.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.828186312943</lat>
+						<lon>-87.697371840477</lon>
+
+							<typ>S</typ>
+                			<stpid>7788</stpid>
+                			<stpnm>36th Street &amp; Francisco</stpnm>
+                			<pdist>19589.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.828226285785</lat>
+						<lon>-87.694850564003</lon>
+
+							<typ>S</typ>
+                			<stpid>7789</stpid>
+                			<stpnm>36th Street &amp; California</stpnm>
+                			<pdist>20240.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.828230283067</lat>
+						<lon>-87.694737911224</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.82996508024891</lat>
+						<lon>-87.69475936889648</lon>
+
+							<typ>S</typ>
+                			<stpid>4176</stpid>
+                			<stpnm>California &amp; 35th Street</stpnm>
+                			<pdist>20895.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.830053018025</lat>
+						<lon>-87.694754004478</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.830108978364</lat>
+						<lon>-87.692559957504</lon>
+
+							<typ>S</typ>
+                			<stpid>7458</stpid>
+                			<stpnm>35th Street &amp; Washtenaw</stpnm>
+                			<pdist>21518.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.830148950006</lat>
+						<lon>-87.690129876137</lon>
+
+							<typ>S</typ>
+                			<stpid>7459</stpid>
+                			<stpnm>35th Street &amp; Rockwell</stpnm>
+                			<pdist>22191.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.83017693014</lat>
+						<lon>-87.688885331154</lon>
+
+							<typ>S</typ>
+                			<stpid>7460</stpid>
+                			<stpnm>35th Street &amp; Maplewood</stpnm>
+                			<pdist>22534.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.830224896056</lat>
+						<lon>-87.686433792114</lon>
+
+							<typ>S</typ>
+                			<stpid>7461</stpid>
+                			<stpnm>35th Street &amp; Artesian</stpnm>
+                			<pdist>23202.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.830252876156</lat>
+						<lon>-87.685226798058</lon>
+
+							<typ>S</typ>
+                			<stpid>7462</stpid>
+                			<stpnm>35th Street &amp; Western Avenue</stpnm>
+                			<pdist>23530.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.83027685909</lat>
+						<lon>-87.682764530182</lon>
+
+							<typ>S</typ>
+                			<stpid>7464</stpid>
+                			<stpnm>35th Street &amp; Oakley</stpnm>
+                			<pdist>24205.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.830304839169</lat>
+						<lon>-87.680302262306</lon>
+
+							<typ>S</typ>
+                			<stpid>7465</stpid>
+                			<stpnm>35th Street &amp; Leavitt</stpnm>
+                			<pdist>24873.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.830304839169</lat>
+						<lon>-87.680200338364</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.829481420323</lat>
+						<lon>-87.68018424511</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.828901823037</lat>
+						<lon>-87.681198120117</lon>
+
+							<typ>S</typ>
+                			<stpid>14134</stpid>
+                			<stpnm>35th/Archer Orange Line Station</stpnm>
+                			<pdist>25584.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.82843414416</lat>
+						<lon>-87.680768966675</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.828845861642</lat>
+						<lon>-87.680082321167</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.830304839169</lat>
+						<lon>-87.680114507675</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.830320827779</lat>
+						<lon>-87.677662968636</lon>
+
+							<typ>S</typ>
+                			<stpid>4433</stpid>
+                			<stpnm>Archer &amp; 35th Street/Hoyne</stpnm>
+                			<pdist>26847.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.830352804988</lat>
+						<lon>-87.675452828407</lon>
+
+							<typ>S</typ>
+                			<stpid>7661</stpid>
+                			<stpnm>35th Street &amp; Damen</stpnm>
+                			<pdist>27568.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.830376787885</lat>
+						<lon>-87.673038840294</lon>
+
+							<typ>S</typ>
+                			<stpid>7662</stpid>
+                			<stpnm>35th Street &amp; Wolcott</stpnm>
+                			<pdist>28224.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.830408765066</lat>
+						<lon>-87.670539021492</lon>
+
+							<typ>S</typ>
+                			<stpid>7663</stpid>
+                			<stpnm>35th Street &amp; Wood</stpnm>
+                			<pdist>28908.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.830420756505</lat>
+						<lon>-87.669326663017</lon>
+
+							<typ>S</typ>
+                			<stpid>7664</stpid>
+                			<stpnm>35th Street &amp; Hermitage</stpnm>
+                			<pdist>29243.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.83044074223142</lat>
+						<lon>-87.66805529594421</lon>
+
+							<typ>S</typ>
+                			<stpid>7665</stpid>
+                			<stpnm>35th Street &amp; Paulina</stpnm>
+                			<pdist>29588.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.830460727952</lat>
+						<lon>-87.665753960609</lon>
+
+							<typ>S</typ>
+                			<stpid>7666</stpid>
+                			<stpnm>35th Street &amp; Ashland</stpnm>
+                			<pdist>30224.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.830484710808</lat>
+						<lon>-87.664101719856</lon>
+
+							<typ>S</typ>
+                			<stpid>7667</stpid>
+                			<stpnm>35th Street &amp; Justine</stpnm>
+                			<pdist>30667.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.830520685075</lat>
+						<lon>-87.660706043243</lon>
+
+							<typ>S</typ>
+                			<stpid>7668</stpid>
+                			<stpnm>1349 W 35th Street</stpnm>
+                			<pdist>31607.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.830536673632</lat>
+						<lon>-87.65943467617</lon>
+
+							<typ>S</typ>
+                			<stpid>7669</stpid>
+                			<stpnm>35th Street &amp; Iron</stpnm>
+                			<pdist>31919.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.830588636413</lat>
+						<lon>-87.655481100082</lon>
+
+							<typ>S</typ>
+                			<stpid>15234</stpid>
+                			<stpnm>35th Street &amp; Racine</stpnm>
+                			<pdist>33007.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.830616616355</lat>
+						<lon>-87.653469443321</lon>
+
+							<typ>S</typ>
+                			<stpid>7671</stpid>
+                			<stpnm>35th Street &amp; Aberdeen</stpnm>
+                			<pdist>33513.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.830656587679</lat>
+						<lon>-87.651082277298</lon>
+
+							<typ>S</typ>
+                			<stpid>7672</stpid>
+                			<stpnm>35th Street &amp; Morgan</stpnm>
+                			<pdist>34169.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.830684567592</lat>
+						<lon>-87.648636102676</lon>
+
+							<typ>S</typ>
+                			<stpid>7673</stpid>
+                			<stpnm>35th Street &amp; Lituanica</stpnm>
+                			<pdist>35066.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.830720541747</lat>
+						<lon>-87.646211385727</lon>
+
+							<typ>S</typ>
+                			<stpid>7674</stpid>
+                			<stpnm>35th Street &amp; Halsted</stpnm>
+                			<pdist>35488.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.830760513006</lat>
+						<lon>-87.643851041794</lon>
+
+							<typ>S</typ>
+                			<stpid>7675</stpid>
+                			<stpnm>35th Street &amp; Union</stpnm>
+                			<pdist>36146.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.83078449575</lat>
+						<lon>-87.64097571373</lon>
+
+							<typ>S</typ>
+                			<stpid>15413</stpid>
+                			<stpnm>35th Street &amp; Wallace</stpnm>
+                			<pdist>36963.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.830812475606</lat>
+						<lon>-87.638888955116</lon>
+
+							<typ>S</typ>
+                			<stpid>7677</stpid>
+                			<stpnm>35th Street &amp; Normal</stpnm>
+                			<pdist>37490.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.830848449689</lat>
+						<lon>-87.636340856552</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.830880426635</lat>
+						<lon>-87.63482272625</lon>
+
+							<typ>S</typ>
+                			<stpid>7678</stpid>
+                			<stpnm>35th Street &amp; Shields</stpnm>
+                			<pdist>38608.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.830904409333</lat>
+						<lon>-87.632081508636</lon>
+
+							<typ>S</typ>
+                			<stpid>7679</stpid>
+                			<stpnm>35th Street &amp; Wentworth</stpnm>
+                			<pdist>39403.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.83090440933345</lat>
+						<lon>-87.63178646564484</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.83084445256967</lat>
+						<lon>-87.63155579566956</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.83087243239975</lat>
+						<lon>-87.62979626655579</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.83092839202326</lat>
+						<lon>-87.62949049472809</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.830940383365</lat>
+						<lon>-87.629072070122</lon>
+
+							<typ>S</typ>
+                			<stpid>7681</stpid>
+                			<stpnm>35th Street &amp; Federal</stpnm>
+                			<pdist>40172.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.830980354487</lat>
+						<lon>-87.626180648804</lon>
+
+							<typ>S</typ>
+                			<stpid>14953</stpid>
+                			<stpnm>35th Street &amp; State (Red/Green Line)</stpnm>
+                			<pdist>40946.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.831000340039</lat>
+						<lon>-87.623450160027</lon>
+
+							<typ>S</typ>
+                			<stpid>7684</stpid>
+                			<stpnm>35th Street &amp; Michigan</stpnm>
+                			<pdist>41619.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.831000340039</lat>
+						<lon>-87.621502876282</lon>
+
+							<typ>S</typ>
+                			<stpid>15520</stpid>
+                			<stpnm>35th Street &amp; Indiana</stpnm>
+                			<pdist>42203.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.831040311123</lat>
+						<lon>-87.61946439743</lon>
+
+							<typ>S</typ>
+                			<stpid>7686</stpid>
+                			<stpnm>35th Street &amp; Giles</stpnm>
+                			<pdist>42706.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.831064293762</lat>
+						<lon>-87.61758685112</lon>
+
+							<typ>S</typ>
+                			<stpid>7687</stpid>
+                			<stpnm>35th Street &amp; King Drive</stpnm>
+                			<pdist>43245.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.831044308231</lat>
+						<lon>-87.617334723473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.831052302444</lat>
+						<lon>-87.616787552834</lon>
+
+							<typ>S</typ>
+                			<stpid>2533</stpid>
+                			<stpnm>35th Street &amp; King Drive</stpnm>
+                			<pdist>43506.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.831084279288</lat>
+						<lon>-87.614040970802</lon>
+
+							<typ>S</typ>
+                			<stpid>2534</stpid>
+                			<stpnm>35th Street &amp; Rhodes </stpnm>
+                			<pdist>44164.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.8310962706</lat>
+						<lon>-87.613300681114</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.831527956348</lat>
+						<lon>-87.613316774368</lon>
+
+							<typ>S</typ>
+                			<stpid>7688</stpid>
+                			<stpnm>Rhodes &amp; 35th Street</stpnm>
+                			<pdist>44778.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.833518469633</lat>
+						<lon>-87.613348960876</lon>
+
+							<typ>S</typ>
+                			<stpid>7689</stpid>
+                			<stpnm>Rhodes &amp; 33rd Place</stpnm>
+                			<pdist>45235.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.833622390313</lat>
+						<lon>-87.613354325294</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.833638378095</lat>
+						<lon>-87.611610889435</lon>
+
+							<typ>S</typ>
+                			<stpid>7627</stpid>
+                			<stpnm>33rd Place &amp; Cottage Grove</stpnm>
+                			<pdist>45695.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.832343354817</lat>
+						<lon>-87.611101269722</lon>
+
+							<typ>S</typ>
+                			<stpid>7628</stpid>
+                			<stpnm>Cottage Grove &amp; Woodland Park (3423 S)</stpnm>
+                			<pdist>46230.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.831272142923</lat>
+						<lon>-87.610704302788</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.8312841342</lat>
+						<lon>-87.610859870911</lon>
+
+							<typ>S</typ>
+                			<stpid>7629</stpid>
+                			<stpnm>35th Street &amp; Cottage Grove</stpnm>
+                			<pdist>46582.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

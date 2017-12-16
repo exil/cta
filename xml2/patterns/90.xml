@@ -1,0 +1,1764 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>2944</pid>
+				<ln>35776.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.886775669624</lat>
+						<lon>-87.803163528442</lon>
+
+							<typ>S</typ>
+                			<stpid>15784</stpid>
+                			<stpnm>Harlem/Lake Green Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.886747714243</lat>
+						<lon>-87.804923057556</lon>
+
+							<typ>S</typ>
+                			<stpid>16063</stpid>
+                			<stpnm>South Blvd &amp; Harlem</stpnm>
+                			<pdist>396.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.888480924762</lat>
+						<lon>-87.804992794991</lon>
+
+							<typ>S</typ>
+                			<stpid>15700</stpid>
+                			<stpnm>Harlem &amp; Lake</stpnm>
+                			<pdist>1179.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.889848333334</lat>
+						<lon>-87.805025000001</lon>
+
+							<typ>S</typ>
+                			<stpid>17389</stpid>
+                			<stpnm>Harlem &amp; Ontario</stpnm>
+                			<pdist>1916.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.892881630508</lat>
+						<lon>-87.805137634277</lon>
+
+							<typ>S</typ>
+                			<stpid>15701</stpid>
+                			<stpnm>Harlem &amp; Superior</stpnm>
+                			<pdist>2611.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.894159455594</lat>
+						<lon>-87.805191278458</lon>
+
+							<typ>S</typ>
+                			<stpid>15702</stpid>
+                			<stpnm>Harlem &amp; Chicago</stpnm>
+                			<pdist>3053.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.89615999915</lat>
+						<lon>-87.805255651474</lon>
+
+							<typ>S</typ>
+                			<stpid>15703</stpid>
+                			<stpnm>Harlem &amp; Schneider</stpnm>
+                			<pdist>3828.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.897789138027</lat>
+						<lon>-87.805314660072</lon>
+
+							<typ>S</typ>
+                			<stpid>15704</stpid>
+                			<stpnm>Harlem &amp; Augusta</stpnm>
+                			<pdist>4386.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.899609891121</lat>
+						<lon>-87.805389761925</lon>
+
+							<typ>S</typ>
+                			<stpid>15705</stpid>
+                			<stpnm>Harlem &amp; Thomas</stpnm>
+                			<pdist>5060.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.900795748444</lat>
+						<lon>-87.805443406105</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.901426599594</lat>
+						<lon>-87.805454134941</lon>
+
+							<typ>S</typ>
+                			<stpid>15706</stpid>
+                			<stpnm>Harlem &amp; Division</stpnm>
+                			<pdist>5701.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.9032232934</lat>
+						<lon>-87.805534601212</lon>
+
+							<typ>S</typ>
+                			<stpid>15707</stpid>
+                			<stpnm>Harlem &amp; Berkshire</stpnm>
+                			<pdist>6367.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.905067846445</lat>
+						<lon>-87.805588245392</lon>
+
+							<typ>S</typ>
+                			<stpid>15708</stpid>
+                			<stpnm>Harlem &amp; Greenfield</stpnm>
+                			<pdist>7040.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.906944285121</lat>
+						<lon>-87.805663347244</lon>
+
+							<typ>S</typ>
+                			<stpid>15709</stpid>
+                			<stpnm>Harlem &amp; Lemoyne</stpnm>
+                			<pdist>7718.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.909742870972</lat>
+						<lon>-87.805738449097</lon>
+
+							<typ>S</typ>
+                			<stpid>1003</stpid>
+                			<stpnm>Harlem &amp; North Ave</stpnm>
+                			<pdist>8697.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.910609170113</lat>
+						<lon>-87.805770635605</lon>
+
+							<typ>S</typ>
+                			<stpid>1004</stpid>
+                			<stpnm>Harlem &amp; Wabansia</stpnm>
+                			<pdist>9059.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.912401613494</lat>
+						<lon>-87.805835008621</lon>
+
+							<typ>S</typ>
+                			<stpid>15710</stpid>
+                			<stpnm>Harlem &amp; Bloomingdale</stpnm>
+                			<pdist>9696.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.914205982273</lat>
+						<lon>-87.80589401722</lon>
+
+							<typ>S</typ>
+                			<stpid>15711</stpid>
+                			<stpnm>Harlem &amp; Cortland</stpnm>
+                			<pdist>10357.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.916082152349</lat>
+						<lon>-87.805969119072</lon>
+
+							<typ>S</typ>
+                			<stpid>15712</stpid>
+                			<stpnm>Harlem &amp; Armitage</stpnm>
+                			<pdist>11024.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.916625033827</lat>
+						<lon>-87.805990576744</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.917918350507</lat>
+						<lon>-87.80602812767</lon>
+
+							<typ>S</typ>
+                			<stpid>15713</stpid>
+                			<stpnm>Harlem &amp; Dickens</stpnm>
+                			<pdist>11692.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.919722563324</lat>
+						<lon>-87.806076407433</lon>
+
+							<typ>S</typ>
+                			<stpid>15714</stpid>
+                			<stpnm>Harlem &amp; Palmer</stpnm>
+                			<pdist>12355.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.920943970479</lat>
+						<lon>-87.806097865105</lon>
+
+							<typ>S</typ>
+                			<stpid>15715</stpid>
+                			<stpnm>Harlem &amp; Belden </stpnm>
+                			<pdist>12806.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.922213251181</lat>
+						<lon>-87.806130051613</lon>
+
+							<typ>S</typ>
+                			<stpid>15716</stpid>
+                			<stpnm>Harlem &amp; Medill</stpnm>
+                			<pdist>13251.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.923191138905</lat>
+						<lon>-87.806156873703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.92421291578</lat>
+						<lon>-87.806221246719</lon>
+
+							<typ>S</typ>
+                			<stpid>15717</stpid>
+                			<stpnm>Harlem &amp; Grand</stpnm>
+                			<pdist>14088.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.925162834291</lat>
+						<lon>-87.80624806881</lon>
+
+							<typ>S</typ>
+                			<stpid>11796</stpid>
+                			<stpnm>Harlem &amp; Altgeld </stpnm>
+                			<pdist>14394.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.926990788942</lat>
+						<lon>-87.806307077408</lon>
+
+							<typ>S</typ>
+                			<stpid>11797</stpid>
+                			<stpnm>Harlem &amp; Wrightwood</stpnm>
+                			<pdist>15067.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.928830664205</lat>
+						<lon>-87.806376814842</lon>
+
+							<typ>S</typ>
+                			<stpid>11798</stpid>
+                			<stpnm>Harlem &amp; Schubert</stpnm>
+                			<pdist>15719.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.930901957023</lat>
+						<lon>-87.806462645531</lon>
+
+							<typ>S</typ>
+                			<stpid>15383</stpid>
+                			<stpnm>Harlem &amp; Diversey</stpnm>
+                			<pdist>16622.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.932442412501</lat>
+						<lon>-87.806505560875</lon>
+
+							<typ>S</typ>
+                			<stpid>11800</stpid>
+                			<stpnm>Harlem &amp; George</stpnm>
+                			<pdist>17017.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.934286121183</lat>
+						<lon>-87.806564569473</lon>
+
+							<typ>S</typ>
+                			<stpid>11801</stpid>
+                			<stpnm>Harlem &amp; Wellington</stpnm>
+                			<pdist>17672.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.936241511548</lat>
+						<lon>-87.806618213654</lon>
+
+							<typ>S</typ>
+                			<stpid>11802</stpid>
+                			<stpnm>Harlem &amp; Barry</stpnm>
+                			<pdist>18422.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.937841694567</lat>
+						<lon>-87.80668258667</lon>
+
+							<typ>S</typ>
+                			<stpid>11803</stpid>
+                			<stpnm>Harlem &amp; Belmont</stpnm>
+                			<pdist>18965.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.939701208432</lat>
+						<lon>-87.806746959686</lon>
+
+							<typ>S</typ>
+                			<stpid>11804</stpid>
+                			<stpnm>Harlem &amp; School</stpnm>
+                			<pdist>19659.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.941452932623</lat>
+						<lon>-87.806811332703</lon>
+
+							<typ>S</typ>
+                			<stpid>11805</stpid>
+                			<stpnm>Harlem &amp; Roscoe</stpnm>
+                			<pdist>20335.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.943316331272</lat>
+						<lon>-87.806886434555</lon>
+
+							<typ>S</typ>
+                			<stpid>11806</stpid>
+                			<stpnm>Harlem &amp; Cornelia</stpnm>
+                			<pdist>20994.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.945167705549</lat>
+						<lon>-87.806950807571</lon>
+
+							<typ>S</typ>
+                			<stpid>11807</stpid>
+                			<stpnm>Harlem &amp; Addison</stpnm>
+                			<pdist>21637.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.946959178182</lat>
+						<lon>-87.807015180588</lon>
+
+							<typ>S</typ>
+                			<stpid>11808</stpid>
+                			<stpnm>Harlem &amp; Waveland</stpnm>
+                			<pdist>22325.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.948794487696</lat>
+						<lon>-87.807074189186</lon>
+
+							<typ>S</typ>
+                			<stpid>11809</stpid>
+                			<stpnm>Harlem &amp; Grace</stpnm>
+                			<pdist>22990.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.950605806581</lat>
+						<lon>-87.807133197784</lon>
+
+							<typ>S</typ>
+                			<stpid>11810</stpid>
+                			<stpnm>Harlem &amp; Byron</stpnm>
+                			<pdist>23657.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.95298757268</lat>
+						<lon>-87.807219028473</lon>
+
+							<typ>S</typ>
+                			<stpid>15092</stpid>
+                			<stpnm>Harlem &amp; Irving Park</stpnm>
+                			<pdist>24549.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.953310720018</lat>
+						<lon>-87.807219028473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.953406467063</lat>
+						<lon>-87.807186841965</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.954487600794</lat>
+						<lon>-87.807165384293</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.955066059651</lat>
+						<lon>-87.807160019875</lon>
+
+							<typ>S</typ>
+                			<stpid>11812</stpid>
+                			<stpnm>4100 N. Harlem</stpnm>
+                			<pdist>25389.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.95791439427</lat>
+						<lon>-87.807149291039</lon>
+
+							<typ>S</typ>
+                			<stpid>11813</stpid>
+                			<stpnm>Harlem &amp; Cullom</stpnm>
+                			<pdist>26344.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.958022101905</lat>
+						<lon>-87.807160019875</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.958113852709</lat>
+						<lon>-87.807197570801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.959071244527</lat>
+						<lon>-87.807197570801</lon>
+
+							<typ>S</typ>
+                			<stpid>11814</stpid>
+                			<stpnm>Harlem &amp; Pensacola</stpnm>
+                			<pdist>26795.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.960854348446</lat>
+						<lon>-87.807170748711</lon>
+
+							<typ>S</typ>
+                			<stpid>11815</stpid>
+                			<stpnm>Harlem &amp; Montrose</stpnm>
+                			<pdist>27355.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.962741113249</lat>
+						<lon>-87.807165384293</lon>
+
+							<typ>S</typ>
+                			<stpid>11816</stpid>
+                			<stpnm>Harlem &amp; Sunnyside</stpnm>
+                			<pdist>28042.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.963522927535</lat>
+						<lon>-87.807160019875</lon>
+
+							<typ>S</typ>
+                			<stpid>11817</stpid>
+                			<stpnm>Harlem &amp; Wilson</stpnm>
+                			<pdist>28351.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.965313884307</lat>
+						<lon>-87.807138562202</lon>
+
+							<typ>S</typ>
+                			<stpid>11818</stpid>
+                			<stpnm>Harlem &amp; Leland</stpnm>
+                			<pdist>29009.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.967184562679</lat>
+						<lon>-87.807138562202</lon>
+
+							<typ>S</typ>
+                			<stpid>11819</stpid>
+                			<stpnm>Harlem &amp; Lawrence</stpnm>
+                			<pdist>29590.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.96812586407</lat>
+						<lon>-87.807111740112</lon>
+
+							<typ>S</typ>
+                			<stpid>9723</stpid>
+                			<stpnm>Harlem &amp; Gunnison</stpnm>
+                			<pdist>29987.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.968955474105</lat>
+						<lon>-87.807111740112</lon>
+
+							<typ>S</typ>
+                			<stpid>11820</stpid>
+                			<stpnm>Harlem &amp; Ainslie</stpnm>
+                			<pdist>30658.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.970841999011</lat>
+						<lon>-87.807074189186</lon>
+
+							<typ>S</typ>
+                			<stpid>11821</stpid>
+                			<stpnm>Harlem &amp; Argyle </stpnm>
+                			<pdist>31277.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.97174336328</lat>
+						<lon>-87.807058095932</lon>
+
+							<typ>S</typ>
+                			<stpid>11822</stpid>
+                			<stpnm>Harlem &amp; Argyle </stpnm>
+                			<pdist>31614.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.973665699331</lat>
+						<lon>-87.807020545006</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.974806311138</lat>
+						<lon>-87.807020545006</lon>
+
+							<typ>S</typ>
+                			<stpid>11823</stpid>
+                			<stpnm>Harlem &amp; Foster </stpnm>
+                			<pdist>32934.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.976182196801</lat>
+						<lon>-87.80700981617</lon>
+
+							<typ>S</typ>
+                			<stpid>11824</stpid>
+                			<stpnm>Harlem &amp; Farragut</stpnm>
+                			<pdist>33245.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.977761437618</lat>
+						<lon>-87.806977629662</lon>
+
+							<typ>S</typ>
+                			<stpid>11825</stpid>
+                			<stpnm>Harlem &amp; Summerdale </stpnm>
+                			<pdist>33808.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.97900964823</lat>
+						<lon>-87.806961536407</lon>
+
+							<typ>S</typ>
+                			<stpid>11826</stpid>
+                			<stpnm>Harlem &amp; Balmoral </stpnm>
+                			<pdist>34262.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.980919801765</lat>
+						<lon>-87.806945443153</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.980999556408</lat>
+						<lon>-87.806838154793</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.981099249571</lat>
+						<lon>-87.806832790375</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.981226856591</lat>
+						<lon>-87.80741751194</lon>
+
+							<typ>S</typ>
+                			<stpid>11827</stpid>
+                			<stpnm>Higgins &amp; Harlem</stpnm>
+                			<pdist>35166.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.981486057564</lat>
+						<lon>-87.80856013298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.981984518009</lat>
+						<lon>-87.808200716972</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.982044333</lat>
+						<lon>-87.808345556259</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.981964579666</lat>
+						<lon>-87.808404564857</lon>
+
+							<typ>S</typ>
+                			<stpid>14145</stpid>
+                			<stpnm>Harlem Blue Line Station</stpnm>
+                			<pdist>35776.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5917</pid>
+				<ln>37236.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.981964579666</lat>
+						<lon>-87.808404564857</lon>
+
+							<typ>S</typ>
+                			<stpid>14145</stpid>
+                			<stpnm>Harlem Blue Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.98185292483</lat>
+						<lon>-87.808468937874</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.981813048056</lat>
+						<lon>-87.808356285095</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.982582665391</lat>
+						<lon>-87.807835936546</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.98260659117</lat>
+						<lon>-87.807707190514</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.982622541684</lat>
+						<lon>-87.807551622391</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.982650455073</lat>
+						<lon>-87.807058095932</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.981809060377</lat>
+						<lon>-87.807079553604</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.981155077674</lat>
+						<lon>-87.80711710453</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.981023482781</lat>
+						<lon>-87.80711710453</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.980931764968</lat>
+						<lon>-87.807015180588</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.980772255413</lat>
+						<lon>-87.80700981617</lon>
+
+							<typ>S</typ>
+                			<stpid>8535</stpid>
+                			<stpnm>Harlem &amp; Higgins</stpnm>
+                			<pdist>969.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.978838170267</lat>
+						<lon>-87.807042002678</lon>
+
+							<typ>S</typ>
+                			<stpid>8536</stpid>
+                			<stpnm>Harlem &amp; Rascher</stpnm>
+                			<pdist>1673.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.977278895967</lat>
+						<lon>-87.807068824768</lon>
+
+							<typ>S</typ>
+                			<stpid>8537</stpid>
+                			<stpnm>Harlem &amp; Summerdale </stpnm>
+                			<pdist>2220.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.976337729832</lat>
+						<lon>-87.807101011276</lon>
+
+							<typ>S</typ>
+                			<stpid>8538</stpid>
+                			<stpnm>Harlem &amp; Farragut</stpnm>
+                			<pdist>2519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.975468335196</lat>
+						<lon>-87.807084918022</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.974650774367</lat>
+						<lon>-87.807101011276</lon>
+
+							<typ>S</typ>
+                			<stpid>8539</stpid>
+                			<stpnm>Harlem &amp; Foster </stpnm>
+                			<pdist>3161.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.973781356703</lat>
+						<lon>-87.807101011276</lon>
+
+							<typ>S</typ>
+                			<stpid>11764</stpid>
+                			<stpnm>Harlem &amp; Carmen</stpnm>
+                			<pdist>3767.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.972728468047</lat>
+						<lon>-87.807138562202</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.971843070933</lat>
+						<lon>-87.807154655457</lon>
+
+							<typ>S</typ>
+                			<stpid>11765</stpid>
+                			<stpnm>Harlem &amp; Argyle </stpnm>
+                			<pdist>4497.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.970108135497</lat>
+						<lon>-87.807186841965</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.969150909511</lat>
+						<lon>-87.807192206383</lon>
+
+							<typ>S</typ>
+                			<stpid>11766</stpid>
+                			<stpnm>Harlem &amp; Ainslie</stpnm>
+                			<pdist>5180.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.968269451196</lat>
+						<lon>-87.807192206383</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.967742963487</lat>
+						<lon>-87.807208299637</lon>
+
+							<typ>S</typ>
+                			<stpid>9740</stpid>
+                			<stpnm>Harlem &amp; Lawrence</stpnm>
+                			<pdist>5791.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.967591398038</lat>
+						<lon>-87.807213664055</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.967320174754</lat>
+						<lon>-87.807224392891</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.965676856047</lat>
+						<lon>-87.807219028473</lon>
+
+							<typ>S</typ>
+                			<stpid>11767</stpid>
+                			<stpnm>Harlem &amp; Leland</stpnm>
+                			<pdist>6599.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.965485398684</lat>
+						<lon>-87.807219028473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.963750290093</lat>
+						<lon>-87.807267308235</lon>
+
+							<typ>S</typ>
+                			<stpid>11768</stpid>
+                			<stpnm>Harlem &amp; Wilson</stpnm>
+                			<pdist>7076.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.962840834993</lat>
+						<lon>-87.807278037071</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.961895466588</lat>
+						<lon>-87.807288765907</lon>
+
+							<typ>S</typ>
+                			<stpid>11769</stpid>
+                			<stpnm>Harlem &amp; Agatite</stpnm>
+                			<pdist>7770.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.959988731522</lat>
+						<lon>-87.807283401489</lon>
+
+							<typ>S</typ>
+                			<stpid>11770</stpid>
+                			<stpnm>Harlem &amp; Montrose</stpnm>
+                			<pdist>8653.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.959119113741</lat>
+						<lon>-87.807288765907</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.958297353922</lat>
+						<lon>-87.807294130325</lon>
+
+							<typ>S</typ>
+                			<stpid>11771</stpid>
+                			<stpnm>Harlem &amp; Cullom</stpnm>
+                			<pdist>9132.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.95708862969</lat>
+						<lon>-87.807299494743</lon>
+
+							<typ>S</typ>
+                			<stpid>11772</stpid>
+                			<stpnm>4242 N Harlem</stpnm>
+                			<pdist>9466.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.95496233638</lat>
+						<lon>-87.807294130325</lon>
+
+							<typ>S</typ>
+                			<stpid>11773</stpid>
+                			<stpnm>4100 N. Harlem</stpnm>
+                			<pdist>10117.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.95402084051</lat>
+						<lon>-87.807294130325</lon>
+
+							<typ>S</typ>
+                			<stpid>11774</stpid>
+                			<stpnm>Harlem &amp; Forest Preserve Avenue</stpnm>
+                			<pdist>10700.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.953877221274</lat>
+						<lon>-87.807299494743</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.953003530612</lat>
+						<lon>-87.807272672653</lon>
+
+							<typ>S</typ>
+                			<stpid>11775</stpid>
+                			<stpnm>Harlem &amp; Irving Park</stpnm>
+                			<pdist>11122.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.950853163316</lat>
+						<lon>-87.807219028473</lon>
+
+							<typ>S</typ>
+                			<stpid>11776</stpid>
+                			<stpnm>Harlem &amp; Byron</stpnm>
+                			<pdist>11876.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.949069779565</lat>
+						<lon>-87.807160019875</lon>
+
+							<typ>S</typ>
+                			<stpid>11777</stpid>
+                			<stpnm>Harlem &amp; Grace</stpnm>
+                			<pdist>12555.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.947218518602</lat>
+						<lon>-87.807095646858</lon>
+
+							<typ>S</typ>
+                			<stpid>11778</stpid>
+                			<stpnm>Harlem &amp; Waveland</stpnm>
+                			<pdist>13313.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.945566701584</lat>
+						<lon>-87.807058095932</lon>
+
+							<typ>S</typ>
+                			<stpid>11779</stpid>
+                			<stpnm>Harlem &amp; Addison</stpnm>
+                			<pdist>13865.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.943559726218</lat>
+						<lon>-87.80698299408</lon>
+
+							<typ>S</typ>
+                			<stpid>11780</stpid>
+                			<stpnm>Harlem &amp; Cornelia</stpnm>
+                			<pdist>14548.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.94173623657</lat>
+						<lon>-87.806897163391</lon>
+
+							<typ>S</typ>
+                			<stpid>11781</stpid>
+                			<stpnm>Harlem &amp; Roscoe</stpnm>
+                			<pdist>15238.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.939960578375</lat>
+						<lon>-87.806822061539</lon>
+
+							<typ>S</typ>
+                			<stpid>11782</stpid>
+                			<stpnm>Harlem &amp; School</stpnm>
+                			<pdist>15869.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.938184870734</lat>
+						<lon>-87.806746959686</lon>
+
+							<typ>S</typ>
+                			<stpid>11783</stpid>
+                			<stpnm>Harlem &amp; Belmont</stpnm>
+                			<pdist>16528.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.936520848135</lat>
+						<lon>-87.806704044342</lon>
+
+							<typ>S</typ>
+                			<stpid>11784</stpid>
+                			<stpnm>Harlem &amp; Barry</stpnm>
+                			<pdist>17134.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.934721100959</lat>
+						<lon>-87.806698679924</lon>
+
+							<typ>S</typ>
+                			<stpid>11785</stpid>
+                			<stpnm>Harlem &amp; Wellington</stpnm>
+                			<pdist>17806.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.932633969131</lat>
+						<lon>-87.806607484818</lon>
+
+							<typ>S</typ>
+                			<stpid>11786</stpid>
+                			<stpnm>Harlem &amp; George</stpnm>
+                			<pdist>18469.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.931117463395</lat>
+						<lon>-87.806543111801</lon>
+
+							<typ>S</typ>
+                			<stpid>11787</stpid>
+                			<stpnm>Harlem &amp; Diversey</stpnm>
+                			<pdist>19141.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.929082096399</lat>
+						<lon>-87.806468009949</lon>
+
+							<typ>S</typ>
+                			<stpid>11788</stpid>
+                			<stpnm>Harlem &amp; Schubert</stpnm>
+                			<pdist>19713.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.927314068048</lat>
+						<lon>-87.806403636932</lon>
+
+							<typ>S</typ>
+                			<stpid>11789</stpid>
+                			<stpnm>Harlem &amp; Wrightwood</stpnm>
+                			<pdist>20273.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.926236464658</lat>
+						<lon>-87.806371450424</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.925478140251</lat>
+						<lon>-87.806339263916</lon>
+
+							<typ>S</typ>
+                			<stpid>11790</stpid>
+                			<stpnm>Harlem &amp; Altgeld </stpnm>
+                			<pdist>20853.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.924093177149</lat>
+						<lon>-87.806296348572</lon>
+
+							<typ>S</typ>
+                			<stpid>15800</stpid>
+                			<stpnm>Harlem &amp; Grand</stpnm>
+                			<pdist>21780.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.92113157016</lat>
+						<lon>-87.806183695793</lon>
+
+							<typ>S</typ>
+                			<stpid>15719</stpid>
+                			<stpnm>Harlem &amp; Belden</stpnm>
+                			<pdist>22492.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.919958065216</lat>
+						<lon>-87.806156873703</lon>
+
+							<typ>S</typ>
+                			<stpid>15720</stpid>
+                			<stpnm>Harlem &amp; Palmer</stpnm>
+                			<pdist>23171.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.918205750655</lat>
+						<lon>-87.806119322777</lon>
+
+							<typ>S</typ>
+                			<stpid>15721</stpid>
+                			<stpnm>Harlem &amp; Dickens</stpnm>
+                			<pdist>23836.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.915978365658</lat>
+						<lon>-87.806049585342</lon>
+
+							<typ>S</typ>
+                			<stpid>17402</stpid>
+                			<stpnm>Harlem &amp; Armitage</stpnm>
+                			<pdist>24723.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.914521342376</lat>
+						<lon>-87.805990576744</lon>
+
+							<typ>S</typ>
+                			<stpid>15723</stpid>
+                			<stpnm>Harlem &amp; Cortland</stpnm>
+                			<pdist>25286.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.912377661353</lat>
+						<lon>-87.80592083931</lon>
+
+							<typ>S</typ>
+                			<stpid>17401</stpid>
+                			<stpnm>Harlem &amp; Bloomingdale</stpnm>
+                			<pdist>26083.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.910912571641</lat>
+						<lon>-87.805867195129</lon>
+
+							<typ>S</typ>
+                			<stpid>15725</stpid>
+                			<stpnm>Harlem &amp; Wabansia</stpnm>
+                			<pdist>26613.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.909020280669</lat>
+						<lon>-87.805792093277</lon>
+
+							<typ>S</typ>
+                			<stpid>15726</stpid>
+                			<stpnm>Harlem &amp; North Ave</stpnm>
+                			<pdist>27249.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.907239719376</lat>
+						<lon>-87.805733084679</lon>
+
+							<typ>S</typ>
+                			<stpid>15727</stpid>
+                			<stpnm>Harlem &amp; Lemoyne</stpnm>
+                			<pdist>27957.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.905371274309</lat>
+						<lon>-87.805684804916</lon>
+
+							<typ>S</typ>
+                			<stpid>15728</stpid>
+                			<stpnm>Harlem &amp; Greenfield</stpnm>
+                			<pdist>28611.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.9034947894</lat>
+						<lon>-87.8056204319</lon>
+
+							<typ>S</typ>
+                			<stpid>15729</stpid>
+                			<stpnm>Harlem &amp; Berkshire</stpnm>
+                			<pdist>29297.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.901682132463</lat>
+						<lon>-87.805534601212</lon>
+
+							<typ>S</typ>
+                			<stpid>15730</stpid>
+                			<stpnm>Harlem &amp; Division</stpnm>
+                			<pdist>29923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.899905359316</lat>
+						<lon>-87.805486321449</lon>
+
+							<typ>S</typ>
+                			<stpid>15731</stpid>
+                			<stpnm>Harlem &amp; Thomas</stpnm>
+                			<pdist>30600.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.898056664213</lat>
+						<lon>-87.805400490761</lon>
+
+							<typ>S</typ>
+                			<stpid>15732</stpid>
+                			<stpnm>Harlem &amp; Augusta</stpnm>
+                			<pdist>31273.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.896339685624</lat>
+						<lon>-87.805341482162</lon>
+
+							<typ>S</typ>
+                			<stpid>15733</stpid>
+                			<stpnm>Harlem &amp; Iowa</stpnm>
+                			<pdist>31947.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.894379079206</lat>
+						<lon>-87.805277109146</lon>
+
+							<typ>S</typ>
+                			<stpid>15734</stpid>
+                			<stpnm>Harlem &amp; Chicago</stpnm>
+                			<pdist>32602.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.892318580716</lat>
+						<lon>-87.805202007294</lon>
+
+							<typ>S</typ>
+                			<stpid>15735</stpid>
+                			<stpnm>Harlem &amp; Oak</stpnm>
+                			<pdist>33368.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.890649368477</lat>
+						<lon>-87.805137634277</lon>
+
+							<typ>S</typ>
+                			<stpid>15736</stpid>
+                			<stpnm>Harlem &amp; Quick</stpnm>
+                			<pdist>34146.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.888740502934</lat>
+						<lon>-87.805073261261</lon>
+
+							<typ>S</typ>
+                			<stpid>15737</stpid>
+                			<stpnm>Harlem &amp; Lake</stpnm>
+                			<pdist>34598.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.88709515883</lat>
+						<lon>-87.805024981499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.887107139644</lat>
+						<lon>-87.804118394852</lon>
+
+							<typ>S</typ>
+                			<stpid>14226</stpid>
+                			<stpnm>North Blvd &amp; Harlem (Green Line)</stpnm>
+                			<pdist>35511.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.887151069276</lat>
+						<lon>-87.802471518517</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.887175030881</lat>
+						<lon>-87.801908254623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.887226947661</lat>
+						<lon>-87.800765633583</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.88716504688</lat>
+						<lon>-87.80058324337</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.886943401656</lat>
+						<lon>-87.800325751305</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.886835573972</lat>
+						<lon>-87.800245285034</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.886775669624</lat>
+						<lon>-87.803163528442</lon>
+
+							<typ>S</typ>
+                			<stpid>15784</stpid>
+                			<stpnm>Harlem/Lake Green Line Station</stpnm>
+                			<pdist>37236.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

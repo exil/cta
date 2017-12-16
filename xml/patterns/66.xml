@@ -1,0 +1,2344 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4358</pid>
+				<ln>46862.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.892338547105</lat>
+						<lon>-87.610108852386</lon>
+
+							<typ>S</typ>
+                			<stpid>14161</stpid>
+                			<stpnm>Navy Pier Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.892258681509</lat>
+						<lon>-87.61009812355</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.892130896348</lat>
+						<lon>-87.610033750534</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.892003110932</lat>
+						<lon>-87.611557245255</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.891975157838</lat>
+						<lon>-87.612190246582</lon>
+
+							<typ>S</typ>
+                			<stpid>759</stpid>
+                			<stpnm>Grand &amp; Streeter</stpnm>
+                			<pdist>612.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.891955191335</lat>
+						<lon>-87.613359689713</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.891923244917</lat>
+						<lon>-87.613751292229</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.891911265006</lat>
+						<lon>-87.615392804146</lon>
+
+							<typ>S</typ>
+                			<stpid>760</stpid>
+                			<stpnm>Grand &amp; Peshtigo</stpnm>
+                			<pdist>1539.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.891871331953</lat>
+						<lon>-87.617581486702</lon>
+
+							<typ>S</typ>
+                			<stpid>589</stpid>
+                			<stpnm>Grand &amp; McClurg</stpnm>
+                			<pdist>2049.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.89184737211</lat>
+						<lon>-87.620022296906</lon>
+
+							<typ>S</typ>
+                			<stpid>590</stpid>
+                			<stpnm>Grand &amp; Fairbanks/Columbus</stpnm>
+                			<pdist>2731.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.89184737211</lat>
+						<lon>-87.620177865028</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.892458345311</lat>
+						<lon>-87.620193958282</lon>
+
+							<typ>S</typ>
+                			<stpid>591</stpid>
+                			<stpnm>Fairbanks &amp; Ohio</stpnm>
+                			<pdist>2988.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.894075599106</lat>
+						<lon>-87.620242238045</lon>
+
+							<typ>S</typ>
+                			<stpid>593</stpid>
+                			<stpnm>Fairbanks &amp; Erie</stpnm>
+                			<pdist>3566.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.894902179677</lat>
+						<lon>-87.620263695717</lon>
+
+							<typ>S</typ>
+                			<stpid>594</stpid>
+                			<stpnm>Fairbanks &amp; Huron</stpnm>
+                			<pdist>3867.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.896623189922</lat>
+						<lon>-87.620301246643</lon>
+
+							<typ>S</typ>
+                			<stpid>596</stpid>
+                			<stpnm>Fairbanks &amp; Chicago</stpnm>
+                			<pdist>4494.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.896822840081</lat>
+						<lon>-87.620311975479</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.896798882094</lat>
+						<lon>-87.621738910675</lon>
+
+							<typ>S</typ>
+                			<stpid>597</stpid>
+                			<stpnm>Chicago &amp; Mies Van Der Rohe</stpnm>
+                			<pdist>4942.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.896762945099</lat>
+						<lon>-87.624496221542</lon>
+
+							<typ>S</typ>
+                			<stpid>599</stpid>
+                			<stpnm>Chicago &amp; Michigan</stpnm>
+                			<pdist>5760.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.896750966095</lat>
+						<lon>-87.626700997353</lon>
+
+							<typ>S</typ>
+                			<stpid>600</stpid>
+                			<stpnm>Chicago &amp; Wabash</stpnm>
+                			<pdist>6290.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.896719022076</lat>
+						<lon>-87.628079652786</lon>
+
+							<typ>S</typ>
+                			<stpid>601</stpid>
+                			<stpnm>Chicago &amp; State (Red Line)</stpnm>
+                			<pdist>6588.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.896699057056</lat>
+						<lon>-87.629613876343</lon>
+
+							<typ>S</typ>
+                			<stpid>602</stpid>
+                			<stpnm>Chicago &amp; Dearborn</stpnm>
+                			<pdist>7102.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.896671106017</lat>
+						<lon>-87.631062269211</lon>
+
+							<typ>S</typ>
+                			<stpid>603</stpid>
+                			<stpnm>Chicago &amp; Clark</stpnm>
+                			<pdist>7482.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.896655133989</lat>
+						<lon>-87.632526755333</lon>
+
+							<typ>S</typ>
+                			<stpid>604</stpid>
+                			<stpnm>Chicago &amp; LaSalle</stpnm>
+                			<pdist>7899.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.896619196912</lat>
+						<lon>-87.635520100594</lon>
+
+							<typ>S</typ>
+                			<stpid>606</stpid>
+                			<stpnm>Chicago &amp; Franklin (Brown Line)</stpnm>
+                			<pdist>8723.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.896591245839</lat>
+						<lon>-87.637403011322</lon>
+
+							<typ>S</typ>
+                			<stpid>7903</stpid>
+                			<stpnm>Chicago &amp; Orleans</stpnm>
+                			<pdist>9259.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.896539336669</lat>
+						<lon>-87.639741897583</lon>
+
+							<typ>S</typ>
+                			<stpid>609</stpid>
+                			<stpnm>Chicago &amp; Hudson</stpnm>
+                			<pdist>9872.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.896527357624</lat>
+						<lon>-87.642606496811</lon>
+
+							<typ>S</typ>
+                			<stpid>611</stpid>
+                			<stpnm>Chicago &amp; Larrabee</stpnm>
+                			<pdist>10681.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.896463469346</lat>
+						<lon>-87.646163105965</lon>
+
+							<typ>S</typ>
+                			<stpid>612</stpid>
+                			<stpnm>700 W Chicago</stpnm>
+                			<pdist>11560.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.896435518204</lat>
+						<lon>-87.648169398308</lon>
+
+							<typ>S</typ>
+                			<stpid>613</stpid>
+                			<stpnm>Chicago &amp; Halsted</stpnm>
+                			<pdist>12252.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.896363643783</lat>
+						<lon>-87.651709914207</lon>
+
+							<typ>S</typ>
+                			<stpid>615</stpid>
+                			<stpnm>Chicago &amp; Sangamon</stpnm>
+                			<pdist>13207.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.896299755341</lat>
+						<lon>-87.655100226402</lon>
+
+							<typ>S</typ>
+                			<stpid>617</stpid>
+                			<stpnm>Chicago Blue Line Station</stpnm>
+                			<pdist>14115.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.896255831999</lat>
+						<lon>-87.657401561737</lon>
+
+							<typ>S</typ>
+                			<stpid>618</stpid>
+                			<stpnm>Chicago &amp; Racine</stpnm>
+                			<pdist>14738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.896215901663</lat>
+						<lon>-87.660228610039</lon>
+
+							<typ>S</typ>
+                			<stpid>15418</stpid>
+                			<stpnm>Chicago &amp; Elizabeth</stpnm>
+                			<pdist>15355.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.896175971302</lat>
+						<lon>-87.662277817726</lon>
+
+							<typ>S</typ>
+                			<stpid>620</stpid>
+                			<stpnm>Chicago &amp; Noble</stpnm>
+                			<pdist>16067.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.896156006112</lat>
+						<lon>-87.664713263512</lon>
+
+							<typ>S</typ>
+                			<stpid>621</stpid>
+                			<stpnm>Chicago &amp; Greenview</stpnm>
+                			<pdist>16761.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.896112082672</lat>
+						<lon>-87.667068243027</lon>
+
+							<typ>S</typ>
+                			<stpid>622</stpid>
+                			<stpnm>Chicago &amp; Ashland</stpnm>
+                			<pdist>17392.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.896080138333</lat>
+						<lon>-87.669551968575</lon>
+
+							<typ>S</typ>
+                			<stpid>623</stpid>
+                			<stpnm>Chicago &amp; Paulina</stpnm>
+                			<pdist>18064.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.89601225656</lat>
+						<lon>-87.672556042671</lon>
+
+							<typ>S</typ>
+                			<stpid>15202</stpid>
+                			<stpnm>Chicago &amp; Wood</stpnm>
+                			<pdist>18854.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.895988298269</lat>
+						<lon>-87.674497961998</lon>
+
+							<typ>S</typ>
+                			<stpid>625</stpid>
+                			<stpnm>Chicago &amp; Wolcott</stpnm>
+                			<pdist>19355.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.895944374714</lat>
+						<lon>-87.677249908447</lon>
+
+							<typ>S</typ>
+                			<stpid>14519</stpid>
+                			<stpnm>Chicago &amp; Damen</stpnm>
+                			<pdist>20156.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.895896458074</lat>
+						<lon>-87.67993748188</lon>
+
+							<typ>S</typ>
+                			<stpid>15308</stpid>
+                			<stpnm>Chicago &amp; Hoyne</stpnm>
+                			<pdist>20777.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.89584454834</lat>
+						<lon>-87.682211995125</lon>
+
+							<typ>S</typ>
+                			<stpid>14520</stpid>
+                			<stpnm>Chicago &amp; Leavitt</stpnm>
+                			<pdist>21437.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.895800624686</lat>
+						<lon>-87.68426656723</lon>
+
+							<typ>S</typ>
+                			<stpid>629</stpid>
+                			<stpnm>Chicago &amp; Oakley</stpnm>
+                			<pdist>21973.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.895768680191</lat>
+						<lon>-87.687345743179</lon>
+
+							<typ>S</typ>
+                			<stpid>15203</stpid>
+                			<stpnm>Chicago &amp; Western</stpnm>
+                			<pdist>22766.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.895752707938</lat>
+						<lon>-87.689158916473</lon>
+
+							<typ>S</typ>
+                			<stpid>631</stpid>
+                			<stpnm>Chicago &amp; Campbell</stpnm>
+                			<pdist>23309.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.89573673568</lat>
+						<lon>-87.692023515701</lon>
+
+							<typ>S</typ>
+                			<stpid>15044</stpid>
+                			<stpnm>Chicago &amp; Rockwell</stpnm>
+                			<pdist>24062.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.895700798087</lat>
+						<lon>-87.694142460823</lon>
+
+							<typ>S</typ>
+                			<stpid>633</stpid>
+                			<stpnm>Chicago &amp; Washtenaw</stpnm>
+                			<pdist>24634.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.895696805019</lat>
+						<lon>-87.696980237961</lon>
+
+							<typ>S</typ>
+                			<stpid>14889</stpid>
+                			<stpnm>Chicago &amp; California</stpnm>
+                			<pdist>25458.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.89567683968</lat>
+						<lon>-87.699152827263</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.895668853542</lat>
+						<lon>-87.699764370918</lon>
+
+							<typ>S</typ>
+                			<stpid>636</stpid>
+                			<stpnm>Chicago &amp; Grand</stpnm>
+                			<pdist>26174.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.895636908981</lat>
+						<lon>-87.701738476753</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.895624929767</lat>
+						<lon>-87.702687978745</lon>
+
+							<typ>S</typ>
+                			<stpid>638</stpid>
+                			<stpnm>Chicago &amp; Sacramento</stpnm>
+                			<pdist>26946.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.895596978258</lat>
+						<lon>-87.704780101776</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.895584999036</lat>
+						<lon>-87.706464529037</lon>
+
+							<typ>S</typ>
+                			<stpid>14522</stpid>
+                			<stpnm>Chicago &amp; Kedzie</stpnm>
+                			<pdist>28107.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.895561040586</lat>
+						<lon>-87.708749771118</lon>
+
+							<typ>S</typ>
+                			<stpid>641</stpid>
+                			<stpnm>Chicago &amp; Spaulding</stpnm>
+                			<pdist>28741.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.89554506828</lat>
+						<lon>-87.711582183838</lon>
+
+							<typ>S</typ>
+                			<stpid>14587</stpid>
+                			<stpnm>Chicago &amp; Homan</stpnm>
+                			<pdist>29438.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.895529095971</lat>
+						<lon>-87.713765501976</lon>
+
+							<typ>S</typ>
+                			<stpid>643</stpid>
+                			<stpnm>Chicago &amp; St. Louis</stpnm>
+                			<pdist>29945.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.895497151341</lat>
+						<lon>-87.716131210327</lon>
+
+							<typ>S</typ>
+                			<stpid>644</stpid>
+                			<stpnm>Chicago &amp; Central Park</stpnm>
+                			<pdist>30615.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.895473192857</lat>
+						<lon>-87.718899250031</lon>
+
+							<typ>S</typ>
+                			<stpid>15134</stpid>
+                			<stpnm>Chicago &amp; Lawndale</stpnm>
+                			<pdist>31431.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.895449234365</lat>
+						<lon>-87.721345424652</lon>
+
+							<typ>S</typ>
+                			<stpid>14523</stpid>
+                			<stpnm>Chicago &amp; Hamlin</stpnm>
+                			<pdist>32069.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.895445241282</lat>
+						<lon>-87.723721861839</lon>
+
+							<typ>S</typ>
+                			<stpid>647</stpid>
+                			<stpnm>Chicago &amp; Springfield</stpnm>
+                			<pdist>32570.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.895433262032</lat>
+						<lon>-87.725974917412</lon>
+
+							<typ>S</typ>
+                			<stpid>648</stpid>
+                			<stpnm>Chicago &amp; Pulaski</stpnm>
+                			<pdist>33228.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.895397324267</lat>
+						<lon>-87.728624939919</lon>
+
+							<typ>S</typ>
+                			<stpid>649</stpid>
+                			<stpnm>Chicago &amp; Karlov</stpnm>
+                			<pdist>33896.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.895333434858</lat>
+						<lon>-87.731081843376</lon>
+
+							<typ>S</typ>
+                			<stpid>650</stpid>
+                			<stpnm>Chicago &amp; Keeler</stpnm>
+                			<pdist>34572.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.895281524667</lat>
+						<lon>-87.733570933342</lon>
+
+							<typ>S</typ>
+                			<stpid>651</stpid>
+                			<stpnm>Chicago &amp; Kildare</stpnm>
+                			<pdist>35255.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.895233607529</lat>
+						<lon>-87.736258506775</lon>
+
+							<typ>S</typ>
+                			<stpid>15295</stpid>
+                			<stpnm>Chicago &amp; Kostner</stpnm>
+                			<pdist>36105.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.895205655849</lat>
+						<lon>-87.738296985626</lon>
+
+							<typ>S</typ>
+                			<stpid>653</stpid>
+                			<stpnm>Chicago &amp; Kilbourn </stpnm>
+                			<pdist>36580.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.895089855901</lat>
+						<lon>-87.743613123894</lon>
+
+							<typ>S</typ>
+                			<stpid>654</stpid>
+                			<stpnm>Chicago &amp; Kilpatrick</stpnm>
+                			<pdist>37972.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.895033952402</lat>
+						<lon>-87.746225595474</lon>
+
+							<typ>S</typ>
+                			<stpid>15296</stpid>
+                			<stpnm>Chicago &amp; Cicero</stpnm>
+                			<pdist>38783.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.895002007524</lat>
+						<lon>-87.748328447342</lon>
+
+							<typ>S</typ>
+                			<stpid>656</stpid>
+                			<stpnm>Chicago &amp; Lamon</stpnm>
+                			<pdist>39293.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.894986035079</lat>
+						<lon>-87.750978469849</lon>
+
+							<typ>S</typ>
+                			<stpid>15485</stpid>
+                			<stpnm>Chicago &amp; Lavergne</stpnm>
+                			<pdist>40142.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.894986035079</lat>
+						<lon>-87.753269076347</lon>
+
+							<typ>S</typ>
+                			<stpid>658</stpid>
+                			<stpnm>Chicago &amp; Leclaire</stpnm>
+                			<pdist>40620.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.894966069517</lat>
+						<lon>-87.755699157715</lon>
+
+							<typ>S</typ>
+                			<stpid>14524</stpid>
+                			<stpnm>Chicago &amp; Laramie</stpnm>
+                			<pdist>41467.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.894978048855</lat>
+						<lon>-87.756831049919</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.894954090177</lat>
+						<lon>-87.758172154427</lon>
+
+							<typ>S</typ>
+                			<stpid>660</stpid>
+                			<stpnm>Chicago &amp; Lockwood</stpnm>
+                			<pdist>41949.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.894934124605</lat>
+						<lon>-87.760773897171</lon>
+
+							<typ>S</typ>
+                			<stpid>14525</stpid>
+                			<stpnm>Chicago &amp; Long</stpnm>
+                			<pdist>42820.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.894918152143</lat>
+						<lon>-87.763477563858</lon>
+
+							<typ>S</typ>
+                			<stpid>662</stpid>
+                			<stpnm>Chicago &amp; Pine</stpnm>
+                			<pdist>43428.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.894903333334</lat>
+						<lon>-87.765113333332</lon>
+
+							<typ>S</typ>
+                			<stpid>663</stpid>
+                			<stpnm>Chicago &amp; Central</stpnm>
+                			<pdist>43928.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.894854262255</lat>
+						<lon>-87.767688632011</lon>
+
+							<typ>S</typ>
+                			<stpid>665</stpid>
+                			<stpnm>Chicago &amp; Waller</stpnm>
+                			<pdist>44618.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.894826310409</lat>
+						<lon>-87.770590782166</lon>
+
+							<typ>S</typ>
+                			<stpid>15830</stpid>
+                			<stpnm>Chicago &amp; Menard </stpnm>
+                			<pdist>45407.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.894790372303</lat>
+						<lon>-87.772420048714</lon>
+
+							<typ>S</typ>
+                			<stpid>667</stpid>
+                			<stpnm>Chicago &amp; Mayfield</stpnm>
+                			<pdist>45835.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.894762420428</lat>
+						<lon>-87.774560451508</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.89493013149</lat>
+						<lon>-87.774565815926</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.89493013149</lat>
+						<lon>-87.774855494499</lon>
+
+							<typ>S</typ>
+                			<stpid>510</stpid>
+                			<stpnm>Chicago &amp; Austin Terminal</stpnm>
+                			<pdist>46862.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4351</pid>
+				<ln>47470.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.89493013149</lat>
+						<lon>-87.774855494499</lon>
+
+							<typ>S</typ>
+                			<stpid>510</stpid>
+                			<stpnm>Chicago &amp; Austin Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.894926138374</lat>
+						<lon>-87.775188088417</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.894682557863</lat>
+						<lon>-87.775177359581</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.894734468542</lat>
+						<lon>-87.772409319878</lon>
+
+							<typ>S</typ>
+                			<stpid>511</stpid>
+                			<stpnm>Chicago &amp; Mayfield</stpnm>
+                			<pdist>567.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.894762420428</lat>
+						<lon>-87.770290374756</lon>
+
+							<typ>S</typ>
+                			<stpid>512</stpid>
+                			<stpnm>Chicago &amp; Menard </stpnm>
+                			<pdist>1124.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.894782386054</lat>
+						<lon>-87.768042683601</lon>
+
+							<typ>S</typ>
+                			<stpid>513</stpid>
+                			<stpnm>Chicago &amp; Waller </stpnm>
+                			<pdist>1757.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.894822317287</lat>
+						<lon>-87.76556968689</lon>
+
+							<typ>S</typ>
+                			<stpid>515</stpid>
+                			<stpnm>Chicago &amp; Central</stpnm>
+                			<pdist>2449.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.894866241614</lat>
+						<lon>-87.76347219944</lon>
+
+							<typ>S</typ>
+                			<stpid>516</stpid>
+                			<stpnm>Chicago &amp; Pine</stpnm>
+                			<pdist>2933.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.894870234733</lat>
+						<lon>-87.760747075081</lon>
+
+							<typ>S</typ>
+                			<stpid>14512</stpid>
+                			<stpnm>Chicago &amp; Long</stpnm>
+                			<pdist>3876.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.894902179677</lat>
+						<lon>-87.758156061172</lon>
+
+							<typ>S</typ>
+                			<stpid>518</stpid>
+                			<stpnm>Chicago &amp; Lockwood</stpnm>
+                			<pdist>4437.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.89491016591</lat>
+						<lon>-87.755704522133</lon>
+
+							<typ>S</typ>
+                			<stpid>14513</stpid>
+                			<stpnm>Chicago &amp; Laramie</stpnm>
+                			<pdist>5222.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.89493013149</lat>
+						<lon>-87.753263711929</lon>
+
+							<typ>S</typ>
+                			<stpid>520</stpid>
+                			<stpnm>Chicago &amp; Leclaire</stpnm>
+                			<pdist>5754.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.894918152143</lat>
+						<lon>-87.751885056496</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.894926138374</lat>
+						<lon>-87.75043129921</lon>
+
+							<typ>S</typ>
+                			<stpid>15297</stpid>
+                			<stpnm>Chicago &amp; Lavergne</stpnm>
+                			<pdist>6545.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.894942110835</lat>
+						<lon>-87.748349905014</lon>
+
+							<typ>S</typ>
+                			<stpid>522</stpid>
+                			<stpnm>Chicago &amp; Lamon</stpnm>
+                			<pdist>7083.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.894986035079</lat>
+						<lon>-87.746037840843</lon>
+
+							<typ>S</typ>
+                			<stpid>523</stpid>
+                			<stpnm>Chicago &amp; Cicero</stpnm>
+                			<pdist>7741.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.895033952402</lat>
+						<lon>-87.743645310402</lon>
+
+							<typ>S</typ>
+                			<stpid>524</stpid>
+                			<stpnm>Chicago &amp; Kilpatrick</stpnm>
+                			<pdist>8377.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.895141766248</lat>
+						<lon>-87.738468647003</lon>
+
+							<typ>S</typ>
+                			<stpid>525</stpid>
+                			<stpnm>Chicago &amp; Kilbourn </stpnm>
+                			<pdist>9802.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.895177704157</lat>
+						<lon>-87.735925912857</lon>
+
+							<typ>S</typ>
+                			<stpid>14514</stpid>
+                			<stpnm>Chicago &amp; Kostner</stpnm>
+                			<pdist>10595.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.895229614433</lat>
+						<lon>-87.733592391014</lon>
+
+							<typ>S</typ>
+                			<stpid>527</stpid>
+                			<stpnm>Chicago &amp; Kildare</stpnm>
+                			<pdist>11108.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.89527353848</lat>
+						<lon>-87.731076478958</lon>
+
+							<typ>S</typ>
+                			<stpid>528</stpid>
+                			<stpnm>Chicago &amp; Keeler</stpnm>
+                			<pdist>11748.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.895337427948</lat>
+						<lon>-87.728662490845</lon>
+
+							<typ>S</typ>
+                			<stpid>529</stpid>
+                			<stpnm>Chicago &amp; Karlov</stpnm>
+                			<pdist>12454.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.895369372659</lat>
+						<lon>-87.726232409477</lon>
+
+							<typ>S</typ>
+                			<stpid>530</stpid>
+                			<stpnm>Chicago &amp; Pulaski</stpnm>
+                			<pdist>13116.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.895385345008</lat>
+						<lon>-87.723711133003</lon>
+
+							<typ>S</typ>
+                			<stpid>531</stpid>
+                			<stpnm>Chicago &amp; Springfield</stpnm>
+                			<pdist>13793.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.895397324267</lat>
+						<lon>-87.72091627121</lon>
+
+							<typ>S</typ>
+                			<stpid>14515</stpid>
+                			<stpnm>Chicago &amp; Hamlin</stpnm>
+                			<pdist>14579.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.895413296609</lat>
+						<lon>-87.718486189842</lon>
+
+							<typ>S</typ>
+                			<stpid>15133</stpid>
+                			<stpnm>Chicago &amp; Lawndale</stpnm>
+                			<pdist>15251.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.895433262032</lat>
+						<lon>-87.716104388237</lon>
+
+							<typ>S</typ>
+                			<stpid>14516</stpid>
+                			<stpnm>Chicago &amp; Central Park</stpnm>
+                			<pdist>15915.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.895461213612</lat>
+						<lon>-87.71410882473</lon>
+
+							<typ>S</typ>
+                			<stpid>535</stpid>
+                			<stpnm>Chicago &amp; St. Louis</stpnm>
+                			<pdist>16420.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.8954851721</lat>
+						<lon>-87.711490988731</lon>
+
+							<typ>S</typ>
+                			<stpid>14517</stpid>
+                			<stpnm>Chicago &amp; Homan</stpnm>
+                			<pdist>17229.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.8955051375</lat>
+						<lon>-87.709087729454</lon>
+
+							<typ>S</typ>
+                			<stpid>537</stpid>
+                			<stpnm>Chicago &amp; Spaulding</stpnm>
+                			<pdist>17729.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.895513123658</lat>
+						<lon>-87.70664691925</lon>
+
+							<typ>S</typ>
+                			<stpid>538</stpid>
+                			<stpnm>Chicago &amp; Kedzie</stpnm>
+                			<pdist>18388.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.895569026737</lat>
+						<lon>-87.702559232712</lon>
+
+							<typ>S</typ>
+                			<stpid>540</stpid>
+                			<stpnm>Chicago &amp; Sacramento</stpnm>
+                			<pdist>19466.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.89561295055</lat>
+						<lon>-87.699136734009</lon>
+
+							<typ>S</typ>
+                			<stpid>543</stpid>
+                			<stpnm>Chicago &amp; Grand</stpnm>
+                			<pdist>20445.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.89563291591</lat>
+						<lon>-87.696862220764</lon>
+
+							<typ>S</typ>
+                			<stpid>544</stpid>
+                			<stpnm>Chicago &amp; California</stpnm>
+                			<pdist>21047.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.895640902052</lat>
+						<lon>-87.694346308708</lon>
+
+							<typ>S</typ>
+                			<stpid>545</stpid>
+                			<stpnm>Chicago &amp; Washtenaw</stpnm>
+                			<pdist>21731.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.895680832748</lat>
+						<lon>-87.691546082497</lon>
+
+							<typ>S</typ>
+                			<stpid>15043</stpid>
+                			<stpnm>Chicago &amp; Rockwell</stpnm>
+                			<pdist>22500.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.895696805019</lat>
+						<lon>-87.689437866211</lon>
+
+							<typ>S</typ>
+                			<stpid>547</stpid>
+                			<stpnm>Chicago &amp; Campbell</stpnm>
+                			<pdist>23056.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.89570878422</lat>
+						<lon>-87.687007784843</lon>
+
+							<typ>S</typ>
+                			<stpid>548</stpid>
+                			<stpnm>Chicago &amp; Western</stpnm>
+                			<pdist>23723.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.895752707938</lat>
+						<lon>-87.684180736542</lon>
+
+							<typ>S</typ>
+                			<stpid>15204</stpid>
+                			<stpnm>Chicago &amp; Oakley</stpnm>
+                			<pdist>24521.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.895788645502</lat>
+						<lon>-87.682110071182</lon>
+
+							<typ>S</typ>
+                			<stpid>550</stpid>
+                			<stpnm>Chicago &amp; Leavitt</stpnm>
+                			<pdist>25042.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.895812603867</lat>
+						<lon>-87.680479288101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.895832569164</lat>
+						<lon>-87.679631710052</lon>
+
+							<typ>S</typ>
+                			<stpid>551</stpid>
+                			<stpnm>Chicago &amp; Hoyne</stpnm>
+                			<pdist>25721.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.895876492797</lat>
+						<lon>-87.677233815193</lon>
+
+							<typ>S</typ>
+                			<stpid>552</stpid>
+                			<stpnm>Chicago &amp; Damen</stpnm>
+                			<pdist>26376.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.895920416399</lat>
+						<lon>-87.674723267555</lon>
+
+							<typ>S</typ>
+                			<stpid>553</stpid>
+                			<stpnm>Chicago &amp; Wolcott</stpnm>
+                			<pdist>27063.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.895956353869</lat>
+						<lon>-87.671864032745</lon>
+
+							<typ>S</typ>
+                			<stpid>15205</stpid>
+                			<stpnm>Chicago &amp; Wood</stpnm>
+                			<pdist>27829.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.89598430522</lat>
+						<lon>-87.670930624008</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.896020242654</lat>
+						<lon>-87.669433951378</lon>
+
+							<typ>S</typ>
+                			<stpid>15206</stpid>
+                			<stpnm>Chicago &amp; Paulina</stpnm>
+                			<pdist>28520.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.896056180068</lat>
+						<lon>-87.667481303215</lon>
+
+							<typ>S</typ>
+                			<stpid>556</stpid>
+                			<stpnm>Chicago &amp; Ashland</stpnm>
+                			<pdist>28995.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.896100103547</lat>
+						<lon>-87.664139270782</lon>
+
+							<typ>S</typ>
+                			<stpid>557</stpid>
+                			<stpnm>Chicago &amp; Bishop</stpnm>
+                			<pdist>29878.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.896124061795</lat>
+						<lon>-87.661988139153</lon>
+
+							<typ>S</typ>
+                			<stpid>15293</stpid>
+                			<stpnm>Chicago &amp; Noble</stpnm>
+                			<pdist>30492.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.896156006112</lat>
+						<lon>-87.659547328949</lon>
+
+							<typ>S</typ>
+                			<stpid>559</stpid>
+                			<stpnm>Chicago &amp; Elizabeth </stpnm>
+                			<pdist>31145.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.896171978264</lat>
+						<lon>-87.658833861351</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.896231873801</lat>
+						<lon>-87.655566930771</lon>
+
+							<typ>S</typ>
+                			<stpid>561</stpid>
+                			<stpnm>Chicago &amp; Milwaukee</stpnm>
+                			<pdist>32245.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.896251838967</lat>
+						<lon>-87.65429019928</lon>
+
+							<typ>S</typ>
+                			<stpid>562</stpid>
+                			<stpnm>Chicago &amp; Ogden</stpnm>
+                			<pdist>32648.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.89630374837</lat>
+						<lon>-87.651264667511</lon>
+
+							<typ>S</typ>
+                			<stpid>563</stpid>
+                			<stpnm>Chicago &amp; Sangamon </stpnm>
+                			<pdist>33410.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.896387601932</lat>
+						<lon>-87.647616863251</lon>
+
+							<typ>S</typ>
+                			<stpid>565</stpid>
+                			<stpnm>Chicago &amp; Halsted</stpnm>
+                			<pdist>34535.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.89640756705</lat>
+						<lon>-87.64612019062</lon>
+
+							<typ>S</typ>
+                			<stpid>566</stpid>
+                			<stpnm>700 W Chicago</stpnm>
+                			<pdist>35003.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.896467462365</lat>
+						<lon>-87.642751336098</lon>
+
+							<typ>S</typ>
+                			<stpid>567</stpid>
+                			<stpnm>Chicago &amp; Larrabee</stpnm>
+                			<pdist>35839.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.896471455384</lat>
+						<lon>-87.641528248787</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.896475448403</lat>
+						<lon>-87.640224695206</lon>
+
+							<typ>S</typ>
+                			<stpid>569</stpid>
+                			<stpnm>Chicago &amp; Hudson</stpnm>
+                			<pdist>36491.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.896531350639</lat>
+						<lon>-87.637365460396</lon>
+
+							<typ>S</typ>
+                			<stpid>571</stpid>
+                			<stpnm>Chicago &amp; Orleans</stpnm>
+                			<pdist>37250.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.896555308726</lat>
+						<lon>-87.635863423347</lon>
+
+							<typ>S</typ>
+                			<stpid>572</stpid>
+                			<stpnm>Chicago &amp; Franklin (Brown Line)</stpnm>
+                			<pdist>37539.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.896587252827</lat>
+						<lon>-87.632961273193</lon>
+
+							<typ>S</typ>
+                			<stpid>574</stpid>
+                			<stpnm>Chicago &amp; LaSalle</stpnm>
+                			<pdist>38416.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.896607217882</lat>
+						<lon>-87.631373405457</lon>
+
+							<typ>S</typ>
+                			<stpid>575</stpid>
+                			<stpnm>Chicago &amp; Clark</stpnm>
+                			<pdist>38840.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.896639161958</lat>
+						<lon>-87.62991964817</lon>
+
+							<typ>S</typ>
+                			<stpid>576</stpid>
+                			<stpnm>Chicago &amp; Dearborn</stpnm>
+                			<pdist>39252.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.896659126997</lat>
+						<lon>-87.62839615345</lon>
+
+							<typ>S</typ>
+                			<stpid>577</stpid>
+                			<stpnm>Chicago &amp; State (Red Line)</stpnm>
+                			<pdist>39688.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.896687078041</lat>
+						<lon>-87.626969218254</lon>
+
+							<typ>S</typ>
+                			<stpid>578</stpid>
+                			<stpnm>Chicago &amp; Wabash</stpnm>
+                			<pdist>40055.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.896699057056</lat>
+						<lon>-87.625692486763</lon>
+
+							<typ>S</typ>
+                			<stpid>579</stpid>
+                			<stpnm>Chicago &amp; Rush</stpnm>
+                			<pdist>40407.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.896707043065</lat>
+						<lon>-87.624528408051</lon>
+
+							<typ>S</typ>
+                			<stpid>580</stpid>
+                			<stpnm>Chicago &amp; Michigan</stpnm>
+                			<pdist>40717.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.896734994088</lat>
+						<lon>-87.621980309486</lon>
+
+							<typ>S</typ>
+                			<stpid>15282</stpid>
+                			<stpnm>Chicago &amp; Mies Van Der Rohe</stpnm>
+                			<pdist>41326.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.896750966095</lat>
+						<lon>-87.620708942413</lon>
+
+							<typ>S</typ>
+                			<stpid>582</stpid>
+                			<stpnm>Chicago &amp; Fairbanks</stpnm>
+                			<pdist>41824.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.896754959097</lat>
+						<lon>-87.620397806168</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.895057911051</lat>
+						<lon>-87.620349526405</lon>
+
+							<typ>S</typ>
+                			<stpid>584</stpid>
+                			<stpnm>Fairbanks &amp; Huron</stpnm>
+                			<pdist>42439.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.894315188778</lat>
+						<lon>-87.620333433151</lon>
+
+							<typ>S</typ>
+                			<stpid>585</stpid>
+                			<stpnm>Fairbanks &amp; Erie</stpnm>
+                			<pdist>42743.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.892314587437</lat>
+						<lon>-87.620269060135</lon>
+
+							<typ>S</typ>
+                			<stpid>587</stpid>
+                			<stpnm>Fairbanks &amp; Ohio</stpnm>
+                			<pdist>43501.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.891180486193</lat>
+						<lon>-87.620252966881</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.89098880512</lat>
+						<lon>-87.620349526405</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.89098880512</lat>
+						<lon>-87.619292736053</lon>
+
+							<typ>S</typ>
+                			<stpid>15393</stpid>
+                			<stpnm>Illinois &amp; Columbus</stpnm>
+                			<pdist>44234.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.891016758646</lat>
+						<lon>-87.617865800858</lon>
+
+							<typ>S</typ>
+                			<stpid>754</stpid>
+                			<stpnm>Illinois &amp; McClurg</stpnm>
+                			<pdist>44606.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.891056692233</lat>
+						<lon>-87.61538207531</lon>
+
+							<typ>S</typ>
+                			<stpid>755</stpid>
+                			<stpnm>Illinois &amp; Peshtigo</stpnm>
+                			<pdist>45282.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.891084645729</lat>
+						<lon>-87.614217996597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.891076659017</lat>
+						<lon>-87.613161206245</lon>
+
+							<typ>S</typ>
+                			<stpid>756</stpid>
+                			<stpnm>Illinois &amp; Lake Shore</stpnm>
+                			<pdist>46005.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.891116592566</lat>
+						<lon>-87.611530423164</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.892063010378</lat>
+						<lon>-87.611578702927</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.892262674792</lat>
+						<lon>-87.611557245255</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.892362506764</lat>
+						<lon>-87.611530423164</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.892434385688</lat>
+						<lon>-87.611417770386</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.89251824433</lat>
+						<lon>-87.611208558083</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.892634048941</lat>
+						<lon>-87.611031532288</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.892845691308</lat>
+						<lon>-87.610747218132</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.892913576447</lat>
+						<lon>-87.610634565353</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.892981461513</lat>
+						<lon>-87.610489726067</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.89302938034</lat>
+						<lon>-87.610269784927</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.892989447987</lat>
+						<lon>-87.610124945641</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.892869650777</lat>
+						<lon>-87.610119581223</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.892338547105</lat>
+						<lon>-87.610108852386</lon>
+
+							<typ>S</typ>
+                			<stpid>14161</stpid>
+                			<stpnm>Navy Pier Terminal</stpnm>
+                			<pdist>47470.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1436</pid>
+				<ln>13116.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.89493013149</lat>
+						<lon>-87.774855494499</lon>
+
+							<typ>S</typ>
+                			<stpid>510</stpid>
+                			<stpnm>Chicago &amp; Austin Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.894926138374</lat>
+						<lon>-87.775188088417</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.894682557863</lat>
+						<lon>-87.775177359581</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.894734468542</lat>
+						<lon>-87.772409319878</lon>
+
+							<typ>S</typ>
+                			<stpid>511</stpid>
+                			<stpnm>Chicago &amp; Mayfield</stpnm>
+                			<pdist>567.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.894762420428</lat>
+						<lon>-87.770290374756</lon>
+
+							<typ>S</typ>
+                			<stpid>512</stpid>
+                			<stpnm>Chicago &amp; Menard </stpnm>
+                			<pdist>1124.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.894782386054</lat>
+						<lon>-87.768042683601</lon>
+
+							<typ>S</typ>
+                			<stpid>513</stpid>
+                			<stpnm>Chicago &amp; Waller </stpnm>
+                			<pdist>1757.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.894822317287</lat>
+						<lon>-87.76556968689</lon>
+
+							<typ>S</typ>
+                			<stpid>515</stpid>
+                			<stpnm>Chicago &amp; Central</stpnm>
+                			<pdist>2449.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.894866241614</lat>
+						<lon>-87.76347219944</lon>
+
+							<typ>S</typ>
+                			<stpid>516</stpid>
+                			<stpnm>Chicago &amp; Pine</stpnm>
+                			<pdist>2933.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.894870234733</lat>
+						<lon>-87.760747075081</lon>
+
+							<typ>S</typ>
+                			<stpid>14512</stpid>
+                			<stpnm>Chicago &amp; Long</stpnm>
+                			<pdist>3876.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.894902179677</lat>
+						<lon>-87.758156061172</lon>
+
+							<typ>S</typ>
+                			<stpid>518</stpid>
+                			<stpnm>Chicago &amp; Lockwood</stpnm>
+                			<pdist>4437.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.89491016591</lat>
+						<lon>-87.755704522133</lon>
+
+							<typ>S</typ>
+                			<stpid>14513</stpid>
+                			<stpnm>Chicago &amp; Laramie</stpnm>
+                			<pdist>5222.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.89493013149</lat>
+						<lon>-87.753263711929</lon>
+
+							<typ>S</typ>
+                			<stpid>520</stpid>
+                			<stpnm>Chicago &amp; Leclaire</stpnm>
+                			<pdist>5754.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.894918152143</lat>
+						<lon>-87.751885056496</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.894926138374</lat>
+						<lon>-87.75043129921</lon>
+
+							<typ>S</typ>
+                			<stpid>15297</stpid>
+                			<stpnm>Chicago &amp; Lavergne</stpnm>
+                			<pdist>6545.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.894942110835</lat>
+						<lon>-87.748349905014</lon>
+
+							<typ>S</typ>
+                			<stpid>522</stpid>
+                			<stpnm>Chicago &amp; Lamon</stpnm>
+                			<pdist>7083.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.894986035079</lat>
+						<lon>-87.746037840843</lon>
+
+							<typ>S</typ>
+                			<stpid>523</stpid>
+                			<stpnm>Chicago &amp; Cicero</stpnm>
+                			<pdist>7741.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.895033952402</lat>
+						<lon>-87.743645310402</lon>
+
+							<typ>S</typ>
+                			<stpid>524</stpid>
+                			<stpnm>Chicago &amp; Kilpatrick</stpnm>
+                			<pdist>8377.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.895141766248</lat>
+						<lon>-87.738468647003</lon>
+
+							<typ>S</typ>
+                			<stpid>525</stpid>
+                			<stpnm>Chicago &amp; Kilbourn </stpnm>
+                			<pdist>9802.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.895177704157</lat>
+						<lon>-87.735925912857</lon>
+
+							<typ>S</typ>
+                			<stpid>14514</stpid>
+                			<stpnm>Chicago &amp; Kostner</stpnm>
+                			<pdist>10595.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.895229614433</lat>
+						<lon>-87.733592391014</lon>
+
+							<typ>S</typ>
+                			<stpid>527</stpid>
+                			<stpnm>Chicago &amp; Kildare</stpnm>
+                			<pdist>11108.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.89527353848</lat>
+						<lon>-87.731076478958</lon>
+
+							<typ>S</typ>
+                			<stpid>528</stpid>
+                			<stpnm>Chicago &amp; Keeler</stpnm>
+                			<pdist>11748.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.895337427948</lat>
+						<lon>-87.728662490845</lon>
+
+							<typ>S</typ>
+                			<stpid>529</stpid>
+                			<stpnm>Chicago &amp; Karlov</stpnm>
+                			<pdist>12454.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.895369372659</lat>
+						<lon>-87.726232409477</lon>
+
+							<typ>S</typ>
+                			<stpid>530</stpid>
+                			<stpnm>Chicago &amp; Pulaski</stpnm>
+                			<pdist>13116.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

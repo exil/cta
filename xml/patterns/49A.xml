@@ -1,0 +1,1755 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>1181</pid>
+				<ln>39639.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.648673127299</lat>
+						<lon>-87.680339813232</lon>
+
+							<typ>S</typ>
+                			<stpid>8479</stpid>
+                			<stpnm>13426 S Western</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.648528822055</lat>
+						<lon>-87.680355906487</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.648548864469</lat>
+						<lon>-87.680650949478</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.650448857043</lat>
+						<lon>-87.680988907814</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.650476915585</lat>
+						<lon>-87.679878473282</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.648857516864</lat>
+						<lon>-87.679803371429</lon>
+
+							<typ>S</typ>
+                			<stpid>8480</stpid>
+                			<stpnm>E Frontage &amp; Desplaines</stpnm>
+                			<pdist>1463.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.648673127299</lat>
+						<lon>-87.679808735847</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.648645067972</lat>
+						<lon>-87.679921388626</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.648713212032</lat>
+						<lon>-87.680017948151</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.648805406823</lat>
+						<lon>-87.680076956749</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.649611103511</lat>
+						<lon>-87.680039405823</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.650288522281</lat>
+						<lon>-87.679996490479</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.651438915352</lat>
+						<lon>-87.67991065979</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.652444991407</lat>
+						<lon>-87.679862380028</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.653499149857</lat>
+						<lon>-87.679749727249</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.653835835613</lat>
+						<lon>-87.679701447487</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.654188552136</lat>
+						<lon>-87.67958343029</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.654344869069</lat>
+						<lon>-87.67950296402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.654517218068</lat>
+						<lon>-87.679390311241</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.655102399599</lat>
+						<lon>-87.678827047348</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.655398996426</lat>
+						<lon>-87.678553462029</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.655587374784</lat>
+						<lon>-87.678430080414</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.655891985429</lat>
+						<lon>-87.678263783455</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.656120442468</lat>
+						<lon>-87.678199410439</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.656392986648</lat>
+						<lon>-87.678161859512</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.657066326146</lat>
+						<lon>-87.678204774857</lon>
+
+							<typ>S</typ>
+                			<stpid>8481</stpid>
+                			<stpnm>Gregory &amp; York</stpnm>
+                			<pdist>4789.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.658016203826</lat>
+						<lon>-87.678226232529</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.658942020488</lat>
+						<lon>-87.678231596947</lon>
+
+							<typ>S</typ>
+                			<stpid>8482</stpid>
+                			<stpnm>Gregory &amp; Union</stpnm>
+                			<pdist>5484.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.660048173593</lat>
+						<lon>-87.678285241127</lon>
+
+							<typ>S</typ>
+                			<stpid>8483</stpid>
+                			<stpnm>Gregory &amp; Walnut</stpnm>
+                			<pdist>5912.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.661446868977</lat>
+						<lon>-87.678328156471</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.661703359963</lat>
+						<lon>-87.678269147873</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.66273732889</lat>
+						<lon>-87.677866816521</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.662801450447</lat>
+						<lon>-87.679878473282</lon>
+
+							<typ>S</typ>
+                			<stpid>8484</stpid>
+                			<stpnm>127th Street &amp; Western</stpnm>
+                			<pdist>7327.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.662805458042</lat>
+						<lon>-87.680076956749</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.663723190776</lat>
+						<lon>-87.680205702782</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.664588813158</lat>
+						<lon>-87.680232524872</lon>
+
+							<typ>S</typ>
+                			<stpid>8485</stpid>
+                			<stpnm>Western &amp; Vernon/Birdsall</stpnm>
+                			<pdist>8181.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.665742958232</lat>
+						<lon>-87.680280804634</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.666592524025</lat>
+						<lon>-87.680286169052</lon>
+
+							<typ>S</typ>
+                			<stpid>8486</stpid>
+                			<stpnm>Western &amp; Collins/Cochran</stpnm>
+                			<pdist>8772.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.668103280784</lat>
+						<lon>-87.680350542068</lon>
+
+							<typ>S</typ>
+                			<stpid>15128</stpid>
+                			<stpnm>Western &amp; Krueger/Orchard</stpnm>
+                			<pdist>9297.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.670046775138</lat>
+						<lon>-87.680393457413</lon>
+
+							<typ>S</typ>
+                			<stpid>17025</stpid>
+                			<stpnm>Western &amp; 123rd Street </stpnm>
+                			<pdist>10046.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.671581493136</lat>
+						<lon>-87.680441737175</lon>
+
+							<typ>S</typ>
+                			<stpid>8489</stpid>
+                			<stpnm>Western &amp; 122nd Street</stpnm>
+                			<pdist>10566.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.67336460517</lat>
+						<lon>-87.680506110191</lon>
+
+							<typ>S</typ>
+                			<stpid>8490</stpid>
+                			<stpnm>Western &amp; 121st Street</stpnm>
+                			<pdist>11231.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.675251845223</lat>
+						<lon>-87.680581212044</lon>
+
+							<typ>S</typ>
+                			<stpid>8491</stpid>
+                			<stpnm>Western &amp; 120th Street</stpnm>
+                			<pdist>11922.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.676289603328</lat>
+						<lon>-87.68059194088</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.676958728059</lat>
+						<lon>-87.680624127388</lon>
+
+							<typ>S</typ>
+                			<stpid>8492</stpid>
+                			<stpnm>Western &amp; 119th Street</stpnm>
+                			<pdist>12544.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.677575759071</lat>
+						<lon>-87.680683135986</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.677655892535</lat>
+						<lon>-87.680624127388</lon>
+
+							<typ>S</typ>
+                			<stpid>8493</stpid>
+                			<stpnm>Western &amp; 119th Street Terminal</stpnm>
+                			<pdist>12849.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.678809803349</lat>
+						<lon>-87.680613398552</lon>
+
+							<typ>S</typ>
+                			<stpid>8494</stpid>
+                			<stpnm>Western &amp; 118th Street</stpnm>
+                			<pdist>13245.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.680885188087</lat>
+						<lon>-87.680656313896</lon>
+
+							<typ>S</typ>
+                			<stpid>8495</stpid>
+                			<stpnm>Western &amp; 117th Street</stpnm>
+                			<pdist>14012.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.682844321917</lat>
+						<lon>-87.680726051331</lon>
+
+							<typ>S</typ>
+                			<stpid>8496</stpid>
+                			<stpnm>Western &amp; 116th Street</stpnm>
+                			<pdist>14721.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.684939607628</lat>
+						<lon>-87.680806517601</lon>
+
+							<typ>S</typ>
+                			<stpid>17377</stpid>
+                			<stpnm>Western &amp; 115th Street</stpnm>
+                			<pdist>15481.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.685917117199</lat>
+						<lon>-87.680827975273</lon>
+
+							<typ>S</typ>
+                			<stpid>8498</stpid>
+                			<stpnm>Western &amp; 114th Street</stpnm>
+                			<pdist>15873.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.686161492272</lat>
+						<lon>-87.680827975273</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.686233602771</lat>
+						<lon>-87.68091917038</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.688224621868</lat>
+						<lon>-87.680967450142</lon>
+
+							<typ>S</typ>
+                			<stpid>8499</stpid>
+                			<stpnm>Western &amp; 113th Street</stpnm>
+                			<pdist>16606.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.689630716942</lat>
+						<lon>-87.681031823158</lon>
+
+							<typ>S</typ>
+                			<stpid>8500</stpid>
+                			<stpnm>Western &amp; 112th Street</stpnm>
+                			<pdist>17204.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.690808448139</lat>
+						<lon>-87.681074738503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.692278578934</lat>
+						<lon>-87.681090831757</lon>
+
+							<typ>S</typ>
+                			<stpid>17026</stpid>
+                			<stpnm>Western &amp; 111th Street</stpnm>
+                			<pdist>18145.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.693884868721</lat>
+						<lon>-87.681106925011</lon>
+
+							<typ>S</typ>
+                			<stpid>8502</stpid>
+                			<stpnm>Western &amp; 110th Street</stpnm>
+                			<pdist>18739.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.695767501451</lat>
+						<lon>-87.681219577789</lon>
+
+							<typ>S</typ>
+                			<stpid>17027</stpid>
+                			<stpnm>Western &amp; 109th Street</stpnm>
+                			<pdist>19430.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.697157409829</lat>
+						<lon>-87.681262493134</lon>
+
+							<typ>S</typ>
+                			<stpid>8504</stpid>
+                			<stpnm>Western &amp; 108th Street</stpnm>
+                			<pdist>19962.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.699488543186</lat>
+						<lon>-87.681337594986</lon>
+
+							<typ>S</typ>
+                			<stpid>17028</stpid>
+                			<stpnm>Western &amp; 107th Street</stpnm>
+                			<pdist>20778.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.700714156728</lat>
+						<lon>-87.681369781494</lon>
+
+							<typ>S</typ>
+                			<stpid>8506</stpid>
+                			<stpnm>Western &amp; 106th Street</stpnm>
+                			<pdist>21278.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.70292100326</lat>
+						<lon>-87.681455612183</lon>
+
+							<typ>S</typ>
+                			<stpid>15503</stpid>
+                			<stpnm>Western &amp; 105th Street</stpnm>
+                			<pdist>22058.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.704394862208</lat>
+						<lon>-87.681482434273</lon>
+
+							<typ>S</typ>
+                			<stpid>8508</stpid>
+                			<stpnm>Western &amp; 104th Street</stpnm>
+                			<pdist>22612.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.706709713767</lat>
+						<lon>-87.681573629379</lon>
+
+							<typ>S</typ>
+                			<stpid>14938</stpid>
+                			<stpnm>Western &amp; 103rd Street</stpnm>
+                			<pdist>23406.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.708047323558</lat>
+						<lon>-87.681616544724</lon>
+
+							<typ>S</typ>
+                			<stpid>8510</stpid>
+                			<stpnm>Western &amp; 102nd Street</stpnm>
+                			<pdist>23923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.710205862701</lat>
+						<lon>-87.681686282158</lon>
+
+							<typ>S</typ>
+                			<stpid>15501</stpid>
+                			<stpnm>Western &amp; 101st Street</stpnm>
+                			<pdist>24716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.711691568311</lat>
+						<lon>-87.68173456192</lon>
+
+							<typ>S</typ>
+                			<stpid>8512</stpid>
+                			<stpnm>Western &amp; 100th Street</stpnm>
+                			<pdist>25248.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.713561666449</lat>
+						<lon>-87.681798934937</lon>
+
+							<typ>S</typ>
+                			<stpid>8513</stpid>
+                			<stpnm>Western &amp; 99th Street</stpnm>
+                			<pdist>25910.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.715395671306</lat>
+						<lon>-87.681809663773</lon>
+
+							<typ>S</typ>
+                			<stpid>8514</stpid>
+                			<stpnm>Western &amp; 98th Street</stpnm>
+                			<pdist>26596.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.717473879936</lat>
+						<lon>-87.681884765625</lon>
+
+							<typ>S</typ>
+                			<stpid>15500</stpid>
+                			<stpnm>Western &amp; 97th Street</stpnm>
+                			<pdist>27405.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.719083544482</lat>
+						<lon>-87.681938409805</lon>
+
+							<typ>S</typ>
+                			<stpid>8516</stpid>
+                			<stpnm>Western &amp; 96th Street</stpnm>
+                			<pdist>27911.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.721229701162</lat>
+						<lon>-87.682018876076</lon>
+
+							<typ>S</typ>
+                			<stpid>2362</stpid>
+                			<stpnm>Western &amp; 95th Street</stpnm>
+                			<pdist>28755.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.722518962316</lat>
+						<lon>-87.682056427002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.72798402126</lat>
+						<lon>-87.682158350945</lon>
+
+							<typ>S</typ>
+                			<stpid>8521</stpid>
+                			<stpnm>Western &amp; 91st Street</stpnm>
+                			<pdist>31257.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.730326047077</lat>
+						<lon>-87.682244181633</lon>
+
+							<typ>S</typ>
+                			<stpid>15499</stpid>
+                			<stpnm>Western &amp; 90th Street</stpnm>
+                			<pdist>32066.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.731755241393</lat>
+						<lon>-87.682303190231</lon>
+
+							<typ>S</typ>
+                			<stpid>8523</stpid>
+                			<stpnm>Western &amp; 89th Street</stpnm>
+                			<pdist>32629.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.735169966283</lat>
+						<lon>-87.682372927666</lon>
+
+							<typ>S</typ>
+                			<stpid>8525</stpid>
+                			<stpnm>Western &amp; 87th Street</stpnm>
+                			<pdist>33883.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.740834086123</lat>
+						<lon>-87.682501673698</lon>
+
+							<typ>S</typ>
+                			<stpid>8528</stpid>
+                			<stpnm>Western &amp; 84th Street</stpnm>
+                			<pdist>35889.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.741010206223</lat>
+						<lon>-87.682517766953</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.741138293265</lat>
+						<lon>-87.682576775551</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.742735357113</lat>
+						<lon>-87.682614326477</lon>
+
+							<typ>S</typ>
+                			<stpid>17374</stpid>
+                			<stpnm>Western &amp; 83rd Street</stpnm>
+                			<pdist>36704.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.74421230562</lat>
+						<lon>-87.682646512985</lon>
+
+							<typ>S</typ>
+                			<stpid>8530</stpid>
+                			<stpnm>Western &amp; 82nd Street</stpnm>
+                			<pdist>37080.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.745068840137</lat>
+						<lon>-87.682657241821</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.746345615707</lat>
+						<lon>-87.68271625042</lon>
+
+							<typ>S</typ>
+                			<stpid>8531</stpid>
+                			<stpnm>Western &amp; 81st Street</stpnm>
+                			<pdist>37867.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.748158673436</lat>
+						<lon>-87.682759165764</lon>
+
+							<typ>S</typ>
+                			<stpid>8532</stpid>
+                			<stpnm>Western &amp; 80th Street</stpnm>
+                			<pdist>38537.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.749919651792</lat>
+						<lon>-87.682775259018</lon>
+
+							<typ>S</typ>
+                			<stpid>8533</stpid>
+                			<stpnm>Western &amp; 79th Street</stpnm>
+                			<pdist>39179.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.750896173513</lat>
+						<lon>-87.682807445526</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.750904177728</lat>
+						<lon>-87.682437300682</lon>
+
+							<typ>S</typ>
+                			<stpid>2746</stpid>
+                			<stpnm>79th Street &amp; Western Terminal</stpnm>
+                			<pdist>39639.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1182</pid>
+				<ln>37944.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.750732086885</lat>
+						<lon>-87.682630419731</lon>
+
+							<typ>S</typ>
+                			<stpid>8428</stpid>
+                			<stpnm>79th Street &amp; Western Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.750736089003</lat>
+						<lon>-87.682882547379</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.748030600398</lat>
+						<lon>-87.682834267616</lon>
+
+							<typ>S</typ>
+                			<stpid>17385</stpid>
+                			<stpnm>Western &amp; 80th Street</stpnm>
+                			<pdist>1032.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.746617777749</lat>
+						<lon>-87.682807445526</lon>
+
+							<typ>S</typ>
+                			<stpid>8431</stpid>
+                			<stpnm>Western &amp; 81st Street</stpnm>
+                			<pdist>1537.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.745096857429</lat>
+						<lon>-87.68274307251</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.744340386274</lat>
+						<lon>-87.682732343674</lon>
+
+							<typ>S</typ>
+                			<stpid>8432</stpid>
+                			<stpnm>Western &amp; 82nd Place</stpnm>
+                			<pdist>2216.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.742939490231</lat>
+						<lon>-87.682705521584</lon>
+
+							<typ>S</typ>
+                			<stpid>8433</stpid>
+                			<stpnm>Western &amp; 83rd Street</stpnm>
+                			<pdist>2877.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.741158306842</lat>
+						<lon>-87.682651877403</lon>
+
+							<typ>S</typ>
+                			<stpid>8434</stpid>
+                			<stpnm>Western &amp; 84th Street</stpnm>
+                			<pdist>3647.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.74099819805</lat>
+						<lon>-87.682726979256</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.735774429737</lat>
+						<lon>-87.682635784149</lon>
+
+							<typ>S</typ>
+                			<stpid>8437</stpid>
+                			<stpnm>Western &amp; 87th Street</stpnm>
+                			<pdist>5512.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.732135553851</lat>
+						<lon>-87.682544589043</lon>
+
+							<typ>S</typ>
+                			<stpid>8439</stpid>
+                			<stpnm>Western &amp; 89th Street</stpnm>
+                			<pdist>6846.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.730049812576</lat>
+						<lon>-87.68246948719</lon>
+
+							<typ>S</typ>
+                			<stpid>8440</stpid>
+                			<stpnm>Western &amp; 90th Street</stpnm>
+                			<pdist>7597.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.728336331454</lat>
+						<lon>-87.68241584301</lon>
+
+							<typ>S</typ>
+                			<stpid>8441</stpid>
+                			<stpnm>Western &amp; 91st Street</stpnm>
+                			<pdist>8219.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.722639078498</lat>
+						<lon>-87.682211995125</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.722530973944</lat>
+						<lon>-87.68214225769</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.720573048893</lat>
+						<lon>-87.68208861351</lon>
+
+							<typ>S</typ>
+                			<stpid>3479</stpid>
+                			<stpnm>Western &amp; 95th Street</stpnm>
+                			<pdist>11219.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.718859315022</lat>
+						<lon>-87.682013511658</lon>
+
+							<typ>S</typ>
+                			<stpid>3480</stpid>
+                			<stpnm>Western &amp; 96th Street</stpnm>
+                			<pdist>11892.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.717345745702</lat>
+						<lon>-87.681959867477</lon>
+
+							<typ>S</typ>
+                			<stpid>3481</stpid>
+                			<stpnm>Western &amp; 97th Street</stpnm>
+                			<pdist>12469.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.715647942989</lat>
+						<lon>-87.681906223297</lon>
+
+							<typ>S</typ>
+                			<stpid>3482</stpid>
+                			<stpnm>Western &amp; 98th Street</stpnm>
+                			<pdist>13048.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.713853989506</lat>
+						<lon>-87.681895494461</lon>
+
+							<typ>S</typ>
+                			<stpid>8446</stpid>
+                			<stpnm>Western &amp; 99th Street</stpnm>
+                			<pdist>13735.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.712027949719</lat>
+						<lon>-87.681820392609</lon>
+
+							<typ>S</typ>
+                			<stpid>8447</stpid>
+                			<stpnm>Western &amp; 100th Street</stpnm>
+                			<pdist>14397.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.710129774427</lat>
+						<lon>-87.681766748428</lon>
+
+							<typ>S</typ>
+                			<stpid>8448</stpid>
+                			<stpnm>Western &amp; 101st Street</stpnm>
+                			<pdist>15098.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.708351685971</lat>
+						<lon>-87.68170773983</lon>
+
+							<typ>S</typ>
+                			<stpid>8449</stpid>
+                			<stpnm>Western &amp; 102nd Street</stpnm>
+                			<pdist>15757.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.706469421634</lat>
+						<lon>-87.681643366814</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.706056918045</lat>
+						<lon>-87.681632637978</lon>
+
+							<typ>S</typ>
+                			<stpid>14939</stpid>
+                			<stpnm>Western &amp; 103rd Street</stpnm>
+                			<pdist>16592.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.704663197023</lat>
+						<lon>-87.681578993797</lon>
+
+							<typ>S</typ>
+                			<stpid>8451</stpid>
+                			<stpnm>Western &amp; 104th Street</stpnm>
+                			<pdist>17074.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.702548528124</lat>
+						<lon>-87.681525349617</lon>
+
+							<typ>S</typ>
+                			<stpid>15502</stpid>
+                			<stpnm>Western &amp; 105th Street</stpnm>
+                			<pdist>17862.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.701098658124</lat>
+						<lon>-87.681466341019</lon>
+
+							<typ>S</typ>
+                			<stpid>8453</stpid>
+                			<stpnm>Western &amp; 106th Street</stpnm>
+                			<pdist>18381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.698871722306</lat>
+						<lon>-87.681401968002</lon>
+
+							<typ>S</typ>
+                			<stpid>17024</stpid>
+                			<stpnm>Western &amp; 107th Street </stpnm>
+                			<pdist>19188.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.697441796602</lat>
+						<lon>-87.68135368824</lon>
+
+							<typ>S</typ>
+                			<stpid>8455</stpid>
+                			<stpnm>Western &amp; 108th Street</stpnm>
+                			<pdist>19702.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.695551201769</lat>
+						<lon>-87.68138051033</lon>
+
+							<typ>S</typ>
+                			<stpid>8456</stpid>
+                			<stpnm>Western &amp; 109th Street</stpnm>
+                			<pdist>20369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.693764698803</lat>
+						<lon>-87.681192755699</lon>
+
+							<typ>S</typ>
+                			<stpid>8457</stpid>
+                			<stpnm>Western &amp; 110th Street</stpnm>
+                			<pdist>21040.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.691405317282</lat>
+						<lon>-87.681160569191</lon>
+
+							<typ>S</typ>
+                			<stpid>17376</stpid>
+                			<stpnm>Western &amp; 111th Street</stpnm>
+                			<pdist>21907.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.689915136995</lat>
+						<lon>-87.681123018265</lon>
+
+							<typ>S</typ>
+                			<stpid>8459</stpid>
+                			<stpnm>Western &amp; 112th Street</stpnm>
+                			<pdist>22449.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.688296730055</lat>
+						<lon>-87.681047916412</lon>
+
+							<typ>S</typ>
+                			<stpid>8460</stpid>
+                			<stpnm>Western &amp; 113th Street</stpnm>
+                			<pdist>23066.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.686510025605</lat>
+						<lon>-87.681005001068</lon>
+
+							<typ>S</typ>
+                			<stpid>8461</stpid>
+                			<stpnm>Western &amp; 114th Street</stpnm>
+                			<pdist>23712.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.686225590497</lat>
+						<lon>-87.68099963665</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.686149473847</lat>
+						<lon>-87.681058645248</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.684659171813</lat>
+						<lon>-87.68102645874</lon>
+
+							<typ>S</typ>
+                			<stpid>8462</stpid>
+                			<stpnm>Western &amp; 115th Street</stpnm>
+                			<pdist>24385.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.682956499553</lat>
+						<lon>-87.680988907814</lon>
+
+							<typ>S</typ>
+                			<stpid>8463</stpid>
+                			<stpnm>Western &amp; 116th Street</stpnm>
+                			<pdist>25035.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.681057466051</lat>
+						<lon>-87.680929899216</lon>
+
+							<typ>S</typ>
+                			<stpid>8464</stpid>
+                			<stpnm>Western &amp; 117th Street</stpnm>
+                			<pdist>25738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.679250527713</lat>
+						<lon>-87.680881619453</lon>
+
+							<typ>S</typ>
+                			<stpid>8465</stpid>
+                			<stpnm>Western &amp; 118th Street</stpnm>
+                			<pdist>26393.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.677659899206</lat>
+						<lon>-87.680833339691</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.677587779097</lat>
+						<lon>-87.680758237839</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.676910647472</lat>
+						<lon>-87.68069922924</lon>
+
+							<typ>S</typ>
+                			<stpid>8466</stpid>
+                			<stpnm>Western &amp; 119th Street</stpnm>
+                			<pdist>27361.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.675568383253</lat>
+						<lon>-87.68067240715</lon>
+
+							<typ>S</typ>
+                			<stpid>8467</stpid>
+                			<stpnm>Western &amp; 120th Street</stpnm>
+                			<pdist>27737.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.6735729656</lat>
+						<lon>-87.68059194088</lon>
+
+							<typ>S</typ>
+                			<stpid>8468</stpid>
+                			<stpnm>Western &amp; 121st Street</stpnm>
+                			<pdist>28407.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.671757803043</lat>
+						<lon>-87.680532932281</lon>
+
+							<typ>S</typ>
+                			<stpid>8469</stpid>
+                			<stpnm>Western &amp; 122nd Street</stpnm>
+                			<pdist>29082.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.669978653648</lat>
+						<lon>-87.680468559265</lon>
+
+							<typ>S</typ>
+                			<stpid>8470</stpid>
+                			<stpnm>Western &amp; 123rd Street</stpnm>
+                			<pdist>29773.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.668319672749</lat>
+						<lon>-87.680431008339</lon>
+
+							<typ>S</typ>
+                			<stpid>8471</stpid>
+                			<stpnm>Western &amp; Krueger/Orchard</stpnm>
+                			<pdist>30434.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.66728980078</lat>
+						<lon>-87.680404186249</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.666472303131</lat>
+						<lon>-87.680371999741</lon>
+
+							<typ>S</typ>
+                			<stpid>8472</stpid>
+                			<stpnm>Western &amp; Collins/Cochran</stpnm>
+                			<pdist>31116.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.664644917911</lat>
+						<lon>-87.680312991142</lon>
+
+							<typ>S</typ>
+                			<stpid>8473</stpid>
+                			<stpnm>Western &amp; Vernon/Birdsall</stpnm>
+                			<pdist>31785.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.663695138005</lat>
+						<lon>-87.680280804634</lon>
+
+							<typ>S</typ>
+                			<stpid>8474</stpid>
+                			<stpnm>Western &amp; 127th Street</stpnm>
+                			<pdist>32104.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.662805458042</lat>
+						<lon>-87.680168151855</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.662577024717</lat>
+						<lon>-87.680162787437</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.661775497869</lat>
+						<lon>-87.680157423019</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.660998007293</lat>
+						<lon>-87.680119872093</lon>
+
+							<typ>S</typ>
+                			<stpid>8475</stpid>
+                			<stpnm>Western &amp; Oak</stpnm>
+                			<pdist>33141.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.658869879408</lat>
+						<lon>-87.680114507675</lon>
+
+							<typ>S</typ>
+                			<stpid>8476</stpid>
+                			<stpnm>Western &amp; Union</stpnm>
+                			<pdist>33947.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.657346882193</lat>
+						<lon>-87.680098414421</lon>
+
+							<typ>S</typ>
+                			<stpid>8477</stpid>
+                			<stpnm>Western &amp; York</stpnm>
+                			<pdist>34502.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.656348898697</lat>
+						<lon>-87.680098414421</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.655362923912</lat>
+						<lon>-87.680082321167</lon>
+
+							<typ>S</typ>
+                			<stpid>8478</stpid>
+                			<stpnm>Western &amp; Vermont</stpnm>
+                			<pdist>35264.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.654300779716</lat>
+						<lon>-87.680050134659</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.654024218542</lat>
+						<lon>-87.67993748188</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.653843851919</lat>
+						<lon>-87.679921388626</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.653202544281</lat>
+						<lon>-87.679985761642</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.652420941964</lat>
+						<lon>-87.680060863495</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.651751562184</lat>
+						<lon>-87.680098414421</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.651378790788</lat>
+						<lon>-87.680103778839</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.648673127299</lat>
+						<lon>-87.680339813232</lon>
+
+							<typ>S</typ>
+                			<stpid>8479</stpid>
+                			<stpnm>13426 S Western</stpnm>
+                			<pdist>37944.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

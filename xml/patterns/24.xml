@@ -1,0 +1,3642 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>2604</pid>
+				<ln>65142.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.885473734593</lat>
+						<lon>-87.631024718285</lon>
+
+							<typ>S</typ>
+                			<stpid>1864</stpid>
+                			<stpnm>Clark &amp; Lake</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.884275611429</lat>
+						<lon>-87.630987167358</lon>
+
+							<typ>S</typ>
+                			<stpid>1865</stpid>
+                			<stpnm>Clark &amp; Randolph</stpnm>
+                			<pdist>506.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.881459933554</lat>
+						<lon>-87.630912065506</lon>
+
+							<typ>S</typ>
+                			<stpid>15903</stpid>
+                			<stpnm>Clark &amp; Madison &amp; Monroe</stpnm>
+                			<pdist>1502.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.879071502438</lat>
+						<lon>-87.630826234818</lon>
+
+							<typ>S</typ>
+                			<stpid>1869</stpid>
+                			<stpnm>Clark &amp; Adams</stpnm>
+                			<pdist>2346.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.876730913104</lat>
+						<lon>-87.630767226219</lon>
+
+							<typ>S</typ>
+                			<stpid>14192</stpid>
+                			<stpnm>Clark &amp; Van Buren</stpnm>
+                			<pdist>3267.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.875688404595</lat>
+						<lon>-87.630745768547</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.874633895931</lat>
+						<lon>-87.630718946457</lon>
+
+							<typ>S</typ>
+                			<stpid>1873</stpid>
+                			<stpnm>Clark &amp; Harrison</stpnm>
+                			<pdist>3939.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.872245209692</lat>
+						<lon>-87.630665302277</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.871961597203</lat>
+						<lon>-87.630654573441</lon>
+
+							<typ>S</typ>
+                			<stpid>15894</stpid>
+                			<stpnm>Clark &amp; Polk</stpnm>
+                			<pdist>4969.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.869349107492</lat>
+						<lon>-87.630590200424</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.869253234279</lat>
+						<lon>-87.630676031113</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.868685981493</lat>
+						<lon>-87.630692124367</lon>
+
+							<typ>S</typ>
+                			<stpid>15945</stpid>
+                			<stpnm>Clark &amp; 11th Place</stpnm>
+                			<pdist>5946.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.867559450473</lat>
+						<lon>-87.630643844604</lon>
+
+							<typ>S</typ>
+                			<stpid>6293</stpid>
+                			<stpnm>Clark &amp; Roosevelt</stpnm>
+                			<pdist>6534.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.865941525451</lat>
+						<lon>-87.630611658096</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.864846906042</lat>
+						<lon>-87.630504369736</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.864683111015</lat>
+						<lon>-87.630397081375</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.86179865178</lat>
+						<lon>-87.630295157433</lon>
+
+							<typ>S</typ>
+                			<stpid>6295</stpid>
+                			<stpnm>Clark &amp; 15th Street</stpnm>
+                			<pdist>8628.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.860012778697</lat>
+						<lon>-87.630305886269</lon>
+
+							<typ>S</typ>
+                			<stpid>6296</stpid>
+                			<stpnm>Clark &amp; 16th Street</stpnm>
+                			<pdist>9336.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.85909385365</lat>
+						<lon>-87.630300521851</lon>
+
+							<typ>S</typ>
+                			<stpid>6297</stpid>
+                			<stpnm>Clark &amp; 17th Street</stpnm>
+                			<pdist>9642.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.857471718947</lat>
+						<lon>-87.630252242088</lon>
+
+							<typ>S</typ>
+                			<stpid>17152</stpid>
+                			<stpnm>Clark &amp; 18th Street</stpnm>
+                			<pdist>10236.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.855230228659</lat>
+						<lon>-87.630198597908</lon>
+
+							<typ>S</typ>
+                			<stpid>6300</stpid>
+                			<stpnm>Clark &amp; Archer</stpnm>
+                			<pdist>11006.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.854259291369</lat>
+						<lon>-87.6301664114</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.853068574489</lat>
+						<lon>-87.63011276722</lon>
+
+							<typ>S</typ>
+                			<stpid>6491</stpid>
+                			<stpnm>Clark &amp; Cermak</stpnm>
+                			<pdist>11794.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.8529766726</lat>
+						<lon>-87.63011276722</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.852944706695</lat>
+						<lon>-87.632076144218</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.852692974633</lat>
+						<lon>-87.6320707798</lon>
+
+							<typ>S</typ>
+                			<stpid>6492</stpid>
+                			<stpnm>Wentworth &amp; Cermak</stpnm>
+                			<pdist>12415.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.851074673434</lat>
+						<lon>-87.632033228874</lon>
+
+							<typ>S</typ>
+                			<stpid>6493</stpid>
+                			<stpnm>Wentworth &amp; 23rd Street</stpnm>
+                			<pdist>12966.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.849300488777</lat>
+						<lon>-87.631979584694</lon>
+
+							<typ>S</typ>
+                			<stpid>6494</stpid>
+                			<stpnm>Wentworth &amp; 24th Street</stpnm>
+                			<pdist>13633.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.848856934924</lat>
+						<lon>-87.631952762604</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.848721070966</lat>
+						<lon>-87.63201713562</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.848293497217</lat>
+						<lon>-87.63201713562</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.848141647908</lat>
+						<lon>-87.632033228874</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.847578203901</lat>
+						<lon>-87.632237076759</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.847166606915</lat>
+						<lon>-87.632258534431</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.846755007282</lat>
+						<lon>-87.632220983505</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.846431320273</lat>
+						<lon>-87.632167339325</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.845708013754</lat>
+						<lon>-87.631974220276</lon>
+
+							<typ>S</typ>
+                			<stpid>6495</stpid>
+                			<stpnm>Wentworth &amp; 26th Street</stpnm>
+                			<pdist>14898.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.845572143109</lat>
+						<lon>-87.631947398186</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.845444264591</lat>
+						<lon>-87.631925940514</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.844657006836</lat>
+						<lon>-87.631893754005</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.844129498758</lat>
+						<lon>-87.631915211678</lon>
+
+							<typ>S</typ>
+                			<stpid>6496</stpid>
+                			<stpnm>Wentworth &amp; 27th Street</stpnm>
+                			<pdist>15504.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.842786731297</lat>
+						<lon>-87.631834745407</lon>
+
+							<typ>S</typ>
+                			<stpid>6497</stpid>
+                			<stpnm>Wentworth &amp; 28th Place</stpnm>
+                			<pdist>16044.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.841348020605</lat>
+						<lon>-87.631802558899</lon>
+
+							<typ>S</typ>
+                			<stpid>6498</stpid>
+                			<stpnm>Wentworth &amp; 29th Street</stpnm>
+                			<pdist>16565.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.840732562264</lat>
+						<lon>-87.631748914719</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.83988529824</lat>
+						<lon>-87.631759643555</lon>
+
+							<typ>S</typ>
+                			<stpid>6499</stpid>
+                			<stpnm>3000 S Wentworth</stpnm>
+                			<pdist>17092.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.837890986284</lat>
+						<lon>-87.63171672821</lon>
+
+							<typ>S</typ>
+                			<stpid>6500</stpid>
+                			<stpnm>Wentworth &amp; 31st Street</stpnm>
+                			<pdist>17743.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.8374313665</lat>
+						<lon>-87.631684541702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.836476146129</lat>
+						<lon>-87.631673812866</lon>
+
+							<typ>S</typ>
+                			<stpid>6501</stpid>
+                			<stpnm>3200 S Wentworth</stpnm>
+                			<pdist>18251.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.834741525406</lat>
+						<lon>-87.631652355194</lon>
+
+							<typ>S</typ>
+                			<stpid>6502</stpid>
+                			<stpnm>Wentworth &amp; 33rd Street</stpnm>
+                			<pdist>18881.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.831951645084</lat>
+						<lon>-87.631550431252</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.831116256116</lat>
+						<lon>-87.631571888924</lon>
+
+							<typ>S</typ>
+                			<stpid>6504</stpid>
+                			<stpnm>Wentworth &amp; 35th Street</stpnm>
+                			<pdist>20205.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.830480713666</lat>
+						<lon>-87.631539702415</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.828769913956</lat>
+						<lon>-87.631469964981</lon>
+
+							<typ>S</typ>
+                			<stpid>6505</stpid>
+                			<stpnm>3600 S Wentworth</stpnm>
+                			<pdist>21094.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.827426824205</lat>
+						<lon>-87.631432414055</lon>
+
+							<typ>S</typ>
+                			<stpid>6506</stpid>
+                			<stpnm>Wentworth &amp; 37th Street</stpnm>
+                			<pdist>21568.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.825635994039</lat>
+						<lon>-87.631394863129</lon>
+
+							<typ>S</typ>
+                			<stpid>6507</stpid>
+                			<stpnm>3800 S Wentworth </stpnm>
+                			<pdist>22247.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.824708580158</lat>
+						<lon>-87.631368041039</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.823853108892</lat>
+						<lon>-87.63136267662</lon>
+
+							<typ>S</typ>
+                			<stpid>6508</stpid>
+                			<stpnm>Wentworth &amp; Pershing</stpnm>
+                			<pdist>22868.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.823077578333</lat>
+						<lon>-87.631400227547</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.821294621945</lat>
+						<lon>-87.631351947784</lon>
+
+							<typ>S</typ>
+                			<stpid>6509</stpid>
+                			<stpnm>4004 S Wentworth</stpnm>
+                			<pdist>23863.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.819327715603</lat>
+						<lon>-87.631298303604</lon>
+
+							<typ>S</typ>
+                			<stpid>6510</stpid>
+                			<stpnm>Wentworth &amp; Root</stpnm>
+                			<pdist>24552.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.818056390336</lat>
+						<lon>-87.631276845932</lon>
+
+							<typ>S</typ>
+                			<stpid>6511</stpid>
+                			<stpnm>4200 S Wentworth</stpnm>
+                			<pdist>24985.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.816325268497</lat>
+						<lon>-87.631233930588</lon>
+
+							<typ>S</typ>
+                			<stpid>16057</stpid>
+                			<stpnm>Wentworth &amp; 43rd Street</stpnm>
+                			<pdist>25528.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.815493673701</lat>
+						<lon>-87.631223201752</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.814346215076</lat>
+						<lon>-87.631180286407</lon>
+
+							<typ>S</typ>
+                			<stpid>17520</stpid>
+                			<stpnm>Wentworth &amp; 44th Place</stpnm>
+                			<pdist>26335.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.812730942316</lat>
+						<lon>-87.631137371063</lon>
+
+							<typ>S</typ>
+                			<stpid>6514</stpid>
+                			<stpnm>Wentworth &amp; 45th Street</stpnm>
+                			<pdist>26759.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.812371098776</lat>
+						<lon>-87.631148099899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.811819334757</lat>
+						<lon>-87.63120174408</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.811371522783</lat>
+						<lon>-87.631325125694</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.811127623873</lat>
+						<lon>-87.631480693817</lon>
+
+							<typ>S</typ>
+                			<stpid>6515</stpid>
+                			<stpnm>Wentworth &amp; 46th Street</stpnm>
+                			<pdist>27320.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.810863732203</lat>
+						<lon>-87.631652355194</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.810423910338</lat>
+						<lon>-87.631952762604</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.80990011854</lat>
+						<lon>-87.632274627686</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.809636221814</lat>
+						<lon>-87.632414102554</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.809188394578</lat>
+						<lon>-87.632607221603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.80898447221</lat>
+						<lon>-87.63267159462</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.808800541675</lat>
+						<lon>-87.632682323456</lon>
+
+							<typ>S</typ>
+                			<stpid>6516</stpid>
+                			<stpnm>Wells &amp; 47th Street</stpnm>
+                			<pdist>28273.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.808396692341</lat>
+						<lon>-87.63269841671</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.806225458726</lat>
+						<lon>-87.632607221603</lon>
+
+							<typ>S</typ>
+                			<stpid>6517</stpid>
+                			<stpnm>Wells &amp; 48th Place</stpnm>
+                			<pdist>29234.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.805053841697</lat>
+						<lon>-87.632585763931</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.804853904911</lat>
+						<lon>-87.632575035095</lon>
+
+							<typ>S</typ>
+                			<stpid>6518</stpid>
+                			<stpnm>4900 S Wells</stpnm>
+                			<pdist>29529.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.804713948789</lat>
+						<lon>-87.632558941841</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.803874205638</lat>
+						<lon>-87.632392644882</lon>
+
+							<typ>S</typ>
+                			<stpid>6519</stpid>
+                			<stpnm>Wells &amp; 50th Street</stpnm>
+                			<pdist>30088.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.802474609263</lat>
+						<lon>-87.632081508636</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.802242673196</lat>
+						<lon>-87.632054686546</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.801598846267</lat>
+						<lon>-87.63201713562</lon>
+
+							<typ>S</typ>
+                			<stpid>6520</stpid>
+                			<stpnm>Wells &amp; 51st Street</stpnm>
+                			<pdist>31013.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.800183204059</lat>
+						<lon>-87.632033228874</lon>
+
+							<typ>S</typ>
+                			<stpid>6521</stpid>
+                			<stpnm>Wells &amp; 52nd Street</stpnm>
+                			<pdist>31439.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.798335623967</lat>
+						<lon>-87.63196349144</lon>
+
+							<typ>S</typ>
+                			<stpid>6522</stpid>
+                			<stpnm>Wells &amp; 53rd Street</stpnm>
+                			<pdist>32104.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.796268030707</lat>
+						<lon>-87.631899118423</lon>
+
+							<typ>S</typ>
+                			<stpid>6523</stpid>
+                			<stpnm>5400 S Wells</stpnm>
+                			<pdist>32851.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.794144379023</lat>
+						<lon>-87.631834745407</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.794152377843</lat>
+						<lon>-87.631089091301</lon>
+
+							<typ>S</typ>
+                			<stpid>6524</stpid>
+                			<stpnm>Garfield Red Line Station</stpnm>
+                			<pdist>33729.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.794160376662</lat>
+						<lon>-87.630670666695</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.794200370743</lat>
+						<lon>-87.629506587982</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.794696295267</lat>
+						<lon>-87.629506587982</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.794876266928</lat>
+						<lon>-87.629479765892</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.79498824904</lat>
+						<lon>-87.629372477531</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.795116228356</lat>
+						<lon>-87.629270553589</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.795364187555</lat>
+						<lon>-87.629265189171</lon>
+
+							<typ>S</typ>
+                			<stpid>6525</stpid>
+                			<stpnm>Wentworth &amp; Grand Blvd Shopping Ctr (5440 S)</stpnm>
+                			<pdist>34608.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.79636001403</lat>
+						<lon>-87.629313468933</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.796432000886</lat>
+						<lon>-87.629383206367</lon>
+
+							<typ>S</typ>
+                			<stpid>6526</stpid>
+                			<stpnm>Wentworth &amp; Grand Blvd Shopping Ctr (5400 S)</stpnm>
+                			<pdist>34994.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.796503987661</lat>
+						<lon>-87.629528045654</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.796475992814</lat>
+						<lon>-87.630075216293</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.795504164099</lat>
+						<lon>-87.630032300949</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.795152222493</lat>
+						<lon>-87.629662156105</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.794612308319</lat>
+						<lon>-87.629651427269</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.794604309557</lat>
+						<lon>-87.630482912064</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.794600310175</lat>
+						<lon>-87.631845474243</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.793980402991</lat>
+						<lon>-87.631829380989</lon>
+
+							<typ>S</typ>
+                			<stpid>6528</stpid>
+                			<stpnm>Wells &amp; Garfield </stpnm>
+                			<pdist>36655.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.79255659347</lat>
+						<lon>-87.631818652153</lon>
+
+							<typ>S</typ>
+                			<stpid>6529</stpid>
+                			<stpnm>5600 S Wells</stpnm>
+                			<pdist>37227.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.791028762684</lat>
+						<lon>-87.631781101227</lon>
+
+							<typ>S</typ>
+                			<stpid>6530</stpid>
+                			<stpnm>Wells &amp; 57th Street</stpnm>
+                			<pdist>37708.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.789032928871</lat>
+						<lon>-87.631802558899</lon>
+
+							<typ>S</typ>
+                			<stpid>6531</stpid>
+                			<stpnm>Wells &amp; 58th Street</stpnm>
+                			<pdist>38446.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.788824942614</lat>
+						<lon>-87.631813287735</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.788176981103</lat>
+						<lon>-87.63193666935</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.787437017046</lat>
+						<lon>-87.63199031353</lon>
+
+							<typ>S</typ>
+                			<stpid>6532</stpid>
+                			<stpnm>Wells &amp; 59th Street</stpnm>
+                			<pdist>39027.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.787233025453</lat>
+						<lon>-87.631995677948</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.786517049823</lat>
+						<lon>-87.63199031353</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.785593069455</lat>
+						<lon>-87.631968855858</lon>
+
+							<typ>S</typ>
+                			<stpid>6533</stpid>
+                			<stpnm>Yale &amp; 60th Street</stpnm>
+                			<pdist>39708.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.783789069406</lat>
+						<lon>-87.63196349144</lon>
+
+							<typ>S</typ>
+                			<stpid>6534</stpid>
+                			<stpnm>Yale &amp; 61st Street</stpnm>
+                			<pdist>40373.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.78254103967</lat>
+						<lon>-87.631958127022</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.780712952264</lat>
+						<lon>-87.631899118423</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.78013291364</lat>
+						<lon>-87.631888389587</lon>
+
+							<typ>S</typ>
+                			<stpid>6535</stpid>
+                			<stpnm>Yale &amp; 63rd Street</stpnm>
+                			<pdist>41707.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.779256845358</lat>
+						<lon>-87.631866931915</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.77884880947</lat>
+						<lon>-87.631684541702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.778224749562</lat>
+						<lon>-87.631319761276</lon>
+
+							<typ>S</typ>
+                			<stpid>6536</stpid>
+                			<stpnm>Wells &amp; 64th Street</stpnm>
+                			<pdist>42415.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.77696461008</lat>
+						<lon>-87.630332708359</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.77678058764</lat>
+						<lon>-87.630236148834</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.776688576221</lat>
+						<lon>-87.630203962326</lon>
+
+							<typ>S</typ>
+                			<stpid>6537</stpid>
+                			<stpnm>Wells &amp; 65th Street</stpnm>
+                			<pdist>43038.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.77652055503</lat>
+						<lon>-87.630107402802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.776260521366</lat>
+						<lon>-87.630102038383</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.775896472465</lat>
+						<lon>-87.630091309547</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.774708298487</lat>
+						<lon>-87.630064487457</lon>
+
+							<typ>S</typ>
+                			<stpid>6538</stpid>
+                			<stpnm>Wentworth &amp; 66th Street</stpnm>
+                			<pdist>43805.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.772895990738</lat>
+						<lon>-87.629994750023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.77281597597</lat>
+						<lon>-87.630075216293</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.77246791057</lat>
+						<lon>-87.630069851875</lon>
+
+							<typ>S</typ>
+                			<stpid>17299</stpid>
+                			<stpnm>Wentworth &amp; Marquette Rd</stpnm>
+                			<pdist>44613.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.772363890659</lat>
+						<lon>-87.630069851875</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.770819575209</lat>
+						<lon>-87.630021572113</lon>
+
+							<typ>S</typ>
+                			<stpid>6540</stpid>
+                			<stpnm>6800 S Wentworth</stpnm>
+                			<pdist>45267.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.769263219694</lat>
+						<lon>-87.629978656769</lon>
+
+							<typ>S</typ>
+                			<stpid>6541</stpid>
+                			<stpnm>Wentworth &amp; 69th Street</stpnm>
+                			<pdist>45778.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.768018908303</lat>
+						<lon>-87.629935741425</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.767878871748</lat>
+						<lon>-87.62986600399</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.767130671261</lat>
+						<lon>-87.629855275154</lon>
+
+							<typ>S</typ>
+                			<stpid>6542</stpid>
+                			<stpnm>Wentworth &amp; 70th Street</stpnm>
+                			<pdist>46442.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.765586229826</lat>
+						<lon>-87.629817724228</lon>
+
+							<typ>S</typ>
+                			<stpid>6543</stpid>
+                			<stpnm>Wentworth &amp; 71st Street</stpnm>
+                			<pdist>47118.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.763781666959</lat>
+						<lon>-87.629764080048</lon>
+
+							<typ>S</typ>
+                			<stpid>6544</stpid>
+                			<stpnm>Wentworth &amp; 72nd Street</stpnm>
+                			<pdist>47774.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.762121104184</lat>
+						<lon>-87.629731893539</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.761969050505</lat>
+						<lon>-87.629629969597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.761909029216</lat>
+						<lon>-87.629656791687</lon>
+
+							<typ>S</typ>
+                			<stpid>6545</stpid>
+                			<stpnm>Wentworth &amp; 73rd Street</stpnm>
+                			<pdist>48446.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.759672195843</lat>
+						<lon>-87.630708217621</lon>
+
+							<typ>S</typ>
+                			<stpid>17072</stpid>
+                			<stpnm>Vincennes &amp; 74th Street</stpnm>
+                			<pdist>49350.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>41.758219612917</lat>
+						<lon>-87.63136267662</lon>
+
+							<typ>S</typ>
+                			<stpid>6547</stpid>
+                			<stpnm>Vincennes &amp; 75th Street/Yale</stpnm>
+                			<pdist>49902.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>41.756402837581</lat>
+						<lon>-87.632194161415</lon>
+
+							<typ>S</typ>
+                			<stpid>6548</stpid>
+                			<stpnm>Vincennes &amp; 76th Street</stpnm>
+                			<pdist>50614.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>41.755470419696</lat>
+						<lon>-87.632687687874</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>41.754549993906</lat>
+						<lon>-87.633127570152</lon>
+
+							<typ>S</typ>
+                			<stpid>6549</stpid>
+                			<stpnm>Vincennes &amp; 77th Street</stpnm>
+                			<pdist>51333.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>41.752845170405</lat>
+						<lon>-87.63373374939</lon>
+
+							<typ>S</typ>
+                			<stpid>6550</stpid>
+                			<stpnm>Vincennes &amp; 78th Street</stpnm>
+                			<pdist>51977.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>41.751460468227</lat>
+						<lon>-87.634077072144</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>41.750856152423</lat>
+						<lon>-87.634232640266</lon>
+
+							<typ>S</typ>
+                			<stpid>6551</stpid>
+                			<stpnm>Vincennes &amp; 79th Street</stpnm>
+                			<pdist>52702.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>41.749835606195</lat>
+						<lon>-87.634490132332</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>41.749087195316</lat>
+						<lon>-87.634693980217</lon>
+
+							<typ>S</typ>
+                			<stpid>6552</stpid>
+                			<stpnm>Vincennes &amp; 80th Street</stpnm>
+                			<pdist>53389.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>41.74728617081</lat>
+						<lon>-87.635144591331</lon>
+
+							<typ>S</typ>
+                			<stpid>6553</stpid>
+                			<stpnm>Vincennes &amp; 81st Street</stpnm>
+                			<pdist>54056.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>41.745445071314</lat>
+						<lon>-87.6356112957</lon>
+
+							<typ>S</typ>
+                			<stpid>6554</stpid>
+                			<stpnm>Vincennes &amp; 82nd Street</stpnm>
+                			<pdist>54702.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>41.74417628289</lat>
+						<lon>-87.635959982872</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>41.74358790877</lat>
+						<lon>-87.634538412094</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>41.743483842039</lat>
+						<lon>-87.634136080742</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>41.743519865157</lat>
+						<lon>-87.632076144218</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>41.739084867094</lat>
+						<lon>-87.631925940514</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>41.737575777153</lat>
+						<lon>-87.632296085358</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>41.736655094786</lat>
+						<lon>-87.632408738136</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>41.736010609276</lat>
+						<lon>-87.632735967636</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>41.736014612312</lat>
+						<lon>-87.632934451103</lon>
+
+							<typ>S</typ>
+                			<stpid>9493</stpid>
+                			<stpnm>87th Street &amp; Holland</stpnm>
+                			<pdist>59127.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>41.735994597132</lat>
+						<lon>-87.633615732193</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>41.736026621417</lat>
+						<lon>-87.633728384972</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>168</seq>
+						<lat>41.736010609276</lat>
+						<lon>-87.634243369102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>169</seq>
+						<lat>41.736054642654</lat>
+						<lon>-87.634661793709</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>170</seq>
+						<lat>41.736186742604</lat>
+						<lon>-87.635160684586</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>171</seq>
+						<lat>41.736218766794</lat>
+						<lon>-87.636115550995</lon>
+
+							<typ>S</typ>
+                			<stpid>9494</stpid>
+                			<stpnm>87th Street &amp; Normal</stpnm>
+                			<pdist>59971.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>172</seq>
+						<lat>41.73618273958</lat>
+						<lon>-87.637515664101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>173</seq>
+						<lat>41.736202754701</lat>
+						<lon>-87.638642191887</lon>
+
+							<typ>S</typ>
+                			<stpid>9495</stpid>
+                			<stpnm>87th Street &amp; Wallace</stpnm>
+                			<pdist>60633.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>174</seq>
+						<lat>41.73618273958</lat>
+						<lon>-87.641066908836</lon>
+
+							<typ>S</typ>
+                			<stpid>9496</stpid>
+                			<stpnm>87th Street &amp; Union</stpnm>
+                			<pdist>61302.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>175</seq>
+						<lat>41.736154718399</lat>
+						<lon>-87.643851041794</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>176</seq>
+						<lat>41.73609467297</lat>
+						<lon>-87.64391541481</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>177</seq>
+						<lat>41.73609066994</lat>
+						<lon>-87.644065618515</lon>
+
+							<typ>S</typ>
+                			<stpid>14507</stpid>
+                			<stpnm>87th Street &amp; Halsted</stpnm>
+                			<pdist>62111.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>178</seq>
+						<lat>41.736066651751</lat>
+						<lon>-87.645546197891</lon>
+
+							<typ>S</typ>
+                			<stpid>9498</stpid>
+                			<stpnm>87th Street &amp; Vincennes</stpnm>
+                			<pdist>62508.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>179</seq>
+						<lat>41.736046636587</lat>
+						<lon>-87.647300362587</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>180</seq>
+						<lat>41.736010609276</lat>
+						<lon>-87.648834586143</lon>
+
+							<typ>S</typ>
+                			<stpid>15790</stpid>
+                			<stpnm>87th Street &amp; Morgan</stpnm>
+                			<pdist>63365.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>181</seq>
+						<lat>41.735990594095</lat>
+						<lon>-87.650765776634</lon>
+
+							<typ>S</typ>
+                			<stpid>9500</stpid>
+                			<stpnm>87th Street &amp; Aberdeen</stpnm>
+                			<pdist>63913.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>182</seq>
+						<lat>41.735958569791</lat>
+						<lon>-87.653303146362</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>183</seq>
+						<lat>41.736575034826</lat>
+						<lon>-87.653319239616</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>184</seq>
+						<lat>41.736579037826</lat>
+						<lon>-87.653115391731</lon>
+
+							<typ>S</typ>
+                			<stpid>5041</stpid>
+                			<stpnm>Racine &amp; 87th Street Terminal</stpnm>
+                			<pdist>65142.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5339</pid>
+				<ln>64089.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.736579037826</lat>
+						<lon>-87.653115391731</lon>
+
+							<typ>S</typ>
+                			<stpid>5041</stpid>
+                			<stpnm>Racine &amp; 87th Street Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.736583040827</lat>
+						<lon>-87.653399705887</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.735906530264</lat>
+						<lon>-87.653399705887</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.735914536348</lat>
+						<lon>-87.653051018715</lon>
+
+							<typ>S</typ>
+                			<stpid>14778</stpid>
+                			<stpnm>87th Street &amp; Racine</stpnm>
+                			<pdist>516.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.735926545472</lat>
+						<lon>-87.651044726372</lon>
+
+							<typ>S</typ>
+                			<stpid>9397</stpid>
+                			<stpnm>87th Street &amp; Aberdeen</stpnm>
+                			<pdist>1003.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.73596257283</lat>
+						<lon>-87.648185491562</lon>
+
+							<typ>S</typ>
+                			<stpid>15789</stpid>
+                			<stpnm>87th Street &amp; Morgan</stpnm>
+                			<pdist>1822.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.73598258802</lat>
+						<lon>-87.647289633751</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.73600660624</lat>
+						<lon>-87.645449638367</lon>
+
+							<typ>S</typ>
+                			<stpid>9399</stpid>
+                			<stpnm>87th Street &amp; Vincennes</stpnm>
+                			<pdist>2559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.736034627486</lat>
+						<lon>-87.643931508064</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.73598258802</lat>
+						<lon>-87.643829584122</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.73598258802</lat>
+						<lon>-87.643094658852</lon>
+
+							<typ>S</typ>
+                			<stpid>14506</stpid>
+                			<stpnm>87th Street &amp; Halsted</stpnm>
+                			<pdist>3227.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.736002603204</lat>
+						<lon>-87.641297578812</lon>
+
+							<typ>S</typ>
+                			<stpid>9401</stpid>
+                			<stpnm>87th Street &amp; Union</stpnm>
+                			<pdist>3688.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.736002603204</lat>
+						<lon>-87.63885140419</lon>
+
+							<typ>S</typ>
+                			<stpid>9402</stpid>
+                			<stpnm>87th Street &amp; Wallace</stpnm>
+                			<pdist>4367.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.735994597132</lat>
+						<lon>-87.637499570847</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.73600660624</lat>
+						<lon>-87.636507153511</lon>
+
+							<typ>S</typ>
+                			<stpid>9403</stpid>
+                			<stpnm>87th Street &amp; Normal</stpnm>
+                			<pdist>5037.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.735998600168</lat>
+						<lon>-87.635777592659</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.735970578907</lat>
+						<lon>-87.635477185249</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.735934551553</lat>
+						<lon>-87.635128498077</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.735894521137</lat>
+						<lon>-87.63490319252</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.735878508963</lat>
+						<lon>-87.634634971619</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.735902527222</lat>
+						<lon>-87.633749842644</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.735942557634</lat>
+						<lon>-87.633626461029</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.735950563713</lat>
+						<lon>-87.632714509964</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.736667103772</lat>
+						<lon>-87.632349729538</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.737499721284</lat>
+						<lon>-87.632253170013</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.739048841487</lat>
+						<lon>-87.631872296333</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.739232972153</lat>
+						<lon>-87.631872296333</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.739437116405</lat>
+						<lon>-87.631877660751</lon>
+
+							<typ>S</typ>
+                			<stpid>17667</stpid>
+                			<stpnm>8501 S Holland</stpnm>
+                			<pdist>7331.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.741222350247</lat>
+						<lon>-87.631931304932</lon>
+
+							<typ>S</typ>
+                			<stpid>17668</stpid>
+                			<stpnm>8401 S Holland</stpnm>
+                			<pdist>7975.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.743575901079</lat>
+						<lon>-87.63201713562</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.743563893386</lat>
+						<lon>-87.632312178612</lon>
+
+							<typ>S</typ>
+                			<stpid>17669</stpid>
+                			<stpnm>83rd Street &amp; Holland</stpnm>
+                			<pdist>8918.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.743535875426</lat>
+						<lon>-87.634077072144</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.743651949752</lat>
+						<lon>-87.634516954422</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.74419629552</lat>
+						<lon>-87.635847330093</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.744264338416</lat>
+						<lon>-87.635841965675</lon>
+
+							<typ>S</typ>
+                			<stpid>6434</stpid>
+                			<stpnm>Vincennes &amp; 83rd Street</stpnm>
+                			<pdist>10043.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.745445071314</lat>
+						<lon>-87.63555765152</lon>
+
+							<typ>S</typ>
+                			<stpid>6435</stpid>
+                			<stpnm>Vincennes &amp; 82nd Street</stpnm>
+                			<pdist>10325.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.745757261467</lat>
+						<lon>-87.635493278503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.74588934146</lat>
+						<lon>-87.635391354561</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.746205531853</lat>
+						<lon>-87.6352840662</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.746985995146</lat>
+						<lon>-87.635090947151</lon>
+
+							<typ>S</typ>
+                			<stpid>6436</stpid>
+                			<stpnm>Vincennes &amp; 81st Street</stpnm>
+                			<pdist>10890.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.748855066105</lat>
+						<lon>-87.634624242783</lon>
+
+							<typ>S</typ>
+                			<stpid>6437</stpid>
+                			<stpnm>Vincennes &amp; 80th Street</stpnm>
+                			<pdist>11565.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.749515431486</lat>
+						<lon>-87.634490132332</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.750664050843</lat>
+						<lon>-87.634189724922</lon>
+
+							<typ>S</typ>
+                			<stpid>6438</stpid>
+                			<stpnm>Vincennes &amp; 79th Street</stpnm>
+                			<pdist>12253.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.752541018729</lat>
+						<lon>-87.633728384972</lon>
+
+							<typ>S</typ>
+                			<stpid>6439</stpid>
+                			<stpnm>Vincennes &amp; 78th Street</stpnm>
+                			<pdist>12950.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.752745120671</lat>
+						<lon>-87.633669376373</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.754317884449</lat>
+						<lon>-87.633116841316</lon>
+
+							<typ>S</typ>
+                			<stpid>6440</stpid>
+                			<stpnm>Vincennes &amp; 77th Street</stpnm>
+                			<pdist>13625.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.755310346594</lat>
+						<lon>-87.632693052292</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.756178738382</lat>
+						<lon>-87.632226347923</lon>
+
+							<typ>S</typ>
+                			<stpid>6441</stpid>
+                			<stpnm>Vincennes &amp; 76th Street</stpnm>
+                			<pdist>14338.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.758227616218</lat>
+						<lon>-87.631271481514</lon>
+
+							<typ>S</typ>
+                			<stpid>14538</stpid>
+                			<stpnm>Vincennes &amp; 75th Street/Yale</stpnm>
+                			<pdist>15017.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.759864270463</lat>
+						<lon>-87.630531191826</lon>
+
+							<typ>S</typ>
+                			<stpid>6443</stpid>
+                			<stpnm>Vincennes &amp; 74th Street</stpnm>
+                			<pdist>15763.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.761973051922</lat>
+						<lon>-87.629549503326</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.762113101367</lat>
+						<lon>-87.629640698433</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.762465224337</lat>
+						<lon>-87.629662156105</lon>
+
+							<typ>S</typ>
+                			<stpid>6444</stpid>
+                			<stpnm>Wentworth &amp; Vincennes</stpnm>
+                			<pdist>16764.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.763473565788</lat>
+						<lon>-87.629672884941</lon>
+
+							<typ>S</typ>
+                			<stpid>6445</stpid>
+                			<stpnm>Wentworth &amp; 72nd Street</stpnm>
+                			<pdist>17133.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.765314148208</lat>
+						<lon>-87.629731893539</lon>
+
+							<typ>S</typ>
+                			<stpid>6446</stpid>
+                			<stpnm>Wentworth &amp; 71st Street</stpnm>
+                			<pdist>17791.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.767142674546</lat>
+						<lon>-87.629774808884</lon>
+
+							<typ>S</typ>
+                			<stpid>6447</stpid>
+                			<stpnm>Wentworth &amp; 70th Street</stpnm>
+                			<pdist>18463.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.767854865451</lat>
+						<lon>-87.629780173302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.768018908303</lat>
+						<lon>-87.629705071449</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.768959145826</lat>
+						<lon>-87.629742622375</lon>
+
+							<typ>S</typ>
+                			<stpid>6448</stpid>
+                			<stpnm>Wentworth &amp; 69th Street</stpnm>
+                			<pdist>19119.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.770831577804</lat>
+						<lon>-87.629790902138</lon>
+
+							<typ>S</typ>
+                			<stpid>6449</stpid>
+                			<stpnm>6800 S Wentworth</stpnm>
+                			<pdist>19734.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.772579931825</lat>
+						<lon>-87.629823088646</lon>
+
+							<typ>S</typ>
+                			<stpid>6450</stpid>
+                			<stpnm>Wentworth &amp; Marquette Rd</stpnm>
+                			<pdist>20451.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.77281597597</lat>
+						<lon>-87.629828453064</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.772903992209</lat>
+						<lon>-87.629925012589</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.774416252355</lat>
+						<lon>-87.629973292351</lon>
+
+							<typ>S</typ>
+                			<stpid>6451</stpid>
+                			<stpnm>Wentworth &amp; 66th Street</stpnm>
+                			<pdist>21123.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.776260521366</lat>
+						<lon>-87.630010843277</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.776444545299</lat>
+						<lon>-87.630005478859</lon>
+
+							<typ>S</typ>
+                			<stpid>6452</stpid>
+                			<stpnm>Wentworth &amp; 65th Street</stpnm>
+                			<pdist>21921.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.776628568704</lat>
+						<lon>-87.629994750023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.778884812741</lat>
+						<lon>-87.630048394203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.779744884873</lat>
+						<lon>-87.630096673965</lon>
+
+							<typ>S</typ>
+                			<stpid>6454</stpid>
+                			<stpnm>Wentworth &amp; 63rd Street</stpnm>
+                			<pdist>23071.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.781504996532</lat>
+						<lon>-87.630128860474</lon>
+
+							<typ>S</typ>
+                			<stpid>6455</stpid>
+                			<stpnm>Wentworth &amp; 62nd Street</stpnm>
+                			<pdist>23733.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.781673004664</lat>
+						<lon>-87.630128860474</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.782965052497</lat>
+						<lon>-87.630161046982</lon>
+
+							<typ>S</typ>
+                			<stpid>6456</stpid>
+                			<stpnm>Wentworth &amp; 61st Street</stpnm>
+                			<pdist>24262.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.785305072852</lat>
+						<lon>-87.630225419998</lon>
+
+							<typ>S</typ>
+                			<stpid>6457</stpid>
+                			<stpnm>Wentworth &amp; 60th Street</stpnm>
+                			<pdist>25101.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.787125029641</lat>
+						<lon>-87.630316615105</lon>
+
+							<typ>S</typ>
+                			<stpid>6458</stpid>
+                			<stpnm>Wentworth &amp; 59th Street</stpnm>
+                			<pdist>25757.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.789812871325</lat>
+						<lon>-87.630375623703</lon>
+
+							<typ>S</typ>
+                			<stpid>6459</stpid>
+                			<stpnm>Wentworth &amp; 57th Place</stpnm>
+                			<pdist>26733.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.790888776367</lat>
+						<lon>-87.630370259285</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.791104755128</lat>
+						<lon>-87.630370259285</lon>
+
+							<typ>S</typ>
+                			<stpid>15858</stpid>
+                			<stpnm>Wentworth &amp; 57th Street</stpnm>
+                			<pdist>27273.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.792612586577</lat>
+						<lon>-87.630407810211</lon>
+
+							<typ>S</typ>
+                			<stpid>6461</stpid>
+                			<stpnm>5556 S Wentworth</stpnm>
+                			<pdist>27678.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.794136380202</lat>
+						<lon>-87.63046681881</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.794856270102</lat>
+						<lon>-87.630482912064</lon>
+
+							<typ>S</typ>
+                			<stpid>6463</stpid>
+                			<stpnm>Wentworth &amp; Garfield </stpnm>
+                			<pdist>28571.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.795588149878</lat>
+						<lon>-87.630499005318</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.796288027092</lat>
+						<lon>-87.630509734154</lon>
+
+							<typ>S</typ>
+                			<stpid>6464</stpid>
+                			<stpnm>5400 S Wentworth</stpnm>
+                			<pdist>29072.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.798271637554</lat>
+						<lon>-87.630563378334</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.800923020979</lat>
+						<lon>-87.630649209023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.801666828298</lat>
+						<lon>-87.630638480186</lon>
+
+							<typ>S</typ>
+                			<stpid>6467</stpid>
+                			<stpnm>Wentworth &amp; 51st Street</stpnm>
+                			<pdist>31056.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.801946753548</lat>
+						<lon>-87.630638480186</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.803802227142</lat>
+						<lon>-87.630724310875</lon>
+
+							<typ>S</typ>
+                			<stpid>6468</stpid>
+                			<stpnm>5000 S Wentworth</stpnm>
+                			<pdist>31837.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.80523778299</lat>
+						<lon>-87.630756497383</lon>
+
+							<typ>S</typ>
+                			<stpid>6469</stpid>
+                			<stpnm>4949 S Wentworth</stpnm>
+                			<pdist>32364.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.806225458726</lat>
+						<lon>-87.630777955055</lon>
+
+							<typ>S</typ>
+                			<stpid>6470</stpid>
+                			<stpnm>4901 S Wentworth</stpnm>
+                			<pdist>32713.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.807405051495</lat>
+						<lon>-87.630804777145</lon>
+
+							<typ>S</typ>
+                			<stpid>6471</stpid>
+                			<stpnm>4800 S Wentworth</stpnm>
+                			<pdist>33164.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.808948485843</lat>
+						<lon>-87.630810141563</lon>
+
+							<typ>S</typ>
+                			<stpid>6472</stpid>
+                			<stpnm>Wentworth &amp; 47th Street</stpnm>
+                			<pdist>33677.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.809188394578</lat>
+						<lon>-87.630799412727</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.80959223892</lat>
+						<lon>-87.630622386932</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.810639823267</lat>
+						<lon>-87.629898190498</lon>
+
+							<typ>S</typ>
+                			<stpid>6473</stpid>
+                			<stpnm>LaSalle &amp; 46th Place</stpnm>
+                			<pdist>34404.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.811415504454</lat>
+						<lon>-87.629436850548</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.811675395535</lat>
+						<lon>-87.629318833351</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.812067229324</lat>
+						<lon>-87.629275918007</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.812950845706</lat>
+						<lon>-87.629302740097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.814562114785</lat>
+						<lon>-87.629334926605</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.816241309897</lat>
+						<lon>-87.629393935204</lon>
+
+							<typ>S</typ>
+                			<stpid>6476</stpid>
+                			<stpnm>LaSalle &amp; 43rd Street</stpnm>
+                			<pdist>36494.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.818991896287</lat>
+						<lon>-87.629452943802</lon>
+
+							<typ>S</typ>
+                			<stpid>6477</stpid>
+                			<stpnm>LaSalle &amp; Root</stpnm>
+                			<pdist>37480.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.823965040361</lat>
+						<lon>-87.629592418671</lon>
+
+							<typ>S</typ>
+                			<stpid>6478</stpid>
+                			<stpnm>LaSalle &amp; Pershing</stpnm>
+                			<pdist>39259.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.831148232928</lat>
+						<lon>-87.629790902138</lon>
+
+							<typ>S</typ>
+                			<stpid>6480</stpid>
+                			<stpnm>LaSalle &amp; 35th Street</stpnm>
+                			<pdist>41949.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.834437762102</lat>
+						<lon>-87.629882097244</lon>
+
+							<typ>S</typ>
+                			<stpid>6481</stpid>
+                			<stpnm>LaSalle &amp; 33rd Street</stpnm>
+                			<pdist>43091.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.836316275218</lat>
+						<lon>-87.629935741425</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.837591234625</lat>
+						<lon>-87.629989385605</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.838178746555</lat>
+						<lon>-87.629984021187</lon>
+
+							<typ>S</typ>
+                			<stpid>6482</stpid>
+                			<stpnm>LaSalle &amp; 31st Street</stpnm>
+                			<pdist>44626.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.841891537335</lat>
+						<lon>-87.630037665367</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.843522059826</lat>
+						<lon>-87.630128860474</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.84372986853</lat>
+						<lon>-87.63022005558</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.843913698745</lat>
+						<lon>-87.630375623703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.844053569207</lat>
+						<lon>-87.630558013916</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.844728939419</lat>
+						<lon>-87.631587982178</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.844836838142</lat>
+						<lon>-87.631700634956</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.844976706585</lat>
+						<lon>-87.631743550301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.845588127906</lat>
+						<lon>-87.631770372391</lon>
+
+							<typ>S</typ>
+                			<stpid>6485</stpid>
+                			<stpnm>Wentworth &amp; 26th Street</stpnm>
+                			<pdist>47282.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.846379370353</lat>
+						<lon>-87.631942033768</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.846643115661</lat>
+						<lon>-87.631995677948</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.847094677073</lat>
+						<lon>-87.632065415382</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.847482298044</lat>
+						<lon>-87.63204395771</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.847993794287</lat>
+						<lon>-87.631845474243</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.848297493247</lat>
+						<lon>-87.631786465645</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.84874504698</lat>
+						<lon>-87.631834745407</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.848996794579</lat>
+						<lon>-87.631883025169</lon>
+
+							<typ>S</typ>
+                			<stpid>6486</stpid>
+                			<stpnm>Wentworth &amp; 24th Street</stpnm>
+                			<pdist>48641.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.849188601609</lat>
+						<lon>-87.631888389587</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.850091685311</lat>
+						<lon>-87.631920576096</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.850922830727</lat>
+						<lon>-87.631942033768</lon>
+
+							<typ>S</typ>
+                			<stpid>6487</stpid>
+                			<stpnm>Wentworth &amp; 23rd Street</stpnm>
+                			<pdist>49370.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.852161537026</lat>
+						<lon>-87.631974220276</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.852684983123</lat>
+						<lon>-87.63199031353</lon>
+
+							<typ>S</typ>
+                			<stpid>6488</stpid>
+                			<stpnm>Wentworth &amp; Cermak</stpnm>
+                			<pdist>49956.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.852740923673</lat>
+						<lon>-87.63199031353</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.852728936417</lat>
+						<lon>-87.631180286407</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.85276489818</lat>
+						<lon>-87.630010843277</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.853128510432</lat>
+						<lon>-87.630032300949</lon>
+
+							<typ>S</typ>
+                			<stpid>6489</stpid>
+                			<stpnm>Clark &amp; Cermak</stpnm>
+                			<pdist>50664.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.855653760472</lat>
+						<lon>-87.630118131638</lon>
+
+							<typ>S</typ>
+                			<stpid>5972</stpid>
+                			<stpnm>Clark &amp; Archer</stpnm>
+                			<pdist>51479.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.857655509675</lat>
+						<lon>-87.6301664114</lon>
+
+							<typ>S</typ>
+                			<stpid>6283</stpid>
+                			<stpnm>Clark &amp; 18th Street</stpnm>
+                			<pdist>52161.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.85886212264</lat>
+						<lon>-87.630209326744</lon>
+
+							<typ>S</typ>
+                			<stpid>6284</stpid>
+                			<stpnm>Clark &amp; 17th Street</stpnm>
+                			<pdist>52585.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.860032755182</lat>
+						<lon>-87.63022005558</lon>
+
+							<typ>S</typ>
+                			<stpid>6285</stpid>
+                			<stpnm>Clark &amp; 16th Street</stpnm>
+                			<pdist>53017.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.861786666221</lat>
+						<lon>-87.630209326744</lon>
+
+							<typ>S</typ>
+                			<stpid>6286</stpid>
+                			<stpnm>Clark &amp; 15th Street</stpnm>
+                			<pdist>53682.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.864719066057</lat>
+						<lon>-87.630327343941</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.864826931061</lat>
+						<lon>-87.630236148834</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.865474117266</lat>
+						<lon>-87.63027369976</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.86640493532</lat>
+						<lon>-87.630348801613</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.867175946022</lat>
+						<lon>-87.630391716957</lon>
+
+							<typ>S</typ>
+                			<stpid>6288</stpid>
+                			<stpnm>Clark &amp; Roosevelt</stpnm>
+                			<pdist>55647.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.867491538394</lat>
+						<lon>-87.630397081375</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.869249239558</lat>
+						<lon>-87.630418539047</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>41.869345112777</lat>
+						<lon>-87.630509734154</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>41.87038772475</lat>
+						<lon>-87.630536556244</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>41.872133362664</lat>
+						<lon>-87.630568742752</lon>
+
+							<typ>S</typ>
+                			<stpid>6290</stpid>
+                			<stpnm>Clark &amp; Polk</stpnm>
+                			<pdist>57439.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>41.874386243646</lat>
+						<lon>-87.630638480186</lon>
+
+							<typ>S</typ>
+                			<stpid>5384</stpid>
+                			<stpnm>Clark &amp; Harrison</stpnm>
+                			<pdist>58269.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>41.874498086732</lat>
+						<lon>-87.630643844604</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>41.874502081125</lat>
+						<lon>-87.629152536392</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>41.874809648583</lat>
+						<lon>-87.62915790081</lon>
+
+							<typ>S</typ>
+                			<stpid>1876</stpid>
+                			<stpnm>Dearborn &amp; Harrison</stpnm>
+                			<pdist>58776.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>41.875500671371</lat>
+						<lon>-87.629163265228</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>41.875732342079</lat>
+						<lon>-87.629168629646</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>41.875916080319</lat>
+						<lon>-87.629168629646</lon>
+
+							<typ>S</typ>
+                			<stpid>1877</stpid>
+                			<stpnm>Dearborn &amp; Congress</stpnm>
+                			<pdist>59227.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>41.876902665747</lat>
+						<lon>-87.629216909409</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>41.878013055422</lat>
+						<lon>-87.629265189171</lon>
+
+							<typ>S</typ>
+                			<stpid>14508</stpid>
+                			<stpnm>Dearborn &amp; Jackson</stpnm>
+                			<pdist>59917.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>41.87955478751</lat>
+						<lon>-87.629302740097</lon>
+
+							<typ>S</typ>
+                			<stpid>1880</stpid>
+                			<stpnm>Dearborn &amp; Adams</stpnm>
+                			<pdist>60606.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>41.88097666289</lat>
+						<lon>-87.629351019859</lon>
+
+							<typ>S</typ>
+                			<stpid>1881</stpid>
+                			<stpnm>Dearborn &amp; Monroe</stpnm>
+                			<pdist>61067.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>41.882106951365</lat>
+						<lon>-87.629383206367</lon>
+
+							<typ>S</typ>
+                			<stpid>1882</stpid>
+                			<stpnm>Dearborn &amp; Madison</stpnm>
+                			<pdist>61519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>41.883720473412</lat>
+						<lon>-87.629426121712</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>41.884730900878</lat>
+						<lon>-87.629442214966</lon>
+
+							<typ>S</typ>
+                			<stpid>1884</stpid>
+                			<stpnm>Dearborn &amp; Randolph</stpnm>
+                			<pdist>62424.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>41.886851548455</lat>
+						<lon>-87.629469037056</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>41.886859535695</lat>
+						<lon>-87.631030082703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>41.885473734593</lat>
+						<lon>-87.631024718285</lon>
+
+							<typ>S</typ>
+                			<stpid>1864</stpid>
+                			<stpnm>Clark &amp; Lake</stpnm>
+                			<pdist>64089.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

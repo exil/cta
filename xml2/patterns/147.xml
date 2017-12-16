@@ -1,0 +1,3462 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4524</pid>
+				<ln>61546.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.87486956415</lat>
+						<lon>-87.623605728149</lon>
+
+							<typ>S</typ>
+                			<stpid>74</stpid>
+                			<stpnm>Congress Plaza &amp; Michigan</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.875061293585</lat>
+						<lon>-87.623417973518</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.87525701679</lat>
+						<lon>-87.623326778412</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.875564580616</lat>
+						<lon>-87.623251676559</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.875728347763</lat>
+						<lon>-87.623246312141</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.875904097406</lat>
+						<lon>-87.623240947723</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.875820216955</lat>
+						<lon>-87.624002695084</lon>
+
+							<typ>S</typ>
+                			<stpid>4725</stpid>
+                			<stpnm>Congress &amp; Michigan</stpnm>
+                			<pdist>604.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.875788262469</lat>
+						<lon>-87.624388933182</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.875764296593</lat>
+						<lon>-87.62581050396</lon>
+
+							<typ>S</typ>
+                			<stpid>1111</stpid>
+                			<stpnm>Congress &amp; Wabash</stpnm>
+                			<pdist>1279.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.875740330709</lat>
+						<lon>-87.627575397491</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.876870711802</lat>
+						<lon>-87.627607584</lon>
+
+							<typ>S</typ>
+                			<stpid>1113</stpid>
+                			<stpnm>State &amp; Van Buren</stpnm>
+                			<pdist>1914.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.879403012427</lat>
+						<lon>-87.627666592598</lon>
+
+							<typ>S</typ>
+                			<stpid>1115</stpid>
+                			<stpnm>State &amp; Adams</stpnm>
+                			<pdist>2840.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.880745011194</lat>
+						<lon>-87.627698779106</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.881843352307</lat>
+						<lon>-87.627752423286</lon>
+
+							<typ>S</typ>
+                			<stpid>1117</stpid>
+                			<stpnm>State &amp; Madison</stpnm>
+                			<pdist>3768.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.883217250611</lat>
+						<lon>-87.627816796303</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.883185299824</lat>
+						<lon>-87.625976800919</lon>
+
+							<typ>S</typ>
+                			<stpid>449</stpid>
+                			<stpnm>Washington &amp; Wabash</stpnm>
+                			<pdist>4841.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.883241213692</lat>
+						<lon>-87.624195814133</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.884686969581</lat>
+						<lon>-87.624351382256</lon>
+
+							<typ>S</typ>
+                			<stpid>1119</stpid>
+                			<stpnm>Michigan &amp; Randolph</stpnm>
+                			<pdist>5836.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.886699790703</lat>
+						<lon>-87.624415755272</lon>
+
+							<typ>S</typ>
+                			<stpid>1120</stpid>
+                			<stpnm>Michigan &amp; South Water</stpnm>
+                			<pdist>6363.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.887837965056</lat>
+						<lon>-87.624415755272</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.888129494172</lat>
+						<lon>-87.624405026436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.888349138517</lat>
+						<lon>-87.62436747551</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.889287610396</lat>
+						<lon>-87.62414753437</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.889563159095</lat>
+						<lon>-87.6240670681</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.889746857567</lat>
+						<lon>-87.62401342392</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.889918575227</lat>
+						<lon>-87.62398660183</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.890178147557</lat>
+						<lon>-87.623981237411</lon>
+
+							<typ>S</typ>
+                			<stpid>1122</stpid>
+                			<stpnm>Michigan &amp; Hubbard (Tribune Bldg.)</stpnm>
+                			<pdist>7663.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.891032732084</lat>
+						<lon>-87.624018788338</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.891675659635</lat>
+						<lon>-87.624045610428</lon>
+
+							<typ>S</typ>
+                			<stpid>1123</stpid>
+                			<stpnm>Michigan &amp; Grand</stpnm>
+                			<pdist>8272.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.892562170242</lat>
+						<lon>-87.624061703682</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.893225048512</lat>
+						<lon>-87.624077796936</lon>
+
+							<typ>S</typ>
+                			<stpid>1124</stpid>
+                			<stpnm>Michigan &amp; Ontario</stpnm>
+                			<pdist>8781.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.894834296652</lat>
+						<lon>-87.624126076698</lon>
+
+							<typ>S</typ>
+                			<stpid>1125</stpid>
+                			<stpnm>Michigan &amp; Huron</stpnm>
+                			<pdist>9313.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.89601225656</lat>
+						<lon>-87.62414753437</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.896411560072</lat>
+						<lon>-87.624158263206</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.896695064051</lat>
+						<lon>-87.62412071228</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.897130300104</lat>
+						<lon>-87.624083161354</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.897633413313</lat>
+						<lon>-87.623997330666</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.898096593399</lat>
+						<lon>-87.623970508575</lon>
+
+							<typ>S</typ>
+                			<stpid>1127</stpid>
+                			<stpnm>Michigan &amp; Chestnut</stpnm>
+                			<pdist>10621.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.899478127837</lat>
+						<lon>-87.624024152756</lon>
+
+							<typ>S</typ>
+                			<stpid>1128</stpid>
+                			<stpnm>Michigan &amp; Delaware/Walton</stpnm>
+                			<pdist>11129.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.900200826142</lat>
+						<lon>-87.624034881592</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.900408450662</lat>
+						<lon>-87.624018788338</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.900863625132</lat>
+						<lon>-87.623981237411</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.901250920153</lat>
+						<lon>-87.623895406723</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.901993561766</lat>
+						<lon>-87.62368619442</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.902197187796</lat>
+						<lon>-87.62363255024</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.902452717582</lat>
+						<lon>-87.623605728149</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.90264436425</lat>
+						<lon>-87.623611092567</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.903211315609</lat>
+						<lon>-87.623782753944</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.903626544396</lat>
+						<lon>-87.623997330666</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.90398986737</lat>
+						<lon>-87.624179720879</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.904516881636</lat>
+						<lon>-87.624335289001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.905874322591</lat>
+						<lon>-87.624737620354</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.906065958989</lat>
+						<lon>-87.624839544296</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.908054152677</lat>
+						<lon>-87.625359892845</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.909611128599</lat>
+						<lon>-87.625644207001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.911096208707</lat>
+						<lon>-87.625703215599</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.911962489481</lat>
+						<lon>-87.625799775124</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.912277860669</lat>
+						<lon>-87.625901699066</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.912533350109</lat>
+						<lon>-87.626008987427</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.91316807726</lat>
+						<lon>-87.626320123672</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.915160041608</lat>
+						<lon>-87.627274990082</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.915818693496</lat>
+						<lon>-87.627591490746</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.916684910178</lat>
+						<lon>-87.628052830696</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.917323587758</lat>
+						<lon>-87.628353238106</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.918141884067</lat>
+						<lon>-87.628691196442</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.918772563819</lat>
+						<lon>-87.628948688507</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.919558908955</lat>
+						<lon>-87.62913107872</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.920848174684</lat>
+						<lon>-87.629452943802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.921454878955</lat>
+						<lon>-87.629603147507</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.924188968072</lat>
+						<lon>-87.630461454391</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.926196553072</lat>
+						<lon>-87.631115913391</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.927697211533</lat>
+						<lon>-87.631587982178</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.928255958325</lat>
+						<lon>-87.631765007973</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.928858601164</lat>
+						<lon>-87.631904482841</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.929189852751</lat>
+						<lon>-87.631931304932</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.93001198781</lat>
+						<lon>-87.631893754005</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.932917312257</lat>
+						<lon>-87.631850838661</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.933288449942</lat>
+						<lon>-87.631861567497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.933887054559</lat>
+						<lon>-87.63196349144</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.934569456971</lat>
+						<lon>-87.632161974907</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.93537955094</lat>
+						<lon>-87.632548213005</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.93593823044</lat>
+						<lon>-87.632918357849</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.936492914531</lat>
+						<lon>-87.633390426636</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.937007688976</lat>
+						<lon>-87.633900046349</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.937749914581</lat>
+						<lon>-87.634887099266</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.939086696973</lat>
+						<lon>-87.63672709465</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.939525634334</lat>
+						<lon>-87.637242078781</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.939844859608</lat>
+						<lon>-87.637617588043</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.940459363761</lat>
+						<lon>-87.638159394264</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.941249431827</lat>
+						<lon>-87.638829946518</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.941871902803</lat>
+						<lon>-87.639146447182</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.942330771747</lat>
+						<lon>-87.639393210411</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.943539775848</lat>
+						<lon>-87.640101313591</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.945423063299</lat>
+						<lon>-87.641104459763</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.948870292822</lat>
+						<lon>-87.643083930016</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.950633734003</lat>
+						<lon>-87.644146084785</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.950920986769</lat>
+						<lon>-87.64429628849</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.951284040497</lat>
+						<lon>-87.644451856613</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.951599217331</lat>
+						<lon>-87.644505500793</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.952544738483</lat>
+						<lon>-87.644510865211</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.953306730555</lat>
+						<lon>-87.644478678703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.954288131006</lat>
+						<lon>-87.644489407539</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.95484664484</lat>
+						<lon>-87.64454305172</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.955915786243</lat>
+						<lon>-87.644762992859</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.956566038847</lat>
+						<lon>-87.645047307014</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.957563345901</lat>
+						<lon>-87.645471096039</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.958472876327</lat>
+						<lon>-87.645771503448</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.959135070137</lat>
+						<lon>-87.645927071571</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.959581847616</lat>
+						<lon>-87.64598608017</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.960084468535</lat>
+						<lon>-87.64601290226</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.960710744609</lat>
+						<lon>-87.646028995514</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.961181444868</lat>
+						<lon>-87.646098732948</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.961875521956</lat>
+						<lon>-87.646189928055</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.963570793404</lat>
+						<lon>-87.646484971046</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.965700788177</lat>
+						<lon>-87.647021412849</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.969450044177</lat>
+						<lon>-87.647874355316</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.970698417685</lat>
+						<lon>-87.648158669472</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.97199861456</lat>
+						<lon>-87.648442983627</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.972911927171</lat>
+						<lon>-87.648679018021</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.974311782653</lat>
+						<lon>-87.649145722389</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.974487260942</lat>
+						<lon>-87.649134993553</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.974949883205</lat>
+						<lon>-87.649220824242</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.975615893838</lat>
+						<lon>-87.64936029911</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.976497250495</lat>
+						<lon>-87.649510502815</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.976844206557</lat>
+						<lon>-87.64958024025</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.976796350661</lat>
+						<lon>-87.649998664856</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.976644806752</lat>
+						<lon>-87.650508284569</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.976537130598</lat>
+						<lon>-87.650905251503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.976481298447</lat>
+						<lon>-87.651371955872</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.976473322421</lat>
+						<lon>-87.651972770691</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.976457370367</lat>
+						<lon>-87.652562856674</lon>
+
+							<typ>S</typ>
+                			<stpid>4847</stpid>
+                			<stpnm>Foster &amp; Marine Drive</stpnm>
+                			<pdist>41731.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.976445406323</lat>
+						<lon>-87.654955387115</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.976620878734</lat>
+						<lon>-87.654960751534</lon>
+
+							<typ>S</typ>
+                			<stpid>1184</stpid>
+                			<stpnm>Sheridan &amp; Foster</stpnm>
+                			<pdist>42381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.978188144956</lat>
+						<lon>-87.654987573624</lon>
+
+							<typ>S</typ>
+                			<stpid>1185</stpid>
+                			<stpnm>Sheridan &amp; Berwyn </stpnm>
+                			<pdist>42794.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.980086359774</lat>
+						<lon>-87.655046582222</lon>
+
+							<typ>S</typ>
+                			<stpid>1186</stpid>
+                			<stpnm>Sheridan &amp; Balmoral</stpnm>
+                			<pdist>43635.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.981805072698</lat>
+						<lon>-87.655110955238</lon>
+
+							<typ>S</typ>
+                			<stpid>1187</stpid>
+                			<stpnm>Sheridan &amp; Catalpa</stpnm>
+                			<pdist>44117.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.983583552777</lat>
+						<lon>-87.655148506165</lon>
+
+							<typ>S</typ>
+                			<stpid>1188</stpid>
+                			<stpnm>Sheridan &amp; Bryn Mawr</stpnm>
+                			<pdist>44798.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.98540185773</lat>
+						<lon>-87.655207514763</lon>
+
+							<typ>S</typ>
+                			<stpid>1189</stpid>
+                			<stpnm>Sheridan &amp; Hollywood</stpnm>
+                			<pdist>45442.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.987523147877</lat>
+						<lon>-87.655261158943</lon>
+
+							<typ>S</typ>
+                			<stpid>1190</stpid>
+                			<stpnm>Sheridan &amp; Ardmore</stpnm>
+                			<pdist>46288.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.99027035281</lat>
+						<lon>-87.655341625214</lon>
+
+							<typ>S</typ>
+                			<stpid>1191</stpid>
+                			<stpnm>Sheridan &amp; Thorndale</stpnm>
+                			<pdist>47292.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.99251906512</lat>
+						<lon>-87.655400633812</lon>
+
+							<typ>S</typ>
+                			<stpid>1192</stpid>
+                			<stpnm>Sheridan &amp; Glenlake</stpnm>
+                			<pdist>48115.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.994799592918</lat>
+						<lon>-87.655513286591</lon>
+
+							<typ>S</typ>
+                			<stpid>1198</stpid>
+                			<stpnm>Sheridan &amp; Granville</stpnm>
+                			<pdist>48942.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.996629537774</lat>
+						<lon>-87.655566930771</lon>
+
+							<typ>S</typ>
+                			<stpid>1199</stpid>
+                			<stpnm>Sheridan &amp; Rosemont</stpnm>
+                			<pdist>49619.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.997534523736</lat>
+						<lon>-87.655572295189</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.997753791526</lat>
+						<lon>-87.655593752861</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>41.997957111892</lat>
+						<lon>-87.655701041222</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>41.998140498332</lat>
+						<lon>-87.655872702599</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>41.998272057844</lat>
+						<lon>-87.656232118607</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>41.998268071196</lat>
+						<lon>-87.656977772713</lon>
+
+							<typ>S</typ>
+                			<stpid>1200</stpid>
+                			<stpnm>Sheridan &amp; Kenmore</stpnm>
+                			<pdist>50469.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>41.998256111251</lat>
+						<lon>-87.658351063728</lon>
+
+							<typ>S</typ>
+                			<stpid>1201</stpid>
+                			<stpnm>Sheridan &amp; Winthrop</stpnm>
+                			<pdist>50901.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>41.998228204704</lat>
+						<lon>-87.659729719162</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>41.998443483466</lat>
+						<lon>-87.660019397736</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>41.998893971854</lat>
+						<lon>-87.660604119301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>41.9996633827</lat>
+						<lon>-87.660636305809</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>42.00022548526</lat>
+						<lon>-87.660684585571</lon>
+
+							<typ>S</typ>
+                			<stpid>1203</stpid>
+                			<stpnm>Sheridan &amp; Arthur (Red Line)</stpnm>
+                			<pdist>52017.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>42.00169649612</lat>
+						<lon>-87.660732865334</lon>
+
+							<typ>S</typ>
+                			<stpid>1204</stpid>
+                			<stpnm>Sheridan &amp; Loyola</stpnm>
+                			<pdist>52636.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>42.003896969205</lat>
+						<lon>-87.660791873932</lon>
+
+							<typ>S</typ>
+                			<stpid>1206</stpid>
+                			<stpnm>Sheridan &amp; North Shore</stpnm>
+                			<pdist>53400.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>42.00463841582</lat>
+						<lon>-87.660775780678</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>42.005563218843</lat>
+						<lon>-87.660818696022</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>42.005838265424</lat>
+						<lon>-87.660909891129</lon>
+
+							<typ>S</typ>
+                			<stpid>1208</stpid>
+                			<stpnm>Sheridan &amp; Pratt</stpnm>
+                			<pdist>54077.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>42.006898578798</lat>
+						<lon>-87.661221027374</lon>
+
+							<typ>S</typ>
+                			<stpid>1209</stpid>
+                			<stpnm>Sheridan &amp; Farwell</stpnm>
+                			<pdist>54559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>42.008146218144</lat>
+						<lon>-87.661634087563</lon>
+
+							<typ>S</typ>
+                			<stpid>1210</stpid>
+                			<stpnm>Sheridan &amp; Morse</stpnm>
+                			<pdist>55005.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>42.009349987546</lat>
+						<lon>-87.662068605423</lon>
+
+							<typ>S</typ>
+                			<stpid>1211</stpid>
+                			<stpnm>Sheridan &amp; Lunt</stpnm>
+                			<pdist>55452.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>42.010593592939</lat>
+						<lon>-87.662470936775</lon>
+
+							<typ>S</typ>
+                			<stpid>1212</stpid>
+                			<stpnm>Sheridan &amp; Greenleaf</stpnm>
+                			<pdist>55916.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>42.011625926384</lat>
+						<lon>-87.662824988365</lon>
+
+							<typ>S</typ>
+                			<stpid>1213</stpid>
+                			<stpnm>Sheridan &amp; Estes</stpnm>
+                			<pdist>56384.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>42.012363297158</lat>
+						<lon>-87.663189768791</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>42.012913330331</lat>
+						<lon>-87.663484811783</lon>
+
+							<typ>S</typ>
+                			<stpid>1214</stpid>
+                			<stpnm>Sheridan &amp; Touhy</stpnm>
+                			<pdist>56849.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>168</seq>
+						<lat>42.01341154468</lat>
+						<lon>-87.663742303848</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>169</seq>
+						<lat>42.014069181644</lat>
+						<lon>-87.664107084274</lon>
+
+							<typ>S</typ>
+                			<stpid>1215</stpid>
+                			<stpnm>Sheridan &amp; Chase</stpnm>
+                			<pdist>57289.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>170</seq>
+						<lat>42.015181170496</lat>
+						<lon>-87.664734721184</lon>
+
+							<typ>S</typ>
+                			<stpid>1216</stpid>
+                			<stpnm>Sheridan &amp; Sherwin</stpnm>
+                			<pdist>57719.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>171</seq>
+						<lat>42.015456175493</lat>
+						<lon>-87.664847373962</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>172</seq>
+						<lat>42.01627719783</lat>
+						<lon>-87.665104866028</lon>
+
+							<typ>S</typ>
+                			<stpid>1217</stpid>
+                			<stpnm>Sheridan &amp; Jarvis</stpnm>
+                			<pdist>58133.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>173</seq>
+						<lat>42.0183297073</lat>
+						<lon>-87.665700316429</lon>
+
+							<typ>S</typ>
+                			<stpid>1219</stpid>
+                			<stpnm>Sheridan &amp; Birchwood</stpnm>
+                			<pdist>58779.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>174</seq>
+						<lat>42.019270252613</lat>
+						<lon>-87.665963172913</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>175</seq>
+						<lat>42.019262281948</lat>
+						<lon>-87.666247487068</lon>
+
+							<typ>S</typ>
+                			<stpid>1220</stpid>
+                			<stpnm>Howard &amp; Sheridan</stpnm>
+                			<pdist>59331.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>176</seq>
+						<lat>42.019250325949</lat>
+						<lon>-87.666789293289</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>177</seq>
+						<lat>42.019254311283</lat>
+						<lon>-87.668189406395</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>178</seq>
+						<lat>42.019429665694</lat>
+						<lon>-87.668189406395</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>179</seq>
+						<lat>42.019055044319</lat>
+						<lon>-87.668972611427</lon>
+
+							<typ>S</typ>
+                			<stpid>14804</stpid>
+                			<stpnm>Rogers &amp; Greenview</stpnm>
+                			<pdist>59978.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>180</seq>
+						<lat>42.018086597986</lat>
+						<lon>-87.670935988426</lon>
+
+							<typ>S</typ>
+                			<stpid>14805</stpid>
+                			<stpnm>Rogers &amp; Ashland</stpnm>
+                			<pdist>60691.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>181</seq>
+						<lat>42.017193860731</lat>
+						<lon>-87.672894001007</lon>
+
+							<typ>S</typ>
+                			<stpid>15319</stpid>
+                			<stpnm>Rogers &amp; Paulina</stpnm>
+                			<pdist>61148.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>182</seq>
+						<lat>42.017138064236</lat>
+						<lon>-87.67299592495</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>183</seq>
+						<lat>42.017755808411</lat>
+						<lon>-87.672979831696</lon>
+
+							<typ>S</typ>
+                			<stpid>1006</stpid>
+                			<stpnm>Paulina &amp; Howard Terminal</stpnm>
+                			<pdist>61546.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4526</pid>
+				<ln>59745.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>42.017755808411</lat>
+						<lon>-87.672979831696</lon>
+
+							<typ>S</typ>
+                			<stpid>1006</stpid>
+                			<stpnm>Paulina &amp; Howard Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>42.018441298149</lat>
+						<lon>-87.672953009605</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>42.018588757185</lat>
+						<lon>-87.672969102859</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>42.018688391475</lat>
+						<lon>-87.67302274704</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>42.019051058974</lat>
+						<lon>-87.673602104187</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>42.01914272186</lat>
+						<lon>-87.673687934875</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>42.019369885835</lat>
+						<lon>-87.673693299294</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>42.019341988549</lat>
+						<lon>-87.670592665672</lon>
+
+							<typ>S</typ>
+                			<stpid>14671</stpid>
+                			<stpnm>Howard &amp; Ashland</stpnm>
+                			<pdist>1354.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>42.019330032565</lat>
+						<lon>-87.669337391853</lon>
+
+							<typ>S</typ>
+                			<stpid>14672</stpid>
+                			<stpnm>Howard &amp; Bosworth</stpnm>
+                			<pdist>1860.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>42.019286193939</lat>
+						<lon>-87.668269872665</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>42.019190545922</lat>
+						<lon>-87.668259143829</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>42.019198516596</lat>
+						<lon>-87.666247487068</lon>
+
+							<typ>S</typ>
+                			<stpid>1011</stpid>
+                			<stpnm>Howard &amp; Sheridan</stpnm>
+                			<pdist>2566.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>42.019206487268</lat>
+						<lon>-87.666043639183</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>42.018026816865</lat>
+						<lon>-87.665684223175</lon>
+
+							<typ>S</typ>
+                			<stpid>1012</stpid>
+                			<stpnm>Sheridan &amp; Birchwood</stpnm>
+                			<pdist>3113.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>42.017205817116</lat>
+						<lon>-87.665448188782</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>42.015830818068</lat>
+						<lon>-87.66507267952</lon>
+
+							<typ>S</typ>
+                			<stpid>1014</stpid>
+                			<stpnm>Sheridan &amp; Jarvis</stpnm>
+                			<pdist>3938.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>42.015348564984</lat>
+						<lon>-87.664890289307</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>42.014882250672</lat>
+						<lon>-87.664659619331</lon>
+
+							<typ>S</typ>
+                			<stpid>1015</stpid>
+                			<stpnm>Sheridan &amp; Sherwin</stpnm>
+                			<pdist>4347.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>42.013770256594</lat>
+						<lon>-87.66403734684</lon>
+
+							<typ>S</typ>
+                			<stpid>1016</stpid>
+                			<stpnm>Sheridan &amp; Chase</stpnm>
+                			<pdist>4773.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>42.012749915175</lat>
+						<lon>-87.663457989693</lon>
+
+							<typ>S</typ>
+                			<stpid>1017</stpid>
+                			<stpnm>Sheridan &amp; Touhy</stpnm>
+                			<pdist>5257.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>42.011438592988</lat>
+						<lon>-87.662857174873</lon>
+
+							<typ>S</typ>
+                			<stpid>1018</stpid>
+                			<stpnm>Sheridan &amp; Estes</stpnm>
+                			<pdist>5696.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>42.010210947716</lat>
+						<lon>-87.662470936775</lon>
+
+							<typ>S</typ>
+                			<stpid>1019</stpid>
+                			<stpnm>Sheridan &amp; Greenleaf</stpnm>
+                			<pdist>6127.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>42.009031110452</lat>
+						<lon>-87.662090063095</lon>
+
+							<typ>S</typ>
+                			<stpid>1020</stpid>
+                			<stpnm>Sheridan &amp; Lunt</stpnm>
+                			<pdist>6602.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>42.007767544251</lat>
+						<lon>-87.661660909653</lon>
+
+							<typ>S</typ>
+                			<stpid>1021</stpid>
+                			<stpnm>Sheridan &amp; Morse</stpnm>
+                			<pdist>7071.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>42.006551786519</lat>
+						<lon>-87.661274671555</lon>
+
+							<typ>S</typ>
+                			<stpid>1022</stpid>
+                			<stpnm>Sheridan &amp; Farwell</stpnm>
+                			<pdist>7518.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>42.005559232651</lat>
+						<lon>-87.660942077637</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>42.005387826199</lat>
+						<lon>-87.660925984383</lon>
+
+							<typ>S</typ>
+                			<stpid>1023</stpid>
+                			<stpnm>Sheridan &amp; Pratt</stpnm>
+                			<pdist>8012.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>42.004578622058</lat>
+						<lon>-87.66087770462</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>42.003342871738</lat>
+						<lon>-87.660872340202</lon>
+
+							<typ>S</typ>
+                			<stpid>1025</stpid>
+                			<stpnm>Sheridan &amp; North Shore</stpnm>
+                			<pdist>8704.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>42.000185619994</lat>
+						<lon>-87.66077041626</lon>
+
+							<typ>S</typ>
+                			<stpid>1028</stpid>
+                			<stpnm>Sheridan &amp; Arthur</stpnm>
+                			<pdist>9948.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.998878025417</lat>
+						<lon>-87.660689949989</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.998176378226</lat>
+						<lon>-87.660566568375</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.998164418264</lat>
+						<lon>-87.660427093506</lon>
+
+							<typ>S</typ>
+                			<stpid>1029</stpid>
+                			<stpnm>Sheridan &amp; Broadway/Devon</stpnm>
+                			<pdist>10729.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.998192324839</lat>
+						<lon>-87.658501267433</lon>
+
+							<typ>S</typ>
+                			<stpid>1030</stpid>
+                			<stpnm>Sheridan &amp; Winthrop</stpnm>
+                			<pdist>11238.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.998204284796</lat>
+						<lon>-87.656886577606</lon>
+
+							<typ>S</typ>
+                			<stpid>1031</stpid>
+                			<stpnm>Sheridan &amp; Kenmore</stpnm>
+                			<pdist>11651.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.998208271448</lat>
+						<lon>-87.656301856041</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.998088671783</lat>
+						<lon>-87.655942440033</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.997929205214</lat>
+						<lon>-87.655754685402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.997709938028</lat>
+						<lon>-87.655663490295</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.99623086146</lat>
+						<lon>-87.655631303787</lon>
+
+							<typ>S</typ>
+                			<stpid>1032</stpid>
+                			<stpnm>Sheridan &amp; Rosemont</stpnm>
+                			<pdist>12535.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.994424826478</lat>
+						<lon>-87.655577659607</lon>
+
+							<typ>S</typ>
+                			<stpid>1033</stpid>
+                			<stpnm>Sheridan &amp; Granville</stpnm>
+                			<pdist>13256.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.992184155555</lat>
+						<lon>-87.6554864645</lon>
+
+							<typ>S</typ>
+                			<stpid>1034</stpid>
+                			<stpnm>Sheridan &amp; Glenlake</stpnm>
+                			<pdist>14056.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.989947392923</lat>
+						<lon>-87.655427455902</lon>
+
+							<typ>S</typ>
+                			<stpid>1035</stpid>
+                			<stpnm>Sheridan &amp; Thorndale</stpnm>
+                			<pdist>14852.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.987455363382</lat>
+						<lon>-87.655357718468</lon>
+
+							<typ>S</typ>
+                			<stpid>1036</stpid>
+                			<stpnm>Sheridan &amp; Ardmore</stpnm>
+                			<pdist>15703.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.986514347655</lat>
+						<lon>-87.65535235405</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.985334070977</lat>
+						<lon>-87.655293345451</lon>
+
+							<typ>S</typ>
+                			<stpid>1037</stpid>
+                			<stpnm>Sheridan &amp; Hollywood</stpnm>
+                			<pdist>16589.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.983487851077</lat>
+						<lon>-87.655234336853</lon>
+
+							<typ>S</typ>
+                			<stpid>1038</stpid>
+                			<stpnm>Sheridan &amp; Bryn Mawr</stpnm>
+                			<pdist>17203.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.981693417583</lat>
+						<lon>-87.655191421509</lon>
+
+							<typ>S</typ>
+                			<stpid>1039</stpid>
+                			<stpnm>Sheridan &amp; Catalpa</stpnm>
+                			<pdist>17880.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.979803226281</lat>
+						<lon>-87.655121684074</lon>
+
+							<typ>S</typ>
+                			<stpid>1040</stpid>
+                			<stpnm>Sheridan &amp; Balmoral</stpnm>
+                			<pdist>18497.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.977992737277</lat>
+						<lon>-87.655073404312</lon>
+
+							<typ>S</typ>
+                			<stpid>1041</stpid>
+                			<stpnm>Sheridan &amp; Berwyn </stpnm>
+                			<pdist>19189.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.976385586073</lat>
+						<lon>-87.655035853386</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.976353681916</lat>
+						<lon>-87.654746174812</lon>
+
+							<typ>S</typ>
+                			<stpid>4845</stpid>
+                			<stpnm>Foster &amp; Sheridan</stpnm>
+                			<pdist>19931.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.976401538145</lat>
+						<lon>-87.652273178101</lon>
+
+							<typ>S</typ>
+                			<stpid>4846</stpid>
+                			<stpnm>Foster &amp; Marine Drive</stpnm>
+                			<pdist>20485.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.976405526163</lat>
+						<lon>-87.65189230442</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.976401538145</lat>
+						<lon>-87.651565074921</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.976305825652</lat>
+						<lon>-87.651329040527</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.976198148924</lat>
+						<lon>-87.651044726372</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.976094460052</lat>
+						<lon>-87.650942802429</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.975930950333</lat>
+						<lon>-87.650808691978</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.974375592996</lat>
+						<lon>-87.649671435356</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.974243984094</lat>
+						<lon>-87.649537324905</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.973581947309</lat>
+						<lon>-87.649338841438</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.972433337043</lat>
+						<lon>-87.648963332176</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.971133149041</lat>
+						<lon>-87.648593187332</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.966933280718</lat>
+						<lon>-87.647659778595</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.962888701374</lat>
+						<lon>-87.646715641022</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.962390091469</lat>
+						<lon>-87.646597623825</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.961891477662</lat>
+						<lon>-87.646538615227</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.961532473306</lat>
+						<lon>-87.646490335464</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.96055517342</lat>
+						<lon>-87.64639377594</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.959789278952</lat>
+						<lon>-87.646361589432</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.959083211834</lat>
+						<lon>-87.646238207817</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.958676322145</lat>
+						<lon>-87.646168470383</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.958129809357</lat>
+						<lon>-87.646007537842</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.957603237858</lat>
+						<lon>-87.645851969719</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.956913103472</lat>
+						<lon>-87.645610570908</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.955780149894</lat>
+						<lon>-87.645111680031</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.955125899922</lat>
+						<lon>-87.644934654236</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.954431749316</lat>
+						<lon>-87.644838094711</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.953957009778</lat>
+						<lon>-87.644811272621</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.953031456983</lat>
+						<lon>-87.644811272621</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.952277440676</lat>
+						<lon>-87.644811272621</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.951547352896</lat>
+						<lon>-87.644779086113</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.95119227986</lat>
+						<lon>-87.644687891006</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.950637723633</lat>
+						<lon>-87.644435763359</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.949692174193</lat>
+						<lon>-87.643872499466</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.948934128648</lat>
+						<lon>-87.643443346024</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.945913826103</lat>
+						<lon>-87.641716003418</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.944078433659</lat>
+						<lon>-87.640718221664</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.942011558918</lat>
+						<lon>-87.639650702477</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.941564658273</lat>
+						<lon>-87.639377117157</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.940946174535</lat>
+						<lon>-87.638937234879</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.940503256688</lat>
+						<lon>-87.638556361198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.940008461941</lat>
+						<lon>-87.638137936592</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.939525634334</lat>
+						<lon>-87.637644410133</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.939206407462</lat>
+						<lon>-87.637258172035</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.938767467904</lat>
+						<lon>-87.636732459068</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.938069148744</lat>
+						<lon>-87.635815143585</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.937203222366</lat>
+						<lon>-87.634581327438</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.936812154986</lat>
+						<lon>-87.634082436562</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.936357236854</lat>
+						<lon>-87.633626461029</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.935702787533</lat>
+						<lon>-87.633100748062</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.935235889705</lat>
+						<lon>-87.632773518562</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.93454551315</lat>
+						<lon>-87.632446289063</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.934058653514</lat>
+						<lon>-87.632312178612</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.933472022622</lat>
+						<lon>-87.632183432579</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.933041025059</lat>
+						<lon>-87.632140517235</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.929177879832</lat>
+						<lon>-87.632199525833</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.928694970228</lat>
+						<lon>-87.632172703743</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.928200083866</lat>
+						<lon>-87.632092237473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.927617390164</lat>
+						<lon>-87.631915211678</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.927174379746</lat>
+						<lon>-87.631765007973</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.924392523306</lat>
+						<lon>-87.630836963654</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.922352950345</lat>
+						<lon>-87.63019323349</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.921295220495</lat>
+						<lon>-87.629855275154</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.919906175043</lat>
+						<lon>-87.629506587982</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.918672773134</lat>
+						<lon>-87.629211544991</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.917814566803</lat>
+						<lon>-87.628878951073</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.916880505866</lat>
+						<lon>-87.628508806229</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.91611009489</lat>
+						<lon>-87.628106474876</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.915028310414</lat>
+						<lon>-87.627543210983</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.912824766503</lat>
+						<lon>-87.626405954361</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.912333749072</lat>
+						<lon>-87.626186013222</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.911886640482</lat>
+						<lon>-87.626051902771</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.910665059977</lat>
+						<lon>-87.626057267189</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.909595159807</lat>
+						<lon>-87.626008987427</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.908948420412</lat>
+						<lon>-87.625848054886</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.908086091026</lat>
+						<lon>-87.625654935837</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.906014057521</lat>
+						<lon>-87.625177502632</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.905271462671</lat>
+						<lon>-87.625011205673</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.904872214557</lat>
+						<lon>-87.624925374985</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.904560799295</lat>
+						<lon>-87.624920010567</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.904093673555</lat>
+						<lon>-87.624882459641</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.903790239619</lat>
+						<lon>-87.624812722206</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.902903884863</lat>
+						<lon>-87.624539136887</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.902472680803</lat>
+						<lon>-87.624346017838</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.902173231826</lat>
+						<lon>-87.624222636223</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.901334767219</lat>
+						<lon>-87.624254822731</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.90080373394</lat>
+						<lon>-87.624270915985</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.899997193746</lat>
+						<lon>-87.624244093895</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.899410249676</lat>
+						<lon>-87.624244093895</lon>
+
+							<typ>S</typ>
+                			<stpid>1097</stpid>
+                			<stpnm>Michigan &amp; Delaware</stpnm>
+                			<pdist>50529.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.897789138027</lat>
+						<lon>-87.624233365059</lon>
+
+							<typ>S</typ>
+                			<stpid>1098</stpid>
+                			<stpnm>Michigan &amp; Pearson</stpnm>
+                			<pdist>51133.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.897537582532</lat>
+						<lon>-87.624244093895</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.896723015079</lat>
+						<lon>-87.624356746674</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.89648343444</lat>
+						<lon>-87.6243942976</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>41.896227880767</lat>
+						<lon>-87.624399662018</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>41.895832569164</lat>
+						<lon>-87.624372839928</lon>
+
+							<typ>S</typ>
+                			<stpid>14488</stpid>
+                			<stpnm>Michigan &amp; Superior</stpnm>
+                			<pdist>51807.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>41.894351127152</lat>
+						<lon>-87.624362111092</lon>
+
+							<typ>S</typ>
+                			<stpid>1100</stpid>
+                			<stpnm>Michigan &amp; Erie</stpnm>
+                			<pdist>52372.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>41.892717907321</lat>
+						<lon>-87.624335289001</lon>
+
+							<typ>S</typ>
+                			<stpid>1101</stpid>
+                			<stpnm>Michigan &amp; Ohio</stpnm>
+                			<pdist>52953.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>41.891136559331</lat>
+						<lon>-87.624297738075</lon>
+
+							<typ>S</typ>
+                			<stpid>1102</stpid>
+                			<stpnm>Michigan &amp; Illinois</stpnm>
+                			<pdist>53496.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>41.890138213421</lat>
+						<lon>-87.624249458313</lon>
+
+							<typ>S</typ>
+                			<stpid>1103</stpid>
+                			<stpnm>Michigan &amp; Hubbard (Wrigley Bldg.)</stpnm>
+                			<pdist>53953.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>41.889623060829</lat>
+						<lon>-87.624313831329</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>41.888337157936</lat>
+						<lon>-87.624603509903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>41.888193390786</lat>
+						<lon>-87.624635696411</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>41.886935414427</lat>
+						<lon>-87.624651789665</lon>
+
+							<typ>S</typ>
+                			<stpid>1104</stpid>
+                			<stpnm>Michigan &amp; South Water</stpnm>
+                			<pdist>55014.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>41.885741312363</lat>
+						<lon>-87.624641060829</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>41.885106312544</lat>
+						<lon>-87.624635696411</lon>
+
+							<typ>S</typ>
+                			<stpid>1105</stpid>
+                			<stpnm>Michigan &amp; Lake/Randolph</stpnm>
+                			<pdist>55740.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>41.884527219157</lat>
+						<lon>-87.624619603157</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>41.883428924177</lat>
+						<lon>-87.624565958977</lon>
+
+							<typ>S</typ>
+                			<stpid>1106</stpid>
+                			<stpnm>Michigan &amp; Washington</stpnm>
+                			<pdist>56344.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>41.881216301693</lat>
+						<lon>-87.624523043633</lon>
+
+							<typ>S</typ>
+                			<stpid>1107</stpid>
+                			<stpnm>Michigan &amp; Madison/Monroe</stpnm>
+                			<pdist>57129.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>41.878428448039</lat>
+						<lon>-87.62444794178</lon>
+
+							<typ>S</typ>
+                			<stpid>1110</stpid>
+                			<stpnm>Michigan &amp; Jackson</stpnm>
+                			<pdist>58150.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>41.876275566652</lat>
+						<lon>-87.624405026436</lon>
+
+							<typ>S</typ>
+                			<stpid>73</stpid>
+                			<stpnm>Michigan &amp; Van Buren/Congress</stpnm>
+                			<pdist>58891.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>41.875724353448</lat>
+						<lon>-87.6243942976</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>41.874394232444</lat>
+						<lon>-87.624346017838</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>41.874482109161</lat>
+						<lon>-87.624131441116</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>41.874558002591</lat>
+						<lon>-87.623997330666</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>41.874693811662</lat>
+						<lon>-87.623814940453</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>168</seq>
+						<lat>41.87486956415</lat>
+						<lon>-87.623605728149</lon>
+
+							<typ>S</typ>
+                			<stpid>74</stpid>
+                			<stpnm>Congress Plaza &amp; Michigan</stpnm>
+                			<pdist>59745.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

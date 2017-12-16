@@ -1,0 +1,1245 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4595</pid>
+				<ln>23660.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.786273056301</lat>
+						<lon>-87.738978266716</lon>
+
+							<typ>S</typ>
+                			<stpid>14116</stpid>
+                			<stpnm>Midway Orange Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.786273056301</lat>
+						<lon>-87.739396691322</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.786137059509</lat>
+						<lon>-87.739412784576</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.785861065132</lat>
+						<lon>-87.739482522011</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.785153074123</lat>
+						<lon>-87.739922404289</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.784885075487</lat>
+						<lon>-87.74002969265</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.784341074811</lat>
+						<lon>-87.740013599396</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.784345074833</lat>
+						<lon>-87.740625143051</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.784353074875</lat>
+						<lon>-87.741247415543</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.784417075183</lat>
+						<lon>-87.74149954319</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.783177057859</lat>
+						<lon>-87.742336392403</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.782917051186</lat>
+						<lon>-87.742475867271</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.782573040736</lat>
+						<lon>-87.742545604706</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.782269029964</lat>
+						<lon>-87.742529511452</lon>
+
+							<typ>S</typ>
+                			<stpid>4611</stpid>
+                			<stpnm>Cicero &amp; 61st Street</stpnm>
+                			<pdist>2119.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.780296925093</lat>
+						<lon>-87.742486596107</lon>
+
+							<typ>S</typ>
+                			<stpid>10358</stpid>
+                			<stpnm>6200 S Cicero</stpnm>
+                			<pdist>2794.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.778600786388</lat>
+						<lon>-87.742422223091</lon>
+
+							<typ>S</typ>
+                			<stpid>4612</stpid>
+                			<stpnm>Cicero &amp; 63rd Street</stpnm>
+                			<pdist>3413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.778480774874</lat>
+						<lon>-87.742422223091</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.778432770206</lat>
+						<lon>-87.744734287262</lon>
+
+							<typ>S</typ>
+                			<stpid>3282</stpid>
+                			<stpnm>63rd Street &amp; Lamon</stpnm>
+                			<pdist>4127.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.778392766288</lat>
+						<lon>-87.746729850769</lon>
+
+							<typ>S</typ>
+                			<stpid>3283</stpid>
+                			<stpnm>63rd Street &amp; Lavergne</stpnm>
+                			<pdist>4705.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.77834876195</lat>
+						<lon>-87.748532295227</lon>
+
+							<typ>S</typ>
+                			<stpid>3284</stpid>
+                			<stpnm>63rd Street &amp; Lawler</stpnm>
+                			<pdist>5172.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.778300757183</lat>
+						<lon>-87.750876545906</lon>
+
+							<typ>S</typ>
+                			<stpid>3285</stpid>
+                			<stpnm>63rd Street &amp; Leamington</stpnm>
+                			<pdist>5799.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.778268753985</lat>
+						<lon>-87.75309741497</lon>
+
+							<typ>S</typ>
+                			<stpid>3286</stpid>
+                			<stpnm>63rd Street &amp; Latrobe</stpnm>
+                			<pdist>6413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.778216748754</lat>
+						<lon>-87.755388021469</lon>
+
+							<typ>S</typ>
+                			<stpid>3288</stpid>
+                			<stpnm>63rd Street &amp; Lorel</stpnm>
+                			<pdist>7076.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.778196746731</lat>
+						<lon>-87.757013440132</lon>
+
+							<typ>S</typ>
+                			<stpid>3289</stpid>
+                			<stpnm>63rd Street &amp; Long</stpnm>
+                			<pdist>7396.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.778132740215</lat>
+						<lon>-87.759620547295</lon>
+
+							<typ>S</typ>
+                			<stpid>3290</stpid>
+                			<stpnm>63rd Street &amp; Linder</stpnm>
+                			<pdist>8113.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.77809273611</lat>
+						<lon>-87.761514186859</lon>
+
+							<typ>S</typ>
+                			<stpid>3291</stpid>
+                			<stpnm>63rd Street &amp; Central</stpnm>
+                			<pdist>8610.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.778084735286</lat>
+						<lon>-87.762962579727</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.778056732395</lat>
+						<lon>-87.763997912407</lon>
+
+							<typ>S</typ>
+                			<stpid>3292</stpid>
+                			<stpnm>63rd Street &amp; Major</stpnm>
+                			<pdist>9320.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.778012727826</lat>
+						<lon>-87.766444087029</lon>
+
+							<typ>S</typ>
+                			<stpid>3293</stpid>
+                			<stpnm>63rd Street &amp; Menard</stpnm>
+                			<pdist>10003.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.777988725321</lat>
+						<lon>-87.767822742462</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.777956721967</lat>
+						<lon>-87.76889026165</lon>
+
+							<typ>S</typ>
+                			<stpid>3294</stpid>
+                			<stpnm>63rd Street &amp; Mayfield</stpnm>
+                			<pdist>10671.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.777916717753</lat>
+						<lon>-87.7713149786</lon>
+
+							<typ>S</typ>
+                			<stpid>3295</stpid>
+                			<stpnm>63rd Street &amp; Austin</stpnm>
+                			<pdist>11326.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.77790071606</lat>
+						<lon>-87.772698998451</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.777868712662</lat>
+						<lon>-87.773734331131</lon>
+
+							<typ>S</typ>
+                			<stpid>3296</stpid>
+                			<stpnm>63rd Street &amp; Meade</stpnm>
+                			<pdist>12006.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.777852710957</lat>
+						<lon>-87.775139808655</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.777812706678</lat>
+						<lon>-87.776668667793</lon>
+
+							<typ>S</typ>
+                			<stpid>17106</stpid>
+                			<stpnm>63rd Street &amp; Melvina</stpnm>
+                			<pdist>12792.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.77776470151</lat>
+						<lon>-87.778691053391</lon>
+
+							<typ>S</typ>
+                			<stpid>17107</stpid>
+                			<stpnm>63rd Street &amp; Mobile</stpnm>
+                			<pdist>13434.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.77772069674</lat>
+						<lon>-87.78177022934</lon>
+
+							<typ>S</typ>
+                			<stpid>4675</stpid>
+                			<stpnm>63rd Street &amp; Narragansett</stpnm>
+                			<pdist>14271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.77769269369</lat>
+						<lon>-87.783599495888</lon>
+
+							<typ>S</typ>
+                			<stpid>4676</stpid>
+                			<stpnm>63rd Street &amp; Natchez</stpnm>
+                			<pdist>14784.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.777656689749</lat>
+						<lon>-87.786029577255</lon>
+
+							<typ>S</typ>
+                			<stpid>4677</stpid>
+                			<stpnm>63rd Street &amp; Nashville</stpnm>
+                			<pdist>15456.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.777616685348</lat>
+						<lon>-87.788432836533</lon>
+
+							<typ>S</typ>
+                			<stpid>4678</stpid>
+                			<stpnm>63rd Street &amp; Normandy</stpnm>
+                			<pdist>16099.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.777560679143</lat>
+						<lon>-87.790857553482</lon>
+
+							<typ>S</typ>
+                			<stpid>4679</stpid>
+                			<stpnm>63rd Street &amp; Oak Park</stpnm>
+                			<pdist>16772.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.77750467289</lat>
+						<lon>-87.793909907341</lon>
+
+							<typ>S</typ>
+                			<stpid>4680</stpid>
+                			<stpnm>63rd Street &amp; New England</stpnm>
+                			<pdist>17602.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.777464668393</lat>
+						<lon>-87.795867919922</lon>
+
+							<typ>S</typ>
+                			<stpid>4681</stpid>
+                			<stpnm>63rd Street &amp; Sayre</stpnm>
+                			<pdist>18121.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.777400661147</lat>
+						<lon>-87.798190712929</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.777448666588</lat>
+						<lon>-87.798480391502</lon>
+
+							<typ>S</typ>
+                			<stpid>4682</stpid>
+                			<stpnm>63rd Street &amp; Nottingham</stpnm>
+                			<pdist>18693.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.77741266251</lat>
+						<lon>-87.799724936485</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.777396660692</lat>
+						<lon>-87.801398634911</lon>
+
+							<typ>S</typ>
+                			<stpid>4685</stpid>
+                			<stpnm>63rd Street &amp; Harlem</stpnm>
+                			<pdist>19646.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.777348655212</lat>
+						<lon>-87.803217172623</lon>
+
+							<typ>S</typ>
+                			<stpid>4686</stpid>
+                			<stpnm>63rd Street &amp; 73rd Avenue</stpnm>
+                			<pdist>20143.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.777272646462</lat>
+						<lon>-87.805684804916</lon>
+
+							<typ>S</typ>
+                			<stpid>4687</stpid>
+                			<stpnm>63rd Street &amp; 74th Avenue</stpnm>
+                			<pdist>20798.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.777212639491</lat>
+						<lon>-87.805910110474</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.77720063809</lat>
+						<lon>-87.808077335358</lon>
+
+							<typ>S</typ>
+                			<stpid>4688</stpid>
+                			<stpnm>63rd Street &amp; 75th Avenue</stpnm>
+                			<pdist>21474.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.777160633404</lat>
+						<lon>-87.809380888939</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.777140631051</lat>
+						<lon>-87.810448408127</lon>
+
+							<typ>S</typ>
+                			<stpid>4689</stpid>
+                			<stpnm>63rd Street &amp; 76th Avenue</stpnm>
+                			<pdist>22275.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.777060621579</lat>
+						<lon>-87.814616560936</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.77694860815</lat>
+						<lon>-87.814616560936</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.776944607667</lat>
+						<lon>-87.814498543739</lon>
+
+							<typ>S</typ>
+                			<stpid>15926</stpid>
+                			<stpnm>63rd Street &amp; Archer Terminal</stpnm>
+                			<pdist>23660.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4597</pid>
+				<ln>23360.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.776944607667</lat>
+						<lon>-87.814498543739</lon>
+
+							<typ>S</typ>
+                			<stpid>15926</stpid>
+                			<stpnm>63rd Street &amp; Archer Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.777008615368</lat>
+						<lon>-87.814493179321</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.777004614889</lat>
+						<lon>-87.813881635666</lon>
+
+							<typ>S</typ>
+                			<stpid>4645</stpid>
+                			<stpnm>63rd Street &amp; Archer</stpnm>
+                			<pdist>270.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.777060621579</lat>
+						<lon>-87.810904383659</lon>
+
+							<typ>S</typ>
+                			<stpid>4646</stpid>
+                			<stpnm>63rd Street &amp; 76th Avenue</stpnm>
+                			<pdist>1068.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.777140631051</lat>
+						<lon>-87.808361649513</lon>
+
+							<typ>S</typ>
+                			<stpid>4647</stpid>
+                			<stpnm>63rd Street &amp; 75th Avenue</stpnm>
+                			<pdist>1732.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.777196637622</lat>
+						<lon>-87.805915474892</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.777148631993</lat>
+						<lon>-87.805818915367</lon>
+
+							<typ>S</typ>
+                			<stpid>4648</stpid>
+                			<stpnm>63rd Street &amp; 74th Avenue</stpnm>
+                			<pdist>2413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.77713663058</lat>
+						<lon>-87.804515361786</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.777148631993</lat>
+						<lon>-87.803410291672</lon>
+
+							<typ>S</typ>
+                			<stpid>4649</stpid>
+                			<stpnm>63rd Street &amp; 73rd Avenue</stpnm>
+                			<pdist>3073.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.777176635281</lat>
+						<lon>-87.801350355148</lon>
+
+							<typ>S</typ>
+                			<stpid>4650</stpid>
+                			<stpnm>63rd Street &amp; Harlem</stpnm>
+                			<pdist>3638.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.777264645536</lat>
+						<lon>-87.798641324043</lon>
+
+							<typ>S</typ>
+                			<stpid>4651</stpid>
+                			<stpnm>63rd Street &amp; Nottingham</stpnm>
+                			<pdist>4385.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.777272646462</lat>
+						<lon>-87.798469662666</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.777328652918</lat>
+						<lon>-87.798217535019</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.777388659781</lat>
+						<lon>-87.796125411987</lon>
+
+							<typ>S</typ>
+                			<stpid>4652</stpid>
+                			<stpnm>63rd Street &amp; Sayre</stpnm>
+                			<pdist>5060.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.777448666588</lat>
+						<lon>-87.793711423874</lon>
+
+							<typ>S</typ>
+                			<stpid>4653</stpid>
+                			<stpnm>63rd Street &amp; New England</stpnm>
+                			<pdist>5736.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.777520674682</lat>
+						<lon>-87.79124379158</lon>
+
+							<typ>S</typ>
+                			<stpid>4654</stpid>
+                			<stpnm>63rd Street &amp; Oak Park</stpnm>
+                			<pdist>6411.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.777548677807</lat>
+						<lon>-87.788754701614</lon>
+
+							<typ>S</typ>
+                			<stpid>4655</stpid>
+                			<stpnm>63rd Street &amp; Normandy</stpnm>
+                			<pdist>7082.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.777580681365</lat>
+						<lon>-87.786313891411</lon>
+
+							<typ>S</typ>
+                			<stpid>4656</stpid>
+                			<stpnm>63rd Street &amp; Nashville</stpnm>
+                			<pdist>7742.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.77762468623</lat>
+						<lon>-87.783883810043</lon>
+
+							<typ>S</typ>
+                			<stpid>4657</stpid>
+                			<stpnm>63rd Street &amp; Natchez</stpnm>
+                			<pdist>8417.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.777664690627</lat>
+						<lon>-87.780933380127</lon>
+
+							<typ>S</typ>
+                			<stpid>3301</stpid>
+                			<stpnm>63rd Street &amp; Narragansett</stpnm>
+                			<pdist>9218.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.777696694126</lat>
+						<lon>-87.778943181038</lon>
+
+							<typ>S</typ>
+                			<stpid>3302</stpid>
+                			<stpnm>63rd Street &amp; Mobile</stpnm>
+                			<pdist>9762.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.777756700645</lat>
+						<lon>-87.776534557343</lon>
+
+							<typ>S</typ>
+                			<stpid>3303</stpid>
+                			<stpnm>63rd Street &amp; Melvina</stpnm>
+                			<pdist>10424.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.777800705389</lat>
+						<lon>-87.774034738541</lon>
+
+							<typ>S</typ>
+                			<stpid>3304</stpid>
+                			<stpnm>63rd Street &amp; Meade</stpnm>
+                			<pdist>11099.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.777848710531</lat>
+						<lon>-87.771610021591</lon>
+
+							<typ>S</typ>
+                			<stpid>3305</stpid>
+                			<stpnm>63rd Street &amp; Austin</stpnm>
+                			<pdist>11767.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.777884714363</lat>
+						<lon>-87.769174575806</lon>
+
+							<typ>S</typ>
+                			<stpid>3306</stpid>
+                			<stpnm>63rd Street &amp; Mayfield</stpnm>
+                			<pdist>12436.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.777936719863</lat>
+						<lon>-87.766728401184</lon>
+
+							<typ>S</typ>
+                			<stpid>3307</stpid>
+                			<stpnm>63rd Street &amp; Menard</stpnm>
+                			<pdist>13103.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.777988725321</lat>
+						<lon>-87.764250040054</lon>
+
+							<typ>S</typ>
+                			<stpid>3308</stpid>
+                			<stpnm>63rd Street &amp; Major</stpnm>
+                			<pdist>13774.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.778020728659</lat>
+						<lon>-87.762941122055</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.778040730737</lat>
+						<lon>-87.7613478899</lon>
+
+							<typ>S</typ>
+                			<stpid>15326</stpid>
+                			<stpnm>63rd Street &amp; Central</stpnm>
+                			<pdist>14614.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.778072734049</lat>
+						<lon>-87.759475708008</lon>
+
+							<typ>S</typ>
+                			<stpid>3310</stpid>
+                			<stpnm>63rd Street &amp; Linder</stpnm>
+                			<pdist>15067.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.778132740215</lat>
+						<lon>-87.757040262222</lon>
+
+							<typ>S</typ>
+                			<stpid>3311</stpid>
+                			<stpnm>63rd Street &amp; Long</stpnm>
+                			<pdist>15751.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.77814874185</lat>
+						<lon>-87.755763530731</lon>
+
+							<typ>S</typ>
+                			<stpid>15261</stpid>
+                			<stpnm>63rd Street &amp; Lorel</stpnm>
+                			<pdist>16068.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.778200747136</lat>
+						<lon>-87.753338813782</lon>
+
+							<typ>S</typ>
+                			<stpid>3314</stpid>
+                			<stpnm>63rd Street &amp; Latrobe</stpnm>
+                			<pdist>16756.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.778248751978</lat>
+						<lon>-87.75091946125</lon>
+
+							<typ>S</typ>
+                			<stpid>3315</stpid>
+                			<stpnm>63rd Street &amp; Leamington</stpnm>
+                			<pdist>17412.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.778280755186</lat>
+						<lon>-87.748516201973</lon>
+
+							<typ>S</typ>
+                			<stpid>3316</stpid>
+                			<stpnm>63rd Street &amp; Lawler</stpnm>
+                			<pdist>18072.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.778312758378</lat>
+						<lon>-87.747282385826</lon>
+
+							<typ>S</typ>
+                			<stpid>15262</stpid>
+                			<stpnm>63rd Street &amp; Lavergne</stpnm>
+                			<pdist>18407.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.77837276432</lat>
+						<lon>-87.744498252869</lon>
+
+							<typ>S</typ>
+                			<stpid>15508</stpid>
+                			<stpnm>63rd Street &amp; Lamon</stpnm>
+                			<pdist>19192.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.778416768642</lat>
+						<lon>-87.74215400219</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.77876480176</lat>
+						<lon>-87.742170095444</lon>
+
+							<typ>S</typ>
+                			<stpid>3319</stpid>
+                			<stpnm>Cicero &amp; 63rd Street</stpnm>
+                			<pdist>19901.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.780208919</lat>
+						<lon>-87.74220764637</lon>
+
+							<typ>S</typ>
+                			<stpid>10389</stpid>
+                			<stpnm>6200 S Cicero</stpnm>
+                			<pdist>20419.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.781669004476</lat>
+						<lon>-87.742250561714</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.78195301724</lat>
+						<lon>-87.74226129055</lon>
+
+							<typ>S</typ>
+                			<stpid>4601</stpid>
+                			<stpnm>Cicero &amp; 61st Street</stpnm>
+                			<pdist>21091.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.78247703749</lat>
+						<lon>-87.742266654968</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.782717045335</lat>
+						<lon>-87.742239832878</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.783077055417</lat>
+						<lon>-87.742105722427</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.783361061945</lat>
+						<lon>-87.741923332214</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.783829069958</lat>
+						<lon>-87.741574645042</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.784293074529</lat>
+						<lon>-87.741274237633</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.784277074428</lat>
+						<lon>-87.739959955215</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.784825075639</lat>
+						<lon>-87.739965319633</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.784977075145</lat>
+						<lon>-87.739933133125</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.785613069171</lat>
+						<lon>-87.739552259445</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.785837065565</lat>
+						<lon>-87.739423513412</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.786121059867</lat>
+						<lon>-87.739332318306</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.786265056498</lat>
+						<lon>-87.73932158947</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.786273056301</lat>
+						<lon>-87.738978266716</lon>
+
+							<typ>S</typ>
+                			<stpid>14116</stpid>
+                			<stpnm>Midway Orange Line Station</stpnm>
+                			<pdist>23360.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

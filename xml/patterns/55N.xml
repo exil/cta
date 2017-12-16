@@ -1,0 +1,1053 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4662</pid>
+				<ln>21249.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.786273056301</lat>
+						<lon>-87.738972902298</lon>
+
+							<typ>S</typ>
+                			<stpid>14121</stpid>
+                			<stpnm>Midway Orange Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.786277056202</lat>
+						<lon>-87.739369869232</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.786129059689</lat>
+						<lon>-87.739380598068</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.785857065205</lat>
+						<lon>-87.739477157593</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.785085074576</lat>
+						<lon>-87.739949226379</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.78496907518</lat>
+						<lon>-87.739997506142</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.784849075585</lat>
+						<lon>-87.740024328232</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.784349074854</lat>
+						<lon>-87.740018963814</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.784349074854</lat>
+						<lon>-87.740882635117</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.784453075327</lat>
+						<lon>-87.741075754166</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.784589075692</lat>
+						<lon>-87.74117231369</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.785181073916</lat>
+						<lon>-87.741166949272</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.786449051722</lat>
+						<lon>-87.741220593452</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.78731702207</lat>
+						<lon>-87.741258144379</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.78951689428</lat>
+						<lon>-87.741360068321</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.79133273192</lat>
+						<lon>-87.741402983665</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.791904670128</lat>
+						<lon>-87.741424441338</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.792296624834</lat>
+						<lon>-87.741440534592</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.792804562571</lat>
+						<lon>-87.741644382477</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.79316051654</lat>
+						<lon>-87.74188041687</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.793108523387</lat>
+						<lon>-87.742824554443</lon>
+
+							<typ>S</typ>
+                			<stpid>4542</stpid>
+                			<stpnm>55th Street &amp; Cicero</stpnm>
+                			<pdist>4579.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.793080527056</lat>
+						<lon>-87.743634581566</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.793012535916</lat>
+						<lon>-87.745286822319</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.792924547276</lat>
+						<lon>-87.752700448036</lon>
+
+							<typ>S</typ>
+                			<stpid>17110</stpid>
+                			<stpnm>55th Street &amp; Laramie</stpnm>
+                			<pdist>7281.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.792896550865</lat>
+						<lon>-87.754803299904</lon>
+
+							<typ>S</typ>
+                			<stpid>4544</stpid>
+                			<stpnm>55th Street &amp; Lockwood</stpnm>
+                			<pdist>7838.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.792844557498</lat>
+						<lon>-87.757228016853</lon>
+
+							<typ>S</typ>
+                			<stpid>4545</stpid>
+                			<stpnm>55th Street &amp; Long</stpnm>
+                			<pdist>8507.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.792792564088</lat>
+						<lon>-87.760199904442</lon>
+
+							<typ>S</typ>
+                			<stpid>17111</stpid>
+                			<stpnm>55th Street &amp; Linder</stpnm>
+                			<pdist>9304.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.792768567116</lat>
+						<lon>-87.762147188187</lon>
+
+							<typ>S</typ>
+                			<stpid>17112</stpid>
+                			<stpnm>55th Street &amp; Central</stpnm>
+                			<pdist>10074.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.79276456762</lat>
+						<lon>-87.762726545334</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.792700575646</lat>
+						<lon>-87.767060995102</lon>
+
+							<typ>S</typ>
+                			<stpid>4548</stpid>
+                			<stpnm>55th Street &amp; Menard</stpnm>
+                			<pdist>11119.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.792652581623</lat>
+						<lon>-87.76962518692</lon>
+
+							<typ>S</typ>
+                			<stpid>4549</stpid>
+                			<stpnm>55th Street &amp; Mayfield</stpnm>
+                			<pdist>11817.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.792580590522</lat>
+						<lon>-87.771878242493</lon>
+
+							<typ>S</typ>
+                			<stpid>4550</stpid>
+                			<stpnm>55th Street &amp; Austin</stpnm>
+                			<pdist>12422.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.79255659347</lat>
+						<lon>-87.774340510368</lon>
+
+							<typ>S</typ>
+                			<stpid>4551</stpid>
+                			<stpnm>55th Street &amp; Meade</stpnm>
+                			<pdist>13118.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.79244460711</lat>
+						<lon>-87.778621315956</lon>
+
+							<typ>S</typ>
+                			<stpid>17586</stpid>
+                			<stpnm>55th Street &amp; Merrimac</stpnm>
+                			<pdist>14266.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.792380614816</lat>
+						<lon>-87.7793186903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.792368616254</lat>
+						<lon>-87.78185069561</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.792048653768</lat>
+						<lon>-87.781834602356</lon>
+
+							<typ>S</typ>
+                			<stpid>4667</stpid>
+                			<stpnm>Narragansett &amp; 55th Street</stpnm>
+                			<pdist>15331.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.790608802815</lat>
+						<lon>-87.781780958176</lon>
+
+							<typ>S</typ>
+                			<stpid>4668</stpid>
+                			<stpnm>Narragansett &amp; 56th Street</stpnm>
+                			<pdist>15853.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.788776945689</lat>
+						<lon>-87.781716585159</lon>
+
+							<typ>S</typ>
+                			<stpid>4669</stpid>
+                			<stpnm>Narragansett &amp; 57th Street</stpnm>
+                			<pdist>16522.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.786949036076</lat>
+						<lon>-87.781657576561</lon>
+
+							<typ>S</typ>
+                			<stpid>4670</stpid>
+                			<stpnm>Narragansett &amp; 58th Street</stpnm>
+                			<pdist>17194.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.785101074476</lat>
+						<lon>-87.781598567963</lon>
+
+							<typ>S</typ>
+                			<stpid>4671</stpid>
+                			<stpnm>Narragansett &amp; 59th Street</stpnm>
+                			<pdist>17865.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.783309060844</lat>
+						<lon>-87.781528830528</lon>
+
+							<typ>S</typ>
+                			<stpid>4672</stpid>
+                			<stpnm>Narragansett &amp; 60th Street</stpnm>
+                			<pdist>18536.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.781444993521</lat>
+						<lon>-87.781448364258</lon>
+
+							<typ>S</typ>
+                			<stpid>4673</stpid>
+                			<stpnm>Narragansett &amp; 61st Street</stpnm>
+                			<pdist>19207.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.779624875501</lat>
+						<lon>-87.781367897987</lon>
+
+							<typ>S</typ>
+                			<stpid>4674</stpid>
+                			<stpnm>Narragansett &amp; 62nd Street</stpnm>
+                			<pdist>19878.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.777796704959</lat>
+						<lon>-87.781303524971</lon>
+
+							<typ>S</typ>
+                			<stpid>3299</stpid>
+                			<stpnm>Narragansett &amp; 63rd Street</stpnm>
+                			<pdist>20543.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.776636569709</lat>
+						<lon>-87.781249880791</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.776636569709</lat>
+						<lon>-87.781598567963</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.776556559608</lat>
+						<lon>-87.781593203545</lon>
+
+							<typ>S</typ>
+                			<stpid>3300</stpid>
+                			<stpnm>Narragansett &amp; 63rd Place Terminal</stpnm>
+                			<pdist>21249.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4664</pid>
+				<ln>21014.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.776556559608</lat>
+						<lon>-87.781593203545</lon>
+
+							<typ>S</typ>
+                			<stpid>3300</stpid>
+                			<stpnm>Narragansett &amp; 63rd Place Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.776412541174</lat>
+						<lon>-87.781587839127</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.776420542207</lat>
+						<lon>-87.781153321266</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.777848710531</lat>
+						<lon>-87.781223058701</lon>
+
+							<typ>S</typ>
+                			<stpid>4658</stpid>
+                			<stpnm>Narragansett &amp; 63rd Street</stpnm>
+                			<pdist>498.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.779348853092</lat>
+						<lon>-87.781276702881</lon>
+
+							<typ>S</typ>
+                			<stpid>4659</stpid>
+                			<stpnm>Narragansett &amp; 62nd Street</stpnm>
+                			<pdist>1016.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.781220981783</lat>
+						<lon>-87.781357169151</lon>
+
+							<typ>S</typ>
+                			<stpid>4660</stpid>
+                			<stpnm>Narragansett &amp; 61st Street</stpnm>
+                			<pdist>1710.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.783085055618</lat>
+						<lon>-87.781432271004</lon>
+
+							<typ>S</typ>
+                			<stpid>4661</stpid>
+                			<stpnm>Narragansett &amp; 60th Street</stpnm>
+                			<pdist>2381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.784913075397</lat>
+						<lon>-87.781491279602</lon>
+
+							<typ>S</typ>
+                			<stpid>4662</stpid>
+                			<stpnm>Narragansett &amp; 59th Street</stpnm>
+                			<pdist>3031.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.786741043058</lat>
+						<lon>-87.781566381454</lon>
+
+							<typ>S</typ>
+                			<stpid>4663</stpid>
+                			<stpnm>Narragansett &amp; 58th Street</stpnm>
+                			<pdist>3721.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.788636954455</lat>
+						<lon>-87.781625390053</lon>
+
+							<typ>S</typ>
+                			<stpid>4664</stpid>
+                			<stpnm>Narragansett &amp; 57th Street</stpnm>
+                			<pdist>4394.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.790600803553</lat>
+						<lon>-87.781689763069</lon>
+
+							<typ>S</typ>
+                			<stpid>4665</stpid>
+                			<stpnm>Narragansett &amp; 56th Street</stpnm>
+                			<pdist>5056.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.792132644075</lat>
+						<lon>-87.781759500504</lon>
+
+							<typ>S</typ>
+                			<stpid>4666</stpid>
+                			<stpnm>Narragansett &amp; 55th Street</stpnm>
+                			<pdist>5673.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.79230062436</lat>
+						<lon>-87.781764864922</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.792320621983</lat>
+						<lon>-87.779270410538</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.792364616733</lat>
+						<lon>-87.779141664505</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.792384614337</lat>
+						<lon>-87.778363823891</lon>
+
+							<typ>S</typ>
+                			<stpid>4553</stpid>
+                			<stpnm>55th Street &amp; Merrimac</stpnm>
+                			<pdist>6660.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.792484602261</lat>
+						<lon>-87.774721384048</lon>
+
+							<typ>S</typ>
+                			<stpid>4554</stpid>
+                			<stpnm>55th Street &amp; Meade</stpnm>
+                			<pdist>7658.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.792520597876</lat>
+						<lon>-87.772167921066</lon>
+
+							<typ>S</typ>
+                			<stpid>4555</stpid>
+                			<stpnm>55th Street &amp; Austin</stpnm>
+                			<pdist>8345.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.792516598364</lat>
+						<lon>-87.770848274231</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.79258459003</lat>
+						<lon>-87.769770026207</lon>
+
+							<typ>S</typ>
+                			<stpid>4580</stpid>
+                			<stpnm>55th Street &amp; Mayfield</stpnm>
+                			<pdist>8997.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.792636583608</lat>
+						<lon>-87.767345309258</lon>
+
+							<typ>S</typ>
+                			<stpid>4581</stpid>
+                			<stpnm>55th Street &amp; Menard</stpnm>
+                			<pdist>9678.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.792700575646</lat>
+						<lon>-87.762426137924</lon>
+
+							<typ>S</typ>
+                			<stpid>4582</stpid>
+                			<stpnm>55th Street &amp; Central</stpnm>
+                			<pdist>10990.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.792740570637</lat>
+						<lon>-87.759985327721</lon>
+
+							<typ>S</typ>
+                			<stpid>4583</stpid>
+                			<stpnm>55th Street &amp; Linder</stpnm>
+                			<pdist>11674.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.792772566612</lat>
+						<lon>-87.757528424263</lon>
+
+							<typ>S</typ>
+                			<stpid>4584</stpid>
+                			<stpnm>55th Street &amp; Long</stpnm>
+                			<pdist>12336.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.792832559022</lat>
+						<lon>-87.755103707314</lon>
+
+							<typ>S</typ>
+                			<stpid>4585</stpid>
+                			<stpnm>55th Street &amp; Lockwood</stpnm>
+                			<pdist>12921.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.792872553931</lat>
+						<lon>-87.752137184143</lon>
+
+							<typ>S</typ>
+                			<stpid>15196</stpid>
+                			<stpnm>55th Street &amp; Laramie</stpnm>
+                			<pdist>13845.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.792956543159</lat>
+						<lon>-87.745018601418</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.793060529669</lat>
+						<lon>-87.74264216423</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.793044531756</lat>
+						<lon>-87.742363214493</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.793004536954</lat>
+						<lon>-87.742100358009</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.792908549328</lat>
+						<lon>-87.742057442665</lon>
+
+							<typ>S</typ>
+                			<stpid>4587</stpid>
+                			<stpnm>55th Street &amp; Cicero</stpnm>
+                			<pdist>16348.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.792604587565</lat>
+						<lon>-87.741891145706</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.792404611934</lat>
+						<lon>-87.741794586182</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.792276627203</lat>
+						<lon>-87.741751670837</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.791176747887</lat>
+						<lon>-87.741681933403</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.789880865858</lat>
+						<lon>-87.741644382477</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.786665045441</lat>
+						<lon>-87.74149954319</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.78493707531</lat>
+						<lon>-87.741413712502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.784681075774</lat>
+						<lon>-87.74144589901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.784357074896</lat>
+						<lon>-87.741542458534</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.784289074504</lat>
+						<lon>-87.741279602051</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.784281074453</lat>
+						<lon>-87.74000287056</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.784317074675</lat>
+						<lon>-87.739697098732</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.784397075093</lat>
+						<lon>-87.739471793175</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.784509075512</lat>
+						<lon>-87.739289402962</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.784693075776</lat>
+						<lon>-87.739096283913</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.784941075295</lat>
+						<lon>-87.738919258118</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.785297072928</lat>
+						<lon>-87.738634943962</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.785449071315</lat>
+						<lon>-87.738447189331</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.785653068585</lat>
+						<lon>-87.738200426102</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.785709067721</lat>
+						<lon>-87.738060951233</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.786273056301</lat>
+						<lon>-87.738972902298</lon>
+
+							<typ>S</typ>
+                			<stpid>14121</stpid>
+                			<stpnm>Midway Orange Line Station</stpnm>
+                			<pdist>21014.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

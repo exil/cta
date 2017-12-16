@@ -1,0 +1,2226 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>2913</pid>
+				<ln>48800.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.804865901136</lat>
+						<lon>-87.70444214344</lon>
+
+							<typ>S</typ>
+                			<stpid>14128</stpid>
+                			<stpnm>Kedzie Orange Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.804629974969</lat>
+						<lon>-87.704426050186</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.804625976213</lat>
+						<lon>-87.704710364342</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.805141813686</lat>
+						<lon>-87.704721093178</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.805153809857</lat>
+						<lon>-87.703921794891</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.803894199651</lat>
+						<lon>-87.703862786293</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.803426338124</lat>
+						<lon>-87.703878879547</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.802858501597</lat>
+						<lon>-87.703852057457</lon>
+
+							<typ>S</typ>
+                			<stpid>3085</stpid>
+                			<stpnm>5000 S Kedzie</stpnm>
+                			<pdist>948.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.800955012869</lat>
+						<lon>-87.703793048859</lon>
+
+							<typ>S</typ>
+                			<stpid>3086</stpid>
+                			<stpnm>Kedzie &amp; 51st Street</stpnm>
+                			<pdist>1633.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.799107455029</lat>
+						<lon>-87.703755497932</lon>
+
+							<typ>S</typ>
+                			<stpid>3087</stpid>
+                			<stpnm>Kedzie &amp; 52nd Street</stpnm>
+                			<pdist>2300.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.797003893594</lat>
+						<lon>-87.703701853752</lon>
+
+							<typ>S</typ>
+                			<stpid>17105</stpid>
+                			<stpnm>Kedzie &amp; 53rd Street</stpnm>
+                			<pdist>3072.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.795452172847</lat>
+						<lon>-87.703648209572</lon>
+
+							<typ>S</typ>
+                			<stpid>3089</stpid>
+                			<stpnm>Kedzie &amp; 54th Street</stpnm>
+                			<pdist>3616.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.793648450228</lat>
+						<lon>-87.703594565392</lon>
+
+							<typ>S</typ>
+                			<stpid>3090</stpid>
+                			<stpnm>Kedzie &amp; 55th Street</stpnm>
+                			<pdist>4289.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.791820679522</lat>
+						<lon>-87.703551650047</lon>
+
+							<typ>S</typ>
+                			<stpid>3091</stpid>
+                			<stpnm>Kedzie &amp; 56th Street</stpnm>
+                			<pdist>4953.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.789968858677</lat>
+						<lon>-87.703476548195</lon>
+
+							<typ>S</typ>
+                			<stpid>3092</stpid>
+                			<stpnm>Kedzie &amp; 57th Street</stpnm>
+                			<pdist>5613.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.788204979575</lat>
+						<lon>-87.703422904015</lon>
+
+							<typ>S</typ>
+                			<stpid>3093</stpid>
+                			<stpnm>Kedzie &amp; 58th Street</stpnm>
+                			<pdist>6271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.786045061515</lat>
+						<lon>-87.703369259834</lon>
+
+							<typ>S</typ>
+                			<stpid>17339</stpid>
+                			<stpnm>Kedzie &amp; 59th Street</stpnm>
+                			<pdist>7061.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.78454907561437</lat>
+						<lon>-87.70332634449005</lon>
+
+							<typ>S</typ>
+                			<stpid>3095</stpid>
+                			<stpnm>Kedzie &amp; 60th Street</stpnm>
+                			<pdist>7596.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.782313031613</lat>
+						<lon>-87.703256607056</lon>
+
+							<typ>S</typ>
+                			<stpid>17453</stpid>
+                			<stpnm>Kedzie &amp; 61st Street</stpnm>
+                			<pdist>8382.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.780932965541865</lat>
+						<lon>-87.70322442054749</lon>
+
+							<typ>S</typ>
+                			<stpid>3097</stpid>
+                			<stpnm>Kedzie &amp; 62nd Street</stpnm>
+                			<pdist>8911.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.779000823144</lat>
+						<lon>-87.703181505203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.778812806179246</lat>
+						<lon>-87.70317614078522</lon>
+
+							<typ>S</typ>
+                			<stpid>16138</stpid>
+                			<stpnm>Kedzie &amp; 63rd Street</stpnm>
+                			<pdist>9728.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.777232641821</lat>
+						<lon>-87.703101038933</lon>
+
+							<typ>S</typ>
+                			<stpid>10011</stpid>
+                			<stpnm>Kedzie &amp; 64th Street</stpnm>
+                			<pdist>10227.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.776272522943</lat>
+						<lon>-87.703106403351</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.775468412323</lat>
+						<lon>-87.703084945679</lon>
+
+							<typ>S</typ>
+                			<stpid>10012</stpid>
+                			<stpnm>Kedzie &amp; 65th Street</stpnm>
+                			<pdist>10896.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.774452258115</lat>
+						<lon>-87.703079581261</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.773636122605</lat>
+						<lon>-87.703042030334</lon>
+
+							<typ>S</typ>
+                			<stpid>10013</stpid>
+                			<stpnm>Kedzie &amp; 66th Street</stpnm>
+                			<pdist>11556.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.772607937108</lat>
+						<lon>-87.70302593708</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.771883796574</lat>
+						<lon>-87.703009843826</lon>
+
+							<typ>S</typ>
+                			<stpid>10014</stpid>
+                			<stpnm>Kedzie &amp; Marquette Rd</stpnm>
+                			<pdist>12219.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.771427703865</lat>
+						<lon>-87.70299911499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.767950890586</lat>
+						<lon>-87.70291864872</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.765806294996</lat>
+						<lon>-87.702875733376</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.764649944119</lat>
+						<lon>-87.702827453613</lon>
+
+							<typ>S</typ>
+                			<stpid>10015</stpid>
+                			<stpnm>Kedzie &amp; 71st Street</stpnm>
+                			<pdist>14879.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.762697304329</lat>
+						<lon>-87.702784538269</lon>
+
+							<typ>S</typ>
+                			<stpid>10016</stpid>
+                			<stpnm>Kedzie &amp; 72nd Street</stpnm>
+                			<pdist>15556.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.760916669113</lat>
+						<lon>-87.702730894089</lon>
+
+							<typ>S</typ>
+                			<stpid>10017</stpid>
+                			<stpnm>Kedzie &amp; 73rd Street</stpnm>
+                			<pdist>16225.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.758163589776</lat>
+						<lon>-87.702687978745</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.753609545227</lat>
+						<lon>-87.702527046204</lon>
+
+							<typ>S</typ>
+                			<stpid>10020</stpid>
+                			<stpnm>Kedzie &amp; 77th Street</stpnm>
+                			<pdist>18899.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.751736610641</lat>
+						<lon>-87.702500224113</lon>
+
+							<typ>S</typ>
+                			<stpid>10021</stpid>
+                			<stpnm>Kedzie &amp; 78th Street</stpnm>
+                			<pdist>19586.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.750003697278</lat>
+						<lon>-87.702425122261</lon>
+
+							<typ>S</typ>
+                			<stpid>10022</stpid>
+                			<stpnm>Kedzie &amp; 79th Street</stpnm>
+                			<pdist>20230.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.748138662041</lat>
+						<lon>-87.702398300171</lon>
+
+							<typ>S</typ>
+                			<stpid>10023</stpid>
+                			<stpnm>Kedzie &amp; 80th Street</stpnm>
+                			<pdist>20914.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.746353620489</lat>
+						<lon>-87.702333927155</lon>
+
+							<typ>S</typ>
+                			<stpid>10024</stpid>
+                			<stpnm>Kedzie &amp; 81st Street</stpnm>
+                			<pdist>21587.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.744436446597</lat>
+						<lon>-87.702285647392</lon>
+
+							<typ>S</typ>
+                			<stpid>10025</stpid>
+                			<stpnm>Kedzie &amp; 82nd Street</stpnm>
+                			<pdist>22255.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.742747364962</lat>
+						<lon>-87.702232003212</lon>
+
+							<typ>S</typ>
+                			<stpid>10026</stpid>
+                			<stpnm>Kedzie &amp; 83rd Street</stpnm>
+                			<pdist>22913.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.740814072445</lat>
+						<lon>-87.702172994614</lon>
+
+							<typ>S</typ>
+                			<stpid>10027</stpid>
+                			<stpnm>Kedzie &amp; 84th Street</stpnm>
+                			<pdist>23596.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.739044838641</lat>
+						<lon>-87.702119350433</lon>
+
+							<typ>S</typ>
+                			<stpid>10028</stpid>
+                			<stpnm>Kedzie &amp; 85th Street</stpnm>
+                			<pdist>24261.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.737335600417</lat>
+						<lon>-87.702081799507</lon>
+
+							<typ>S</typ>
+                			<stpid>10029</stpid>
+                			<stpnm>8600 S Kedzie</stpnm>
+                			<pdist>24937.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.736458947707</lat>
+						<lon>-87.702081799507</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.735742405326</lat>
+						<lon>-87.702071070671</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.735550258524</lat>
+						<lon>-87.702092528343</lon>
+
+							<typ>S</typ>
+                			<stpid>10030</stpid>
+                			<stpnm>Kedzie &amp; 87th Street</stpnm>
+                			<pdist>25452.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.735450181837</lat>
+						<lon>-87.702113986015</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.734909765032</lat>
+						<lon>-87.702194452286</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.734401368775</lat>
+						<lon>-87.702258825302</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.733464628127</lat>
+						<lon>-87.702285647392</lon>
+
+							<typ>S</typ>
+                			<stpid>10031</stpid>
+                			<stpnm>Kedzie &amp; 88th Street</stpnm>
+                			<pdist>26253.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.731587102535</lat>
+						<lon>-87.702221274376</lon>
+
+							<typ>S</typ>
+                			<stpid>10032</stpid>
+                			<stpnm>Kedzie &amp; 89th Street</stpnm>
+                			<pdist>26904.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.729917700003</lat>
+						<lon>-87.702135443687</lon>
+
+							<typ>S</typ>
+                			<stpid>10033</stpid>
+                			<stpnm>Kedzie &amp; 90th Street</stpnm>
+                			<pdist>27452.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.728144162497</lat>
+						<lon>-87.702081799507</lon>
+
+							<typ>S</typ>
+                			<stpid>10034</stpid>
+                			<stpnm>Kedzie &amp; 91st Street</stpnm>
+                			<pdist>28185.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.726306517814</lat>
+						<lon>-87.702028155327</lon>
+
+							<typ>S</typ>
+                			<stpid>10035</stpid>
+                			<stpnm>Kedzie &amp; 92nd Street</stpnm>
+                			<pdist>28854.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.725289585092</lat>
+						<lon>-87.701995968819</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.724500850599</lat>
+						<lon>-87.701979875565</lon>
+
+							<typ>S</typ>
+                			<stpid>10036</stpid>
+                			<stpnm>Kedzie &amp; 93rd Street</stpnm>
+                			<pdist>29530.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.723315728792</lat>
+						<lon>-87.70196378231</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.723151571683</lat>
+						<lon>-87.702022790909</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.722819252349</lat>
+						<lon>-87.702022790909</lon>
+
+							<typ>S</typ>
+                			<stpid>10037</stpid>
+                			<stpnm>Kedzie &amp; 94th Street</stpnm>
+                			<pdist>30194.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.72165011525</lat>
+						<lon>-87.701985239983</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.721517985405</lat>
+						<lon>-87.701899409294</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.721001475219</lat>
+						<lon>-87.701861858368</lon>
+
+							<typ>S</typ>
+                			<stpid>10038</stpid>
+                			<stpnm>Kedzie &amp; 95th Street</stpnm>
+                			<pdist>30824.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.720569044895</lat>
+						<lon>-87.701851129532</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.719031491285</lat>
+						<lon>-87.701813578606</lon>
+
+							<typ>S</typ>
+                			<stpid>10039</stpid>
+                			<stpnm>Kedzie &amp; 96th Street</stpnm>
+                			<pdist>31532.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.718006435107</lat>
+						<lon>-87.701797485352</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.71718958176</lat>
+						<lon>-87.701749205589</lon>
+
+							<typ>S</typ>
+                			<stpid>10040</stpid>
+                			<stpnm>Kedzie &amp; 97th Street</stpnm>
+                			<pdist>32190.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.715427705861</lat>
+						<lon>-87.701658010483</lon>
+
+							<typ>S</typ>
+                			<stpid>10041</stpid>
+                			<stpnm>Kedzie &amp; 98th Street</stpnm>
+                			<pdist>32849.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.714690907072</lat>
+						<lon>-87.701647281647</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.713605715214</lat>
+						<lon>-87.701636552811</lon>
+
+							<typ>S</typ>
+                			<stpid>10042</stpid>
+                			<stpnm>Kedzie &amp; 99th Street</stpnm>
+                			<pdist>33514.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.712472451023</lat>
+						<lon>-87.701593637466</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.711783672919</lat>
+						<lon>-87.701561450958</lon>
+
+							<typ>S</typ>
+                			<stpid>10043</stpid>
+                			<stpnm>Kedzie &amp; 100th Street</stpnm>
+                			<pdist>34193.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.711090882846</lat>
+						<lon>-87.70152926445</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.709725303672</lat>
+						<lon>-87.701507806778</lon>
+
+							<typ>S</typ>
+                			<stpid>10044</stpid>
+                			<stpnm>Kedzie &amp; 101st Street</stpnm>
+                			<pdist>34856.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.708103390427</lat>
+						<lon>-87.701432704926</lon>
+
+							<typ>S</typ>
+                			<stpid>10045</stpid>
+                			<stpnm>Kedzie &amp; 102nd Street</stpnm>
+                			<pdist>35502.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.707062140604</lat>
+						<lon>-87.701405882835</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.706365294764</lat>
+						<lon>-87.701362967491</lon>
+
+							<typ>S</typ>
+                			<stpid>10046</stpid>
+                			<stpnm>Kedzie &amp; 103rd Street</stpnm>
+                			<pdist>36169.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.70449098227</lat>
+						<lon>-87.701309323311</lon>
+
+							<typ>S</typ>
+                			<stpid>10047</stpid>
+                			<stpnm>Kedzie &amp; 104th Street</stpnm>
+                			<pdist>36858.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.702620620254</lat>
+						<lon>-87.701218128204</lon>
+
+							<typ>S</typ>
+                			<stpid>10048</stpid>
+                			<stpnm>Kedzie &amp; 105th Street</stpnm>
+                			<pdist>37522.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.700710151493</lat>
+						<lon>-87.701169848442</lon>
+
+							<typ>S</typ>
+                			<stpid>10049</stpid>
+                			<stpnm>Kedzie &amp; 106th Street</stpnm>
+                			<pdist>38215.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.69901591473</lat>
+						<lon>-87.701110839844</lon>
+
+							<typ>S</typ>
+                			<stpid>10050</stpid>
+                			<stpnm>Kedzie &amp; 107th Street</stpnm>
+                			<pdist>38851.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.697161415285</lat>
+						<lon>-87.701041102409</lon>
+
+							<typ>S</typ>
+                			<stpid>10051</stpid>
+                			<stpnm>Kedzie &amp; 108th Street</stpnm>
+                			<pdist>39532.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.695314873507</lat>
+						<lon>-87.700992822647</lon>
+
+							<typ>S</typ>
+                			<stpid>10052</stpid>
+                			<stpnm>Kedzie &amp; 109th Street</stpnm>
+                			<pdist>40199.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.693568420789</lat>
+						<lon>-87.700933814049</lon>
+
+							<typ>S</typ>
+                			<stpid>10053</stpid>
+                			<stpnm>Kedzie &amp; 110th Street</stpnm>
+                			<pdist>40861.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.691781862751</lat>
+						<lon>-87.700858712196</lon>
+
+							<typ>S</typ>
+                			<stpid>10054</stpid>
+                			<stpnm>Kedzie &amp; 111th Street</stpnm>
+                			<pdist>41534.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.689855048356</lat>
+						<lon>-87.700783610344</lon>
+
+							<typ>S</typ>
+                			<stpid>10055</stpid>
+                			<stpnm>Kedzie &amp; 112th Street</stpnm>
+                			<pdist>42252.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.688797479126</lat>
+						<lon>-87.700735330582</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.688000284768</lat>
+						<lon>-87.700724601746</lon>
+
+							<typ>S</typ>
+                			<stpid>10056</stpid>
+                			<stpnm>Kedzie &amp; 113th Street</stpnm>
+                			<pdist>42841.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.686666264072</lat>
+						<lon>-87.700665593147</lon>
+
+							<typ>S</typ>
+                			<stpid>10057</stpid>
+                			<stpnm>Kedzie &amp; 114th Street</stpnm>
+                			<pdist>43327.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.684474884754</lat>
+						<lon>-87.700585126877</lon>
+
+							<typ>S</typ>
+                			<stpid>10058</stpid>
+                			<stpnm>Kedzie &amp; 115th Street</stpnm>
+                			<pdist>44198.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.684322647221</lat>
+						<lon>-87.700585126877</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.684270565877</lat>
+						<lon>-87.702865004539</lon>
+
+							<typ>S</typ>
+                			<stpid>10059</stpid>
+                			<stpnm>115th Street &amp; Spaulding</stpnm>
+                			<pdist>44786.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.684230503276</lat>
+						<lon>-87.705311179161</lon>
+
+							<typ>S</typ>
+                			<stpid>10060</stpid>
+                			<stpnm>115th Street &amp; Homan</stpnm>
+                			<pdist>45486.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.684194446914</lat>
+						<lon>-87.707741260529</lon>
+
+							<typ>S</typ>
+                			<stpid>10061</stpid>
+                			<stpnm>115th Street &amp; St. Louis</stpnm>
+                			<pdist>46125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.684158390531</lat>
+						<lon>-87.71008014679</lon>
+
+							<typ>S</typ>
+                			<stpid>10062</stpid>
+                			<stpnm>115th Street &amp; Central Park</stpnm>
+                			<pdist>46819.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.684134352932</lat>
+						<lon>-87.712510228157</lon>
+
+							<typ>S</typ>
+                			<stpid>10063</stpid>
+                			<stpnm>115th Street &amp; Lawndale</stpnm>
+                			<pdist>47550.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.684078265164</lat>
+						<lon>-87.714983224869</lon>
+
+							<typ>S</typ>
+                			<stpid>10064</stpid>
+                			<stpnm>115th Street &amp; Hamlin</stpnm>
+                			<pdist>48150.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.68404621499</lat>
+						<lon>-87.71704852581</lon>
+
+							<typ>S</typ>
+                			<stpid>10065</stpid>
+                			<stpnm>115th Street &amp; Springfield</stpnm>
+                			<pdist>48612.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.68420245944</lat>
+						<lon>-87.717059254646</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.68420245944</lat>
+						<lon>-87.717166543007</lon>
+
+							<typ>S</typ>
+                			<stpid>10066</stpid>
+                			<stpnm>115th Street &amp; Springfield Terminal</stpnm>
+                			<pdist>48800.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>2916</pid>
+				<ln>49689.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.68420245944</lat>
+						<lon>-87.717166543007</lon>
+
+							<typ>S</typ>
+                			<stpid>10066</stpid>
+                			<stpnm>115th Street &amp; Springfield Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.68420245944</lat>
+						<lon>-87.717343568802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.683986120869</lat>
+						<lon>-87.717338204384</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.683986120869</lat>
+						<lon>-87.717161178589</lon>
+
+							<typ>S</typ>
+                			<stpid>9955</stpid>
+                			<stpnm>115th Street &amp; Springfield</stpnm>
+                			<pdist>107.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.684022177348</lat>
+						<lon>-87.71525144577</lon>
+
+							<typ>S</typ>
+                			<stpid>9956</stpid>
+                			<stpnm>115th Street &amp; Hamlin</stpnm>
+                			<pdist>645.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.684062240079</lat>
+						<lon>-87.712923288345</lon>
+
+							<typ>S</typ>
+                			<stpid>9957</stpid>
+                			<stpnm>115th Street &amp; Lawndale</stpnm>
+                			<pdist>1303.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.684090283976</lat>
+						<lon>-87.710423469543</lon>
+
+							<typ>S</typ>
+                			<stpid>9958</stpid>
+                			<stpnm>115th Street &amp; Central Park</stpnm>
+                			<pdist>1990.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.68411832786</lat>
+						<lon>-87.707977294922</lon>
+
+							<typ>S</typ>
+                			<stpid>9959</stpid>
+                			<stpnm>115th Street &amp; St. Louis</stpnm>
+                			<pdist>2640.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.684166403062</lat>
+						<lon>-87.705568671227</lon>
+
+							<typ>S</typ>
+                			<stpid>9960</stpid>
+                			<stpnm>115th Street &amp; Homan</stpnm>
+                			<pdist>3315.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.684206465703</lat>
+						<lon>-87.702634334564</lon>
+
+							<typ>S</typ>
+                			<stpid>15794</stpid>
+                			<stpnm>115th Street &amp; Spaulding</stpnm>
+                			<pdist>4113.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.68425454084</lat>
+						<lon>-87.700504660606</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.6846351344</lat>
+						<lon>-87.700515389442</lon>
+
+							<typ>S</typ>
+                			<stpid>9962</stpid>
+                			<stpnm>Kedzie &amp; 115th Street</stpnm>
+                			<pdist>4792.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.686498007245</lat>
+						<lon>-87.700574398041</lon>
+
+							<typ>S</typ>
+                			<stpid>9963</stpid>
+                			<stpnm>Kedzie &amp; 114th Street</stpnm>
+                			<pdist>5334.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.687828025393</lat>
+						<lon>-87.700628042221</lon>
+
+							<typ>S</typ>
+                			<stpid>9964</stpid>
+                			<stpnm>Kedzie &amp; 113th Street</stpnm>
+                			<pdist>5972.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.688781455216</lat>
+						<lon>-87.700660228729</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.689646740641</lat>
+						<lon>-87.700703144073</lon>
+
+							<typ>S</typ>
+                			<stpid>9965</stpid>
+                			<stpnm>Kedzie &amp; 112th Street</stpnm>
+                			<pdist>6627.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.691461398662</lat>
+						<lon>-87.70076751709</lon>
+
+							<typ>S</typ>
+                			<stpid>9966</stpid>
+                			<stpnm>Kedzie &amp; 111th Street</stpnm>
+                			<pdist>7307.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.693500324195</lat>
+						<lon>-87.700858712196</lon>
+
+							<typ>S</typ>
+                			<stpid>9967</stpid>
+                			<stpnm>Kedzie &amp; 110th Street</stpnm>
+                			<pdist>8036.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.695094566718</lat>
+						<lon>-87.700901627541</lon>
+
+							<typ>S</typ>
+                			<stpid>9968</stpid>
+                			<stpnm>Kedzie &amp; 109th Street</stpnm>
+                			<pdist>8630.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.696961142167</lat>
+						<lon>-87.700955271721</lon>
+
+							<typ>S</typ>
+                			<stpid>9969</stpid>
+                			<stpnm>Kedzie &amp; 108th Street</stpnm>
+                			<pdist>9301.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.698771588488</lat>
+						<lon>-87.701019644737</lon>
+
+							<typ>S</typ>
+                			<stpid>9970</stpid>
+                			<stpnm>Kedzie &amp; 107th Street</stpnm>
+                			<pdist>9985.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.70055795238</lat>
+						<lon>-87.701089382172</lon>
+
+							<typ>S</typ>
+                			<stpid>9971</stpid>
+                			<stpnm>Kedzie &amp; 106th Street</stpnm>
+                			<pdist>10629.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.702420364137</lat>
+						<lon>-87.701137661934</lon>
+
+							<typ>S</typ>
+                			<stpid>9972</stpid>
+                			<stpnm>Kedzie &amp; 105th Street</stpnm>
+                			<pdist>11301.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.704262696888</lat>
+						<lon>-87.701218128204</lon>
+
+							<typ>S</typ>
+                			<stpid>9973</stpid>
+                			<stpnm>Kedzie &amp; 104th Street</stpnm>
+                			<pdist>11974.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.705404115695</lat>
+						<lon>-87.701255679131</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.706829859496</lat>
+						<lon>-87.701309323311</lon>
+
+							<typ>S</typ>
+                			<stpid>15757</stpid>
+                			<stpnm>Kedzie &amp; 103rd Street</stpnm>
+                			<pdist>12930.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.707142237343</lat>
+						<lon>-87.701330780983</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.707943199244</lat>
+						<lon>-87.701357603073</lon>
+
+							<typ>S</typ>
+                			<stpid>9975</stpid>
+                			<stpnm>Kedzie &amp; 102nd Street</stpnm>
+                			<pdist>13135.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.709661228863</lat>
+						<lon>-87.701416611671</lon>
+
+							<typ>S</typ>
+                			<stpid>9976</stpid>
+                			<stpnm>Kedzie &amp; 101st Street</stpnm>
+                			<pdist>13779.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.709821415765</lat>
+						<lon>-87.701421976089</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.711030813991</lat>
+						<lon>-87.70144879818</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.711507358698</lat>
+						<lon>-87.70147562027</lon>
+
+							<typ>S</typ>
+                			<stpid>9977</stpid>
+                			<stpnm>Kedzie &amp; 100th Street</stpnm>
+                			<pdist>14430.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.713361444409</lat>
+						<lon>-87.701550722122</lon>
+
+							<typ>S</typ>
+                			<stpid>9978</stpid>
+                			<stpnm>Kedzie &amp; 99th Street</stpnm>
+                			<pdist>15292.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.714662876516</lat>
+						<lon>-87.701561450958</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.71510335526</lat>
+						<lon>-87.701566815376</lon>
+
+							<typ>S</typ>
+                			<stpid>9979</stpid>
+                			<stpnm>Kedzie &amp; 98th Street</stpnm>
+                			<pdist>16072.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.716200534645</lat>
+						<lon>-87.701615095139</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.717249644859</lat>
+						<lon>-87.701679468155</lon>
+
+							<typ>S</typ>
+                			<stpid>9980</stpid>
+                			<stpnm>Kedzie &amp; 97th Street</stpnm>
+                			<pdist>16637.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.718030460048</lat>
+						<lon>-87.701711654663</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.71889134785</lat>
+						<lon>-87.701727747917</lon>
+
+							<typ>S</typ>
+                			<stpid>9981</stpid>
+                			<stpnm>Kedzie &amp; 96th Street</stpnm>
+                			<pdist>17343.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.719968442394</lat>
+						<lon>-87.701749205589</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.720520996901</lat>
+						<lon>-87.701765298843</lon>
+
+							<typ>S</typ>
+                			<stpid>9982</stpid>
+                			<stpnm>Kedzie &amp; 95th Street</stpnm>
+                			<pdist>17928.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.721517985405</lat>
+						<lon>-87.701818943024</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.721702166327</lat>
+						<lon>-87.701733112335</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.722234686459</lat>
+						<lon>-87.701754570007</lon>
+
+							<typ>S</typ>
+                			<stpid>9983</stpid>
+                			<stpnm>Kedzie &amp; 94th Street</stpnm>
+                			<pdist>18539.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.723171590865</lat>
+						<lon>-87.701818943024</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.723311724965</lat>
+						<lon>-87.701872587204</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.724296658873</lat>
+						<lon>-87.701894044876</lon>
+
+							<typ>S</typ>
+                			<stpid>9984</stpid>
+                			<stpnm>Kedzie &amp; 93rd Street</stpnm>
+                			<pdist>19289.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.726090320866</lat>
+						<lon>-87.70193696022</lon>
+
+							<typ>S</typ>
+                			<stpid>9985</stpid>
+                			<stpnm>Kedzie &amp; 92nd Street</stpnm>
+                			<pdist>19951.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.726814978138</lat>
+						<lon>-87.701958417892</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.727927971733</lat>
+						<lon>-87.701995968819</lon>
+
+							<typ>S</typ>
+                			<stpid>9986</stpid>
+                			<stpnm>Kedzie &amp; 91st Street</stpnm>
+                			<pdist>20623.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.729721532349</lat>
+						<lon>-87.702054977417</lon>
+
+							<typ>S</typ>
+                			<stpid>9987</stpid>
+                			<stpnm>Kedzie &amp; 90th Street</stpnm>
+                			<pdist>21275.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.731719211675</lat>
+						<lon>-87.702146172523</lon>
+
+							<typ>S</typ>
+                			<stpid>9988</stpid>
+                			<stpnm>Kedzie &amp; 89th Street</stpnm>
+                			<pdist>21929.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.733472634515</lat>
+						<lon>-87.702205181122</lon>
+
+							<typ>S</typ>
+                			<stpid>9989</stpid>
+                			<stpnm>Kedzie &amp; 88th Street</stpnm>
+                			<pdist>22573.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.734401368775</lat>
+						<lon>-87.702178359032</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.734857724655</lat>
+						<lon>-87.702119350433</lon>
+
+							<typ>S</typ>
+                			<stpid>9990</stpid>
+                			<stpnm>Kedzie &amp; 87th Street</stpnm>
+                			<pdist>23152.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.735165963195</lat>
+						<lon>-87.702071070671</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.735730396168</lat>
+						<lon>-87.701990604401</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.737091419814</lat>
+						<lon>-87.702001333237</lon>
+
+							<typ>S</typ>
+                			<stpid>9991</stpid>
+                			<stpnm>8600 S Kedzie</stpnm>
+                			<pdist>23906.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.738772644498</lat>
+						<lon>-87.702022790909</lon>
+
+							<typ>S</typ>
+                			<stpid>9992</stpid>
+                			<stpnm>Kedzie &amp; 85th Street</stpnm>
+                			<pdist>24573.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.740533880295</lat>
+						<lon>-87.702081799507</lon>
+
+							<typ>S</typ>
+                			<stpid>9993</stpid>
+                			<stpnm>Kedzie &amp; 84th Street</stpnm>
+                			<pdist>25237.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.742595265383</lat>
+						<lon>-87.702146172523</lon>
+
+							<typ>S</typ>
+                			<stpid>14940</stpid>
+                			<stpnm>Kedzie &amp; 83rd Street</stpnm>
+                			<pdist>26104.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.744180285416</lat>
+						<lon>-87.702194452286</lon>
+
+							<typ>S</typ>
+                			<stpid>9995</stpid>
+                			<stpnm>Kedzie &amp; 82nd Street</stpnm>
+                			<pdist>26566.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.746241553445</lat>
+						<lon>-87.702242732048</lon>
+
+							<typ>S</typ>
+                			<stpid>15087</stpid>
+                			<stpnm>Kedzie &amp; 81st Street</stpnm>
+                			<pdist>27368.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.748242721228</lat>
+						<lon>-87.702312469482</lon>
+
+							<typ>S</typ>
+                			<stpid>15521</stpid>
+                			<stpnm>Kedzie &amp; 80th Street</stpnm>
+                			<pdist>28231.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.749571462175</lat>
+						<lon>-87.702323198318</lon>
+
+							<typ>S</typ>
+                			<stpid>9998</stpid>
+                			<stpnm>Kedzie &amp; 79th Street</stpnm>
+                			<pdist>28736.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.75151249515</lat>
+						<lon>-87.702409029007</lon>
+
+							<typ>S</typ>
+                			<stpid>9999</stpid>
+                			<stpnm>Kedzie &amp; 78th Street</stpnm>
+                			<pdist>29430.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.753385436275</lat>
+						<lon>-87.702435851097</lon>
+
+							<typ>S</typ>
+                			<stpid>10000</stpid>
+                			<stpnm>Kedzie &amp; 77th Street</stpnm>
+                			<pdist>30105.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.759059954155</lat>
+						<lon>-87.702634334564</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.761020707586</lat>
+						<lon>-87.702655792236</lon>
+
+							<typ>S</typ>
+                			<stpid>15680</stpid>
+                			<stpnm>Kedzie &amp; 73rd Street</stpnm>
+                			<pdist>32926.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.762449218789</lat>
+						<lon>-87.702698707581</lon>
+
+							<typ>S</typ>
+                			<stpid>10004</stpid>
+                			<stpnm>Kedzie &amp; 72nd Street</stpnm>
+                			<pdist>33424.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.764249817856</lat>
+						<lon>-87.702730894089</lon>
+
+							<typ>S</typ>
+                			<stpid>14941</stpid>
+                			<stpnm>Kedzie &amp; 71st Street</stpnm>
+                			<pdist>34237.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.765390171129</lat>
+						<lon>-87.702779173851</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.76898315171</lat>
+						<lon>-87.702859640121</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.771595738398</lat>
+						<lon>-87.702929377556</lon>
+
+							<typ>S</typ>
+                			<stpid>10006</stpid>
+                			<stpnm>Kedzie &amp; Marquette Rd</stpnm>
+                			<pdist>36732.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.773404082182</lat>
+						<lon>-87.702950835228</lon>
+
+							<typ>S</typ>
+                			<stpid>10007</stpid>
+                			<stpnm>Kedzie &amp; 66th Street</stpnm>
+                			<pdist>37400.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.774436255557</lat>
+						<lon>-87.702988386154</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.775216375576</lat>
+						<lon>-87.70299911499</lon>
+
+							<typ>S</typ>
+                			<stpid>10008</stpid>
+                			<stpnm>Kedzie &amp; 65th Street</stpnm>
+                			<pdist>38079.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.776240518733</lat>
+						<lon>-87.70302593708</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.777076623481</lat>
+						<lon>-87.70302593708</lon>
+
+							<typ>S</typ>
+                			<stpid>10009</stpid>
+                			<stpnm>Kedzie &amp; 64th Street</stpnm>
+                			<pdist>38743.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.778068733636</lat>
+						<lon>-87.703031301498</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.778844809106</lat>
+						<lon>-87.703084945679</lon>
+
+							<typ>S</typ>
+                			<stpid>14816</stpid>
+                			<stpnm>Kedzie &amp; 63rd Street</stpnm>
+                			<pdist>39553.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.78070495176682</lat>
+						<lon>-87.70312249660492</lon>
+
+							<typ>S</typ>
+                			<stpid>3101</stpid>
+                			<stpnm>Kedzie &amp; 62nd Street</stpnm>
+                			<pdist>40058.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.78247703749</lat>
+						<lon>-87.703170776367</lon>
+
+							<typ>S</typ>
+                			<stpid>3102</stpid>
+                			<stpnm>Kedzie &amp; 61st Street</stpnm>
+                			<pdist>40735.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.78434907485409</lat>
+						<lon>-87.70323514938354</lon>
+
+							<typ>S</typ>
+                			<stpid>3103</stpid>
+                			<stpnm>Kedzie &amp; 60th Street</stpnm>
+                			<pdist>41382.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.786149059238</lat>
+						<lon>-87.703278064728</lon>
+
+							<typ>S</typ>
+                			<stpid>3104</stpid>
+                			<stpnm>Kedzie &amp; 59th Street</stpnm>
+                			<pdist>42049.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.787944993290516</lat>
+						<lon>-87.70333170890808</lon>
+
+							<typ>S</typ>
+                			<stpid>3105</stpid>
+                			<stpnm>Kedzie &amp; 58th Street</stpnm>
+                			<pdist>42620.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.790032853378</lat>
+						<lon>-87.703396081924</lon>
+
+							<typ>S</typ>
+                			<stpid>15953</stpid>
+                			<stpnm>Kedzie &amp; 57th Street</stpnm>
+                			<pdist>43491.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.791608702741</lat>
+						<lon>-87.703455090523</lon>
+
+							<typ>S</typ>
+                			<stpid>3107</stpid>
+                			<stpnm>Kedzie &amp; 56th Street</stpnm>
+                			<pdist>44021.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.79338848602</lat>
+						<lon>-87.703503370285</lon>
+
+							<typ>S</typ>
+                			<stpid>3108</stpid>
+                			<stpnm>Kedzie &amp; 55th Street</stpnm>
+                			<pdist>44733.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.79518821661</lat>
+						<lon>-87.703557014465</lon>
+
+							<typ>S</typ>
+                			<stpid>3109</stpid>
+                			<stpnm>Kedzie &amp; 54th Street</stpnm>
+                			<pdist>45408.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.796999894362</lat>
+						<lon>-87.703616023064</lon>
+
+							<typ>S</typ>
+                			<stpid>3110</stpid>
+                			<stpnm>Kedzie &amp; 53rd Street</stpnm>
+                			<pdist>46044.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.798915497913</lat>
+						<lon>-87.703669667244</lon>
+
+							<typ>S</typ>
+                			<stpid>3111</stpid>
+                			<stpnm>Kedzie &amp; 52nd Street</stpnm>
+                			<pdist>46738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.800795053257</lat>
+						<lon>-87.703696489334</lon>
+
+							<typ>S</typ>
+                			<stpid>3112</stpid>
+                			<stpnm>Kedzie &amp; 51st Street</stpnm>
+                			<pdist>47410.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.802758529856</lat>
+						<lon>-87.703755497932</lon>
+
+							<typ>S</typ>
+                			<stpid>3113</stpid>
+                			<stpnm>5000 S Kedzie</stpnm>
+                			<pdist>48133.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.80517380347</lat>
+						<lon>-87.703819870949</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.805161807303</lat>
+						<lon>-87.704592347145</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.804865901136</lat>
+						<lon>-87.70444214344</lon>
+
+							<typ>S</typ>
+                			<stpid>14128</stpid>
+                			<stpnm>Kedzie Orange Line Station</stpnm>
+                			<pdist>49689.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

@@ -1,0 +1,2190 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>2403</pid>
+				<ln>47910.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.798175657817</lat>
+						<lon>-87.742609977722</lon>
+
+							<typ>S</typ>
+                			<stpid>4613</stpid>
+                			<stpnm>Cicero &amp; Archer Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.798175657817</lat>
+						<lon>-87.742770910263</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.798447600034</lat>
+						<lon>-87.742776274681</lon>
+
+							<typ>S</typ>
+                			<stpid>4606</stpid>
+                			<stpnm>Cicero &amp; Archer</stpnm>
+                			<pdist>298.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.799089999999</lat>
+						<lon>-87.742798333333</lon>
+
+							<typ>S</typ>
+                			<stpid>4588</stpid>
+                			<stpnm>Cicero &amp; Archer</stpnm>
+                			<pdist>516.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.800183204059</lat>
+						<lon>-87.742824554443</lon>
+
+							<typ>S</typ>
+                			<stpid>8125</stpid>
+                			<stpnm>Cicero &amp; 51st Street</stpnm>
+                			<pdist>895.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.802074718969</lat>
+						<lon>-87.742856740952</lon>
+
+							<typ>S</typ>
+                			<stpid>8126</stpid>
+                			<stpnm>Cicero &amp; 50th Street</stpnm>
+                			<pdist>1558.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.803918192457</lat>
+						<lon>-87.742926478386</lon>
+
+							<typ>S</typ>
+                			<stpid>8127</stpid>
+                			<stpnm>Cicero &amp; 49th Street</stpnm>
+                			<pdist>2225.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.80572562473</lat>
+						<lon>-87.74296939373</lon>
+
+							<typ>S</typ>
+                			<stpid>8128</stpid>
+                			<stpnm>Cicero &amp; 48th Street</stpnm>
+                			<pdist>2884.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.807489021678</lat>
+						<lon>-87.743012309074</lon>
+
+							<typ>S</typ>
+                			<stpid>4589</stpid>
+                			<stpnm>Cicero &amp; 47th Street</stpnm>
+                			<pdist>3544.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.80761697603</lat>
+						<lon>-87.743017673492</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.807608978891</lat>
+						<lon>-87.741976976395</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.807624973169</lat>
+						<lon>-87.740871906281</lon>
+
+							<typ>S</typ>
+                			<stpid>8129</stpid>
+                			<stpnm>47th Street &amp; Kilpatrick</stpnm>
+                			<pdist>4154.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.807640967443</lat>
+						<lon>-87.739654183388</lon>
+
+							<typ>S</typ>
+                			<stpid>8130</stpid>
+                			<stpnm>47th Street &amp; Knox</stpnm>
+                			<pdist>4484.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.807676954545</lat>
+						<lon>-87.73711681366</lon>
+
+							<typ>S</typ>
+                			<stpid>8131</stpid>
+                			<stpnm>47th Street &amp; Kolmar</stpnm>
+                			<pdist>5140.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.807672955979</lat>
+						<lon>-87.735604047775</lon>
+
+							<typ>S</typ>
+                			<stpid>15470</stpid>
+                			<stpnm>47th Street &amp; Kilbourn</stpnm>
+                			<pdist>5642.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.807708943063</lat>
+						<lon>-87.733517289162</lon>
+
+							<typ>S</typ>
+                			<stpid>8133</stpid>
+                			<stpnm>47th Street &amp; Kostner</stpnm>
+                			<pdist>6152.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.807744930127</lat>
+						<lon>-87.730556130409</lon>
+
+							<typ>S</typ>
+                			<stpid>17454</stpid>
+                			<stpnm>47th Street &amp; Kildare</stpnm>
+                			<pdist>6971.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.807772920052</lat>
+						<lon>-87.72859275341</lon>
+
+							<typ>S</typ>
+                			<stpid>8135</stpid>
+                			<stpnm>47th Street &amp; Keeler</stpnm>
+                			<pdist>7495.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.807804908522</lat>
+						<lon>-87.726135849953</lon>
+
+							<typ>S</typ>
+                			<stpid>8136</stpid>
+                			<stpnm>47th Street &amp; Karlov</stpnm>
+                			<pdist>8157.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.807844894087</lat>
+						<lon>-87.723405361176</lon>
+
+							<typ>S</typ>
+                			<stpid>14502</stpid>
+                			<stpnm>47th Street &amp; Pulaski</stpnm>
+                			<pdist>8993.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.807872883968</lat>
+						<lon>-87.721216678619</lon>
+
+							<typ>S</typ>
+                			<stpid>8138</stpid>
+                			<stpnm>47th Street &amp; Springfield</stpnm>
+                			<pdist>9487.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.807904872389</lat>
+						<lon>-87.718829512596</lon>
+
+							<typ>S</typ>
+                			<stpid>8139</stpid>
+                			<stpnm>47th Street &amp; Hamlin</stpnm>
+                			<pdist>10155.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.807940859343</lat>
+						<lon>-87.716335058212</lon>
+
+							<typ>S</typ>
+                			<stpid>8140</stpid>
+                			<stpnm>47th Street &amp; Lawndale</stpnm>
+                			<pdist>10830.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.807948856441</lat>
+						<lon>-87.714596986771</lon>
+
+							<typ>S</typ>
+                			<stpid>8141</stpid>
+                			<stpnm>47th Street &amp; Archer</stpnm>
+                			<pdist>11324.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.808008834645</lat>
+						<lon>-87.711421251297</lon>
+
+							<typ>S</typ>
+                			<stpid>8142</stpid>
+                			<stpnm>47th Street &amp; St. Louis</stpnm>
+                			<pdist>12164.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.808036824454</lat>
+						<lon>-87.708513736725</lon>
+
+							<typ>S</typ>
+                			<stpid>16067</stpid>
+                			<stpnm>47th Street &amp; Homan</stpnm>
+                			<pdist>13044.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.808060815709</lat>
+						<lon>-87.706469893456</lon>
+
+							<typ>S</typ>
+                			<stpid>8144</stpid>
+                			<stpnm>47th Street &amp; Spaulding</stpnm>
+                			<pdist>13518.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.808084806956</lat>
+						<lon>-87.704329490662</lon>
+
+							<typ>S</typ>
+                			<stpid>8146</stpid>
+                			<stpnm>47th Street &amp; Kedzie</stpnm>
+                			<pdist>14171.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.808088805496</lat>
+						<lon>-87.704029083252</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.805785605015</lat>
+						<lon>-87.703937888145</lon>
+
+							<typ>S</typ>
+                			<stpid>3082</stpid>
+                			<stpnm>Kedzie &amp; 48th Place </stpnm>
+                			<pdist>15010.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.805169804748</lat>
+						<lon>-87.703911066055</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.805097827707</lat>
+						<lon>-87.704554796219</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.804849906169</lat>
+						<lon>-87.704544067383</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.804845907426</lat>
+						<lon>-87.704329490662</lon>
+
+							<typ>S</typ>
+                			<stpid>17434</stpid>
+                			<stpnm>Kedzie Orange Line Station</stpnm>
+                			<pdist>15819.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.804845907426</lat>
+						<lon>-87.704211473465</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.805073835342</lat>
+						<lon>-87.704232931137</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.805133816237</lat>
+						<lon>-87.703835964203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.80563365485</lat>
+						<lon>-87.703852057457</lon>
+
+							<typ>S</typ>
+                			<stpid>3116</stpid>
+                			<stpnm>Kedzie &amp; 48th Place </stpnm>
+                			<pdist>16267.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.808084806956</lat>
+						<lon>-87.703943252563</lon>
+
+							<typ>S</typ>
+                			<stpid>3118</stpid>
+                			<stpnm>Kedzie &amp; 47th Street</stpnm>
+                			<pdist>17155.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.808140786496</lat>
+						<lon>-87.701599001884</lon>
+
+							<typ>S</typ>
+                			<stpid>8147</stpid>
+                			<stpnm>47th Street &amp; Albany</stpnm>
+                			<pdist>17794.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.808160779177</lat>
+						<lon>-87.699163556099</lon>
+
+							<typ>S</typ>
+                			<stpid>8149</stpid>
+                			<stpnm>47th Street &amp; Sacramento</stpnm>
+                			<pdist>18491.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.80818876892</lat>
+						<lon>-87.697865366936</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.808196765987</lat>
+						<lon>-87.696835398674</lon>
+
+							<typ>S</typ>
+                			<stpid>8150</stpid>
+                			<stpnm>47th Street &amp; Francisco</stpnm>
+                			<pdist>19142.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.808228754245</lat>
+						<lon>-87.69540309906</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.808236751308</lat>
+						<lon>-87.6943141222</lon>
+
+							<typ>S</typ>
+                			<stpid>8151</stpid>
+                			<stpnm>47th Street &amp; California</stpnm>
+                			<pdist>19809.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.808276736604</lat>
+						<lon>-87.69186258316</lon>
+
+							<typ>S</typ>
+                			<stpid>8152</stpid>
+                			<stpnm>47th Street &amp; Washtenaw</stpnm>
+                			<pdist>20468.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.808292730715</lat>
+						<lon>-87.690494656563</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.808304726296</lat>
+						<lon>-87.689475417137</lon>
+
+							<typ>S</typ>
+                			<stpid>8153</stpid>
+                			<stpnm>47th Street &amp; Rockwell</stpnm>
+                			<pdist>21140.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.808360705644</lat>
+						<lon>-87.687039971352</lon>
+
+							<typ>S</typ>
+                			<stpid>8154</stpid>
+                			<stpnm>47th Street &amp; Campbell</stpnm>
+                			<pdist>21815.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.80839269382</lat>
+						<lon>-87.684550881386</lon>
+
+							<typ>S</typ>
+                			<stpid>8155</stpid>
+                			<stpnm>47th Street &amp; Western Avenue</stpnm>
+                			<pdist>22459.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.808384696778</lat>
+						<lon>-87.683671116829</lon>
+
+							<typ>S</typ>
+                			<stpid>8156</stpid>
+                			<stpnm>47th Street &amp; Western Boulevard</stpnm>
+                			<pdist>22777.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.808396692341</lat>
+						<lon>-87.6821154356</lon>
+
+							<typ>S</typ>
+                			<stpid>8157</stpid>
+                			<stpnm>47th Street &amp; Oakley</stpnm>
+                			<pdist>23137.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.808456670126</lat>
+						<lon>-87.677400112152</lon>
+
+							<typ>S</typ>
+                			<stpid>17671</stpid>
+                			<stpnm>47th Street &amp; Hoyne</stpnm>
+                			<pdist>24442.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.808468665676</lat>
+						<lon>-87.674814462662</lon>
+
+							<typ>S</typ>
+                			<stpid>8160</stpid>
+                			<stpnm>47th Street &amp; Damen</stpnm>
+                			<pdist>25096.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.80849265677</lat>
+						<lon>-87.672379016876</lon>
+
+							<typ>S</typ>
+                			<stpid>8161</stpid>
+                			<stpnm>47th Street &amp; Wolcott</stpnm>
+                			<pdist>25821.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.808524644881</lat>
+						<lon>-87.669503688812</lon>
+
+							<typ>S</typ>
+                			<stpid>15324</stpid>
+                			<stpnm>47th Street &amp; Wood</stpnm>
+                			<pdist>26630.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.808544637442</lat>
+						<lon>-87.667502760887</lon>
+
+							<typ>S</typ>
+                			<stpid>8163</stpid>
+                			<stpnm>47th Street &amp; Paulina</stpnm>
+                			<pdist>27132.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.808564629997</lat>
+						<lon>-87.665163874626</lon>
+
+							<typ>S</typ>
+                			<stpid>8164</stpid>
+                			<stpnm>47th Street &amp; Ashland</stpnm>
+                			<pdist>27780.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.808604615088</lat>
+						<lon>-87.662664055824</lon>
+
+							<typ>S</typ>
+                			<stpid>8165</stpid>
+                			<stpnm>47th Street &amp; Laflin</stpnm>
+                			<pdist>28469.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.808632604637</lat>
+						<lon>-87.660260796547</lon>
+
+							<typ>S</typ>
+                			<stpid>8166</stpid>
+                			<stpnm>47th Street &amp; Loomis</stpnm>
+                			<pdist>29131.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.808680586693</lat>
+						<lon>-87.657830715179</lon>
+
+							<typ>S</typ>
+                			<stpid>8167</stpid>
+                			<stpnm>47th Street &amp; Throop</stpnm>
+                			<pdist>29793.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.808692582201</lat>
+						<lon>-87.656366229057</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.808704577707</lat>
+						<lon>-87.655416727066</lon>
+
+							<typ>S</typ>
+                			<stpid>8168</stpid>
+                			<stpnm>47th Street &amp; Racine</stpnm>
+                			<pdist>30464.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.808740564212</lat>
+						<lon>-87.652992010117</lon>
+
+							<typ>S</typ>
+                			<stpid>5084</stpid>
+                			<stpnm>47th Street &amp; Aberdeen</stpnm>
+                			<pdist>31125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.808760556706</lat>
+						<lon>-87.650540471077</lon>
+
+							<typ>S</typ>
+                			<stpid>5085</stpid>
+                			<stpnm>47th Street &amp; Morgan</stpnm>
+                			<pdist>31793.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.808800541675</lat>
+						<lon>-87.648265957832</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.808832529632</lat>
+						<lon>-87.645696401596</lon>
+
+							<typ>S</typ>
+                			<stpid>8169</stpid>
+                			<stpnm>47th Street &amp; Halsted</stpnm>
+                			<pdist>33118.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.808864517573</lat>
+						<lon>-87.643260955811</lon>
+
+							<typ>S</typ>
+                			<stpid>8170</stpid>
+                			<stpnm>47th Street &amp; Union</stpnm>
+                			<pdist>33782.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.808916497943</lat>
+						<lon>-87.640814781189</lon>
+
+							<typ>S</typ>
+                			<stpid>8171</stpid>
+                			<stpnm>47th Street &amp; Wallace</stpnm>
+                			<pdist>34450.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.808976475241</lat>
+						<lon>-87.638325691223</lon>
+
+							<typ>S</typ>
+                			<stpid>8172</stpid>
+                			<stpnm>47th Street &amp; Normal</stpnm>
+                			<pdist>35119.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.809000466145</lat>
+						<lon>-87.636464238167</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.809056444885</lat>
+						<lon>-87.633465528488</lon>
+
+							<typ>S</typ>
+                			<stpid>8173</stpid>
+                			<stpnm>47th Street &amp; Princeton</stpnm>
+                			<pdist>36438.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.809052446405</lat>
+						<lon>-87.630643844604</lon>
+
+							<typ>S</typ>
+                			<stpid>8176</stpid>
+                			<stpnm>47th Street &amp; Wentworth</stpnm>
+                			<pdist>37287.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.809160405272</lat>
+						<lon>-87.62842297554</lon>
+
+							<typ>S</typ>
+                			<stpid>8177</stpid>
+                			<stpnm>47th Street &amp; Federal</stpnm>
+                			<pdist>37906.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.809204388462</lat>
+						<lon>-87.626266479492</lon>
+
+							<typ>S</typ>
+                			<stpid>8178</stpid>
+                			<stpnm>47th Street &amp; State</stpnm>
+                			<pdist>38395.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.809252370089</lat>
+						<lon>-87.623063921928</lon>
+
+							<typ>S</typ>
+                			<stpid>8180</stpid>
+                			<stpnm>47th Street &amp; Michigan</stpnm>
+                			<pdist>39283.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.809280359355</lat>
+						<lon>-87.621336579323</lon>
+
+							<typ>S</typ>
+                			<stpid>8181</stpid>
+                			<stpnm>47th Street &amp; Indiana</stpnm>
+                			<pdist>39729.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.809316345536</lat>
+						<lon>-87.618327140808</lon>
+
+							<typ>S</typ>
+                			<stpid>17815</stpid>
+                			<stpnm>47th Street &amp; Calumet</stpnm>
+                			<pdist>40577.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.809360328619</lat>
+						<lon>-87.616122364998</lon>
+
+							<typ>S</typ>
+                			<stpid>7160</stpid>
+                			<stpnm>47th Street &amp; King Drive</stpnm>
+                			<pdist>41227.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.80938032092</lat>
+						<lon>-87.613998055458</lon>
+
+							<typ>S</typ>
+                			<stpid>7161</stpid>
+                			<stpnm>47th Street &amp; Vincennes</stpnm>
+                			<pdist>41738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.809412308587</lat>
+						<lon>-87.61263012886</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.809432300872</lat>
+						<lon>-87.611144185066</lon>
+
+							<typ>S</typ>
+                			<stpid>17142</stpid>
+                			<stpnm>47th Street &amp; St. Lawrence</stpnm>
+                			<pdist>42527.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.809468286967</lat>
+						<lon>-87.609143257141</lon>
+
+							<typ>S</typ>
+                			<stpid>7164</stpid>
+                			<stpnm>47th Street &amp; Langley</stpnm>
+                			<pdist>43078.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.809492277687</lat>
+						<lon>-87.606176733971</lon>
+
+							<typ>S</typ>
+                			<stpid>17034</stpid>
+                			<stpnm>47th Street &amp; Cottage Grove</stpnm>
+                			<pdist>43891.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.809520266848</lat>
+						<lon>-87.604503035545</lon>
+
+							<typ>S</typ>
+                			<stpid>7167</stpid>
+                			<stpnm>47th Street &amp; Drexel</stpnm>
+                			<pdist>44322.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.809532262199</lat>
+						<lon>-87.603735923767</lon>
+
+							<typ>S</typ>
+                			<stpid>7168</stpid>
+                			<stpnm>47th Street &amp; Drexel</stpnm>
+                			<pdist>44594.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.809556252894</lat>
+						<lon>-87.601482868195</lon>
+
+							<typ>S</typ>
+                			<stpid>17143</stpid>
+                			<stpnm>47th Street &amp; Ellis</stpnm>
+                			<pdist>45200.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.809576245134</lat>
+						<lon>-87.599412202835</lon>
+
+							<typ>S</typ>
+                			<stpid>7170</stpid>
+                			<stpnm>47th Street &amp; Greenwood</stpnm>
+                			<pdist>45703.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.809604234258</lat>
+						<lon>-87.596987485886</lon>
+
+							<typ>S</typ>
+                			<stpid>7171</stpid>
+                			<stpnm>47th Street &amp; Woodlawn</stpnm>
+                			<pdist>46355.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.809616229593</lat>
+						<lon>-87.595174312592</lon>
+
+							<typ>S</typ>
+                			<stpid>7172</stpid>
+                			<stpnm>1240 E 47th Street</stpnm>
+                			<pdist>46810.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.80963222337</lat>
+						<lon>-87.592513561249</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.809584242027</lat>
+						<lon>-87.592443823814</lon>
+
+							<typ>S</typ>
+                			<stpid>7174</stpid>
+                			<stpnm>47th Street &amp; Lake Park</stpnm>
+                			<pdist>47557.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.809072438802</lat>
+						<lon>-87.591837644577</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.809304350145</lat>
+						<lon>-87.591494321823</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.809392316297</lat>
+						<lon>-87.591483592987</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.809460290059</lat>
+						<lon>-87.591510415077</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.809440297783</lat>
+						<lon>-87.591553330421</lon>
+
+							<typ>S</typ>
+                			<stpid>15915</stpid>
+                			<stpnm>Lake Park &amp; 47th Street Terminal</stpnm>
+                			<pdist>47910.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>2405</pid>
+				<ln>47754.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.809440297783</lat>
+						<lon>-87.591553330421</lon>
+
+							<typ>S</typ>
+                			<stpid>15915</stpid>
+                			<stpnm>Lake Park &amp; 47th Street Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.809340336313</lat>
+						<lon>-87.591537237167</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.809208386932</lat>
+						<lon>-87.591741085052</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.809440297783</lat>
+						<lon>-87.592030763626</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.809640220257</lat>
+						<lon>-87.592261433601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.809696198438</lat>
+						<lon>-87.592341899872</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.809700196878</lat>
+						<lon>-87.592567205429</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.809704195317</lat>
+						<lon>-87.592835426331</lon>
+
+							<typ>S</typ>
+                			<stpid>7138</stpid>
+                			<stpnm>47th Street &amp; Lake Park</stpnm>
+                			<pdist>446.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.809680204677</lat>
+						<lon>-87.595142126083</lon>
+
+							<typ>S</typ>
+                			<stpid>7140</stpid>
+                			<stpnm>1240 E 47th Street</stpnm>
+                			<pdist>1073.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.809668209354</lat>
+						<lon>-87.59667634964</lon>
+
+							<typ>S</typ>
+                			<stpid>7141</stpid>
+                			<stpnm>47th Street &amp; Woodlawn</stpnm>
+                			<pdist>1436.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.809640220257</lat>
+						<lon>-87.599111795425</lon>
+
+							<typ>S</typ>
+                			<stpid>7142</stpid>
+                			<stpnm>47th Street &amp; Greenwood</stpnm>
+                			<pdist>2103.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.809616229593</lat>
+						<lon>-87.601547241211</lon>
+
+							<typ>S</typ>
+                			<stpid>7143</stpid>
+                			<stpnm>47th Street &amp; Ellis</stpnm>
+                			<pdist>2770.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.809588240474</lat>
+						<lon>-87.603735923767</lon>
+
+							<typ>S</typ>
+                			<stpid>7144</stpid>
+                			<stpnm>47th Street &amp; Drexel</stpnm>
+                			<pdist>3378.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.809584242027</lat>
+						<lon>-87.604492306709</lon>
+
+							<typ>S</typ>
+                			<stpid>7145</stpid>
+                			<stpnm>47th Street &amp; Drexel</stpnm>
+                			<pdist>3672.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.809548255997</lat>
+						<lon>-87.606402039528</lon>
+
+							<typ>S</typ>
+                			<stpid>7146</stpid>
+                			<stpnm>47th Street &amp; Cottage Grove</stpnm>
+                			<pdist>4091.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.809516268397</lat>
+						<lon>-87.608864307404</lon>
+
+							<typ>S</typ>
+                			<stpid>7148</stpid>
+                			<stpnm>47th Street &amp; Langley</stpnm>
+                			<pdist>4774.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.809516268397</lat>
+						<lon>-87.610200047493</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.809480282328</lat>
+						<lon>-87.611712813377</lon>
+
+							<typ>S</typ>
+                			<stpid>17141</stpid>
+                			<stpnm>47th Street &amp; St. Lawrence</stpnm>
+                			<pdist>5574.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.809448294694</lat>
+						<lon>-87.61369228363</lon>
+
+							<typ>S</typ>
+                			<stpid>7151</stpid>
+                			<stpnm>47th Street &amp; Vincennes</stpnm>
+                			<pdist>6095.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.809424303959</lat>
+						<lon>-87.61617064476</lon>
+
+							<typ>S</typ>
+                			<stpid>7152</stpid>
+                			<stpnm>47th Street &amp; King Drive</stpnm>
+                			<pdist>6772.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.80936832554</lat>
+						<lon>-87.619373202324</lon>
+
+							<typ>S</typ>
+                			<stpid>17816</stpid>
+                			<stpnm>47th Street &amp; Prairie</stpnm>
+                			<pdist>7656.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.809344334774</lat>
+						<lon>-87.62148141861</lon>
+
+							<typ>S</typ>
+                			<stpid>17817</stpid>
+                			<stpnm>47th Street &amp; Indiana</stpnm>
+                			<pdist>8248.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.809304350145</lat>
+						<lon>-87.623348236084</lon>
+
+							<typ>S</typ>
+                			<stpid>17144</stpid>
+                			<stpnm>47th Street &amp; Michigan</stpnm>
+                			<pdist>8710.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.80926436549</lat>
+						<lon>-87.626422047615</lon>
+
+							<typ>S</typ>
+                			<stpid>14859</stpid>
+                			<stpnm>47th Street &amp; State</stpnm>
+                			<pdist>9561.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.80922837928</lat>
+						<lon>-87.62809574604</lon>
+
+							<typ>S</typ>
+                			<stpid>8070</stpid>
+                			<stpnm>47th Street &amp; Federal</stpnm>
+                			<pdist>9990.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.809216383872</lat>
+						<lon>-87.628546357155</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.809136414428</lat>
+						<lon>-87.6330524683</lon>
+
+							<typ>S</typ>
+                			<stpid>8073</stpid>
+                			<stpnm>47th Street &amp; Wells</stpnm>
+                			<pdist>11478.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.809104426623</lat>
+						<lon>-87.634157538414</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.809056444885</lat>
+						<lon>-87.636421322823</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.809032454002</lat>
+						<lon>-87.63803601265</lon>
+
+							<typ>S</typ>
+                			<stpid>8074</stpid>
+                			<stpnm>47th Street &amp; Normal</stpnm>
+                			<pdist>12835.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.80898447221</lat>
+						<lon>-87.640535831451</lon>
+
+							<typ>S</typ>
+                			<stpid>8075</stpid>
+                			<stpnm>47th Street &amp; Wallace</stpnm>
+                			<pdist>13498.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.808920496432</lat>
+						<lon>-87.64323413372</lon>
+
+							<typ>S</typ>
+                			<stpid>8076</stpid>
+                			<stpnm>47th Street &amp; Union</stpnm>
+                			<pdist>14173.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.808908500966</lat>
+						<lon>-87.644307017326</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.808888508518</lat>
+						<lon>-87.645916342735</lon>
+
+							<typ>S</typ>
+                			<stpid>15457</stpid>
+                			<stpnm>47th Street &amp; Halsted</stpnm>
+                			<pdist>15009.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.808832529632</lat>
+						<lon>-87.65039563179</lon>
+
+							<typ>S</typ>
+                			<stpid>5157</stpid>
+                			<stpnm>47th Street &amp; Morgan</stpnm>
+                			<pdist>16166.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.80880454017</lat>
+						<lon>-87.652868628502</lon>
+
+							<typ>S</typ>
+                			<stpid>5158</stpid>
+                			<stpnm>47th Street &amp; Aberdeen</stpnm>
+                			<pdist>16893.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.808768553701</lat>
+						<lon>-87.655625939369</lon>
+
+							<typ>S</typ>
+                			<stpid>15782</stpid>
+                			<stpnm>47th Street &amp; Racine</stpnm>
+                			<pdist>17704.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.808744562711</lat>
+						<lon>-87.657594680786</lon>
+
+							<typ>S</typ>
+                			<stpid>8079</stpid>
+                			<stpnm>47th Street &amp; Throop</stpnm>
+                			<pdist>18120.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.808696580703</lat>
+						<lon>-87.660105228424</lon>
+
+							<typ>S</typ>
+                			<stpid>8080</stpid>
+                			<stpnm>47th Street &amp; Loomis</stpnm>
+                			<pdist>18783.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.808660594174</lat>
+						<lon>-87.662385106087</lon>
+
+							<typ>S</typ>
+                			<stpid>8081</stpid>
+                			<stpnm>47th Street &amp; Laflin</stpnm>
+                			<pdist>19446.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.808636603143</lat>
+						<lon>-87.664638161659</lon>
+
+							<typ>S</typ>
+                			<stpid>8082</stpid>
+                			<stpnm>47th Street &amp; Ashland</stpnm>
+                			<pdist>20090.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.808612612104</lat>
+						<lon>-87.667239904404</lon>
+
+							<typ>S</typ>
+                			<stpid>8083</stpid>
+                			<stpnm>47th Street &amp; Paulina</stpnm>
+                			<pdist>20765.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.808588621055</lat>
+						<lon>-87.669530510902</lon>
+
+							<typ>S</typ>
+                			<stpid>8084</stpid>
+                			<stpnm>47th Street &amp; Wood</stpnm>
+                			<pdist>21417.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.808560631487</lat>
+						<lon>-87.672057151794</lon>
+
+							<typ>S</typ>
+                			<stpid>8085</stpid>
+                			<stpnm>47th Street &amp; Wolcott</stpnm>
+                			<pdist>22071.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.808528643394</lat>
+						<lon>-87.675313353539</lon>
+
+							<typ>S</typ>
+                			<stpid>15246</stpid>
+                			<stpnm>47th Street &amp; Damen</stpnm>
+                			<pdist>22950.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.808524644881</lat>
+						<lon>-87.676976323128</lon>
+
+							<typ>S</typ>
+                			<stpid>8088</stpid>
+                			<stpnm>47th Street &amp; Hoyne</stpnm>
+                			<pdist>23377.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.808456670126</lat>
+						<lon>-87.681863307953</lon>
+
+							<typ>S</typ>
+                			<stpid>8089</stpid>
+                			<stpnm>47th Street &amp; Oakley</stpnm>
+                			<pdist>24723.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.808444674574</lat>
+						<lon>-87.683740854263</lon>
+
+							<typ>S</typ>
+                			<stpid>8090</stpid>
+                			<stpnm>47th Street &amp; Western Boulevard</stpnm>
+                			<pdist>25242.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.808448673091</lat>
+						<lon>-87.684765458107</lon>
+
+							<typ>S</typ>
+                			<stpid>8091</stpid>
+                			<stpnm>47th Street &amp; Western Avenue</stpnm>
+                			<pdist>25577.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.808420683462</lat>
+						<lon>-87.687029242516</lon>
+
+							<typ>S</typ>
+                			<stpid>8092</stpid>
+                			<stpnm>47th Street &amp; Campbell</stpnm>
+                			<pdist>26171.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.808404689383</lat>
+						<lon>-87.688086032867</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.808376699734</lat>
+						<lon>-87.689137458801</lon>
+
+							<typ>S</typ>
+                			<stpid>8093</stpid>
+                			<stpnm>47th Street &amp; Rockwell</stpnm>
+                			<pdist>26734.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.808376699734</lat>
+						<lon>-87.689298391342</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.808344711549</lat>
+						<lon>-87.691599726677</lon>
+
+							<typ>S</typ>
+                			<stpid>8094</stpid>
+                			<stpnm>47th Street &amp; Washtenaw</stpnm>
+                			<pdist>27399.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.808316721874</lat>
+						<lon>-87.69387960434</lon>
+
+							<typ>S</typ>
+                			<stpid>8095</stpid>
+                			<stpnm>47th Street &amp; California</stpnm>
+                			<pdist>28079.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.808268739546</lat>
+						<lon>-87.696524262428</lon>
+
+							<typ>S</typ>
+                			<stpid>8096</stpid>
+                			<stpnm>47th Street &amp; Francisco</stpnm>
+                			<pdist>28743.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.808228754245</lat>
+						<lon>-87.698975801468</lon>
+
+							<typ>S</typ>
+                			<stpid>8097</stpid>
+                			<stpnm>47th Street &amp; Sacramento</stpnm>
+                			<pdist>29405.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.808208761586</lat>
+						<lon>-87.701416611671</lon>
+
+							<typ>S</typ>
+                			<stpid>8099</stpid>
+                			<stpnm>47th Street &amp; Albany</stpnm>
+                			<pdist>30076.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.808148783569</lat>
+						<lon>-87.70403444767</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.807844894087</lat>
+						<lon>-87.704023718834</lon>
+
+							<typ>S</typ>
+                			<stpid>8100</stpid>
+                			<stpnm>Kedzie &amp; 47th Street</stpnm>
+                			<pdist>30894.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.805785605015</lat>
+						<lon>-87.703937888145</lon>
+
+							<typ>S</typ>
+                			<stpid>3082</stpid>
+                			<stpnm>Kedzie &amp; 48th Place </stpnm>
+                			<pdist>31614.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.805177802192</lat>
+						<lon>-87.703916430473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.80510582516</lat>
+						<lon>-87.704458236694</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.804873898618</lat>
+						<lon>-87.704452872276</lon>
+
+							<typ>S</typ>
+                			<stpid>3083</stpid>
+                			<stpnm>Kedzie Orange Line Station</stpnm>
+                			<pdist>32416.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.804881896099</lat>
+						<lon>-87.703825235367</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.80563365485</lat>
+						<lon>-87.703852057457</lon>
+
+							<typ>S</typ>
+                			<stpid>3116</stpid>
+                			<stpnm>Kedzie &amp; 48th Place </stpnm>
+                			<pdist>32873.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.808152782105</lat>
+						<lon>-87.703948616982</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.808148783569</lat>
+						<lon>-87.704254388809</lon>
+
+							<typ>S</typ>
+                			<stpid>3115</stpid>
+                			<stpnm>47th Street &amp; Kedzie</stpnm>
+                			<pdist>33761.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.808120793808</lat>
+						<lon>-87.70626604557</lon>
+
+							<typ>S</typ>
+                			<stpid>8102</stpid>
+                			<stpnm>47th Street &amp; Spaulding</stpnm>
+                			<pdist>34268.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.808112796732</lat>
+						<lon>-87.707532048225</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.808104799654</lat>
+						<lon>-87.708808779716</lon>
+
+							<typ>S</typ>
+                			<stpid>17264</stpid>
+                			<stpnm>47th Street &amp; Homan</stpnm>
+                			<pdist>34988.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.808076809875</lat>
+						<lon>-87.71081507206</lon>
+
+							<typ>S</typ>
+                			<stpid>8104</stpid>
+                			<stpnm>47th Street &amp; St. Louis</stpnm>
+                			<pdist>35520.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.808068812792</lat>
+						<lon>-87.711490988731</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.808064814251</lat>
+						<lon>-87.712370753288</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.808016831734</lat>
+						<lon>-87.714312672615</lon>
+
+							<typ>S</typ>
+                			<stpid>15942</stpid>
+                			<stpnm>47th Street &amp; Archer</stpnm>
+                			<pdist>36567.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.807996839008</lat>
+						<lon>-87.71631360054</lon>
+
+							<typ>S</typ>
+                			<stpid>8107</stpid>
+                			<stpnm>47th Street &amp; Lawndale</stpnm>
+                			<pdist>37011.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.807976846276</lat>
+						<lon>-87.718496918678</lon>
+
+							<typ>S</typ>
+                			<stpid>8108</stpid>
+                			<stpnm>47th Street &amp; Hamlin</stpnm>
+                			<pdist>37595.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.807928863693</lat>
+						<lon>-87.721018195152</lon>
+
+							<typ>S</typ>
+                			<stpid>8109</stpid>
+                			<stpnm>47th Street &amp; Springfield</stpnm>
+                			<pdist>38272.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.807900873837</lat>
+						<lon>-87.724081277847</lon>
+
+							<typ>S</typ>
+                			<stpid>17204</stpid>
+                			<stpnm>47th Street &amp; Pulaski</stpnm>
+                			<pdist>39134.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.807876882522</lat>
+						<lon>-87.725905179977</lon>
+
+							<typ>S</typ>
+                			<stpid>8111</stpid>
+                			<stpnm>47th Street &amp; Karlov</stpnm>
+                			<pdist>39595.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.807844894087</lat>
+						<lon>-87.728324532509</lon>
+
+							<typ>S</typ>
+                			<stpid>8112</stpid>
+                			<stpnm>47th Street &amp; Keeler</stpnm>
+                			<pdist>40268.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.807788914289</lat>
+						<lon>-87.731280326843</lon>
+
+							<typ>S</typ>
+                			<stpid>15943</stpid>
+                			<stpnm>47th Street &amp; Kildare</stpnm>
+                			<pdist>41104.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.807764922932</lat>
+						<lon>-87.733324170113</lon>
+
+							<typ>S</typ>
+                			<stpid>8114</stpid>
+                			<stpnm>47th Street &amp; Kostner</stpnm>
+                			<pdist>41623.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.807748928688</lat>
+						<lon>-87.735641598701</lon>
+
+							<typ>S</typ>
+                			<stpid>8115</stpid>
+                			<stpnm>47th Street &amp; Kilbourn</stpnm>
+                			<pdist>42362.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.807744930127</lat>
+						<lon>-87.736993432045</lon>
+
+							<typ>S</typ>
+                			<stpid>8116</stpid>
+                			<stpnm>47th Street &amp; Kolmar</stpnm>
+                			<pdist>42578.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.807708943063</lat>
+						<lon>-87.739343047142</lon>
+
+							<typ>S</typ>
+                			<stpid>8117</stpid>
+                			<stpnm>47th Street &amp; Knox</stpnm>
+                			<pdist>43272.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.807688950241</lat>
+						<lon>-87.740609049797</lon>
+
+							<typ>S</typ>
+                			<stpid>8118</stpid>
+                			<stpnm>47th Street &amp; Kilpatrick</stpnm>
+                			<pdist>43612.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.807672955979</lat>
+						<lon>-87.741928696632</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.80766096028</lat>
+						<lon>-87.743264436722</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.807373062825</lat>
+						<lon>-87.743264436722</lon>
+
+							<typ>S</typ>
+                			<stpid>8120</stpid>
+                			<stpnm>Cicero &amp; 47th Street</stpnm>
+                			<pdist>44546.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.805893569388</lat>
+						<lon>-87.743226885796</lon>
+
+							<typ>S</typ>
+                			<stpid>8121</stpid>
+                			<stpnm>Cicero &amp; 48th Street</stpnm>
+                			<pdist>44957.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.804094139432</lat>
+						<lon>-87.743183970451</lon>
+
+							<typ>S</typ>
+                			<stpid>8122</stpid>
+                			<stpnm>Cicero &amp; 49th Street</stpnm>
+                			<pdist>45621.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.802234675386</lat>
+						<lon>-87.743151783943</lon>
+
+							<typ>S</typ>
+                			<stpid>8123</stpid>
+                			<stpnm>Cicero &amp; 50th Street</stpnm>
+                			<pdist>46286.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.800439141689</lat>
+						<lon>-87.743092775345</lon>
+
+							<typ>S</typ>
+                			<stpid>8124</stpid>
+                			<stpnm>Cicero &amp; 51st Street</stpnm>
+                			<pdist>46950.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.798291633315</lat>
+						<lon>-87.743033766747</lon>
+
+							<typ>S</typ>
+                			<stpid>4607</stpid>
+                			<stpnm>Cicero &amp; Archer</stpnm>
+                			<pdist>47754.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

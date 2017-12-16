@@ -1,0 +1,3441 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>1039</pid>
+				<ln>67919.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.721854315386295</lat>
+						<lon>-87.62444257736206</lon>
+
+							<typ>S</typ>
+                			<stpid>17790</stpid>
+                			<stpnm>95th Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.72158605232868</lat>
+						<lon>-87.624431848526</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.72159406019736</lat>
+						<lon>-87.62369692325592</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.723475881664896</lat>
+						<lon>-87.62373983860016</lon>
+
+							<typ>S</typ>
+                			<stpid>2268</stpid>
+                			<stpnm>State &amp; 94th Street</stpnm>
+                			<pdist>942.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.72526956657</lat>
+						<lon>-87.623782753944</lon>
+
+							<typ>S</typ>
+                			<stpid>2269</stpid>
+                			<stpnm>State &amp; 93rd Street</stpnm>
+                			<pdist>1623.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.72711124450346</lat>
+						<lon>-87.62384712696075</lon>
+
+							<typ>S</typ>
+                			<stpid>2270</stpid>
+                			<stpnm>State &amp; 92nd Street</stpnm>
+                			<pdist>2304.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.728900824441936</lat>
+						<lon>-87.62388467788696</lon>
+
+							<typ>S</typ>
+                			<stpid>2271</stpid>
+                			<stpnm>State &amp; 91st Street</stpnm>
+                			<pdist>2956.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.729465312469394</lat>
+						<lon>-87.62391686439514</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.72969350834921</lat>
+						<lon>-87.62396514415741</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.730658327583804</lat>
+						<lon>-87.62398660182953</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.731002616417</lat>
+						<lon>-87.623970508575</lon>
+
+							<typ>S</typ>
+                			<stpid>15106</stpid>
+                			<stpnm>State &amp; 90th Street</stpnm>
+                			<pdist>3957.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.732603935574</lat>
+						<lon>-87.623975872993</lon>
+
+							<typ>S</typ>
+                			<stpid>2273</stpid>
+                			<stpnm>State &amp; 89th Street</stpnm>
+                			<pdist>4292.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.733732841589</lat>
+						<lon>-87.624018788338</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.734397365639</lat>
+						<lon>-87.624050974846</lon>
+
+							<typ>S</typ>
+                			<stpid>2274</stpid>
+                			<stpnm>State &amp; 88th Street</stpnm>
+                			<pdist>4955.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.734577506517</lat>
+						<lon>-87.624056339264</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.736514989790635</lat>
+						<lon>-87.62414753437042</lon>
+
+							<typ>S</typ>
+                			<stpid>15194</stpid>
+                			<stpnm>State &amp; 87th Street</stpnm>
+                			<pdist>5591.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.73718348801913</lat>
+						<lon>-87.62419044971466</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.73729557087329</lat>
+						<lon>-87.62413144111633</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.738080145376</lat>
+						<lon>-87.624142169952</lon>
+
+							<typ>S</typ>
+                			<stpid>2276</stpid>
+                			<stpnm>State &amp; 86th Street</stpnm>
+                			<pdist>6299.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.73984540296111</lat>
+						<lon>-87.62416899204254</lon>
+
+							<typ>S</typ>
+                			<stpid>2277</stpid>
+                			<stpnm>State &amp; 85th Street</stpnm>
+                			<pdist>6976.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.74165063887698</lat>
+						<lon>-87.62422800064087</lon>
+
+							<typ>S</typ>
+                			<stpid>2278</stpid>
+                			<stpnm>State &amp; 84th Street</stpnm>
+                			<pdist>7635.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.743487844608</lat>
+						<lon>-87.624287009239</lon>
+
+							<typ>S</typ>
+                			<stpid>2279</stpid>
+                			<stpnm>State &amp; 83rd Street</stpnm>
+                			<pdist>8295.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.744492481719</lat>
+						<lon>-87.624292373657</lon>
+
+							<typ>S</typ>
+                			<stpid>2280</stpid>
+                			<stpnm>8237 S State</stpnm>
+                			<pdist>8579.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.74531699286284</lat>
+						<lon>-87.6243245601654</lon>
+
+							<typ>S</typ>
+                			<stpid>2281</stpid>
+                			<stpnm>State &amp; 82nd Street</stpnm>
+                			<pdist>8967.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.74715409369061</lat>
+						<lon>-87.6243782043457</lon>
+
+							<typ>S</typ>
+                			<stpid>2282</stpid>
+                			<stpnm>State &amp; 81st Street</stpnm>
+                			<pdist>9643.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.748967128588</lat>
+						<lon>-87.624431848526</lon>
+
+							<typ>S</typ>
+                			<stpid>2283</stpid>
+                			<stpnm>State &amp; 80th Street</stpnm>
+                			<pdist>10305.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.750511970018</lat>
+						<lon>-87.624512314796</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.75146046822721</lat>
+						<lon>-87.62452304363251</lon>
+
+							<typ>S</typ>
+                			<stpid>15867</stpid>
+                			<stpnm>State &amp; 79th Street</stpnm>
+                			<pdist>11204.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.752621058783575</lat>
+						<lon>-87.62455523014069</lon>
+
+							<typ>S</typ>
+                			<stpid>2285</stpid>
+                			<stpnm>State &amp; 78th Street</stpnm>
+                			<pdist>11635.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.75485413606218</lat>
+						<lon>-87.62461423873901</lon>
+
+							<typ>S</typ>
+                			<stpid>15248</stpid>
+                			<stpnm>State &amp; 77th Street</stpnm>
+                			<pdist>12456.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.756250770353</lat>
+						<lon>-87.624657154083</lon>
+
+							<typ>S</typ>
+                			<stpid>2287</stpid>
+                			<stpnm>State &amp; 76th Street</stpnm>
+                			<pdist>12956.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.757999521726</lat>
+						<lon>-87.624705433846</lon>
+
+							<typ>S</typ>
+                			<stpid>2288</stpid>
+                			<stpnm>State &amp; 75th Street</stpnm>
+                			<pdist>13591.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.75990828748249</lat>
+						<lon>-87.62474298477173</lon>
+
+							<typ>S</typ>
+                			<stpid>2289</stpid>
+                			<stpnm>State &amp; 74th Street</stpnm>
+                			<pdist>14285.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.761816996465</lat>
+						<lon>-87.62477517128</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.76208909291269</lat>
+						<lon>-87.62478053569794</lon>
+
+							<typ>S</typ>
+                			<stpid>15247</stpid>
+                			<stpnm>State &amp; 73rd Street</stpnm>
+                			<pdist>15109.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.76268930158431</lat>
+						<lon>-87.62480735778809</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.7637096434412</lat>
+						<lon>-87.62480199337006</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.76440986866047</lat>
+						<lon>-87.62483417987823</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.76505006788794</lat>
+						<lon>-87.62483954429626</lon>
+
+							<typ>S</typ>
+                			<stpid>2292</stpid>
+                			<stpnm>State &amp; 71st Street</stpnm>
+                			<pdist>16257.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.765622240542</lat>
+						<lon>-87.62485563755</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.76688260286288</lat>
+						<lon>-87.6248824596405</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.767150676735</lat>
+						<lon>-87.624877095222</lon>
+
+							<typ>S</typ>
+                			<stpid>2293</stpid>
+                			<stpnm>State &amp; 70th Street</stpnm>
+                			<pdist>16966.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.767354732214876</lat>
+						<lon>-87.62486636638641</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.76904716735729</lat>
+						<lon>-87.62491464614868</lon>
+
+							<typ>S</typ>
+                			<stpid>2294</stpid>
+                			<stpnm>State &amp; 69th Street</stpnm>
+                			<pdist>17609.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.77081157347777</lat>
+						<lon>-87.62495219707489</lon>
+
+							<typ>S</typ>
+                			<stpid>2295</stpid>
+                			<stpnm>State &amp; 68th Street</stpnm>
+                			<pdist>18270.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.77267995063637</lat>
+						<lon>-87.62501120567322</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.773164039481486</lat>
+						<lon>-87.62500047683716</lon>
+
+							<typ>S</typ>
+                			<stpid>2296</stpid>
+                			<stpnm>State &amp; Marquette Rd</stpnm>
+                			<pdist>19125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.774040190993595</lat>
+						<lon>-87.62502729892731</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.77447226130559</lat>
+						<lon>-87.62502729892731</lon>
+
+							<typ>S</typ>
+                			<stpid>2297</stpid>
+                			<stpnm>State &amp; 66th Street</stpnm>
+                			<pdist>19586.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.775212374984</lat>
+						<lon>-87.625048756599</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.775788457558</lat>
+						<lon>-87.625086307526</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.776000486648</lat>
+						<lon>-87.62518286705</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.776528556049</lat>
+						<lon>-87.625193595886</lon>
+
+							<typ>S</typ>
+                			<stpid>2298</stpid>
+                			<stpnm>State &amp; 65th Street</stpnm>
+                			<pdist>20349.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.777564679588</lat>
+						<lon>-87.625247240067</lon>
+
+							<typ>S</typ>
+                			<stpid>2299</stpid>
+                			<stpnm>State &amp; 64th Street</stpnm>
+                			<pdist>20720.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.77872079767657</lat>
+						<lon>-87.62532234191895</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.779544869128</lat>
+						<lon>-87.625333070755</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.779940899698</lat>
+						<lon>-87.625295519829</lon>
+
+							<typ>S</typ>
+                			<stpid>2300</stpid>
+                			<stpnm>State &amp; 63rd Street</stpnm>
+                			<pdist>21711.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.78025292206153</lat>
+						<lon>-87.62528479099274</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.782293030867</lat>
+						<lon>-87.625316977501</lon>
+
+							<typ>S</typ>
+                			<stpid>2301</stpid>
+                			<stpnm>6200 S State</stpnm>
+                			<pdist>22442.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.78402907234</lat>
+						<lon>-87.625375986099</lon>
+
+							<typ>S</typ>
+                			<stpid>2302</stpid>
+                			<stpnm>State &amp; 61st Street </stpnm>
+                			<pdist>23063.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.785333072579</lat>
+						<lon>-87.625413537025</lon>
+
+							<typ>S</typ>
+                			<stpid>2303</stpid>
+                			<stpnm>State &amp; 60th Street</stpnm>
+                			<pdist>23539.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.78726902401676</lat>
+						<lon>-87.62546718120575</lon>
+
+							<typ>S</typ>
+                			<stpid>2304</stpid>
+                			<stpnm>State &amp; 59th Street</stpnm>
+                			<pdist>24220.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.7890369286</lat>
+						<lon>-87.625531554222</lon>
+
+							<typ>S</typ>
+                			<stpid>2305</stpid>
+                			<stpnm>State &amp; 58th Street</stpnm>
+                			<pdist>24887.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.78968888110727</lat>
+						<lon>-87.62554228305817</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.78982487036514</lat>
+						<lon>-87.62548863887787</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.790852779836</lat>
+						<lon>-87.625526189804</lon>
+
+							<typ>S</typ>
+                			<stpid>2306</stpid>
+                			<stpnm>State &amp; 57th Street</stpnm>
+                			<pdist>25533.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.792676578639</lat>
+						<lon>-87.625553011894</lon>
+
+							<typ>S</typ>
+                			<stpid>2307</stpid>
+                			<stpnm>State &amp; 56th Street</stpnm>
+                			<pdist>26205.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.794172374889</lat>
+						<lon>-87.62559056282</lon>
+
+							<typ>S</typ>
+                			<stpid>2308</stpid>
+                			<stpnm>State &amp; Garfield</stpnm>
+                			<pdist>26751.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.794972251607</lat>
+						<lon>-87.625601291656</lon>
+
+							<typ>S</typ>
+                			<stpid>2309</stpid>
+                			<stpnm>State &amp; Garfield</stpnm>
+                			<pdist>26999.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.796392008198</lat>
+						<lon>-87.625638842583</lon>
+
+							<typ>S</typ>
+                			<stpid>2310</stpid>
+                			<stpnm>State &amp; 54th Street</stpnm>
+                			<pdist>27526.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.798427604322</lat>
+						<lon>-87.625697851181</lon>
+
+							<typ>S</typ>
+                			<stpid>15512</stpid>
+                			<stpnm>State &amp; 53rd Street</stpnm>
+                			<pdist>28282.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.80023519147286</lat>
+						<lon>-87.62575149536133</lon>
+
+							<typ>S</typ>
+                			<stpid>2312</stpid>
+                			<stpnm>5200 S State</stpnm>
+                			<pdist>28936.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.8018747728858</lat>
+						<lon>-87.6257997751236</lon>
+
+							<typ>S</typ>
+                			<stpid>2313</stpid>
+                			<stpnm>State &amp; 51st Street</stpnm>
+                			<pdist>29612.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.80395818044849</lat>
+						<lon>-87.6258534193039</lon>
+
+							<typ>S</typ>
+                			<stpid>2314</stpid>
+                			<stpnm>State &amp; 50th Street</stpnm>
+                			<pdist>30438.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.805849583925</lat>
+						<lon>-87.625907063484</lon>
+
+							<typ>S</typ>
+                			<stpid>15756</stpid>
+                			<stpnm>4900 S State</stpnm>
+                			<pdist>31115.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.807269099537606</lat>
+						<lon>-87.62592852115631</lon>
+
+							<typ>S</typ>
+                			<stpid>2316</stpid>
+                			<stpnm>State &amp; 48th Street</stpnm>
+                			<pdist>31619.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.809048447924994</lat>
+						<lon>-87.62596070766449</lon>
+
+							<typ>S</typ>
+                			<stpid>2317</stpid>
+                			<stpnm>State &amp; 47th Street</stpnm>
+                			<pdist>32275.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.810907714224</lat>
+						<lon>-87.626003623009</lon>
+
+							<typ>S</typ>
+                			<stpid>2318</stpid>
+                			<stpnm>State &amp; 46th Street</stpnm>
+                			<pdist>32944.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.813298691344</lat>
+						<lon>-87.626062631607</lon>
+
+							<typ>S</typ>
+                			<stpid>15469</stpid>
+                			<stpnm>State &amp; 45th Street</stpnm>
+                			<pdist>33815.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.814534127827</lat>
+						<lon>-87.626110911369</lon>
+
+							<typ>S</typ>
+                			<stpid>2320</stpid>
+                			<stpnm>State &amp; 44th Street</stpnm>
+                			<pdist>34253.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.816733065846</lat>
+						<lon>-87.626186013222</lon>
+
+							<typ>S</typ>
+                			<stpid>14851</stpid>
+                			<stpnm>State &amp; 43rd Street</stpnm>
+                			<pdist>35074.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.818184323581</lat>
+						<lon>-87.626202106476</lon>
+
+							<typ>S</typ>
+                			<stpid>2322</stpid>
+                			<stpnm>State &amp; 42nd Street</stpnm>
+                			<pdist>35533.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.820331165208</lat>
+						<lon>-87.626277208328</lon>
+
+							<typ>S</typ>
+                			<stpid>15467</stpid>
+                			<stpnm>State &amp; 41st Street</stpnm>
+                			<pdist>36375.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.821730371476</lat>
+						<lon>-87.626309394836</lon>
+
+							<typ>S</typ>
+                			<stpid>2325</stpid>
+                			<stpnm>State &amp; 40th Street </stpnm>
+                			<pdist>36845.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.82362125022445</lat>
+						<lon>-87.62631475925446</lon>
+
+							<typ>S</typ>
+                			<stpid>2326</stpid>
+                			<stpnm>State &amp; Pershing</stpnm>
+                			<pdist>37521.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.82542412912</lat>
+						<lon>-87.626325488091</lon>
+
+							<typ>S</typ>
+                			<stpid>2327</stpid>
+                			<stpnm>State &amp; 38th Street</stpnm>
+                			<pdist>38193.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.82724294662956</lat>
+						<lon>-87.62636303901672</lon>
+
+							<typ>S</typ>
+                			<stpid>16120</stpid>
+                			<stpnm>State &amp; 37th Street</stpnm>
+                			<pdist>39017.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.82853007856721</lat>
+						<lon>-87.62638986110687</lon>
+
+							<typ>S</typ>
+                			<stpid>16198</stpid>
+                			<stpnm>State &amp; 36th Street</stpnm>
+                			<pdist>39341.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.829513397952</lat>
+						<lon>-87.626422047615</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.829777212778</lat>
+						<lon>-87.626416683197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.83085644392693</lat>
+						<lon>-87.62643814086914</lon>
+
+							<typ>S</typ>
+                			<stpid>2330</stpid>
+                			<stpnm>State &amp; 35th Street</stpnm>
+                			<pdist>40169.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.83129212838348</lat>
+						<lon>-87.62643277645111</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.832914926963</lat>
+						<lon>-87.626427412033</lon>
+
+							<typ>S</typ>
+                			<stpid>2331</stpid>
+                			<stpnm>State &amp; 34th Street</stpnm>
+                			<pdist>40948.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.834577653276</lat>
+						<lon>-87.626470327377</lon>
+
+							<typ>S</typ>
+                			<stpid>2332</stpid>
+                			<stpnm>State &amp; 33rd Street</stpnm>
+                			<pdist>41513.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.836276307428</lat>
+						<lon>-87.626497149467</lon>
+
+							<typ>S</typ>
+                			<stpid>2333</stpid>
+                			<stpnm>State &amp; 32nd Street</stpnm>
+                			<pdist>42160.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.83819473319882</lat>
+						<lon>-87.62655079364777</lon>
+
+							<typ>S</typ>
+                			<stpid>2334</stpid>
+                			<stpnm>State &amp; 31st Street</stpnm>
+                			<pdist>42832.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.839441679111</lat>
+						<lon>-87.626582980156</lon>
+
+							<typ>S</typ>
+                			<stpid>2335</stpid>
+                			<stpnm>State &amp; 30th Street</stpnm>
+                			<pdist>43293.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.840720572757</lat>
+						<lon>-87.626604437828</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.841735676392</lat>
+						<lon>-87.6266258955</lon>
+
+							<typ>S</typ>
+                			<stpid>2336</stpid>
+                			<stpnm>State &amp; 29th Street</stpnm>
+                			<pdist>44135.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.84319436011238</lat>
+						<lon>-87.6266473531723</lon>
+
+							<typ>S</typ>
+                			<stpid>2337</stpid>
+                			<stpnm>State &amp; 28th Street</stpnm>
+                			<pdist>44678.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.844397249614</lat>
+						<lon>-87.626684904099</lon>
+
+							<typ>S</typ>
+                			<stpid>2338</stpid>
+                			<stpnm>State &amp; 27th Street</stpnm>
+                			<pdist>45110.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.845803922271</lat>
+						<lon>-87.626717090607</lon>
+
+							<typ>S</typ>
+                			<stpid>14852</stpid>
+                			<stpnm>State &amp; 26th Street</stpnm>
+                			<pdist>45644.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.846842921989</lat>
+						<lon>-87.626743912697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.847905881161</lat>
+						<lon>-87.626797556877</lon>
+
+							<typ>S</typ>
+                			<stpid>15380</stpid>
+                			<stpnm>State &amp; 24th Place</stpnm>
+                			<pdist>46476.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.848433358104</lat>
+						<lon>-87.626888751984</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.848597194754</lat>
+						<lon>-87.626942396164</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.84902876245719</lat>
+						<lon>-87.62695848941803</lon>
+
+							<typ>S</typ>
+                			<stpid>15360</stpid>
+                			<stpnm>State &amp; 24th Street</stpnm>
+                			<pdist>46944.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.850954797642224</lat>
+						<lon>-87.62699067592621</lon>
+
+							<typ>S</typ>
+                			<stpid>2342</stpid>
+                			<stpnm>State &amp; 23rd Street</stpnm>
+                			<pdist>47453.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.852680987367</lat>
+						<lon>-87.627038955688</lon>
+
+							<typ>S</typ>
+                			<stpid>4594</stpid>
+                			<stpnm>State &amp; Cermak</stpnm>
+                			<pdist>48279.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.8553261229</lat>
+						<lon>-87.627097964287</lon>
+
+							<typ>S</typ>
+                			<stpid>2345</stpid>
+                			<stpnm>State &amp; Cullerton</stpnm>
+                			<pdist>49040.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.85623711102</lat>
+						<lon>-87.627124786377</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.856384945588</lat>
+						<lon>-87.627049684525</lon>
+
+							<typ>S</typ>
+                			<stpid>2346</stpid>
+                			<stpnm>State &amp; Archer</stpnm>
+                			<pdist>49404.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.858146947505</lat>
+						<lon>-87.627097964287</lon>
+
+							<typ>S</typ>
+                			<stpid>14761</stpid>
+                			<stpnm>State &amp; 18th Street</stpnm>
+                			<pdist>50056.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.859021937219</lat>
+						<lon>-87.627119421959</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.860016773995</lat>
+						<lon>-87.627135515213</lon>
+
+							<typ>S</typ>
+                			<stpid>2349</stpid>
+                			<stpnm>State &amp; 16th Street</stpnm>
+                			<pdist>50774.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.86228206746</lat>
+						<lon>-87.627167701721</lon>
+
+							<typ>S</typ>
+                			<stpid>2350</stpid>
+                			<stpnm>State &amp; 14th Place</stpnm>
+                			<pdist>51580.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.864247653902</lat>
+						<lon>-87.627248167992</lon>
+
+							<typ>S</typ>
+                			<stpid>15957</stpid>
+                			<stpnm>State &amp; 14th Street</stpnm>
+                			<pdist>52195.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.865581980996</lat>
+						<lon>-87.627258896828</lon>
+
+							<typ>S</typ>
+                			<stpid>2352</stpid>
+                			<stpnm>State &amp; 13th Street</stpnm>
+                			<pdist>52803.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.867667310685</lat>
+						<lon>-87.62733399868</lon>
+
+							<typ>S</typ>
+                			<stpid>2353</stpid>
+                			<stpnm>State &amp; Roosevelt</stpnm>
+                			<pdist>53613.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.869157360922</lat>
+						<lon>-87.627350091934</lon>
+
+							<typ>S</typ>
+                			<stpid>2354</stpid>
+                			<stpnm>State &amp; 11th Street</stpnm>
+                			<pdist>54057.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.870427671231</lat>
+						<lon>-87.627382278442</lon>
+
+							<typ>S</typ>
+                			<stpid>2355</stpid>
+                			<stpnm>State &amp; 9th Street</stpnm>
+                			<pdist>54535.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.871833771445</lat>
+						<lon>-87.627409100533</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.872968216118</lat>
+						<lon>-87.627435922623</lon>
+
+							<typ>S</typ>
+                			<stpid>2357</stpid>
+                			<stpnm>State &amp; Balbo</stpnm>
+                			<pdist>55456.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.874378254847</lat>
+						<lon>-87.627468109131</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.874498086732</lat>
+						<lon>-87.627543210983</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.874889535993</lat>
+						<lon>-87.627559304237</lon>
+
+							<typ>S</typ>
+                			<stpid>15052</stpid>
+                			<stpnm>State &amp; Harrison/Congress</stpnm>
+                			<pdist>56161.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.876870711802</lat>
+						<lon>-87.627607584</lon>
+
+							<typ>S</typ>
+                			<stpid>1113</stpid>
+                			<stpnm>State &amp; Van Buren</stpnm>
+                			<pdist>56863.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.879403012427</lat>
+						<lon>-87.627666592598</lon>
+
+							<typ>S</typ>
+                			<stpid>1115</stpid>
+                			<stpnm>State &amp; Adams</stpnm>
+                			<pdist>57789.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.880756993199</lat>
+						<lon>-87.627709507942</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.881843352307</lat>
+						<lon>-87.627752423286</lon>
+
+							<typ>S</typ>
+                			<stpid>1117</stpid>
+                			<stpnm>State &amp; Madison</stpnm>
+                			<pdist>58716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.883229232152694</lat>
+						<lon>-87.6278167963028</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.884359480781</lat>
+						<lon>-87.627838253975</lon>
+
+							<typ>S</typ>
+                			<stpid>1437</stpid>
+                			<stpnm>State &amp; Randolph</stpnm>
+                			<pdist>59616.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.88563348265</lat>
+						<lon>-87.627881169319</lon>
+
+							<typ>S</typ>
+                			<stpid>1438</stpid>
+                			<stpnm>State &amp; Lake</stpnm>
+                			<pdist>60067.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.885773261873</lat>
+						<lon>-87.627832889557</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.886695797074</lat>
+						<lon>-87.627854347229</lon>
+
+							<typ>S</typ>
+                			<stpid>1439</stpid>
+                			<stpnm>State &amp; E. Wacker</stpnm>
+                			<pdist>60445.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.887578383216</lat>
+						<lon>-87.627897262573</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.88873251592881</lat>
+						<lon>-87.6279079914093</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.88888826234517</lat>
+						<lon>-87.62798845767975</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.889135858431</lat>
+						<lon>-87.627950906754</lon>
+
+							<typ>S</typ>
+                			<stpid>2359</stpid>
+                			<stpnm>State &amp; Kinzie</stpnm>
+                			<pdist>61358.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.890074318752</lat>
+						<lon>-87.627983093262</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.890853030679</lat>
+						<lon>-87.627993822098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.890853030679</lat>
+						<lon>-87.627736330032</lon>
+
+							<typ>S</typ>
+                			<stpid>14775</stpid>
+                			<stpnm>Illinois &amp; State</stpnm>
+                			<pdist>62052.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.890888971001</lat>
+						<lon>-87.625494003296</lon>
+
+							<typ>S</typ>
+                			<stpid>750</stpid>
+                			<stpnm>Illinois &amp; Rush</stpnm>
+                			<pdist>62638.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.890900951103</lat>
+						<lon>-87.624335289001</lon>
+
+							<typ>S</typ>
+                			<stpid>751</stpid>
+                			<stpnm>Illinois (Lower) &amp; Michigan</stpnm>
+                			<pdist>62915.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.890940884762</lat>
+						<lon>-87.622640132904</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>41.890948871491</lat>
+						<lon>-87.622135877609</lon>
+
+							<typ>S</typ>
+                			<stpid>17071</stpid>
+                			<stpnm>Illinois (Lower) &amp; St. Clair</stpnm>
+                			<pdist>63559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>41.890948871491</lat>
+						<lon>-87.622044682503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>41.890849037309</lat>
+						<lon>-87.621980309486</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>41.890797123473</lat>
+						<lon>-87.621867656708</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>41.890809103592</lat>
+						<lon>-87.621701359749</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>41.890908937837</lat>
+						<lon>-87.62156188488</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>41.89098880512</lat>
+						<lon>-87.619292736053</lon>
+
+							<typ>S</typ>
+                			<stpid>15393</stpid>
+                			<stpnm>Illinois &amp; Columbus</stpnm>
+                			<pdist>64342.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>41.891016758646</lat>
+						<lon>-87.617865800858</lon>
+
+							<typ>S</typ>
+                			<stpid>754</stpid>
+                			<stpnm>Illinois &amp; McClurg</stpnm>
+                			<pdist>65050.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>41.891056692233</lat>
+						<lon>-87.61538207531</lon>
+
+							<typ>S</typ>
+                			<stpid>755</stpid>
+                			<stpnm>Illinois &amp; Peshtigo</stpnm>
+                			<pdist>65727.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>41.891084645729</lat>
+						<lon>-87.614217996597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>41.891076659017</lat>
+						<lon>-87.613161206245</lon>
+
+							<typ>S</typ>
+                			<stpid>756</stpid>
+                			<stpnm>Illinois &amp; Lake Shore</stpnm>
+                			<pdist>66450.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>41.891104612504</lat>
+						<lon>-87.611519694328</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>158</seq>
+						<lat>41.892090963433</lat>
+						<lon>-87.611589431763</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>159</seq>
+						<lat>41.892342540382</lat>
+						<lon>-87.611541152</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>160</seq>
+						<lat>41.892430392417</lat>
+						<lon>-87.611439228058</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>161</seq>
+						<lat>41.892526230862</lat>
+						<lon>-87.61118710041</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>162</seq>
+						<lat>41.892777806097</lat>
+						<lon>-87.61083304882</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>163</seq>
+						<lat>41.892897603479</lat>
+						<lon>-87.610688209534</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>164</seq>
+						<lat>41.892989447987</lat>
+						<lon>-87.610511183739</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>165</seq>
+						<lat>41.893041360042</lat>
+						<lon>-87.610253691673</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>166</seq>
+						<lat>41.893013407402</lat>
+						<lon>-87.610119581223</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>167</seq>
+						<lat>41.89294152913</lat>
+						<lon>-87.610028386116</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>168</seq>
+						<lat>41.89232257399395</lat>
+						<lon>-87.61010348796844</lon>
+
+							<typ>S</typ>
+                			<stpid>758</stpid>
+                			<stpnm>Navy Pier Terminal</stpnm>
+                			<pdist>67919.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1042</pid>
+				<ln>66733.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.89232257399395</lat>
+						<lon>-87.61010348796844</lon>
+
+							<typ>S</typ>
+                			<stpid>758</stpid>
+                			<stpnm>Navy Pier Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.89214686950757</lat>
+						<lon>-87.61004447937012</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.89213888292854</lat>
+						<lon>-87.61020004749298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.892003110932</lat>
+						<lon>-87.611573338509</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.891995124335</lat>
+						<lon>-87.611675262451</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.891975157838</lat>
+						<lon>-87.612190246582</lon>
+
+							<typ>S</typ>
+                			<stpid>759</stpid>
+                			<stpnm>Grand &amp; Streeter</stpnm>
+                			<pdist>673.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.891935224825</lat>
+						<lon>-87.613531351089</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.891931231523</lat>
+						<lon>-87.614362835884</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.891911265006</lat>
+						<lon>-87.615392804146</lon>
+
+							<typ>S</typ>
+                			<stpid>760</stpid>
+                			<stpnm>Grand &amp; Peshtigo</stpnm>
+                			<pdist>1593.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.89186334534</lat>
+						<lon>-87.617597579956</lon>
+
+							<typ>S</typ>
+                			<stpid>15853</stpid>
+                			<stpnm>Grand &amp; McClurg</stpnm>
+                			<pdist>2103.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.89184737211</lat>
+						<lon>-87.620022296906</lon>
+
+							<typ>S</typ>
+                			<stpid>590</stpid>
+                			<stpnm>Grand &amp; Fairbanks/Columbus</stpnm>
+                			<pdist>2785.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.891799452396</lat>
+						<lon>-87.62254357338</lon>
+
+							<typ>S</typ>
+                			<stpid>761</stpid>
+                			<stpnm>Grand &amp; St. Clair</stpnm>
+                			<pdist>3473.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.8917675059</lat>
+						<lon>-87.624297738075</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.891743546018</lat>
+						<lon>-87.625740766525</lon>
+
+							<typ>S</typ>
+                			<stpid>16028</stpid>
+                			<stpnm>Grand &amp; Rush</stpnm>
+                			<pdist>4332.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.891695626226</lat>
+						<lon>-87.62812256813</lon>
+
+							<typ>S</typ>
+                			<stpid>2367</stpid>
+                			<stpnm>State &amp; Grand (Red Line)</stpnm>
+                			<pdist>5095.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.889990456901</lat>
+						<lon>-87.628063559532</lon>
+
+							<typ>S</typ>
+                			<stpid>2368</stpid>
+                			<stpnm>State &amp; Hubbard</stpnm>
+                			<pdist>5498.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.889251669173</lat>
+						<lon>-87.628031373024</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.888916216789944</lat>
+						<lon>-87.62807428836823</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.88881637943095</lat>
+						<lon>-87.62815475463867</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.8887365094314</lat>
+						<lon>-87.62817621231079</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.88836511262178</lat>
+						<lon>-87.62816548347473</lon>
+
+							<typ>S</typ>
+                			<stpid>2370</stpid>
+                			<stpnm>State &amp; Marina City</stpnm>
+                			<pdist>6083.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.886907459115</lat>
+						<lon>-87.628074288368</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.885917034469</lat>
+						<lon>-87.628047466278</lon>
+
+							<typ>S</typ>
+                			<stpid>1423</stpid>
+                			<stpnm>State &amp; Lake</stpnm>
+                			<pdist>7029.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.885725337603</lat>
+						<lon>-87.628036737442</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.88562150156</lat>
+						<lon>-87.627972364426</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.883448893345</lat>
+						<lon>-87.627891898155</lon>
+
+							<typ>S</typ>
+                			<stpid>1425</stpid>
+                			<stpnm>State &amp; Washington</stpnm>
+                			<pdist>7946.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.881016602753</lat>
+						<lon>-87.627811431885</lon>
+
+							<typ>S</typ>
+                			<stpid>1427</stpid>
+                			<stpnm>State &amp; Monroe</stpnm>
+                			<pdist>8859.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.878320605984</lat>
+						<lon>-87.627725601196</lon>
+
+							<typ>S</typ>
+                			<stpid>1429</stpid>
+                			<stpnm>State &amp; Jackson</stpnm>
+                			<pdist>9775.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.876982550541</lat>
+						<lon>-87.627693414688</lon>
+
+							<typ>S</typ>
+                			<stpid>1430</stpid>
+                			<stpnm>State &amp; Van Buren</stpnm>
+                			<pdist>10251.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.875632484118</lat>
+						<lon>-87.627655863762</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.874977412028</lat>
+						<lon>-87.627645134926</lon>
+
+							<typ>S</typ>
+                			<stpid>1431</stpid>
+                			<stpnm>State &amp; Harrison/Congress</stpnm>
+                			<pdist>11019.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.874502081125</lat>
+						<lon>-87.627639770508</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.874382249247</lat>
+						<lon>-87.627725601196</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.87188570069</lat>
+						<lon>-87.627645134926</lon>
+
+							<typ>S</typ>
+                			<stpid>17590</stpid>
+                			<stpnm>State &amp; Polk</stpnm>
+                			<pdist>12055.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.870215954599</lat>
+						<lon>-87.627612948418</lon>
+
+							<typ>S</typ>
+                			<stpid>17592</stpid>
+                			<stpnm>State &amp; 9th Street</stpnm>
+                			<pdist>12669.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.86903352429</lat>
+						<lon>-87.627591490746</lon>
+
+							<typ>S</typ>
+                			<stpid>15563</stpid>
+                			<stpnm>State &amp; 11th Street</stpnm>
+                			<pdist>13155.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.8675195022</lat>
+						<lon>-87.627537846565</lon>
+
+							<typ>S</typ>
+                			<stpid>2376</stpid>
+                			<stpnm>State &amp; Roosevelt</stpnm>
+                			<pdist>13625.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.86567386477147</lat>
+						<lon>-87.62750029563904</lon>
+
+							<typ>S</typ>
+                			<stpid>2377</stpid>
+                			<stpnm>State &amp; 13th Street</stpnm>
+                			<pdist>14336.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.864183733342</lat>
+						<lon>-87.627473473549</lon>
+
+							<typ>S</typ>
+                			<stpid>2378</stpid>
+                			<stpnm>State &amp; 14th Street</stpnm>
+                			<pdist>14863.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.862102285196</lat>
+						<lon>-87.627414464951</lon>
+
+							<typ>S</typ>
+                			<stpid>2379</stpid>
+                			<stpnm>State &amp; 15th Street</stpnm>
+                			<pdist>15639.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.859968830409</lat>
+						<lon>-87.627371549606</lon>
+
+							<typ>S</typ>
+                			<stpid>15357</stpid>
+                			<stpnm>State &amp; 16th Street</stpnm>
+                			<pdist>16282.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.858997965058</lat>
+						<lon>-87.62736082077</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.85753165076434</lat>
+						<lon>-87.62731790542603</lon>
+
+							<typ>S</typ>
+                			<stpid>2382</stpid>
+                			<stpnm>State &amp; 18th Street</stpnm>
+                			<pdist>17333.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.856488829134</lat>
+						<lon>-87.627317905426</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.85623711102</lat>
+						<lon>-87.627221345901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.855234224255</lat>
+						<lon>-87.627183794975</lon>
+
+							<typ>S</typ>
+                			<stpid>15358</stpid>
+                			<stpnm>State &amp; Cullerton</stpnm>
+                			<pdist>18175.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.854235317422</lat>
+						<lon>-87.627162337303</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.853060583026</lat>
+						<lon>-87.627146244049</lon>
+
+							<typ>S</typ>
+                			<stpid>2386</stpid>
+                			<stpnm>State &amp; Cermak</stpnm>
+                			<pdist>19129.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.851162582205</lat>
+						<lon>-87.627087235451</lon>
+
+							<typ>S</typ>
+                			<stpid>2387</stpid>
+                			<stpnm>State &amp; 23rd Street</stpnm>
+                			<pdist>19607.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.84944434342</lat>
+						<lon>-87.627049684525</lon>
+
+							<typ>S</typ>
+                			<stpid>15359</stpid>
+                			<stpnm>State &amp; 24th Street</stpnm>
+                			<pdist>20483.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.848597194754</lat>
+						<lon>-87.627044320107</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.84847331830091</lat>
+						<lon>-87.62708723545074</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.8467470150296</lat>
+						<lon>-87.62702286243439</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.845208487904</lat>
+						<lon>-87.627001404762</lon>
+
+							<typ>S</typ>
+                			<stpid>2390</stpid>
+                			<stpnm>State &amp; 26th Street</stpnm>
+                			<pdist>21632.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.844473178757</lat>
+						<lon>-87.626985311508</lon>
+
+							<typ>S</typ>
+                			<stpid>2391</stpid>
+                			<stpnm>State &amp; 27th Street</stpnm>
+                			<pdist>22089.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.843482096536</lat>
+						<lon>-87.626953125</lon>
+
+							<typ>S</typ>
+                			<stpid>2392</stpid>
+                			<stpnm>State &amp; 28th Street</stpnm>
+                			<pdist>22462.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.84213132266</lat>
+						<lon>-87.626920938492</lon>
+
+							<typ>S</typ>
+                			<stpid>2393</stpid>
+                			<stpnm>State &amp; 29th Street</stpnm>
+                			<pdist>22954.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.839709449584</lat>
+						<lon>-87.626856565475</lon>
+
+							<typ>S</typ>
+                			<stpid>2394</stpid>
+                			<stpnm>State &amp; 30th Street</stpnm>
+                			<pdist>23829.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.838458512245</lat>
+						<lon>-87.626819014549</lon>
+
+							<typ>S</typ>
+                			<stpid>2395</stpid>
+                			<stpnm>State &amp; 31st Street</stpnm>
+                			<pdist>24284.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.836536097618</lat>
+						<lon>-87.626754641533</lon>
+
+							<typ>S</typ>
+                			<stpid>2396</stpid>
+                			<stpnm>State &amp; 32nd Street</stpnm>
+                			<pdist>24980.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.834809472264</lat>
+						<lon>-87.626722455025</lon>
+
+							<typ>S</typ>
+                			<stpid>2397</stpid>
+                			<stpnm>State &amp; 33rd Street</stpnm>
+                			<pdist>25611.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.832938908899</lat>
+						<lon>-87.626684904099</lon>
+
+							<typ>S</typ>
+                			<stpid>2398</stpid>
+                			<stpnm>3400 S State</stpnm>
+                			<pdist>26340.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.831440020598</lat>
+						<lon>-87.626668810844</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.831196198116</lat>
+						<lon>-87.626658082008</lon>
+
+							<typ>S</typ>
+                			<stpid>2399</stpid>
+                			<stpnm>State &amp; 35th Street</stpnm>
+                			<pdist>26916.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.829969077423144</lat>
+						<lon>-87.62664198875427</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.828825875418</lat>
+						<lon>-87.626604437828</lon>
+
+							<typ>S</typ>
+                			<stpid>16197</stpid>
+                			<stpnm>State &amp; 36th Street</stpnm>
+                			<pdist>27758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.827127023539</lat>
+						<lon>-87.626561522484</lon>
+
+							<typ>S</typ>
+                			<stpid>17023</stpid>
+                			<stpnm>State &amp; 37th Street</stpnm>
+                			<pdist>28244.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.825687960798</lat>
+						<lon>-87.626529335976</lon>
+
+							<typ>S</typ>
+                			<stpid>2402</stpid>
+                			<stpnm>State &amp; 38th Street</stpnm>
+                			<pdist>28699.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.823529306038</lat>
+						<lon>-87.62651860714</lon>
+
+							<typ>S</typ>
+                			<stpid>14768</stpid>
+                			<stpnm>State &amp; Pershing</stpnm>
+                			<pdist>29538.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.822074171765</lat>
+						<lon>-87.626523971558</lon>
+
+							<typ>S</typ>
+                			<stpid>2404</stpid>
+                			<stpnm>State &amp; 40th Street </stpnm>
+                			<pdist>30023.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.820291187437</lat>
+						<lon>-87.626486420631</lon>
+
+							<typ>S</typ>
+                			<stpid>2405</stpid>
+                			<stpnm>State &amp; 41st Street</stpnm>
+                			<pdist>30674.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.818444187196</lat>
+						<lon>-87.626422047615</lon>
+
+							<typ>S</typ>
+                			<stpid>2407</stpid>
+                			<stpnm>State &amp; 42nd Street</stpnm>
+                			<pdist>31340.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.816665099801</lat>
+						<lon>-87.626379132271</lon>
+
+							<typ>S</typ>
+                			<stpid>2408</stpid>
+                			<stpnm>State &amp; 43rd Street</stpnm>
+                			<pdist>31926.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.814829989338</lat>
+						<lon>-87.626320123672</lon>
+
+							<typ>S</typ>
+                			<stpid>2409</stpid>
+                			<stpnm>State &amp; 44th Street</stpnm>
+                			<pdist>32660.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.81316675011763</lat>
+						<lon>-87.62629330158234</lon>
+
+							<typ>S</typ>
+                			<stpid>17408</stpid>
+                			<stpnm>State &amp; 45th Street</stpnm>
+                			<pdist>33410.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.811039660103724</lat>
+						<lon>-87.62622356414795</lon>
+
+							<typ>S</typ>
+                			<stpid>2411</stpid>
+                			<stpnm>State &amp; 46th Street</stpnm>
+                			<pdist>34045.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.809056444884845</lat>
+						<lon>-87.62618601322174</lon>
+
+							<typ>S</typ>
+                			<stpid>14860</stpid>
+                			<stpnm>State &amp; 47th Street</stpnm>
+                			<pdist>34766.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.80751701171426</lat>
+						<lon>-87.62612700462341</lon>
+
+							<typ>S</typ>
+                			<stpid>2413</stpid>
+                			<stpnm>State &amp; 48th Street</stpnm>
+                			<pdist>35283.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.805709629978</lat>
+						<lon>-87.626089453697</lon>
+
+							<typ>S</typ>
+                			<stpid>2414</stpid>
+                			<stpnm>4900 S State</stpnm>
+                			<pdist>35951.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.803718252126906</lat>
+						<lon>-87.62604653835297</lon>
+
+							<typ>S</typ>
+                			<stpid>2415</stpid>
+                			<stpnm>State &amp; 50th Street</stpnm>
+                			<pdist>36634.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.801782797478</lat>
+						<lon>-87.626008987427</lon>
+
+							<typ>S</typ>
+                			<stpid>14850</stpid>
+                			<stpnm>State &amp; 51st Street</stpnm>
+                			<pdist>37426.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.800051235819</lat>
+						<lon>-87.625955343246</lon>
+
+							<typ>S</typ>
+                			<stpid>2417</stpid>
+                			<stpnm>5200 S State</stpnm>
+                			<pdist>38030.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.798231646014</lat>
+						<lon>-87.625896334648</lon>
+
+							<typ>S</typ>
+                			<stpid>2418</stpid>
+                			<stpnm>State &amp; 53rd Street</stpnm>
+                			<pdist>38674.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.796619966185</lat>
+						<lon>-87.625853419304</lon>
+
+							<typ>S</typ>
+                			<stpid>2419</stpid>
+                			<stpnm>State &amp; 54th Street</stpnm>
+                			<pdist>39359.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.7948362732694</lat>
+						<lon>-87.6257997751236</lon>
+
+							<typ>S</typ>
+                			<stpid>2420</stpid>
+                			<stpnm>State &amp; Garfield</stpnm>
+                			<pdist>39881.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.794032395437</lat>
+						<lon>-87.625794410706</lon>
+
+							<typ>S</typ>
+                			<stpid>2421</stpid>
+                			<stpnm>State &amp; Garfield</stpnm>
+                			<pdist>40223.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.792772566612115</lat>
+						<lon>-87.6257461309433</lon>
+
+							<typ>S</typ>
+                			<stpid>2422</stpid>
+                			<stpnm>State &amp; 56th Street</stpnm>
+                			<pdist>40676.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.7912567397461</lat>
+						<lon>-87.62571930885315</lon>
+
+							<typ>S</typ>
+                			<stpid>2423</stpid>
+                			<stpnm>State &amp; 57th Street</stpnm>
+                			<pdist>41235.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.789840869082</lat>
+						<lon>-87.625692486763</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.789696880483376</lat>
+						<lon>-87.62562274932861</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.78918891812056</lat>
+						<lon>-87.62561202049255</lon>
+
+							<typ>S</typ>
+                			<stpid>2424</stpid>
+                			<stpnm>State &amp; 58th Street</stpnm>
+                			<pdist>41998.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.787253024657666</lat>
+						<lon>-87.62555837631226</lon>
+
+							<typ>S</typ>
+                			<stpid>14858</stpid>
+                			<stpnm>State &amp; 59th Street</stpnm>
+                			<pdist>42751.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.78574506714071</lat>
+						<lon>-87.62552082538605</lon>
+
+							<typ>S</typ>
+                			<stpid>2426</stpid>
+                			<stpnm>State &amp; 60th Street</stpnm>
+                			<pdist>43243.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.783897070838</lat>
+						<lon>-87.62545645237</lon>
+
+							<typ>S</typ>
+                			<stpid>2427</stpid>
+                			<stpnm>State &amp; 61st Street </stpnm>
+                			<pdist>43901.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.78158900065313</lat>
+						<lon>-87.62539744377136</lon>
+
+							<typ>S</typ>
+                			<stpid>2428</stpid>
+                			<stpnm>6200 S State</stpnm>
+                			<pdist>44441.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.780180917036</lat>
+						<lon>-87.625370621681</lon>
+
+							<typ>S</typ>
+                			<stpid>2429</stpid>
+                			<stpnm>State &amp; 63rd Street</stpnm>
+                			<pdist>45246.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.779592872963</lat>
+						<lon>-87.625408172607</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.77876480176</lat>
+						<lon>-87.625413537025</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.777396660692</lat>
+						<lon>-87.625322341919</lon>
+
+							<typ>S</typ>
+                			<stpid>2430</stpid>
+                			<stpnm>State &amp; 64th Street</stpnm>
+                			<pdist>46263.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.776592564166</lat>
+						<lon>-87.625284790993</lon>
+
+							<typ>S</typ>
+                			<stpid>2431</stpid>
+                			<stpnm>State &amp; 65th Street</stpnm>
+                			<pdist>46732.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.776008487732</lat>
+						<lon>-87.625263333321</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.77584046475838</lat>
+						<lon>-87.625333070755</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.77556042549158</lat>
+						<lon>-87.625333070755</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.774744304083</lat>
+						<lon>-87.625306248665</lon>
+
+							<typ>S</typ>
+                			<stpid>2432</stpid>
+                			<stpnm>State &amp; 66th Street</stpnm>
+                			<pdist>47242.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.773464092717</lat>
+						<lon>-87.625279426575</lon>
+
+							<typ>S</typ>
+                			<stpid>15982</stpid>
+                			<stpnm>State &amp; Marquette Rd</stpnm>
+                			<pdist>47608.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.77109163347844</lat>
+						<lon>-87.62523114681244</lon>
+
+							<typ>S</typ>
+                			<stpid>2434</stpid>
+                			<stpnm>State &amp; 68th Street</stpnm>
+                			<pdist>48563.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.76926321969369</lat>
+						<lon>-87.62518286705017</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.76890713304693</lat>
+						<lon>-87.6251345872879</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.768827113303765</lat>
+						<lon>-87.62521505355835</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.768818333334</lat>
+						<lon>-87.625416666667</lon>
+
+							<typ>S</typ>
+                			<stpid>17799</stpid>
+                			<stpnm>Lafayette &amp; 69th Street</stpnm>
+                			<pdist>49746.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.76879110438674</lat>
+						<lon>-87.62671709060669</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.76737073653879</lat>
+						<lon>-87.6266473531723</lon>
+
+							<typ>S</typ>
+                			<stpid>2436</stpid>
+                			<stpnm>Lafayette &amp; 70th Street</stpnm>
+                			<pdist>50205.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.76651049846771</lat>
+						<lon>-87.62662589550018</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.765278137319505</lat>
+						<lon>-87.62658298015594</lon>
+
+							<typ>S</typ>
+                			<stpid>2437</stpid>
+                			<stpnm>Lafayette &amp; 71st Street</stpnm>
+                			<pdist>51039.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.763901705976195</lat>
+						<lon>-87.62656688690186</lon>
+
+							<typ>S</typ>
+                			<stpid>2438</stpid>
+                			<stpnm>Lafayette &amp; 72nd Street</stpnm>
+                			<pdist>51481.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.762025070323</lat>
+						<lon>-87.62654542923</lon>
+
+							<typ>S</typ>
+                			<stpid>2439</stpid>
+                			<stpnm>Lafayette &amp; 73rd Street</stpnm>
+                			<pdist>52169.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.76038847118775</lat>
+						<lon>-87.62649714946747</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.760228410352</lat>
+						<lon>-87.626432776451</lon>
+
+							<typ>S</typ>
+                			<stpid>2440</stpid>
+                			<stpnm>Lafayette &amp; 74th Street</stpnm>
+                			<pdist>52834.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.758359670554</lat>
+						<lon>-87.626427412033</lon>
+
+							<typ>S</typ>
+                			<stpid>2441</stpid>
+                			<stpnm>Lafayette &amp; 75th Street</stpnm>
+                			<pdist>53493.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.756570911466895</lat>
+						<lon>-87.62638449668884</lon>
+
+							<typ>S</typ>
+                			<stpid>2442</stpid>
+                			<stpnm>Lafayette &amp; 76th Street</stpnm>
+                			<pdist>54160.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.75595463840005</lat>
+						<lon>-87.62634694576263</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.755334357584665</lat>
+						<lon>-87.62635231018066</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.75472607638271</lat>
+						<lon>-87.62628257274628</lon>
+
+							<typ>S</typ>
+                			<stpid>2443</stpid>
+                			<stpnm>Lafayette &amp; 77th Street</stpnm>
+                			<pdist>54825.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.75451797885857</lat>
+						<lon>-87.62624502182007</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.753177334403944</lat>
+						<lon>-87.62600898742676</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.752821158482774</lat>
+						<lon>-87.62598216533661</lon>
+
+							<typ>S</typ>
+                			<stpid>2444</stpid>
+                			<stpnm>Lafayette &amp; 78th Street</stpnm>
+                			<pdist>55504.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.750780112283</lat>
+						<lon>-87.625848054886</lon>
+
+							<typ>S</typ>
+                			<stpid>2446</stpid>
+                			<stpnm>Lafayette &amp; 79th Street</stpnm>
+                			<pdist>56305.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.749311319275</lat>
+						<lon>-87.625794410706</lon>
+
+							<typ>S</typ>
+                			<stpid>2447</stpid>
+                			<stpnm>Lafayette &amp; 80th Street</stpnm>
+                			<pdist>56834.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.747466275534</lat>
+						<lon>-87.625751495361</lon>
+
+							<typ>S</typ>
+                			<stpid>2448</stpid>
+                			<stpnm>Lafayette &amp; 81st Street</stpnm>
+                			<pdist>57502.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.747226135789</lat>
+						<lon>-87.625746130943</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.746753858338</lat>
+						<lon>-87.625730037689</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.74559316170391</lat>
+						<lon>-87.62571394443512</lon>
+
+							<typ>S</typ>
+                			<stpid>2449</stpid>
+                			<stpnm>Lafayette &amp; 82nd Street</stpnm>
+                			<pdist>58173.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.743848074862186</lat>
+						<lon>-87.62567102909088</lon>
+
+							<typ>S</typ>
+                			<stpid>2450</stpid>
+                			<stpnm>Lafayette &amp; 83rd Street</stpnm>
+                			<pdist>58820.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.741918818153</lat>
+						<lon>-87.625633478165</lon>
+
+							<typ>S</typ>
+                			<stpid>2451</stpid>
+                			<stpnm>Lafayette &amp; 84th Street</stpnm>
+                			<pdist>59497.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.74014160923</lat>
+						<lon>-87.62559056282</lon>
+
+							<typ>S</typ>
+                			<stpid>2452</stpid>
+                			<stpnm>Lafayette &amp; 85th Street</stpnm>
+                			<pdist>60159.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.738216244059</lat>
+						<lon>-87.625547647476</lon>
+
+							<typ>S</typ>
+                			<stpid>2453</stpid>
+                			<stpnm>Lafayette &amp; 86th Street</stpnm>
+                			<pdist>61142.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.735958569791</lat>
+						<lon>-87.625472545624</lon>
+
+							<typ>S</typ>
+                			<stpid>2454</stpid>
+                			<stpnm>Lafayette &amp; 87th Street</stpnm>
+                			<pdist>61687.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.734021069732</lat>
+						<lon>-87.625413537025</lon>
+
+							<typ>S</typ>
+                			<stpid>2455</stpid>
+                			<stpnm>Lafayette &amp; 88th Street</stpnm>
+                			<pdist>62064.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.730658327583804</lat>
+						<lon>-87.62533843517303</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.729193077727885</lat>
+						<lon>-87.62529015541077</lon>
+
+							<typ>S</typ>
+                			<stpid>2457</stpid>
+                			<stpnm>Lafayette &amp; 91st Street</stpnm>
+                			<pdist>64163.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.727327438015855</lat>
+						<lon>-87.62523651123047</lon>
+
+							<typ>S</typ>
+                			<stpid>2458</stpid>
+                			<stpnm>Lafayette &amp; 92nd Street</stpnm>
+                			<pdist>64848.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.72551379211469</lat>
+						<lon>-87.6251882314682</lon>
+
+							<typ>S</typ>
+                			<stpid>2459</stpid>
+                			<stpnm>Lafayette &amp; 93rd Street</stpnm>
+                			<pdist>65496.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.723704098819</lat>
+						<lon>-87.62515604496</lon>
+
+							<typ>S</typ>
+                			<stpid>2460</stpid>
+                			<stpnm>Lafayette &amp; 94th Street</stpnm>
+                			<pdist>66177.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.72275919445475</lat>
+						<lon>-87.62511312961578</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.722751186731266</lat>
+						<lon>-87.62414216995239</lon>
+
+							<typ>S</typ>
+                			<stpid>14001</stpid>
+                			<stpnm>95th Station</stpnm>
+                			<pdist>66733.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

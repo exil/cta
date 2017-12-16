@@ -1,0 +1,3466 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4723</pid>
+				<ln>64066.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.94464900697</lat>
+						<lon>-87.698181867599</lon>
+
+							<typ>S</typ>
+                			<stpid>2993</stpid>
+                			<stpnm>California &amp; Roscoe Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.94464900697</lat>
+						<lon>-87.698004841805</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.942909340926</lat>
+						<lon>-87.697945833206</lon>
+
+							<typ>S</typ>
+                			<stpid>2994</stpid>
+                			<stpnm>California &amp; Roscoe</stpnm>
+                			<pdist>693.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.941883873339</lat>
+						<lon>-87.69793510437</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.940347636173</lat>
+						<lon>-87.697876095772</lon>
+
+							<typ>S</typ>
+                			<stpid>2995</stpid>
+                			<stpnm>California &amp; Melrose</stpnm>
+                			<pdist>1634.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.939565537581</lat>
+						<lon>-87.6978546381</lon>
+
+							<typ>S</typ>
+                			<stpid>2996</stpid>
+                			<stpnm>California &amp; Belmont</stpnm>
+                			<pdist>1936.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.937753905018</lat>
+						<lon>-87.697806358337</lon>
+
+							<typ>S</typ>
+                			<stpid>2997</stpid>
+                			<stpnm>California &amp; Barry</stpnm>
+                			<pdist>2605.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.935926258788</lat>
+						<lon>-87.697758078575</lon>
+
+							<typ>S</typ>
+                			<stpid>2998</stpid>
+                			<stpnm>California &amp; Wellington</stpnm>
+                			<pdist>3273.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.934693166568</lat>
+						<lon>-87.697725892067</lon>
+
+							<typ>S</typ>
+                			<stpid>2999</stpid>
+                			<stpnm>California &amp; George</stpnm>
+                			<pdist>3753.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.931891683986</lat>
+						<lon>-87.697640061378</lon>
+
+							<typ>S</typ>
+                			<stpid>17334</stpid>
+                			<stpnm>California &amp; Diversey</stpnm>
+                			<pdist>4735.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.930371169704</lat>
+						<lon>-87.697602510452</lon>
+
+							<typ>S</typ>
+                			<stpid>3001</stpid>
+                			<stpnm>California &amp; Schubert</stpnm>
+                			<pdist>5317.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.928858601164</lat>
+						<lon>-87.697548866272</lon>
+
+							<typ>S</typ>
+                			<stpid>3002</stpid>
+                			<stpnm>California &amp; Logan</stpnm>
+                			<pdist>5823.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.928108290006</lat>
+						<lon>-87.697522044182</lon>
+
+							<typ>S</typ>
+                			<stpid>3003</stpid>
+                			<stpnm>California &amp; Logan</stpnm>
+                			<pdist>6146.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.927693220467</lat>
+						<lon>-87.697538137436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.926751321882</lat>
+						<lon>-87.697548866272</lon>
+
+							<typ>S</typ>
+                			<stpid>3004</stpid>
+                			<stpnm>California &amp; Altgeld</stpnm>
+                			<pdist>6598.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.924624016704</lat>
+						<lon>-87.69750058651</lon>
+
+							<typ>S</typ>
+                			<stpid>17042</stpid>
+                			<stpnm>California &amp; Fullerton</stpnm>
+                			<pdist>7417.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.923103329191</lat>
+						<lon>-87.697430849075</lon>
+
+							<typ>S</typ>
+                			<stpid>3006</stpid>
+                			<stpnm>California &amp; Milwaukee (Blue Line)</stpnm>
+                			<pdist>7905.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.921830074761</lat>
+						<lon>-87.697382569313</lon>
+
+							<typ>S</typ>
+                			<stpid>3007</stpid>
+                			<stpnm>California &amp; Palmer</stpnm>
+                			<pdist>8380.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.92116749344</lat>
+						<lon>-87.697355747223</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.919678656096</lat>
+						<lon>-87.697318196297</lon>
+
+							<typ>S</typ>
+                			<stpid>3009</stpid>
+                			<stpnm>California &amp; Dickens</stpnm>
+                			<pdist>9139.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.917694816165</lat>
+						<lon>-87.697291374207</lon>
+
+							<typ>S</typ>
+                			<stpid>3010</stpid>
+                			<stpnm>California &amp; Armitage</stpnm>
+                			<pdist>9905.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.917076100954</lat>
+						<lon>-87.697237730026</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.915862603381</lat>
+						<lon>-87.697210907936</lon>
+
+							<typ>S</typ>
+                			<stpid>3011</stpid>
+                			<stpnm>California &amp; Cortland</stpnm>
+                			<pdist>10572.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.914094208698</lat>
+						<lon>-87.697157263756</lon>
+
+							<typ>S</typ>
+                			<stpid>3012</stpid>
+                			<stpnm>California &amp; Bloomingdale</stpnm>
+                			<pdist>11189.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.912465485826</lat>
+						<lon>-87.697076797485</lon>
+
+							<typ>S</typ>
+                			<stpid>3013</stpid>
+                			<stpnm>California &amp; Wabansia </stpnm>
+                			<pdist>11790.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.910313751451</lat>
+						<lon>-87.697055339813</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.910010347077</lat>
+						<lon>-87.697060704231</lon>
+
+							<typ>S</typ>
+                			<stpid>14973</stpid>
+                			<stpnm>California &amp; North Ave</stpnm>
+                			<pdist>12766.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.908489311309</lat>
+						<lon>-87.697033882141</lon>
+
+							<typ>S</typ>
+                			<stpid>3015</stpid>
+                			<stpnm>California &amp; Le Moyne</stpnm>
+                			<pdist>13222.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.90669276569</lat>
+						<lon>-87.696990966797</lon>
+
+							<typ>S</typ>
+                			<stpid>3016</stpid>
+                			<stpnm>California &amp; Hirsch</stpnm>
+                			<pdist>13886.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.905630783838</lat>
+						<lon>-87.696958780289</lon>
+
+							<typ>S</typ>
+                			<stpid>3017</stpid>
+                			<stpnm>California &amp; Evergreen</stpnm>
+                			<pdist>14293.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.904800349631</lat>
+						<lon>-87.696931958199</lon>
+
+							<typ>S</typ>
+                			<stpid>3018</stpid>
+                			<stpnm>California &amp; Potomac</stpnm>
+                			<pdist>14642.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.903031648469</lat>
+						<lon>-87.696905136108</lon>
+
+							<typ>S</typ>
+                			<stpid>3019</stpid>
+                			<stpnm>California &amp; Division</stpnm>
+                			<pdist>15210.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.901195022048</lat>
+						<lon>-87.696856856346</lon>
+
+							<typ>S</typ>
+                			<stpid>3020</stpid>
+                			<stpnm>California &amp; Thomas</stpnm>
+                			<pdist>15881.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.899353333334</lat>
+						<lon>-87.696830000001</lon>
+
+							<typ>S</typ>
+                			<stpid>3021</stpid>
+                			<stpnm>California &amp; Augusta</stpnm>
+                			<pdist>16556.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.898232352442</lat>
+						<lon>-87.69679248333</lon>
+
+							<typ>S</typ>
+                			<stpid>15861</stpid>
+                			<stpnm>California &amp; Walton</stpnm>
+                			<pdist>16971.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.897445744564</lat>
+						<lon>-87.696803212166</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.895816596927</lat>
+						<lon>-87.696738839149</lon>
+
+							<typ>S</typ>
+                			<stpid>3023</stpid>
+                			<stpnm>California &amp; Chicago</stpnm>
+                			<pdist>17851.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.895700798087</lat>
+						<lon>-87.696738839149</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.89567683968</lat>
+						<lon>-87.699163556099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.895668853542</lat>
+						<lon>-87.699764370918</lon>
+
+							<typ>S</typ>
+                			<stpid>636</stpid>
+                			<stpnm>Chicago &amp; Grand</stpnm>
+                			<pdist>18697.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.895636908981</lat>
+						<lon>-87.701738476753</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.895624929767</lat>
+						<lon>-87.702687978745</lon>
+
+							<typ>S</typ>
+                			<stpid>638</stpid>
+                			<stpnm>Chicago &amp; Sacramento</stpnm>
+                			<pdist>19469.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.895573019812</lat>
+						<lon>-87.706582546234</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.895293503945</lat>
+						<lon>-87.70656645298</lon>
+
+							<typ>S</typ>
+                			<stpid>3024</stpid>
+                			<stpnm>Kedzie &amp; Chicago</stpnm>
+                			<pdist>20650.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.893812049429</lat>
+						<lon>-87.7065128088</lon>
+
+							<typ>S</typ>
+                			<stpid>3025</stpid>
+                			<stpnm>Kedzie &amp; Huron</stpnm>
+                			<pdist>21132.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.891951198033</lat>
+						<lon>-87.706475257874</lon>
+
+							<typ>S</typ>
+                			<stpid>3026</stpid>
+                			<stpnm>Kedzie &amp; Ohio</stpnm>
+                			<pdist>21807.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.889655008397</lat>
+						<lon>-87.706400156021</lon>
+
+							<typ>S</typ>
+                			<stpid>3028</stpid>
+                			<stpnm>Kedzie &amp; Franklin</stpnm>
+                			<pdist>22645.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.887646273953</lat>
+						<lon>-87.706351876259</lon>
+
+							<typ>S</typ>
+                			<stpid>3030</stpid>
+                			<stpnm>Kedzie &amp; Carroll</stpnm>
+                			<pdist>23399.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.886300426476</lat>
+						<lon>-87.706319689751</lon>
+
+							<typ>S</typ>
+                			<stpid>15989</stpid>
+                			<stpnm>Kedzie &amp; Fulton</stpnm>
+                			<pdist>23986.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.884091897223</lat>
+						<lon>-87.706249952316</lon>
+
+							<typ>S</typ>
+                			<stpid>15679</stpid>
+                			<stpnm>Kedzie &amp; Lake (Green Line)</stpnm>
+                			<pdist>25020.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.882542286822</lat>
+						<lon>-87.706169486046</lon>
+
+							<typ>S</typ>
+                			<stpid>17593</stpid>
+                			<stpnm>Kedzie &amp; Washington</stpnm>
+                			<pdist>25460.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.881096482404</lat>
+						<lon>-87.70615875721</lon>
+
+							<typ>S</typ>
+                			<stpid>14598</stpid>
+                			<stpnm>Kedzie &amp; Madison</stpnm>
+                			<pdist>26163.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.879778455397</lat>
+						<lon>-87.706110477448</lon>
+
+							<typ>S</typ>
+                			<stpid>3037</stpid>
+                			<stpnm>Kedzie &amp; Monroe</stpnm>
+                			<pdist>26473.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.878516319208</lat>
+						<lon>-87.706094384193</lon>
+
+							<typ>S</typ>
+                			<stpid>3038</stpid>
+                			<stpnm>Kedzie &amp; Adams</stpnm>
+                			<pdist>26941.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.87751777608</lat>
+						<lon>-87.706062197685</lon>
+
+							<typ>S</typ>
+                			<stpid>14599</stpid>
+                			<stpnm>Kedzie &amp; Jackson</stpnm>
+                			<pdist>27576.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.875948034741</lat>
+						<lon>-87.706003189087</lon>
+
+							<typ>S</typ>
+                			<stpid>3040</stpid>
+                			<stpnm>Kedzie &amp; Van Buren </stpnm>
+                			<pdist>27988.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.874889535993</lat>
+						<lon>-87.705981731415</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.874414204436</lat>
+						<lon>-87.705976366997</lon>
+
+							<typ>S</typ>
+                			<stpid>3041</stpid>
+                			<stpnm>Kedzie-Homan Blue Line Station</stpnm>
+                			<pdist>28443.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.873475514087</lat>
+						<lon>-87.705938816071</lon>
+
+							<typ>S</typ>
+                			<stpid>17418</stpid>
+                			<stpnm>Kedzie &amp; Harrison</stpnm>
+                			<pdist>28784.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.872006666667</lat>
+						<lon>-87.705874999999</lon>
+
+							<typ>S</typ>
+                			<stpid>17420</stpid>
+                			<stpnm>Kedzie &amp; Lexington</stpnm>
+                			<pdist>29321.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.871106757582</lat>
+						<lon>-87.705842256546</lon>
+
+							<typ>S</typ>
+                			<stpid>3044</stpid>
+                			<stpnm>Kedzie &amp; Polk</stpnm>
+                			<pdist>29646.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.8698284714</lat>
+						<lon>-87.705815434456</lon>
+
+							<typ>S</typ>
+                			<stpid>17417</stpid>
+                			<stpnm>Kedzie &amp; Arthington</stpnm>
+                			<pdist>30116.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.867982900631</lat>
+						<lon>-87.705756425858</lon>
+
+							<typ>S</typ>
+                			<stpid>15972</stpid>
+                			<stpnm>Kedzie &amp; Fillmore</stpnm>
+                			<pdist>30806.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.866580710599</lat>
+						<lon>-87.705692052841</lon>
+
+							<typ>S</typ>
+                			<stpid>3047</stpid>
+                			<stpnm>Kedzie &amp; Roosevelt</stpnm>
+                			<pdist>31286.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.864683111015</lat>
+						<lon>-87.705643773079</lon>
+
+							<typ>S</typ>
+                			<stpid>3048</stpid>
+                			<stpnm>Kedzie &amp; 13th Street</stpnm>
+                			<pdist>31971.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.86228206746</lat>
+						<lon>-87.705579400063</lon>
+
+							<typ>S</typ>
+                			<stpid>3050</stpid>
+                			<stpnm>Kedzie &amp; Douglas</stpnm>
+                			<pdist>32896.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.861399131932</lat>
+						<lon>-87.705563306808</lon>
+
+							<typ>S</typ>
+                			<stpid>3051</stpid>
+                			<stpnm>Kedzie &amp; 15th Street </stpnm>
+                			<pdist>33289.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.85884214579</lat>
+						<lon>-87.705482840538</lon>
+
+							<typ>S</typ>
+                			<stpid>15301</stpid>
+                			<stpnm>Kedzie &amp; 16th Street</stpnm>
+                			<pdist>34134.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.857463728034</lat>
+						<lon>-87.705439925194</lon>
+
+							<typ>S</typ>
+                			<stpid>3053</stpid>
+                			<stpnm>Kedzie &amp; Ogden</stpnm>
+                			<pdist>34630.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.855501928635</lat>
+						<lon>-87.705386281013</lon>
+
+							<typ>S</typ>
+                			<stpid>3054</stpid>
+                			<stpnm>Kedzie &amp; 19th Street</stpnm>
+                			<pdist>35348.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.853723871085</lat>
+						<lon>-87.705338001251</lon>
+
+							<typ>S</typ>
+                			<stpid>3055</stpid>
+                			<stpnm>Kedzie Pink Line Station</stpnm>
+                			<pdist>35898.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.851498232765</lat>
+						<lon>-87.705252170563</lon>
+
+							<typ>S</typ>
+                			<stpid>17416</stpid>
+                			<stpnm>Kedzie &amp; Cermak</stpnm>
+                			<pdist>36829.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.850083693476</lat>
+						<lon>-87.7052038908</lon>
+
+							<typ>S</typ>
+                			<stpid>3057</stpid>
+                			<stpnm>Kedzie &amp; 23rd Street</stpnm>
+                			<pdist>37351.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.84825753294</lat>
+						<lon>-87.705155611038</lon>
+
+							<typ>S</typ>
+                			<stpid>3058</stpid>
+                			<stpnm>Kedzie &amp; 24th Street</stpnm>
+                			<pdist>38006.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.846435316419</lat>
+						<lon>-87.705101966858</lon>
+
+							<typ>S</typ>
+                			<stpid>3059</stpid>
+                			<stpnm>Kedzie &amp; 25th Street</stpnm>
+                			<pdist>38668.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.844633029291</lat>
+						<lon>-87.705048322678</lon>
+
+							<typ>S</typ>
+                			<stpid>3060</stpid>
+                			<stpnm>Kedzie &amp; 26th Street</stpnm>
+                			<pdist>39333.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.842854669614</lat>
+						<lon>-87.704983949661</lon>
+
+							<typ>S</typ>
+                			<stpid>3061</stpid>
+                			<stpnm>Kedzie &amp; 27th Street</stpnm>
+                			<pdist>40004.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.841000327335</lat>
+						<lon>-87.704941034317</lon>
+
+							<typ>S</typ>
+                			<stpid>3062</stpid>
+                			<stpnm>Kedzie &amp; 28th Street</stpnm>
+                			<pdist>40664.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.839185897315</lat>
+						<lon>-87.704903483391</lon>
+
+							<typ>S</typ>
+                			<stpid>3063</stpid>
+                			<stpnm>Kedzie &amp; 30th Street</stpnm>
+                			<pdist>41326.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.836927779294</lat>
+						<lon>-87.704865932465</lon>
+
+							<typ>S</typ>
+                			<stpid>17448</stpid>
+                			<stpnm>Kedzie &amp; 31st Street</stpnm>
+                			<pdist>42173.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.835572870237</lat>
+						<lon>-87.704806923866</lon>
+
+							<typ>S</typ>
+                			<stpid>3065</stpid>
+                			<stpnm>3201 S Kedzie</stpnm>
+                			<pdist>42706.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.833870200485</lat>
+						<lon>-87.704737186432</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.832531214757</lat>
+						<lon>-87.704721093178</lon>
+
+							<typ>S</typ>
+                			<stpid>3066</stpid>
+                			<stpnm>3349 S Kedzie</stpnm>
+                			<pdist>43851.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.831436023516</lat>
+						<lon>-87.704704999924</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.830240884686</lat>
+						<lon>-87.704635262489</lon>
+
+							<typ>S</typ>
+                			<stpid>3067</stpid>
+                			<stpnm>3448 S Kedzie</stpnm>
+                			<pdist>44307.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.828206299367</lat>
+						<lon>-87.704565525055</lon>
+
+							<typ>S</typ>
+                			<stpid>3068</stpid>
+                			<stpnm>Kedzie &amp; 36th Street</stpnm>
+                			<pdist>45329.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.82625959237</lat>
+						<lon>-87.704527974129</lon>
+
+							<typ>S</typ>
+                			<stpid>3070</stpid>
+                			<stpnm>3700 S Kedzie</stpnm>
+                			<pdist>46182.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.824220882986</lat>
+						<lon>-87.704485058784</lon>
+
+							<typ>S</typ>
+                			<stpid>17451</stpid>
+                			<stpnm>Kedzie &amp; 38th Street</stpnm>
+                			<pdist>46806.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.823493327842</lat>
+						<lon>-87.704447507858</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.822501920711</lat>
+						<lon>-87.704495787621</lon>
+
+							<typ>S</typ>
+                			<stpid>14846</stpid>
+                			<stpnm>Kedzie &amp; Pershing</stpnm>
+                			<pdist>47500.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.821726373787</lat>
+						<lon>-87.704506516457</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.820942821995</lat>
+						<lon>-87.704501152039</lon>
+
+							<typ>S</typ>
+                			<stpid>16064</stpid>
+                			<stpnm>Kedzie &amp; 40th Street</stpnm>
+                			<pdist>47978.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.819907399564</lat>
+						<lon>-87.704463601112</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.819063857718</lat>
+						<lon>-87.704409956932</lon>
+
+							<typ>S</typ>
+                			<stpid>3074</stpid>
+                			<stpnm>Kedzie &amp; 41st Street</stpnm>
+                			<pdist>48646.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.818108363248</lat>
+						<lon>-87.70438849926</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.817276791604</lat>
+						<lon>-87.704367041588</lon>
+
+							<typ>S</typ>
+                			<stpid>3075</stpid>
+                			<stpnm>Kedzie &amp; 42nd Street</stpnm>
+                			<pdist>49221.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.815529656392</lat>
+						<lon>-87.704275846481</lon>
+
+							<typ>S</typ>
+                			<stpid>3076</stpid>
+                			<stpnm>Kedzie &amp; 43rd Street</stpnm>
+                			<pdist>49865.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.813714504342</lat>
+						<lon>-87.704200744629</lon>
+
+							<typ>S</typ>
+                			<stpid>17338</stpid>
+                			<stpnm>Kedzie &amp; Archer</stpnm>
+                			<pdist>50537.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.811867314425</lat>
+						<lon>-87.704152464867</lon>
+
+							<typ>S</typ>
+                			<stpid>3078</stpid>
+                			<stpnm>Kedzie &amp; 45th Street</stpnm>
+                			<pdist>51157.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.810116033235</lat>
+						<lon>-87.704093456268</lon>
+
+							<typ>S</typ>
+                			<stpid>3079</stpid>
+                			<stpnm>Kedzie &amp; 46th Street</stpnm>
+                			<pdist>51779.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.807844894087</lat>
+						<lon>-87.704023718834</lon>
+
+							<typ>S</typ>
+                			<stpid>8100</stpid>
+                			<stpnm>Kedzie &amp; 47th Street</stpnm>
+                			<pdist>52603.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.805785605015</lat>
+						<lon>-87.703937888145</lon>
+
+							<typ>S</typ>
+                			<stpid>3082</stpid>
+                			<stpnm>Kedzie &amp; 48th Place </stpnm>
+                			<pdist>53325.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.805181800913</lat>
+						<lon>-87.703916430473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.805161807303</lat>
+						<lon>-87.704597711563</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.804865901136</lat>
+						<lon>-87.70444214344</lon>
+
+							<typ>S</typ>
+                			<stpid>14128</stpid>
+                			<stpnm>Kedzie Orange Line Station</stpnm>
+                			<pdist>54152.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.805073835342</lat>
+						<lon>-87.70444214344</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.805097827707</lat>
+						<lon>-87.703916430473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.802858501597</lat>
+						<lon>-87.703852057457</lon>
+
+							<typ>S</typ>
+                			<stpid>3085</stpid>
+                			<stpnm>5000 S Kedzie</stpnm>
+                			<pdist>55090.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.800955012869</lat>
+						<lon>-87.703793048859</lon>
+
+							<typ>S</typ>
+                			<stpid>3086</stpid>
+                			<stpnm>Kedzie &amp; 51st Street</stpnm>
+                			<pdist>55771.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.799107455029</lat>
+						<lon>-87.703755497932</lon>
+
+							<typ>S</typ>
+                			<stpid>3087</stpid>
+                			<stpnm>Kedzie &amp; 52nd Street</stpnm>
+                			<pdist>56438.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.797003893594</lat>
+						<lon>-87.703701853752</lon>
+
+							<typ>S</typ>
+                			<stpid>17105</stpid>
+                			<stpnm>Kedzie &amp; 53rd Street</stpnm>
+                			<pdist>57210.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.795452172847</lat>
+						<lon>-87.703648209572</lon>
+
+							<typ>S</typ>
+                			<stpid>3089</stpid>
+                			<stpnm>Kedzie &amp; 54th Street</stpnm>
+                			<pdist>57754.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.793648450228</lat>
+						<lon>-87.703594565392</lon>
+
+							<typ>S</typ>
+                			<stpid>3090</stpid>
+                			<stpnm>Kedzie &amp; 55th Street</stpnm>
+                			<pdist>58427.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.791820679522</lat>
+						<lon>-87.703551650047</lon>
+
+							<typ>S</typ>
+                			<stpid>3091</stpid>
+                			<stpnm>Kedzie &amp; 56th Street</stpnm>
+                			<pdist>59091.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.789968858677</lat>
+						<lon>-87.703476548195</lon>
+
+							<typ>S</typ>
+                			<stpid>3092</stpid>
+                			<stpnm>Kedzie &amp; 57th Street</stpnm>
+                			<pdist>59751.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.788204979575</lat>
+						<lon>-87.703422904015</lon>
+
+							<typ>S</typ>
+                			<stpid>3093</stpid>
+                			<stpnm>Kedzie &amp; 58th Street</stpnm>
+                			<pdist>60409.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.786045061515</lat>
+						<lon>-87.703369259834</lon>
+
+							<typ>S</typ>
+                			<stpid>17339</stpid>
+                			<stpnm>Kedzie &amp; 59th Street</stpnm>
+                			<pdist>61199.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.784553075623</lat>
+						<lon>-87.703320980072</lon>
+
+							<typ>S</typ>
+                			<stpid>3095</stpid>
+                			<stpnm>Kedzie &amp; 60th Street</stpnm>
+                			<pdist>61734.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.782313031613</lat>
+						<lon>-87.703256607056</lon>
+
+							<typ>S</typ>
+                			<stpid>17453</stpid>
+                			<stpnm>Kedzie &amp; 61st Street</stpnm>
+                			<pdist>62520.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.780924965072</lat>
+						<lon>-87.703197598457</lon>
+
+							<typ>S</typ>
+                			<stpid>3097</stpid>
+                			<stpnm>Kedzie &amp; 62nd Street</stpnm>
+                			<pdist>63049.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.779000823144</lat>
+						<lon>-87.703181505203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.778820806912</lat>
+						<lon>-87.703170776367</lon>
+
+							<typ>S</typ>
+                			<stpid>16138</stpid>
+                			<stpnm>Kedzie &amp; 63rd Street</stpnm>
+                			<pdist>63866.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.778328759968</lat>
+						<lon>-87.703133225441</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.778324759571</lat>
+						<lon>-87.703347802162</lon>
+
+							<typ>S</typ>
+                			<stpid>3099</stpid>
+                			<stpnm>Kedzie &amp; 63rd Place Terminal</stpnm>
+                			<pdist>64066.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4722</pid>
+				<ln>27988.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.94464900697</lat>
+						<lon>-87.698181867599</lon>
+
+							<typ>S</typ>
+                			<stpid>2993</stpid>
+                			<stpnm>California &amp; Roscoe Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.94464900697</lat>
+						<lon>-87.698004841805</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.942909340926</lat>
+						<lon>-87.697945833206</lon>
+
+							<typ>S</typ>
+                			<stpid>2994</stpid>
+                			<stpnm>California &amp; Roscoe</stpnm>
+                			<pdist>693.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.941883873339</lat>
+						<lon>-87.69793510437</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.940347636173</lat>
+						<lon>-87.697876095772</lon>
+
+							<typ>S</typ>
+                			<stpid>2995</stpid>
+                			<stpnm>California &amp; Melrose</stpnm>
+                			<pdist>1634.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.939565537581</lat>
+						<lon>-87.6978546381</lon>
+
+							<typ>S</typ>
+                			<stpid>2996</stpid>
+                			<stpnm>California &amp; Belmont</stpnm>
+                			<pdist>1936.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.937753905018</lat>
+						<lon>-87.697806358337</lon>
+
+							<typ>S</typ>
+                			<stpid>2997</stpid>
+                			<stpnm>California &amp; Barry</stpnm>
+                			<pdist>2605.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.935926258788</lat>
+						<lon>-87.697758078575</lon>
+
+							<typ>S</typ>
+                			<stpid>2998</stpid>
+                			<stpnm>California &amp; Wellington</stpnm>
+                			<pdist>3273.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.934693166568</lat>
+						<lon>-87.697725892067</lon>
+
+							<typ>S</typ>
+                			<stpid>2999</stpid>
+                			<stpnm>California &amp; George</stpnm>
+                			<pdist>3753.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.931891683986</lat>
+						<lon>-87.697640061378</lon>
+
+							<typ>S</typ>
+                			<stpid>17334</stpid>
+                			<stpnm>California &amp; Diversey</stpnm>
+                			<pdist>4735.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.930371169704</lat>
+						<lon>-87.697602510452</lon>
+
+							<typ>S</typ>
+                			<stpid>3001</stpid>
+                			<stpnm>California &amp; Schubert</stpnm>
+                			<pdist>5317.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.928858601164</lat>
+						<lon>-87.697548866272</lon>
+
+							<typ>S</typ>
+                			<stpid>3002</stpid>
+                			<stpnm>California &amp; Logan</stpnm>
+                			<pdist>5823.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.928108290006</lat>
+						<lon>-87.697522044182</lon>
+
+							<typ>S</typ>
+                			<stpid>3003</stpid>
+                			<stpnm>California &amp; Logan</stpnm>
+                			<pdist>6146.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.927693220467</lat>
+						<lon>-87.697538137436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.926751321882</lat>
+						<lon>-87.697548866272</lon>
+
+							<typ>S</typ>
+                			<stpid>3004</stpid>
+                			<stpnm>California &amp; Altgeld</stpnm>
+                			<pdist>6598.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.924624016704</lat>
+						<lon>-87.69750058651</lon>
+
+							<typ>S</typ>
+                			<stpid>17042</stpid>
+                			<stpnm>California &amp; Fullerton</stpnm>
+                			<pdist>7417.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.923103329191</lat>
+						<lon>-87.697430849075</lon>
+
+							<typ>S</typ>
+                			<stpid>3006</stpid>
+                			<stpnm>California &amp; Milwaukee (Blue Line)</stpnm>
+                			<pdist>7905.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.921830074761</lat>
+						<lon>-87.697382569313</lon>
+
+							<typ>S</typ>
+                			<stpid>3007</stpid>
+                			<stpnm>California &amp; Palmer</stpnm>
+                			<pdist>8380.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.92116749344</lat>
+						<lon>-87.697355747223</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.919678656096</lat>
+						<lon>-87.697318196297</lon>
+
+							<typ>S</typ>
+                			<stpid>3009</stpid>
+                			<stpnm>California &amp; Dickens</stpnm>
+                			<pdist>9139.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.917694816165</lat>
+						<lon>-87.697291374207</lon>
+
+							<typ>S</typ>
+                			<stpid>3010</stpid>
+                			<stpnm>California &amp; Armitage</stpnm>
+                			<pdist>9905.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.917076100954</lat>
+						<lon>-87.697237730026</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.915862603381</lat>
+						<lon>-87.697210907936</lon>
+
+							<typ>S</typ>
+                			<stpid>3011</stpid>
+                			<stpnm>California &amp; Cortland</stpnm>
+                			<pdist>10572.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.914094208698</lat>
+						<lon>-87.697157263756</lon>
+
+							<typ>S</typ>
+                			<stpid>3012</stpid>
+                			<stpnm>California &amp; Bloomingdale</stpnm>
+                			<pdist>11189.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.912465485826</lat>
+						<lon>-87.697076797485</lon>
+
+							<typ>S</typ>
+                			<stpid>3013</stpid>
+                			<stpnm>California &amp; Wabansia </stpnm>
+                			<pdist>11790.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.910313751451</lat>
+						<lon>-87.697055339813</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.910010347077</lat>
+						<lon>-87.697060704231</lon>
+
+							<typ>S</typ>
+                			<stpid>14973</stpid>
+                			<stpnm>California &amp; North Ave</stpnm>
+                			<pdist>12766.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.908489311309</lat>
+						<lon>-87.697033882141</lon>
+
+							<typ>S</typ>
+                			<stpid>3015</stpid>
+                			<stpnm>California &amp; Le Moyne</stpnm>
+                			<pdist>13222.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.90669276569</lat>
+						<lon>-87.696990966797</lon>
+
+							<typ>S</typ>
+                			<stpid>3016</stpid>
+                			<stpnm>California &amp; Hirsch</stpnm>
+                			<pdist>13886.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.905630783838</lat>
+						<lon>-87.696958780289</lon>
+
+							<typ>S</typ>
+                			<stpid>3017</stpid>
+                			<stpnm>California &amp; Evergreen</stpnm>
+                			<pdist>14293.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.904800349631</lat>
+						<lon>-87.696931958199</lon>
+
+							<typ>S</typ>
+                			<stpid>3018</stpid>
+                			<stpnm>California &amp; Potomac</stpnm>
+                			<pdist>14642.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.903031648469</lat>
+						<lon>-87.696905136108</lon>
+
+							<typ>S</typ>
+                			<stpid>3019</stpid>
+                			<stpnm>California &amp; Division</stpnm>
+                			<pdist>15210.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.901195022048</lat>
+						<lon>-87.696856856346</lon>
+
+							<typ>S</typ>
+                			<stpid>3020</stpid>
+                			<stpnm>California &amp; Thomas</stpnm>
+                			<pdist>15881.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.899353333334</lat>
+						<lon>-87.696830000001</lon>
+
+							<typ>S</typ>
+                			<stpid>3021</stpid>
+                			<stpnm>California &amp; Augusta</stpnm>
+                			<pdist>16556.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.898232352442</lat>
+						<lon>-87.69679248333</lon>
+
+							<typ>S</typ>
+                			<stpid>15861</stpid>
+                			<stpnm>California &amp; Walton</stpnm>
+                			<pdist>16971.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.897445744564</lat>
+						<lon>-87.696803212166</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.895816596927</lat>
+						<lon>-87.696738839149</lon>
+
+							<typ>S</typ>
+                			<stpid>3023</stpid>
+                			<stpnm>California &amp; Chicago</stpnm>
+                			<pdist>17851.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.895700798087</lat>
+						<lon>-87.696738839149</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.89567683968</lat>
+						<lon>-87.699163556099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.895668853542</lat>
+						<lon>-87.699764370918</lon>
+
+							<typ>S</typ>
+                			<stpid>636</stpid>
+                			<stpnm>Chicago &amp; Grand</stpnm>
+                			<pdist>18697.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.895636908981</lat>
+						<lon>-87.701738476753</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.895624929767</lat>
+						<lon>-87.702687978745</lon>
+
+							<typ>S</typ>
+                			<stpid>638</stpid>
+                			<stpnm>Chicago &amp; Sacramento</stpnm>
+                			<pdist>19469.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.895573019812</lat>
+						<lon>-87.706582546234</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.895293503945</lat>
+						<lon>-87.70656645298</lon>
+
+							<typ>S</typ>
+                			<stpid>3024</stpid>
+                			<stpnm>Kedzie &amp; Chicago</stpnm>
+                			<pdist>20650.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.893812049429</lat>
+						<lon>-87.7065128088</lon>
+
+							<typ>S</typ>
+                			<stpid>3025</stpid>
+                			<stpnm>Kedzie &amp; Huron</stpnm>
+                			<pdist>21132.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.891951198033</lat>
+						<lon>-87.706475257874</lon>
+
+							<typ>S</typ>
+                			<stpid>3026</stpid>
+                			<stpnm>Kedzie &amp; Ohio</stpnm>
+                			<pdist>21807.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.889655008397</lat>
+						<lon>-87.706400156021</lon>
+
+							<typ>S</typ>
+                			<stpid>3028</stpid>
+                			<stpnm>Kedzie &amp; Franklin</stpnm>
+                			<pdist>22645.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.887646273953</lat>
+						<lon>-87.706351876259</lon>
+
+							<typ>S</typ>
+                			<stpid>3030</stpid>
+                			<stpnm>Kedzie &amp; Carroll</stpnm>
+                			<pdist>23399.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.886300426476</lat>
+						<lon>-87.706319689751</lon>
+
+							<typ>S</typ>
+                			<stpid>15989</stpid>
+                			<stpnm>Kedzie &amp; Fulton</stpnm>
+                			<pdist>23986.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.884091897223</lat>
+						<lon>-87.706249952316</lon>
+
+							<typ>S</typ>
+                			<stpid>15679</stpid>
+                			<stpnm>Kedzie &amp; Lake (Green Line)</stpnm>
+                			<pdist>25020.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.882542286822</lat>
+						<lon>-87.706169486046</lon>
+
+							<typ>S</typ>
+                			<stpid>17593</stpid>
+                			<stpnm>Kedzie &amp; Washington</stpnm>
+                			<pdist>25460.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.881096482404</lat>
+						<lon>-87.70615875721</lon>
+
+							<typ>S</typ>
+                			<stpid>14598</stpid>
+                			<stpnm>Kedzie &amp; Madison</stpnm>
+                			<pdist>26163.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.879778455397</lat>
+						<lon>-87.706110477448</lon>
+
+							<typ>S</typ>
+                			<stpid>3037</stpid>
+                			<stpnm>Kedzie &amp; Monroe</stpnm>
+                			<pdist>26473.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.878516319208</lat>
+						<lon>-87.706094384193</lon>
+
+							<typ>S</typ>
+                			<stpid>3038</stpid>
+                			<stpnm>Kedzie &amp; Adams</stpnm>
+                			<pdist>26941.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.87751777608</lat>
+						<lon>-87.706062197685</lon>
+
+							<typ>S</typ>
+                			<stpid>14599</stpid>
+                			<stpnm>Kedzie &amp; Jackson</stpnm>
+                			<pdist>27576.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.875948034741</lat>
+						<lon>-87.706003189087</lon>
+
+							<typ>S</typ>
+                			<stpid>3040</stpid>
+                			<stpnm>Kedzie &amp; Van Buren </stpnm>
+                			<pdist>27988.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4719</pid>
+				<ln>64651.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.778324759571</lat>
+						<lon>-87.703347802162</lon>
+
+							<typ>S</typ>
+                			<stpid>3099</stpid>
+                			<stpnm>Kedzie &amp; 63rd Place Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.778012727826</lat>
+						<lon>-87.703337073326</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.778016728243</lat>
+						<lon>-87.703036665916</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.778844809106</lat>
+						<lon>-87.703084945679</lon>
+
+							<typ>S</typ>
+                			<stpid>14816</stpid>
+                			<stpnm>Kedzie &amp; 63rd Street</stpnm>
+                			<pdist>472.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.779052827739</lat>
+						<lon>-87.703101038933</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.780704951767</lat>
+						<lon>-87.703101038933</lon>
+
+							<typ>S</typ>
+                			<stpid>3101</stpid>
+                			<stpnm>Kedzie &amp; 62nd Street</stpnm>
+                			<pdist>960.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.781689005416</lat>
+						<lon>-87.703127861023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.78247703749</lat>
+						<lon>-87.703170776367</lon>
+
+							<typ>S</typ>
+                			<stpid>3102</stpid>
+                			<stpnm>Kedzie &amp; 61st Street</stpnm>
+                			<pdist>1616.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.784345074833</lat>
+						<lon>-87.703229784966</lon>
+
+							<typ>S</typ>
+                			<stpid>3103</stpid>
+                			<stpnm>Kedzie &amp; 60th Street</stpnm>
+                			<pdist>2280.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.786149059238</lat>
+						<lon>-87.703278064728</lon>
+
+							<typ>S</typ>
+                			<stpid>3104</stpid>
+                			<stpnm>Kedzie &amp; 59th Street</stpnm>
+                			<pdist>2947.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.787940993493</lat>
+						<lon>-87.703337073326</lon>
+
+							<typ>S</typ>
+                			<stpid>3105</stpid>
+                			<stpnm>Kedzie &amp; 58th Street</stpnm>
+                			<pdist>3518.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.790032853378</lat>
+						<lon>-87.703396081924</lon>
+
+							<typ>S</typ>
+                			<stpid>15953</stpid>
+                			<stpnm>Kedzie &amp; 57th Street</stpnm>
+                			<pdist>4389.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.791608702741</lat>
+						<lon>-87.703455090523</lon>
+
+							<typ>S</typ>
+                			<stpid>3107</stpid>
+                			<stpnm>Kedzie &amp; 56th Street</stpnm>
+                			<pdist>4919.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.79338848602</lat>
+						<lon>-87.703503370285</lon>
+
+							<typ>S</typ>
+                			<stpid>3108</stpid>
+                			<stpnm>Kedzie &amp; 55th Street</stpnm>
+                			<pdist>5631.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.79518821661</lat>
+						<lon>-87.703557014465</lon>
+
+							<typ>S</typ>
+                			<stpid>3109</stpid>
+                			<stpnm>Kedzie &amp; 54th Street</stpnm>
+                			<pdist>6306.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.796999894362</lat>
+						<lon>-87.703616023064</lon>
+
+							<typ>S</typ>
+                			<stpid>3110</stpid>
+                			<stpnm>Kedzie &amp; 53rd Street</stpnm>
+                			<pdist>6942.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.798915497913</lat>
+						<lon>-87.703669667244</lon>
+
+							<typ>S</typ>
+                			<stpid>3111</stpid>
+                			<stpnm>Kedzie &amp; 52nd Street</stpnm>
+                			<pdist>7636.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.800795053257</lat>
+						<lon>-87.703696489334</lon>
+
+							<typ>S</typ>
+                			<stpid>3112</stpid>
+                			<stpnm>Kedzie &amp; 51st Street</stpnm>
+                			<pdist>8308.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.802758529856</lat>
+						<lon>-87.703744769096</lon>
+
+							<typ>S</typ>
+                			<stpid>3113</stpid>
+                			<stpnm>5000 S Kedzie</stpnm>
+                			<pdist>9014.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.805177802192</lat>
+						<lon>-87.703830599785</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.805169804748</lat>
+						<lon>-87.704597711563</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.804869899877</lat>
+						<lon>-87.704420685768</lon>
+
+							<typ>S</typ>
+                			<stpid>14127</stpid>
+                			<stpnm>Kedzie Orange Line Station</stpnm>
+                			<pdist>10547.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.805069836613</lat>
+						<lon>-87.704420685768</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.805085831525</lat>
+						<lon>-87.703819870949</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.80563365485</lat>
+						<lon>-87.703852057457</lon>
+
+							<typ>S</typ>
+                			<stpid>3116</stpid>
+                			<stpnm>Kedzie &amp; 48th Place </stpnm>
+                			<pdist>10954.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.808084806956</lat>
+						<lon>-87.703943252563</lon>
+
+							<typ>S</typ>
+                			<stpid>3118</stpid>
+                			<stpnm>Kedzie &amp; 47th Street</stpnm>
+                			<pdist>11842.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.809788162486</lat>
+						<lon>-87.704002261162</lon>
+
+							<typ>S</typ>
+                			<stpid>3119</stpid>
+                			<stpnm>Kedzie &amp; 46th Street</stpnm>
+                			<pdist>12519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.811583434196</lat>
+						<lon>-87.70406126976</lon>
+
+							<typ>S</typ>
+                			<stpid>3120</stpid>
+                			<stpnm>Kedzie &amp; 45th Street</stpnm>
+                			<pdist>13183.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.814302235417</lat>
+						<lon>-87.704136371613</lon>
+
+							<typ>S</typ>
+                			<stpid>14503</stpid>
+                			<stpnm>Kedzie &amp; Archer</stpnm>
+                			<pdist>14274.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.817064899027</lat>
+						<lon>-87.704265117645</lon>
+
+							<typ>S</typ>
+                			<stpid>3123</stpid>
+                			<stpnm>Kedzie &amp; 42nd Street</stpnm>
+                			<pdist>15174.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.817700574656</lat>
+						<lon>-87.704297304153</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.818096369502</lat>
+						<lon>-87.704291939735</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.818895947588</lat>
+						<lon>-87.704318761826</lon>
+
+							<typ>S</typ>
+                			<stpid>3124</stpid>
+                			<stpnm>Kedzie &amp; 41st Street</stpnm>
+                			<pdist>15834.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.819899403959</lat>
+						<lon>-87.704383134842</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.820726943796</lat>
+						<lon>-87.704404592514</lon>
+
+							<typ>S</typ>
+                			<stpid>3125</stpid>
+                			<stpnm>Kedzie &amp; 40th Street</stpnm>
+                			<pdist>16496.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.821686396887</lat>
+						<lon>-87.704420685768</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.82282972638</lat>
+						<lon>-87.704393863678</lon>
+
+							<typ>S</typ>
+                			<stpid>17341</stpid>
+                			<stpnm>Kedzie &amp; Pershing</stpnm>
+                			<pdist>17304.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.823517313308</lat>
+						<lon>-87.704367041588</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.823905077098</lat>
+						<lon>-87.704367041588</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.824628630056</lat>
+						<lon>-87.704399228096</lon>
+
+							<typ>S</typ>
+                			<stpid>17452</stpid>
+                			<stpnm>Kedzie &amp; 38th Street</stpnm>
+                			<pdist>17907.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.826171649384</lat>
+						<lon>-87.704431414604</lon>
+
+							<typ>S</typ>
+                			<stpid>3128</stpid>
+                			<stpnm>3700 S Kedzie</stpnm>
+                			<pdist>18374.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.827958467268</lat>
+						<lon>-87.704479694366</lon>
+
+							<typ>S</typ>
+                			<stpid>3130</stpid>
+                			<stpnm>Kedzie &amp; 36th Street</stpnm>
+                			<pdist>19129.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.82897377333</lat>
+						<lon>-87.704522609711</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.830116972695</lat>
+						<lon>-87.704538702965</lon>
+
+							<typ>S</typ>
+                			<stpid>3131</stpid>
+                			<stpnm>3426 S Kedzie </stpnm>
+                			<pdist>20161.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.831464003087</lat>
+						<lon>-87.704635262489</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.832683101113</lat>
+						<lon>-87.704635262489</lon>
+
+							<typ>S</typ>
+                			<stpid>3132</stpid>
+                			<stpnm>3349 S Kedzie </stpnm>
+                			<pdist>20683.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.834106018951</lat>
+						<lon>-87.704656720161</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.835377025552</lat>
+						<lon>-87.704710364342</lon>
+
+							<typ>S</typ>
+                			<stpid>3133</stpid>
+                			<stpnm>3201 S Kedzie </stpnm>
+                			<pdist>21771.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.837079655218</lat>
+						<lon>-87.704780101776</lon>
+
+							<typ>S</typ>
+                			<stpid>3134</stpid>
+                			<stpnm>Kedzie &amp; 31st Street</stpnm>
+                			<pdist>22412.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.838966084017</lat>
+						<lon>-87.704812288284</lon>
+
+							<typ>S</typ>
+                			<stpid>3135</stpid>
+                			<stpnm>Kedzie &amp; 30th Street</stpnm>
+                			<pdist>23121.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.841276084221</lat>
+						<lon>-87.704860568047</lon>
+
+							<typ>S</typ>
+                			<stpid>17450</stpid>
+                			<stpnm>Kedzie &amp; 28th Street</stpnm>
+                			<pdist>23965.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.842614886999</lat>
+						<lon>-87.704903483391</lon>
+
+							<typ>S</typ>
+                			<stpid>3137</stpid>
+                			<stpnm>Kedzie &amp; 27th Street</stpnm>
+                			<pdist>24432.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.844835</lat>
+						<lon>-87.704968333333</lon>
+
+							<typ>S</typ>
+                			<stpid>17449</stpid>
+                			<stpnm>Kedzie &amp; 26th Street</stpnm>
+                			<pdist>25260.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.846467285577</lat>
+						<lon>-87.705026865005</lon>
+
+							<typ>S</typ>
+                			<stpid>16012</stpid>
+                			<stpnm>Kedzie &amp; 25th Street</stpnm>
+                			<pdist>25904.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.848329461474</lat>
+						<lon>-87.705080509186</lon>
+
+							<typ>S</typ>
+                			<stpid>15941</stpid>
+                			<stpnm>Kedzie &amp; 24th Street</stpnm>
+                			<pdist>26578.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.849843937954</lat>
+						<lon>-87.705118060112</lon>
+
+							<typ>S</typ>
+                			<stpid>3141</stpid>
+                			<stpnm>Kedzie &amp; 23rd Street</stpnm>
+                			<pdist>27081.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.852066666668</lat>
+						<lon>-87.705191666667</lon>
+
+							<typ>S</typ>
+                			<stpid>17415</stpid>
+                			<stpnm>Kedzie &amp; Cermak</stpnm>
+                			<pdist>27910.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.853955620713</lat>
+						<lon>-87.705262899399</lon>
+
+							<typ>S</typ>
+                			<stpid>15973</stpid>
+                			<stpnm>Kedzie Pink Line Station</stpnm>
+                			<pdist>28679.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.85533011849</lat>
+						<lon>-87.705289721489</lon>
+
+							<typ>S</typ>
+                			<stpid>3144</stpid>
+                			<stpnm>Kedzie &amp; 19th Street</stpnm>
+                			<pdist>29068.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.858166924572</lat>
+						<lon>-87.705391645432</lon>
+
+							<typ>S</typ>
+                			<stpid>15168</stpid>
+                			<stpnm>Kedzie &amp; Ogden</stpnm>
+                			<pdist>30174.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.859225700229</lat>
+						<lon>-87.705413103104</lon>
+
+							<typ>S</typ>
+                			<stpid>15169</stpid>
+                			<stpnm>Kedzie &amp; 16th Street</stpnm>
+                			<pdist>30521.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.861238333333</lat>
+						<lon>-87.705461666667</lon>
+
+							<typ>S</typ>
+                			<stpid>3147</stpid>
+                			<stpnm>Kedzie &amp; 15th Street </stpnm>
+                			<pdist>31162.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.862393931724</lat>
+						<lon>-87.705498933792</lon>
+
+							<typ>S</typ>
+                			<stpid>3148</stpid>
+                			<stpnm>Kedzie &amp; Douglas</stpnm>
+                			<pdist>31592.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.863065113202</lat>
+						<lon>-87.705520391464</lon>
+
+							<typ>S</typ>
+                			<stpid>3149</stpid>
+                			<stpnm>Kedzie &amp; Douglas</stpnm>
+                			<pdist>31910.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.863716312307</lat>
+						<lon>-87.705547213554</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.864495345468</lat>
+						<lon>-87.705563306808</lon>
+
+							<typ>S</typ>
+                			<stpid>3150</stpid>
+                			<stpnm>Kedzie &amp; 13th Street</stpnm>
+                			<pdist>32366.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.866331666666</lat>
+						<lon>-87.705588333333</lon>
+
+							<typ>S</typ>
+                			<stpid>17632</stpid>
+                			<stpnm>Kedzie &amp; Roosevelt</stpnm>
+                			<pdist>33207.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.868126713255</lat>
+						<lon>-87.705681324005</lon>
+
+							<typ>S</typ>
+                			<stpid>3152</stpid>
+                			<stpnm>Kedzie &amp; Fillmore</stpnm>
+                			<pdist>33700.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.86913339256</lat>
+						<lon>-87.705702781677</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.869944317139</lat>
+						<lon>-87.705729603767</lon>
+
+							<typ>S</typ>
+                			<stpid>3153</stpid>
+                			<stpnm>Kedzie &amp; Arthington</stpnm>
+                			<pdist>34367.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.870875070109</lat>
+						<lon>-87.705756425858</lon>
+
+							<typ>S</typ>
+                			<stpid>3154</stpid>
+                			<stpnm>Kedzie &amp; Polk</stpnm>
+                			<pdist>34686.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.871783333332</lat>
+						<lon>-87.705780000001</lon>
+
+							<typ>S</typ>
+                			<stpid>17419</stpid>
+                			<stpnm>Kedzie &amp; Lexington</stpnm>
+                			<pdist>35025.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.873603336563</lat>
+						<lon>-87.7058583498</lon>
+
+							<typ>S</typ>
+                			<stpid>3156</stpid>
+                			<stpnm>Kedzie &amp; Harrison (Blue Line)</stpnm>
+                			<pdist>35686.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.874418198834</lat>
+						<lon>-87.705895900726</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.875828205574</lat>
+						<lon>-87.705901265144</lon>
+
+							<typ>S</typ>
+                			<stpid>3158</stpid>
+                			<stpnm>Kedzie &amp; Van Buren </stpnm>
+                			<pdist>36466.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.87724616965</lat>
+						<lon>-87.705971002579</lon>
+
+							<typ>S</typ>
+                			<stpid>3159</stpid>
+                			<stpnm>Kedzie &amp; Jackson</stpnm>
+                			<pdist>36988.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.878640137469</lat>
+						<lon>-87.706013917923</lon>
+
+							<typ>S</typ>
+                			<stpid>17594</stpid>
+                			<stpnm>Kedzie &amp; Adams</stpnm>
+                			<pdist>37525.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.88087281913</lat>
+						<lon>-87.706056833267</lon>
+
+							<typ>S</typ>
+                			<stpid>3162</stpid>
+                			<stpnm>Kedzie &amp; Madison</stpnm>
+                			<pdist>38319.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.882694054449</lat>
+						<lon>-87.706078290939</lon>
+
+							<typ>S</typ>
+                			<stpid>3164</stpid>
+                			<stpnm>Kedzie &amp; Washington</stpnm>
+                			<pdist>39131.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.883524776127</lat>
+						<lon>-87.706142663956</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.884187748179</lat>
+						<lon>-87.706164121628</lon>
+
+							<typ>S</typ>
+                			<stpid>3165</stpid>
+                			<stpnm>Kedzie &amp; Lake (Green Line)</stpnm>
+                			<pdist>39613.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.886568000784</lat>
+						<lon>-87.70623922348</lon>
+
+							<typ>S</typ>
+                			<stpid>14600</stpid>
+                			<stpnm>Kedzie &amp; Fulton</stpnm>
+                			<pdist>40673.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.889738870688</lat>
+						<lon>-87.706319689751</lon>
+
+							<typ>S</typ>
+                			<stpid>3170</stpid>
+                			<stpnm>Kedzie &amp; Franklin</stpnm>
+                			<pdist>41718.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.891987137737</lat>
+						<lon>-87.706378698349</lon>
+
+							<typ>S</typ>
+                			<stpid>14601</stpid>
+                			<stpnm>Kedzie &amp; Ohio</stpnm>
+                			<pdist>42623.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.893628362647</lat>
+						<lon>-87.706426978111</lon>
+
+							<typ>S</typ>
+                			<stpid>3173</stpid>
+                			<stpnm>Kedzie &amp; Huron</stpnm>
+                			<pdist>43128.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.895513123658</lat>
+						<lon>-87.706502079964</lon>
+
+							<typ>S</typ>
+                			<stpid>3174</stpid>
+                			<stpnm>Kedzie &amp; Chicago</stpnm>
+                			<pdist>43782.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.895569026737</lat>
+						<lon>-87.702559232712</lon>
+
+							<typ>S</typ>
+                			<stpid>540</stpid>
+                			<stpnm>Chicago &amp; Sacramento</stpnm>
+                			<pdist>44822.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.89561295055</lat>
+						<lon>-87.699136734009</lon>
+
+							<typ>S</typ>
+                			<stpid>543</stpid>
+                			<stpnm>Chicago &amp; Grand</stpnm>
+                			<pdist>45801.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.895636908981</lat>
+						<lon>-87.696642279625</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.895824583046</lat>
+						<lon>-87.696653008461</lon>
+
+							<typ>S</typ>
+                			<stpid>3175</stpid>
+                			<stpnm>California &amp; Chicago</stpnm>
+                			<pdist>46577.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.897449737522</lat>
+						<lon>-87.696717381477</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.898208394985</lat>
+						<lon>-87.696701288223</lon>
+
+							<typ>S</typ>
+                			<stpid>17153</stpid>
+                			<stpnm>California &amp; Walton</stpnm>
+                			<pdist>47397.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.899162693416</lat>
+						<lon>-87.696728110313</lon>
+
+							<typ>S</typ>
+                			<stpid>17154</stpid>
+                			<stpnm>California &amp; Augusta</stpnm>
+                			<pdist>47858.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.901021666666</lat>
+						<lon>-87.696766666668</lon>
+
+							<typ>S</typ>
+                			<stpid>3178</stpid>
+                			<stpnm>California &amp; Thomas</stpnm>
+                			<pdist>48384.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.903035641078</lat>
+						<lon>-87.69681930542</lon>
+
+							<typ>S</typ>
+                			<stpid>14833</stpid>
+                			<stpnm>California &amp; Division</stpnm>
+                			<pdist>49230.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.90465262703</lat>
+						<lon>-87.696851491928</lon>
+
+							<typ>S</typ>
+                			<stpid>3180</stpid>
+                			<stpnm>California &amp; Potomac</stpnm>
+                			<pdist>49710.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.905582874466</lat>
+						<lon>-87.696878314018</lon>
+
+							<typ>S</typ>
+                			<stpid>3181</stpid>
+                			<stpnm>California &amp; Evergreen</stpnm>
+                			<pdist>50053.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.906489153997</lat>
+						<lon>-87.69689977169</lon>
+
+							<typ>S</typ>
+                			<stpid>3182</stpid>
+                			<stpnm>California &amp; Hirsch</stpnm>
+                			<pdist>50389.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.908285705346</lat>
+						<lon>-87.696937322617</lon>
+
+							<typ>S</typ>
+                			<stpid>3183</stpid>
+                			<stpnm>California &amp; Le Moyne</stpnm>
+                			<pdist>51045.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.910361657273</lat>
+						<lon>-87.696969509125</lon>
+
+							<typ>S</typ>
+                			<stpid>15231</stpid>
+                			<stpnm>California &amp; North Ave</stpnm>
+                			<pdist>51921.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.911942529227</lat>
+						<lon>-87.696985602379</lon>
+
+							<typ>S</typ>
+                			<stpid>3185</stpid>
+                			<stpnm>California &amp; Wabansia </stpnm>
+                			<pdist>52389.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.913132149477</lat>
+						<lon>-87.697007060051</lon>
+
+							<typ>S</typ>
+                			<stpid>3186</stpid>
+                			<stpnm>1750 N California</stpnm>
+                			<pdist>52968.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.915583176329</lat>
+						<lon>-87.697114348412</lon>
+
+							<typ>S</typ>
+                			<stpid>3187</stpid>
+                			<stpnm>California &amp; Cortland</stpnm>
+                			<pdist>53714.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.917391446875</lat>
+						<lon>-87.69717335701</lon>
+
+							<typ>S</typ>
+                			<stpid>3188</stpid>
+                			<stpnm>California &amp; Armitage</stpnm>
+                			<pdist>54362.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.919451136337</lat>
+						<lon>-87.697237730026</lon>
+
+							<typ>S</typ>
+                			<stpid>3189</stpid>
+                			<stpnm>California &amp; Point</stpnm>
+                			<pdist>55068.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.921670417241</lat>
+						<lon>-87.69728064537</lon>
+
+							<typ>S</typ>
+                			<stpid>3191</stpid>
+                			<stpnm>California &amp; Palmer (Blue Line)</stpnm>
+                			<pdist>55983.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.922764063252</lat>
+						<lon>-87.697323560715</lon>
+
+							<typ>S</typ>
+                			<stpid>3192</stpid>
+                			<stpnm>California &amp; Milwaukee</stpnm>
+                			<pdist>56305.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.924332654187</lat>
+						<lon>-87.697409391403</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.92498722017</lat>
+						<lon>-87.697414755821</lon>
+
+							<typ>S</typ>
+                			<stpid>17337</stpid>
+                			<stpnm>California &amp; Fullerton</stpnm>
+                			<pdist>57211.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.926559747586</lat>
+						<lon>-87.697452306747</lon>
+
+							<typ>S</typ>
+                			<stpid>3194</stpid>
+                			<stpnm>California &amp; Altgeld</stpnm>
+                			<pdist>57704.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.927649318724</lat>
+						<lon>-87.697436213493</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.928766808252</lat>
+						<lon>-87.697452306747</lon>
+
+							<typ>S</typ>
+                			<stpid>3196</stpid>
+                			<stpnm>California &amp; Logan</stpnm>
+                			<pdist>58604.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.93015566081</lat>
+						<lon>-87.697505950928</lon>
+
+							<typ>S</typ>
+                			<stpid>3197</stpid>
+                			<stpnm>California &amp; Schubert</stpnm>
+                			<pdist>59036.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.932458375575</lat>
+						<lon>-87.697570323944</lon>
+
+							<typ>S</typ>
+                			<stpid>15218</stpid>
+                			<stpnm>California &amp; Diversey</stpnm>
+                			<pdist>59895.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.934629316483</lat>
+						<lon>-87.69763469696</lon>
+
+							<typ>S</typ>
+                			<stpid>3199</stpid>
+                			<stpnm>California &amp; George</stpnm>
+                			<pdist>60682.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.935658891302</lat>
+						<lon>-87.697661519051</lon>
+
+							<typ>S</typ>
+                			<stpid>3200</stpid>
+                			<stpnm>California &amp; Wellington</stpnm>
+                			<pdist>61038.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.937434669278</lat>
+						<lon>-87.697693705559</lon>
+
+							<typ>S</typ>
+                			<stpid>3201</stpid>
+                			<stpnm>California &amp; Barry</stpnm>
+                			<pdist>61701.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.939645343999</lat>
+						<lon>-87.697779536247</lon>
+
+							<typ>S</typ>
+                			<stpid>17474</stpid>
+                			<stpnm>California &amp; Belmont</stpnm>
+                			<pdist>62505.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.942973182721</lat>
+						<lon>-87.697886824608</lon>
+
+							<typ>S</typ>
+                			<stpid>17473</stpid>
+                			<stpnm>California &amp; Roscoe</stpnm>
+                			<pdist>63758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.944888406838</lat>
+						<lon>-87.697929739952</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.944888406838</lat>
+						<lon>-87.698187232018</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.94464900697</lat>
+						<lon>-87.698181867599</lon>
+
+							<typ>S</typ>
+                			<stpid>2993</stpid>
+                			<stpnm>California &amp; Roscoe Terminal</stpnm>
+                			<pdist>64651.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

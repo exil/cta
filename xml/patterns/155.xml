@@ -1,0 +1,975 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>905</pid>
+				<ln>25192.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.997861431801</lat>
+						<lon>-87.709527611732</lon>
+
+							<typ>S</typ>
+                			<stpid>14153</stpid>
+                			<stpnm>Devon &amp; Kedzie Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.997849471779</lat>
+						<lon>-87.709393501282</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.997343162139</lat>
+						<lon>-87.709361314774</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.99735113555</lat>
+						<lon>-87.709050178528</lon>
+
+							<typ>S</typ>
+                			<stpid>1721</stpid>
+                			<stpnm>Devon &amp; Kedzie</stpnm>
+                			<pdist>316.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.997391002592</lat>
+						<lon>-87.707054615021</lon>
+
+							<typ>S</typ>
+                			<stpid>1722</stpid>
+                			<stpnm>Devon &amp; Albany</stpnm>
+                			<pdist>775.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.997426882908</lat>
+						<lon>-87.705740332603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.997454789807</lat>
+						<lon>-87.704173922539</lon>
+
+							<typ>S</typ>
+                			<stpid>17193</stpid>
+                			<stpnm>Devon &amp; Sacramento</stpnm>
+                			<pdist>1583.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.997486683391</lat>
+						<lon>-87.702258825302</lon>
+
+							<typ>S</typ>
+                			<stpid>1724</stpid>
+                			<stpnm>Devon &amp; Francisco</stpnm>
+                			<pdist>2097.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.997522563653</lat>
+						<lon>-87.699828743935</lon>
+
+							<typ>S</typ>
+                			<stpid>1725</stpid>
+                			<stpnm>Devon &amp; California</stpnm>
+                			<pdist>2748.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.99756641728</lat>
+						<lon>-87.697366476059</lon>
+
+							<typ>S</typ>
+                			<stpid>1726</stpid>
+                			<stpnm>Devon &amp; Washtenaw</stpnm>
+                			<pdist>3436.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.997622230943</lat>
+						<lon>-87.69436776638</lon>
+
+							<typ>S</typ>
+                			<stpid>17194</stpid>
+                			<stpnm>Devon &amp; Rockwell</stpnm>
+                			<pdist>4252.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.997662097815</lat>
+						<lon>-87.692425847054</lon>
+
+							<typ>S</typ>
+                			<stpid>1728</stpid>
+                			<stpnm>Devon &amp; Campbell</stpnm>
+                			<pdist>4751.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.997705951345</lat>
+						<lon>-87.689759731293</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>42.001361634849</lat>
+						<lon>-87.689872384071</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>42.005001163435</lat>
+						<lon>-87.689936757088</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>42.005029067012</lat>
+						<lon>-87.68778026104</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>42.005128722545</lat>
+						<lon>-87.68380522728</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>42.005160612282</lat>
+						<lon>-87.680178880692</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>42.002015409978</lat>
+						<lon>-87.67874121666</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.997925218544</lat>
+						<lon>-87.676858305931</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.997929205214</lat>
+						<lon>-87.676504254341</lon>
+
+							<typ>S</typ>
+                			<stpid>17196</stpid>
+                			<stpnm>Devon &amp; Ridge </stpnm>
+                			<pdist>13636.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.997981031893</lat>
+						<lon>-87.675329446793</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.997996978555</lat>
+						<lon>-87.673612833023</lon>
+
+							<typ>S</typ>
+                			<stpid>1736</stpid>
+                			<stpnm>Devon &amp; Hermitage</stpnm>
+                			<pdist>14336.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.998032858529</lat>
+						<lon>-87.670866250992</lon>
+
+							<typ>S</typ>
+                			<stpid>1738</stpid>
+                			<stpnm>Devon &amp; Clark</stpnm>
+                			<pdist>15095.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.998056778501</lat>
+						<lon>-87.67016351223</lon>
+
+							<typ>S</typ>
+                			<stpid>1739</stpid>
+                			<stpnm>Devon &amp; Clark</stpnm>
+                			<pdist>15339.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.998072725144</lat>
+						<lon>-87.668033838272</lon>
+
+							<typ>S</typ>
+                			<stpid>1740</stpid>
+                			<stpnm>Devon &amp; Greenview</stpnm>
+                			<pdist>15947.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.998108605076</lat>
+						<lon>-87.665614485741</lon>
+
+							<typ>S</typ>
+                			<stpid>1741</stpid>
+                			<stpnm>Devon &amp; Glenwood</stpnm>
+                			<pdist>16601.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.998120565049</lat>
+						<lon>-87.663189768791</lon>
+
+							<typ>S</typ>
+                			<stpid>1743</stpid>
+                			<stpnm>Devon &amp; Lakewood</stpnm>
+                			<pdist>17237.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.998140498332</lat>
+						<lon>-87.661628723145</lon>
+
+							<typ>S</typ>
+                			<stpid>1744</stpid>
+                			<stpnm>Devon &amp; Magnolia</stpnm>
+                			<pdist>17742.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.99818036488</lat>
+						<lon>-87.660480737686</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.998854105754</lat>
+						<lon>-87.660598754883</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.999137154526</lat>
+						<lon>-87.660620212555</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>42.00022548526</lat>
+						<lon>-87.660684585571</lon>
+
+							<typ>S</typ>
+                			<stpid>1203</stpid>
+                			<stpnm>Sheridan &amp; Arthur (Red Line)</stpnm>
+                			<pdist>18688.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>42.00169649612</lat>
+						<lon>-87.660732865334</lon>
+
+							<typ>S</typ>
+                			<stpid>1204</stpid>
+                			<stpnm>Sheridan &amp; Loyola</stpnm>
+                			<pdist>19307.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>42.003896969205</lat>
+						<lon>-87.660791873932</lon>
+
+							<typ>S</typ>
+                			<stpid>1206</stpid>
+                			<stpnm>Sheridan &amp; North Shore</stpnm>
+                			<pdist>20071.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>42.004586594563</lat>
+						<lon>-87.660807967186</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>42.005559232651</lat>
+						<lon>-87.660856246948</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>42.005559232651</lat>
+						<lon>-87.66117811203</lon>
+
+							<typ>S</typ>
+                			<stpid>1746</stpid>
+                			<stpnm>Pratt &amp; Sheridan</stpnm>
+                			<pdist>20770.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>42.005519370727</lat>
+						<lon>-87.663903236389</lon>
+
+							<typ>S</typ>
+                			<stpid>1747</stpid>
+                			<stpnm>Pratt &amp; Lakewood</stpnm>
+                			<pdist>21512.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>42.005479508777</lat>
+						<lon>-87.66613483429</lon>
+
+							<typ>S</typ>
+                			<stpid>1748</stpid>
+                			<stpnm>Pratt &amp; Glenwood</stpnm>
+                			<pdist>22133.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>42.0054476192</lat>
+						<lon>-87.667829990387</lon>
+
+							<typ>S</typ>
+                			<stpid>1749</stpid>
+                			<stpnm>Pratt &amp; Greenview</stpnm>
+                			<pdist>22630.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>42.005423702006</lat>
+						<lon>-87.669745087624</lon>
+
+							<typ>S</typ>
+                			<stpid>1750</stpid>
+                			<stpnm>Pratt &amp; Ashland</stpnm>
+                			<pdist>23076.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>42.005419715806</lat>
+						<lon>-87.669900655746</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>42.006691300881</lat>
+						<lon>-87.669943571091</lon>
+
+							<typ>S</typ>
+                			<stpid>1751</stpid>
+                			<stpnm>Ashland &amp; Farwell</stpnm>
+                			<pdist>23489.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>42.007803418717</lat>
+						<lon>-87.669975757599</lon>
+
+							<typ>S</typ>
+                			<stpid>1752</stpid>
+                			<stpnm>Ashland &amp; Morse</stpnm>
+                			<pdist>23925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>42.007847265258</lat>
+						<lon>-87.667942643166</lon>
+
+							<typ>S</typ>
+                			<stpid>1753</stpid>
+                			<stpnm>Morse &amp; Greenview</stpnm>
+                			<pdist>24502.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>42.007879153633</lat>
+						<lon>-87.665973901749</lon>
+
+							<typ>S</typ>
+                			<stpid>1754</stpid>
+                			<stpnm>Morse &amp; Glenwood (Red Line)</stpnm>
+                			<pdist>25192.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>904</pid>
+				<ln>22548.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>42.007879153633</lat>
+						<lon>-87.665973901749</lon>
+
+							<typ>S</typ>
+                			<stpid>1754</stpid>
+                			<stpnm>Morse &amp; Glenwood (Red Line)</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>42.007915028035</lat>
+						<lon>-87.663817405701</lon>
+
+							<typ>S</typ>
+                			<stpid>1755</stpid>
+                			<stpnm>Morse &amp; Lakewood</stpnm>
+                			<pdist>438.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>42.007930972208</lat>
+						<lon>-87.662782073021</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>42.007954888459</lat>
+						<lon>-87.661719918251</lon>
+
+							<typ>S</typ>
+                			<stpid>1756</stpid>
+                			<stpnm>Morse &amp; Sheridan</stpnm>
+                			<pdist>969.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>42.006551786519</lat>
+						<lon>-87.661274671555</lon>
+
+							<typ>S</typ>
+                			<stpid>1022</stpid>
+                			<stpnm>Sheridan &amp; Farwell</stpnm>
+                			<pdist>1544.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>42.005559232651</lat>
+						<lon>-87.660942077637</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>42.005387826199</lat>
+						<lon>-87.660925984383</lon>
+
+							<typ>S</typ>
+                			<stpid>1023</stpid>
+                			<stpnm>Sheridan &amp; Pratt</stpnm>
+                			<pdist>2038.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>42.004578622058</lat>
+						<lon>-87.66087770462</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>42.003342871738</lat>
+						<lon>-87.660872340202</lon>
+
+							<typ>S</typ>
+                			<stpid>1025</stpid>
+                			<stpnm>Sheridan &amp; North Shore</stpnm>
+                			<pdist>2730.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>42.001421431633</lat>
+						<lon>-87.660807967186</lon>
+
+							<typ>S</typ>
+                			<stpid>1027</stpid>
+                			<stpnm>Sheridan &amp; Loyola (Red Line)</stpnm>
+                			<pdist>3471.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>42.000185619994</lat>
+						<lon>-87.66077041626</lon>
+
+							<typ>S</typ>
+                			<stpid>1028</stpid>
+                			<stpnm>Sheridan &amp; Arthur</stpnm>
+                			<pdist>3974.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.998882012027</lat>
+						<lon>-87.660689949989</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.998236178004</lat>
+						<lon>-87.660577297211</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.998216244751</lat>
+						<lon>-87.661108374596</lon>
+
+							<typ>S</typ>
+                			<stpid>1757</stpid>
+                			<stpnm>Devon &amp; Sheridan</stpnm>
+                			<pdist>4650.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.998184351533</lat>
+						<lon>-87.662910819054</lon>
+
+							<typ>S</typ>
+                			<stpid>1758</stpid>
+                			<stpnm>Devon &amp; Lakewood</stpnm>
+                			<pdist>5140.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.998168404918</lat>
+						<lon>-87.665228247643</lon>
+
+							<typ>S</typ>
+                			<stpid>1760</stpid>
+                			<stpnm>Devon &amp; Glenwood</stpnm>
+                			<pdist>5799.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.998144484988</lat>
+						<lon>-87.66773879528</lon>
+
+							<typ>S</typ>
+                			<stpid>1761</stpid>
+                			<stpnm>Devon &amp; Greenview</stpnm>
+                			<pdist>6472.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.998116578392</lat>
+						<lon>-87.670158147812</lon>
+
+							<typ>S</typ>
+                			<stpid>1762</stpid>
+                			<stpnm>Devon &amp; Clark</stpnm>
+                			<pdist>7151.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.998076711804</lat>
+						<lon>-87.671976685524</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.998056778501</lat>
+						<lon>-87.673500180244</lon>
+
+							<typ>S</typ>
+                			<stpid>1764</stpid>
+                			<stpnm>Devon &amp; Hermitage</stpnm>
+                			<pdist>7985.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.998032858529</lat>
+						<lon>-87.675259709358</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.99799299189</lat>
+						<lon>-87.676686644554</lon>
+
+							<typ>S</typ>
+                			<stpid>1766</stpid>
+                			<stpnm>Devon &amp; Ridge</stpnm>
+                			<pdist>8861.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.997989005224</lat>
+						<lon>-87.676788568497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>42.000369000012</lat>
+						<lon>-87.677877545357</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>42.005224391709</lat>
+						<lon>-87.680125236511</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>42.005188515789</lat>
+						<lon>-87.683730125427</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>42.005128722545</lat>
+						<lon>-87.685875892639</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>42.005056970577</lat>
+						<lon>-87.690178155899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.997761764886</lat>
+						<lon>-87.690001130104</lon>
+
+							<typ>S</typ>
+                			<stpid>1704</stpid>
+                			<stpnm>Western &amp; Devon</stpnm>
+                			<pdist>16946.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.997721898076</lat>
+						<lon>-87.692211270332</lon>
+
+							<typ>S</typ>
+                			<stpid>1772</stpid>
+                			<stpnm>Devon &amp; Campbell</stpnm>
+                			<pdist>17544.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.997686017926</lat>
+						<lon>-87.695108056068</lon>
+
+							<typ>S</typ>
+                			<stpid>17406</stpid>
+                			<stpnm>Devon &amp; Rockwell</stpnm>
+                			<pdist>18342.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.997634191007</lat>
+						<lon>-87.697055339813</lon>
+
+							<typ>S</typ>
+                			<stpid>1774</stpid>
+                			<stpnm>Devon &amp; Washtenaw</stpnm>
+                			<pdist>18858.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.997590337427</lat>
+						<lon>-87.699882388115</lon>
+
+							<typ>S</typ>
+                			<stpid>17199</stpid>
+                			<stpnm>Devon &amp; California</stpnm>
+                			<pdist>19649.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.997554457203</lat>
+						<lon>-87.701969146729</lon>
+
+							<typ>S</typ>
+                			<stpid>1776</stpid>
+                			<stpnm>Devon &amp; Francisco</stpnm>
+                			<pdist>20154.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.997494656784</lat>
+						<lon>-87.704780101776</lon>
+
+							<typ>S</typ>
+                			<stpid>17200</stpid>
+                			<stpnm>Devon &amp; Sacramento</stpnm>
+                			<pdist>20962.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.997450803108</lat>
+						<lon>-87.706813216209</lon>
+
+							<typ>S</typ>
+                			<stpid>1778</stpid>
+                			<stpnm>Devon &amp; Albany</stpnm>
+                			<pdist>21473.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.997418909506</lat>
+						<lon>-87.709189653397</lon>
+
+							<typ>S</typ>
+                			<stpid>1779</stpid>
+                			<stpnm>Devon &amp; Kedzie</stpnm>
+                			<pdist>22136.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.997414922805</lat>
+						<lon>-87.709361314774</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.997418909506</lat>
+						<lon>-87.709881663322</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.997853458453</lat>
+						<lon>-87.709892392159</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.997861431801</lat>
+						<lon>-87.709527611732</lon>
+
+							<typ>S</typ>
+                			<stpid>14153</stpid>
+                			<stpnm>Devon &amp; Kedzie Terminal</stpnm>
+                			<pdist>22548.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

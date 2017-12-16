@@ -1,0 +1,525 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>1422</pid>
+				<ln>8135.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.981856912507</lat>
+						<lon>-87.808447480202</lon>
+
+							<typ>S</typ>
+                			<stpid>8534</stpid>
+                			<stpnm>Harlem Blue Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.981817035735</lat>
+						<lon>-87.808350920677</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.982578677761</lat>
+						<lon>-87.80782520771</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.982618554056</lat>
+						<lon>-87.807540893555</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.982650455073</lat>
+						<lon>-87.807068824768</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.98179310966</lat>
+						<lon>-87.807068824768</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.981035445964</lat>
+						<lon>-87.80711710453</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.980927777234</lat>
+						<lon>-87.807020545006</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.980772255413</lat>
+						<lon>-87.80700981617</lon>
+
+							<typ>S</typ>
+                			<stpid>8535</stpid>
+                			<stpnm>Harlem &amp; Higgins</stpnm>
+                			<pdist>1162.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.978838170267</lat>
+						<lon>-87.807042002678</lon>
+
+							<typ>S</typ>
+                			<stpid>8536</stpid>
+                			<stpnm>Harlem &amp; Rascher</stpnm>
+                			<pdist>1870.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.977278895967</lat>
+						<lon>-87.807068824768</lon>
+
+							<typ>S</typ>
+                			<stpid>8537</stpid>
+                			<stpnm>Harlem &amp; Summerdale </stpnm>
+                			<pdist>2429.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.976337729832</lat>
+						<lon>-87.807101011276</lon>
+
+							<typ>S</typ>
+                			<stpid>8538</stpid>
+                			<stpnm>Harlem &amp; Farragut</stpnm>
+                			<pdist>2726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.974650774367</lat>
+						<lon>-87.807101011276</lon>
+
+							<typ>S</typ>
+                			<stpid>8539</stpid>
+                			<stpnm>Harlem &amp; Foster </stpnm>
+                			<pdist>3365.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.974559047376</lat>
+						<lon>-87.807106375694</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.974507201626</lat>
+						<lon>-87.809396982193</lon>
+
+							<typ>S</typ>
+                			<stpid>8540</stpid>
+                			<stpnm>Foster &amp; Octavia</stpnm>
+                			<pdist>4001.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.974487260942</lat>
+						<lon>-87.810695171356</lon>
+
+							<typ>S</typ>
+                			<stpid>8541</stpid>
+                			<stpnm>Foster &amp; Odell</stpnm>
+                			<pdist>4257.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.974463332113</lat>
+						<lon>-87.811328172684</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.974435415134</lat>
+						<lon>-87.811891436577</lon>
+
+							<typ>S</typ>
+                			<stpid>8542</stpid>
+                			<stpnm>Foster &amp; Oketo</stpnm>
+                			<pdist>4671.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.974431426994</lat>
+						<lon>-87.813093066216</lon>
+
+							<typ>S</typ>
+                			<stpid>8543</stpid>
+                			<stpnm>Foster &amp; Osceola</stpnm>
+                			<pdist>5024.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.974383569284</lat>
+						<lon>-87.814337611198</lon>
+
+							<typ>S</typ>
+                			<stpid>8544</stpid>
+                			<stpnm>Foster &amp; Olcott</stpnm>
+                			<pdist>5351.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.974331723392</lat>
+						<lon>-87.816773056984</lon>
+
+							<typ>S</typ>
+                			<stpid>8545</stpid>
+                			<stpnm>Foster &amp; Oriole</stpnm>
+                			<pdist>6026.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.974267913005</lat>
+						<lon>-87.81926214695</lon>
+
+							<typ>S</typ>
+                			<stpid>8546</stpid>
+                			<stpnm>Foster &amp; Overhill</stpnm>
+                			<pdist>6695.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.974192138088</lat>
+						<lon>-87.821719050407</lon>
+
+							<typ>S</typ>
+                			<stpid>8547</stpid>
+                			<stpnm>Foster &amp; Ozanam</stpnm>
+                			<pdist>7364.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.97411636308</lat>
+						<lon>-87.824546098709</lon>
+
+							<typ>S</typ>
+                			<stpid>8548</stpid>
+                			<stpnm>Foster &amp; Canfield</stpnm>
+                			<pdist>8135.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1423</pid>
+				<ln>7579.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.97411636308</lat>
+						<lon>-87.824546098709</lon>
+
+							<typ>S</typ>
+                			<stpid>8548</stpid>
+                			<stpnm>Foster &amp; Canfield</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.974100410436</lat>
+						<lon>-87.824712395668</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.974184161776</lat>
+						<lon>-87.82465338707</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.975831249079</lat>
+						<lon>-87.824428081512</lon>
+
+							<typ>S</typ>
+                			<stpid>8549</stpid>
+                			<stpnm>Canfield &amp; Berwyn</stpnm>
+                			<pdist>634.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.977633823652</lat>
+						<lon>-87.824175953865</lon>
+
+							<typ>S</typ>
+                			<stpid>8550</stpid>
+                			<stpnm>Canfield &amp; Balmoral</stpnm>
+                			<pdist>1310.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.979432359377</lat>
+						<lon>-87.8239184618</lon>
+
+							<typ>S</typ>
+                			<stpid>8551</stpid>
+                			<stpnm>Canfield &amp; Catalpa</stpnm>
+                			<pdist>1981.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.98036550424</lat>
+						<lon>-87.823821902275</lon>
+
+							<typ>S</typ>
+                			<stpid>8625</stpid>
+                			<stpnm>Canfield &amp; Gregory</stpnm>
+                			<pdist>2305.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.981270721445</lat>
+						<lon>-87.823709249496</lon>
+
+							<typ>S</typ>
+                			<stpid>8552</stpid>
+                			<stpnm>Canfield &amp; Bryn Mawr</stpnm>
+                			<pdist>2618.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.981330537107</lat>
+						<lon>-87.823703885078</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.981553848414</lat>
+						<lon>-87.815812826157</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.981629614572</lat>
+						<lon>-87.815147638321</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.981888813906</lat>
+						<lon>-87.814117670059</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.982064271318</lat>
+						<lon>-87.813983559608</lon>
+
+							<typ>S</typ>
+                			<stpid>8557</stpid>
+                			<stpnm>Higgins &amp; Bryn Mawr</stpnm>
+                			<pdist>5882.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.981932678304</lat>
+						<lon>-87.813012599945</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.981864887858</lat>
+						<lon>-87.812894582748</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.981832986446</lat>
+						<lon>-87.812674641609</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.981781146619</lat>
+						<lon>-87.812030911446</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.981781146619</lat>
+						<lon>-87.810797095299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.981777158938</lat>
+						<lon>-87.810029983521</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.981745257482</lat>
+						<lon>-87.80989587307</lon>
+
+							<typ>S</typ>
+                			<stpid>8558</stpid>
+                			<stpnm>Higgins &amp; Octavia</stpnm>
+                			<pdist>7072.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.981502008359</lat>
+						<lon>-87.808930277824</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.98144618056</lat>
+						<lon>-87.808592319489</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.981817035735</lat>
+						<lon>-87.808345556259</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.981856912507</lat>
+						<lon>-87.808447480202</lon>
+
+							<typ>S</typ>
+                			<stpid>8534</stpid>
+                			<stpnm>Harlem Blue Line Station</stpnm>
+                			<pdist>7579.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

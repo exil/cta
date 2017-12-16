@@ -1,0 +1,3279 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>2450</pid>
+				<ln>58848.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.764721966582</lat>
+						<lon>-87.697972655296</lon>
+
+							<typ>S</typ>
+                			<stpid>4139</stpid>
+                			<stpnm>Sacramento &amp; 71st Street</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.76443787751</lat>
+						<lon>-87.697956562042</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.764425873719</lat>
+						<lon>-87.697623968124</lon>
+
+							<typ>S</typ>
+                			<stpid>15195</stpid>
+                			<stpnm>71st Street &amp; Sacramento</stpnm>
+                			<pdist>208.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.764473888871</lat>
+						<lon>-87.695606946945</lon>
+
+							<typ>S</typ>
+                			<stpid>4140</stpid>
+                			<stpnm>71st Street &amp; Francisco</stpnm>
+                			<pdist>694.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.76451390147</lat>
+						<lon>-87.692994475365</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.76485800879</lat>
+						<lon>-87.692994475365</lon>
+
+							<typ>S</typ>
+                			<stpid>4141</stpid>
+                			<stpnm>California &amp; 71st Street</stpnm>
+                			<pdist>1524.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.766142393072</lat>
+						<lon>-87.693026661873</lon>
+
+							<typ>S</typ>
+                			<stpid>4142</stpid>
+                			<stpnm>California &amp; 70th Street</stpnm>
+                			<pdist>2025.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.768022909343</lat>
+						<lon>-87.693069577217</lon>
+
+							<typ>S</typ>
+                			<stpid>4143</stpid>
+                			<stpnm>California &amp; Lithuanian Plaza/69th Street</stpnm>
+                			<pdist>2687.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.769871363104</lat>
+						<lon>-87.693112492561</lon>
+
+							<typ>S</typ>
+                			<stpid>4144</stpid>
+                			<stpnm>California &amp; 68th Street</stpnm>
+                			<pdist>3360.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.771647748998</lat>
+						<lon>-87.693155407906</lon>
+
+							<typ>S</typ>
+                			<stpid>4145</stpid>
+                			<stpnm>California &amp; Marquette Rd</stpnm>
+                			<pdist>4002.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.773516101801</lat>
+						<lon>-87.69319832325</lon>
+
+							<typ>S</typ>
+                			<stpid>4146</stpid>
+                			<stpnm>California &amp; 66th Street</stpnm>
+                			<pdist>4689.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.775304388521</lat>
+						<lon>-87.693246603012</lon>
+
+							<typ>S</typ>
+                			<stpid>4147</stpid>
+                			<stpnm>California &amp; 65th Street</stpnm>
+                			<pdist>5340.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.777104626801</lat>
+						<lon>-87.693289518356</lon>
+
+							<typ>S</typ>
+                			<stpid>4148</stpid>
+                			<stpnm>California &amp; 64th Street</stpnm>
+                			<pdist>6000.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.778976821009</lat>
+						<lon>-87.693348526955</lon>
+
+							<typ>S</typ>
+                			<stpid>14854</stpid>
+                			<stpnm>California &amp; 63rd Street</stpnm>
+                			<pdist>6872.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.78076495547</lat>
+						<lon>-87.693380713463</lon>
+
+							<typ>S</typ>
+                			<stpid>4150</stpid>
+                			<stpnm>California &amp; 62nd Street</stpnm>
+                			<pdist>7352.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.782573040736</lat>
+						<lon>-87.693434357643</lon>
+
+							<typ>S</typ>
+                			<stpid>4151</stpid>
+                			<stpnm>California &amp; 61st Street</stpnm>
+                			<pdist>8010.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.784381075018</lat>
+						<lon>-87.693466544151</lon>
+
+							<typ>S</typ>
+                			<stpid>4152</stpid>
+                			<stpnm>California &amp; 60th Street</stpnm>
+                			<pdist>8686.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.786281056104</lat>
+						<lon>-87.693547010422</lon>
+
+							<typ>S</typ>
+                			<stpid>4153</stpid>
+                			<stpnm>California &amp; 59th Street</stpnm>
+                			<pdist>9353.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.788068986881</lat>
+						<lon>-87.693589925766</lon>
+
+							<typ>S</typ>
+                			<stpid>4154</stpid>
+                			<stpnm>California &amp; 58th Street</stpnm>
+                			<pdist>10009.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.790020854376</lat>
+						<lon>-87.693638205528</lon>
+
+							<typ>S</typ>
+                			<stpid>4155</stpid>
+                			<stpnm>California &amp; 57th Street</stpnm>
+                			<pdist>10689.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.791672695806</lat>
+						<lon>-87.693686485291</lon>
+
+							<typ>S</typ>
+                			<stpid>4156</stpid>
+                			<stpnm>California &amp; 56th Street</stpnm>
+                			<pdist>11351.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.793484472927</lat>
+						<lon>-87.693740129471</lon>
+
+							<typ>S</typ>
+                			<stpid>4157</stpid>
+                			<stpnm>California &amp; 55th Street</stpnm>
+                			<pdist>12002.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.79543617553</lat>
+						<lon>-87.693788409233</lon>
+
+							<typ>S</typ>
+                			<stpid>4158</stpid>
+                			<stpnm>California &amp; 54th Street</stpnm>
+                			<pdist>12685.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.797231849404</lat>
+						<lon>-87.693852782249</lon>
+
+							<typ>S</typ>
+                			<stpid>4159</stpid>
+                			<stpnm>California &amp; 53rd Street</stpnm>
+                			<pdist>13345.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.799087459523</lat>
+						<lon>-87.693895697594</lon>
+
+							<typ>S</typ>
+                			<stpid>4160</stpid>
+                			<stpnm>California &amp; 52nd Street</stpnm>
+                			<pdist>14016.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.800855038159</lat>
+						<lon>-87.693938612938</lon>
+
+							<typ>S</typ>
+                			<stpid>4161</stpid>
+                			<stpnm>California &amp; 51st Street</stpnm>
+                			<pdist>14680.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.800975007792</lat>
+						<lon>-87.693938612938</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.800979006776</lat>
+						<lon>-87.692758440971</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.800999001692</lat>
+						<lon>-87.691648006439</lon>
+
+							<typ>S</typ>
+                			<stpid>9159</stpid>
+                			<stpnm>51st Street &amp; Washtenaw</stpnm>
+                			<pdist>15309.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.801026994564</lat>
+						<lon>-87.690301537514</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.801038991505</lat>
+						<lon>-87.689228653908</lon>
+
+							<typ>S</typ>
+                			<stpid>9160</stpid>
+                			<stpnm>51st Street &amp; Rockwell</stpnm>
+                			<pdist>15978.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.801066984359</lat>
+						<lon>-87.687892913818</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.801078981293</lat>
+						<lon>-87.686841487885</lon>
+
+							<typ>S</typ>
+                			<stpid>9161</stpid>
+                			<stpnm>51st Street &amp; Campbell</stpnm>
+                			<pdist>16659.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.801122970031</lat>
+						<lon>-87.684175372124</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.80142289244</lat>
+						<lon>-87.684180736542</lon>
+
+							<typ>S</typ>
+                			<stpid>4162</stpid>
+                			<stpnm>Western &amp; 51st Street</stpnm>
+                			<pdist>17488.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.802834508393</lat>
+						<lon>-87.684223651886</lon>
+
+							<typ>S</typ>
+                			<stpid>8336</stpid>
+                			<stpnm>Western &amp; 50th Street</stpnm>
+                			<pdist>17994.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.804821914967</lat>
+						<lon>-87.684357762337</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.804825913711</lat>
+						<lon>-87.684153914452</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.805129817513</lat>
+						<lon>-87.684143185616</lon>
+
+							<typ>S</typ>
+                			<stpid>8337</stpid>
+                			<stpnm>Western Orange Line Station</stpnm>
+                			<pdist>18850.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.805141813686</lat>
+						<lon>-87.684336304665</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.806605329955</lat>
+						<lon>-87.684330940247</lon>
+
+							<typ>S</typ>
+                			<stpid>8338</stpid>
+                			<stpnm>Western &amp; 48th Street</stpnm>
+                			<pdist>19394.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.808452671609</lat>
+						<lon>-87.684389948845</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.808448673091</lat>
+						<lon>-87.684765458107</lon>
+
+							<typ>S</typ>
+                			<stpid>8091</stpid>
+                			<stpnm>47th Street &amp; Western Avenue</stpnm>
+                			<pdist>20187.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.808420683462</lat>
+						<lon>-87.687029242516</lon>
+
+							<typ>S</typ>
+                			<stpid>8092</stpid>
+                			<stpnm>47th Street &amp; Campbell</stpnm>
+                			<pdist>20781.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.808404689383</lat>
+						<lon>-87.688086032867</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.808376699734</lat>
+						<lon>-87.689137458801</lon>
+
+							<typ>S</typ>
+                			<stpid>8093</stpid>
+                			<stpnm>47th Street &amp; Rockwell</stpnm>
+                			<pdist>21344.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.808376699734</lat>
+						<lon>-87.689298391342</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.808344711549</lat>
+						<lon>-87.691599726677</lon>
+
+							<typ>S</typ>
+                			<stpid>8094</stpid>
+                			<stpnm>47th Street &amp; Washtenaw</stpnm>
+                			<pdist>22009.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.808316721874</lat>
+						<lon>-87.69387960434</lon>
+
+							<typ>S</typ>
+                			<stpid>8095</stpid>
+                			<stpnm>47th Street &amp; California</stpnm>
+                			<pdist>22689.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.808312723349</lat>
+						<lon>-87.694163918495</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.810004077558</lat>
+						<lon>-87.694196105003</lon>
+
+							<typ>S</typ>
+                			<stpid>4165</stpid>
+                			<stpnm>California &amp; 46th Street</stpnm>
+                			<pdist>23297.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.811807339834</lat>
+						<lon>-87.694249749184</lon>
+
+							<typ>S</typ>
+                			<stpid>4166</stpid>
+                			<stpnm>California &amp; 45th Street</stpnm>
+                			<pdist>23980.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.813594558562</lat>
+						<lon>-87.694303393364</lon>
+
+							<typ>S</typ>
+                			<stpid>4167</stpid>
+                			<stpnm>California &amp; 44th Street</stpnm>
+                			<pdist>24647.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.815417710177</lat>
+						<lon>-87.694346308708</lon>
+
+							<typ>S</typ>
+                			<stpid>4168</stpid>
+                			<stpnm>California &amp; 43rd Street</stpnm>
+                			<pdist>25307.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.817264797703</lat>
+						<lon>-87.694416046143</lon>
+
+							<typ>S</typ>
+                			<stpid>4169</stpid>
+                			<stpnm>California &amp; 42nd Street</stpnm>
+                			<pdist>25976.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.820359149633</lat>
+						<lon>-87.694512605667</lon>
+
+							<typ>S</typ>
+                			<stpid>14836</stpid>
+                			<stpnm>California &amp; Archer</stpnm>
+                			<pdist>27112.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.82269380716</lat>
+						<lon>-87.694566249847</lon>
+
+							<typ>S</typ>
+                			<stpid>4172</stpid>
+                			<stpnm>California &amp; Pershing</stpnm>
+                			<pdist>27937.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.824516699747</lat>
+						<lon>-87.694625258446</lon>
+
+							<typ>S</typ>
+                			<stpid>4173</stpid>
+                			<stpnm>California &amp; 38th Street</stpnm>
+                			<pdist>28589.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.825516070586</lat>
+						<lon>-87.694625258446</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.826327548232</lat>
+						<lon>-87.6946413517</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.827274925376</lat>
+						<lon>-87.69466817379</lon>
+
+							<typ>S</typ>
+                			<stpid>4174</stpid>
+                			<stpnm>California &amp; 36th Place</stpnm>
+                			<pdist>29574.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.828170323799</lat>
+						<lon>-87.694705724716</lon>
+
+							<typ>S</typ>
+                			<stpid>4175</stpid>
+                			<stpnm>California &amp; 36th Street</stpnm>
+                			<pdist>29926.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.829189623725</lat>
+						<lon>-87.694727182388</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.829597339151</lat>
+						<lon>-87.694737911224</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.82996508024891</lat>
+						<lon>-87.69475936889648</lon>
+
+							<typ>S</typ>
+                			<stpid>4176</stpid>
+                			<stpnm>California &amp; 35th Street</stpnm>
+                			<pdist>30564.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.831551938804</lat>
+						<lon>-87.694764733315</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.832231437995</lat>
+						<lon>-87.694813013077</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.832747053156</lat>
+						<lon>-87.694845199585</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.833682344475</lat>
+						<lon>-87.694850564003</lon>
+
+							<typ>S</typ>
+                			<stpid>4177</stpid>
+                			<stpnm>California &amp; 33rd Street</stpnm>
+                			<pdist>32089.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.83606048093</lat>
+						<lon>-87.694936394691</lon>
+
+							<typ>S</typ>
+                			<stpid>4178</stpid>
+                			<stpnm>3154 S California</stpnm>
+                			<pdist>32611.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.837307468428</lat>
+						<lon>-87.694963216782</lon>
+
+							<typ>S</typ>
+                			<stpid>4179</stpid>
+                			<stpnm>California &amp; 31st Street</stpnm>
+                			<pdist>33269.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.838502475314</lat>
+						<lon>-87.695000767708</lon>
+
+							<typ>S</typ>
+                			<stpid>4180</stpid>
+                			<stpnm>California &amp; 30th Street</stpnm>
+                			<pdist>33691.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.838766253091</lat>
+						<lon>-87.695011496544</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.839961232737</lat>
+						<lon>-87.69504904747</lon>
+
+							<typ>S</typ>
+                			<stpid>4181</stpid>
+                			<stpnm>2900 S California</stpnm>
+                			<pdist>34233.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.842359117887</lat>
+						<lon>-87.695097327232</lon>
+
+							<typ>S</typ>
+                			<stpid>4182</stpid>
+                			<stpnm>2800 S California</stpnm>
+                			<pdist>34827.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.843534048808</lat>
+						<lon>-87.695118784904</lon>
+
+							<typ>S</typ>
+                			<stpid>4183</stpid>
+                			<stpnm>Cook County Criminal Court</stpnm>
+                			<pdist>35570.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.844589070434</lat>
+						<lon>-87.695134878159</lon>
+
+							<typ>S</typ>
+                			<stpid>4184</stpid>
+                			<stpnm>California &amp; 26th Street</stpnm>
+                			<pdist>35967.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.844712954408</lat>
+						<lon>-87.695140242577</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.845464245627</lat>
+						<lon>-87.695183157921</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.845895834465</lat>
+						<lon>-87.695199251175</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.846343405</lat>
+						<lon>-87.695226073265</lon>
+
+							<typ>S</typ>
+                			<stpid>4185</stpid>
+                			<stpnm>California &amp; 25th Street</stpnm>
+                			<pdist>36644.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.847897889053</lat>
+						<lon>-87.695247530937</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.848161628101</lat>
+						<lon>-87.695274353027</lon>
+
+							<typ>S</typ>
+                			<stpid>15244</stpid>
+                			<stpnm>California &amp; 24th Boulevard</stpnm>
+                			<pdist>37291.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.849987791375</lat>
+						<lon>-87.695338726044</lon>
+
+							<typ>S</typ>
+                			<stpid>4187</stpid>
+                			<stpnm>California &amp; 23rd Street</stpnm>
+                			<pdist>37968.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.851821894137</lat>
+						<lon>-87.695392370224</lon>
+
+							<typ>S</typ>
+                			<stpid>14606</stpid>
+                			<stpnm>California &amp; Cermak</stpnm>
+                			<pdist>38616.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.853631970138</lat>
+						<lon>-87.695446014404</lon>
+
+							<typ>S</typ>
+                			<stpid>14607</stpid>
+                			<stpnm>California Pink Line Station</stpnm>
+                			<pdist>39303.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.855410030243</lat>
+						<lon>-87.695499658585</lon>
+
+							<typ>S</typ>
+                			<stpid>4191</stpid>
+                			<stpnm>California &amp; 19th Street</stpnm>
+                			<pdist>39974.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.855605813615</lat>
+						<lon>-87.695515751839</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.857311900494</lat>
+						<lon>-87.695564031601</lon>
+
+							<typ>S</typ>
+                			<stpid>4192</stpid>
+                			<stpnm>California &amp; 18th Street</stpnm>
+                			<pdist>40643.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.859097849005</lat>
+						<lon>-87.695628404617</lon>
+
+							<typ>S</typ>
+                			<stpid>4193</stpid>
+                			<stpnm>California &amp; 16th Street</stpnm>
+                			<pdist>41307.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.860136632802</lat>
+						<lon>-87.695665955544</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.861031571466</lat>
+						<lon>-87.695698142052</lon>
+
+							<typ>S</typ>
+                			<stpid>4194</stpid>
+                			<stpnm>California &amp; Ogden</stpnm>
+                			<pdist>41984.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.861526978555</lat>
+						<lon>-87.69570350647</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.862437878346</lat>
+						<lon>-87.695724964142</lon>
+
+							<typ>S</typ>
+                			<stpid>4195</stpid>
+                			<stpnm>California &amp; 14th Street</stpnm>
+                			<pdist>42539.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.86335276025</lat>
+						<lon>-87.695751786232</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.864271624095</lat>
+						<lon>-87.695789337158</lon>
+
+							<typ>S</typ>
+                			<stpid>4196</stpid>
+                			<stpnm>1303 S California</stpnm>
+                			<pdist>43337.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.86560595069</lat>
+						<lon>-87.695848345757</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.866408930218</lat>
+						<lon>-87.695848345757</lon>
+
+							<typ>S</typ>
+                			<stpid>4197</stpid>
+                			<stpnm>California &amp; Roosevelt</stpnm>
+                			<pdist>43963.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.867887025369</lat>
+						<lon>-87.695875167847</lon>
+
+							<typ>S</typ>
+                			<stpid>4198</stpid>
+                			<stpnm>California &amp; Fillmore</stpnm>
+                			<pdist>44476.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.868410342758</lat>
+						<lon>-87.695891261101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.869129397832</lat>
+						<lon>-87.695912718773</lon>
+
+							<typ>S</typ>
+                			<stpid>16098</stpid>
+                			<stpnm>California &amp; Taylor</stpnm>
+                			<pdist>45075.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.869492917042</lat>
+						<lon>-87.695918083191</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.870950967822</lat>
+						<lon>-87.695950269699</lon>
+
+							<typ>S</typ>
+                			<stpid>4201</stpid>
+                			<stpnm>California &amp; Polk</stpnm>
+                			<pdist>45636.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.871997548152</lat>
+						<lon>-87.695993185043</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.872796452901</lat>
+						<lon>-87.696003913879</lon>
+
+							<typ>S</typ>
+                			<stpid>4202</stpid>
+                			<stpnm>California &amp; Flournoy</stpnm>
+                			<pdist>46303.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.873607331011</lat>
+						<lon>-87.696036100388</lon>
+
+							<typ>S</typ>
+                			<stpid>4203</stpid>
+                			<stpnm>California &amp; Harrison</stpnm>
+                			<pdist>46620.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.874641884698</lat>
+						<lon>-87.696062922478</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.87537285269</lat>
+						<lon>-87.69608438015</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.876567148525</lat>
+						<lon>-87.696105837822</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.877318065582</lat>
+						<lon>-87.696127295494</lon>
+
+							<typ>S</typ>
+                			<stpid>14609</stpid>
+                			<stpnm>California &amp; Jackson</stpnm>
+                			<pdist>48073.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.878336582597</lat>
+						<lon>-87.696159482002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.879171355025</lat>
+						<lon>-87.696175575256</lon>
+
+							<typ>S</typ>
+                			<stpid>4208</stpid>
+                			<stpnm>California &amp; Wilcox</stpnm>
+                			<pdist>48554.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.880968674915</lat>
+						<lon>-87.696218490601</lon>
+
+							<typ>S</typ>
+                			<stpid>14611</stpid>
+                			<stpnm>California &amp; Madison</stpnm>
+                			<pdist>49382.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.881995121594</lat>
+						<lon>-87.696261405945</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.882789907502</lat>
+						<lon>-87.696277499199</lon>
+
+							<typ>S</typ>
+                			<stpid>4211</stpid>
+                			<stpnm>California &amp; Washington</stpnm>
+                			<pdist>49852.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.884163785454</lat>
+						<lon>-87.696320414543</lon>
+
+							<typ>S</typ>
+                			<stpid>4212</stpid>
+                			<stpnm>California &amp; Lake (Green Line)</stpnm>
+                			<pdist>50336.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.88550967794</lat>
+						<lon>-87.696347236633</lon>
+
+							<typ>S</typ>
+                			<stpid>4213</stpid>
+                			<stpnm>California &amp; Walnut</stpnm>
+                			<pdist>50808.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.886560013508</lat>
+						<lon>-87.696374058723</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.886560013508</lat>
+						<lon>-87.696497440338</lon>
+
+							<typ>S</typ>
+                			<stpid>4214</stpid>
+                			<stpnm>Fulton &amp; California</stpnm>
+                			<pdist>51333.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.886544038952</lat>
+						<lon>-87.698745131493</lon>
+
+							<typ>S</typ>
+                			<stpid>4215</stpid>
+                			<stpnm>Fulton &amp; Francisco</stpnm>
+                			<pdist>51867.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.886544038952</lat>
+						<lon>-87.701293230057</lon>
+
+							<typ>S</typ>
+                			<stpid>4216</stpid>
+                			<stpnm>Fulton &amp; Sacramento</stpnm>
+                			<pdist>52507.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.888381086723</lat>
+						<lon>-87.701352238655</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.889431375083</lat>
+						<lon>-87.701357603073</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.889615073934</lat>
+						<lon>-87.701379060745</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.889814746</lat>
+						<lon>-87.701427340508</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.890289963005</lat>
+						<lon>-87.701599001884</lon>
+
+							<typ>S</typ>
+                			<stpid>4217</stpid>
+                			<stpnm>Sacramento &amp; Franklin Boulevard</stpnm>
+                			<pdist>53897.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.890765176475</lat>
+						<lon>-87.701797485352</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.891040718801</lat>
+						<lon>-87.701904773712</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.891336226641</lat>
+						<lon>-87.701915502548</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.891803445707</lat>
+						<lon>-87.701931595802</lon>
+
+							<typ>S</typ>
+                			<stpid>4218</stpid>
+                			<stpnm>Sacramento &amp; Ohio</stpnm>
+                			<pdist>54482.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.892829718323</lat>
+						<lon>-87.701979875565</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.893284946812</lat>
+						<lon>-87.702087163925</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.894083585443</lat>
+						<lon>-87.702092528343</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.894391058654</lat>
+						<lon>-87.702097892761</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.894654605942</lat>
+						<lon>-87.702108621597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.894942110835</lat>
+						<lon>-87.702130079269</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.895425275864</lat>
+						<lon>-87.702140808105</lon>
+
+							<typ>S</typ>
+                			<stpid>15567</stpid>
+                			<stpnm>Sacramento &amp; Chicago</stpnm>
+                			<pdist>55751.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.896587252827</lat>
+						<lon>-87.702178359032</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.897014503646</lat>
+						<lon>-87.703213691711</lon>
+
+							<typ>S</typ>
+                			<stpid>800</stpid>
+                			<stpnm>Grand &amp; Sacramento</stpnm>
+                			<pdist>56392.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.897266061202</lat>
+						<lon>-87.703857421875</lon>
+
+							<typ>S</typ>
+                			<stpid>801</stpid>
+                			<stpnm>Grand &amp; Albany</stpnm>
+                			<pdist>56772.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.898172458782</lat>
+						<lon>-87.706207036972</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.898384082797</lat>
+						<lon>-87.706716656685</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.897769173342</lat>
+						<lon>-87.706668376923</lon>
+
+							<typ>S</typ>
+                			<stpid>15568</stpid>
+                			<stpnm>Kedzie &amp; Grand</stpnm>
+                			<pdist>57643.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.896754959097</lat>
+						<lon>-87.706625461578</lon>
+
+							<typ>S</typ>
+                			<stpid>15569</stpid>
+                			<stpnm>830 N Kedzie</stpnm>
+                			<pdist>58119.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.895517116737</lat>
+						<lon>-87.706587910652</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>41.895537082126</lat>
+						<lon>-87.70545065403</lon>
+
+							<typ>S</typ>
+                			<stpid>15562</stpid>
+                			<stpnm>Chicago &amp; Troy</stpnm>
+                			<pdist>58848.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>2453</pid>
+				<ln>60310.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.895537082126</lat>
+						<lon>-87.70545065403</lon>
+
+							<typ>S</typ>
+                			<stpid>15562</stpid>
+                			<stpnm>Chicago &amp; Troy</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.895549061357</lat>
+						<lon>-87.703911066055</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.895565033661</lat>
+						<lon>-87.702489495277</lon>
+
+							<typ>S</typ>
+                			<stpid>4219</stpid>
+                			<stpnm>Sacrmnto &amp; Chicago</stpnm>
+                			<pdist>790.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.895365379571</lat>
+						<lon>-87.702435851097</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.895165724856</lat>
+						<lon>-87.702355384827</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.894962076404</lat>
+						<lon>-87.702333927155</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.894654605942</lat>
+						<lon>-87.702328562737</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.894415017543</lat>
+						<lon>-87.702333927155</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.894119523947</lat>
+						<lon>-87.702425122261</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.892067003672</lat>
+						<lon>-87.702382206917</lon>
+
+							<typ>S</typ>
+                			<stpid>4220</stpid>
+                			<stpnm>Sacrmnto &amp; Ohio</stpnm>
+                			<pdist>1987.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.890673328769</lat>
+						<lon>-87.702323198318</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.890525573487</lat>
+						<lon>-87.702382206917</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.890417751849</lat>
+						<lon>-87.702521681786</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.890369831062</lat>
+						<lon>-87.702666521072</lon>
+
+							<typ>S</typ>
+                			<stpid>4221</stpid>
+                			<stpnm>Whipple &amp; Franklin Boulevard</stpnm>
+                			<pdist>2717.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.890361844261</lat>
+						<lon>-87.702773809433</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.89009827926</lat>
+						<lon>-87.702757716179</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.890106266094</lat>
+						<lon>-87.702596783638</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.890106266094</lat>
+						<lon>-87.702409029007</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.890050358234</lat>
+						<lon>-87.702269554138</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.890002437172</lat>
+						<lon>-87.702060341835</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.889890621221</lat>
+						<lon>-87.701813578606</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.889782798511</lat>
+						<lon>-87.701679468155</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.889754844445</lat>
+						<lon>-87.701491713524</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.889619067382</lat>
+						<lon>-87.701480984688</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.889543191838</lat>
+						<lon>-87.701459527016</lon>
+
+							<typ>S</typ>
+                			<stpid>4222</stpid>
+                			<stpnm>Sacramento &amp; Franklin</stpnm>
+                			<pdist>3230.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.889411407784</lat>
+						<lon>-87.701443433762</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.887913842625</lat>
+						<lon>-87.701421976089</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.886476147044</lat>
+						<lon>-87.701379060745</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.886480140687</lat>
+						<lon>-87.701223492622</lon>
+
+							<typ>S</typ>
+                			<stpid>4223</stpid>
+                			<stpnm>Fulton &amp; Sacramento</stpnm>
+                			<pdist>4391.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.886476147044</lat>
+						<lon>-87.699029445648</lon>
+
+							<typ>S</typ>
+                			<stpid>4224</stpid>
+                			<stpnm>Fulton &amp; Francisco</stpnm>
+                			<pdist>4930.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.886504102544</lat>
+						<lon>-87.696567177773</lon>
+
+							<typ>S</typ>
+                			<stpid>4225</stpid>
+                			<stpnm>Fulton &amp; California</stpnm>
+                			<pdist>5594.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.886508096186</lat>
+						<lon>-87.696459889412</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.885325967284</lat>
+						<lon>-87.696422338486</lon>
+
+							<typ>S</typ>
+                			<stpid>4226</stpid>
+                			<stpnm>California &amp; Walnut</stpnm>
+                			<pdist>6091.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.884039977896</lat>
+						<lon>-87.696395516396</lon>
+
+							<typ>S</typ>
+                			<stpid>15302</stpid>
+                			<stpnm>California &amp; Lake (Green Line)</stpnm>
+                			<pdist>6585.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.882686066688</lat>
+						<lon>-87.696357965469</lon>
+
+							<typ>S</typ>
+                			<stpid>16105</stpid>
+                			<stpnm>California &amp; Washington</stpnm>
+                			<pdist>7013.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.881987133746</lat>
+						<lon>-87.696341872215</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.881216301693</lat>
+						<lon>-87.696309685707</lon>
+
+							<typ>S</typ>
+                			<stpid>14612</stpid>
+                			<stpnm>California &amp; Madison</stpnm>
+                			<pdist>7704.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.879043543686</lat>
+						<lon>-87.696256041527</lon>
+
+							<typ>S</typ>
+                			<stpid>16106</stpid>
+                			<stpnm>California &amp; Wilcox</stpnm>
+                			<pdist>8326.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.877525764487</lat>
+						<lon>-87.696207761765</lon>
+
+							<typ>S</typ>
+                			<stpid>14615</stpid>
+                			<stpnm>California &amp; Jackson</stpnm>
+                			<pdist>9045.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.87632349801</lat>
+						<lon>-87.696186304092</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.875432767729</lat>
+						<lon>-87.696154117584</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.874765710466</lat>
+						<lon>-87.696154117584</lon>
+
+							<typ>S</typ>
+                			<stpid>16099</stpid>
+                			<stpnm>California &amp; Congress</stpnm>
+                			<pdist>9930.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.874498086732</lat>
+						<lon>-87.696148753166</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.873603336563</lat>
+						<lon>-87.696121931076</lon>
+
+							<typ>S</typ>
+                			<stpid>15303</stpid>
+                			<stpnm>California &amp; Harrison</stpnm>
+                			<pdist>10350.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.871198633417</lat>
+						<lon>-87.696046829224</lon>
+
+							<typ>S</typ>
+                			<stpid>4238</stpid>
+                			<stpnm>California &amp; Polk</stpnm>
+                			<pdist>11208.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.869492917042</lat>
+						<lon>-87.696003913879</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.869341118063</lat>
+						<lon>-87.695998549461</lon>
+
+							<typ>S</typ>
+                			<stpid>4240</stpid>
+                			<stpnm>California &amp; Taylor</stpnm>
+                			<pdist>11872.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.868434311391</lat>
+						<lon>-87.695971727371</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.868142692415</lat>
+						<lon>-87.695966362953</lon>
+
+							<typ>S</typ>
+                			<stpid>16100</stpid>
+                			<stpnm>California &amp; Fillmore</stpnm>
+                			<pdist>12327.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.86646086387</lat>
+						<lon>-87.695918083191</lon>
+
+							<typ>S</typ>
+                			<stpid>14616</stpid>
+                			<stpnm>California &amp; Roosevelt</stpnm>
+                			<pdist>13063.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.86569783443</lat>
+						<lon>-87.695923447609</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.864463385319</lat>
+						<lon>-87.695880532265</lon>
+
+							<typ>S</typ>
+                			<stpid>4243</stpid>
+                			<stpnm>1258 S California</stpnm>
+                			<pdist>13771.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.863320799531</lat>
+						<lon>-87.695826888084</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.862657611002</lat>
+						<lon>-87.695816159248</lon>
+
+							<typ>S</typ>
+                			<stpid>4244</stpid>
+                			<stpnm>California &amp; 14th Street</stpnm>
+                			<pdist>14544.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.861606882564</lat>
+						<lon>-87.695794701576</lon>
+
+							<typ>S</typ>
+                			<stpid>4245</stpid>
+                			<stpnm>California &amp; Ogden</stpnm>
+                			<pdist>14950.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.860851785686</lat>
+						<lon>-87.695767879486</lon>
+
+							<typ>S</typ>
+                			<stpid>4246</stpid>
+                			<stpnm>California &amp; Ogden</stpnm>
+                			<pdist>15234.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.860148618671</lat>
+						<lon>-87.695746421814</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.859317593138</lat>
+						<lon>-87.695724964142</lon>
+
+							<typ>S</typ>
+                			<stpid>4247</stpid>
+                			<stpnm>California &amp; 16th Street</stpnm>
+                			<pdist>15830.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.857547632573</lat>
+						<lon>-87.695655226707</lon>
+
+							<typ>S</typ>
+                			<stpid>4248</stpid>
+                			<stpnm>California &amp; 18th Street</stpnm>
+                			<pdist>16426.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.85572568069</lat>
+						<lon>-87.695606946945</lon>
+
+							<typ>S</typ>
+                			<stpid>4249</stpid>
+                			<stpnm>California &amp; 19th Street</stpnm>
+                			<pdist>17084.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.854698812132</lat>
+						<lon>-87.695564031601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.854167391191</lat>
+						<lon>-87.695558667183</lon>
+
+							<typ>S</typ>
+                			<stpid>15304</stpid>
+                			<stpnm>California Pink Line Station</stpnm>
+                			<pdist>17623.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.853727866775</lat>
+						<lon>-87.695526480675</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.852812847167</lat>
+						<lon>-87.695505023003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.852029675883</lat>
+						<lon>-87.695488929749</lon>
+
+							<typ>S</typ>
+                			<stpid>4252</stpid>
+                			<stpnm>California &amp; Cermak</stpnm>
+                			<pdist>18430.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.850235538175</lat>
+						<lon>-87.695435285568</lon>
+
+							<typ>S</typ>
+                			<stpid>4253</stpid>
+                			<stpnm>California &amp; 23rd Street</stpnm>
+                			<pdist>19095.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.848313477362</lat>
+						<lon>-87.69537627697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.848049738941</lat>
+						<lon>-87.69534945488</lon>
+
+							<typ>S</typ>
+                			<stpid>4254</stpid>
+                			<stpnm>California &amp; 24th Boulevard</stpnm>
+                			<pdist>19896.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.846551204541</lat>
+						<lon>-87.695311903954</lon>
+
+							<typ>S</typ>
+                			<stpid>4255</stpid>
+                			<stpnm>California &amp; 25th Street</stpnm>
+                			<pdist>20434.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.845588127906</lat>
+						<lon>-87.695274353027</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.845256442555</lat>
+						<lon>-87.695252895355</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.844788883176</lat>
+						<lon>-87.695220708847</lon>
+
+							<typ>S</typ>
+                			<stpid>4256</stpid>
+                			<stpnm>California &amp; 26th Street</stpnm>
+                			<pdist>21082.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.84360198633</lat>
+						<lon>-87.695193886757</lon>
+
+							<typ>S</typ>
+                			<stpid>4257</stpid>
+                			<stpnm>Cook County Criminal Court</stpnm>
+                			<pdist>21504.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.842642861684</lat>
+						<lon>-87.695188522339</lon>
+
+							<typ>S</typ>
+                			<stpid>4258</stpid>
+                			<stpnm>2800 S California</stpnm>
+                			<pdist>22492.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.84017704608</lat>
+						<lon>-87.695134878159</lon>
+
+							<typ>S</typ>
+                			<stpid>4259</stpid>
+                			<stpnm>2900 S California</stpnm>
+                			<pdist>22914.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.837579244529</lat>
+						<lon>-87.695054411888</lon>
+
+							<typ>S</typ>
+                			<stpid>4261</stpid>
+                			<stpnm>California &amp; 31st Street</stpnm>
+                			<pdist>23690.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.836795886753</lat>
+						<lon>-87.69504904747</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.836244333178</lat>
+						<lon>-87.695032954216</lon>
+
+							<typ>S</typ>
+                			<stpid>4262</stpid>
+                			<stpnm>3154 S California</stpnm>
+                			<pdist>24425.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.83374229858</lat>
+						<lon>-87.694941759109</lon>
+
+							<typ>S</typ>
+                			<stpid>4263</stpid>
+                			<stpnm>California &amp; 33rd Street</stpnm>
+                			<pdist>24957.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.833218697495</lat>
+						<lon>-87.694925665855</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.832723071147</lat>
+						<lon>-87.694931030273</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.831567927103</lat>
+						<lon>-87.694855928421</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.831168218427</lat>
+						<lon>-87.694834470749</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.830348807838</lat>
+						<lon>-87.694829106331</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.829901125427064</lat>
+						<lon>-87.69485056400299</lon>
+
+							<typ>S</typ>
+                			<stpid>4264</stpid>
+                			<stpnm>California &amp; 35th Street</stpnm>
+                			<pdist>26527.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.828334212333</lat>
+						<lon>-87.694823741913</lon>
+
+							<typ>S</typ>
+                			<stpid>4265</stpid>
+                			<stpnm>California &amp; 36th Street</stpnm>
+                			<pdist>27021.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.827482786841</lat>
+						<lon>-87.694786190987</lon>
+
+							<typ>S</typ>
+                			<stpid>4266</stpid>
+                			<stpnm>California &amp; 36th Place</stpnm>
+                			<pdist>27363.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.82481251514</lat>
+						<lon>-87.694716453552</lon>
+
+							<typ>S</typ>
+                			<stpid>4267</stpid>
+                			<stpnm>California &amp; 38th Street</stpnm>
+                			<pdist>28354.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.822929666799</lat>
+						<lon>-87.694657444954</lon>
+
+							<typ>S</typ>
+                			<stpid>4268</stpid>
+                			<stpnm>California &amp; Pershing</stpnm>
+                			<pdist>29010.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.822645835602</lat>
+						<lon>-87.694646716118</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.820231220734</lat>
+						<lon>-87.69458770752</lon>
+
+							<typ>S</typ>
+                			<stpid>4270</stpid>
+                			<stpnm>California &amp; Archer</stpnm>
+                			<pdist>29981.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.817420718238</lat>
+						<lon>-87.694517970085</lon>
+
+							<typ>S</typ>
+                			<stpid>4271</stpid>
+                			<stpnm>California &amp; 42nd Street</stpnm>
+                			<pdist>30994.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.815633606273</lat>
+						<lon>-87.694442868233</lon>
+
+							<typ>S</typ>
+                			<stpid>4272</stpid>
+                			<stpnm>California &amp; 43rd Street</stpnm>
+                			<pdist>31661.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.813838448079</lat>
+						<lon>-87.694389224052</lon>
+
+							<typ>S</typ>
+                			<stpid>4273</stpid>
+                			<stpnm>California &amp; 44th Street</stpnm>
+                			<pdist>32325.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.812003256625</lat>
+						<lon>-87.694346308708</lon>
+
+							<typ>S</typ>
+                			<stpid>4274</stpid>
+                			<stpnm>California &amp; 45th Street</stpnm>
+                			<pdist>32984.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.810196001456</lat>
+						<lon>-87.694292664528</lon>
+
+							<typ>S</typ>
+                			<stpid>4275</stpid>
+                			<stpnm>California &amp; 46th Street</stpnm>
+                			<pdist>33653.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.808244748369</lat>
+						<lon>-87.694255113602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.808240749838</lat>
+						<lon>-87.693831324577</lon>
+
+							<typ>S</typ>
+                			<stpid>4276</stpid>
+                			<stpnm>47th Street &amp; California</stpnm>
+                			<pdist>34466.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.808276736604</lat>
+						<lon>-87.69186258316</lon>
+
+							<typ>S</typ>
+                			<stpid>8152</stpid>
+                			<stpnm>47th Street &amp; Washtenaw</stpnm>
+                			<pdist>34973.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.808292730715</lat>
+						<lon>-87.690494656563</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.808304726296</lat>
+						<lon>-87.689475417137</lon>
+
+							<typ>S</typ>
+                			<stpid>8153</stpid>
+                			<stpnm>47th Street &amp; Rockwell</stpnm>
+                			<pdist>35645.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.808360705644</lat>
+						<lon>-87.687039971352</lon>
+
+							<typ>S</typ>
+                			<stpid>8154</stpid>
+                			<stpnm>47th Street &amp; Campbell</stpnm>
+                			<pdist>36320.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.80839269382</lat>
+						<lon>-87.684550881386</lon>
+
+							<typ>S</typ>
+                			<stpid>8155</stpid>
+                			<stpnm>47th Street &amp; Western Avenue</stpnm>
+                			<pdist>36964.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.80839269382</lat>
+						<lon>-87.684465050697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.806721290197</lat>
+						<lon>-87.684422135353</lon>
+
+							<typ>S</typ>
+                			<stpid>8276</stpid>
+                			<stpnm>Western &amp; 48th Street</stpnm>
+                			<pdist>37593.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.805697633911</lat>
+						<lon>-87.684406042099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.80509382898</lat>
+						<lon>-87.684422135353</lon>
+
+							<typ>S</typ>
+                			<stpid>14130</stpid>
+                			<stpnm>Western Orange Line Station</stpnm>
+                			<pdist>38260.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.804825913711</lat>
+						<lon>-87.684432864189</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.804214103001</lat>
+						<lon>-87.684389948845</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.803146419338</lat>
+						<lon>-87.684330940247</lon>
+
+							<typ>S</typ>
+                			<stpid>8278</stpid>
+                			<stpnm>Western &amp; 50th Street</stpnm>
+                			<pdist>39171.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.801302923645</lat>
+						<lon>-87.684255838394</lon>
+
+							<typ>S</typ>
+                			<stpid>8279</stpid>
+                			<stpnm>Western &amp; 51st Street</stpnm>
+                			<pdist>39826.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.801186953596</lat>
+						<lon>-87.684255838394</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.801174956683</lat>
+						<lon>-87.685478925705</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.801150962849</lat>
+						<lon>-87.686492800713</lon>
+
+							<typ>S</typ>
+                			<stpid>9216</stpid>
+                			<stpnm>51st Street &amp; Campbell</stpnm>
+                			<pdist>40452.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.80113096798</lat>
+						<lon>-87.687844634056</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.80110697413</lat>
+						<lon>-87.688997983932</lon>
+
+							<typ>S</typ>
+                			<stpid>9217</stpid>
+                			<stpnm>51st Street &amp; Rockwell</stpnm>
+                			<pdist>41123.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.801058986402</lat>
+						<lon>-87.691411972046</lon>
+
+							<typ>S</typ>
+                			<stpid>9218</stpid>
+                			<stpnm>51st Street &amp; Washtenaw</stpnm>
+                			<pdist>41796.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.801038991505</lat>
+						<lon>-87.694024443626</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.800731069301</lat>
+						<lon>-87.694019079208</lon>
+
+							<typ>S</typ>
+                			<stpid>4277</stpid>
+                			<stpnm>California &amp; 51st Street</stpnm>
+                			<pdist>42623.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.799267418853</lat>
+						<lon>-87.693981528282</lon>
+
+							<typ>S</typ>
+                			<stpid>4278</stpid>
+                			<stpnm>California &amp; 52nd Street</stpnm>
+                			<pdist>43125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.797447806793</lat>
+						<lon>-87.693943977356</lon>
+
+							<typ>S</typ>
+                			<stpid>4279</stpid>
+                			<stpnm>California &amp; 53rd Street</stpnm>
+                			<pdist>43798.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.79562414375</lat>
+						<lon>-87.693884968758</lon>
+
+							<typ>S</typ>
+                			<stpid>4280</stpid>
+                			<stpnm>California &amp; 54th Street</stpnm>
+                			<pdist>44441.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.793860420263</lat>
+						<lon>-87.693836688995</lon>
+
+							<typ>S</typ>
+                			<stpid>4281</stpid>
+                			<stpnm>California &amp; 55th Street</stpnm>
+                			<pdist>45130.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.791940666068</lat>
+						<lon>-87.693772315979</lon>
+
+							<typ>S</typ>
+                			<stpid>4282</stpid>
+                			<stpnm>California &amp; 56th Street</stpnm>
+                			<pdist>45786.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.790108847003</lat>
+						<lon>-87.693718671799</lon>
+
+							<typ>S</typ>
+                			<stpid>4283</stpid>
+                			<stpnm>California &amp; 57th Street</stpnm>
+                			<pdist>46463.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.788328972662</lat>
+						<lon>-87.693681120872</lon>
+
+							<typ>S</typ>
+                			<stpid>4284</stpid>
+                			<stpnm>California &amp; 58th Street</stpnm>
+                			<pdist>47123.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.786517049823</lat>
+						<lon>-87.693638205528</lon>
+
+							<typ>S</typ>
+                			<stpid>4285</stpid>
+                			<stpnm>California &amp; 59th Street</stpnm>
+                			<pdist>47791.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.784713075772</lat>
+						<lon>-87.693563103676</lon>
+
+							<typ>S</typ>
+                			<stpid>4286</stpid>
+                			<stpnm>California &amp; 60th Street</stpnm>
+                			<pdist>48460.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.784477075413</lat>
+						<lon>-87.69355237484</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.782873049952</lat>
+						<lon>-87.69352555275</lon>
+
+							<typ>S</typ>
+                			<stpid>4287</stpid>
+                			<stpnm>California &amp; 61st Street</stpnm>
+                			<pdist>49133.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.781064973146</lat>
+						<lon>-87.693466544151</lon>
+
+							<typ>S</typ>
+                			<stpid>4288</stpid>
+                			<stpnm>California &amp; 62nd Street</stpnm>
+                			<pdist>49789.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.779188839557</lat>
+						<lon>-87.693434357643</lon>
+
+							<typ>S</typ>
+                			<stpid>4289</stpid>
+                			<stpnm>California &amp; 63rd Street</stpnm>
+                			<pdist>50439.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.777424663872</lat>
+						<lon>-87.693380713463</lon>
+
+							<typ>S</typ>
+                			<stpid>4290</stpid>
+                			<stpnm>California &amp; 64th Street</stpnm>
+                			<pdist>51129.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.775616433443</lat>
+						<lon>-87.693332433701</lon>
+
+							<typ>S</typ>
+                			<stpid>4291</stpid>
+                			<stpnm>California &amp; 65th Street</stpnm>
+                			<pdist>51798.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.773760143866</lat>
+						<lon>-87.693284153938</lon>
+
+							<typ>S</typ>
+                			<stpid>4292</stpid>
+                			<stpnm>California &amp; 66th Street</stpnm>
+                			<pdist>52466.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.772003820432</lat>
+						<lon>-87.69325196743</lon>
+
+							<typ>S</typ>
+                			<stpid>4293</stpid>
+                			<stpnm>California &amp; Marquette Rd</stpnm>
+                			<pdist>53125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.770083411754</lat>
+						<lon>-87.69319832325</lon>
+
+							<typ>S</typ>
+                			<stpid>4294</stpid>
+                			<stpnm>California &amp; 68th Street</stpnm>
+                			<pdist>53884.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.768310983562</lat>
+						<lon>-87.693155407906</lon>
+
+							<typ>S</typ>
+                			<stpid>4295</stpid>
+                			<stpnm>California &amp; Lithuanian Plaza/69th Street</stpnm>
+                			<pdist>54467.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.766362456334</lat>
+						<lon>-87.693117856979</lon>
+
+							<typ>S</typ>
+                			<stpid>4296</stpid>
+                			<stpnm>California &amp; 70th Street</stpnm>
+                			<pdist>55206.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.765030061759</lat>
+						<lon>-87.693085670471</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.764569919066</lat>
+						<lon>-87.693074941635</lon>
+
+							<typ>S</typ>
+                			<stpid>4297</stpid>
+                			<stpnm>California &amp; 71st Street</stpnm>
+                			<pdist>55787.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.764529906502</lat>
+						<lon>-87.695558667183</lon>
+
+							<typ>S</typ>
+                			<stpid>4298</stpid>
+                			<stpnm>71st Street &amp; Francisco</stpnm>
+                			<pdist>56484.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.764493895173</lat>
+						<lon>-87.697763442993</lon>
+
+							<typ>S</typ>
+                			<stpid>4299</stpid>
+                			<stpnm>71st Street &amp; Sacramento</stpnm>
+                			<pdist>57084.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.764449881299</lat>
+						<lon>-87.700451016426</lon>
+
+							<typ>S</typ>
+                			<stpid>4300</stpid>
+                			<stpnm>71st Street &amp; Albany</stpnm>
+                			<pdist>57823.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.76441787119</lat>
+						<lon>-87.702489495277</lon>
+
+							<typ>S</typ>
+                			<stpid>4301</stpid>
+                			<stpnm>71st Street &amp; Kedzie</stpnm>
+                			<pdist>58412.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>41.764413869925</lat>
+						<lon>-87.702741622925</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>41.765154099659</lat>
+						<lon>-87.702768445015</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>41.765166103314</lat>
+						<lon>-87.702484130859</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>41.76534615787</lat>
+						<lon>-87.701615095139</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>150</seq>
+						<lat>41.765538215507</lat>
+						<lon>-87.700917720795</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>151</seq>
+						<lat>41.765586229826</lat>
+						<lon>-87.700638771057</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>152</seq>
+						<lat>41.765618239352</lat>
+						<lon>-87.70035982132</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>153</seq>
+						<lat>41.765638245298</lat>
+						<lon>-87.700086236</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>154</seq>
+						<lat>41.76565425005</lat>
+						<lon>-87.69978582859</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>155</seq>
+						<lat>41.765650248862</lat>
+						<lon>-87.699034810066</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>156</seq>
+						<lat>41.765570225057</lat>
+						<lon>-87.698010206223</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>157</seq>
+						<lat>41.764721966582</lat>
+						<lon>-87.697972655296</lon>
+
+							<typ>S</typ>
+                			<stpid>4139</stpid>
+                			<stpnm>Sacramento &amp; 71st Street</stpnm>
+                			<pdist>60310.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

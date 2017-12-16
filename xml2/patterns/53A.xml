@@ -1,0 +1,2817 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4570</pid>
+				<ln>54305.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.836747925761</lat>
+						<lon>-87.725685238838</lon>
+
+							<typ>S</typ>
+                			<stpid>12831</stpid>
+                			<stpnm>31st Street &amp; Komensky Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.836843847708</lat>
+						<lon>-87.725695967674</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.836851841198</lat>
+						<lon>-87.724596261978</lon>
+
+							<typ>S</typ>
+                			<stpid>7445</stpid>
+                			<stpnm>31st Street &amp; Pulaski</stpnm>
+                			<pdist>281.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.836851841198</lat>
+						<lon>-87.724403142929</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.835141211769</lat>
+						<lon>-87.724344134331</lon>
+
+							<typ>S</typ>
+                			<stpid>12832</stpid>
+                			<stpnm>Pulaski &amp; 32nd Street</stpnm>
+                			<pdist>919.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.833342603482</lat>
+						<lon>-87.724328041077</lon>
+
+							<typ>S</typ>
+                			<stpid>12833</stpid>
+                			<stpnm>Pulaski &amp; 33rd Street</stpnm>
+                			<pdist>1598.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.831404046848</lat>
+						<lon>-87.724258303642</lon>
+
+							<typ>S</typ>
+                			<stpid>12835</stpid>
+                			<stpnm>3400 S Pulaski</stpnm>
+                			<pdist>2484.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.830296844862</lat>
+						<lon>-87.724258303642</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.829505403546</lat>
+						<lon>-87.72423684597</lon>
+
+							<typ>S</typ>
+                			<stpid>17293</stpid>
+                			<stpnm>Pulaski &amp; 36th Street</stpnm>
+                			<pdist>3153.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.828789900198</lat>
+						<lon>-87.72421002388</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.828454130507</lat>
+						<lon>-87.724215388298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.82597177851</lat>
+						<lon>-87.724167108536</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.825855853118</lat>
+						<lon>-87.724226117134</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.825004394665</lat>
+						<lon>-87.724204659462</lon>
+
+							<typ>S</typ>
+                			<stpid>12837</stpid>
+                			<stpnm>3742 S Pulaski</stpnm>
+                			<pdist>4669.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.823609257512</lat>
+						<lon>-87.724188566208</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.822637840339</lat>
+						<lon>-87.72418320179</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.821398562469</lat>
+						<lon>-87.724134922028</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.820535051453</lat>
+						<lon>-87.724097371101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.819375689647</lat>
+						<lon>-87.724043726921</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.818084375755</lat>
+						<lon>-87.724032998085</lon>
+
+							<typ>S</typ>
+                			<stpid>17203</stpid>
+                			<stpnm>Pulaski &amp; 41st Street</stpnm>
+                			<pdist>7097.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.816952955495</lat>
+						<lon>-87.724016904831</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.816189335471</lat>
+						<lon>-87.723995447159</lon>
+
+							<typ>S</typ>
+                			<stpid>12839</stpid>
+                			<stpnm>Pulaski &amp; 42nd Place</stpnm>
+                			<pdist>7647.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.814961927138</lat>
+						<lon>-87.723957896233</lon>
+
+							<typ>S</typ>
+                			<stpid>15225</stpid>
+                			<stpnm>Pulaski &amp; 43rd Street</stpnm>
+                			<pdist>8222.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.813182743008</lat>
+						<lon>-87.723904252052</lon>
+
+							<typ>S</typ>
+                			<stpid>16070</stpid>
+                			<stpnm>Pulaski &amp; 44th Street</stpnm>
+                			<pdist>8844.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.811383517787</lat>
+						<lon>-87.7238291502</lon>
+
+							<typ>S</typ>
+                			<stpid>16071</stpid>
+                			<stpnm>Pulaski &amp; 45th Street</stpnm>
+                			<pdist>9510.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.80975217657</lat>
+						<lon>-87.723780870438</lon>
+
+							<typ>S</typ>
+                			<stpid>12843</stpid>
+                			<stpnm>Pulaski &amp; 46th Street</stpnm>
+                			<pdist>10015.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.807684951676</lat>
+						<lon>-87.723711133003</lon>
+
+							<typ>S</typ>
+                			<stpid>12844</stpid>
+                			<stpnm>Pulaski &amp; 47th Street</stpnm>
+                			<pdist>10661.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.806133489563</lat>
+						<lon>-87.723646759987</lon>
+
+							<typ>S</typ>
+                			<stpid>12845</stpid>
+                			<stpnm>Pulaski &amp; 48th Street</stpnm>
+                			<pdist>11424.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.804294078589</lat>
+						<lon>-87.723587751389</lon>
+
+							<typ>S</typ>
+                			<stpid>12846</stpid>
+                			<stpnm>Pulaski &amp; 49th Street</stpnm>
+                			<pdist>12096.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.802174691776</lat>
+						<lon>-87.72352874279</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.802122705936</lat>
+						<lon>-87.723432183266</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.801802792143</lat>
+						<lon>-87.723432183266</lon>
+
+							<typ>S</typ>
+                			<stpid>12847</stpid>
+                			<stpnm>Pulaski &amp; Archer</stpnm>
+                			<pdist>13019.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.800627095236</lat>
+						<lon>-87.723410725594</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.800591104174</lat>
+						<lon>-87.724612355232</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.800171206957</lat>
+						<lon>-87.724606990814</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.800167207923</lat>
+						<lon>-87.724365592003</lon>
+
+							<typ>S</typ>
+                			<stpid>14124</stpid>
+                			<stpnm>Pulaski Orange Line Station</stpnm>
+                			<pdist>14253.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.800535118037</lat>
+						<lon>-87.724049091339</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.800547115071</lat>
+						<lon>-87.723410725594</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.7996633276</lat>
+						<lon>-87.723383903503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.798815520021</lat>
+						<lon>-87.723357081413</lon>
+
+							<typ>S</typ>
+                			<stpid>12849</stpid>
+                			<stpnm>5200 S Pulaski</stpnm>
+                			<pdist>15163.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.797387818702</lat>
+						<lon>-87.723308801651</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.796879917286</lat>
+						<lon>-87.723276615143</lon>
+
+							<typ>S</typ>
+                			<stpid>12850</stpid>
+                			<stpnm>Pulaski &amp; 53rd Street</stpnm>
+                			<pdist>15961.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.795944088388</lat>
+						<lon>-87.723255157471</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.795148223146</lat>
+						<lon>-87.723239064217</lon>
+
+							<typ>S</typ>
+                			<stpid>12851</stpid>
+                			<stpnm>Pulaski &amp; 54th Street</stpnm>
+                			<pdist>16443.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.79332849413</lat>
+						<lon>-87.723185420036</lon>
+
+							<typ>S</typ>
+                			<stpid>4722</stpid>
+                			<stpnm>Pulaski &amp; 55th Street</stpnm>
+                			<pdist>17093.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.791548709186</lat>
+						<lon>-87.723153233528</lon>
+
+							<typ>S</typ>
+                			<stpid>12852</stpid>
+                			<stpnm>Pulaski &amp; 56th Street</stpnm>
+                			<pdist>17782.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.789716878919</lat>
+						<lon>-87.72309422493</lon>
+
+							<typ>S</typ>
+                			<stpid>12853</stpid>
+                			<stpnm>Pulaski &amp; 57th Street</stpnm>
+                			<pdist>18455.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.788700950486</lat>
+						<lon>-87.723078131676</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.787888996107</lat>
+						<lon>-87.723045945168</lon>
+
+							<typ>S</typ>
+                			<stpid>12854</stpid>
+                			<stpnm>Pulaski &amp; 58th Street</stpnm>
+                			<pdist>19117.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.786057061261</lat>
+						<lon>-87.722992300987</lon>
+
+							<typ>S</typ>
+                			<stpid>4724</stpid>
+                			<stpnm>Pulaski &amp; 59th Street</stpnm>
+                			<pdist>19780.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.785005075015</lat>
+						<lon>-87.722954750061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.78420507392</lat>
+						<lon>-87.722938656807</lon>
+
+							<typ>S</typ>
+                			<stpid>12855</stpid>
+                			<stpnm>Pulaski &amp; 60th Street</stpnm>
+                			<pdist>20451.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.782405034961</lat>
+						<lon>-87.722885012627</lon>
+
+							<typ>S</typ>
+                			<stpid>12856</stpid>
+                			<stpnm>Pulaski &amp; 61st Street</stpnm>
+                			<pdist>21116.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.780592944703</lat>
+						<lon>-87.7228474617</lon>
+
+							<typ>S</typ>
+                			<stpid>12857</stpid>
+                			<stpnm>Pulaski &amp; 62nd Street</stpnm>
+                			<pdist>21779.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.778776802868</lat>
+						<lon>-87.72279381752</lon>
+
+							<typ>S</typ>
+                			<stpid>4726</stpid>
+                			<stpnm>Pulaski &amp; 63rd Street</stpnm>
+                			<pdist>22438.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.776952608633</lat>
+						<lon>-87.722745537758</lon>
+
+							<typ>S</typ>
+                			<stpid>12858</stpid>
+                			<stpnm>Pulaski &amp; 64th Street</stpnm>
+                			<pdist>23111.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.775136363703</lat>
+						<lon>-87.72268652916</lon>
+
+							<typ>S</typ>
+                			<stpid>12859</stpid>
+                			<stpnm>Pulaski &amp; 65th Street</stpnm>
+                			<pdist>23773.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.773296063078</lat>
+						<lon>-87.722659707069</lon>
+
+							<typ>S</typ>
+                			<stpid>12860</stpid>
+                			<stpnm>Pulaski &amp; 66th Street</stpnm>
+                			<pdist>24437.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.772307879867</lat>
+						<lon>-87.722616791725</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.771467712127</lat>
+						<lon>-87.722606062889</lon>
+
+							<typ>S</typ>
+                			<stpid>4728</stpid>
+                			<stpnm>Pulaski &amp; Marquette Rd</stpnm>
+                			<pdist>25093.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.770475499863</lat>
+						<lon>-87.722563147545</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.769663314692</lat>
+						<lon>-87.722547054291</lon>
+
+							<typ>S</typ>
+                			<stpid>12861</stpid>
+                			<stpnm>Pulaski &amp; 68th Street</stpnm>
+                			<pdist>25770.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.767858866501</lat>
+						<lon>-87.722509503365</lon>
+
+							<typ>S</typ>
+                			<stpid>12862</stpid>
+                			<stpnm>Pulaski &amp; 69th Street</stpnm>
+                			<pdist>26441.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.7668305884</lat>
+						<lon>-87.72249341011</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.766058368718</lat>
+						<lon>-87.722477316856</lon>
+
+							<typ>S</typ>
+                			<stpid>12863</stpid>
+                			<stpnm>Pulaski &amp; 70th Street</stpnm>
+                			<pdist>27092.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.764990049482</lat>
+						<lon>-87.722445130348</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.764297833139</lat>
+						<lon>-87.722396850586</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.764173793583</lat>
+						<lon>-87.722450494766</lon>
+
+							<typ>S</typ>
+                			<stpid>4730</stpid>
+                			<stpnm>Pulaski &amp; 71st Street</stpnm>
+                			<pdist>27746.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.762621278217</lat>
+						<lon>-87.722423672676</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.759240025846</lat>
+						<lon>-87.722273468971</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.757935495056</lat>
+						<lon>-87.722294926643</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.756570911466895</lat>
+						<lon>-87.72231638431549</lon>
+
+							<typ>S</typ>
+                			<stpid>4731</stpid>
+                			<stpnm>Pulaski &amp; 75th Place</stpnm>
+                			<pdist>30369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.755518441549</lat>
+						<lon>-87.722289562225</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.754798109984</lat>
+						<lon>-87.722268104553</lon>
+
+							<typ>S</typ>
+                			<stpid>12866</stpid>
+                			<stpnm>Pulaski &amp; 76th Street</stpnm>
+                			<pdist>31275.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.753741609065</lat>
+						<lon>-87.722176909447</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.753177334404</lat>
+						<lon>-87.722139358521</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.752789142573</lat>
+						<lon>-87.722117900848</lon>
+
+							<typ>S</typ>
+                			<stpid>12867</stpid>
+                			<stpnm>Pulaski &amp; 77th Street </stpnm>
+                			<pdist>31958.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.752557026748</lat>
+						<lon>-87.722107172012</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.752480988623</lat>
+						<lon>-87.722021341324</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.751436455787</lat>
+						<lon>-87.721999883652</lon>
+
+							<typ>S</typ>
+                			<stpid>12868</stpid>
+                			<stpnm>Pulaski &amp; 78th Street</stpnm>
+                			<pdist>32493.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.75009574697</lat>
+						<lon>-87.721962332726</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.749155233029</lat>
+						<lon>-87.721951603889</lon>
+
+							<typ>S</typ>
+                			<stpid>4734</stpid>
+                			<stpnm>Pulaski &amp; 79th Street</stpnm>
+                			<pdist>33291.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.747938547745</lat>
+						<lon>-87.721903324127</lon>
+
+							<typ>S</typ>
+                			<stpid>12869</stpid>
+                			<stpnm>8000 S Pulaski</stpnm>
+                			<pdist>33822.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.745929365646</lat>
+						<lon>-87.721833586693</lon>
+
+							<typ>S</typ>
+                			<stpid>4735</stpid>
+                			<stpnm>Pulaski &amp; 81st Street</stpnm>
+                			<pdist>34407.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.744008176549</lat>
+						<lon>-87.721763849258</lon>
+
+							<typ>S</typ>
+                			<stpid>12870</stpid>
+                			<stpnm>Pulaski &amp; 82nd Street</stpnm>
+                			<pdist>35142.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.741878791467</lat>
+						<lon>-87.721688747406</lon>
+
+							<typ>S</typ>
+                			<stpid>15884</stpid>
+                			<stpnm>Pulaski &amp; 83rd Street</stpnm>
+                			<pdist>35900.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.740481844475</lat>
+						<lon>-87.721629738808</lon>
+
+							<typ>S</typ>
+                			<stpid>12871</stpid>
+                			<stpnm>Pulaski &amp; 84th Street</stpnm>
+                			<pdist>36395.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.738632544122</lat>
+						<lon>-87.721581459045</lon>
+
+							<typ>S</typ>
+                			<stpid>12872</stpid>
+                			<stpnm>Pulaski &amp; 85th Street</stpnm>
+                			<pdist>37071.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.736983339579</lat>
+						<lon>-87.721522450447</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.736739157637</lat>
+						<lon>-87.721586823463</lon>
+
+							<typ>S</typ>
+                			<stpid>12873</stpid>
+                			<stpnm>Pulaski &amp; 86th Street</stpnm>
+                			<pdist>37740.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.734989827068</lat>
+						<lon>-87.721517086029</lon>
+
+							<typ>S</typ>
+                			<stpid>4737</stpid>
+                			<stpnm>Pulaski &amp; 87th Street</stpnm>
+                			<pdist>38371.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.734769656229</lat>
+						<lon>-87.721506357193</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.733969028635</lat>
+						<lon>-87.721506357193</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.733072313882</lat>
+						<lon>-87.721613645554</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.73263596155</lat>
+						<lon>-87.721683382988</lon>
+
+							<typ>S</typ>
+                			<stpid>12874</stpid>
+                			<stpnm>Pulaski &amp; Main (8800 South)</stpnm>
+                			<pdist>39226.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.732211616073</lat>
+						<lon>-87.721779942513</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.731306870128</lat>
+						<lon>-87.721849679947</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.730109863655</lat>
+						<lon>-87.721796035767</lon>
+
+							<typ>S</typ>
+                			<stpid>12875</stpid>
+                			<stpnm>8900 S Pulaski</stpnm>
+                			<pdist>39978.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.728412398174</lat>
+						<lon>-87.721763849258</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.728068095459</lat>
+						<lon>-87.721688747406</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.727831886716</lat>
+						<lon>-87.721683382988</lon>
+
+							<typ>S</typ>
+                			<stpid>4738</stpid>
+                			<stpnm>Pulaski &amp; 91st Street</stpnm>
+                			<pdist>41183.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.726118346437</lat>
+						<lon>-87.72162437439</lon>
+
+							<typ>S</typ>
+                			<stpid>12876</stpid>
+                			<stpnm>Pulaski &amp; 92nd Street</stpnm>
+                			<pdist>41764.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.724252617436</lat>
+						<lon>-87.721538543701</lon>
+
+							<typ>S</typ>
+                			<stpid>12877</stpid>
+                			<stpnm>Pulaski &amp; 93rd Street</stpnm>
+                			<pdist>42318.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.722326775959</lat>
+						<lon>-87.721436619759</lon>
+
+							<typ>S</typ>
+                			<stpid>12878</stpid>
+                			<stpnm>Pulaski &amp; 94th Street</stpnm>
+                			<pdist>42980.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.720280756395</lat>
+						<lon>-87.721372246742</lon>
+
+							<typ>S</typ>
+                			<stpid>4739</stpid>
+                			<stpnm>Pulaski &amp; 95th Street</stpnm>
+                			<pdist>43875.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.718743195887</lat>
+						<lon>-87.721329331398</lon>
+
+							<typ>S</typ>
+                			<stpid>12879</stpid>
+                			<stpnm>Pulaski &amp; 96th Street</stpnm>
+                			<pdist>44243.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.717686101698</lat>
+						<lon>-87.721291780472</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.716977358358</lat>
+						<lon>-87.721275687218</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.716861235822</lat>
+						<lon>-87.721334695816</lon>
+
+							<typ>S</typ>
+                			<stpid>12880</stpid>
+                			<stpnm>Pulaski &amp; 97th Street</stpnm>
+                			<pdist>44991.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.71505530318</lat>
+						<lon>-87.721275687218</lon>
+
+							<typ>S</typ>
+                			<stpid>12881</stpid>
+                			<stpnm>Pulaski &amp; 98th Street</stpnm>
+                			<pdist>45680.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.713237306432</lat>
+						<lon>-87.721238136292</lon>
+
+							<typ>S</typ>
+                			<stpid>4740</stpid>
+                			<stpnm>Pulaski &amp; 99th Street</stpnm>
+                			<pdist>46316.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.712212157839</lat>
+						<lon>-87.721189856529</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.71145930393</lat>
+						<lon>-87.721184492111</lon>
+
+							<typ>S</typ>
+                			<stpid>12882</stpid>
+                			<stpnm>Pulaski &amp; 100th Street</stpnm>
+                			<pdist>46949.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.710330006533</lat>
+						<lon>-87.721163034439</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.709637200793</lat>
+						<lon>-87.721152305603</lon>
+
+							<typ>S</typ>
+                			<stpid>12883</stpid>
+                			<stpnm>Pulaski &amp; 101st Street</stpnm>
+                			<pdist>47645.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.70826358121</lat>
+						<lon>-87.721093297005</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.707606796461</lat>
+						<lon>-87.721066474915</lon>
+
+							<typ>S</typ>
+                			<stpid>12884</stpid>
+                			<stpnm>Pulaski &amp; 102nd Street </stpnm>
+                			<pdist>48326.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.705552298405</lat>
+						<lon>-87.72096991539</lon>
+
+							<typ>S</typ>
+                			<stpid>12211</stpid>
+                			<stpnm>Pulaski &amp; 103rd Street</stpnm>
+                			<pdist>49142.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.704150556403</lat>
+						<lon>-87.720910906792</lon>
+
+							<typ>S</typ>
+                			<stpid>12885</stpid>
+                			<stpnm>Pulaski &amp; 104th Street</stpnm>
+                			<pdist>49635.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.702332251248</lat>
+						<lon>-87.720841169357</lon>
+
+							<typ>S</typ>
+                			<stpid>12886</stpid>
+                			<stpnm>Pulaski &amp; 105th Street</stpnm>
+                			<pdist>50311.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.701302923555</lat>
+						<lon>-87.720803618431</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.700477847438</lat>
+						<lon>-87.720782160759</lon>
+
+							<typ>S</typ>
+                			<stpid>12887</stpid>
+                			<stpnm>Pulaski &amp; 106th Street</stpnm>
+                			<pdist>50973.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.698663443789</lat>
+						<lon>-87.720728516579</lon>
+
+							<typ>S</typ>
+                			<stpid>4742</stpid>
+                			<stpnm>Pulaski &amp; 107th Street</stpnm>
+                			<pdist>51650.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.696035872267</lat>
+						<lon>-87.720626592636</lon>
+
+							<typ>S</typ>
+                			<stpid>12888</stpid>
+                			<stpnm>Pulaski &amp; 109th Street </stpnm>
+                			<pdist>52608.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.694842214378</lat>
+						<lon>-87.720599770546</lon>
+
+							<typ>S</typ>
+                			<stpid>12889</stpid>
+                			<stpnm>Pulaski &amp; 109th Street </stpnm>
+                			<pdist>53106.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.693151828732</lat>
+						<lon>-87.720519304276</lon>
+
+							<typ>S</typ>
+                			<stpid>12890</stpid>
+                			<stpnm>Pulaski &amp; 110th Street</stpnm>
+                			<pdist>53666.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.692402757381</lat>
+						<lon>-87.720481753349</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.691437363791</lat>
+						<lon>-87.720438838005</lon>
+
+							<typ>S</typ>
+                			<stpid>4743</stpid>
+                			<stpnm>Pulaski &amp; 111th Street</stpnm>
+                			<pdist>54305.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4579</pid>
+				<ln>54927.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.691160962128</lat>
+						<lon>-87.720170617104</lon>
+
+							<typ>S</typ>
+                			<stpid>4694</stpid>
+                			<stpnm>Pulaski &amp; 111th Street</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.692983588867</lat>
+						<lon>-87.72026181221</lon>
+
+							<typ>S</typ>
+                			<stpid>12892</stpid>
+                			<stpnm>Pulaski &amp; 110th Street</stpnm>
+                			<pdist>656.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.694726051857</lat>
+						<lon>-87.720342278481</lon>
+
+							<typ>S</typ>
+                			<stpid>12893</stpid>
+                			<stpnm>Pulaski &amp; 109th Street </stpnm>
+                			<pdist>1319.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.695955761693</lat>
+						<lon>-87.720406651497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.696624681926</lat>
+						<lon>-87.720438838005</lon>
+
+							<typ>S</typ>
+                			<stpid>12894</stpid>
+                			<stpnm>Pulaski &amp; 108th Street</stpnm>
+                			<pdist>2002.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.698475191473</lat>
+						<lon>-87.720508575439</lon>
+
+							<typ>S</typ>
+                			<stpid>4695</stpid>
+                			<stpnm>Pulaski &amp; 107th Street</stpnm>
+                			<pdist>2677.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.699480532563</lat>
+						<lon>-87.720530033112</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.700245542544</lat>
+						<lon>-87.720567584038</lon>
+
+							<typ>S</typ>
+                			<stpid>12895</stpid>
+                			<stpnm>Pulaski &amp; 106th Street</stpnm>
+                			<pdist>3341.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.701254861159</lat>
+						<lon>-87.72058904171</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.702115973645</lat>
+						<lon>-87.720631957054</lon>
+
+							<typ>S</typ>
+                			<stpid>12896</stpid>
+                			<stpnm>Pulaski &amp; 105th Street</stpnm>
+                			<pdist>4009.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.703934284916</lat>
+						<lon>-87.720717787743</lon>
+
+							<typ>S</typ>
+                			<stpid>12897</stpid>
+                			<stpnm>Pulaski &amp; 104th Street</stpnm>
+                			<pdist>4671.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.705676451224</lat>
+						<lon>-87.720766067505</lon>
+
+							<typ>S</typ>
+                			<stpid>4696</stpid>
+                			<stpnm>Pulaski &amp; 103rd Street</stpnm>
+                			<pdist>5331.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.7074626233</lat>
+						<lon>-87.720814347267</lon>
+
+							<typ>S</typ>
+                			<stpid>12898</stpid>
+                			<stpnm>Pulaski &amp; 102nd Street </stpnm>
+                			<pdist>5908.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.709396919602</lat>
+						<lon>-87.720884084702</lon>
+
+							<typ>S</typ>
+                			<stpid>12899</stpid>
+                			<stpnm>Pulaski &amp; 101st Street</stpnm>
+                			<pdist>6658.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.711283102805</lat>
+						<lon>-87.720932364464</lon>
+
+							<typ>S</typ>
+                			<stpid>12900</stpid>
+                			<stpnm>Pulaski &amp; 100th Street</stpnm>
+                			<pdist>7379.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.713017061043</lat>
+						<lon>-87.72096991539</lon>
+
+							<typ>S</typ>
+                			<stpid>4697</stpid>
+                			<stpnm>Pulaski &amp; 99th Street</stpnm>
+                			<pdist>8000.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.714879111913</lat>
+						<lon>-87.72105038166</lon>
+
+							<typ>S</typ>
+                			<stpid>12901</stpid>
+                			<stpnm>Pulaski &amp; 98th Street</stpnm>
+                			<pdist>8688.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.715996316543</lat>
+						<lon>-87.721093297005</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.71674110884</lat>
+						<lon>-87.721136212349</lon>
+
+							<typ>S</typ>
+                			<stpid>12902</stpid>
+                			<stpnm>Pulaski &amp; 97th Street</stpnm>
+                			<pdist>9367.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.716837210444</lat>
+						<lon>-87.721136212349</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.716957337246</lat>
+						<lon>-87.721205949783</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.718747199999</lat>
+						<lon>-87.721248865128</lon>
+
+							<typ>S</typ>
+                			<stpid>12903</stpid>
+                			<stpnm>Pulaski &amp; 96th Street</stpnm>
+                			<pdist>10154.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.71952399293</lat>
+						<lon>-87.721264958382</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.720356832653</lat>
+						<lon>-87.721291780472</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.720737212589</lat>
+						<lon>-87.721313238144</lon>
+
+							<typ>S</typ>
+                			<stpid>4698</stpid>
+                			<stpnm>Pulaski &amp; 95th Street</stpnm>
+                			<pdist>10954.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.722206659193</lat>
+						<lon>-87.72135078907</lon>
+
+							<typ>S</typ>
+                			<stpid>12904</stpid>
+                			<stpnm>Pulaski &amp; 94th Street</stpnm>
+                			<pdist>11369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.724252617436</lat>
+						<lon>-87.721463441849</lon>
+
+							<typ>S</typ>
+                			<stpid>12905</stpid>
+                			<stpnm>Pulaski &amp; 93rd Street</stpnm>
+                			<pdist>12045.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.726142368346</lat>
+						<lon>-87.721543908119</lon>
+
+							<typ>S</typ>
+                			<stpid>12906</stpid>
+                			<stpnm>Pulaski &amp; 92nd Street</stpnm>
+                			<pdist>12708.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.727223344934</lat>
+						<lon>-87.721576094627</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.727839893806</lat>
+						<lon>-87.721602916718</lon>
+
+							<typ>S</typ>
+                			<stpid>4699</stpid>
+                			<stpnm>Pulaski &amp; 91st Street</stpnm>
+                			<pdist>13363.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.728036067206</lat>
+						<lon>-87.721613645554</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.728348341995</lat>
+						<lon>-87.721511721611</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.730185928275</lat>
+						<lon>-87.721543908119</lon>
+
+							<typ>S</typ>
+                			<stpid>12907</stpid>
+                			<stpnm>8900 S Pulaski</stpnm>
+                			<pdist>14452.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.731246820168</lat>
+						<lon>-87.721554636955</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.731751238092</lat>
+						<lon>-87.721511721611</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.732627955058</lat>
+						<lon>-87.72140443325</lon>
+
+							<typ>S</typ>
+                			<stpid>12908</stpid>
+                			<stpnm>Pulaski &amp; Main (8800 South)</stpnm>
+                			<pdist>15212.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.733492650482</lat>
+						<lon>-87.721275687218</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.734585512766</lat>
+						<lon>-87.721254229546</lon>
+
+							<typ>S</typ>
+                			<stpid>4700</stpid>
+                			<stpnm>Pulaski &amp; 87th Street</stpnm>
+                			<pdist>15900.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.735706377844</lat>
+						<lon>-87.721329331398</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.736535004809</lat>
+						<lon>-87.721361517906</lon>
+
+							<typ>S</typ>
+                			<stpid>12909</stpid>
+                			<stpnm>Pulaski &amp; 86th Street</stpnm>
+                			<pdist>16621.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.736751166606</lat>
+						<lon>-87.72137761116</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.736983339579</lat>
+						<lon>-87.721441984177</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.738420391542</lat>
+						<lon>-87.721495628357</lon>
+
+							<typ>S</typ>
+                			<stpid>12910</stpid>
+                			<stpnm>Pulaski &amp; 85th Street</stpnm>
+                			<pdist>17300.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.740241678607</lat>
+						<lon>-87.721543908119</lon>
+
+							<typ>S</typ>
+                			<stpid>12911</stpid>
+                			<stpnm>Pulaski &amp; 84th Street</stpnm>
+                			<pdist>17962.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.741318415235</lat>
+						<lon>-87.721576094627</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.742123333334</lat>
+						<lon>-87.721531666668</lon>
+
+							<typ>S</typ>
+                			<stpid>17446</stpid>
+                			<stpnm>Pulaski &amp; 83rd Street</stpnm>
+                			<pdist>18614.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.743932128297</lat>
+						<lon>-87.721688747406</lon>
+
+							<typ>S</typ>
+                			<stpid>12912</stpid>
+                			<stpnm>Pulaski &amp; 82nd Street</stpnm>
+                			<pdist>19303.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.745252953542</lat>
+						<lon>-87.72173166275</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.746049438056</lat>
+						<lon>-87.72175848484</lon>
+
+							<typ>S</typ>
+                			<stpid>4703</stpid>
+                			<stpnm>Pulaski &amp; 81st Street</stpnm>
+                			<pdist>20033.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.747842492661</lat>
+						<lon>-87.721812129021</lon>
+
+							<typ>S</typ>
+                			<stpid>12913</stpid>
+                			<stpnm>8000 S Pulaski</stpnm>
+                			<pdist>20642.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.749283303823</lat>
+						<lon>-87.721865773201</lon>
+
+							<typ>S</typ>
+                			<stpid>4704</stpid>
+                			<stpnm>Pulaski &amp; 79th Street</stpnm>
+                			<pdist>21288.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.751268368456</lat>
+						<lon>-87.721908688545</lon>
+
+							<typ>S</typ>
+                			<stpid>12914</stpid>
+                			<stpnm>Pulaski &amp; 78th Street</stpnm>
+                			<pdist>21984.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.752472984605</lat>
+						<lon>-87.721951603889</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.752573034763</lat>
+						<lon>-87.721892595291</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.752685090755</lat>
+						<lon>-87.721881866455</lon>
+
+							<typ>S</typ>
+                			<stpid>12915</stpid>
+                			<stpnm>Pulaski &amp; 77th Street</stpnm>
+                			<pdist>22510.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.752977235815</lat>
+						<lon>-87.721897959709</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.753469477223</lat>
+						<lon>-87.721930146217</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.754854136062</lat>
+						<lon>-87.722010612488</lon>
+
+							<typ>S</typ>
+                			<stpid>12916</stpid>
+                			<stpnm>Pulaski &amp; 76th Street</stpnm>
+                			<pdist>23298.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.756246768579</lat>
+						<lon>-87.722037434578</lon>
+
+							<typ>S</typ>
+                			<stpid>4707</stpid>
+                			<stpnm>Pulaski &amp; 75th Place</stpnm>
+                			<pdist>23809.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.757127152855</lat>
+						<lon>-87.722064256668</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.757759421385</lat>
+						<lon>-87.722064256668</lon>
+
+							<typ>S</typ>
+                			<stpid>17292</stpid>
+                			<stpnm>Pulaski &amp; 74th Street</stpnm>
+                			<pdist>24361.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.759228021083</lat>
+						<lon>-87.722037434578</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.762237144907</lat>
+						<lon>-87.722155451775</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.763989734446</lat>
+						<lon>-87.722187638283</lon>
+
+							<typ>S</typ>
+                			<stpid>4708</stpid>
+                			<stpnm>Pulaski &amp; 71st Street</stpnm>
+                			<pdist>26765.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.764165791023</lat>
+						<lon>-87.722209095955</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.764277826775</lat>
+						<lon>-87.722311019897</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.764994050711</lat>
+						<lon>-87.722370028496</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.765810296174</lat>
+						<lon>-87.722396850586</lon>
+
+							<typ>S</typ>
+                			<stpid>12918</stpid>
+                			<stpnm>Pulaski &amp; 70th Street</stpnm>
+                			<pdist>27286.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.767622804114</lat>
+						<lon>-87.722429037094</lon>
+
+							<typ>S</typ>
+                			<stpid>12919</stpid>
+                			<stpnm>Pulaski &amp; 69th Street</stpnm>
+                			<pdist>27962.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.768655070518</lat>
+						<lon>-87.72243976593</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.769431259897</lat>
+						<lon>-87.722461223602</lon>
+
+							<typ>S</typ>
+                			<stpid>12920</stpid>
+                			<stpnm>Pulaski &amp; 68th Street</stpnm>
+                			<pdist>28616.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.771123640258</lat>
+						<lon>-87.722514867783</lon>
+
+							<typ>S</typ>
+                			<stpid>4710</stpid>
+                			<stpnm>Pulaski &amp; Marquette Rd</stpnm>
+                			<pdist>29281.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.771391696408</lat>
+						<lon>-87.722530961037</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.772315881412</lat>
+						<lon>-87.722530961037</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.773116030834</lat>
+						<lon>-87.722568511963</lon>
+
+							<typ>S</typ>
+                			<stpid>12921</stpid>
+                			<stpnm>Pulaski &amp; 66th Street</stpnm>
+                			<pdist>29950.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.774896327485</lat>
+						<lon>-87.722606062889</lon>
+
+							<typ>S</typ>
+                			<stpid>12922</stpid>
+                			<stpnm>Pulaski &amp; 65th Street</stpnm>
+                			<pdist>30617.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.775916475206</lat>
+						<lon>-87.722632884979</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.776716579711</lat>
+						<lon>-87.722659707069</lon>
+
+							<typ>S</typ>
+                			<stpid>12923</stpid>
+                			<stpnm>Pulaski &amp; 64th Street</stpnm>
+                			<pdist>31276.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.778560782575</lat>
+						<lon>-87.722707986832</lon>
+
+							<typ>S</typ>
+                			<stpid>4712</stpid>
+                			<stpnm>Pulaski &amp; 63rd Street</stpnm>
+                			<pdist>31947.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.780428934007</lat>
+						<lon>-87.722761631012</lon>
+
+							<typ>S</typ>
+                			<stpid>12924</stpid>
+                			<stpnm>Pulaski &amp; 62nd Street</stpnm>
+                			<pdist>32612.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.78218902689</lat>
+						<lon>-87.722799181938</lon>
+
+							<typ>S</typ>
+                			<stpid>12925</stpid>
+                			<stpnm>Pulaski &amp; 61st Street</stpnm>
+                			<pdist>33277.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.784001072044</lat>
+						<lon>-87.722858190536</lon>
+
+							<typ>S</typ>
+                			<stpid>12926</stpid>
+                			<stpnm>Pulaski &amp; 60th Street</stpnm>
+                			<pdist>33939.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.785021074935</lat>
+						<lon>-87.722879648209</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.785841065493</lat>
+						<lon>-87.722901105881</lon>
+
+							<typ>S</typ>
+                			<stpid>4714</stpid>
+                			<stpnm>Pulaski &amp; 59th Street</stpnm>
+                			<pdist>34604.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.787645007806</lat>
+						<lon>-87.722960114479</lon>
+
+							<typ>S</typ>
+                			<stpid>12927</stpid>
+                			<stpnm>Pulaski &amp; 58th Street</stpnm>
+                			<pdist>35271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.788664952726</lat>
+						<lon>-87.722997665405</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.789464898171</lat>
+						<lon>-87.723008394241</lon>
+
+							<typ>S</typ>
+                			<stpid>12928</stpid>
+                			<stpnm>Pulaski &amp; 57th Street</stpnm>
+                			<pdist>35939.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.791236741791</lat>
+						<lon>-87.723056674004</lon>
+
+							<typ>S</typ>
+                			<stpid>12929</stpid>
+                			<stpnm>Pulaski &amp; 56th Street</stpnm>
+                			<pdist>36601.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.793004536954</lat>
+						<lon>-87.723104953766</lon>
+
+							<typ>S</typ>
+                			<stpid>4716</stpid>
+                			<stpnm>Pulaski &amp; 55th Street</stpnm>
+                			<pdist>37248.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.79494025673</lat>
+						<lon>-87.723158597946</lon>
+
+							<typ>S</typ>
+                			<stpid>12930</stpid>
+                			<stpnm>Pulaski &amp; 54th Street</stpnm>
+                			<pdist>37932.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.796739943747</lat>
+						<lon>-87.723196148872</lon>
+
+							<typ>S</typ>
+                			<stpid>12931</stpid>
+                			<stpnm>Pulaski &amp; 53rd Street</stpnm>
+                			<pdist>38600.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.798411607748</lat>
+						<lon>-87.723260521889</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.799295412481</lat>
+						<lon>-87.723292708397</lon>
+
+							<typ>S</typ>
+                			<stpid>12932</stpid>
+                			<stpnm>5200 S Pulaski</stpnm>
+                			<pdist>39218.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.800627095236</lat>
+						<lon>-87.723330259323</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.800591104174</lat>
+						<lon>-87.72461771965</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.800163208889</lat>
+						<lon>-87.724606990814</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.800167207923</lat>
+						<lon>-87.724370956421</lon>
+
+							<typ>S</typ>
+                			<stpid>14125</stpid>
+                			<stpnm>Pulaski Orange Line Station</stpnm>
+                			<pdist>40872.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.80054311606</lat>
+						<lon>-87.724022269249</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.800563111112</lat>
+						<lon>-87.723340988159</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.802122705936</lat>
+						<lon>-87.723357081413</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.802206683042</lat>
+						<lon>-87.723292708397</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.802826510657</lat>
+						<lon>-87.723281979561</lon>
+
+							<typ>S</typ>
+                			<stpid>12934</stpid>
+                			<stpnm>Pulaski &amp; Archer</stpnm>
+                			<pdist>42041.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.80403015877</lat>
+						<lon>-87.723319530487</lon>
+
+							<typ>S</typ>
+                			<stpid>12935</stpid>
+                			<stpnm>Pulaski &amp; 49th Street</stpnm>
+                			<pdist>42459.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.805881573355</lat>
+						<lon>-87.723399996758</lon>
+
+							<typ>S</typ>
+                			<stpid>12936</stpid>
+                			<stpnm>Pulaski &amp; 48th Street</stpnm>
+                			<pdist>43122.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.807764922932</lat>
+						<lon>-87.723432183266</lon>
+
+							<typ>S</typ>
+                			<stpid>12937</stpid>
+                			<stpnm>Pulaski &amp; 47th Street</stpnm>
+                			<pdist>43795.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.809940102798</lat>
+						<lon>-87.723523378372</lon>
+
+							<typ>S</typ>
+                			<stpid>16073</stpid>
+                			<stpnm>Pulaski &amp; 46th Street</stpnm>
+                			<pdist>44600.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.811783349981</lat>
+						<lon>-87.723582386971</lon>
+
+							<typ>S</typ>
+                			<stpid>16074</stpid>
+                			<stpnm>Pulaski &amp; 45th Street</stpnm>
+                			<pdist>45257.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.813666526057</lat>
+						<lon>-87.723657488823</lon>
+
+							<typ>S</typ>
+                			<stpid>17202</stpid>
+                			<stpnm>Pulaski &amp; 44th Street</stpnm>
+                			<pdist>45927.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.815429704423</lat>
+						<lon>-87.723716497421</lon>
+
+							<typ>S</typ>
+                			<stpid>16075</stpid>
+                			<stpnm>Pulaski &amp; 43rd Street</stpnm>
+                			<pdist>46589.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.816785039831</lat>
+						<lon>-87.723754048347</lon>
+
+							<typ>S</typ>
+                			<stpid>12942</stpid>
+                			<stpnm>Pulaski &amp; 42nd Street</stpnm>
+                			<pdist>47055.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.818300262863</lat>
+						<lon>-87.72380232811</lon>
+
+							<typ>S</typ>
+                			<stpid>12943</stpid>
+                			<stpnm>Pulaski &amp; 41st Street</stpnm>
+                			<pdist>47593.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.819375689647</lat>
+						<lon>-87.723839879036</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.820459093908</lat>
+						<lon>-87.723877429962</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.821606443012</lat>
+						<lon>-87.72390961647</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.822489927789</lat>
+						<lon>-87.723952531815</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.824017008477</lat>
+						<lon>-87.723957896233</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.825056361937</lat>
+						<lon>-87.723984718323</lon>
+
+							<typ>S</typ>
+                			<stpid>12944</stpid>
+                			<stpnm>3741 S Pulaski</stpnm>
+                			<pdist>50039.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.825827871095</lat>
+						<lon>-87.724022269249</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.82597177851</lat>
+						<lon>-87.724086642265</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.82713102089</lat>
+						<lon>-87.724118828773</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.827926488862</lat>
+						<lon>-87.72412955761</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.828677977163</lat>
+						<lon>-87.724140286446</lon>
+
+							<typ>S</typ>
+                			<stpid>12945</stpid>
+                			<stpnm>Pulaski &amp; 36th Street</stpnm>
+                			<pdist>51420.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.828809886434</lat>
+						<lon>-87.724140286446</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.830272861935</lat>
+						<lon>-87.72418320179</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.83110826191</lat>
+						<lon>-87.724177837372</lon>
+
+							<typ>S</typ>
+                			<stpid>12946</stpid>
+                			<stpnm>Pulaski &amp; 34th Street</stpnm>
+                			<pdist>52317.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.832783026151</lat>
+						<lon>-87.724215388298</lon>
+
+							<typ>S</typ>
+                			<stpid>12948</stpid>
+                			<stpnm>3300 S Pulaski</stpnm>
+                			<pdist>52911.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.833366585258</lat>
+						<lon>-87.724242210388</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.834937372036</lat>
+						<lon>-87.72426366806</lon>
+
+							<typ>S</typ>
+                			<stpid>12949</stpid>
+                			<stpnm>Pulaski &amp; 32nd Street</stpnm>
+                			<pdist>53740.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.836931776034</lat>
+						<lon>-87.724317312241</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.836907795594</lat>
+						<lon>-87.724655270576</lon>
+
+							<typ>S</typ>
+                			<stpid>12950</stpid>
+                			<stpnm>31st Street &amp; Pulaski</stpnm>
+                			<pdist>54550.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.836903798853</lat>
+						<lon>-87.72592663765</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.836731938756</lat>
+						<lon>-87.725921273232</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.836747925761</lat>
+						<lon>-87.725685238838</lon>
+
+							<typ>S</typ>
+                			<stpid>12831</stpid>
+                			<stpnm>31st Street &amp; Komensky Terminal</stpnm>
+                			<pdist>54927.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

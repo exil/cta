@@ -1,0 +1,1465 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>3456</pid>
+				<ln>12624.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.804865901136</lat>
+						<lon>-87.704431414604</lon>
+
+							<typ>S</typ>
+                			<stpid>14126</stpid>
+                			<stpnm>Kedzie Orange Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.804885894839</lat>
+						<lon>-87.703894972801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.802858501597</lat>
+						<lon>-87.703852057457</lon>
+
+							<typ>S</typ>
+                			<stpid>3085</stpid>
+                			<stpnm>5000 S Kedzie</stpnm>
+                			<pdist>982.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.800931018953</lat>
+						<lon>-87.703782320023</lon>
+
+							<typ>S</typ>
+                			<stpid>9154</stpid>
+                			<stpnm>51st Street &amp; Kedzie</stpnm>
+                			<pdist>1861.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.800819047225</lat>
+						<lon>-87.703787684441</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.800851039167</lat>
+						<lon>-87.701379060745</lon>
+
+							<typ>S</typ>
+                			<stpid>9155</stpid>
+                			<stpnm>51st Street &amp; Albany</stpnm>
+                			<pdist>2350.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.800883031093</lat>
+						<lon>-87.69894361496</lon>
+
+							<typ>S</typ>
+                			<stpid>9156</stpid>
+                			<stpnm>51st Street &amp; Sacramento</stpnm>
+                			<pdist>3019.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.800919021991</lat>
+						<lon>-87.696513533592</lon>
+
+							<typ>S</typ>
+                			<stpid>9157</stpid>
+                			<stpnm>51st Street &amp; Francisco</stpnm>
+                			<pdist>3688.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.800971008808</lat>
+						<lon>-87.694121003151</lon>
+
+							<typ>S</typ>
+                			<stpid>9158</stpid>
+                			<stpnm>51st Street &amp; California</stpnm>
+                			<pdist>4356.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.800999001692</lat>
+						<lon>-87.691648006439</lon>
+
+							<typ>S</typ>
+                			<stpid>9159</stpid>
+                			<stpnm>51st Street &amp; Washtenaw</stpnm>
+                			<pdist>5019.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.801026994564</lat>
+						<lon>-87.690301537514</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.801038991505</lat>
+						<lon>-87.689228653908</lon>
+
+							<typ>S</typ>
+                			<stpid>9160</stpid>
+                			<stpnm>51st Street &amp; Rockwell</stpnm>
+                			<pdist>5688.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.801066984359</lat>
+						<lon>-87.687892913818</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.801078981293</lat>
+						<lon>-87.686841487885</lon>
+
+							<typ>S</typ>
+                			<stpid>9161</stpid>
+                			<stpnm>51st Street &amp; Campbell</stpnm>
+                			<pdist>6369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.801114972081</lat>
+						<lon>-87.684448957443</lon>
+
+							<typ>S</typ>
+                			<stpid>9162</stpid>
+                			<stpnm>51st Street &amp; Western Avenue</stpnm>
+                			<pdist>7005.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.801110973106</lat>
+						<lon>-87.683370709419</lon>
+
+							<typ>S</typ>
+                			<stpid>9163</stpid>
+                			<stpnm>51st Street &amp; Western Boulevard</stpnm>
+                			<pdist>7360.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.80110697413</lat>
+						<lon>-87.681906223297</lon>
+
+							<typ>S</typ>
+                			<stpid>9164</stpid>
+                			<stpnm>51st Street &amp; Oakley</stpnm>
+                			<pdist>7715.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.801146963876</lat>
+						<lon>-87.678837776184</lon>
+
+							<typ>S</typ>
+                			<stpid>9165</stpid>
+                			<stpnm>2135 W 51st Street</stpnm>
+                			<pdist>8637.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.801170957711</lat>
+						<lon>-87.67702460289</lon>
+
+							<typ>S</typ>
+                			<stpid>9166</stpid>
+                			<stpnm>51st Street &amp; Hoyne</stpnm>
+                			<pdist>9043.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.801194951537</lat>
+						<lon>-87.674374580383</lon>
+
+							<typ>S</typ>
+                			<stpid>9167</stpid>
+                			<stpnm>51st Street &amp; Damen</stpnm>
+                			<pdist>9694.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.801234941228</lat>
+						<lon>-87.672153711319</lon>
+
+							<typ>S</typ>
+                			<stpid>9168</stpid>
+                			<stpnm>51st Street &amp; Wolcott</stpnm>
+                			<pdist>10381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.801234941228</lat>
+						<lon>-87.669718265533</lon>
+
+							<typ>S</typ>
+                			<stpid>9169</stpid>
+                			<stpnm>51st Street &amp; Wood</stpnm>
+                			<pdist>11045.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.801270931928</lat>
+						<lon>-87.66730427742</lon>
+
+							<typ>S</typ>
+                			<stpid>9170</stpid>
+                			<stpnm>51st Street &amp; Paulina</stpnm>
+                			<pdist>11716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.801282928824</lat>
+						<lon>-87.664777636528</lon>
+
+							<typ>S</typ>
+                			<stpid>15024</stpid>
+                			<stpnm>51st Street &amp; Ashland</stpnm>
+                			<pdist>12624.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1198</pid>
+				<ln>24645.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.809140412903</lat>
+						<lon>-87.632140517235</lon>
+
+							<typ>S</typ>
+                			<stpid>14784</stpid>
+                			<stpnm>47th Red Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.80917240069</lat>
+						<lon>-87.63155579567</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.809156406799</lat>
+						<lon>-87.632607221603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.809032454002</lat>
+						<lon>-87.632660865784</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.808800541675</lat>
+						<lon>-87.632682323456</lon>
+
+							<typ>S</typ>
+                			<stpid>6516</stpid>
+                			<stpnm>Wells &amp; 47th Street</stpnm>
+                			<pdist>310.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.808196765987</lat>
+						<lon>-87.632639408112</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.807788914289</lat>
+						<lon>-87.632682323456</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.806225458726</lat>
+						<lon>-87.632607221603</lon>
+
+							<typ>S</typ>
+                			<stpid>6517</stpid>
+                			<stpnm>Wells &amp; 48th Place</stpnm>
+                			<pdist>1257.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.805053841697</lat>
+						<lon>-87.632585763931</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.804853904911</lat>
+						<lon>-87.632575035095</lon>
+
+							<typ>S</typ>
+                			<stpid>6518</stpid>
+                			<stpnm>4900 S Wells</stpnm>
+                			<pdist>1552.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.804713948789</lat>
+						<lon>-87.632558941841</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.803874205638</lat>
+						<lon>-87.632392644882</lon>
+
+							<typ>S</typ>
+                			<stpid>6519</stpid>
+                			<stpnm>Wells &amp; 50th Street</stpnm>
+                			<pdist>2111.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.80254658925</lat>
+						<lon>-87.632097601891</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.802222678668</lat>
+						<lon>-87.63204395771</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.801918761078</lat>
+						<lon>-87.632022500038</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.801910763227</lat>
+						<lon>-87.632376551628</lon>
+
+							<typ>S</typ>
+                			<stpid>9194</stpid>
+                			<stpnm>51st Street &amp; Wells</stpnm>
+                			<pdist>2923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.801894767522</lat>
+						<lon>-87.633068561554</lon>
+
+							<typ>S</typ>
+                			<stpid>9195</stpid>
+                			<stpnm>51st Street &amp; Princeton</stpnm>
+                			<pdist>3110.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.801886769668</lat>
+						<lon>-87.633326053619</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.801834783594</lat>
+						<lon>-87.633583545685</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.801722813446</lat>
+						<lon>-87.639076709747</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.801694820878</lat>
+						<lon>-87.641040086746</lon>
+
+							<typ>S</typ>
+                			<stpid>9196</stpid>
+                			<stpnm>601 W 51st Street</stpnm>
+                			<pdist>5296.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.801658830416</lat>
+						<lon>-87.64277279377</lon>
+
+							<typ>S</typ>
+                			<stpid>9197</stpid>
+                			<stpnm>51st Street &amp; Union</stpnm>
+                			<pdist>5768.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.801622839933</lat>
+						<lon>-87.645133137703</lon>
+
+							<typ>S</typ>
+                			<stpid>9198</stpid>
+                			<stpnm>51st Street &amp; Halsted</stpnm>
+                			<pdist>6419.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.80158684943</lat>
+						<lon>-87.647638320923</lon>
+
+							<typ>S</typ>
+                			<stpid>9199</stpid>
+                			<stpnm>51st Street &amp; Peoria</stpnm>
+                			<pdist>7095.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.801554857856</lat>
+						<lon>-87.650063037872</lon>
+
+							<typ>S</typ>
+                			<stpid>9200</stpid>
+                			<stpnm>51st Street &amp; Morgan</stpnm>
+                			<pdist>7762.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.801522866265</lat>
+						<lon>-87.652487754822</lon>
+
+							<typ>S</typ>
+                			<stpid>9201</stpid>
+                			<stpnm>51st Street &amp; Aberdeen</stpnm>
+                			<pdist>8421.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.801490874658</lat>
+						<lon>-87.654917836189</lon>
+
+							<typ>S</typ>
+                			<stpid>9202</stpid>
+                			<stpnm>51st Street &amp; Racine</stpnm>
+                			<pdist>9093.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.801450885127</lat>
+						<lon>-87.657331824303</lon>
+
+							<typ>S</typ>
+                			<stpid>9203</stpid>
+                			<stpnm>51st Street &amp; Throop</stpnm>
+                			<pdist>9758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.801414894528</lat>
+						<lon>-87.659751176834</lon>
+
+							<typ>S</typ>
+                			<stpid>9204</stpid>
+                			<stpnm>51st Street &amp; Loomis</stpnm>
+                			<pdist>10427.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.801386901825</lat>
+						<lon>-87.662122249603</lon>
+
+							<typ>S</typ>
+                			<stpid>9205</stpid>
+                			<stpnm>51st Street &amp; Laflin</stpnm>
+                			<pdist>11095.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.801346912229</lat>
+						<lon>-87.66449868679</lon>
+
+							<typ>S</typ>
+                			<stpid>9206</stpid>
+                			<stpnm>51st Street &amp; Ashland</stpnm>
+                			<pdist>11749.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.801330916384</lat>
+						<lon>-87.667019963264</lon>
+
+							<typ>S</typ>
+                			<stpid>9207</stpid>
+                			<stpnm>51st Street &amp; Paulina</stpnm>
+                			<pdist>12432.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.801306922609</lat>
+						<lon>-87.669476866722</lon>
+
+							<typ>S</typ>
+                			<stpid>9208</stpid>
+                			<stpnm>51st Street &amp; Wood</stpnm>
+                			<pdist>13096.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.801290926753</lat>
+						<lon>-87.671939134598</lon>
+
+							<typ>S</typ>
+                			<stpid>9209</stpid>
+                			<stpnm>51st Street &amp; Wolcott</stpnm>
+                			<pdist>13765.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.801258935031</lat>
+						<lon>-87.674374580383</lon>
+
+							<typ>S</typ>
+                			<stpid>9210</stpid>
+                			<stpnm>51st Street &amp; Damen</stpnm>
+                			<pdist>14440.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.801226943292</lat>
+						<lon>-87.676793932915</lon>
+
+							<typ>S</typ>
+                			<stpid>9211</stpid>
+                			<stpnm>51st Street &amp; Hoyne</stpnm>
+                			<pdist>15109.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.801202949478</lat>
+						<lon>-87.678928971291</lon>
+
+							<typ>S</typ>
+                			<stpid>9212</stpid>
+                			<stpnm>51st Street &amp; Leavitt</stpnm>
+                			<pdist>15714.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.801162959767</lat>
+						<lon>-87.681638002396</lon>
+
+							<typ>S</typ>
+                			<stpid>9213</stpid>
+                			<stpnm>51st Street &amp; Oakley</stpnm>
+                			<pdist>16437.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.801166958739</lat>
+						<lon>-87.683515548706</lon>
+
+							<typ>S</typ>
+                			<stpid>9214</stpid>
+                			<stpnm>51st Street &amp; Western Boulevard</stpnm>
+                			<pdist>16948.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.801174956683</lat>
+						<lon>-87.684706449509</lon>
+
+							<typ>S</typ>
+                			<stpid>9215</stpid>
+                			<stpnm>51st Street &amp; Western Avenue</stpnm>
+                			<pdist>17280.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.801150962849</lat>
+						<lon>-87.686492800713</lon>
+
+							<typ>S</typ>
+                			<stpid>9216</stpid>
+                			<stpnm>51st Street &amp; Campbell</stpnm>
+                			<pdist>17781.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.80113096798</lat>
+						<lon>-87.687844634056</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.80110697413</lat>
+						<lon>-87.688997983932</lon>
+
+							<typ>S</typ>
+                			<stpid>9217</stpid>
+                			<stpnm>51st Street &amp; Rockwell</stpnm>
+                			<pdist>18452.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.801090978225</lat>
+						<lon>-87.690301537514</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.801058986402</lat>
+						<lon>-87.691411972046</lon>
+
+							<typ>S</typ>
+                			<stpid>9218</stpid>
+                			<stpnm>51st Street &amp; Washtenaw</stpnm>
+                			<pdist>19125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.801030993544</lat>
+						<lon>-87.693750858307</lon>
+
+							<typ>S</typ>
+                			<stpid>9219</stpid>
+                			<stpnm>51st Street &amp; California</stpnm>
+                			<pdist>19802.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.80098300576</lat>
+						<lon>-87.696352601051</lon>
+
+							<typ>S</typ>
+                			<stpid>9220</stpid>
+                			<stpnm>51st Street &amp; Francisco</stpnm>
+                			<pdist>20400.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.800947014898</lat>
+						<lon>-87.698729038239</lon>
+
+							<typ>S</typ>
+                			<stpid>9221</stpid>
+                			<stpnm>51st Street &amp; Sacramento</stpnm>
+                			<pdist>21125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.800907025027</lat>
+						<lon>-87.701185941696</lon>
+
+							<typ>S</typ>
+                			<stpid>9222</stpid>
+                			<stpnm>51st Street &amp; Albany</stpnm>
+                			<pdist>21809.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.800879032103</lat>
+						<lon>-87.703589200974</lon>
+
+							<typ>S</typ>
+                			<stpid>9223</stpid>
+                			<stpnm>51st Street &amp; Kedzie</stpnm>
+                			<pdist>22448.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.800875033113</lat>
+						<lon>-87.703701853752</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.802758529856</lat>
+						<lon>-87.703744769096</lon>
+
+							<typ>S</typ>
+                			<stpid>3113</stpid>
+                			<stpnm>5000 S Kedzie</stpnm>
+                			<pdist>23123.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.804314072471</lat>
+						<lon>-87.703787684441</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.805185799635</lat>
+						<lon>-87.703830599785</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.805177802192</lat>
+						<lon>-87.704603075981</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.804865901136</lat>
+						<lon>-87.704431414604</lon>
+
+							<typ>S</typ>
+                			<stpid>14126</stpid>
+                			<stpnm>Kedzie Orange Line Station</stpnm>
+                			<pdist>24645.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1199</pid>
+				<ln>24730.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.804865901136</lat>
+						<lon>-87.704431414604</lon>
+
+							<typ>S</typ>
+                			<stpid>14126</stpid>
+                			<stpnm>Kedzie Orange Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.804885894839</lat>
+						<lon>-87.703894972801</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.802858501597</lat>
+						<lon>-87.703852057457</lon>
+
+							<typ>S</typ>
+                			<stpid>3085</stpid>
+                			<stpnm>5000 S Kedzie</stpnm>
+                			<pdist>982.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.800931018953</lat>
+						<lon>-87.703782320023</lon>
+
+							<typ>S</typ>
+                			<stpid>9154</stpid>
+                			<stpnm>51st Street &amp; Kedzie</stpnm>
+                			<pdist>1861.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.800819047225</lat>
+						<lon>-87.703787684441</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.800851039167</lat>
+						<lon>-87.701379060745</lon>
+
+							<typ>S</typ>
+                			<stpid>9155</stpid>
+                			<stpnm>51st Street &amp; Albany</stpnm>
+                			<pdist>2350.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.800883031093</lat>
+						<lon>-87.69894361496</lon>
+
+							<typ>S</typ>
+                			<stpid>9156</stpid>
+                			<stpnm>51st Street &amp; Sacramento</stpnm>
+                			<pdist>3019.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.800919021991</lat>
+						<lon>-87.696513533592</lon>
+
+							<typ>S</typ>
+                			<stpid>9157</stpid>
+                			<stpnm>51st Street &amp; Francisco</stpnm>
+                			<pdist>3688.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.800971008808</lat>
+						<lon>-87.694121003151</lon>
+
+							<typ>S</typ>
+                			<stpid>9158</stpid>
+                			<stpnm>51st Street &amp; California</stpnm>
+                			<pdist>4356.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.800999001692</lat>
+						<lon>-87.691648006439</lon>
+
+							<typ>S</typ>
+                			<stpid>9159</stpid>
+                			<stpnm>51st Street &amp; Washtenaw</stpnm>
+                			<pdist>5019.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.801026994564</lat>
+						<lon>-87.690301537514</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.801038991505</lat>
+						<lon>-87.689228653908</lon>
+
+							<typ>S</typ>
+                			<stpid>9160</stpid>
+                			<stpnm>51st Street &amp; Rockwell</stpnm>
+                			<pdist>5688.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.801066984359</lat>
+						<lon>-87.687892913818</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.801078981293</lat>
+						<lon>-87.686841487885</lon>
+
+							<typ>S</typ>
+                			<stpid>9161</stpid>
+                			<stpnm>51st Street &amp; Campbell</stpnm>
+                			<pdist>6369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.801114972081</lat>
+						<lon>-87.684448957443</lon>
+
+							<typ>S</typ>
+                			<stpid>9162</stpid>
+                			<stpnm>51st Street &amp; Western Avenue</stpnm>
+                			<pdist>7005.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.801110973106</lat>
+						<lon>-87.683370709419</lon>
+
+							<typ>S</typ>
+                			<stpid>9163</stpid>
+                			<stpnm>51st Street &amp; Western Boulevard</stpnm>
+                			<pdist>7360.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.80110697413</lat>
+						<lon>-87.681906223297</lon>
+
+							<typ>S</typ>
+                			<stpid>9164</stpid>
+                			<stpnm>51st Street &amp; Oakley</stpnm>
+                			<pdist>7715.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.801146963876</lat>
+						<lon>-87.678837776184</lon>
+
+							<typ>S</typ>
+                			<stpid>9165</stpid>
+                			<stpnm>2135 W 51st Street</stpnm>
+                			<pdist>8637.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.801170957711</lat>
+						<lon>-87.67702460289</lon>
+
+							<typ>S</typ>
+                			<stpid>9166</stpid>
+                			<stpnm>51st Street &amp; Hoyne</stpnm>
+                			<pdist>9043.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.801194951537</lat>
+						<lon>-87.674374580383</lon>
+
+							<typ>S</typ>
+                			<stpid>9167</stpid>
+                			<stpnm>51st Street &amp; Damen</stpnm>
+                			<pdist>9694.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.801234941228</lat>
+						<lon>-87.672153711319</lon>
+
+							<typ>S</typ>
+                			<stpid>9168</stpid>
+                			<stpnm>51st Street &amp; Wolcott</stpnm>
+                			<pdist>10381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.801234941228</lat>
+						<lon>-87.669718265533</lon>
+
+							<typ>S</typ>
+                			<stpid>9169</stpid>
+                			<stpnm>51st Street &amp; Wood</stpnm>
+                			<pdist>11045.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.801270931928</lat>
+						<lon>-87.66730427742</lon>
+
+							<typ>S</typ>
+                			<stpid>9170</stpid>
+                			<stpnm>51st Street &amp; Paulina</stpnm>
+                			<pdist>11716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.801282928824</lat>
+						<lon>-87.664777636528</lon>
+
+							<typ>S</typ>
+                			<stpid>15024</stpid>
+                			<stpnm>51st Street &amp; Ashland</stpnm>
+                			<pdist>12624.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.801314920535</lat>
+						<lon>-87.66254067421</lon>
+
+							<typ>S</typ>
+                			<stpid>9172</stpid>
+                			<stpnm>51st Street &amp; Laflin</stpnm>
+                			<pdist>13039.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.801346912229</lat>
+						<lon>-87.660014033318</lon>
+
+							<typ>S</typ>
+                			<stpid>9173</stpid>
+                			<stpnm>51st Street &amp; Loomis</stpnm>
+                			<pdist>13702.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.801386901825</lat>
+						<lon>-87.65755712986</lon>
+
+							<typ>S</typ>
+                			<stpid>9174</stpid>
+                			<stpnm>51st Street &amp; Throop</stpnm>
+                			<pdist>14369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.801426891396</lat>
+						<lon>-87.654955387115</lon>
+
+							<typ>S</typ>
+                			<stpid>9175</stpid>
+                			<stpnm>51st Street &amp; Racine</stpnm>
+                			<pdist>15036.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.801454884081</lat>
+						<lon>-87.652750611305</lon>
+
+							<typ>S</typ>
+                			<stpid>9176</stpid>
+                			<stpnm>51st Street &amp; Aberdeen</stpnm>
+                			<pdist>15711.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.80149487361</lat>
+						<lon>-87.650309801102</lon>
+
+							<typ>S</typ>
+                			<stpid>9177</stpid>
+                			<stpnm>51st Street &amp; Morgan</stpnm>
+                			<pdist>16369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.801522866265</lat>
+						<lon>-87.647885084152</lon>
+
+							<typ>S</typ>
+                			<stpid>9178</stpid>
+                			<stpnm>51st Street &amp; Peoria</stpnm>
+                			<pdist>17040.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.801546859959</lat>
+						<lon>-87.645487189293</lon>
+
+							<typ>S</typ>
+                			<stpid>9179</stpid>
+                			<stpnm>51st Street &amp; Halsted</stpnm>
+                			<pdist>17695.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.801594847322</lat>
+						<lon>-87.642998099327</lon>
+
+							<typ>S</typ>
+                			<stpid>9180</stpid>
+                			<stpnm>51st Street &amp; Union</stpnm>
+                			<pdist>18378.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.801633333333</lat>
+						<lon>-87.641104999999</lon>
+
+							<typ>S</typ>
+                			<stpid>9181</stpid>
+                			<stpnm>51st Street &amp; Lowe</stpnm>
+                			<pdist>18903.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.801670827239</lat>
+						<lon>-87.638985514641</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.801770800676</lat>
+						<lon>-87.633578181267</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.801728333333</lat>
+						<lon>-87.633268333332</lon>
+
+							<typ>S</typ>
+                			<stpid>9182</stpid>
+                			<stpnm>51st Street &amp; Princeton</stpnm>
+                			<pdist>21048.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.801710816632</lat>
+						<lon>-87.632140517235</lon>
+
+							<typ>S</typ>
+                			<stpid>9183</stpid>
+                			<stpnm>51st Street &amp; Wells</stpnm>
+                			<pdist>21357.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.801702818756</lat>
+						<lon>-87.63062775135</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.802190687411</lat>
+						<lon>-87.630654573441</lon>
+
+							<typ>S</typ>
+                			<stpid>15907</stpid>
+                			<stpnm>Wentworth &amp; 51st Street</stpnm>
+                			<pdist>21883.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.803802227142</lat>
+						<lon>-87.630724310875</lon>
+
+							<typ>S</typ>
+                			<stpid>6468</stpid>
+                			<stpnm>5000 S Wentworth</stpnm>
+                			<pdist>22479.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.80523778299</lat>
+						<lon>-87.630756497383</lon>
+
+							<typ>S</typ>
+                			<stpid>6469</stpid>
+                			<stpnm>4949 S Wentworth</stpnm>
+                			<pdist>23006.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.806225458726</lat>
+						<lon>-87.630777955055</lon>
+
+							<typ>S</typ>
+                			<stpid>6470</stpid>
+                			<stpnm>4901 S Wentworth</stpnm>
+                			<pdist>23355.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.807405051495</lat>
+						<lon>-87.630804777145</lon>
+
+							<typ>S</typ>
+                			<stpid>6471</stpid>
+                			<stpnm>4800 S Wentworth</stpnm>
+                			<pdist>23840.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.808900503988</lat>
+						<lon>-87.630804777145</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.809184396107</lat>
+						<lon>-87.630815505981</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.80917240069</lat>
+						<lon>-87.631545066833</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.809140412903</lat>
+						<lon>-87.632140517235</lon>
+
+							<typ>S</typ>
+                			<stpid>14784</stpid>
+                			<stpnm>47th Red Line Station</stpnm>
+                			<pdist>24730.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

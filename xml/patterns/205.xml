@@ -1,0 +1,2343 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4323</pid>
+				<ln>40888.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>42.017755808411</lat>
+						<lon>-87.672979831696</lon>
+
+							<typ>S</typ>
+                			<stpid>14092</stpid>
+                			<stpnm>Paulina &amp; Howard Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>42.01858477181</lat>
+						<lon>-87.672963738441</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>42.018696362212</lat>
+						<lon>-87.673028111458</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>42.019070985699</lat>
+						<lon>-87.673623561859</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>42.019122795157</lat>
+						<lon>-87.673671841621</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>42.019186560585</lat>
+						<lon>-87.673687934875</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>42.019425680372</lat>
+						<lon>-87.673698663712</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>42.019433651016</lat>
+						<lon>-87.676182389259</lon>
+
+							<typ>S</typ>
+                			<stpid>3513</stpid>
+                			<stpnm>Howard &amp; Chicago Avenue</stpnm>
+                			<pdist>1268.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>42.019433651016</lat>
+						<lon>-87.676273584366</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>42.022047968362</lat>
+						<lon>-87.676954865456</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>42.022530170643</lat>
+						<lon>-87.677035331726</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>42.022904771545</lat>
+						<lon>-87.677115797997</lon>
+
+							<typ>S</typ>
+                			<stpid>15806</stpid>
+                			<stpnm>Chicago &amp; Juneway/Mulford</stpnm>
+                			<pdist>2375.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>42.026630734823</lat>
+						<lon>-87.678017020226</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>42.027108917507</lat>
+						<lon>-87.678129673004</lon>
+
+							<typ>S</typ>
+                			<stpid>16011</stpid>
+                			<stpnm>Chicago Avenue &amp; South Blvd (Purple Line)</stpnm>
+                			<pdist>4105.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>42.027276280597</lat>
+						<lon>-87.678161859512</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>42.029412113721</lat>
+						<lon>-87.678424715996</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>42.030428203169</lat>
+						<lon>-87.678617835045</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>42.031938361007</lat>
+						<lon>-87.678934335709</lon>
+
+							<typ>S</typ>
+                			<stpid>14313</stpid>
+                			<stpnm>Chicago Avenue &amp; Kedzie</stpnm>
+                			<pdist>5907.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>42.032826906768</lat>
+						<lon>-87.67909526825</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>42.034030209028</lat>
+						<lon>-87.679352760315</lon>
+
+							<typ>S</typ>
+                			<stpid>16058</stpid>
+                			<stpnm>Chicago Avenue &amp; Main</stpnm>
+                			<pdist>6718.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>42.035743480884</lat>
+						<lon>-87.679690718651</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>42.037384991057</lat>
+						<lon>-87.680023312569</lon>
+
+							<typ>S</typ>
+                			<stpid>14317</stpid>
+                			<stpnm>Chicago Avenue &amp; Greenleaf</stpnm>
+                			<pdist>7908.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>42.039197774625</lat>
+						<lon>-87.680361270905</lon>
+
+							<typ>S</typ>
+                			<stpid>14319</stpid>
+                			<stpnm>Chicago Avenue &amp; Hamilton</stpnm>
+                			<pdist>8514.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>42.040233627733</lat>
+						<lon>-87.680506110191</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>42.041070265992</lat>
+						<lon>-87.680511474609</lon>
+
+							<typ>S</typ>
+                			<stpid>12645</stpid>
+                			<stpnm>Chicago Avenue &amp; Dempster (Purple Line)</stpnm>
+                			<pdist>9240.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>42.042580170971</lat>
+						<lon>-87.680500745773</lon>
+
+							<typ>S</typ>
+                			<stpid>14753</stpid>
+                			<stpnm>Sherman &amp; Greenwood</stpnm>
+                			<pdist>9767.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>42.043942640182</lat>
+						<lon>-87.680495381355</lon>
+
+							<typ>S</typ>
+                			<stpid>14321</stpid>
+                			<stpnm>Chicago Avenue &amp; Lake</stpnm>
+                			<pdist>10285.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>42.044109958947</lat>
+						<lon>-87.680484652519</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>42.044906708931</lat>
+						<lon>-87.680227160454</lon>
+
+							<typ>S</typ>
+                			<stpid>15491</stpid>
+                			<stpnm>Chicago &amp; Grove</stpnm>
+                			<pdist>10635.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>42.046213357273</lat>
+						<lon>-87.679615616798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>42.046719277921</lat>
+						<lon>-87.68143415451</lon>
+
+							<typ>S</typ>
+                			<stpid>14693</stpid>
+                			<stpnm>Davis &amp; Orrington</stpnm>
+                			<pdist>11602.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>42.047006097285</lat>
+						<lon>-87.682555317879</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>42.047065851157</lat>
+						<lon>-87.683338522911</lon>
+
+							<typ>S</typ>
+                			<stpid>14405</stpid>
+                			<stpnm>Davis &amp; Benson</stpnm>
+                			<pdist>12162.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>42.047081785513</lat>
+						<lon>-87.684770822525</lon>
+
+							<typ>S</typ>
+                			<stpid>12686</stpid>
+                			<stpnm>Davis &amp; Maple</stpnm>
+                			<pdist>12573.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>42.04710568704</lat>
+						<lon>-87.686626911163</lon>
+
+							<typ>S</typ>
+                			<stpid>12687</stpid>
+                			<stpnm>Davis &amp; Oak</stpnm>
+                			<pdist>13078.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>42.047149506482</lat>
+						<lon>-87.688407897949</lon>
+
+							<typ>S</typ>
+                			<stpid>12688</stpid>
+                			<stpnm>Davis &amp; Ridge</stpnm>
+                			<pdist>13595.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>42.047141539313</lat>
+						<lon>-87.690092325211</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>42.048555696178</lat>
+						<lon>-87.690070867538</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>42.04856366317</lat>
+						<lon>-87.690280079842</lon>
+
+							<typ>S</typ>
+                			<stpid>12678</stpid>
+                			<stpnm>Church &amp; Asbury</stpnm>
+                			<pdist>14613.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>42.048627399068</lat>
+						<lon>-87.693638205528</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>42.048615448592</lat>
+						<lon>-87.694099545479</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>42.048464075701</lat>
+						<lon>-87.695006132126</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>42.048464075701</lat>
+						<lon>-87.695124149323</lon>
+
+							<typ>S</typ>
+                			<stpid>14694</stpid>
+                			<stpnm>Church &amp; Florence</stpnm>
+                			<pdist>15823.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>42.048404323145</lat>
+						<lon>-87.698782682419</lon>
+
+							<typ>S</typ>
+                			<stpid>12712</stpid>
+                			<stpnm>Church &amp; Dodge</stpnm>
+                			<pdist>16885.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>42.048404323145</lat>
+						<lon>-87.698938250542</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>42.052120825165</lat>
+						<lon>-87.698863148689</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>42.052116841892</lat>
+						<lon>-87.699131369591</lon>
+
+							<typ>S</typ>
+                			<stpid>15317</stpid>
+                			<stpnm>Emerson &amp; Dodge</stpnm>
+                			<pdist>18366.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>42.052065059324</lat>
+						<lon>-87.703369259834</lon>
+
+							<typ>S</typ>
+                			<stpid>14326</stpid>
+                			<stpnm>Emerson &amp; Hartrey</stpnm>
+                			<pdist>19467.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>42.051997343595</lat>
+						<lon>-87.705906629562</lon>
+
+							<typ>S</typ>
+                			<stpid>14710</stpid>
+                			<stpnm>Emerson &amp; Foster</stpnm>
+                			<pdist>20150.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>42.052017259994</lat>
+						<lon>-87.706609368324</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>42.052558983635</lat>
+						<lon>-87.709270119667</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>42.052718313238</lat>
+						<lon>-87.70977973938</lon>
+
+							<typ>S</typ>
+                			<stpid>14246</stpid>
+                			<stpnm>Golf Road &amp; McDaniel</stpnm>
+                			<pdist>21237.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>42.052809927579</lat>
+						<lon>-87.709983587265</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>42.054295654747</lat>
+						<lon>-87.713068127632</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>42.055124141667</lat>
+						<lon>-87.714795470238</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>42.055199820221</lat>
+						<lon>-87.715026140213</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>42.055279481761</lat>
+						<lon>-87.715326547623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>42.055363126269</lat>
+						<lon>-87.715793251991</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>42.05538702468</lat>
+						<lon>-87.71620631218</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>42.055391007748</lat>
+						<lon>-87.717547416687</lon>
+
+							<typ>S</typ>
+                			<stpid>14247</stpid>
+                			<stpnm>Golf Road &amp; Central Park</stpnm>
+                			<pdist>23620.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>42.055394990815</lat>
+						<lon>-87.719060182571</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>42.055351177061</lat>
+						<lon>-87.723437547684</lon>
+
+							<typ>S</typ>
+                			<stpid>15492</stpid>
+                			<stpnm>Golf Road &amp; Pres Home Entrance</stpnm>
+                			<pdist>25232.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>42.055303380203</lat>
+						<lon>-87.727305293083</lon>
+
+							<typ>S</typ>
+                			<stpid>14248</stpid>
+                			<stpnm>Golf Road &amp; Crawford</stpnm>
+                			<pdist>26294.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>42.05529939713</lat>
+						<lon>-87.730974555016</lon>
+
+							<typ>S</typ>
+                			<stpid>14712</stpid>
+                			<stpnm>Golf Road &amp; Kedvale</stpnm>
+                			<pdist>27302.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>42.055291430983</lat>
+						<lon>-87.733377814293</lon>
+
+							<typ>S</typ>
+                			<stpid>14713</stpid>
+                			<stpnm>Golf Road &amp; Tripp</stpnm>
+                			<pdist>27945.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>42.055275498686</lat>
+						<lon>-87.735840082169</lon>
+
+							<typ>S</typ>
+                			<stpid>14329</stpid>
+                			<stpnm>Golf Road &amp; Lowell</stpnm>
+                			<pdist>28618.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>42.055279481761</lat>
+						<lon>-87.738795876503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>42.055319312493</lat>
+						<lon>-87.739187479019</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>42.055327278636</lat>
+						<lon>-87.739745378494</lon>
+
+							<typ>S</typ>
+                			<stpid>14249</stpid>
+                			<stpnm>Golf Road &amp; Gross Point</stpnm>
+                			<pdist>29670.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>42.055327278636</lat>
+						<lon>-87.741794586182</lon>
+
+							<typ>S</typ>
+                			<stpid>14695</stpid>
+                			<stpnm>Golf Road &amp; Kenton</stpnm>
+                			<pdist>30254.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>42.055331261708</lat>
+						<lon>-87.743103504181</lon>
+
+							<typ>S</typ>
+                			<stpid>15493</stpid>
+                			<stpnm>Golf Road &amp; Knox</stpnm>
+                			<pdist>30738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>42.055367109339</lat>
+						<lon>-87.744804024696</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>42.055371092407</lat>
+						<lon>-87.746751308441</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>42.055283464835</lat>
+						<lon>-87.746788859367</lon>
+
+							<typ>S</typ>
+                			<stpid>3571</stpid>
+                			<stpnm>Golf Road &amp; Skokie Blvd</stpnm>
+                			<pdist>31782.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>42.055371092407</lat>
+						<lon>-87.746788859367</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>42.055394990815</lat>
+						<lon>-87.74950325489</lon>
+
+							<typ>S</typ>
+                			<stpid>3572</stpid>
+                			<stpnm>Golf Road &amp; Lamon</stpnm>
+                			<pdist>32341.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>42.055406940016</lat>
+						<lon>-87.751541733742</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>42.055502533539</lat>
+						<lon>-87.751552462578</lon>
+
+							<typ>S</typ>
+                			<stpid>3573</stpid>
+                			<stpnm>Golf Road &amp; Lavergne</stpnm>
+                			<pdist>32850.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>42.05726302187</lat>
+						<lon>-87.75154709816</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>42.057501998424</lat>
+						<lon>-87.751632928848</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>42.057736991159</lat>
+						<lon>-87.751783132553</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>42.058374255216</lat>
+						<lon>-87.751997709274</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>42.058565433186</lat>
+						<lon>-87.75200843811</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>42.058573398922</lat>
+						<lon>-87.750715613365</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>42.058716782004</lat>
+						<lon>-87.750720977783</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>42.059513348785</lat>
+						<lon>-87.750415205956</lon>
+
+							<typ>S</typ>
+                			<stpid>3574</stpid>
+                			<stpnm>Old Orchard Mall - Macys</stpnm>
+                			<pdist>34665.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>42.059676643741</lat>
+						<lon>-87.750356197357</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>42.059851886642</lat>
+						<lon>-87.750436663628</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>42.060664370133</lat>
+						<lon>-87.750098705292</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>42.060744024818</lat>
+						<lon>-87.750152349472</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>42.060791817581</lat>
+						<lon>-87.750265002251</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>42.060807748494</lat>
+						<lon>-87.750763893127</lon>
+
+							<typ>S</typ>
+                			<stpid>3575</stpid>
+                			<stpnm>Old Orchard Mall - Bloomingdales</stpnm>
+                			<pdist>35471.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>42.060815713949</lat>
+						<lon>-87.751396894455</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>42.061767578624</lat>
+						<lon>-87.751396894455</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>42.06257207237</lat>
+						<lon>-87.751418352127</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>42.062588002837</lat>
+						<lon>-87.752560973167</lon>
+
+							<typ>S</typ>
+                			<stpid>10446</stpid>
+                			<stpnm>Old Orchard Rd &amp; Lawler</stpnm>
+                			<pdist>36448.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>42.062627828985</lat>
+						<lon>-87.75873541832</lon>
+
+							<typ>S</typ>
+                			<stpid>10447</stpid>
+                			<stpnm>Old Orchard Rd &amp; Lockwood</stpnm>
+                			<pdist>38141.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>42.062699515989</lat>
+						<lon>-87.761036753654</lon>
+
+							<typ>S</typ>
+                			<stpid>10448</stpid>
+                			<stpnm>Old Orchard Rd &amp; Woods</stpnm>
+                			<pdist>38679.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>42.062715446423</lat>
+						<lon>-87.763397097588</lon>
+
+							<typ>S</typ>
+                			<stpid>10449</stpid>
+                			<stpnm>5420 W Old Orchard Rd</stpnm>
+                			<pdist>39364.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>42.062739342067</lat>
+						<lon>-87.765913009644</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>42.062719429031</lat>
+						<lon>-87.767495512962</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>42.063296904541</lat>
+						<lon>-87.767484784126</lon>
+
+							<typ>S</typ>
+                			<stpid>10450</stpid>
+                			<stpnm>Old Orchard Rd &amp; Skokie Court House</stpnm>
+                			<pdist>40888.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4325</pid>
+				<ln>43754.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>42.063296904541</lat>
+						<lon>-87.767484784126</lon>
+
+							<typ>S</typ>
+                			<stpid>10450</stpid>
+                			<stpnm>Old Orchard Rd &amp; Skokie Court House</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>42.063292921969</lat>
+						<lon>-87.767672538757</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>42.062568089753</lat>
+						<lon>-87.767656445503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>42.062591985453</lat>
+						<lon>-87.766009569168</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>42.062536228807</lat>
+						<lon>-87.761546373367</lon>
+
+							<typ>S</typ>
+                			<stpid>10451</stpid>
+                			<stpnm>5420 W Old Orchard Rd</stpnm>
+                			<pdist>1362.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>42.062512333086</lat>
+						<lon>-87.760661244392</lon>
+
+							<typ>S</typ>
+                			<stpid>10452</stpid>
+                			<stpnm>Old Orchard Rd &amp; Woods</stpnm>
+                			<pdist>2173.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>42.062464541618</lat>
+						<lon>-87.757877111435</lon>
+
+							<typ>S</typ>
+                			<stpid>10453</stpid>
+                			<stpnm>Old Orchard Rd &amp; Edens SB Entrance Ramp</stpnm>
+                			<pdist>2907.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>42.062452593746</lat>
+						<lon>-87.753569483757</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>42.06240878486</lat>
+						<lon>-87.751584649086</lon>
+
+							<typ>S</typ>
+                			<stpid>14696</stpid>
+                			<stpnm>Old Orchard Rd &amp; Lavergne</stpnm>
+                			<pdist>4583.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>42.062400819605</lat>
+						<lon>-87.751477360725</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>42.060871472105</lat>
+						<lon>-87.751461267471</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>42.06049709497</lat>
+						<lon>-87.751536369324</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>42.060238713718</lat>
+						<lon>-87.751657739282</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>42.059799114683</lat>
+						<lon>-87.751862928271</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>42.059433194705</lat>
+						<lon>-87.752072140574</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>42.059230070868</lat>
+						<lon>-87.752126455307</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>42.058736696295</lat>
+						<lon>-87.752104997635</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>42.058573398922</lat>
+						<lon>-87.752088904381</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>42.058573398922</lat>
+						<lon>-87.750710248947</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>42.058716782004</lat>
+						<lon>-87.750726342201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>42.059513348785</lat>
+						<lon>-87.750415205956</lon>
+
+							<typ>S</typ>
+                			<stpid>3574</stpid>
+                			<stpnm>Old Orchard Mall - Macys</stpnm>
+                			<pdist>6708.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>42.059660712544</lat>
+						<lon>-87.750345468521</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>42.059859852216</lat>
+						<lon>-87.75043129921</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>42.060672335606</lat>
+						<lon>-87.750098705292</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>42.060748007549</lat>
+						<lon>-87.750152349472</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>42.060791817581</lat>
+						<lon>-87.750248908997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>42.060807748494</lat>
+						<lon>-87.750763893127</lon>
+
+							<typ>S</typ>
+                			<stpid>3575</stpid>
+                			<stpnm>Old Orchard Mall - Bloomingdales</stpnm>
+                			<pdist>7488.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>42.060821688039</lat>
+						<lon>-87.751470655203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>42.060496597127</lat>
+						<lon>-87.751536369324</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>42.060239211563</lat>
+						<lon>-87.751657739282</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>42.059799114683</lat>
+						<lon>-87.751862257719</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>42.059433194705</lat>
+						<lon>-87.752072140574</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>42.059230070868</lat>
+						<lon>-87.752125784755</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>42.058736696295</lat>
+						<lon>-87.752104327083</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>42.058342392165</lat>
+						<lon>-87.752072811127</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>42.057685213173</lat>
+						<lon>-87.751847505569</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>42.057462169061</lat>
+						<lon>-87.751708030701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>42.05726302187</lat>
+						<lon>-87.751632928848</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>42.055398973882</lat>
+						<lon>-87.75162756443</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>42.055223718694</lat>
+						<lon>-87.751681208611</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>42.055215752537</lat>
+						<lon>-87.751214504242</lon>
+
+							<typ>S</typ>
+                			<stpid>3576</stpid>
+                			<stpnm>Golf Road &amp; Lavergne</stpnm>
+                			<pdist>9734.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>42.055203803301</lat>
+						<lon>-87.749669551849</lon>
+
+							<typ>S</typ>
+                			<stpid>3577</stpid>
+                			<stpnm>Golf Road &amp; Lamon</stpnm>
+                			<pdist>10392.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>42.05517592174</lat>
+						<lon>-87.746665477753</lon>
+
+							<typ>S</typ>
+                			<stpid>15410</stpid>
+                			<stpnm>Golf Road &amp; Skokie Blvd</stpnm>
+                			<pdist>11045.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>42.055187870982</lat>
+						<lon>-87.744610905647</lon>
+
+							<typ>S</typ>
+                			<stpid>14697</stpid>
+                			<stpnm>Golf Road &amp; Knox</stpnm>
+                			<pdist>11814.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>42.055171938659</lat>
+						<lon>-87.742143273354</lon>
+
+							<typ>S</typ>
+                			<stpid>14698</stpid>
+                			<stpnm>Golf Road &amp; Kenton</stpnm>
+                			<pdist>12180.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>42.05517592174</lat>
+						<lon>-87.740260362625</lon>
+
+							<typ>S</typ>
+                			<stpid>14250</stpid>
+                			<stpnm>Golf Road &amp; Gross Point</stpnm>
+                			<pdist>12614.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>42.055187870982</lat>
+						<lon>-87.739128470421</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>42.055203803301</lat>
+						<lon>-87.738838791847</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>42.055211769459</lat>
+						<lon>-87.738398909569</lon>
+
+							<typ>S</typ>
+                			<stpid>14740</stpid>
+                			<stpnm>Golf Road &amp; Kenneth</stpnm>
+                			<pdist>13133.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>42.055219735616</lat>
+						<lon>-87.7360278368</lon>
+
+							<typ>S</typ>
+                			<stpid>14330</stpid>
+                			<stpnm>Golf Road &amp; Lowell</stpnm>
+                			<pdist>13788.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>42.055223718694</lat>
+						<lon>-87.733699679375</lon>
+
+							<typ>S</typ>
+                			<stpid>14699</stpid>
+                			<stpnm>Golf Road &amp; Tripp</stpnm>
+                			<pdist>14433.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>42.055235667926</lat>
+						<lon>-87.731114029884</lon>
+
+							<typ>S</typ>
+                			<stpid>14700</stpid>
+                			<stpnm>Golf Road &amp; Kedvale</stpnm>
+                			<pdist>15129.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>42.055235667926</lat>
+						<lon>-87.727632522583</lon>
+
+							<typ>S</typ>
+                			<stpid>14251</stpid>
+                			<stpnm>Golf Road &amp; Crawford</stpnm>
+                			<pdist>16059.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>42.055251600233</lat>
+						<lon>-87.72524535656</lon>
+
+							<typ>S</typ>
+                			<stpid>14701</stpid>
+                			<stpnm>Golf Road &amp; Springfield</stpnm>
+                			<pdist>16727.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>42.055295414057</lat>
+						<lon>-87.722804546356</lon>
+
+							<typ>S</typ>
+                			<stpid>14702</stpid>
+                			<stpnm>Golf Road &amp; Hamlin</stpnm>
+                			<pdist>17382.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>42.055323295565</lat>
+						<lon>-87.719065546989</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>42.055331261708</lat>
+						<lon>-87.717874646187</lon>
+
+							<typ>S</typ>
+                			<stpid>14252</stpid>
+                			<stpnm>Golf Road &amp; Central Park</stpnm>
+                			<pdist>18692.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>42.055331261708</lat>
+						<lon>-87.71623313427</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>42.055279481761</lat>
+						<lon>-87.715616226196</lon>
+
+							<typ>S</typ>
+                			<stpid>14703</stpid>
+                			<stpnm>Golf Road &amp; Lincolnwood</stpnm>
+                			<pdist>19349.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>42.055148040167</lat>
+						<lon>-87.715095877647</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>42.055068537787</lat>
+						<lon>-87.714849114418</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>42.054104463923</lat>
+						<lon>-87.712805271149</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>42.053252064498</lat>
+						<lon>-87.711045742035</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>42.052837810179</lat>
+						<lon>-87.71021425724</lon>
+
+							<typ>S</typ>
+                			<stpid>14704</stpid>
+                			<stpnm>Golf Road &amp; East Prairie</stpnm>
+                			<pdist>21064.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>42.052551017144</lat>
+						<lon>-87.709495425224</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>42.052491268432</lat>
+						<lon>-87.709243297577</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>42.052339904778</lat>
+						<lon>-87.708524465561</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>42.052041159664</lat>
+						<lon>-87.707108259201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>42.051953527497</lat>
+						<lon>-87.70659327507</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>42.051933611079</lat>
+						<lon>-87.706233859062</lon>
+
+							<typ>S</typ>
+                			<stpid>14705</stpid>
+                			<stpnm>Emerson &amp; Lemar</stpnm>
+                			<pdist>22207.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>42.051993360315</lat>
+						<lon>-87.703701853752</lon>
+
+							<typ>S</typ>
+                			<stpid>14325</stpid>
+                			<stpnm>Emerson &amp; Hartrey</stpnm>
+                			<pdist>22864.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>42.052045142941</lat>
+						<lon>-87.700220346451</lon>
+
+							<typ>S</typ>
+                			<stpid>14706</stpid>
+                			<stpnm>Emerson &amp; Brown</stpnm>
+                			<pdist>23816.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>42.052057092772</lat>
+						<lon>-87.698954343796</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>42.052116841892</lat>
+						<lon>-87.698954343796</lon>
+
+							<typ>S</typ>
+                			<stpid>15543</stpid>
+                			<stpnm>Dodge &amp; Emerson</stpnm>
+                			<pdist>24147.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>42.048559679674</lat>
+						<lon>-87.699029445648</lon>
+
+							<typ>S</typ>
+                			<stpid>13156</stpid>
+                			<stpnm>Dodge &amp; Church</stpnm>
+                			<pdist>25216.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>42.048332620003</lat>
+						<lon>-87.69902408123</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>42.048404323145</lat>
+						<lon>-87.695134878159</lon>
+
+							<typ>S</typ>
+                			<stpid>14707</stpid>
+                			<stpnm>Church &amp; Florence</stpnm>
+                			<pdist>26528.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>42.048412290156</lat>
+						<lon>-87.694952487946</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>42.048547729185</lat>
+						<lon>-87.694121003151</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>42.048571630161</lat>
+						<lon>-87.693638205528</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>42.048547729185</lat>
+						<lon>-87.692103981972</lon>
+
+							<typ>S</typ>
+                			<stpid>14708</stpid>
+                			<stpnm>Church &amp; Wesley</stpnm>
+                			<pdist>27364.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>42.048507894207</lat>
+						<lon>-87.690360546112</lon>
+
+							<typ>S</typ>
+                			<stpid>12679</stpid>
+                			<stpnm>Church &amp; Asbury</stpnm>
+                			<pdist>27852.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>42.048480009707</lat>
+						<lon>-87.688944339752</lon>
+
+							<typ>S</typ>
+                			<stpid>12682</stpid>
+                			<stpnm>Church &amp; Ridge</stpnm>
+                			<pdist>28219.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>42.048495943708</lat>
+						<lon>-87.686728835106</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>42.048468059203</lat>
+						<lon>-87.685591578484</lon>
+
+							<typ>S</typ>
+                			<stpid>12680</stpid>
+                			<stpnm>Church &amp; Maple</stpnm>
+                			<pdist>29308.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>42.048476026206</lat>
+						<lon>-87.684765458107</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>42.048444158189</lat>
+						<lon>-87.683499455452</lon>
+
+							<typ>S</typ>
+                			<stpid>12708</stpid>
+                			<stpnm>Church &amp; Benson</stpnm>
+                			<pdist>29683.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>42.048448141692</lat>
+						<lon>-87.681997418404</lon>
+
+							<typ>S</typ>
+                			<stpid>12648</stpid>
+                			<stpnm>Church &amp; Sherman</stpnm>
+                			<pdist>30079.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>42.048448141692</lat>
+						<lon>-87.681600451469</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>42.047762975503</lat>
+						<lon>-87.679154276848</lon>
+
+							<typ>S</typ>
+                			<stpid>14709</stpid>
+                			<stpnm>Church &amp; Chicago Avenue</stpnm>
+                			<pdist>30913.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>42.047719156484</lat>
+						<lon>-87.679009437561</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>42.046237259127</lat>
+						<lon>-87.679696083069</lon>
+
+							<typ>S</typ>
+                			<stpid>14692</stpid>
+                			<stpnm>Chicago Avenue &amp; Davis</stpnm>
+                			<pdist>31484.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>42.0450859763</lat>
+						<lon>-87.680248618126</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>42.04478719707</lat>
+						<lon>-87.680361270905</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>42.044129877819</lat>
+						<lon>-87.680554389954</lon>
+
+							<typ>S</typ>
+                			<stpid>14322</stpid>
+                			<stpnm>Chicago Avenue &amp; Lake</stpnm>
+                			<pdist>32256.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>42.044010364497</lat>
+						<lon>-87.680570483208</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>42.042787331916</lat>
+						<lon>-87.680581212044</lon>
+
+							<typ>S</typ>
+                			<stpid>14754</stpid>
+                			<stpnm>Chicago Avenue &amp; Greenwood</stpnm>
+                			<pdist>32775.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>42.041365078754</lat>
+						<lon>-87.680597305298</lon>
+
+							<typ>S</typ>
+                			<stpid>12644</stpid>
+                			<stpnm>Chicago Avenue &amp; Dempster (Purple Line)</stpnm>
+                			<pdist>33292.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>42.040930827047</lat>
+						<lon>-87.68059194088</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>42.040221675678</lat>
+						<lon>-87.680575847626</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>42.039404946598</lat>
+						<lon>-87.680473923683</lon>
+
+							<typ>S</typ>
+                			<stpid>14320</stpid>
+                			<stpnm>Chicago Avenue &amp; Hamilton</stpnm>
+                			<pdist>34116.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>42.037659900023</lat>
+						<lon>-87.680162787437</lon>
+
+							<typ>S</typ>
+                			<stpid>14318</stpid>
+                			<stpnm>Chicago Avenue &amp; Greenleaf</stpnm>
+                			<pdist>34627.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>42.035723559383</lat>
+						<lon>-87.679760456085</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>42.034026224621</lat>
+						<lon>-87.679433226585</lon>
+
+							<typ>S</typ>
+                			<stpid>12703</stpid>
+                			<stpnm>Chicago Avenue &amp; Main (Purple Line)</stpnm>
+                			<pdist>35960.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>42.032225247094</lat>
+						<lon>-87.679073810577</lon>
+
+							<typ>S</typ>
+                			<stpid>14314</stpid>
+                			<stpnm>Chicago Avenue &amp; Kedzie</stpnm>
+                			<pdist>36635.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>42.03063141911</lat>
+						<lon>-87.678751945496</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>42.029404144328</lat>
+						<lon>-87.678499817848</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>42.027439658427</lat>
+						<lon>-87.678279876709</lon>
+
+							<typ>S</typ>
+                			<stpid>12647</stpid>
+                			<stpnm>Chicago Avenue &amp; South Blvd (Purple Line)</stpnm>
+                			<pdist>38419.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>42.026686522988</lat>
+						<lon>-87.678118944168</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>42.022948607676</lat>
+						<lon>-87.677212357521</lon>
+
+							<typ>S</typ>
+                			<stpid>15807</stpid>
+                			<stpnm>Chicago &amp; Juneway/Mulford</stpnm>
+                			<pdist>40213.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>42.022494304484</lat>
+						<lon>-87.677115797997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>42.022000146449</lat>
+						<lon>-87.677019238472</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>42.020422003137</lat>
+						<lon>-87.67661690712</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>42.019437636337</lat>
+						<lon>-87.676359415054</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>42.019194531259</lat>
+						<lon>-87.676268219948</lon>
+
+							<typ>S</typ>
+                			<stpid>14056</stpid>
+                			<stpnm>Clark &amp; Howard</stpnm>
+                			<pdist>41606.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>42.018034787685</lat>
+						<lon>-87.675806879997</lon>
+
+							<typ>S</typ>
+                			<stpid>14091</stpid>
+                			<stpnm>Clark &amp; Birchwood</stpnm>
+                			<pdist>42023.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>42.017811604364</lat>
+						<lon>-87.675721049309</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>42.017644216359</lat>
+						<lon>-87.67563521862</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>42.017480813358</lat>
+						<lon>-87.675549387932</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>42.017273569924</lat>
+						<lon>-87.675463557243</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>42.017034442045</lat>
+						<lon>-87.675388455391</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>42.016014152992</lat>
+						<lon>-87.675216794014</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>42.016667777551</lat>
+						<lon>-87.673843502998</lon>
+
+							<typ>S</typ>
+                			<stpid>15452</stpid>
+                			<stpnm>Rogers &amp; Hermitage</stpnm>
+                			<pdist>43122.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>42.017078282223</lat>
+						<lon>-87.673001289368</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>42.017755808411</lat>
+						<lon>-87.672979831696</lon>
+
+							<typ>S</typ>
+                			<stpid>14092</stpid>
+                			<stpnm>Paulina &amp; Howard Terminal</stpnm>
+                			<pdist>43754.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

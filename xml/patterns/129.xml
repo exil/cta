@@ -1,0 +1,2279 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>3886</pid>
+				<ln>17664.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.883161336722</lat>
+						<lon>-87.639736533165</lon>
+
+							<typ>S</typ>
+                			<stpid>5012</stpid>
+                			<stpnm>Canal &amp; Washington</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.883185299824</lat>
+						<lon>-87.637676596642</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.883181305974</lat>
+						<lon>-87.635498642921</lon>
+
+							<typ>S</typ>
+                			<stpid>445</stpid>
+                			<stpnm>Washington &amp; Franklin</stpnm>
+                			<pdist>1327.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.883161336722</lat>
+						<lon>-87.632617950439</lon>
+
+							<typ>S</typ>
+                			<stpid>446</stpid>
+                			<stpnm>Washington &amp; Lasalle</stpnm>
+                			<pdist>1948.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.883161336722</lat>
+						<lon>-87.630971074104</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.881459933554</lat>
+						<lon>-87.630912065506</lon>
+
+							<typ>S</typ>
+                			<stpid>15903</stpid>
+                			<stpnm>Clark &amp; Madison &amp; Monroe</stpnm>
+                			<pdist>3026.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.879071502438</lat>
+						<lon>-87.630826234818</lon>
+
+							<typ>S</typ>
+                			<stpid>1869</stpid>
+                			<stpnm>Clark &amp; Adams</stpnm>
+                			<pdist>3839.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.876730913104</lat>
+						<lon>-87.630767226219</lon>
+
+							<typ>S</typ>
+                			<stpid>14192</stpid>
+                			<stpnm>Clark &amp; Van Buren</stpnm>
+                			<pdist>4758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.875656450043</lat>
+						<lon>-87.630740404129</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.874633895931</lat>
+						<lon>-87.630718946457</lon>
+
+							<typ>S</typ>
+                			<stpid>1873</stpid>
+                			<stpnm>Clark &amp; Harrison</stpnm>
+                			<pdist>5446.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.872213253418</lat>
+						<lon>-87.630649209023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.872245209692</lat>
+						<lon>-87.630380988121</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.872253198758</lat>
+						<lon>-87.629023790359</lon>
+
+							<typ>S</typ>
+                			<stpid>8608</stpid>
+                			<stpnm>Polk &amp; Dearborn</stpnm>
+                			<pdist>6650.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.87227716595</lat>
+						<lon>-87.627671957016</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.87188570069</lat>
+						<lon>-87.627645134926</lon>
+
+							<typ>S</typ>
+                			<stpid>17590</stpid>
+                			<stpnm>State &amp; Polk</stpnm>
+                			<pdist>7194.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.870215954599</lat>
+						<lon>-87.627612948418</lon>
+
+							<typ>S</typ>
+                			<stpid>17592</stpid>
+                			<stpnm>State &amp; 9th Street</stpnm>
+                			<pdist>7840.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.86903352429</lat>
+						<lon>-87.627591490746</lon>
+
+							<typ>S</typ>
+                			<stpid>15563</stpid>
+                			<stpnm>State &amp; 11th Street</stpnm>
+                			<pdist>8299.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.8675195022</lat>
+						<lon>-87.627537846565</lon>
+
+							<typ>S</typ>
+                			<stpid>2376</stpid>
+                			<stpnm>State &amp; Roosevelt</stpnm>
+                			<pdist>8783.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.86727182235</lat>
+						<lon>-87.627543210983</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.865665874883</lat>
+						<lon>-87.627505660057</lon>
+
+							<typ>S</typ>
+                			<stpid>2377</stpid>
+                			<stpnm>State &amp; 13th Street</stpnm>
+                			<pdist>9458.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.864183733342</lat>
+						<lon>-87.627473473549</lon>
+
+							<typ>S</typ>
+                			<stpid>2378</stpid>
+                			<stpnm>State &amp; 14th Street</stpnm>
+                			<pdist>9985.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.862102285196</lat>
+						<lon>-87.627414464951</lon>
+
+							<typ>S</typ>
+                			<stpid>2379</stpid>
+                			<stpnm>State &amp; 15th Street</stpnm>
+                			<pdist>10761.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.859968830409</lat>
+						<lon>-87.627371549606</lon>
+
+							<typ>S</typ>
+                			<stpid>15357</stpid>
+                			<stpnm>State &amp; 16th Street</stpnm>
+                			<pdist>11397.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.857779368346</lat>
+						<lon>-87.627317905426</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.8578073364</lat>
+						<lon>-87.625751495361</lon>
+
+							<typ>S</typ>
+                			<stpid>6784</stpid>
+                			<stpnm>18th Street &amp; Wabash</stpnm>
+                			<pdist>12649.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.857823318139</lat>
+						<lon>-87.624115347862</lon>
+
+							<typ>S</typ>
+                			<stpid>6785</stpid>
+                			<stpnm>18th Street &amp; Michigan</stpnm>
+                			<pdist>13108.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.857859277038</lat>
+						<lon>-87.622457742691</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.855150316681</lat>
+						<lon>-87.622398734093</lon>
+
+							<typ>S</typ>
+                			<stpid>17087</stpid>
+                			<stpnm>Indiana &amp; Cullerton</stpnm>
+                			<pdist>14548.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.853196437767</lat>
+						<lon>-87.62232363224</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.852784876929</lat>
+						<lon>-87.622302174568</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.85280885142</lat>
+						<lon>-87.620757222176</lon>
+
+							<typ>S</typ>
+                			<stpid>17088</stpid>
+                			<stpnm>Cermak &amp; Prairie</stpnm>
+                			<pdist>15746.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.852824834408</lat>
+						<lon>-87.619866728783</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.852804855672</lat>
+						<lon>-87.619609236717</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.85270895765</lat>
+						<lon>-87.619426846504</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.852633038282</lat>
+						<lon>-87.619308829308</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.852501178111</lat>
+						<lon>-87.619142532349</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.852433250038</lat>
+						<lon>-87.61908352375</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.852133566503</lat>
+						<lon>-87.619035243988</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.851118627834</lat>
+						<lon>-87.619008421898</lon>
+
+							<typ>S</typ>
+                			<stpid>2192</stpid>
+                			<stpnm>McCormick Place</stpnm>
+                			<pdist>16756.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.851010739706</lat>
+						<lon>-87.61900305748</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.850894859662</lat>
+						<lon>-87.619088888168</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.850251521807</lat>
+						<lon>-87.619062066078</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.849995783222</lat>
+						<lon>-87.619013786316</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.849748035493</lat>
+						<lon>-87.618922591209</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.849564222042</lat>
+						<lon>-87.61875629425</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.849392395947</lat>
+						<lon>-87.618600726128</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.849228561334</lat>
+						<lon>-87.618434429169</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.849088702186</lat>
+						<lon>-87.618305683136</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.848996794579</lat>
+						<lon>-87.618209123611</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.848888902872</lat>
+						<lon>-87.618262767792</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.848641150857</lat>
+						<lon>-87.618085741997</lon>
+
+							<typ>S</typ>
+                			<stpid>15439</stpid>
+                			<stpnm>King Drive &amp; 24th Place</stpnm>
+                			<pdist>17664.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>3888</pid>
+				<ln>19642.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.848641150857</lat>
+						<lon>-87.618085741997</lon>
+
+							<typ>S</typ>
+                			<stpid>15439</stpid>
+                			<stpnm>King Drive &amp; 24th Place</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.848613178795</lat>
+						<lon>-87.617849707603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.848685106929</lat>
+						<lon>-87.61756002903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.848936854764</lat>
+						<lon>-87.617758512497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.84941237575</lat>
+						<lon>-87.618209123611</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.849768015184</lat>
+						<lon>-87.618541717529</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.849903876918</lat>
+						<lon>-87.61864900589</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.850123652642</lat>
+						<lon>-87.618767023087</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.850335435807</lat>
+						<lon>-87.618820667267</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.850914838995</lat>
+						<lon>-87.618831396103</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.851006743846</lat>
+						<lon>-87.618911862373</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.851550178528</lat>
+						<lon>-87.618933320045</lon>
+
+							<typ>S</typ>
+                			<stpid>14559</stpid>
+                			<stpnm>McCormick Place</stpnm>
+                			<pdist>1400.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.852209486465</lat>
+						<lon>-87.618954777718</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.852481199273</lat>
+						<lon>-87.61900305748</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.852601072205</lat>
+						<lon>-87.619035243988</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.85276489818</lat>
+						<lon>-87.619153261185</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.852924727996</lat>
+						<lon>-87.619394659996</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.853012634225</lat>
+						<lon>-87.619716525078</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.85300863849</lat>
+						<lon>-87.620505094528</lon>
+
+							<typ>S</typ>
+                			<stpid>2185</stpid>
+                			<stpnm>Cermak &amp; Prairie</stpnm>
+                			<pdist>2315.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.852980668337</lat>
+						<lon>-87.622060775757</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.853212420658</lat>
+						<lon>-87.622071504593</lon>
+
+							<typ>S</typ>
+                			<stpid>14213</stpid>
+                			<stpnm>Indiana &amp; Cermak</stpnm>
+                			<pdist>2967.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.855445990499</lat>
+						<lon>-87.622141242027</lon>
+
+							<typ>S</typ>
+                			<stpid>14215</stpid>
+                			<stpnm>Indiana &amp; Cullerton</stpnm>
+                			<pdist>3632.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.857919208492</lat>
+						<lon>-87.622210979462</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.857919208492</lat>
+						<lon>-87.622666954994</lon>
+
+							<typ>S</typ>
+                			<stpid>6792</stpid>
+                			<stpnm>18th Street &amp; Indiana</stpnm>
+                			<pdist>4653.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.857899231347</lat>
+						<lon>-87.6237398386</lon>
+
+							<typ>S</typ>
+                			<stpid>6793</stpid>
+                			<stpnm>18th Street &amp; Michigan</stpnm>
+                			<pdist>4930.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.857875258765</lat>
+						<lon>-87.62548327446</lon>
+
+							<typ>S</typ>
+                			<stpid>6794</stpid>
+                			<stpnm>18th Street &amp; Wabash</stpnm>
+                			<pdist>5391.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.85786327247</lat>
+						<lon>-87.627097964287</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.858146947505</lat>
+						<lon>-87.627097964287</lon>
+
+							<typ>S</typ>
+                			<stpid>14761</stpid>
+                			<stpnm>State &amp; 18th Street</stpnm>
+                			<pdist>5933.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.859021937219</lat>
+						<lon>-87.627119421959</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.860016773995</lat>
+						<lon>-87.627135515213</lon>
+
+							<typ>S</typ>
+                			<stpid>2349</stpid>
+                			<stpnm>State &amp; 16th Street</stpnm>
+                			<pdist>6651.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.86228206746</lat>
+						<lon>-87.627167701721</lon>
+
+							<typ>S</typ>
+                			<stpid>2350</stpid>
+                			<stpnm>State &amp; 14th Place</stpnm>
+                			<pdist>7457.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.864247653902</lat>
+						<lon>-87.627248167992</lon>
+
+							<typ>S</typ>
+                			<stpid>15957</stpid>
+                			<stpnm>State &amp; 14th Street</stpnm>
+                			<pdist>8072.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.865581980996</lat>
+						<lon>-87.627258896828</lon>
+
+							<typ>S</typ>
+                			<stpid>2352</stpid>
+                			<stpnm>State &amp; 13th Street</stpnm>
+                			<pdist>8680.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.867667310685</lat>
+						<lon>-87.62733399868</lon>
+
+							<typ>S</typ>
+                			<stpid>2353</stpid>
+                			<stpnm>State &amp; Roosevelt</stpnm>
+                			<pdist>9490.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.869157360922</lat>
+						<lon>-87.627350091934</lon>
+
+							<typ>S</typ>
+                			<stpid>2354</stpid>
+                			<stpnm>State &amp; 11th Street</stpnm>
+                			<pdist>9934.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.870431665878</lat>
+						<lon>-87.627393007278</lon>
+
+							<typ>S</typ>
+                			<stpid>2355</stpid>
+                			<stpnm>State &amp; 9th Street</stpnm>
+                			<pdist>10412.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.871813798647</lat>
+						<lon>-87.627398371696</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.872345072945</lat>
+						<lon>-87.627425193787</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.872321105778</lat>
+						<lon>-87.629098892212</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.872504853825</lat>
+						<lon>-87.62910425663</lon>
+
+							<typ>S</typ>
+                			<stpid>1875</stpid>
+                			<stpnm>Dearborn &amp; Polk</stpnm>
+                			<pdist>11590.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.874809648583</lat>
+						<lon>-87.62915790081</lon>
+
+							<typ>S</typ>
+                			<stpid>1876</stpid>
+                			<stpnm>Dearborn &amp; Harrison</stpnm>
+                			<pdist>12535.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.87550866003</lat>
+						<lon>-87.629168629646</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.875916080319</lat>
+						<lon>-87.629168629646</lon>
+
+							<typ>S</typ>
+                			<stpid>1877</stpid>
+                			<stpnm>Dearborn &amp; Congress</stpnm>
+                			<pdist>12980.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.876902665747</lat>
+						<lon>-87.629216909409</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.878013055422</lat>
+						<lon>-87.629265189171</lon>
+
+							<typ>S</typ>
+                			<stpid>14508</stpid>
+                			<stpnm>Dearborn &amp; Jackson</stpnm>
+                			<pdist>13670.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.87955478751</lat>
+						<lon>-87.629302740097</lon>
+
+							<typ>S</typ>
+                			<stpid>1880</stpid>
+                			<stpnm>Dearborn &amp; Adams</stpnm>
+                			<pdist>14341.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.88097666289</lat>
+						<lon>-87.629351019859</lon>
+
+							<typ>S</typ>
+                			<stpid>1881</stpid>
+                			<stpnm>Dearborn &amp; Monroe</stpnm>
+                			<pdist>14840.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.882106951365</lat>
+						<lon>-87.629383206367</lon>
+
+							<typ>S</typ>
+                			<stpid>1882</stpid>
+                			<stpnm>Dearborn &amp; Madison</stpnm>
+                			<pdist>15286.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.884511244092</lat>
+						<lon>-87.629442214966</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.884503256559</lat>
+						<lon>-87.630863785744</lon>
+
+							<typ>S</typ>
+                			<stpid>8605</stpid>
+                			<stpnm>Randolph &amp; Clark</stpnm>
+                			<pdist>16369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.884523225391</lat>
+						<lon>-87.634264826775</lon>
+
+							<typ>S</typ>
+                			<stpid>8606</stpid>
+                			<stpnm>Randolph &amp; Wells</stpnm>
+                			<pdist>17304.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.884495269024</lat>
+						<lon>-87.637150883675</lon>
+
+							<typ>S</typ>
+                			<stpid>8607</stpid>
+                			<stpnm>Randolph &amp; N. Wacker</stpnm>
+                			<pdist>17984.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.88448328772</lat>
+						<lon>-87.63778924942</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.884471306414</lat>
+						<lon>-87.639865279198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.884451337565</lat>
+						<lon>-87.641313672066</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.883277158296</lat>
+						<lon>-87.641265392303</lon>
+
+							<typ>S</typ>
+                			<stpid>5023</stpid>
+                			<stpnm>Clinton &amp; Washington</stpnm>
+                			<pdist>19642.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5714</pid>
+				<ln>17878.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.848641150857</lat>
+						<lon>-87.618085741997</lon>
+
+							<typ>S</typ>
+                			<stpid>15439</stpid>
+                			<stpnm>King Drive &amp; 24th Place</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.848613178795</lat>
+						<lon>-87.617849707603</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.848685106929</lat>
+						<lon>-87.61756002903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.848936854764</lat>
+						<lon>-87.617758512497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.84941237575</lat>
+						<lon>-87.618209123611</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.849768015184</lat>
+						<lon>-87.618541717529</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.849903876918</lat>
+						<lon>-87.61864900589</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.850123652642</lat>
+						<lon>-87.618767023087</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.850335435807</lat>
+						<lon>-87.618820667267</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.850914838995</lat>
+						<lon>-87.618831396103</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.851006743846</lat>
+						<lon>-87.618911862373</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.851550178528</lat>
+						<lon>-87.618933320045</lon>
+
+							<typ>S</typ>
+                			<stpid>14559</stpid>
+                			<stpnm>McCormick Place</stpnm>
+                			<pdist>1400.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.852209486465</lat>
+						<lon>-87.618954777718</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.852481199273</lat>
+						<lon>-87.61900305748</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.852601072205</lat>
+						<lon>-87.619035243988</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.85276489818</lat>
+						<lon>-87.619153261185</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.852924727996</lat>
+						<lon>-87.619394659996</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.853012634225</lat>
+						<lon>-87.619716525078</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.85300863849</lat>
+						<lon>-87.620505094528</lon>
+
+							<typ>S</typ>
+                			<stpid>2185</stpid>
+                			<stpnm>Cermak &amp; Prairie</stpnm>
+                			<pdist>2315.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.852980668337</lat>
+						<lon>-87.622060775757</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.853212420658</lat>
+						<lon>-87.622071504593</lon>
+
+							<typ>S</typ>
+                			<stpid>14213</stpid>
+                			<stpnm>Indiana &amp; Cermak</stpnm>
+                			<pdist>2967.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.855445990499</lat>
+						<lon>-87.622141242027</lon>
+
+							<typ>S</typ>
+                			<stpid>14215</stpid>
+                			<stpnm>Indiana &amp; Cullerton</stpnm>
+                			<pdist>3632.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.8580950071</lat>
+						<lon>-87.622200250626</lon>
+
+							<typ>S</typ>
+                			<stpid>8609</stpid>
+                			<stpnm>Indiana &amp; 18th Street</stpnm>
+                			<pdist>4650.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.860316420593</lat>
+						<lon>-87.622275352478</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.861123461781</lat>
+						<lon>-87.622264623642</lon>
+
+							<typ>S</typ>
+                			<stpid>15277</stpid>
+                			<stpnm>Indiana &amp; 15th Place</stpnm>
+                			<pdist>5681.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.86408385734</lat>
+						<lon>-87.622328996658</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.864363509754</lat>
+						<lon>-87.622328996658</lon>
+
+							<typ>S</typ>
+                			<stpid>15906</stpid>
+                			<stpnm>Indiana &amp; 14th Street</stpnm>
+                			<pdist>6966.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.865781728165</lat>
+						<lon>-87.622334361076</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.865777733228</lat>
+						<lon>-87.622516751289</lon>
+
+							<typ>S</typ>
+                			<stpid>15513</stpid>
+                			<stpnm>Indiana &amp; 13th Street</stpnm>
+                			<pdist>7481.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.865777733228</lat>
+						<lon>-87.622334361076</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.867567440124</lat>
+						<lon>-87.622404098511</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.86755146082</lat>
+						<lon>-87.623997330666</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.867815118829</lat>
+						<lon>-87.623997330666</lon>
+
+							<typ>S</typ>
+                			<stpid>1580</stpid>
+                			<stpnm>Michigan &amp; Roosevelt</stpnm>
+                			<pdist>8317.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.86931714977</lat>
+						<lon>-87.62398660183</lon>
+
+							<typ>S</typ>
+                			<stpid>1581</stpid>
+                			<stpnm>Michigan &amp; 11th Street</stpnm>
+                			<pdist>8737.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.870519548042</lat>
+						<lon>-87.624008059502</lon>
+
+							<typ>S</typ>
+                			<stpid>1582</stpid>
+                			<stpnm>Michigan &amp; 9th Street</stpnm>
+                			<pdist>9215.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.871793825843</lat>
+						<lon>-87.624050974846</lon>
+
+							<typ>S</typ>
+                			<stpid>1583</stpid>
+                			<stpnm>Michigan &amp; 8th Street</stpnm>
+                			<pdist>9704.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.873391630449</lat>
+						<lon>-87.624072432518</lon>
+
+							<typ>S</typ>
+                			<stpid>1584</stpid>
+                			<stpnm>Michigan &amp; Balbo</stpnm>
+                			<pdist>10369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.874554008202</lat>
+						<lon>-87.624109983444</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.875520643017</lat>
+						<lon>-87.624131441116</lon>
+
+							<typ>S</typ>
+                			<stpid>14485</stpid>
+                			<stpnm>Michigan &amp; Congress</stpnm>
+                			<pdist>11099.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.876790826869</lat>
+						<lon>-87.624126076698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.877006515959</lat>
+						<lon>-87.624126076698</lon>
+
+							<typ>S</typ>
+                			<stpid>75</stpid>
+                			<stpnm>Michigan &amp; Van Buren</stpnm>
+                			<pdist>11492.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.878328594291</lat>
+						<lon>-87.624168992043</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.879570763814</lat>
+						<lon>-87.624206542969</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.879538811203</lat>
+						<lon>-87.625778317451</lon>
+
+							<typ>S</typ>
+                			<stpid>77</stpid>
+                			<stpnm>Adams &amp; Wabash</stpnm>
+                			<pdist>12952.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.879490882256</lat>
+						<lon>-87.62812256813</lon>
+
+							<typ>S</typ>
+                			<stpid>4732</stpid>
+                			<stpnm>Adams &amp; State</stpnm>
+                			<pdist>13602.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.879474905932</lat>
+						<lon>-87.630724310875</lon>
+
+							<typ>S</typ>
+                			<stpid>17046</stpid>
+                			<stpnm>Adams &amp; Clark</stpnm>
+                			<pdist>14415.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.879434965106</lat>
+						<lon>-87.634109258652</lon>
+
+							<typ>S</typ>
+                			<stpid>80</stpid>
+                			<stpnm>Adams &amp; Wells</stpnm>
+                			<pdist>15201.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.879407006513</lat>
+						<lon>-87.637048959732</lon>
+
+							<typ>S</typ>
+                			<stpid>1108</stpid>
+                			<stpnm>Adams &amp; S. Wacker</stpnm>
+                			<pdist>15844.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.879379047907</lat>
+						<lon>-87.63808965683</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.87933111884</lat>
+						<lon>-87.639575600624</lon>
+
+							<typ>S</typ>
+                			<stpid>12713</stpid>
+                			<stpnm>Adams &amp; Canal</stpnm>
+                			<pdist>16495.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.879335112931</lat>
+						<lon>-87.639575600624</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.882134908777</lat>
+						<lon>-87.639656066895</lon>
+
+							<typ>S</typ>
+                			<stpid>5027</stpid>
+                			<stpnm>Canal &amp; Madison</stpnm>
+                			<pdist>17564.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.883161336722</lat>
+						<lon>-87.639736533165</lon>
+
+							<typ>S</typ>
+                			<stpid>5012</stpid>
+                			<stpnm>Canal &amp; Washington</stpnm>
+                			<pdist>17878.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5860</pid>
+				<ln>18267.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.883277158296</lat>
+						<lon>-87.641265392303</lon>
+
+							<typ>S</typ>
+                			<stpid>5023</stpid>
+                			<stpnm>Clinton &amp; Washington</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.88194719449</lat>
+						<lon>-87.641227841377</lon>
+
+							<typ>S</typ>
+                			<stpid>5024</stpid>
+                			<stpnm>Clinton &amp; Madison</stpnm>
+                			<pdist>467.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.880689095141</lat>
+						<lon>-87.641211748123</lon>
+
+							<typ>S</typ>
+                			<stpid>5007</stpid>
+                			<stpnm>Clinton &amp; Monroe</stpnm>
+                			<pdist>938.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.878716025961</lat>
+						<lon>-87.641120553017</lon>
+
+							<typ>S</typ>
+                			<stpid>4992</stpid>
+                			<stpnm>Clinton &amp; Quincy</stpnm>
+                			<pdist>1628.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.877989090381</lat>
+						<lon>-87.641088366508</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.878029032111</lat>
+						<lon>-87.638239860535</lon>
+
+							<typ>S</typ>
+                			<stpid>14461</stpid>
+                			<stpnm>Jackson &amp; Chicago River</stpnm>
+                			<pdist>2586.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.878064979647</lat>
+						<lon>-87.636866569519</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.878096932995</lat>
+						<lon>-87.635471820831</lon>
+
+							<typ>S</typ>
+                			<stpid>68</stpid>
+                			<stpnm>Jackson &amp; Franklin</stpnm>
+                			<pdist>3399.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.878092938827</lat>
+						<lon>-87.635235786438</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.878108915496</lat>
+						<lon>-87.632880806923</lon>
+
+							<typ>S</typ>
+                			<stpid>69</stpid>
+                			<stpnm>Jackson &amp; Financial Place</stpnm>
+                			<pdist>4092.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.878128886327</lat>
+						<lon>-87.630772590637</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.878156845479</lat>
+						<lon>-87.629528045654</lon>
+
+							<typ>S</typ>
+                			<stpid>70</stpid>
+                			<stpnm>Jackson &amp; Dearborn</stpnm>
+                			<pdist>5028.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.87816882797</lat>
+						<lon>-87.628058195114</lon>
+
+							<typ>S</typ>
+                			<stpid>71</stpid>
+                			<stpnm>Jackson &amp; State</stpnm>
+                			<pdist>5456.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.878164833806</lat>
+						<lon>-87.627511024475</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.878224746228</lat>
+						<lon>-87.625772953033</lon>
+
+							<typ>S</typ>
+                			<stpid>72</stpid>
+                			<stpnm>Jackson &amp; Wabash</stpnm>
+                			<pdist>6117.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.878244717022</lat>
+						<lon>-87.624437212944</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.876990539015</lat>
+						<lon>-87.624405026436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.87627157237</lat>
+						<lon>-87.6243942976</lon>
+
+							<typ>S</typ>
+                			<stpid>73</stpid>
+                			<stpnm>Michigan &amp; Van Buren/Congress</stpnm>
+                			<pdist>7078.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.874569985756</lat>
+						<lon>-87.624362111092</lon>
+
+							<typ>S</typ>
+                			<stpid>1586</stpid>
+                			<stpnm>Michigan &amp; Harrison</stpnm>
+                			<pdist>7717.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.873279785427</lat>
+						<lon>-87.624335289001</lon>
+
+							<typ>S</typ>
+                			<stpid>1587</stpid>
+                			<stpnm>Michigan &amp; Balbo</stpnm>
+                			<pdist>8220.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.871981569955</lat>
+						<lon>-87.624308466911</lon>
+
+							<typ>S</typ>
+                			<stpid>1588</stpid>
+                			<stpnm>Michigan &amp; 8th Street</stpnm>
+                			<pdist>8682.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.870279869128</lat>
+						<lon>-87.624254822731</lon>
+
+							<typ>S</typ>
+                			<stpid>1589</stpid>
+                			<stpnm>Michigan &amp; 9th Street</stpnm>
+                			<pdist>9320.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.86908545581</lat>
+						<lon>-87.624244093895</lon>
+
+							<typ>S</typ>
+                			<stpid>1590</stpid>
+                			<stpnm>Michigan &amp; 11th Street</stpnm>
+                			<pdist>9864.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.867331744982</lat>
+						<lon>-87.624238729477</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.867343729502</lat>
+						<lon>-87.623240947723</lon>
+
+							<typ>S</typ>
+                			<stpid>15362</stpid>
+                			<stpnm>Roosevelt &amp; Michigan/Indiana</stpnm>
+                			<pdist>10570.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.867343729502</lat>
+						<lon>-87.62270450592</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.865653890049</lat>
+						<lon>-87.622672319412</lon>
+
+							<typ>S</typ>
+                			<stpid>15918</stpid>
+                			<stpnm>Indiana &amp; 13th Street</stpnm>
+                			<pdist>11409.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.864383484879</lat>
+						<lon>-87.62262403965</lon>
+
+							<typ>S</typ>
+                			<stpid>12803</stpid>
+                			<stpnm>Indiana &amp; 14th Street</stpnm>
+                			<pdist>11873.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.862641630471</lat>
+						<lon>-87.622565031052</lon>
+
+							<typ>S</typ>
+                			<stpid>15921</stpid>
+                			<stpnm>1440 S Indiana</stpnm>
+                			<pdist>12439.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.861223342407</lat>
+						<lon>-87.62254357338</lon>
+
+							<typ>S</typ>
+                			<stpid>15278</stpid>
+                			<stpnm>Indiana &amp; 15th Place</stpnm>
+                			<pdist>12885.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.860432283568</lat>
+						<lon>-87.622527480125</lon>
+
+							<typ>S</typ>
+                			<stpid>12805</stpid>
+                			<stpnm>Indiana &amp; 16th Street</stpnm>
+                			<pdist>13245.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.858083020846</lat>
+						<lon>-87.622457742691</lon>
+
+							<typ>S</typ>
+                			<stpid>8604</stpid>
+                			<stpnm>Indiana &amp; 18th Street</stpnm>
+                			<pdist>14132.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.855150316681</lat>
+						<lon>-87.622398734093</lon>
+
+							<typ>S</typ>
+                			<stpid>17087</stpid>
+                			<stpnm>Indiana &amp; Cullerton</stpnm>
+                			<pdist>15151.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.853196437767</lat>
+						<lon>-87.62232363224</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.852784876929</lat>
+						<lon>-87.622302174568</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.85280885142</lat>
+						<lon>-87.620757222176</lon>
+
+							<typ>S</typ>
+                			<stpid>17088</stpid>
+                			<stpnm>Cermak &amp; Prairie</stpnm>
+                			<pdist>16349.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.852824834408</lat>
+						<lon>-87.619866728783</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.852804855672</lat>
+						<lon>-87.619609236717</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.85270895765</lat>
+						<lon>-87.619426846504</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.852633038282</lat>
+						<lon>-87.619308829308</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.852501178111</lat>
+						<lon>-87.619142532349</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.852433250038</lat>
+						<lon>-87.61908352375</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.852133566503</lat>
+						<lon>-87.619035243988</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.851118627834</lat>
+						<lon>-87.619008421898</lon>
+
+							<typ>S</typ>
+                			<stpid>2192</stpid>
+                			<stpnm>McCormick Place</stpnm>
+                			<pdist>17359.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.851010739706</lat>
+						<lon>-87.61900305748</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.850894859662</lat>
+						<lon>-87.619088888168</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.850251521807</lat>
+						<lon>-87.619062066078</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.849995783222</lat>
+						<lon>-87.619013786316</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.849748035493</lat>
+						<lon>-87.618922591209</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.849564222042</lat>
+						<lon>-87.61875629425</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.849392395947</lat>
+						<lon>-87.618600726128</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.849228561334</lat>
+						<lon>-87.618434429169</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.849088702186</lat>
+						<lon>-87.618305683136</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.848996794579</lat>
+						<lon>-87.618209123611</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.848888902872</lat>
+						<lon>-87.618262767792</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.848641150857</lat>
+						<lon>-87.618085741997</lon>
+
+							<typ>S</typ>
+                			<stpid>15439</stpid>
+                			<stpnm>King Drive &amp; 24th Place</stpnm>
+                			<pdist>18267.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

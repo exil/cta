@@ -1,0 +1,2916 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>3027</pid>
+				<ln>0.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>42.018939469195</lat>
+						<lon>-87.711018919945</lon>
+
+							<typ>S</typ>
+                			<stpid>11859</stpid>
+                			<stpnm>Howard &amp; McCormick Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>42.019098883105</lat>
+						<lon>-87.711029648781</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>42.019102868448</lat>
+						<lon>-87.710139155388</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>42.019118809816</lat>
+						<lon>-87.7090716362</lon>
+
+							<typ>S</typ>
+                			<stpid>15533</stpid>
+                			<stpnm>Howard &amp; Kedzie</stpnm>
+                			<pdist>548.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>42.019118809816</lat>
+						<lon>-87.70869076252</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>42.017927181538</lat>
+						<lon>-87.708706855774</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>42.017329366299</lat>
+						<lon>-87.708701491356</lon>
+
+							<typ>S</typ>
+                			<stpid>14749</stpid>
+                			<stpnm>Kedzie &amp; Birchwood</stpnm>
+                			<pdist>1267.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>42.015591684764</lat>
+						<lon>-87.70877122879</lon>
+
+							<typ>S</typ>
+                			<stpid>14750</stpid>
+                			<stpnm>Kedzie &amp; Jarvis</stpnm>
+                			<pdist>1888.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>42.014543473174</lat>
+						<lon>-87.708824872971</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>42.014140923447</lat>
+						<lon>-87.708889245987</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>42.013582929514</lat>
+						<lon>-87.709023356438</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>42.013351759164</lat>
+						<lon>-87.709077000618</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>42.012080307223</lat>
+						<lon>-87.709109187126</lon>
+
+							<typ>S</typ>
+                			<stpid>15445</stpid>
+                			<stpnm>Kedzie &amp; Touhy</stpnm>
+                			<pdist>3213.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>42.010745056038</lat>
+						<lon>-87.709211111069</lon>
+
+							<typ>S</typ>
+                			<stpid>12083</stpid>
+                			<stpnm>7061 N Kedzie</stpnm>
+                			<pdist>3894.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>42.010035567885</lat>
+						<lon>-87.709264755249</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>42.009031110452</lat>
+						<lon>-87.709275484085</lon>
+
+							<typ>S</typ>
+                			<stpid>12084</stpid>
+                			<stpnm>7033 N Kedzie</stpnm>
+                			<pdist>4208.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>42.008209994578</lat>
+						<lon>-87.709286212921</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>42.007488519941</lat>
+						<lon>-87.709313035011</lon>
+
+							<typ>S</typ>
+                			<stpid>12085</stpid>
+                			<stpnm>6933 N Kedzie</stpnm>
+                			<pdist>4845.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>42.005531329307</lat>
+						<lon>-87.709361314774</lon>
+
+							<typ>S</typ>
+                			<stpid>12086</stpid>
+                			<stpnm>6833 N Kedzie</stpnm>
+                			<pdist>5604.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>42.004650374565</lat>
+						<lon>-87.709382772446</lon>
+
+							<typ>S</typ>
+                			<stpid>12087</stpid>
+                			<stpnm>Kedzie &amp; Pratt</stpnm>
+                			<pdist>6113.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>42.001038731239</lat>
+						<lon>-87.709393501282</lon>
+
+							<typ>S</typ>
+                			<stpid>12088</stpid>
+                			<stpnm>Kedzie &amp; Albion</stpnm>
+                			<pdist>7178.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.99925675222</lat>
+						<lon>-87.709420323372</lon>
+
+							<typ>S</typ>
+                			<stpid>15047</stpid>
+                			<stpnm>Kedzie &amp; Arthur</stpnm>
+                			<pdist>7791.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.997526550348</lat>
+						<lon>-87.709377408028</lon>
+
+							<typ>S</typ>
+                			<stpid>12089</stpid>
+                			<stpnm>Kedzie &amp; Devon</stpnm>
+                			<pdist>8455.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.997418909506</lat>
+						<lon>-87.709377408028</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.9974029627</lat>
+						<lon>-87.710428833961</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.997387015889</lat>
+						<lon>-87.711716294289</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.997080039002</lat>
+						<lon>-87.711727023125</lon>
+
+							<typ>S</typ>
+                			<stpid>1355</stpid>
+                			<stpnm>McCormick &amp; Devon</stpnm>
+                			<pdist>9213.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.996800967821</lat>
+						<lon>-87.711791396141</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.996613590769</lat>
+						<lon>-87.711893320084</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.996370398454</lat>
+						<lon>-87.712097167969</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.995034817535</lat>
+						<lon>-87.713583111763</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.994632144356</lat>
+						<lon>-87.713974714279</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.994432800255</lat>
+						<lon>-87.71410882473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.994050057831</lat>
+						<lon>-87.713502645493</lon>
+
+							<typ>S</typ>
+                			<stpid>1356</stpid>
+                			<stpnm>Lincoln &amp; McCormick/Kimball</stpnm>
+                			<pdist>10499.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.992562922194</lat>
+						<lon>-87.711088657379</lon>
+
+							<typ>S</typ>
+                			<stpid>1357</stpid>
+                			<stpnm>Lincoln &amp; Jersey</stpnm>
+                			<pdist>11395.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.991175429197</lat>
+						<lon>-87.708824872971</lon>
+
+							<typ>S</typ>
+                			<stpid>1358</stpid>
+                			<stpnm>Lincoln &amp; Kedzie</stpnm>
+                			<pdist>12174.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.990437812847</lat>
+						<lon>-87.707650065422</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.990138776757</lat>
+						<lon>-87.707145810127</lon>
+
+							<typ>S</typ>
+                			<stpid>1359</stpid>
+                			<stpnm>Lincoln &amp; Peterson</stpnm>
+                			<pdist>12932.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.989787905954</lat>
+						<lon>-87.70653963089</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.989759995693</lat>
+						<lon>-87.706330418587</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.989094132991</lat>
+						<lon>-87.705187797546</lon>
+
+							<typ>S</typ>
+                			<stpid>1360</stpid>
+                			<stpnm>Lincoln &amp; Whipple </stpnm>
+                			<pdist>13461.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.988340543447</lat>
+						<lon>-87.704012989998</lon>
+
+							<typ>S</typ>
+                			<stpid>1361</stpid>
+                			<stpnm>Lincoln &amp; Sacramento </stpnm>
+                			<pdist>13892.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.986833337596</lat>
+						<lon>-87.70144879818</lon>
+
+							<typ>S</typ>
+                			<stpid>1362</stpid>
+                			<stpnm>Lincoln &amp; Francisco</stpnm>
+                			<pdist>14751.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.985585280347</lat>
+						<lon>-87.699356675148</lon>
+
+							<typ>S</typ>
+                			<stpid>1363</stpid>
+                			<stpnm>Lincoln &amp; California</stpnm>
+                			<pdist>15494.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.984584424428</lat>
+						<lon>-87.697688341141</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.984066046653</lat>
+						<lon>-87.69679248333</lon>
+
+							<typ>S</typ>
+                			<stpid>1364</stpid>
+                			<stpnm>Lincoln &amp; Washtenaw</stpnm>
+                			<pdist>16373.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.983308410004</lat>
+						<lon>-87.695467472076</lon>
+
+							<typ>S</typ>
+                			<stpid>1365</stpid>
+                			<stpnm>Lincoln &amp; Bryn Mawr</stpnm>
+                			<pdist>16841.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.982570702499</lat>
+						<lon>-87.694265842438</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.981880838558</lat>
+						<lon>-87.693069577217</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.981733294432</lat>
+						<lon>-87.692940831184</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.981498020661</lat>
+						<lon>-87.69284427166</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.981350475648</lat>
+						<lon>-87.692855000496</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.981135139071</lat>
+						<lon>-87.69284427166</lon>
+
+							<typ>S</typ>
+                			<stpid>15527</stpid>
+                			<stpnm>Lincoln &amp; Catalpa</stpnm>
+                			<pdist>18062.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.979408432406</lat>
+						<lon>-87.692736983299</lon>
+
+							<typ>S</typ>
+                			<stpid>1367</stpid>
+                			<stpnm>Lincoln &amp; Balmoral</stpnm>
+                			<pdist>18500.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.977777389345</lat>
+						<lon>-87.692586779594</lon>
+
+							<typ>S</typ>
+                			<stpid>1368</stpid>
+                			<stpnm>Lincoln &amp; Berwyn</stpnm>
+                			<pdist>19167.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.976784386681</lat>
+						<lon>-87.69243657589</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.975595953501</lat>
+						<lon>-87.692382931709</lon>
+
+							<typ>S</typ>
+                			<stpid>14965</stpid>
+                			<stpnm>Lincoln &amp; Foster</stpnm>
+                			<pdist>20005.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.97492595455</lat>
+						<lon>-87.692323923111</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.974563035509</lat>
+						<lon>-87.692275643349</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.974267913005</lat>
+						<lon>-87.692195177078</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.974084457787</lat>
+						<lon>-87.692120075226</lon>
+
+							<typ>S</typ>
+                			<stpid>1370</stpid>
+                			<stpnm>Lincoln &amp; Carmen</stpnm>
+                			<pdist>20480.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.973928919253</lat>
+						<lon>-87.692028880119</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.973071456415</lat>
+						<lon>-87.69148170948</lon>
+
+							<typ>S</typ>
+                			<stpid>1371</stpid>
+                			<stpnm>Lincoln &amp; Winnemac</stpnm>
+                			<pdist>20915.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.971990637973</lat>
+						<lon>-87.690795063972</lon>
+
+							<typ>S</typ>
+                			<stpid>1372</stpid>
+                			<stpnm>Lincoln &amp; Argyle</stpnm>
+                			<pdist>21361.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.970538882498</lat>
+						<lon>-87.689818739891</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.970467091533</lat>
+						<lon>-87.689759731293</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.970391312094</lat>
+						<lon>-87.689663171768</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.970347439746</lat>
+						<lon>-87.68955051899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.97036339333</lat>
+						<lon>-87.689207196236</lon>
+
+							<typ>S</typ>
+                			<stpid>1373</stpid>
+                			<stpnm>Ainslie &amp; Western</stpnm>
+                			<pdist>22153.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.970367381726</lat>
+						<lon>-87.689056992531</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.968309336451</lat>
+						<lon>-87.688997983932</lon>
+
+							<typ>S</typ>
+                			<stpid>14591</stpid>
+                			<stpnm>Western &amp; Lawrence</stpnm>
+                			<pdist>22957.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.966749804375</lat>
+						<lon>-87.68897652626</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.966685986392</lat>
+						<lon>-87.6885420084</lon>
+
+							<typ>S</typ>
+                			<stpid>1375</stpid>
+                			<stpnm>Leland &amp; Western (Brown Line)</stpnm>
+                			<pdist>23640.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.966654077377</lat>
+						<lon>-87.688279151917</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.966634134234</lat>
+						<lon>-87.68810749054</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.966642111492</lat>
+						<lon>-87.687951922417</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.966693963643</lat>
+						<lon>-87.687785625458</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.966761770239</lat>
+						<lon>-87.687619328499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.966789690581</lat>
+						<lon>-87.687458395958</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.966725872639</lat>
+						<lon>-87.687351107597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.966562338869</lat>
+						<lon>-87.687243819237</lon>
+
+							<typ>S</typ>
+                			<stpid>1376</stpid>
+                			<stpnm>Lincoln &amp; Leland </stpnm>
+                			<pdist>24093.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.965078549876</lat>
+						<lon>-87.686283588409</lon>
+
+							<typ>S</typ>
+                			<stpid>1377</stpid>
+                			<stpnm>Lincoln &amp; Wilson</stpnm>
+                			<pdist>24629.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.963367363212</lat>
+						<lon>-87.685162425041</lon>
+
+							<typ>S</typ>
+                			<stpid>1378</stpid>
+                			<stpnm>Lincoln &amp; Sunnyside</stpnm>
+                			<pdist>25331.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.961564384886</lat>
+						<lon>-87.683987617493</lon>
+
+							<typ>S</typ>
+                			<stpid>1379</stpid>
+                			<stpnm>Lincoln &amp; Montrose/Leavitt</stpnm>
+                			<pdist>26060.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.961257235262</lat>
+						<lon>-87.683783769608</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.959785289894</lat>
+						<lon>-87.682732343674</lon>
+
+							<typ>S</typ>
+                			<stpid>1380</stpid>
+                			<stpnm>Lincoln &amp; Cullom</stpnm>
+                			<pdist>26806.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.957946307662</lat>
+						<lon>-87.681450247765</lon>
+
+							<typ>S</typ>
+                			<stpid>1381</stpid>
+                			<stpnm>Lincoln &amp; Berteau</stpnm>
+                			<pdist>27552.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.956163122371</lat>
+						<lon>-87.680194973946</lon>
+
+							<typ>S</typ>
+                			<stpid>1382</stpid>
+                			<stpnm>Lincoln &amp; Belle Plaine</stpnm>
+                			<pdist>28308.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.955086006414</lat>
+						<lon>-87.679465413094</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.954363929599</lat>
+						<lon>-87.678945064545</lon>
+
+							<typ>S</typ>
+                			<stpid>1383</stpid>
+                			<stpnm>Lincoln &amp; Irving Park/Damen</stpnm>
+                			<pdist>29022.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.953869242418</lat>
+						<lon>-87.678633928299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.952504843359</lat>
+						<lon>-87.677641510963</lon>
+
+							<typ>S</typ>
+                			<stpid>1384</stpid>
+                			<stpnm>Lincoln &amp; Byron</stpnm>
+                			<pdist>29795.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.950645702894</lat>
+						<lon>-87.67637014389</lon>
+
+							<typ>S</typ>
+                			<stpid>1385</stpid>
+                			<stpnm>Lincoln &amp; Grace/Wolcott</stpnm>
+                			<pdist>30543.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.948874282563</lat>
+						<lon>-87.675125598907</lon>
+
+							<typ>S</typ>
+                			<stpid>1386</stpid>
+                			<stpnm>Lincoln &amp; Waveland</stpnm>
+                			<pdist>31285.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.947298315442</lat>
+						<lon>-87.674036622047</lon>
+
+							<typ>S</typ>
+                			<stpid>1387</stpid>
+                			<stpnm>Lincoln &amp; Addison</stpnm>
+                			<pdist>31927.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.945367203878</lat>
+						<lon>-87.672663331032</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.944828556955</lat>
+						<lon>-87.672293186188</lon>
+
+							<typ>S</typ>
+                			<stpid>16061</stpid>
+                			<stpnm>Lincoln &amp; Cornelia</stpnm>
+                			<pdist>32920.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.944210104876</lat>
+						<lon>-87.671880125999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.943384162744</lat>
+						<lon>-87.671290040016</lon>
+
+							<typ>S</typ>
+                			<stpid>1389</stpid>
+                			<stpnm>Lincoln &amp; Roscoe</stpnm>
+                			<pdist>33505.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.942973182721</lat>
+						<lon>-87.671016454697</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.94160855044</lat>
+						<lon>-87.670040130615</lon>
+
+							<typ>S</typ>
+                			<stpid>1390</stpid>
+                			<stpnm>Lincoln &amp; School/Marshfield</stpnm>
+                			<pdist>34257.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.940371577816</lat>
+						<lon>-87.66918182373</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.939804956536</lat>
+						<lon>-87.668768763542</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.939649334317</lat>
+						<lon>-87.668629288673</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.93933808874</lat>
+						<lon>-87.668248414993</lon>
+
+							<typ>S</typ>
+                			<stpid>15342</stpid>
+                			<stpnm>Lincoln &amp; Belmont/Ashland</stpnm>
+                			<pdist>35309.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.938017273302</lat>
+						<lon>-87.666424512863</lon>
+
+							<typ>S</typ>
+                			<stpid>1392</stpid>
+                			<stpnm>Lincoln &amp; Barry/Greenview</stpnm>
+                			<pdist>35893.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.937326926854</lat>
+						<lon>-87.665432095528</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.936237521017</lat>
+						<lon>-87.663892507553</lon>
+
+							<typ>S</typ>
+                			<stpid>1393</stpid>
+                			<stpnm>Lincoln &amp; Wellington/Southport</stpnm>
+                			<pdist>36835.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.934473681634</lat>
+						<lon>-87.661440968513</lon>
+
+							<typ>S</typ>
+                			<stpid>1394</stpid>
+                			<stpnm>Lincoln &amp; George/Lakewood</stpnm>
+                			<pdist>37790.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.932701811966</lat>
+						<lon>-87.658989429474</lon>
+
+							<typ>S</typ>
+                			<stpid>1395</stpid>
+                			<stpnm>Lincoln &amp; Diversey/Racine</stpnm>
+                			<pdist>38719.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.930909938753</lat>
+						<lon>-87.656468153</lon>
+
+							<typ>S</typ>
+                			<stpid>1396</stpid>
+                			<stpnm>Lincoln &amp; Schubert/Seminary</stpnm>
+                			<pdist>39665.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.92991620563</lat>
+						<lon>-87.655068039894</lon>
+
+							<typ>S</typ>
+                			<stpid>1397</stpid>
+                			<stpnm>Lincoln &amp; Kenmore</stpnm>
+                			<pdist>40183.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.92913397911</lat>
+						<lon>-87.653979063034</lon>
+
+							<typ>S</typ>
+                			<stpid>1398</stpid>
+                			<stpnm>Lincoln &amp; Wrightwood/Sheffield</stpnm>
+                			<pdist>40601.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.928990303808</lat>
+						<lon>-87.653785943985</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.92734599676</lat>
+						<lon>-87.653726935387</lon>
+
+							<typ>S</typ>
+                			<stpid>1399</stpid>
+                			<stpnm>Sheffield &amp; Altgeld</stpnm>
+                			<pdist>41322.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.925330465502</lat>
+						<lon>-87.65366256237</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.925342439143</lat>
+						<lon>-87.653136849403</lon>
+
+							<typ>S</typ>
+                			<stpid>6597</stpid>
+                			<stpnm>Fullerton &amp; Sheffield (Red/Brown/Purple Line)</stpnm>
+                			<pdist>42151.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.92537037763</lat>
+						<lon>-87.651972770691</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.925406298524</lat>
+						<lon>-87.649859189987</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.925414280942</lat>
+						<lon>-87.64895260334</lon>
+
+							<typ>S</typ>
+                			<stpid>1348</stpid>
+                			<stpnm>Fullerton &amp; Halsted/Lincoln</stpnm>
+                			<pdist>43290.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.925418272151</lat>
+						<lon>-87.648802399635</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.923833742677</lat>
+						<lon>-87.646565437317</lon>
+
+							<typ>S</typ>
+                			<stpid>1400</stpid>
+                			<stpnm>Lincoln &amp; Belden/Orchard</stpnm>
+                			<pdist>44172.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.922037628941</lat>
+						<lon>-87.644070982933</lon>
+
+							<typ>S</typ>
+                			<stpid>1401</stpid>
+                			<stpnm>Lincoln &amp; Webster</stpnm>
+                			<pdist>45105.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.921155519016</lat>
+						<lon>-87.64285326004</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.920257430772</lat>
+						<lon>-87.641597986221</lon>
+
+							<typ>S</typ>
+                			<stpid>1402</stpid>
+                			<stpnm>Lincoln &amp; Dickens/Cleveland</stpnm>
+                			<pdist>46039.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.91938327941</lat>
+						<lon>-87.640369534492</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.918489157866</lat>
+						<lon>-87.639119625092</lon>
+
+							<typ>S</typ>
+                			<stpid>1403</stpid>
+                			<stpnm>Lincoln &amp; Armitage/Sedgwick</stpnm>
+                			<pdist>46980.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.91723976169</lat>
+						<lon>-87.63738155365</lon>
+
+							<typ>S</typ>
+                			<stpid>1407</stpid>
+                			<stpnm>1928 N Lincoln</stpnm>
+                			<pdist>47636.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.916704868949</lat>
+						<lon>-87.636598348618</lon>
+
+							<typ>S</typ>
+                			<stpid>1408</stpid>
+                			<stpnm>Lincoln &amp; Wisconsin</stpnm>
+                			<pdist>47921.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.915447454177</lat>
+						<lon>-87.634871006012</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.915571200857</lat>
+						<lon>-87.634377479553</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.914936497603</lat>
+						<lon>-87.633991241455</lon>
+
+							<typ>S</typ>
+                			<stpid>1409</stpid>
+                			<stpnm>Clark &amp; Menomonee</stpnm>
+                			<pdist>48933.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.914325739457</lat>
+						<lon>-87.633605003357</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.913691023818</lat>
+						<lon>-87.633224129677</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.912952510256</lat>
+						<lon>-87.633234858513</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.91260919834</lat>
+						<lon>-87.633293867111</lon>
+
+							<typ>S</typ>
+                			<stpid>1410</stpid>
+                			<stpnm>LaSalle &amp; Eugenie</stpnm>
+                			<pdist>49860.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.911092216602</lat>
+						<lon>-87.633272409439</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.911100200811</lat>
+						<lon>-87.63302564621</lon>
+
+							<typ>S</typ>
+                			<stpid>15276</stpid>
+                			<stpnm>North Ave &amp; LaSalle</stpnm>
+                			<pdist>50474.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.911108185019</lat>
+						<lon>-87.632912993431</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.911128145534</lat>
+						<lon>-87.63163626194</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.911331742431</lat>
+						<lon>-87.631695270538</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.911459489173</lat>
+						<lon>-87.631765007973</lon>
+
+							<typ>S</typ>
+                			<stpid>15417</stpid>
+                			<stpnm>Clark &amp; North</stpnm>
+                			<pdist>50834.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.913683039934</lat>
+						<lon>-87.633127570152</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>3030</pid>
+				<ln>50566.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.913371667651</lat>
+						<lon>-87.632939815521</lon>
+
+							<typ>S</typ>
+                			<stpid>1451</stpid>
+                			<stpnm>Clark &amp; LaSalle</stpnm>
+                			<pdist>678.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.914385617965</lat>
+						<lon>-87.633562088013</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.915651037297</lat>
+						<lon>-87.634329199791</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.915511323461</lat>
+						<lon>-87.634817361832</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.915563217207</lat>
+						<lon>-87.634919285774</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.916369560765</lat>
+						<lon>-87.636013627052</lon>
+
+							<typ>S</typ>
+                			<stpid>1453</stpid>
+                			<stpnm>Lincoln &amp; Wisconsin</stpnm>
+                			<pdist>2016.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.917199844476</lat>
+						<lon>-87.637177705765</lon>
+
+							<typ>S</typ>
+                			<stpid>1454</stpid>
+                			<stpnm>1929 N Lincoln</stpnm>
+                			<pdist>2466.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.918177809031</lat>
+						<lon>-87.63852417469</lon>
+
+							<typ>S</typ>
+                			<stpid>1455</stpid>
+                			<stpnm>Lincoln &amp; Armitage/Sedgwick</stpnm>
+                			<pdist>2952.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.91933138877</lat>
+						<lon>-87.640176415443</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.919898191936</lat>
+						<lon>-87.640970349312</lon>
+
+							<typ>S</typ>
+                			<stpid>1456</stpid>
+                			<stpnm>Lincoln &amp; Dickens/Cleveland</stpnm>
+                			<pdist>3895.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.922177328489</lat>
+						<lon>-87.644151449203</lon>
+
+							<typ>S</typ>
+                			<stpid>1352</stpid>
+                			<stpnm>Lincoln &amp; Webster</stpnm>
+                			<pdist>5092.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.923518428591</lat>
+						<lon>-87.64601290226</lon>
+
+							<typ>S</typ>
+                			<stpid>1353</stpid>
+                			<stpnm>Lincoln &amp; Belden/Orchard</stpnm>
+                			<pdist>5784.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.925482131455</lat>
+						<lon>-87.648732662201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.925482131455</lat>
+						<lon>-87.649430036545</lon>
+
+							<typ>S</typ>
+                			<stpid>1458</stpid>
+                			<stpnm>Fullerton &amp; Halsted/Lincoln</stpnm>
+                			<pdist>7091.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.925410289733</lat>
+						<lon>-87.652766704559</lon>
+
+							<typ>S</typ>
+                			<stpid>1225</stpid>
+                			<stpnm>Fullerton Red/Brown/Purple Line Station</stpnm>
+                			<pdist>7961.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.925390333684</lat>
+						<lon>-87.6535820961</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.926368172716</lat>
+						<lon>-87.653619647026</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.927086575515</lat>
+						<lon>-87.653641104698</lon>
+
+							<typ>S</typ>
+                			<stpid>1459</stpid>
+                			<stpnm>Sheffield &amp; Altgeld</stpnm>
+                			<pdist>8728.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.929034204629</lat>
+						<lon>-87.653705477715</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.929277654088</lat>
+						<lon>-87.654054164886</lon>
+
+							<typ>S</typ>
+                			<stpid>1460</stpid>
+                			<stpnm>Lincoln &amp; Wrightwood/Sheffield</stpnm>
+                			<pdist>9583.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.929968087662</lat>
+						<lon>-87.655009031296</lon>
+
+							<typ>S</typ>
+                			<stpid>1461</stpid>
+                			<stpnm>Lincoln &amp; Kenmore</stpnm>
+                			<pdist>9913.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.930694431679</lat>
+						<lon>-87.65606045723</lon>
+
+							<typ>S</typ>
+                			<stpid>1462</stpid>
+                			<stpnm>Lincoln &amp; Schubert/Seminary</stpnm>
+                			<pdist>10314.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.932422458652</lat>
+						<lon>-87.658447623253</lon>
+
+							<typ>S</typ>
+                			<stpid>1463</stpid>
+                			<stpnm>Lincoln &amp; Diversey/Racine</stpnm>
+                			<pdist>11220.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.934224999999</lat>
+						<lon>-87.660973333334</lon>
+
+							<typ>S</typ>
+                			<stpid>1464</stpid>
+                			<stpnm>Lincoln &amp; George/Lakewood</stpnm>
+                			<pdist>12163.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.934836829024</lat>
+						<lon>-87.66183257103</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.936077899551</lat>
+						<lon>-87.663554549217</lon>
+
+							<typ>S</typ>
+                			<stpid>1465</stpid>
+                			<stpnm>Lincoln &amp; Wellington/Southport</stpnm>
+                			<pdist>13093.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.937785828505</lat>
+						<lon>-87.665947079659</lon>
+
+							<typ>S</typ>
+                			<stpid>1466</stpid>
+                			<stpnm>Lincoln &amp; Barry/Greenview</stpnm>
+                			<pdist>14035.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.93964135368</lat>
+						<lon>-87.668522000313</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.939804956536</lat>
+						<lon>-87.668682932854</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.940040384299</lat>
+						<lon>-87.668838500977</lon>
+
+							<typ>S</typ>
+                			<stpid>15017</stpid>
+                			<stpnm>Lincoln &amp; Belmont/Ashland</stpnm>
+                			<pdist>15335.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.940427441613</lat>
+						<lon>-87.669112086296</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.941389089306</lat>
+						<lon>-87.669798731804</lon>
+
+							<typ>S</typ>
+                			<stpid>1468</stpid>
+                			<stpnm>Lincoln &amp; School/Marshfield</stpnm>
+                			<pdist>15757.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.94316869782</lat>
+						<lon>-87.671054005623</lon>
+
+							<typ>S</typ>
+                			<stpid>1469</stpid>
+                			<stpnm>Lincoln &amp; Roscoe</stpnm>
+                			<pdist>16475.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.944988156518</lat>
+						<lon>-87.672298550606</lon>
+
+							<typ>S</typ>
+                			<stpid>1470</stpid>
+                			<stpnm>Lincoln &amp; Cornelia</stpnm>
+                			<pdist>17244.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.946819532904</lat>
+						<lon>-87.673591375351</lon>
+
+							<typ>S</typ>
+                			<stpid>1471</stpid>
+                			<stpnm>Lincoln &amp; Addison/Ravenswood</stpnm>
+                			<pdist>17979.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.948694743971</lat>
+						<lon>-87.67490029335</lon>
+
+							<typ>S</typ>
+                			<stpid>1472</stpid>
+                			<stpnm>Lincoln &amp; Waveland</stpnm>
+                			<pdist>18838.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.950422283222</lat>
+						<lon>-87.676091194153</lon>
+
+							<typ>S</typ>
+                			<stpid>1473</stpid>
+                			<stpnm>Lincoln &amp; Grace/Wolcott</stpnm>
+                			<pdist>19463.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.950573889513</lat>
+						<lon>-87.67623603344</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.952241534915</lat>
+						<lon>-87.677362561226</lon>
+
+							<typ>S</typ>
+                			<stpid>1474</stpid>
+                			<stpnm>Lincoln &amp; Byron</stpnm>
+                			<pdist>20225.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.953242899108</lat>
+						<lon>-87.67805993557</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.95402084051</lat>
+						<lon>-87.678628563881</lon>
+
+							<typ>S</typ>
+                			<stpid>1475</stpid>
+                			<stpnm>Lincoln &amp; Irving Park/Damen</stpnm>
+                			<pdist>20926.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.954324035614</lat>
+						<lon>-87.678810954094</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.954559409765</lat>
+						<lon>-87.678982615471</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.955832010885</lat>
+						<lon>-87.679867744446</lon>
+
+							<typ>S</typ>
+                			<stpid>1476</stpid>
+                			<stpnm>Lincoln &amp; Belle Plaine</stpnm>
+                			<pdist>21714.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.957667064938</lat>
+						<lon>-87.681155204773</lon>
+
+							<typ>S</typ>
+                			<stpid>1477</stpid>
+                			<stpnm>Lincoln &amp; Berteau</stpnm>
+                			<pdist>22460.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.959474142617</lat>
+						<lon>-87.682426571846</lon>
+
+							<typ>S</typ>
+                			<stpid>1478</stpid>
+                			<stpnm>Lincoln &amp; Cullom</stpnm>
+                			<pdist>23203.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.961233301463</lat>
+						<lon>-87.683660387993</lon>
+
+							<typ>S</typ>
+                			<stpid>1479</stpid>
+                			<stpnm>Lincoln &amp; Montrose/Leavitt</stpnm>
+                			<pdist>23951.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.963052244573</lat>
+						<lon>-87.68486738205</lon>
+
+							<typ>S</typ>
+                			<stpid>1480</stpid>
+                			<stpnm>Lincoln &amp; Sunnyside</stpnm>
+                			<pdist>24684.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.964815293381</lat>
+						<lon>-87.686020731926</lon>
+
+							<typ>S</typ>
+                			<stpid>1481</stpid>
+                			<stpnm>Lincoln &amp; Wilson</stpnm>
+                			<pdist>25388.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.965776573196</lat>
+						<lon>-87.686626911163</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.966538407063</lat>
+						<lon>-87.687120437622</lon>
+
+							<typ>S</typ>
+                			<stpid>1482</stpid>
+                			<stpnm>Lincoln &amp; Leland </stpnm>
+                			<pdist>26096.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.966761770239</lat>
+						<lon>-87.687265276909</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.966837553996</lat>
+						<lon>-87.687356472015</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.96686148569</lat>
+						<lon>-87.68747985363</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.96683356538</lat>
+						<lon>-87.687619328499</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.966729861262</lat>
+						<lon>-87.687866091728</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.966701940894</lat>
+						<lon>-87.688053846359</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.966717895391</lat>
+						<lon>-87.688252329826</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.966035837053</lat>
+						<lon>-87.688252329826</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.966031848386</lat>
+						<lon>-87.688563466072</lon>
+
+							<typ>S</typ>
+                			<stpid>1662</stpid>
+                			<stpnm>Western Brown Line Station</stpnm>
+                			<pdist>26607.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.966035837053</lat>
+						<lon>-87.688729763031</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.966674020513</lat>
+						<lon>-87.688735127449</lon>
+
+							<typ>S</typ>
+                			<stpid>1484</stpid>
+                			<stpnm>Western &amp; Leland</stpnm>
+                			<pdist>26987.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.9688677274</lat>
+						<lon>-87.688804864883</lon>
+
+							<typ>S</typ>
+                			<stpid>14592</stpid>
+                			<stpnm>Western &amp; Lawrence</stpnm>
+                			<pdist>27884.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.970439172803</lat>
+						<lon>-87.688847780228</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.97043119602</lat>
+						<lon>-87.689099907875</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.970423219237</lat>
+						<lon>-87.689443230629</lon>
+
+							<typ>S</typ>
+                			<stpid>1486</stpid>
+                			<stpnm>Ainslie &amp; Western</stpnm>
+                			<pdist>28509.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.97043119602</lat>
+						<lon>-87.68955051899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.970479056699</lat>
+						<lon>-87.689652442932</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.970566801184</lat>
+						<lon>-87.689749002457</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.971811164501</lat>
+						<lon>-87.690564393997</lon>
+
+							<typ>S</typ>
+                			<stpid>1487</stpid>
+                			<stpnm>Lincoln &amp; Argyle</stpnm>
+                			<pdist>29190.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.972907938935</lat>
+						<lon>-87.691283226013</lon>
+
+							<typ>S</typ>
+                			<stpid>1488</stpid>
+                			<stpnm>Lincoln &amp; Winnemac</stpnm>
+                			<pdist>29545.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.973928919253</lat>
+						<lon>-87.691916227341</lon>
+
+							<typ>S</typ>
+                			<stpid>1489</stpid>
+                			<stpnm>Lincoln &amp; Carmen</stpnm>
+                			<pdist>29979.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.97413630388</lat>
+						<lon>-87.692055702209</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.974519166034</lat>
+						<lon>-87.692173719406</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.974878097212</lat>
+						<lon>-87.692221999168</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.976174220738</lat>
+						<lon>-87.692307829857</lon>
+
+							<typ>S</typ>
+                			<stpid>17585</stpid>
+                			<stpnm>Lincoln &amp; Foster</stpnm>
+                			<pdist>30817.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.976796350661</lat>
+						<lon>-87.692345380783</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.97776542555</lat>
+						<lon>-87.692500948906</lon>
+
+							<typ>S</typ>
+                			<stpid>1491</stpid>
+                			<stpnm>Lincoln &amp; Berwyn</stpnm>
+                			<pdist>31493.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.979591872289</lat>
+						<lon>-87.692651152611</lon>
+
+							<typ>S</typ>
+                			<stpid>1492</stpid>
+                			<stpnm>Lincoln &amp; Balmoral</stpnm>
+                			<pdist>32015.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.981274709158</lat>
+						<lon>-87.692763805389</lon>
+
+							<typ>S</typ>
+                			<stpid>1493</stpid>
+                			<stpnm>Lincoln &amp; Catalpa</stpnm>
+                			<pdist>32688.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.981577774579</lat>
+						<lon>-87.692779898643</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.981729306749</lat>
+						<lon>-87.692833542824</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.981860900182</lat>
+						<lon>-87.692935466766</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.981976542672</lat>
+						<lon>-87.693080306053</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.982981427191</lat>
+						<lon>-87.694775462151</lon>
+
+							<typ>S</typ>
+                			<stpid>1494</stpid>
+                			<stpnm>Lincoln &amp; Bryn Mawr</stpnm>
+                			<pdist>33559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.984221560429</lat>
+						<lon>-87.696915864944</lon>
+
+							<typ>S</typ>
+                			<stpid>1495</stpid>
+                			<stpnm>Lincoln &amp; Washtenaw</stpnm>
+                			<pdist>34318.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.985852438429</lat>
+						<lon>-87.699667811394</lon>
+
+							<typ>S</typ>
+                			<stpid>15227</stpid>
+                			<stpnm>Lincoln &amp; California</stpnm>
+                			<pdist>35271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.987104477788</lat>
+						<lon>-87.701765298843</lon>
+
+							<typ>S</typ>
+                			<stpid>1497</stpid>
+                			<stpnm>Lincoln &amp; Francisco</stpnm>
+                			<pdist>35970.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.987937827916</lat>
+						<lon>-87.703165411949</lon>
+
+							<typ>S</typ>
+                			<stpid>1498</stpid>
+                			<stpnm>Lincoln &amp; Richmond </stpnm>
+                			<pdist>36481.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.988695409476</lat>
+						<lon>-87.704431414604</lon>
+
+							<typ>S</typ>
+                			<stpid>1499</stpid>
+                			<stpnm>Lincoln &amp; Sacramento </stpnm>
+                			<pdist>36919.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.989472918017</lat>
+						<lon>-87.705702781677</lon>
+
+							<typ>S</typ>
+                			<stpid>1500</stpid>
+                			<stpnm>Lincoln &amp; Whipple </stpnm>
+                			<pdist>37351.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.98983176491</lat>
+						<lon>-87.706303596497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.989943405753</lat>
+						<lon>-87.706389427185</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.99023845561</lat>
+						<lon>-87.706899046898</lon>
+
+							<typ>S</typ>
+                			<stpid>1502</stpid>
+                			<stpnm>Lincoln &amp; Peterson</stpnm>
+                			<pdist>37803.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.991398705974</lat>
+						<lon>-87.708846330643</lon>
+
+							<typ>S</typ>
+                			<stpid>1503</stpid>
+                			<stpnm>Lincoln &amp; Kedzie</stpnm>
+                			<pdist>38490.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.992957634504</lat>
+						<lon>-87.711372971535</lon>
+
+							<typ>S</typ>
+                			<stpid>1504</stpid>
+                			<stpnm>Lincoln &amp; Jersey</stpnm>
+                			<pdist>39383.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.994468682239</lat>
+						<lon>-87.713760137558</lon>
+
+							<typ>S</typ>
+                			<stpid>1505</stpid>
+                			<stpnm>Lincoln &amp; McCormick/Kimball</stpnm>
+                			<pdist>40264.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.994568354311</lat>
+						<lon>-87.713921070099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.994955080474</lat>
+						<lon>-87.713567018509</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.99526206761</lat>
+						<lon>-87.713223695755</lon>
+
+							<typ>S</typ>
+                			<stpid>17560</stpid>
+                			<stpnm>McCormick &amp; Lincoln</stpnm>
+                			<pdist>40639.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.996302623381</lat>
+						<lon>-87.712064981461</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.996454120503</lat>
+						<lon>-87.71190404892</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.996709272737</lat>
+						<lon>-87.711743116379</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.99692854337</lat>
+						<lon>-87.711668014526</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.997179706985</lat>
+						<lon>-87.7116304636</lon>
+
+							<typ>S</typ>
+                			<stpid>1507</stpid>
+                			<stpnm>McCormick &amp; Devon</stpnm>
+                			<pdist>41477.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.997327215313</lat>
+						<lon>-87.711625099182</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.99735113555</lat>
+						<lon>-87.709286212921</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.997554457203</lat>
+						<lon>-87.709291577339</lon>
+
+							<typ>S</typ>
+                			<stpid>12031</stpid>
+                			<stpnm>Kedzie &amp; Devon</stpnm>
+                			<pdist>42156.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.999097288578</lat>
+						<lon>-87.709329128265</lon>
+
+							<typ>S</typ>
+                			<stpid>15048</stpid>
+                			<stpnm>Kedzie &amp; Arthur</stpnm>
+                			<pdist>42661.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>42.001265959876</lat>
+						<lon>-87.709307670593</lon>
+
+							<typ>S</typ>
+                			<stpid>12032</stpid>
+                			<stpnm>Kedzie &amp; Albion</stpnm>
+                			<pdist>43461.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>42.00451882824</lat>
+						<lon>-87.709296941757</lon>
+
+							<typ>S</typ>
+                			<stpid>12033</stpid>
+                			<stpnm>Kedzie &amp; Pratt</stpnm>
+                			<pdist>44513.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>42.005455591596</lat>
+						<lon>-87.709275484085</lon>
+
+							<typ>S</typ>
+                			<stpid>12034</stpid>
+                			<stpnm>6833 N Kedzie</stpnm>
+                			<pdist>45006.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>42.007341035168</lat>
+						<lon>-87.709221839905</lon>
+
+							<typ>S</typ>
+                			<stpid>12035</stpid>
+                			<stpnm>6933 N Kedzie</stpnm>
+                			<pdist>45704.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>42.008951390929</lat>
+						<lon>-87.709195017815</lon>
+
+							<typ>S</typ>
+                			<stpid>12036</stpid>
+                			<stpnm>7033 N Kedzie</stpnm>
+                			<pdist>46524.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>42.009995708766</lat>
+						<lon>-87.709168195724</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>42.010677296275</lat>
+						<lon>-87.70912528038</lon>
+
+							<typ>S</typ>
+                			<stpid>12037</stpid>
+                			<stpnm>7061 N Kedzie</stpnm>
+                			<pdist>46892.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>42.011857103006</lat>
+						<lon>-87.709023356438</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>42.012215823687</lat>
+						<lon>-87.709012627602</lon>
+
+							<typ>S</typ>
+                			<stpid>15046</stpid>
+                			<stpnm>Kedzie &amp; Touhy</stpnm>
+                			<pdist>47306.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>42.013359730569</lat>
+						<lon>-87.708980441093</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>42.013650686181</lat>
+						<lon>-87.708910703659</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>42.01451557377</lat>
+						<lon>-87.708728313446</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>42.015436247635</lat>
+						<lon>-87.70866394043</lon>
+
+							<typ>S</typ>
+                			<stpid>14747</stpid>
+                			<stpnm>Kedzie &amp; Jarvis</stpnm>
+                			<pdist>48422.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>42.016404734329</lat>
+						<lon>-87.708669304848</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>42.017209802577</lat>
+						<lon>-87.708615660667</lon>
+
+							<typ>S</typ>
+                			<stpid>14748</stpid>
+                			<stpnm>Kedzie &amp; Birchwood</stpnm>
+                			<pdist>49087.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>42.017851458586</lat>
+						<lon>-87.708626389503</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>42.018676435369</lat>
+						<lon>-87.708604931831</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>42.019170619234</lat>
+						<lon>-87.708604931831</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>42.019170619234</lat>
+						<lon>-87.709259390831</lon>
+
+							<typ>S</typ>
+                			<stpid>15534</stpid>
+                			<stpnm>Howard &amp; Kedzie</stpnm>
+                			<pdist>49974.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>42.019162648557</lat>
+						<lon>-87.70980656147</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>42.019158663218</lat>
+						<lon>-87.71081507206</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>42.0189474399</lat>
+						<lon>-87.71081507206</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>42.018939469195</lat>
+						<lon>-87.711018919945</lon>
+
+							<typ>S</typ>
+                			<stpid>11859</stpid>
+                			<stpnm>Howard &amp; McCormick Terminal</stpnm>
+                			<pdist>50566.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

@@ -1,0 +1,1944 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>2169</pid>
+				<ln>37054.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.913371667651</lat>
+						<lon>-87.632939815521</lon>
+
+							<typ>S</typ>
+                			<stpid>1451</stpid>
+                			<stpnm>Clark &amp; LaSalle</stpnm>
+                			<pdist>678.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.913643120495</lat>
+						<lon>-87.63315975666</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.914365658469</lat>
+						<lon>-87.633540630341</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.915503339804</lat>
+						<lon>-87.634243369102</lon>
+
+							<typ>S</typ>
+                			<stpid>1905</stpid>
+                			<stpnm>Clark &amp; Lincoln</stpnm>
+                			<pdist>1429.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.916545198605</lat>
+						<lon>-87.63487637043</lon>
+
+							<typ>S</typ>
+                			<stpid>1906</stpid>
+                			<stpnm>Clark &amp; Wisconsin</stpnm>
+                			<pdist>1900.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.918513107713</lat>
+						<lon>-87.636083364487</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.918413316623</lat>
+						<lon>-87.636426687241</lon>
+
+							<typ>S</typ>
+                			<stpid>13180</stpid>
+                			<stpnm>Armitage &amp; Clark</stpnm>
+                			<pdist>2728.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.918369408494</lat>
+						<lon>-87.637628316879</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.918341466941</lat>
+						<lon>-87.638722658157</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.918333483638</lat>
+						<lon>-87.639371752739</lon>
+
+							<typ>S</typ>
+                			<stpid>4084</stpid>
+                			<stpnm>Armitage &amp; Lincoln/Sedgwick</stpnm>
+                			<pdist>3466.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.918321508682</lat>
+						<lon>-87.641120553017</lon>
+
+							<typ>S</typ>
+                			<stpid>4085</stpid>
+                			<stpnm>Armitage &amp; Cleveland</stpnm>
+                			<pdist>3935.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.918297558762</lat>
+						<lon>-87.643582820892</lon>
+
+							<typ>S</typ>
+                			<stpid>4086</stpid>
+                			<stpnm>Armitage &amp; Larrabee</stpnm>
+                			<pdist>4597.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.918253650553</lat>
+						<lon>-87.646028995514</lon>
+
+							<typ>S</typ>
+                			<stpid>4087</stpid>
+                			<stpnm>Armitage &amp; Orchard</stpnm>
+                			<pdist>5253.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.918205750655</lat>
+						<lon>-87.648383975029</lon>
+
+							<typ>S</typ>
+                			<stpid>4088</stpid>
+                			<stpnm>Armitage &amp; Halsted</stpnm>
+                			<pdist>5916.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.918189784014</lat>
+						<lon>-87.6497143507</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.918165834045</lat>
+						<lon>-87.650765776634</lon>
+
+							<typ>S</typ>
+                			<stpid>4089</stpid>
+                			<stpnm>Armitage &amp; Fremont</stpnm>
+                			<pdist>6580.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.918137892403</lat>
+						<lon>-87.653206586838</lon>
+
+							<typ>S</typ>
+                			<stpid>4090</stpid>
+                			<stpnm>Armitage &amp; Sheffield (Brown &amp; Purple Lines)</stpnm>
+                			<pdist>7247.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.91812591741</lat>
+						<lon>-87.655684947968</lon>
+
+							<typ>S</typ>
+                			<stpid>4091</stpid>
+                			<stpnm>Armitage &amp; Seminary </stpnm>
+                			<pdist>7914.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.918082009083</lat>
+						<lon>-87.658254504204</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.917571073602</lat>
+						<lon>-87.658254504204</lon>
+
+							<typ>S</typ>
+                			<stpid>4092</stpid>
+                			<stpnm>Racine &amp; Clybourn/Cortland</stpnm>
+                			<pdist>8839.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.917279678879</lat>
+						<lon>-87.658249139786</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.917187869307</lat>
+						<lon>-87.658324241638</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.917151943786</lat>
+						<lon>-87.658479809761</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.917139968608</lat>
+						<lon>-87.659794092178</lon>
+
+							<typ>S</typ>
+                			<stpid>4093</stpid>
+                			<stpnm>Cortland &amp; Kingsbury</stpnm>
+                			<pdist>9358.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.917096059603</lat>
+						<lon>-87.662889361382</lon>
+
+							<typ>S</typ>
+                			<stpid>4094</stpid>
+                			<stpnm>Cortland &amp; Southport</stpnm>
+                			<pdist>10178.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.917088076144</lat>
+						<lon>-87.663838863373</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.917048158835</lat>
+						<lon>-87.66403734684</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.916764745225</lat>
+						<lon>-87.665335536003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.91650128919</lat>
+						<lon>-87.666349411011</lon>
+
+							<typ>S</typ>
+                			<stpid>4095</stpid>
+                			<stpnm>Cortland &amp; Elston</stpnm>
+                			<pdist>11129.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.916165979937</lat>
+						<lon>-87.667674422264</lon>
+
+							<typ>S</typ>
+                			<stpid>4096</stpid>
+                			<stpnm>Clybourn Metra Station</stpnm>
+                			<pdist>11713.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.916142029209</lat>
+						<lon>-87.66795873642</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.916106103099</lat>
+						<lon>-87.670179605484</lon>
+
+							<typ>S</typ>
+                			<stpid>4097</stpid>
+                			<stpnm>Cortland &amp; Paulina</stpnm>
+                			<pdist>12197.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.91611009489</lat>
+						<lon>-87.671472430229</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.916185938871</lat>
+						<lon>-87.671472430229</lon>
+
+							<typ>S</typ>
+                			<stpid>4098</stpid>
+                			<stpnm>Cortland &amp; Hermitage</stpnm>
+                			<pdist>12531.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.917918350507</lat>
+						<lon>-87.671488523483</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.917906375473</lat>
+						<lon>-87.672625780106</lon>
+
+							<typ>S</typ>
+                			<stpid>4099</stpid>
+                			<stpnm>Armitage &amp; Wood</stpnm>
+                			<pdist>13484.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.917854483632</lat>
+						<lon>-87.673966884613</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.917834525221</lat>
+						<lon>-87.675093412399</lon>
+
+							<typ>S</typ>
+                			<stpid>4100</stpid>
+                			<stpnm>Armitage &amp; Wolcott</stpnm>
+                			<pdist>14143.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.917786625007</lat>
+						<lon>-87.677437663078</lon>
+
+							<typ>S</typ>
+                			<stpid>4101</stpid>
+                			<stpnm>Armitage &amp; Damen</stpnm>
+                			<pdist>14814.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.917746708135</lat>
+						<lon>-87.679969668388</lon>
+
+							<typ>S</typ>
+                			<stpid>4102</stpid>
+                			<stpnm>Armitage &amp; Hoyne</stpnm>
+                			<pdist>15493.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.917706791238</lat>
+						<lon>-87.682378292084</lon>
+
+							<typ>S</typ>
+                			<stpid>4103</stpid>
+                			<stpnm>Armitage &amp; Leavitt</stpnm>
+                			<pdist>16155.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.917642924152</lat>
+						<lon>-87.684819102287</lon>
+
+							<typ>S</typ>
+                			<stpid>4104</stpid>
+                			<stpnm>Armitage &amp; Oakley</stpnm>
+                			<pdist>16823.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.917606998887</lat>
+						<lon>-87.687222361565</lon>
+
+							<typ>S</typ>
+                			<stpid>4105</stpid>
+                			<stpnm>Armitage &amp; Western</stpnm>
+                			<pdist>17473.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.917610990584</lat>
+						<lon>-87.688482999802</lon>
+
+							<typ>S</typ>
+                			<stpid>4106</stpid>
+                			<stpnm>Armitage &amp; Milwaukee</stpnm>
+                			<pdist>17813.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.917591032096</lat>
+						<lon>-87.690730690956</lon>
+
+							<typ>S</typ>
+                			<stpid>4107</stpid>
+                			<stpnm>Armitage &amp; Bingham</stpnm>
+                			<pdist>18476.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.917583048699</lat>
+						<lon>-87.692221999168</lon>
+
+							<typ>S</typ>
+                			<stpid>15390</stpid>
+                			<stpnm>Armitage &amp; Rockwell</stpnm>
+                			<pdist>18814.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.917571073602</lat>
+						<lon>-87.694705724716</lon>
+
+							<typ>S</typ>
+                			<stpid>4109</stpid>
+                			<stpnm>Armitage &amp; Washtenaw</stpnm>
+                			<pdist>19545.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.917527164894</lat>
+						<lon>-87.697291374207</lon>
+
+							<typ>S</typ>
+                			<stpid>4110</stpid>
+                			<stpnm>Armitage &amp; California</stpnm>
+                			<pdist>20150.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.917503214676</lat>
+						<lon>-87.699286937714</lon>
+
+							<typ>S</typ>
+                			<stpid>4111</stpid>
+                			<stpnm>Armitage &amp; Francisco</stpnm>
+                			<pdist>20917.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.917491239564</lat>
+						<lon>-87.701421976089</lon>
+
+							<typ>S</typ>
+                			<stpid>4112</stpid>
+                			<stpnm>Armitage &amp; Humboldt</stpnm>
+                			<pdist>21374.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.917487247859</lat>
+						<lon>-87.702677249908</lon>
+
+							<typ>S</typ>
+                			<stpid>4113</stpid>
+                			<stpnm>Armitage &amp; Humboldt</stpnm>
+                			<pdist>21739.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.917467289333</lat>
+						<lon>-87.705101966858</lon>
+
+							<typ>S</typ>
+                			<stpid>4114</stpid>
+                			<stpnm>Armitage &amp; Albany</stpnm>
+                			<pdist>22337.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.917451322507</lat>
+						<lon>-87.706786394119</lon>
+
+							<typ>S</typ>
+                			<stpid>17134</stpid>
+                			<stpnm>Armitage &amp; Kedzie</stpnm>
+                			<pdist>22801.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.917427372261</lat>
+						<lon>-87.708819508553</lon>
+
+							<typ>S</typ>
+                			<stpid>4116</stpid>
+                			<stpnm>Armitage &amp; Sawyer </stpnm>
+                			<pdist>23339.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.917395438586</lat>
+						<lon>-87.710149884224</lon>
+
+							<typ>S</typ>
+                			<stpid>4117</stpid>
+                			<stpnm>Armitage &amp; Spaulding</stpnm>
+                			<pdist>23707.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.917371488319</lat>
+						<lon>-87.711764574051</lon>
+
+							<typ>S</typ>
+                			<stpid>14830</stpid>
+                			<stpnm>Armitage &amp; Kimball</stpnm>
+                			<pdist>24356.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.917351529756</lat>
+						<lon>-87.715036869049</lon>
+
+							<typ>S</typ>
+                			<stpid>4120</stpid>
+                			<stpnm>Armitage &amp; Drake</stpnm>
+                			<pdist>25047.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.917315604328</lat>
+						<lon>-87.716608643532</lon>
+
+							<typ>S</typ>
+                			<stpid>4121</stpid>
+                			<stpnm>Armitage &amp; Central Park</stpnm>
+                			<pdist>25490.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.917291654031</lat>
+						<lon>-87.719017267227</lon>
+
+							<typ>S</typ>
+                			<stpid>15130</stpid>
+                			<stpnm>Armitage &amp; Lawndale</stpnm>
+                			<pdist>26159.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.917283670597</lat>
+						<lon>-87.720433473587</lon>
+
+							<typ>S</typ>
+                			<stpid>4122</stpid>
+                			<stpnm>Armitage &amp; Ridgeway</stpnm>
+                			<pdist>26552.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.91724774513</lat>
+						<lon>-87.723163962364</lon>
+
+							<typ>S</typ>
+                			<stpid>15190</stpid>
+                			<stpnm>Armitage &amp; Avers</stpnm>
+                			<pdist>27261.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.91724375341</lat>
+						<lon>-87.724242210388</lon>
+
+							<typ>S</typ>
+                			<stpid>4124</stpid>
+                			<stpnm>Armitage &amp; Springfield</stpnm>
+                			<pdist>27648.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.917227786529</lat>
+						<lon>-87.726355791092</lon>
+
+							<typ>S</typ>
+                			<stpid>4125</stpid>
+                			<stpnm>Armitage &amp; Pulaski</stpnm>
+                			<pdist>28145.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.917195852753</lat>
+						<lon>-87.728823423386</lon>
+
+							<typ>S</typ>
+                			<stpid>4126</stpid>
+                			<stpnm>Armitage &amp; Karlov</stpnm>
+                			<pdist>28808.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.917159927237</lat>
+						<lon>-87.731274962425</lon>
+
+							<typ>S</typ>
+                			<stpid>4127</stpid>
+                			<stpnm>Armitage &amp; Keeler</stpnm>
+                			<pdist>29481.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.917135976882</lat>
+						<lon>-87.733747959137</lon>
+
+							<typ>S</typ>
+                			<stpid>4128</stpid>
+                			<stpnm>Armitage &amp; Kildare</stpnm>
+                			<pdist>30139.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.917096059603</lat>
+						<lon>-87.73616194725</lon>
+
+							<typ>S</typ>
+                			<stpid>4129</stpid>
+                			<stpnm>Armitage &amp; Kostner</stpnm>
+                			<pdist>30810.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.917064125762</lat>
+						<lon>-87.738602757454</lon>
+
+							<typ>S</typ>
+                			<stpid>4130</stpid>
+                			<stpnm>Armitage &amp; Kilbourn</stpnm>
+                			<pdist>31477.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.917068117493</lat>
+						<lon>-87.739874124527</lon>
+
+							<typ>S</typ>
+                			<stpid>4131</stpid>
+                			<stpnm>Armitage &amp; Kolmar</stpnm>
+                			<pdist>31825.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.917036183638</lat>
+						<lon>-87.741837501526</lon>
+
+							<typ>S</typ>
+                			<stpid>4132</stpid>
+                			<stpnm>4600 W Armitage</stpnm>
+                			<pdist>32419.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.917012233236</lat>
+						<lon>-87.743521928787</lon>
+
+							<typ>S</typ>
+                			<stpid>4133</stpid>
+                			<stpnm>Armitage &amp; Kilpatrick</stpnm>
+                			<pdist>32838.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.916968324143</lat>
+						<lon>-87.74590909481</lon>
+
+							<typ>S</typ>
+                			<stpid>4134</stpid>
+                			<stpnm>Armitage &amp; Cicero</stpnm>
+                			<pdist>33476.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.916948365454</lat>
+						<lon>-87.74727165699</lon>
+
+							<typ>S</typ>
+                			<stpid>4135</stpid>
+                			<stpnm>Armitage &amp; Lacrosse</stpnm>
+                			<pdist>33853.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.916908448058</lat>
+						<lon>-87.749691009521</lon>
+
+							<typ>S</typ>
+                			<stpid>4136</stpid>
+                			<stpnm>Armitage &amp; Laporte</stpnm>
+                			<pdist>34504.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.916908448058</lat>
+						<lon>-87.750828266144</lon>
+
+							<typ>S</typ>
+                			<stpid>4137</stpid>
+                			<stpnm>Armitage &amp; Lavergne</stpnm>
+                			<pdist>34813.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.916884497608</lat>
+						<lon>-87.753172516823</lon>
+
+							<typ>S</typ>
+                			<stpid>4138</stpid>
+                			<stpnm>Armitage &amp; Leclaire/Grand</stpnm>
+                			<pdist>35481.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.916880505866</lat>
+						<lon>-87.753843069077</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.916964332406</lat>
+						<lon>-87.755886912346</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.917036183638</lat>
+						<lon>-87.756262421608</lon>
+
+							<typ>S</typ>
+                			<stpid>3883</stpid>
+                			<stpnm>Grand &amp; Laramie</stpnm>
+                			<pdist>36340.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.917271695443</lat>
+						<lon>-87.757576704025</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.91760300719</lat>
+						<lon>-87.757469415665</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.917610990584</lat>
+						<lon>-87.757641077042</lon>
+
+							<typ>S</typ>
+                			<stpid>14179</stpid>
+                			<stpnm>Grand &amp; Latrobe Terminal</stpnm>
+                			<pdist>37054.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>2170</pid>
+				<ln>0.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.917610990584</lat>
+						<lon>-87.757641077042</lon>
+
+							<typ>S</typ>
+                			<stpid>14179</stpid>
+                			<stpnm>Grand &amp; Latrobe Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.917638932456</lat>
+						<lon>-87.757802009583</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.917267703725</lat>
+						<lon>-87.757914662361</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.916936390238</lat>
+						<lon>-87.756106853485</lon>
+
+							<typ>S</typ>
+                			<stpid>689</stpid>
+                			<stpnm>Grand &amp; Laramie</stpnm>
+                			<pdist>440.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.916908448058</lat>
+						<lon>-87.755897641182</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.916820629698</lat>
+						<lon>-87.754057645798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.916836596682</lat>
+						<lon>-87.7523624897</lon>
+
+							<typ>S</typ>
+                			<stpid>4027</stpid>
+                			<stpnm>Armitage &amp; Leclaire/Grand</stpnm>
+                			<pdist>1389.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.916848571917</lat>
+						<lon>-87.750999927521</lon>
+
+							<typ>S</typ>
+                			<stpid>4028</stpid>
+                			<stpnm>Armitage &amp; Lavergne</stpnm>
+                			<pdist>1808.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.916848571917</lat>
+						<lon>-87.749540805817</lon>
+
+							<typ>S</typ>
+                			<stpid>4029</stpid>
+                			<stpnm>Armitage &amp; Lamon </stpnm>
+                			<pdist>2217.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.916880505866</lat>
+						<lon>-87.747550606728</lon>
+
+							<typ>S</typ>
+                			<stpid>4030</stpid>
+                			<stpnm>Armitage &amp; Lacrosse</stpnm>
+                			<pdist>2789.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.916900464576</lat>
+						<lon>-87.746306061745</lon>
+
+							<typ>S</typ>
+                			<stpid>4031</stpid>
+                			<stpnm>Armitage &amp; Cicero</stpnm>
+                			<pdist>3120.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.916948365454</lat>
+						<lon>-87.743800878525</lon>
+
+							<typ>S</typ>
+                			<stpid>4032</stpid>
+                			<stpnm>Armitage &amp; Kilpatrick</stpnm>
+                			<pdist>3788.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.916976307617</lat>
+						<lon>-87.74190723896</lon>
+
+							<typ>S</typ>
+                			<stpid>4033</stpid>
+                			<stpnm>4600 W Armitage</stpnm>
+                			<pdist>4309.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.917012233236</lat>
+						<lon>-87.740099430084</lon>
+
+							<typ>S</typ>
+                			<stpid>4034</stpid>
+                			<stpnm>Armitage &amp; Kolmar</stpnm>
+                			<pdist>4797.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.917012233236</lat>
+						<lon>-87.738887071609</lon>
+
+							<typ>S</typ>
+                			<stpid>4035</stpid>
+                			<stpnm>Armitage &amp; Kilbourn</stpnm>
+                			<pdist>5137.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.917036183638</lat>
+						<lon>-87.736001014709</lon>
+
+							<typ>S</typ>
+                			<stpid>15221</stpid>
+                			<stpnm>Armitage &amp; Kostner</stpnm>
+                			<pdist>5945.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.917068117493</lat>
+						<lon>-87.734032273293</lon>
+
+							<typ>S</typ>
+                			<stpid>4037</stpid>
+                			<stpnm>Armitage &amp; Kildare</stpnm>
+                			<pdist>6474.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.917096059603</lat>
+						<lon>-87.731570005417</lon>
+
+							<typ>S</typ>
+                			<stpid>4038</stpid>
+                			<stpnm>Armitage &amp; Keeler</stpnm>
+                			<pdist>7120.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.917131985155</lat>
+						<lon>-87.729118466377</lon>
+
+							<typ>S</typ>
+                			<stpid>4039</stpid>
+                			<stpnm>Armitage &amp; Karlov</stpnm>
+                			<pdist>7791.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.917155935512</lat>
+						<lon>-87.726725935936</lon>
+
+							<typ>S</typ>
+                			<stpid>4040</stpid>
+                			<stpnm>Armitage &amp; Pulaski</stpnm>
+                			<pdist>8455.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.917175894136</lat>
+						<lon>-87.724306583405</lon>
+
+							<typ>S</typ>
+                			<stpid>4041</stpid>
+                			<stpnm>Armitage &amp; Springfield</stpnm>
+                			<pdist>9109.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.917203836199</lat>
+						<lon>-87.721753120422</lon>
+
+							<typ>S</typ>
+                			<stpid>4042</stpid>
+                			<stpnm>Armitage &amp; Hamlin</stpnm>
+                			<pdist>9794.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.917227786529</lat>
+						<lon>-87.719360589981</lon>
+
+							<typ>S</typ>
+                			<stpid>4043</stpid>
+                			<stpnm>Armitage &amp; Lawndale</stpnm>
+                			<pdist>10494.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.917255728569</lat>
+						<lon>-87.716860771179</lon>
+
+							<typ>S</typ>
+                			<stpid>4044</stpid>
+                			<stpnm>Armitage &amp; Central Park</stpnm>
+                			<pdist>11158.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.917283670597</lat>
+						<lon>-87.714918851852</lon>
+
+							<typ>S</typ>
+                			<stpid>15333</stpid>
+                			<stpnm>Armitage &amp; Drake</stpnm>
+                			<pdist>11742.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.917307620897</lat>
+						<lon>-87.711963057518</lon>
+
+							<typ>S</typ>
+                			<stpid>4047</stpid>
+                			<stpnm>Armitage &amp; Kimball</stpnm>
+                			<pdist>12489.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.917327579473</lat>
+						<lon>-87.710380554199</lon>
+
+							<typ>S</typ>
+                			<stpid>4048</stpid>
+                			<stpnm>Armitage &amp; Spaulding</stpnm>
+                			<pdist>12923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.917367496607</lat>
+						<lon>-87.70877122879</lon>
+
+							<typ>S</typ>
+                			<stpid>4049</stpid>
+                			<stpnm>Armitage &amp; Sawyer</stpnm>
+                			<pdist>13357.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.917391446875</lat>
+						<lon>-87.706507444382</lon>
+
+							<typ>S</typ>
+                			<stpid>15254</stpid>
+                			<stpnm>Armitage &amp; Kedzie</stpnm>
+                			<pdist>13970.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.917399430296</lat>
+						<lon>-87.705380916595</lon>
+
+							<typ>S</typ>
+                			<stpid>4051</stpid>
+                			<stpnm>Armitage &amp; Albany</stpnm>
+                			<pdist>14301.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.91743136397</lat>
+						<lon>-87.70256459713</lon>
+
+							<typ>S</typ>
+                			<stpid>4052</stpid>
+                			<stpnm>Armitage &amp; Humboldt</stpnm>
+                			<pdist>15078.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.917423380553</lat>
+						<lon>-87.701561450958</lon>
+
+							<typ>S</typ>
+                			<stpid>4053</stpid>
+                			<stpnm>Armitage &amp; Humboldt</stpnm>
+                			<pdist>15413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.91743136397</lat>
+						<lon>-87.700316905975</lon>
+
+							<typ>S</typ>
+                			<stpid>15131</stpid>
+                			<stpnm>Armitage &amp; Richmond</stpnm>
+                			<pdist>15616.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.917439347385</lat>
+						<lon>-87.699437141418</lon>
+
+							<typ>S</typ>
+                			<stpid>4054</stpid>
+                			<stpnm>Armitage &amp; Francisco</stpnm>
+                			<pdist>15931.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.917467289333</lat>
+						<lon>-87.697350382805</lon>
+
+							<typ>S</typ>
+                			<stpid>4055</stpid>
+                			<stpnm>Armitage &amp; California</stpnm>
+                			<pdist>16511.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.917499222972</lat>
+						<lon>-87.694898843765</lon>
+
+							<typ>S</typ>
+                			<stpid>4056</stpid>
+                			<stpnm>Armitage &amp; Washtenaw</stpnm>
+                			<pdist>17179.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.917519181489</lat>
+						<lon>-87.692441940308</lon>
+
+							<typ>S</typ>
+                			<stpid>4057</stpid>
+                			<stpnm>Armitage &amp; Rockwell</stpnm>
+                			<pdist>17847.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.917531156596</lat>
+						<lon>-87.689963579178</lon>
+
+							<typ>S</typ>
+                			<stpid>4058</stpid>
+                			<stpnm>Armitage &amp; Campbell</stpnm>
+                			<pdist>18518.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.917547123401</lat>
+						<lon>-87.688686847687</lon>
+
+							<typ>S</typ>
+                			<stpid>4059</stpid>
+                			<stpnm>Armitage &amp; Milwaukee</stpnm>
+                			<pdist>18848.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.917555106803</lat>
+						<lon>-87.687571048737</lon>
+
+							<typ>S</typ>
+                			<stpid>4060</stpid>
+                			<stpnm>Armitage &amp; Western</stpnm>
+                			<pdist>19162.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.917579057001</lat>
+						<lon>-87.685081958771</lon>
+
+							<typ>S</typ>
+                			<stpid>4061</stpid>
+                			<stpnm>Armitage &amp; Oakley</stpnm>
+                			<pdist>19858.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.917630949066</lat>
+						<lon>-87.682662606239</lon>
+
+							<typ>S</typ>
+                			<stpid>4062</stpid>
+                			<stpnm>Armitage &amp; Leavitt</stpnm>
+                			<pdist>20517.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.917678849396</lat>
+						<lon>-87.680189609528</lon>
+
+							<typ>S</typ>
+                			<stpid>4063</stpid>
+                			<stpnm>Armitage &amp; Hoyne</stpnm>
+                			<pdist>21190.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.91773074138</lat>
+						<lon>-87.677282094955</lon>
+
+							<typ>S</typ>
+                			<stpid>15220</stpid>
+                			<stpnm>Armitage &amp; Damen</stpnm>
+                			<pdist>22006.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.917774649948</lat>
+						<lon>-87.67530798912</lon>
+
+							<typ>S</typ>
+                			<stpid>4065</stpid>
+                			<stpnm>Armitage &amp; Wolcott</stpnm>
+                			<pdist>22529.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.917818558487</lat>
+						<lon>-87.672904729843</lon>
+
+							<typ>S</typ>
+                			<stpid>4066</stpid>
+                			<stpnm>Armitage &amp; Wood</stpnm>
+                			<pdist>23197.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.917842508586</lat>
+						<lon>-87.672325372696</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.917854483632</lat>
+						<lon>-87.671681642532</lon>
+
+							<typ>S</typ>
+                			<stpid>4067</stpid>
+                			<stpnm>Armitage &amp; Hermitage</stpnm>
+                			<pdist>23517.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.917854483632</lat>
+						<lon>-87.671574354172</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.916046226206</lat>
+						<lon>-87.671574354172</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.916038242615</lat>
+						<lon>-87.671209573746</lon>
+
+							<typ>S</typ>
+                			<stpid>4068</stpid>
+                			<stpnm>Cortland &amp; Hermitage</stpnm>
+                			<pdist>24317.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.916050218</lat>
+						<lon>-87.669911384583</lon>
+
+							<typ>S</typ>
+                			<stpid>4069</stpid>
+                			<stpnm>Cortland &amp; Paulina</stpnm>
+                			<pdist>24611.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.916078160556</lat>
+						<lon>-87.668216228485</lon>
+
+							<typ>S</typ>
+                			<stpid>4070</stpid>
+                			<stpnm>Cortland &amp; Ashland</stpnm>
+                			<pdist>25107.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.916094127725</lat>
+						<lon>-87.667679786682</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.916397503181</lat>
+						<lon>-87.666510343552</lon>
+
+							<typ>S</typ>
+                			<stpid>4071</stpid>
+                			<stpnm>Cortland &amp; Elston</stpnm>
+                			<pdist>25521.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.916712852456</lat>
+						<lon>-87.665260434151</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.916988282825</lat>
+						<lon>-87.664031982422</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.917028200172</lat>
+						<lon>-87.663833498955</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.917024208438</lat>
+						<lon>-87.663162946701</lon>
+
+							<typ>S</typ>
+                			<stpid>4072</stpid>
+                			<stpnm>Cortland &amp; Southport</stpnm>
+                			<pdist>26477.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.917060134031</lat>
+						<lon>-87.660137414932</lon>
+
+							<typ>S</typ>
+                			<stpid>4073</stpid>
+                			<stpnm>Cortland &amp; Kingsbury</stpnm>
+                			<pdist>27314.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.917088076144</lat>
+						<lon>-87.658415436745</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.917151943786</lat>
+						<lon>-87.65821158886</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.917283670597</lat>
+						<lon>-87.658174037933</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.917487247859</lat>
+						<lon>-87.658168673515</lon>
+
+							<typ>S</typ>
+                			<stpid>4074</stpid>
+                			<stpnm>Racine &amp; Maud</stpnm>
+                			<pdist>27952.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.9180141507</lat>
+						<lon>-87.658174037933</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.918058059074</lat>
+						<lon>-87.655942440033</lon>
+
+							<typ>S</typ>
+                			<stpid>4075</stpid>
+                			<stpnm>Armitage &amp; Seminary</stpnm>
+                			<pdist>28851.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.918086000751</lat>
+						<lon>-87.653008103371</lon>
+
+							<typ>S</typ>
+                			<stpid>4076</stpid>
+                			<stpnm>Armitage &amp; Sheffield (Brown &amp; Purple Lines)</stpnm>
+                			<pdist>29526.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.918105959084</lat>
+						<lon>-87.651082277298</lon>
+
+							<typ>S</typ>
+                			<stpid>4077</stpid>
+                			<stpnm>Armitage &amp; Fremont</stpnm>
+                			<pdist>30065.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.918141884067</lat>
+						<lon>-87.648646831512</lon>
+
+							<typ>S</typ>
+                			<stpid>4078</stpid>
+                			<stpnm>Armitage &amp; Halsted</stpnm>
+                			<pdist>30723.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.918185792353</lat>
+						<lon>-87.645889520645</lon>
+
+							<typ>S</typ>
+                			<stpid>4079</stpid>
+                			<stpnm>Armitage &amp; Orchard</stpnm>
+                			<pdist>31379.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.918237683925</lat>
+						<lon>-87.643765211105</lon>
+
+							<typ>S</typ>
+                			<stpid>4080</stpid>
+                			<stpnm>Armitage &amp; Larrabee</stpnm>
+                			<pdist>32048.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.918261633866</lat>
+						<lon>-87.641345858574</lon>
+
+							<typ>S</typ>
+                			<stpid>4081</stpid>
+                			<stpnm>Armitage &amp; Cleveland</stpnm>
+                			<pdist>32711.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.918277600489</lat>
+						<lon>-87.639028429985</lon>
+
+							<typ>S</typ>
+                			<stpid>4082</stpid>
+                			<stpnm>Armitage &amp; Lincoln/Sedgwick</stpnm>
+                			<pdist>33371.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.918297558762</lat>
+						<lon>-87.637858986855</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.918325500334</lat>
+						<lon>-87.636743187904</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.918377391792</lat>
+						<lon>-87.636287212372</lon>
+
+							<typ>S</typ>
+                			<stpid>1405</stpid>
+                			<stpnm>Armitage &amp; Clark</stpnm>
+                			<pdist>34115.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.918429283208</lat>
+						<lon>-87.636120915413</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.916732811218</lat>
+						<lon>-87.635090947151</lon>
+
+							<typ>S</typ>
+                			<stpid>1843</stpid>
+                			<stpnm>Clark &amp; Wisconsin</stpnm>
+                			<pdist>34815.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.914936497603</lat>
+						<lon>-87.633991241455</lon>
+
+							<typ>S</typ>
+                			<stpid>1409</stpid>
+                			<stpnm>Clark &amp; Menomonee</stpnm>
+                			<pdist>35517.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.914325739457</lat>
+						<lon>-87.633605003357</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.913691023818</lat>
+						<lon>-87.633224129677</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.912952510256</lat>
+						<lon>-87.633234858513</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.91260919834</lat>
+						<lon>-87.633293867111</lon>
+
+							<typ>S</typ>
+                			<stpid>1410</stpid>
+                			<stpnm>LaSalle &amp; Eugenie</stpnm>
+                			<pdist>36444.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.911092216602</lat>
+						<lon>-87.633272409439</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.911100200811</lat>
+						<lon>-87.63302564621</lon>
+
+							<typ>S</typ>
+                			<stpid>15276</stpid>
+                			<stpnm>North Ave &amp; LaSalle</stpnm>
+                			<pdist>37058.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.911108185019</lat>
+						<lon>-87.632912993431</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.911128145534</lat>
+						<lon>-87.63163626194</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.911331742431</lat>
+						<lon>-87.631695270538</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.911459489173</lat>
+						<lon>-87.631765007973</lon>
+
+							<typ>S</typ>
+                			<stpid>15417</stpid>
+                			<stpnm>Clark &amp; North</stpnm>
+                			<pdist>37418.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.913683039934</lat>
+						<lon>-87.633127570152</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

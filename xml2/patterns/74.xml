@@ -1,0 +1,1758 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>1532</pid>
+				<ln>41842.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.925474149046</lat>
+						<lon>-87.649344205856</lon>
+
+							<typ>S</typ>
+                			<stpid>1224</stpid>
+                			<stpnm>Fullerton &amp; Halsted</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.925410289733</lat>
+						<lon>-87.652766704559</lon>
+
+							<typ>S</typ>
+                			<stpid>1225</stpid>
+                			<stpnm>Fullerton Red/Brown/Purple Line Station</stpnm>
+                			<pdist>869.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.925410289733</lat>
+						<lon>-87.653625011444</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.925366386418</lat>
+						<lon>-87.656253576279</lon>
+
+							<typ>S</typ>
+                			<stpid>1226</stpid>
+                			<stpnm>Fullerton &amp; Seminary</stpnm>
+                			<pdist>1673.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.925326474288</lat>
+						<lon>-87.658356428146</lon>
+
+							<typ>S</typ>
+                			<stpid>1227</stpid>
+                			<stpnm>Fullerton &amp; Racine</stpnm>
+                			<pdist>2329.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.925294544565</lat>
+						<lon>-87.660303711891</lon>
+
+							<typ>S</typ>
+                			<stpid>1228</stpid>
+                			<stpnm>Fullerton &amp; Surrey Court</stpnm>
+                			<pdist>2892.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.925234676293</lat>
+						<lon>-87.66365647316</lon>
+
+							<typ>S</typ>
+                			<stpid>17253</stpid>
+                			<stpnm>Fullerton &amp; Southport</stpnm>
+                			<pdist>3776.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.925218711411</lat>
+						<lon>-87.665496468544</lon>
+
+							<typ>S</typ>
+                			<stpid>1230</stpid>
+                			<stpnm>Fullerton &amp; Greenview</stpnm>
+                			<pdist>4293.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.92519476408</lat>
+						<lon>-87.666987776756</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.925186781634</lat>
+						<lon>-87.668511271477</lon>
+
+							<typ>S</typ>
+                			<stpid>15232</stpid>
+                			<stpnm>Fullerton &amp; Ashland</stpnm>
+                			<pdist>5083.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.925190772857</lat>
+						<lon>-87.672228813171</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.925142878166</lat>
+						<lon>-87.673199772835</lon>
+
+							<typ>S</typ>
+                			<stpid>1233</stpid>
+                			<stpnm>Fullerton &amp; Riverfront Mall (1800 W)</stpnm>
+                			<pdist>6302.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.925055071138</lat>
+						<lon>-87.677367925644</lon>
+
+							<typ>S</typ>
+                			<stpid>1235</stpid>
+                			<stpnm>Fullerton &amp; Elston</stpnm>
+                			<pdist>7432.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.925055071138</lat>
+						<lon>-87.678226232529</lon>
+
+							<typ>S</typ>
+                			<stpid>1236</stpid>
+                			<stpnm>Fullerton &amp; Damen</stpnm>
+                			<pdist>7745.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.924991211406</lat>
+						<lon>-87.681847214699</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.924991211406</lat>
+						<lon>-87.683681845665</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.924999193876</lat>
+						<lon>-87.685103416443</lon>
+
+							<typ>S</typ>
+                			<stpid>1238</stpid>
+                			<stpnm>Fullerton &amp; Oakley</stpnm>
+                			<pdist>9544.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.924935334087</lat>
+						<lon>-87.687442302704</lon>
+
+							<typ>S</typ>
+                			<stpid>1239</stpid>
+                			<stpnm>Fullerton &amp; Western</stpnm>
+                			<pdist>10186.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.92492336037</lat>
+						<lon>-87.68998503685</lon>
+
+							<typ>S</typ>
+                			<stpid>1240</stpid>
+                			<stpnm>Fullerton &amp; Campbell</stpnm>
+                			<pdist>10873.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.924895421687</lat>
+						<lon>-87.692388296127</lon>
+
+							<typ>S</typ>
+                			<stpid>1241</stpid>
+                			<stpnm>Fullerton &amp; Rockwell</stpnm>
+                			<pdist>11540.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.92487945672</lat>
+						<lon>-87.694839835167</lon>
+
+							<typ>S</typ>
+                			<stpid>1242</stpid>
+                			<stpnm>Fullerton &amp; Washtenaw</stpnm>
+                			<pdist>12217.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.924871474235</lat>
+						<lon>-87.696159482002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.924847526774</lat>
+						<lon>-87.69725382328</lon>
+
+							<typ>S</typ>
+                			<stpid>1243</stpid>
+                			<stpnm>Fullerton &amp; California</stpnm>
+                			<pdist>12872.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.924839544285</lat>
+						<lon>-87.698621749878</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.924839544285</lat>
+						<lon>-87.700869441032</lon>
+
+							<typ>S</typ>
+                			<stpid>14589</stpid>
+                			<stpnm>Fullerton &amp; Milwaukee</stpnm>
+                			<pdist>13921.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.92479164933</lat>
+						<lon>-87.704404592514</lon>
+
+							<typ>S</typ>
+                			<stpid>1246</stpid>
+                			<stpnm>Fullerton &amp; Albany</stpnm>
+                			<pdist>14836.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.924739763088</lat>
+						<lon>-87.707725167274</lon>
+
+							<typ>S</typ>
+                			<stpid>1248</stpid>
+                			<stpnm>Fullerton &amp; Kedzie</stpnm>
+                			<pdist>15769.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.92475971934</lat>
+						<lon>-87.708481550217</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.924727789334</lat>
+						<lon>-87.710546851158</lon>
+
+							<typ>S</typ>
+                			<stpid>1249</stpid>
+                			<stpnm>Fullerton &amp; Spaulding</stpnm>
+                			<pdist>16511.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.924711824325</lat>
+						<lon>-87.711861133575</lon>
+
+							<typ>S</typ>
+                			<stpid>1250</stpid>
+                			<stpnm>Fullerton &amp; Kimball</stpnm>
+                			<pdist>16880.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.92467590304</lat>
+						<lon>-87.714232206345</lon>
+
+							<typ>S</typ>
+                			<stpid>1251</stpid>
+                			<stpnm>Fullerton &amp; St. Louis</stpnm>
+                			<pdist>17530.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.924651955505</lat>
+						<lon>-87.716860771179</lon>
+
+							<typ>S</typ>
+                			<stpid>1252</stpid>
+                			<stpnm>Fullerton &amp; Central Park</stpnm>
+                			<pdist>18210.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.924616034187</lat>
+						<lon>-87.719323039055</lon>
+
+							<typ>S</typ>
+                			<stpid>1253</stpid>
+                			<stpnm>Fullerton &amp; Lawndale</stpnm>
+                			<pdist>18877.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.92459208663</lat>
+						<lon>-87.721946239471</lon>
+
+							<typ>S</typ>
+                			<stpid>1255</stpid>
+                			<stpnm>Fullerton &amp; Hamlin</stpnm>
+                			<pdist>19542.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.92456015654</lat>
+						<lon>-87.724204659462</lon>
+
+							<typ>S</typ>
+                			<stpid>1256</stpid>
+                			<stpnm>Fullerton &amp; Springfield</stpnm>
+                			<pdist>20205.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.924536208962</lat>
+						<lon>-87.726554274559</lon>
+
+							<typ>S</typ>
+                			<stpid>1257</stpid>
+                			<stpnm>Fullerton &amp; Pulaski</stpnm>
+                			<pdist>20876.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.924520243905</lat>
+						<lon>-87.729349136353</lon>
+
+							<typ>S</typ>
+                			<stpid>1258</stpid>
+                			<stpnm>Fullerton &amp; Karlov</stpnm>
+                			<pdist>21605.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.924500287578</lat>
+						<lon>-87.731537818909</lon>
+
+							<typ>S</typ>
+                			<stpid>1259</stpid>
+                			<stpnm>Fullerton &amp; Keeler</stpnm>
+                			<pdist>22211.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.924464366174</lat>
+						<lon>-87.732744812965</lon>
+
+							<typ>S</typ>
+                			<stpid>1260</stpid>
+                			<stpnm>Fullerton &amp; Tripp</stpnm>
+                			<pdist>22550.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.924456383637</lat>
+						<lon>-87.73395717144</lon>
+
+							<typ>S</typ>
+                			<stpid>1261</stpid>
+                			<stpnm>Fullerton &amp; Kildare</stpnm>
+                			<pdist>22885.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.924420462209</lat>
+						<lon>-87.736451625824</lon>
+
+							<typ>S</typ>
+                			<stpid>1262</stpid>
+                			<stpnm>Fullerton &amp; Kostner</stpnm>
+                			<pdist>23557.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.924396514578</lat>
+						<lon>-87.738908529282</lon>
+
+							<typ>S</typ>
+                			<stpid>1263</stpid>
+                			<stpnm>Fullerton &amp; Kilbourn</stpnm>
+                			<pdist>24220.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.924360593116</lat>
+						<lon>-87.741263508797</lon>
+
+							<typ>S</typ>
+                			<stpid>1264</stpid>
+                			<stpnm>Fullerton &amp; Kenton </stpnm>
+                			<pdist>24892.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.924340636739</lat>
+						<lon>-87.743704319</lon>
+
+							<typ>S</typ>
+                			<stpid>1265</stpid>
+                			<stpnm>Fullerton &amp; Kilpatrick</stpnm>
+                			<pdist>25555.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.92432866291</lat>
+						<lon>-87.745104432106</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.924276776292</lat>
+						<lon>-87.746520638466</lon>
+
+							<typ>S</typ>
+                			<stpid>15207</stpid>
+                			<stpnm>Fullerton &amp; Cicero</stpnm>
+                			<pdist>26362.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.924236863479</lat>
+						<lon>-87.748650312424</lon>
+
+							<typ>S</typ>
+                			<stpid>1267</stpid>
+                			<stpnm>Fullerton &amp; Lamon</stpnm>
+                			<pdist>26871.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.924196950642</lat>
+						<lon>-87.751595377922</lon>
+
+							<typ>S</typ>
+                			<stpid>15986</stpid>
+                			<stpnm>Fullerton &amp; Lavergne</stpnm>
+                			<pdist>27701.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.924173002928</lat>
+						<lon>-87.753515839577</lon>
+
+							<typ>S</typ>
+                			<stpid>1269</stpid>
+                			<stpnm>Fullerton &amp; Leclaire</stpnm>
+                			<pdist>28185.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.924149055205</lat>
+						<lon>-87.755962014198</lon>
+
+							<typ>S</typ>
+                			<stpid>1270</stpid>
+                			<stpnm>Fullerton &amp; Laramie</stpnm>
+                			<pdist>28878.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.924109142313</lat>
+						<lon>-87.758461833</lon>
+
+							<typ>S</typ>
+                			<stpid>1271</stpid>
+                			<stpnm>Fullerton &amp; Lockwood</stpnm>
+                			<pdist>29549.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.924077211981</lat>
+						<lon>-87.760977745056</lon>
+
+							<typ>S</typ>
+                			<stpid>1272</stpid>
+                			<stpnm>Fullerton &amp; Long</stpnm>
+                			<pdist>30229.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.924045281634</lat>
+						<lon>-87.763423919678</lon>
+
+							<typ>S</typ>
+                			<stpid>1273</stpid>
+                			<stpnm>Fullerton &amp; Linder</stpnm>
+                			<pdist>30901.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.924009359974</lat>
+						<lon>-87.766567468643</lon>
+
+							<typ>S</typ>
+                			<stpid>17403</stpid>
+                			<stpnm>Fullerton &amp; Central</stpnm>
+                			<pdist>31756.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.923981420891</lat>
+						<lon>-87.768225073814</lon>
+
+							<typ>S</typ>
+                			<stpid>1275</stpid>
+                			<stpnm>Fullerton &amp; Major</stpnm>
+                			<pdist>32241.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.923945499194</lat>
+						<lon>-87.771127223969</lon>
+
+							<typ>S</typ>
+                			<stpid>15462</stpid>
+                			<stpnm>Fullerton &amp; Menard</stpnm>
+                			<pdist>33018.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.923897603568</lat>
+						<lon>-87.773203253746</lon>
+
+							<typ>S</typ>
+                			<stpid>1277</stpid>
+                			<stpnm>Fullerton &amp; Marmora</stpnm>
+                			<pdist>33550.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.923853699213</lat>
+						<lon>-87.775831818581</lon>
+
+							<typ>S</typ>
+                			<stpid>1278</stpid>
+                			<stpnm>Fullerton &amp; Austin</stpnm>
+                			<pdist>34214.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.923817777445</lat>
+						<lon>-87.778052687645</lon>
+
+							<typ>S</typ>
+                			<stpid>1279</stpid>
+                			<stpnm>Fullerton &amp; Meade</stpnm>
+                			<pdist>34883.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.923773873034</lat>
+						<lon>-87.780590057373</lon>
+
+							<typ>S</typ>
+                			<stpid>1280</stpid>
+                			<stpnm>Fullerton &amp; Melvina</stpnm>
+                			<pdist>35539.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.923745933848</lat>
+						<lon>-87.783036231995</lon>
+
+							<typ>S</typ>
+                			<stpid>1281</stpid>
+                			<stpnm>Fullerton &amp; Mobile</stpnm>
+                			<pdist>36276.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.923714003334</lat>
+						<lon>-87.785321474075</lon>
+
+							<typ>S</typ>
+                			<stpid>1282</stpid>
+                			<stpnm>Fullerton &amp; Narragansett</stpnm>
+                			<pdist>36857.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.923690055439</lat>
+						<lon>-87.788175344467</lon>
+
+							<typ>S</typ>
+                			<stpid>1283</stpid>
+                			<stpnm>6450 W Fullerton</stpnm>
+                			<pdist>37343.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.923670098852</lat>
+						<lon>-87.790310382843</lon>
+
+							<typ>S</typ>
+                			<stpid>15517</stpid>
+                			<stpnm>Fullerton &amp; Grand</stpnm>
+                			<pdist>38055.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.92364615094</lat>
+						<lon>-87.79260635376</lon>
+
+							<typ>S</typ>
+                			<stpid>840</stpid>
+                			<stpnm>Grand &amp; Normandy </stpnm>
+                			<pdist>38906.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.923622203019</lat>
+						<lon>-87.795422673225</lon>
+
+							<typ>S</typ>
+                			<stpid>14809</stpid>
+                			<stpnm>Grand &amp; Oak Park</stpnm>
+                			<pdist>39575.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.923606237734</lat>
+						<lon>-87.797498703003</lon>
+
+							<typ>S</typ>
+                			<stpid>842</stpid>
+                			<stpnm>Grand &amp; New England </stpnm>
+                			<pdist>40240.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.923582289798</lat>
+						<lon>-87.80085682869</lon>
+
+							<typ>S</typ>
+                			<stpid>844</stpid>
+                			<stpnm>Grand &amp; Sayre</stpnm>
+                			<pdist>41070.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.923574307151</lat>
+						<lon>-87.801575660706</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.924009359974</lat>
+						<lon>-87.801602482796</lon>
+
+							<typ>S</typ>
+                			<stpid>668</stpid>
+                			<stpnm>Grand &amp; Nordica Terminal</stpnm>
+                			<pdist>41842.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1535</pid>
+				<ln>46391.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.924009359974</lat>
+						<lon>-87.801602482796</lon>
+
+							<typ>S</typ>
+                			<stpid>668</stpid>
+                			<stpnm>Grand &amp; Nordica Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.923997386082</lat>
+						<lon>-87.802010178566</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.923506454608</lat>
+						<lon>-87.801988720894</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.923518428591</lat>
+						<lon>-87.800862193108</lon>
+
+							<typ>S</typ>
+                			<stpid>669</stpid>
+                			<stpnm>Grand &amp; Sayre</stpnm>
+                			<pdist>238.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.923534393899</lat>
+						<lon>-87.799022197723</lon>
+
+							<typ>S</typ>
+                			<stpid>670</stpid>
+                			<stpnm>Grand &amp; Newland</stpnm>
+                			<pdist>707.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.923546367877</lat>
+						<lon>-87.797192931175</lon>
+
+							<typ>S</typ>
+                			<stpid>671</stpid>
+                			<stpnm>Grand &amp; Newcastle </stpnm>
+                			<pdist>1242.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.923558341853</lat>
+						<lon>-87.795417308807</lon>
+
+							<typ>S</typ>
+                			<stpid>672</stpid>
+                			<stpnm>Grand &amp; Oak Park</stpnm>
+                			<pdist>1701.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.923591666667</lat>
+						<lon>-87.791960000001</lon>
+
+							<typ>S</typ>
+                			<stpid>17567</stpid>
+                			<stpnm>Grand &amp; Normandy</stpnm>
+                			<pdist>2656.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.923602246412</lat>
+						<lon>-87.790744900703</lon>
+
+							<typ>S</typ>
+                			<stpid>15516</stpid>
+                			<stpnm>Fullerton &amp; Grand</stpnm>
+                			<pdist>2989.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.92364615094</lat>
+						<lon>-87.786877155304</lon>
+
+							<typ>S</typ>
+                			<stpid>1286</stpid>
+                			<stpnm>6450 W Fullerton</stpnm>
+                			<pdist>4020.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.92365014226</lat>
+						<lon>-87.785632610321</lon>
+
+							<typ>S</typ>
+                			<stpid>15257</stpid>
+                			<stpnm>Fullerton &amp; Narragansett</stpnm>
+                			<pdist>4367.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.923694046755</lat>
+						<lon>-87.783111333847</lon>
+
+							<typ>S</typ>
+                			<stpid>1291</stpid>
+                			<stpnm>Fullerton &amp; Mobile</stpnm>
+                			<pdist>5033.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.923725977279</lat>
+						<lon>-87.78068125248</lon>
+
+							<typ>S</typ>
+                			<stpid>1292</stpid>
+                			<stpnm>Fullerton &amp; Melvina</stpnm>
+                			<pdist>5708.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.923753916474</lat>
+						<lon>-87.778277993202</lon>
+
+							<typ>S</typ>
+                			<stpid>1293</stpid>
+                			<stpnm>Fullerton &amp; Meade</stpnm>
+                			<pdist>6363.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.923801812208</lat>
+						<lon>-87.775858640671</lon>
+
+							<typ>S</typ>
+                			<stpid>1294</stpid>
+                			<stpnm>Fullerton &amp; Austin</stpnm>
+                			<pdist>7031.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.923833742677</lat>
+						<lon>-87.773444652557</lon>
+
+							<typ>S</typ>
+                			<stpid>1295</stpid>
+                			<stpnm>Fullerton &amp; Marmora</stpnm>
+                			<pdist>7687.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.923853699213</lat>
+						<lon>-87.772033810616</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.92388962096</lat>
+						<lon>-87.770955562592</lon>
+
+							<typ>S</typ>
+                			<stpid>1296</stpid>
+                			<stpnm>Fullerton &amp; Menard</stpnm>
+                			<pdist>8339.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.923917560083</lat>
+						<lon>-87.76856303215</lon>
+
+							<typ>S</typ>
+                			<stpid>1297</stpid>
+                			<stpnm>Fullerton &amp; Major</stpnm>
+                			<pdist>9019.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.923961464395</lat>
+						<lon>-87.765719890594</lon>
+
+							<typ>S</typ>
+                			<stpid>14812</stpid>
+                			<stpnm>Fullerton &amp; Central</stpnm>
+                			<pdist>9821.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.923973438293</lat>
+						<lon>-87.763617038727</lon>
+
+							<typ>S</typ>
+                			<stpid>1299</stpid>
+                			<stpnm>Fullerton &amp; Linder</stpnm>
+                			<pdist>10370.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.92401335127</lat>
+						<lon>-87.760908007622</lon>
+
+							<typ>S</typ>
+                			<stpid>15844</stpid>
+                			<stpnm>Fullerton &amp; Long</stpnm>
+                			<pdist>11168.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.924041290339</lat>
+						<lon>-87.75876224041</lon>
+
+							<typ>S</typ>
+                			<stpid>1301</stpid>
+                			<stpnm>Fullerton &amp; Lockwood</stpnm>
+                			<pdist>11684.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.924081203274</lat>
+						<lon>-87.756262421608</lon>
+
+							<typ>S</typ>
+                			<stpid>1302</stpid>
+                			<stpnm>Fullerton &amp; Laramie</stpnm>
+                			<pdist>12363.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.924105151022</lat>
+						<lon>-87.753853797913</lon>
+
+							<typ>S</typ>
+                			<stpid>1303</stpid>
+                			<stpnm>Fullerton &amp; Leclaire</stpnm>
+                			<pdist>13044.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.924141072628</lat>
+						<lon>-87.751391530037</lon>
+
+							<typ>S</typ>
+                			<stpid>1304</stpid>
+                			<stpnm>Fullerton &amp; Lavergne</stpnm>
+                			<pdist>13708.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.924161029068</lat>
+						<lon>-87.748897075653</lon>
+
+							<typ>S</typ>
+                			<stpid>1305</stpid>
+                			<stpnm>Fullerton &amp; Lamon</stpnm>
+                			<pdist>14385.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.924216907064</lat>
+						<lon>-87.746504545212</lon>
+
+							<typ>S</typ>
+                			<stpid>1306</stpid>
+                			<stpnm>Fullerton &amp; Cicero</stpnm>
+                			<pdist>15029.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.924272785012</lat>
+						<lon>-87.743999361992</lon>
+
+							<typ>S</typ>
+                			<stpid>1307</stpid>
+                			<stpnm>Fullerton &amp; Kilpatrick</stpnm>
+                			<pdist>15734.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.924296732688</lat>
+						<lon>-87.741649746895</lon>
+
+							<typ>S</typ>
+                			<stpid>1308</stpid>
+                			<stpnm>Fullerton &amp; Kenton </stpnm>
+                			<pdist>16494.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.924324671633</lat>
+						<lon>-87.739149928093</lon>
+
+							<typ>S</typ>
+                			<stpid>1309</stpid>
+                			<stpnm>Fullerton &amp; Kilbourn</stpnm>
+                			<pdist>17045.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.924356601841</lat>
+						<lon>-87.736703753471</lon>
+
+							<typ>S</typ>
+                			<stpid>1310</stpid>
+                			<stpnm>Fullerton &amp; Kostner</stpnm>
+                			<pdist>17716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.924388532033</lat>
+						<lon>-87.734236121178</lon>
+
+							<typ>S</typ>
+                			<stpid>1311</stpid>
+                			<stpnm>Fullerton &amp; Kildare</stpnm>
+                			<pdist>18385.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.924404497123</lat>
+						<lon>-87.733013033867</lon>
+
+							<typ>S</typ>
+                			<stpid>1312</stpid>
+                			<stpnm>Fullerton &amp; Tripp</stpnm>
+                			<pdist>18711.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.924424453479</lat>
+						<lon>-87.73177921772</lon>
+
+							<typ>S</typ>
+                			<stpid>1313</stpid>
+                			<stpnm>Fullerton &amp; Keeler</stpnm>
+                			<pdist>19050.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.924456383637</lat>
+						<lon>-87.729349136353</lon>
+
+							<typ>S</typ>
+                			<stpid>1314</stpid>
+                			<stpnm>Fullerton &amp; Karlov</stpnm>
+                			<pdist>19713.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.92447234871</lat>
+						<lon>-87.726929783821</lon>
+
+							<typ>S</typ>
+                			<stpid>1315</stpid>
+                			<stpnm>Fullerton &amp; Pulaski</stpnm>
+                			<pdist>20385.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.924496296312</lat>
+						<lon>-87.724408507347</lon>
+
+							<typ>S</typ>
+                			<stpid>1316</stpid>
+                			<stpnm>Fullerton &amp; Springfield</stpnm>
+                			<pdist>21074.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.92452423517</lat>
+						<lon>-87.721994519234</lon>
+
+							<typ>S</typ>
+                			<stpid>1317</stpid>
+                			<stpnm>Fullerton &amp; Hamlin</stpnm>
+                			<pdist>21728.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.924556165278</lat>
+						<lon>-87.719537615776</lon>
+
+							<typ>S</typ>
+                			<stpid>1319</stpid>
+                			<stpnm>Fullerton &amp; Lawndale</stpnm>
+                			<pdist>22399.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.924588095369</lat>
+						<lon>-87.717118263245</lon>
+
+							<typ>S</typ>
+                			<stpid>1320</stpid>
+                			<stpnm>Fullerton &amp; Central Park</stpnm>
+                			<pdist>23061.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.924604060409</lat>
+						<lon>-87.714650630951</lon>
+
+							<typ>S</typ>
+                			<stpid>1321</stpid>
+                			<stpnm>Fullerton &amp; St. Louis</stpnm>
+                			<pdist>23946.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.924647964249</lat>
+						<lon>-87.712231278419</lon>
+
+							<typ>S</typ>
+                			<stpid>1322</stpid>
+                			<stpnm>Fullerton &amp; Kimball</stpnm>
+                			<pdist>24398.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.924667920529</lat>
+						<lon>-87.710879445076</lon>
+
+							<typ>S</typ>
+                			<stpid>1323</stpid>
+                			<stpnm>Fullerton &amp; Spaulding</stpnm>
+                			<pdist>24832.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.924679894295</lat>
+						<lon>-87.707666158676</lon>
+
+							<typ>S</typ>
+                			<stpid>1324</stpid>
+                			<stpnm>Fullerton &amp; Kedzie</stpnm>
+                			<pdist>25640.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.92471980683</lat>
+						<lon>-87.704764008522</lon>
+
+							<typ>S</typ>
+                			<stpid>1326</stpid>
+                			<stpnm>Fullerton &amp; Albany</stpnm>
+                			<pdist>26437.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.92475173684</lat>
+						<lon>-87.702462673187</lon>
+
+							<typ>S</typ>
+                			<stpid>1327</stpid>
+                			<stpnm>Fullerton &amp; Sacramento</stpnm>
+                			<pdist>27066.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.924787658082</lat>
+						<lon>-87.699978947639</lon>
+
+							<typ>S</typ>
+                			<stpid>14590</stpid>
+                			<stpnm>Fullerton &amp; Milwaukee</stpnm>
+                			<pdist>27609.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.924783666834</lat>
+						<lon>-87.697597146034</lon>
+
+							<typ>S</typ>
+                			<stpid>1329</stpid>
+                			<stpnm>Fullerton &amp; California</stpnm>
+                			<pdist>28407.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.924823579304</lat>
+						<lon>-87.695435285568</lon>
+
+							<typ>S</typ>
+                			<stpid>1330</stpid>
+                			<stpnm>Fullerton &amp; Washtenaw</stpnm>
+                			<pdist>29033.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.92482757055</lat>
+						<lon>-87.692903280258</lon>
+
+							<typ>S</typ>
+                			<stpid>1331</stpid>
+                			<stpnm>Fullerton &amp; Rockwell</stpnm>
+                			<pdist>29662.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.924863491749</lat>
+						<lon>-87.690162062645</lon>
+
+							<typ>S</typ>
+                			<stpid>1332</stpid>
+                			<stpnm>Fullerton &amp; Campbell</stpnm>
+                			<pdist>30460.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.924871474235</lat>
+						<lon>-87.68786072731</lon>
+
+							<typ>S</typ>
+                			<stpid>1333</stpid>
+                			<stpnm>Fullerton &amp; Western</stpnm>
+                			<pdist>31066.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.924927351609</lat>
+						<lon>-87.685312628746</lon>
+
+							<typ>S</typ>
+                			<stpid>1334</stpid>
+                			<stpnm>Fullerton &amp; Oakley</stpnm>
+                			<pdist>31739.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.92492336037</lat>
+						<lon>-87.681825757027</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.924991211406</lat>
+						<lon>-87.678263783455</lon>
+
+							<typ>S</typ>
+                			<stpid>1336</stpid>
+                			<stpnm>Fullerton &amp; Damen</stpnm>
+                			<pdist>33711.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.924995202641</lat>
+						<lon>-87.67702460289</lon>
+
+							<typ>S</typ>
+                			<stpid>1337</stpid>
+                			<stpnm>Fullerton &amp; Elston</stpnm>
+                			<pdist>34047.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.925083009751</lat>
+						<lon>-87.672802805901</lon>
+
+							<typ>S</typ>
+                			<stpid>1339</stpid>
+                			<stpnm>Fullerton &amp; Wood</stpnm>
+                			<pdist>35159.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.925126913261</lat>
+						<lon>-87.672223448753</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.925134895714</lat>
+						<lon>-87.66940176487</lon>
+
+							<typ>S</typ>
+                			<stpid>1340</stpid>
+                			<stpnm>Fullerton &amp; Clybourn</stpnm>
+                			<pdist>36043.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.925126913261</lat>
+						<lon>-87.667781710625</lon>
+
+							<typ>S</typ>
+                			<stpid>17254</stpid>
+                			<stpnm>Fullerton &amp; Ashland</stpnm>
+                			<pdist>36509.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.925146869391</lat>
+						<lon>-87.665952444077</lon>
+
+							<typ>S</typ>
+                			<stpid>1342</stpid>
+                			<stpnm>Fullerton &amp; Greenview</stpnm>
+                			<pdist>37010.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.925182790411</lat>
+						<lon>-87.663516998291</lon>
+
+							<typ>S</typ>
+                			<stpid>1343</stpid>
+                			<stpnm>Fullerton &amp; Southport</stpnm>
+                			<pdist>37679.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.925226693852</lat>
+						<lon>-87.660684585571</lon>
+
+							<typ>S</typ>
+                			<stpid>1344</stpid>
+                			<stpnm>Fullerton &amp; Lakewood</stpnm>
+                			<pdist>38477.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.925266606045</lat>
+						<lon>-87.658635377884</lon>
+
+							<typ>S</typ>
+                			<stpid>1345</stpid>
+                			<stpnm>Fullerton &amp; Racine</stpnm>
+                			<pdist>38995.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.925306518213</lat>
+						<lon>-87.656076550484</lon>
+
+							<typ>S</typ>
+                			<stpid>1346</stpid>
+                			<stpnm>Fullerton &amp; Seminary</stpnm>
+                			<pdist>39745.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.925342439143</lat>
+						<lon>-87.653136849403</lon>
+
+							<typ>S</typ>
+                			<stpid>6597</stpid>
+                			<stpnm>Fullerton &amp; Sheffield (Red/Brown/Purple Line)</stpnm>
+                			<pdist>40505.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.92537037763</lat>
+						<lon>-87.651972770691</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.925406298524</lat>
+						<lon>-87.649859189987</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.925414280942</lat>
+						<lon>-87.64895260334</lon>
+
+							<typ>S</typ>
+                			<stpid>1348</stpid>
+                			<stpnm>Fullerton &amp; Halsted/Lincoln</stpnm>
+                			<pdist>41644.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.925414280942</lat>
+						<lon>-87.648791670799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.923805803517</lat>
+						<lon>-87.648754119873</lon>
+
+							<typ>S</typ>
+                			<stpid>1349</stpid>
+                			<stpnm>Halsted &amp; Belden</stpnm>
+                			<pdist>42277.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.921786168983</lat>
+						<lon>-87.648668289185</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.921790160419</lat>
+						<lon>-87.64851808548</lon>
+
+							<typ>S</typ>
+                			<stpid>1350</stpid>
+                			<stpnm>Webster &amp; Halsted</stpnm>
+                			<pdist>43083.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.921830074761</lat>
+						<lon>-87.646216750145</lon>
+
+							<typ>S</typ>
+                			<stpid>1351</stpid>
+                			<stpnm>Webster &amp; Orchard</stpnm>
+                			<pdist>43597.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.921869989079</lat>
+						<lon>-87.643733024597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.922177328489</lat>
+						<lon>-87.644151449203</lon>
+
+							<typ>S</typ>
+                			<stpid>1352</stpid>
+                			<stpnm>Lincoln &amp; Webster</stpnm>
+                			<pdist>44402.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.923518428591</lat>
+						<lon>-87.64601290226</lon>
+
+							<typ>S</typ>
+                			<stpid>1353</stpid>
+                			<stpnm>Lincoln &amp; Belden/Orchard</stpnm>
+                			<pdist>45098.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.925474149046</lat>
+						<lon>-87.648716568947</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.925474149046</lat>
+						<lon>-87.649344205856</lon>
+
+							<typ>S</typ>
+                			<stpid>1224</stpid>
+                			<stpnm>Fullerton &amp; Halsted</stpnm>
+                			<pdist>46391.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

@@ -1,0 +1,1452 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4010</pid>
+				<ln>32112.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.969757154306</lat>
+						<lon>-87.761718034744</lon>
+
+							<typ>S</typ>
+                			<stpid>14108</stpid>
+                			<stpnm>Jefferson Park Transit Center</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.969980506197</lat>
+						<lon>-87.761937975883</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.969769119605</lat>
+						<lon>-87.762361764908</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.970630615279</lat>
+						<lon>-87.763182520866</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.971073323801</lat>
+						<lon>-87.763579487801</lon>
+
+							<typ>S</typ>
+                			<stpid>4746</stpid>
+                			<stpnm>Jefferson Park Transit Center</stpnm>
+                			<pdist>538.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.972868056559</lat>
+						<lon>-87.765129804611</lon>
+
+							<typ>S</typ>
+                			<stpid>4747</stpid>
+                			<stpnm>Milwaukee &amp; Carmen/NW Highway</stpnm>
+                			<pdist>1329.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.973079432867</lat>
+						<lon>-87.765328288078</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.974232019635</lat>
+						<lon>-87.766422629356</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.974638809985</lat>
+						<lon>-87.766760587692</lon>
+
+							<typ>S</typ>
+                			<stpid>4748</stpid>
+                			<stpnm>Milwaukee &amp; Foster </stpnm>
+                			<pdist>2048.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.975093454948</lat>
+						<lon>-87.765805721283</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.975093454948</lat>
+						<lon>-87.765408754349</lon>
+
+							<typ>S</typ>
+                			<stpid>4749</stpid>
+                			<stpnm>Foster &amp; Lovejoy</stpnm>
+                			<pdist>2366.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.975137324028</lat>
+						<lon>-87.762876749039</lon>
+
+							<typ>S</typ>
+                			<stpid>4750</stpid>
+                			<stpnm>Foster &amp; Long</stpnm>
+                			<pdist>3184.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.975157264508</lat>
+						<lon>-87.760409116745</lon>
+
+							<typ>S</typ>
+                			<stpid>4751</stpid>
+                			<stpnm>Foster &amp; Lockwood</stpnm>
+                			<pdist>3861.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.975189169264</lat>
+						<lon>-87.757861018181</lon>
+
+							<typ>S</typ>
+                			<stpid>4752</stpid>
+                			<stpnm>Foster &amp; Laramie</stpnm>
+                			<pdist>4542.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.975205121636</lat>
+						<lon>-87.755377292633</lon>
+
+							<typ>S</typ>
+                			<stpid>4753</stpid>
+                			<stpnm>Foster &amp; Leclaire</stpnm>
+                			<pdist>5219.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.975260954906</lat>
+						<lon>-87.751359343529</lon>
+
+							<typ>S</typ>
+                			<stpid>15187</stpid>
+                			<stpnm>Foster &amp; Elston</stpnm>
+                			<pdist>6381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.975288871523</lat>
+						<lon>-87.74939596653</lon>
+
+							<typ>S</typ>
+                			<stpid>4755</stpid>
+                			<stpnm>Foster &amp; Lacrosse</stpnm>
+                			<pdist>6842.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.975300835784</lat>
+						<lon>-87.748221158981</lon>
+
+							<typ>S</typ>
+                			<stpid>4756</stpid>
+                			<stpnm>Foster &amp; Cicero</stpnm>
+                			<pdist>7185.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.975324764298</lat>
+						<lon>-87.746719121933</lon>
+
+							<typ>S</typ>
+                			<stpid>4757</stpid>
+                			<stpnm>Foster &amp; Keating</stpnm>
+                			<pdist>7861.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.975324764298</lat>
+						<lon>-87.74612903595</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.975348692804</lat>
+						<lon>-87.744390964508</lon>
+
+							<typ>S</typ>
+                			<stpid>4758</stpid>
+                			<stpnm>4635 W Foster</stpnm>
+                			<pdist>8267.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.975360657053</lat>
+						<lon>-87.74253487587</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.975384585545</lat>
+						<lon>-87.740786075592</lon>
+
+							<typ>S</typ>
+                			<stpid>4759</stpid>
+                			<stpnm>Foster &amp; Kilbourn</stpnm>
+                			<pdist>9188.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.975408514028</lat>
+						<lon>-87.738243341446</lon>
+
+							<typ>S</typ>
+                			<stpid>4760</stpid>
+                			<stpnm>Foster &amp; Kostner</stpnm>
+                			<pdist>9897.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.975424466345</lat>
+						<lon>-87.735759615898</lon>
+
+							<typ>S</typ>
+                			<stpid>4761</stpid>
+                			<stpnm>Foster &amp; Kildare</stpnm>
+                			<pdist>10560.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.975440418658</lat>
+						<lon>-87.734472155571</lon>
+
+							<typ>S</typ>
+                			<stpid>4762</stpid>
+                			<stpnm>Foster &amp; Tripp</stpnm>
+                			<pdist>10907.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.97545238289</lat>
+						<lon>-87.733238339424</lon>
+
+							<typ>S</typ>
+                			<stpid>4763</stpid>
+                			<stpnm>Foster &amp; Keeler</stpnm>
+                			<pdist>11239.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.975496251722</lat>
+						<lon>-87.729097008705</lon>
+
+							<typ>S</typ>
+                			<stpid>15120</stpid>
+                			<stpnm>Foster &amp; Pulaski (Jewel)</stpnm>
+                			<pdist>12308.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.975518186127</lat>
+						<lon>-87.728439867496</lon>
+
+							<typ>S</typ>
+                			<stpid>4764</stpid>
+                			<stpnm>Foster &amp; Pulaski</stpnm>
+                			<pdist>12552.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.975518186127</lat>
+						<lon>-87.726755440235</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.97554211456</lat>
+						<lon>-87.724749147892</lon>
+
+							<typ>S</typ>
+                			<stpid>4765</stpid>
+                			<stpnm>Foster &amp; Avers</stpnm>
+                			<pdist>13581.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.975587977364</lat>
+						<lon>-87.721219360828</lon>
+
+							<typ>S</typ>
+                			<stpid>4766</stpid>
+                			<stpnm>3700 W Foster</stpnm>
+                			<pdist>14515.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.97560592367</lat>
+						<lon>-87.719819247723</lon>
+
+							<typ>S</typ>
+                			<stpid>4767</stpid>
+                			<stpnm>Foster &amp; Monticello</stpnm>
+                			<pdist>14918.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.975627858037</lat>
+						<lon>-87.71794706583</lon>
+
+							<typ>S</typ>
+                			<stpid>15774</stpid>
+                			<stpnm>Foster &amp; Central Park</stpnm>
+                			<pdist>15433.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.975649792396</lat>
+						<lon>-87.71614998579</lon>
+
+							<typ>S</typ>
+                			<stpid>4770</stpid>
+                			<stpnm>Foster &amp; St. Louis</stpnm>
+                			<pdist>15909.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.975646666667</lat>
+						<lon>-87.713155</lon>
+
+							<typ>S</typ>
+                			<stpid>17496</stpid>
+                			<stpnm>Foster &amp; Kimball</stpnm>
+                			<pdist>16569.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.975699643185</lat>
+						<lon>-87.711228132248</lon>
+
+							<typ>S</typ>
+                			<stpid>4772</stpid>
+                			<stpnm>Foster &amp; Spaulding</stpnm>
+                			<pdist>17241.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.975727559609</lat>
+						<lon>-87.708562016487</lon>
+
+							<typ>S</typ>
+                			<stpid>4773</stpid>
+                			<stpnm>Foster &amp; Kedzie</stpnm>
+                			<pdist>17913.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.97575946408</lat>
+						<lon>-87.705949544907</lon>
+
+							<typ>S</typ>
+                			<stpid>4774</stpid>
+                			<stpnm>Foster &amp; Albany</stpnm>
+                			<pdist>18738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.975787380478</lat>
+						<lon>-87.702816724777</lon>
+
+							<typ>S</typ>
+                			<stpid>4775</stpid>
+                			<stpnm>Foster &amp; Virginia</stpnm>
+                			<pdist>19593.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.975787380478</lat>
+						<lon>-87.701255679131</lon>
+
+							<typ>S</typ>
+                			<stpid>4776</stpid>
+                			<stpnm>Foster &amp; Francisco</stpnm>
+                			<pdist>19899.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.975795356589</lat>
+						<lon>-87.698664665222</lon>
+
+							<typ>S</typ>
+                			<stpid>15381</stpid>
+                			<stpnm>Foster &amp; California</stpnm>
+                			<pdist>20805.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.975815296864</lat>
+						<lon>-87.696534991264</lon>
+
+							<typ>S</typ>
+                			<stpid>4778</stpid>
+                			<stpnm>Foster &amp; Washtenaw</stpnm>
+                			<pdist>21219.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.975831249079</lat>
+						<lon>-87.694244384766</lon>
+
+							<typ>S</typ>
+                			<stpid>4779</stpid>
+                			<stpnm>Foster &amp; Rockwell</stpnm>
+                			<pdist>21879.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.975855177394</lat>
+						<lon>-87.691926956177</lon>
+
+							<typ>S</typ>
+                			<stpid>17584</stpid>
+                			<stpnm>Foster &amp; Lincoln</stpnm>
+                			<pdist>22504.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.975855177394</lat>
+						<lon>-87.68933057785</lon>
+
+							<typ>S</typ>
+                			<stpid>4781</stpid>
+                			<stpnm>Foster &amp; Western</stpnm>
+                			<pdist>23202.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.975899045949</lat>
+						<lon>-87.686873674393</lon>
+
+							<typ>S</typ>
+                			<stpid>4782</stpid>
+                			<stpnm>Foster &amp; Oakley</stpnm>
+                			<pdist>23864.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.975926962286</lat>
+						<lon>-87.684395313263</lon>
+
+							<typ>S</typ>
+                			<stpid>4783</stpid>
+                			<stpnm>Foster &amp; Leavitt</stpnm>
+                			<pdist>24536.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.975966842746</lat>
+						<lon>-87.681949138641</lon>
+
+							<typ>S</typ>
+                			<stpid>4784</stpid>
+                			<stpnm>Foster &amp; Hoyne</stpnm>
+                			<pdist>25229.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.975998747097</lat>
+						<lon>-87.679594159126</lon>
+
+							<typ>S</typ>
+                			<stpid>4785</stpid>
+                			<stpnm>Foster &amp; Damen</stpnm>
+                			<pdist>25860.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.976018687308</lat>
+						<lon>-87.677872180939</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.976030651431</lat>
+						<lon>-87.676520347595</lon>
+
+							<typ>S</typ>
+                			<stpid>4787</stpid>
+                			<stpnm>Foster &amp; Wolcott</stpnm>
+                			<pdist>26683.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.976062555749</lat>
+						<lon>-87.674980759621</lon>
+
+							<typ>S</typ>
+                			<stpid>4788</stpid>
+                			<stpnm>Foster &amp; Ravenswood</stpnm>
+                			<pdist>27242.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.976098448089</lat>
+						<lon>-87.672164440155</lon>
+
+							<typ>S</typ>
+                			<stpid>4789</stpid>
+                			<stpnm>Foster &amp; Paulina</stpnm>
+                			<pdist>27868.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.976146304509</lat>
+						<lon>-87.669900655746</lon>
+
+							<typ>S</typ>
+                			<stpid>4790</stpid>
+                			<stpnm>Foster &amp; Ashland</stpnm>
+                			<pdist>28531.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.976158268609</lat>
+						<lon>-87.668559551239</lon>
+
+							<typ>S</typ>
+                			<stpid>4791</stpid>
+                			<stpnm>Foster &amp; Clark</stpnm>
+                			<pdist>28863.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.976218089073</lat>
+						<lon>-87.664874196053</lon>
+
+							<typ>S</typ>
+                			<stpid>4792</stpid>
+                			<stpnm>Foster &amp; Glenwood</stpnm>
+                			<pdist>29877.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.976253981324</lat>
+						<lon>-87.662470936775</lon>
+
+							<typ>S</typ>
+                			<stpid>4793</stpid>
+                			<stpnm>Foster &amp; Lakewood</stpnm>
+                			<pdist>30578.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.976297849604</lat>
+						<lon>-87.659831643105</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.976604926717</lat>
+						<lon>-87.659837007523</lon>
+
+							<typ>S</typ>
+                			<stpid>4794</stpid>
+                			<stpnm>Broadway &amp; Foster</stpnm>
+                			<pdist>31330.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.978120350523</lat>
+						<lon>-87.659874558449</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.978132314252</lat>
+						<lon>-87.659429311752</lon>
+
+							<typ>S</typ>
+                			<stpid>4796</stpid>
+                			<stpnm>Berwyn &amp; Broadway (Red Line)</stpnm>
+                			<pdist>32112.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4011</pid>
+				<ln>34623.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.978132314252</lat>
+						<lon>-87.659429311752</lon>
+
+							<typ>S</typ>
+                			<stpid>4796</stpid>
+                			<stpnm>Berwyn &amp; Broadway (Red Line)</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.978156241703</lat>
+						<lon>-87.65788435936</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.978168205425</lat>
+						<lon>-87.656334042549</lon>
+
+							<typ>S</typ>
+                			<stpid>14669</stpid>
+                			<stpnm>Berwyn &amp; Kenmore</stpnm>
+                			<pdist>803.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.978168205425</lat>
+						<lon>-87.65507876873</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.977992737277</lat>
+						<lon>-87.655073404312</lon>
+
+							<typ>S</typ>
+                			<stpid>1041</stpid>
+                			<stpnm>Sheridan &amp; Berwyn </stpnm>
+                			<pdist>1117.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.976425466246</lat>
+						<lon>-87.655046582222</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.976417490213</lat>
+						<lon>-87.655400633812</lon>
+
+							<typ>S</typ>
+                			<stpid>4901</stpid>
+                			<stpnm>Foster &amp; Sheridan</stpnm>
+                			<pdist>1781.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.976385586073</lat>
+						<lon>-87.657798528671</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.976365645977</lat>
+						<lon>-87.659617066383</lon>
+
+							<typ>S</typ>
+                			<stpid>4797</stpid>
+                			<stpnm>Foster &amp; Broadway</stpnm>
+                			<pdist>2919.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.976317789721</lat>
+						<lon>-87.662191987038</lon>
+
+							<typ>S</typ>
+                			<stpid>4798</stpid>
+                			<stpnm>Foster &amp; Lakewood</stpnm>
+                			<pdist>3600.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.976305825652</lat>
+						<lon>-87.663549184799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.976269933429</lat>
+						<lon>-87.66507267952</lon>
+
+							<typ>S</typ>
+                			<stpid>14440</stpid>
+                			<stpnm>Foster &amp; Glenwood</stpnm>
+                			<pdist>4383.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.976230053159</lat>
+						<lon>-87.668119668961</lon>
+
+							<typ>S</typ>
+                			<stpid>4800</stpid>
+                			<stpnm>Foster &amp; Clark</stpnm>
+                			<pdist>5221.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.97622606513</lat>
+						<lon>-87.66940176487</lon>
+
+							<typ>S</typ>
+                			<stpid>4801</stpid>
+                			<stpnm>Foster &amp; Ashland</stpnm>
+                			<pdist>5531.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.976166244674</lat>
+						<lon>-87.671928405762</lon>
+
+							<typ>S</typ>
+                			<stpid>4802</stpid>
+                			<stpnm>Foster &amp; Paulina</stpnm>
+                			<pdist>6218.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.976130352373</lat>
+						<lon>-87.674272656441</lon>
+
+							<typ>S</typ>
+                			<stpid>4803</stpid>
+                			<stpnm>Foster &amp; Ravenswood</stpnm>
+                			<pdist>6860.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.976098448089</lat>
+						<lon>-87.676268219948</lon>
+
+							<typ>S</typ>
+                			<stpid>4804</stpid>
+                			<stpnm>Foster &amp; Wolcott</stpnm>
+                			<pdist>7399.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.976054579671</lat>
+						<lon>-87.679846286774</lon>
+
+							<typ>S</typ>
+                			<stpid>17582</stpid>
+                			<stpnm>Foster &amp; Damen</stpnm>
+                			<pdist>8379.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.976030651431</lat>
+						<lon>-87.681745290756</lon>
+
+							<typ>S</typ>
+                			<stpid>4807</stpid>
+                			<stpnm>Foster &amp; Hoyne</stpnm>
+                			<pdist>8886.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.975994759054</lat>
+						<lon>-87.684062719345</lon>
+
+							<typ>S</typ>
+                			<stpid>4808</stpid>
+                			<stpnm>Foster &amp; Leavitt</stpnm>
+                			<pdist>9544.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.975954878611</lat>
+						<lon>-87.686594724655</lon>
+
+							<typ>S</typ>
+                			<stpid>4809</stpid>
+                			<stpnm>Foster &amp; Oakley</stpnm>
+                			<pdist>10221.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.975926962286</lat>
+						<lon>-87.689636349678</lon>
+
+							<typ>S</typ>
+                			<stpid>17583</stpid>
+                			<stpnm>Foster &amp; Western</stpnm>
+                			<pdist>11045.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.975907022046</lat>
+						<lon>-87.692656517029</lon>
+
+							<typ>S</typ>
+                			<stpid>4811</stpid>
+                			<stpnm>Foster &amp; Lincoln</stpnm>
+                			<pdist>11925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.9758950579</lat>
+						<lon>-87.693954706192</lon>
+
+							<typ>S</typ>
+                			<stpid>4812</stpid>
+                			<stpnm>Foster &amp; Rockwell</stpnm>
+                			<pdist>12245.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.975871129599</lat>
+						<lon>-87.696352601051</lon>
+
+							<typ>S</typ>
+                			<stpid>4813</stpid>
+                			<stpnm>Foster &amp; Washtenaw</stpnm>
+                			<pdist>12910.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.975855177394</lat>
+						<lon>-87.698729038239</lon>
+
+							<typ>S</typ>
+                			<stpid>4814</stpid>
+                			<stpnm>Foster &amp; California</stpnm>
+                			<pdist>13557.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.975843213238</lat>
+						<lon>-87.701480984688</lon>
+
+							<typ>S</typ>
+                			<stpid>4815</stpid>
+                			<stpnm>Foster &amp; Francisco</stpnm>
+                			<pdist>14240.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.975843213238</lat>
+						<lon>-87.702956199646</lon>
+
+							<typ>S</typ>
+                			<stpid>4816</stpid>
+                			<stpnm>Foster &amp; Virginia</stpnm>
+                			<pdist>14636.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.975807320755</lat>
+						<lon>-87.706587910652</lon>
+
+							<typ>S</typ>
+                			<stpid>15122</stpid>
+                			<stpnm>Foster &amp; Troy</stpnm>
+                			<pdist>15808.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.975783392422</lat>
+						<lon>-87.708535194397</lon>
+
+							<typ>S</typ>
+                			<stpid>4818</stpid>
+                			<stpnm>Foster &amp; Kedzie</stpnm>
+                			<pdist>16193.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.975771428252</lat>
+						<lon>-87.710981369019</lon>
+
+							<typ>S</typ>
+                			<stpid>4819</stpid>
+                			<stpnm>Foster &amp; Spaulding</stpnm>
+                			<pdist>16856.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.975727559609</lat>
+						<lon>-87.713293433189</lon>
+
+							<typ>S</typ>
+                			<stpid>4820</stpid>
+                			<stpnm>Foster &amp; Kimball</stpnm>
+                			<pdist>17485.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.975711607368</lat>
+						<lon>-87.715820074081</lon>
+
+							<typ>S</typ>
+                			<stpid>4821</stpid>
+                			<stpnm>Foster &amp; St. Louis</stpnm>
+                			<pdist>18147.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.975679702874</lat>
+						<lon>-87.717332839966</lon>
+
+							<typ>S</typ>
+                			<stpid>4822</stpid>
+                			<stpnm>Foster &amp; Drake</stpnm>
+                			<pdist>18552.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.975683690937</lat>
+						<lon>-87.718711495399</lon>
+
+							<typ>S</typ>
+                			<stpid>14807</stpid>
+                			<stpnm>Foster &amp; Central Park</stpnm>
+                			<pdist>19023.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.975659762557</lat>
+						<lon>-87.719666361809</lon>
+
+							<typ>S</typ>
+                			<stpid>4824</stpid>
+                			<stpnm>Foster &amp; Monticello</stpnm>
+                			<pdist>19266.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.975639822234</lat>
+						<lon>-87.721291780472</lon>
+
+							<typ>S</typ>
+                			<stpid>4825</stpid>
+                			<stpnm>3700 W Foster</stpnm>
+                			<pdist>19614.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.975603929636</lat>
+						<lon>-87.724708914757</lon>
+
+							<typ>S</typ>
+                			<stpid>4826</stpid>
+                			<stpnm>Foster &amp; Avers</stpnm>
+                			<pdist>20609.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.975576013158</lat>
+						<lon>-87.727991938591</lon>
+
+							<typ>S</typ>
+                			<stpid>4827</stpid>
+                			<stpnm>Foster &amp; Pulaski</stpnm>
+                			<pdist>21538.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.975560060879</lat>
+						<lon>-87.729638814926</lon>
+
+							<typ>S</typ>
+                			<stpid>15382</stpid>
+                			<stpnm>Foster &amp; Pulaski (Jewel)</stpnm>
+                			<pdist>22043.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.975516192091</lat>
+						<lon>-87.732975482941</lon>
+
+							<typ>S</typ>
+                			<stpid>4828</stpid>
+                			<stpnm>Foster &amp; Keeler</stpnm>
+                			<pdist>22963.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.975496251722</lat>
+						<lon>-87.734740376472</lon>
+
+							<typ>S</typ>
+                			<stpid>15478</stpid>
+                			<stpnm>Foster &amp; Tripp</stpnm>
+                			<pdist>23406.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.975472323272</lat>
+						<lon>-87.738044857979</lon>
+
+							<typ>S</typ>
+                			<stpid>14806</stpid>
+                			<stpnm>Foster &amp; Kostner</stpnm>
+                			<pdist>24387.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.975440418658</lat>
+						<lon>-87.740609049797</lon>
+
+							<typ>S</typ>
+                			<stpid>4832</stpid>
+                			<stpnm>Foster &amp; Kilbourn</stpnm>
+                			<pdist>24923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.975412502108</lat>
+						<lon>-87.744192481041</lon>
+
+							<typ>S</typ>
+                			<stpid>4833</stpid>
+                			<stpnm>4635 W Foster</stpnm>
+                			<pdist>25916.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.9753726213</lat>
+						<lon>-87.747673988342</lon>
+
+							<typ>S</typ>
+                			<stpid>4834</stpid>
+                			<stpnm>Foster &amp; Cicero</stpnm>
+                			<pdist>26886.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.975348692804</lat>
+						<lon>-87.749138474464</lon>
+
+							<typ>S</typ>
+                			<stpid>4835</stpid>
+                			<stpnm>Foster &amp; Lacrosse</stpnm>
+                			<pdist>27264.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.975320776213</lat>
+						<lon>-87.751665115356</lon>
+
+							<typ>S</typ>
+                			<stpid>4836</stpid>
+                			<stpnm>Foster &amp; Elston</stpnm>
+                			<pdist>27936.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.975268931084</lat>
+						<lon>-87.755125164986</lon>
+
+							<typ>S</typ>
+                			<stpid>4837</stpid>
+                			<stpnm>Foster &amp; Leclaire</stpnm>
+                			<pdist>28881.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.975256966817</lat>
+						<lon>-87.757598161697</lon>
+
+							<typ>S</typ>
+                			<stpid>4838</stpid>
+                			<stpnm>Foster &amp; Laramie</stpnm>
+                			<pdist>29558.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.975225062095</lat>
+						<lon>-87.760108709335</lon>
+
+							<typ>S</typ>
+                			<stpid>4839</stpid>
+                			<stpnm>Foster &amp; Lockwood</stpnm>
+                			<pdist>30235.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.975197145451</lat>
+						<lon>-87.762597799301</lon>
+
+							<typ>S</typ>
+                			<stpid>4840</stpid>
+                			<stpnm>Foster &amp; Long</stpnm>
+                			<pdist>30914.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.975165240699</lat>
+						<lon>-87.765811085701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.974658750621</lat>
+						<lon>-87.766873240471</lon>
+
+							<typ>S</typ>
+                			<stpid>4841</stpid>
+                			<stpnm>Foster &amp; Milwaukee</stpnm>
+                			<pdist>32055.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.973988741811</lat>
+						<lon>-87.766299247742</lon>
+
+							<typ>S</typ>
+                			<stpid>9953</stpid>
+                			<stpnm>Northwest Hwy &amp; Milwaukee</stpnm>
+                			<pdist>32378.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.973127291556</lat>
+						<lon>-87.765467762947</lon>
+
+							<typ>S</typ>
+                			<stpid>4843</stpid>
+                			<stpnm>Milwaukee &amp; Carmen/NW Highway</stpnm>
+                			<pdist>32800.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.973015621225</lat>
+						<lon>-87.765365839005</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.972062427221</lat>
+						<lon>-87.76453435421</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.971631690523</lat>
+						<lon>-87.764169573784</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.970997545083</lat>
+						<lon>-87.763611674309</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.970662522302</lat>
+						<lon>-87.763300538063</lon>
+
+							<typ>S</typ>
+                			<stpid>4844</stpid>
+                			<stpnm>Milwaukee &amp; Gale </stpnm>
+                			<pdist>33843.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.969521836288</lat>
+						<lon>-87.762227654457</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.969757154306</lat>
+						<lon>-87.761718034744</lon>
+
+							<typ>S</typ>
+                			<stpid>14108</stpid>
+                			<stpnm>Jefferson Park Transit Center</stpnm>
+                			<pdist>34623.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

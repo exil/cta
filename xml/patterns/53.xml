@@ -1,0 +1,3586 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>1228</pid>
+				<ln>56036.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.83674392901</lat>
+						<lon>-87.725690603256</lon>
+
+							<typ>S</typ>
+                			<stpid>9063</stpid>
+                			<stpnm>31st Street &amp; Komensky Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.836747925761</lat>
+						<lon>-87.725518941879</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.836859834686</lat>
+						<lon>-87.725524306297</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.836863831429</lat>
+						<lon>-87.724317312241</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.837071661757</lat>
+						<lon>-87.724322676659</lon>
+
+							<typ>S</typ>
+                			<stpid>9064</stpid>
+                			<stpnm>Pulaski &amp; 31st Street</stpnm>
+                			<pdist>500.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.83861438117</lat>
+						<lon>-87.724349498749</lon>
+
+							<typ>S</typ>
+                			<stpid>9065</stpid>
+                			<stpnm>Pulaski &amp; 30th Street</stpnm>
+                			<pdist>1039.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.84041683783</lat>
+						<lon>-87.724381685257</lon>
+
+							<typ>S</typ>
+                			<stpid>9066</stpid>
+                			<stpnm>Pulaski &amp; 28th Street</stpnm>
+                			<pdist>1723.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.842291179044</lat>
+						<lon>-87.724435329437</lon>
+
+							<typ>S</typ>
+                			<stpid>9067</stpid>
+                			<stpnm>Pulaski &amp; 27th Street</stpnm>
+                			<pdist>2395.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.84321434185</lat>
+						<lon>-87.724478244781</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.844417230976</lat>
+						<lon>-87.724526524544</lon>
+
+							<typ>S</typ>
+                			<stpid>15054</stpid>
+                			<stpnm>Pulaski &amp; 26th Street</stpnm>
+                			<pdist>3177.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.84631143578</lat>
+						<lon>-87.724574804306</lon>
+
+							<typ>S</typ>
+                			<stpid>15055</stpid>
+                			<stpnm>Pulaski &amp; 25th Street</stpnm>
+                			<pdist>3814.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.848161628101</lat>
+						<lon>-87.724601626396</lon>
+
+							<typ>S</typ>
+                			<stpid>15421</stpid>
+                			<stpnm>Pulaski &amp; 24th Street</stpnm>
+                			<pdist>4480.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.849488298941</lat>
+						<lon>-87.724639177322</lon>
+
+							<typ>S</typ>
+                			<stpid>15056</stpid>
+                			<stpnm>2300 S Pulaski</stpnm>
+                			<pdist>5192.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.850962789369</lat>
+						<lon>-87.724698185921</lon>
+
+							<typ>S</typ>
+                			<stpid>9072</stpid>
+                			<stpnm>Pulaski &amp; Ogden</stpnm>
+                			<pdist>5429.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.851893818664</lat>
+						<lon>-87.724730372429</lon>
+
+							<typ>S</typ>
+                			<stpid>9073</stpid>
+                			<stpnm>Pulaski &amp; Cermak</stpnm>
+                			<pdist>5815.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.853675922781</lat>
+						<lon>-87.724751830101</lon>
+
+							<typ>S</typ>
+                			<stpid>9074</stpid>
+                			<stpnm>Pulaski Pink Line Station</stpnm>
+                			<pdist>6510.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.855158307883</lat>
+						<lon>-87.724810838699</lon>
+
+							<typ>S</typ>
+                			<stpid>17212</stpid>
+                			<stpnm>Pulaski &amp; 19th Street</stpnm>
+                			<pdist>7023.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.856936325556</lat>
+						<lon>-87.724853754044</lon>
+
+							<typ>S</typ>
+                			<stpid>9076</stpid>
+                			<stpnm>Pulaski &amp; 18th Street</stpnm>
+                			<pdist>7640.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.858993969697</lat>
+						<lon>-87.724928855896</lon>
+
+							<typ>S</typ>
+                			<stpid>15022</stpid>
+                			<stpnm>Pulaski &amp; 16th Street</stpnm>
+                			<pdist>8462.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.860867766665</lat>
+						<lon>-87.72497177124</lon>
+
+							<typ>S</typ>
+                			<stpid>15556</stpid>
+                			<stpnm>Pulaski &amp; 15th Street</stpnm>
+                			<pdist>9081.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.862921289193</lat>
+						<lon>-87.725052237511</lon>
+
+							<typ>S</typ>
+                			<stpid>17213</stpid>
+                			<stpnm>Pulaski &amp; 14th Street</stpnm>
+                			<pdist>9801.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.864227678734</lat>
+						<lon>-87.725079059601</lon>
+
+							<typ>S</typ>
+                			<stpid>9080</stpid>
+                			<stpnm>Pulaski &amp; 13th Street</stpnm>
+                			<pdist>10270.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.866261118824</lat>
+						<lon>-87.725154161453</lon>
+
+							<typ>S</typ>
+                			<stpid>9081</stpid>
+                			<stpnm>Pulaski &amp; Roosevelt</stpnm>
+                			<pdist>10945.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.867036126118</lat>
+						<lon>-87.725191712379</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.867515507371</lat>
+						<lon>-87.725207805634</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.868178645512</lat>
+						<lon>-87.725207805634</lon>
+
+							<typ>S</typ>
+                			<stpid>9082</stpid>
+                			<stpnm>Pulaski &amp; Fillmore</stpnm>
+                			<pdist>11618.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.869952306492</lat>
+						<lon>-87.725288271904</lon>
+
+							<typ>S</typ>
+                			<stpid>9084</stpid>
+                			<stpnm>Pulaski &amp; Arthington </stpnm>
+                			<pdist>12274.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.870954962436</lat>
+						<lon>-87.725304365158</lon>
+
+							<typ>S</typ>
+                			<stpid>17317</stpid>
+                			<stpnm>Pulaski &amp; Polk</stpnm>
+                			<pdist>12739.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.873375652601</lat>
+						<lon>-87.725390195847</lon>
+
+							<typ>S</typ>
+                			<stpid>9087</stpid>
+                			<stpnm>Pulaski &amp; Harrison (Blue Line)</stpnm>
+                			<pdist>13570.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.875189112889</lat>
+						<lon>-87.725433111191</lon>
+
+							<typ>S</typ>
+                			<stpid>9089</stpid>
+                			<stpnm>Pulaski &amp; Van Buren</stpnm>
+                			<pdist>14238.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.876163726676</lat>
+						<lon>-87.725443840027</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.876962579352</lat>
+						<lon>-87.725492119789</lon>
+
+							<typ>S</typ>
+                			<stpid>14630</stpid>
+                			<stpnm>Pulaski &amp; Jackson</stpnm>
+                			<pdist>14907.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.878747978984</lat>
+						<lon>-87.725561857224</lon>
+
+							<typ>S</typ>
+                			<stpid>9091</stpid>
+                			<stpnm>Pulaski &amp; Wilcox</stpnm>
+                			<pdist>15549.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.88060122696</lat>
+						<lon>-87.72562623024</lon>
+
+							<typ>S</typ>
+                			<stpid>9092</stpid>
+                			<stpnm>Pulaski &amp; Madison</stpnm>
+                			<pdist>16187.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.881799419025</lat>
+						<lon>-87.725647687912</lon>
+
+							<typ>S</typ>
+                			<stpid>14632</stpid>
+                			<stpnm>Pulaski &amp; Washington</stpnm>
+                			<pdist>16808.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.883916170098</lat>
+						<lon>-87.725712060928</lon>
+
+							<typ>S</typ>
+                			<stpid>15280</stpid>
+                			<stpnm>Pulaski &amp; Maypole</stpnm>
+                			<pdist>17395.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.885345935859</lat>
+						<lon>-87.725749611855</lon>
+
+							<typ>S</typ>
+                			<stpid>9095</stpid>
+                			<stpnm>Pulaski &amp; Lake (Green Line)</stpnm>
+                			<pdist>17918.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.886787650498</lat>
+						<lon>-87.725787162781</lon>
+
+							<typ>S</typ>
+                			<stpid>15447</stpid>
+                			<stpnm>Pulaski &amp; Carroll</stpnm>
+                			<pdist>18511.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.88857277562</lat>
+						<lon>-87.725819349289</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.890317916837</lat>
+						<lon>-87.725910544395</lon>
+
+							<typ>S</typ>
+                			<stpid>17214</stpid>
+                			<stpnm>Pulaski &amp; Ferdinand</stpnm>
+                			<pdist>19710.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.891587806563</lat>
+						<lon>-87.725942730904</lon>
+
+							<typ>S</typ>
+                			<stpid>9098</stpid>
+                			<stpnm>Pulaski &amp; Ohio</stpnm>
+                			<pdist>20186.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.892801765591</lat>
+						<lon>-87.725958824158</lon>
+
+							<typ>S</typ>
+                			<stpid>9099</stpid>
+                			<stpnm>Pulaski &amp; Erie</stpnm>
+                			<pdist>20650.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.895261559197</lat>
+						<lon>-87.726012468338</lon>
+
+							<typ>S</typ>
+                			<stpid>9101</stpid>
+                			<stpnm>Pulaski &amp; Chicago</stpnm>
+                			<pdist>21519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.89701849663</lat>
+						<lon>-87.726114392281</lon>
+
+							<typ>S</typ>
+                			<stpid>9102</stpid>
+                			<stpnm>Pulaski &amp; Iowa</stpnm>
+                			<pdist>22159.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.898863228917</lat>
+						<lon>-87.726157307625</lon>
+
+							<typ>S</typ>
+                			<stpid>9103</stpid>
+                			<stpnm>Pulaski &amp; Augusta</stpnm>
+                			<pdist>22860.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.900687944142</lat>
+						<lon>-87.726216316223</lon>
+
+							<typ>S</typ>
+                			<stpid>9104</stpid>
+                			<stpnm>Pulaski &amp; Thomas</stpnm>
+                			<pdist>23532.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.902903884863</lat>
+						<lon>-87.726253867149</lon>
+
+							<typ>S</typ>
+                			<stpid>17428</stpid>
+                			<stpnm>Pulaski &amp; Division</stpnm>
+                			<pdist>24299.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.904289307828</lat>
+						<lon>-87.726318240166</lon>
+
+							<typ>S</typ>
+                			<stpid>9106</stpid>
+                			<stpnm>Pulaski &amp; Potomac</stpnm>
+                			<pdist>24846.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.90539922154</lat>
+						<lon>-87.726312875748</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.905978125711</lat>
+						<lon>-87.72636115551</lon>
+
+							<typ>S</typ>
+                			<stpid>9107</stpid>
+                			<stpnm>Pulaski &amp; Grand</stpnm>
+                			<pdist>25448.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.906117860415</lat>
+						<lon>-87.726366519928</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.907990275931</lat>
+						<lon>-87.72641479969</lon>
+
+							<typ>S</typ>
+                			<stpid>9108</stpid>
+                			<stpnm>Pulaski &amp; Le Moyne</stpnm>
+                			<pdist>26177.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.909355627462</lat>
+						<lon>-87.726457715034</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.909738878783</lat>
+						<lon>-87.726355791092</lon>
+
+							<typ>S</typ>
+                			<stpid>9109</stpid>
+                			<stpnm>Pulaski &amp; North Ave</stpnm>
+                			<pdist>26811.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.909938487935</lat>
+						<lon>-87.726286053658</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.910369641573</lat>
+						<lon>-87.726302146912</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.911635140525</lat>
+						<lon>-87.72633433342</lon>
+
+							<typ>S</typ>
+                			<stpid>9110</stpid>
+                			<stpnm>Pulaski &amp; Wabansia</stpnm>
+                			<pdist>27511.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.913563281543</lat>
+						<lon>-87.726404070854</lon>
+
+							<typ>S</typ>
+                			<stpid>9111</stpid>
+                			<stpnm>1739 N Pulaski</stpnm>
+                			<pdist>28017.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.915207943792</lat>
+						<lon>-87.726452350616</lon>
+
+							<typ>S</typ>
+                			<stpid>9112</stpid>
+                			<stpnm>Pulaski &amp; Cortland</stpnm>
+                			<pdist>28805.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.917435355678</lat>
+						<lon>-87.726516723633</lon>
+
+							<typ>S</typ>
+                			<stpid>17467</stpid>
+                			<stpnm>Pulaski &amp; Armitage</stpnm>
+                			<pdist>29633.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.918828446534</lat>
+						<lon>-87.726538181305</lon>
+
+							<typ>S</typ>
+                			<stpid>9114</stpid>
+                			<stpnm>Pulaski &amp; Dickens</stpnm>
+                			<pdist>30147.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.921007834262</lat>
+						<lon>-87.726607918739</lon>
+
+							<typ>S</typ>
+                			<stpid>15394</stpid>
+                			<stpnm>Pulaski &amp; Palmer</stpnm>
+                			<pdist>30954.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.921933851936</lat>
+						<lon>-87.726666927338</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.922508614767</lat>
+						<lon>-87.726956605911</lon>
+
+							<typ>S</typ>
+                			<stpid>9116</stpid>
+                			<stpnm>Pulaski &amp; Belden</stpnm>
+                			<pdist>31444.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.922616382221</lat>
+						<lon>-87.726999521255</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.922636339137</lat>
+						<lon>-87.726699113846</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.922648313284</lat>
+						<lon>-87.726565003395</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.922692218469</lat>
+						<lon>-87.726473808289</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.922756080503</lat>
+						<lon>-87.726446986198</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.922847882064</lat>
+						<lon>-87.726457715034</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.923183156208</lat>
+						<lon>-87.726629376411</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.92328293984</lat>
+						<lon>-87.726672291756</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.923981420891</lat>
+						<lon>-87.726704478264</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.92475572809</lat>
+						<lon>-87.7267152071</lon>
+
+							<typ>S</typ>
+                			<stpid>17465</stpid>
+                			<stpnm>Pulaski &amp; Fullerton</stpnm>
+                			<pdist>32397.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.926180588431</lat>
+						<lon>-87.726752758026</lon>
+
+							<typ>S</typ>
+                			<stpid>9118</stpid>
+                			<stpnm>Pulaski &amp; Altgeld</stpnm>
+                			<pdist>32907.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.928463333334</lat>
+						<lon>-87.726808333332</lon>
+
+							<typ>S</typ>
+                			<stpid>17466</stpid>
+                			<stpnm>Pulaski &amp; Wrightwood</stpnm>
+                			<pdist>33749.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.929840377969</lat>
+						<lon>-87.726870775223</lon>
+
+							<typ>S</typ>
+                			<stpid>9120</stpid>
+                			<stpnm>Pulaski &amp; Schubert</stpnm>
+                			<pdist>34243.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.932043334341</lat>
+						<lon>-87.726924419403</lon>
+
+							<typ>S</typ>
+                			<stpid>17464</stpid>
+                			<stpnm>Pulaski &amp; Diversey</stpnm>
+                			<pdist>35054.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.933507938954</lat>
+						<lon>-87.726961970329</lon>
+
+							<typ>S</typ>
+                			<stpid>9122</stpid>
+                			<stpnm>Pulaski &amp; George</stpnm>
+                			<pdist>35582.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.935678844138</lat>
+						<lon>-87.72701561451</lon>
+
+							<typ>S</typ>
+                			<stpid>17463</stpid>
+                			<stpnm>Pulaski &amp; Wellington</stpnm>
+                			<pdist>36331.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.937119422415</lat>
+						<lon>-87.727063894272</lon>
+
+							<typ>S</typ>
+                			<stpid>9124</stpid>
+                			<stpnm>Pulaski &amp; Barry</stpnm>
+                			<pdist>36862.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.93908270662</lat>
+						<lon>-87.727128267288</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.939453808427</lat>
+						<lon>-87.727144360542</lon>
+
+							<typ>S</typ>
+                			<stpid>17096</stpid>
+                			<stpnm>Pulaski &amp; Belmont</stpnm>
+                			<pdist>37728.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.940926223347</lat>
+						<lon>-87.727181911469</lon>
+
+							<typ>S</typ>
+                			<stpid>9126</stpid>
+                			<stpnm>Pulaski &amp; Milwaukee</stpnm>
+                			<pdist>38220.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.941257412263</lat>
+						<lon>-87.727203369141</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.943048994769</lat>
+						<lon>-87.727251648903</lon>
+
+							<typ>S</typ>
+                			<stpid>9127</stpid>
+                			<stpnm>Pulaski &amp; Roscoe</stpnm>
+                			<pdist>38811.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.944704867019</lat>
+						<lon>-87.727283835411</lon>
+
+							<typ>S</typ>
+                			<stpid>9128</stpid>
+                			<stpnm>Pulaski &amp; Cornelia</stpnm>
+                			<pdist>39462.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.946635998645</lat>
+						<lon>-87.727353572845</lon>
+
+							<typ>S</typ>
+                			<stpid>17461</stpid>
+                			<stpnm>Pulaski &amp; Addison</stpnm>
+                			<pdist>40271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.948084308977</lat>
+						<lon>-87.727391123772</lon>
+
+							<typ>S</typ>
+                			<stpid>9130</stpid>
+                			<stpnm>Pulaski &amp; Waveland</stpnm>
+                			<pdist>40791.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.950569899879</lat>
+						<lon>-87.72745013237</lon>
+
+							<typ>S</typ>
+                			<stpid>9131</stpid>
+                			<stpnm>Pulaski &amp; Avondale</stpnm>
+                			<pdist>41741.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.951399738503</lat>
+						<lon>-87.72747695446</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.951966256743</lat>
+						<lon>-87.727509140968</lon>
+
+							<typ>S</typ>
+                			<stpid>9132</stpid>
+                			<stpnm>Irving Park Blue Line Station</stpnm>
+                			<pdist>42234.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.953953020356</lat>
+						<lon>-87.727578878403</lon>
+
+							<typ>S</typ>
+                			<stpid>17318</stpid>
+                			<stpnm>Pulaski &amp; Irving Park </stpnm>
+                			<pdist>42898.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.955329356426</lat>
+						<lon>-87.727616429329</lon>
+
+							<typ>S</typ>
+                			<stpid>9134</stpid>
+                			<stpnm>Pulaski &amp; Belle Plaine</stpnm>
+                			<pdist>43394.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.957511486319</lat>
+						<lon>-87.727659344673</lon>
+
+							<typ>S</typ>
+                			<stpid>17319</stpid>
+                			<stpnm>Pulaski &amp; Berteau</stpnm>
+                			<pdist>44197.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.959083211834</lat>
+						<lon>-87.727707624435</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.959717475873</lat>
+						<lon>-87.727755904198</lon>
+
+							<typ>S</typ>
+                			<stpid>17320</stpid>
+                			<stpnm>Pulaski &amp; Elston</stpnm>
+                			<pdist>45010.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.960858337437</lat>
+						<lon>-87.727766633034</lon>
+
+							<typ>S</typ>
+                			<stpid>9137</stpid>
+                			<stpnm>Pulaski &amp; Montrose</stpnm>
+                			<pdist>45373.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.962709202258</lat>
+						<lon>-87.727836370468</lon>
+
+							<typ>S</typ>
+                			<stpid>9138</stpid>
+                			<stpnm>Pulaski &amp; Sunnyside </stpnm>
+                			<pdist>46066.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.964791360918</lat>
+						<lon>-87.72788465023</lon>
+
+							<typ>S</typ>
+                			<stpid>17321</stpid>
+                			<stpnm>Pulaski &amp; Wilson</stpnm>
+                			<pdist>46865.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.966303077155</lat>
+						<lon>-87.727927565575</lon>
+
+							<typ>S</typ>
+                			<stpid>9140</stpid>
+                			<stpnm>Pulaski &amp; Leland</stpnm>
+                			<pdist>47364.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.968014184971</lat>
+						<lon>-87.727981209755</lon>
+
+							<typ>S</typ>
+                			<stpid>9141</stpid>
+                			<stpnm>Pulaski &amp; Lawrence</stpnm>
+                			<pdist>48032.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.969892760904</lat>
+						<lon>-87.728024125099</lon>
+
+							<typ>S</typ>
+                			<stpid>9142</stpid>
+                			<stpnm>Pulaski &amp; Ainslie</stpnm>
+                			<pdist>48697.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.972050462352</lat>
+						<lon>-87.728083133698</lon>
+
+							<typ>S</typ>
+                			<stpid>17322</stpid>
+                			<stpnm>Pulaski &amp; Argyle</stpnm>
+                			<pdist>49485.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.973498195177</lat>
+						<lon>-87.728115320206</lon>
+
+							<typ>S</typ>
+                			<stpid>9144</stpid>
+                			<stpnm>5061 N Pulaski</stpnm>
+                			<pdist>50048.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.97530482387</lat>
+						<lon>-87.728168964386</lon>
+
+							<typ>S</typ>
+                			<stpid>9145</stpid>
+                			<stpnm>Pulaski &amp; Foster</stpnm>
+                			<pdist>50653.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.9772071126</lat>
+						<lon>-87.728217244148</lon>
+
+							<typ>S</typ>
+                			<stpid>9146</stpid>
+                			<stpnm>5300 N Pulaski</stpnm>
+                			<pdist>51465.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.97743442632</lat>
+						<lon>-87.728222608566</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.979221004154</lat>
+						<lon>-87.728270888329</lon>
+
+							<typ>S</typ>
+                			<stpid>9147</stpid>
+                			<stpnm>5400 N Pulaski</stpnm>
+                			<pdist>52050.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.983073142052</lat>
+						<lon>-87.728388905525</lon>
+
+							<typ>S</typ>
+                			<stpid>17323</stpid>
+                			<stpnm>Pulaski &amp; Bryn Mawr</stpnm>
+                			<pdist>53482.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.984835636755</lat>
+						<lon>-87.728442549706</lon>
+
+							<typ>S</typ>
+                			<stpid>9150</stpid>
+                			<stpnm>Pulaski &amp; Victoria</stpnm>
+                			<pdist>54089.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.985784652156</lat>
+						<lon>-87.728469371796</lon>
+
+							<typ>S</typ>
+                			<stpid>9151</stpid>
+                			<stpnm>Pulaski &amp; Ardmore</stpnm>
+                			<pdist>54418.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.988332568906</lat>
+						<lon>-87.728555202484</lon>
+
+							<typ>S</typ>
+                			<stpid>9153</stpid>
+                			<stpnm>Pulaski &amp; Thorndale</stpnm>
+                			<pdist>55465.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.988743256429</lat>
+						<lon>-87.728571295738</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.990003213267</lat>
+						<lon>-87.728603482246</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.989963341597</lat>
+						<lon>-87.728340625763</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.989855687964</lat>
+						<lon>-87.72821187973</lon>
+
+							<typ>S</typ>
+                			<stpid>8972</stpid>
+                			<stpnm>Pulaski &amp; Peterson Terminal</stpnm>
+                			<pdist>56036.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1232</pid>
+				<ln>56019.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.989855687964</lat>
+						<lon>-87.72821187973</lon>
+
+							<typ>S</typ>
+                			<stpid>8972</stpid>
+                			<stpnm>Pulaski &amp; Peterson Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.989724111055</lat>
+						<lon>-87.728367447853</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.98968423921</lat>
+						<lon>-87.728673219681</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.988763192649</lat>
+						<lon>-87.728646397591</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.988496046781</lat>
+						<lon>-87.728641033173</lon>
+
+							<typ>S</typ>
+                			<stpid>8973</stpid>
+                			<stpnm>Pulaski &amp; Thorndale</stpnm>
+                			<pdist>382.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.986051809402</lat>
+						<lon>-87.72856593132</lon>
+
+							<typ>S</typ>
+                			<stpid>8975</stpid>
+                			<stpnm>Pulaski &amp; Ardmore</stpnm>
+                			<pdist>1478.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.984995136131</lat>
+						<lon>-87.728528380394</lon>
+
+							<typ>S</typ>
+                			<stpid>8976</stpid>
+                			<stpnm>Pulaski &amp; Victoria</stpnm>
+                			<pdist>1828.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.982638492194</lat>
+						<lon>-87.72845864296</lon>
+
+							<typ>S</typ>
+                			<stpid>17324</stpid>
+                			<stpnm>Pulaski &amp; Bryn Mawr</stpnm>
+                			<pdist>2709.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.979344627106</lat>
+						<lon>-87.728356719017</lon>
+
+							<typ>S</typ>
+                			<stpid>8979</stpid>
+                			<stpnm>5400 N Pulaski</stpnm>
+                			<pdist>3826.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.977231040398</lat>
+						<lon>-87.728303074837</lon>
+
+							<typ>S</typ>
+                			<stpid>8980</stpid>
+                			<stpnm>5300 N Pulaski</stpnm>
+                			<pdist>4505.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.975659762557</lat>
+						<lon>-87.728265523911</lon>
+
+							<typ>S</typ>
+                			<stpid>8981</stpid>
+                			<stpnm>Pulaski &amp; Foster</stpnm>
+                			<pdist>5248.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.974822263606</lat>
+						<lon>-87.728244066238</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.973506171576</lat>
+						<lon>-87.728195786476</lon>
+
+							<typ>S</typ>
+                			<stpid>8982</stpid>
+                			<stpnm>5061 N Pulaski</stpnm>
+                			<pdist>5979.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.972748409282</lat>
+						<lon>-87.72818505764</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.971954743319</lat>
+						<lon>-87.728179693222</lon>
+
+							<typ>S</typ>
+                			<stpid>8983</stpid>
+                			<stpnm>Pulaski &amp; Argyle</stpnm>
+                			<pdist>6593.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.970128077552</lat>
+						<lon>-87.728115320206</lon>
+
+							<typ>S</typ>
+                			<stpid>8984</stpid>
+                			<stpnm>Pulaski &amp; Ainslie</stpnm>
+                			<pdist>7256.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.968341244637</lat>
+						<lon>-87.728067040443</lon>
+
+							<typ>S</typ>
+                			<stpid>8985</stpid>
+                			<stpnm>Pulaski &amp; Lawrence</stpnm>
+                			<pdist>7909.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.966426725181</lat>
+						<lon>-87.728018760681</lon>
+
+							<typ>S</typ>
+                			<stpid>8986</stpid>
+                			<stpnm>Pulaski &amp; Leland</stpnm>
+                			<pdist>8392.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.964425000001</lat>
+						<lon>-87.727968333334</lon>
+
+							<typ>S</typ>
+                			<stpid>17325</stpid>
+                			<stpnm>Pulaski &amp; Wilson</stpnm>
+                			<pdist>9381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.962781001965</lat>
+						<lon>-87.727916836739</lon>
+
+							<typ>S</typ>
+                			<stpid>8988</stpid>
+                			<stpnm>Pulaski &amp; Sunnyside </stpnm>
+                			<pdist>9988.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.961125599256</lat>
+						<lon>-87.727852463722</lon>
+
+							<typ>S</typ>
+                			<stpid>8989</stpid>
+                			<stpnm>Pulaski &amp; Montrose</stpnm>
+                			<pdist>10551.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.959857092896</lat>
+						<lon>-87.727841734886</lon>
+
+							<typ>S</typ>
+                			<stpid>8990</stpid>
+                			<stpnm>Pulaski &amp; Elston</stpnm>
+                			<pdist>10991.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.957176392617</lat>
+						<lon>-87.727734446526</lon>
+
+							<typ>S</typ>
+                			<stpid>17326</stpid>
+                			<stpnm>Pulaski &amp; Berteau</stpnm>
+                			<pdist>11993.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.955600630753</lat>
+						<lon>-87.727702260017</lon>
+
+							<typ>S</typ>
+                			<stpid>8992</stpid>
+                			<stpnm>Pulaski &amp; Belle Plaine</stpnm>
+                			<pdist>12523.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.953354604098</lat>
+						<lon>-87.727632522583</lon>
+
+							<typ>S</typ>
+                			<stpid>17327</stpid>
+                			<stpnm>Pulaski &amp; Irving Park</stpnm>
+                			<pdist>13355.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.952034079012</lat>
+						<lon>-87.727589607239</lon>
+
+							<typ>S</typ>
+                			<stpid>8994</stpid>
+                			<stpnm>Irving Park Blue Line Station</stpnm>
+                			<pdist>13748.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.951451603058</lat>
+						<lon>-87.727578878403</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.950901038702</lat>
+						<lon>-87.727541327477</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.950561920609</lat>
+						<lon>-87.727541327477</lon>
+
+							<typ>S</typ>
+                			<stpid>8995</stpid>
+                			<stpnm>Pulaski &amp; Avondale</stpnm>
+                			<pdist>14302.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.94812021708</lat>
+						<lon>-87.72747695446</lon>
+
+							<typ>S</typ>
+                			<stpid>8996</stpid>
+                			<stpnm>Pulaski &amp; Waveland</stpnm>
+                			<pdist>15157.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.946193120321</lat>
+						<lon>-87.727428674698</lon>
+
+							<typ>S</typ>
+                			<stpid>17462</stpid>
+                			<stpnm>Pulaski &amp; Addison</stpnm>
+                			<pdist>15935.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.944872446875</lat>
+						<lon>-87.727375030518</lon>
+
+							<typ>S</typ>
+                			<stpid>8998</stpid>
+                			<stpnm>Pulaski &amp; Cornelia </stpnm>
+                			<pdist>16400.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.943280420464</lat>
+						<lon>-87.727353572845</lon>
+
+							<typ>S</typ>
+                			<stpid>8999</stpid>
+                			<stpnm>Pulaski &amp; Roscoe </stpnm>
+                			<pdist>17002.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.942745746036</lat>
+						<lon>-87.727316021919</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.941345196988</lat>
+						<lon>-87.727294564247</lon>
+
+							<typ>S</typ>
+                			<stpid>9000</stpid>
+                			<stpnm>Pulaski &amp; Milwaukee</stpnm>
+                			<pdist>17682.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.940443402689</lat>
+						<lon>-87.727251648903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.939242320565</lat>
+						<lon>-87.727235555649</lon>
+
+							<typ>S</typ>
+                			<stpid>14620</stpid>
+                			<stpnm>Pulaski &amp; Belmont</stpnm>
+                			<pdist>18474.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.937362841016</lat>
+						<lon>-87.727160453796</lon>
+
+							<typ>S</typ>
+                			<stpid>9002</stpid>
+                			<stpnm>Pulaski &amp; Barry</stpnm>
+                			<pdist>19147.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.93551124012</lat>
+						<lon>-87.727101445198</lon>
+
+							<typ>S</typ>
+                			<stpid>14621</stpid>
+                			<stpnm>Pulaski &amp; Wellington</stpnm>
+                			<pdist>19758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.933743389964</lat>
+						<lon>-87.727053165436</lon>
+
+							<typ>S</typ>
+                			<stpid>9004</stpid>
+                			<stpnm>Pulaski &amp; George</stpnm>
+                			<pdist>20394.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.931887693182</lat>
+						<lon>-87.72701561451</lon>
+
+							<typ>S</typ>
+                			<stpid>14622</stpid>
+                			<stpnm>Pulaski &amp; Diversey</stpnm>
+                			<pdist>21209.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.930035933332</lat>
+						<lon>-87.726967334747</lon>
+
+							<typ>S</typ>
+                			<stpid>14623</stpid>
+                			<stpnm>Pulaski &amp; Schubert</stpnm>
+                			<pdist>21902.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.928196092831</lat>
+						<lon>-87.726892232895</lon>
+
+							<typ>S</typ>
+                			<stpid>9007</stpid>
+                			<stpnm>Pulaski &amp; Wrightwood</stpnm>
+                			<pdist>22353.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.926372163865</lat>
+						<lon>-87.726838588715</lon>
+
+							<typ>S</typ>
+                			<stpid>9008</stpid>
+                			<stpnm>Pulaski &amp; Altgeld</stpnm>
+                			<pdist>23045.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.924332654187</lat>
+						<lon>-87.72679567337</lon>
+
+							<typ>S</typ>
+                			<stpid>14624</stpid>
+                			<stpnm>Pulaski &amp; Fullerton</stpnm>
+                			<pdist>23834.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.923270965812</lat>
+						<lon>-87.72676885128</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.923155216764</lat>
+						<lon>-87.7267152071</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.922847882064</lat>
+						<lon>-87.726554274559</lon>
+
+							<typ>S</typ>
+                			<stpid>9010</stpid>
+                			<stpnm>Pulaski &amp; Belden</stpnm>
+                			<pdist>24311.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.922756080503</lat>
+						<lon>-87.726532816887</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.922712175362</lat>
+						<lon>-87.726597189903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.922692218469</lat>
+						<lon>-87.726747393608</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.922684235711</lat>
+						<lon>-87.727138996124</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.922013680416</lat>
+						<lon>-87.726806402206</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.921929860509</lat>
+						<lon>-87.726763486862</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.921818100461</lat>
+						<lon>-87.726752758026</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.921027791681</lat>
+						<lon>-87.726699113846</lon>
+
+							<typ>S</typ>
+                			<stpid>9011</stpid>
+                			<stpnm>Pulaski &amp; Palmer</stpnm>
+                			<pdist>25091.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.919139792195</lat>
+						<lon>-87.726624011993</lon>
+
+							<typ>S</typ>
+                			<stpid>9012</stpid>
+                			<stpnm>Pulaski &amp; Dickens</stpnm>
+                			<pdist>25758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.916892481092</lat>
+						<lon>-87.726591825485</lon>
+
+							<typ>S</typ>
+                			<stpid>17458</stpid>
+                			<stpnm>Pulaski &amp; Armitage</stpnm>
+                			<pdist>26563.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.915267821473</lat>
+						<lon>-87.726532816887</lon>
+
+							<typ>S</typ>
+                			<stpid>15762</stpid>
+                			<stpnm>Pulaski &amp; Cortland</stpnm>
+                			<pdist>27221.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.913631144659</lat>
+						<lon>-87.726479172707</lon>
+
+							<typ>S</typ>
+                			<stpid>9015</stpid>
+                			<stpnm>1741 N Pulaski</stpnm>
+                			<pdist>27966.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.911822767571</lat>
+						<lon>-87.726430892944</lon>
+
+							<typ>S</typ>
+                			<stpid>9016</stpid>
+                			<stpnm>Pulaski &amp; Wabansia</stpnm>
+                			<pdist>28413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.910437508084</lat>
+						<lon>-87.726398706436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.909966433166</lat>
+						<lon>-87.7263879776</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.90980275378</lat>
+						<lon>-87.726420164108</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.909583183212</lat>
+						<lon>-87.726489901543</lon>
+
+							<typ>S</typ>
+                			<stpid>9017</stpid>
+                			<stpnm>Pulaski &amp; North Ave</stpnm>
+                			<pdist>29258.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.909399541793</lat>
+						<lon>-87.726543545723</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.908145975388</lat>
+						<lon>-87.726500630379</lon>
+
+							<typ>S</typ>
+                			<stpid>9018</stpid>
+                			<stpnm>Pulaski &amp; Le Moyne</stpnm>
+                			<pdist>29705.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.906776605611</lat>
+						<lon>-87.726468443871</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.906077936245</lat>
+						<lon>-87.726446986198</lon>
+
+							<typ>S</typ>
+                			<stpid>9019</stpid>
+                			<stpnm>Pulaski &amp; Grand</stpnm>
+                			<pdist>30402.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.905395229079</lat>
+						<lon>-87.726404070854</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.90488818453</lat>
+						<lon>-87.726393342018</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.904409083618</lat>
+						<lon>-87.726404070854</lon>
+
+							<typ>S</typ>
+                			<stpid>9020</stpid>
+                			<stpnm>Pulaski &amp; Potomac</stpnm>
+                			<pdist>31048.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.90248066609</lat>
+						<lon>-87.726328969002</lon>
+
+							<typ>S</typ>
+                			<stpid>17429</stpid>
+                			<stpnm>Pulaski &amp; Division</stpnm>
+                			<pdist>31850.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.900759813697</lat>
+						<lon>-87.726296782494</lon>
+
+							<typ>S</typ>
+                			<stpid>9022</stpid>
+                			<stpnm>Pulaski &amp; Thomas</stpnm>
+                			<pdist>32380.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.898947079118</lat>
+						<lon>-87.726248502731</lon>
+
+							<typ>S</typ>
+                			<stpid>14626</stpid>
+                			<stpnm>Pulaski &amp; Augusta</stpnm>
+                			<pdist>33203.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.897282033077</lat>
+						<lon>-87.726210951805</lon>
+
+							<typ>S</typ>
+                			<stpid>9024</stpid>
+                			<stpnm>Pulaski &amp; Iowa</stpnm>
+                			<pdist>33687.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.895329441768</lat>
+						<lon>-87.726109027863</lon>
+
+							<typ>S</typ>
+                			<stpid>14627</stpid>
+                			<stpnm>Pulaski &amp; Chicago</stpnm>
+                			<pdist>34525.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.894107544448</lat>
+						<lon>-87.726082205772</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.892977468276</lat>
+						<lon>-87.726050019264</lon>
+
+							<typ>S</typ>
+                			<stpid>9027</stpid>
+                			<stpnm>Pulaski &amp; Erie</stpnm>
+                			<pdist>35206.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.891679652954</lat>
+						<lon>-87.726028561592</lon>
+
+							<typ>S</typ>
+                			<stpid>9028</stpid>
+                			<stpnm>Pulaski &amp; Ohio</stpnm>
+                			<pdist>35712.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.889778805074</lat>
+						<lon>-87.725974917412</lon>
+
+							<typ>S</typ>
+                			<stpid>9029</stpid>
+                			<stpnm>Pulaski &amp; Ferdinand</stpnm>
+                			<pdist>36533.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.88832917088</lat>
+						<lon>-87.725899815559</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.886959376113</lat>
+						<lon>-87.725883722305</lon>
+
+							<typ>S</typ>
+                			<stpid>15552</stpid>
+                			<stpnm>Pulaski &amp; Carroll</stpnm>
+                			<pdist>37444.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.885377885566</lat>
+						<lon>-87.725830078125</lon>
+
+							<typ>S</typ>
+                			<stpid>9031</stpid>
+                			<stpnm>Pulaski &amp; Lake (Green Line)</stpnm>
+                			<pdist>38094.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.883448893345</lat>
+						<lon>-87.725787162781</lon>
+
+							<typ>S</typ>
+                			<stpid>9032</stpid>
+                			<stpnm>Pulaski &amp; West End </stpnm>
+                			<pdist>38686.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.882047042583</lat>
+						<lon>-87.725744247437</lon>
+
+							<typ>S</typ>
+                			<stpid>9033</stpid>
+                			<stpnm>Pulaski &amp; Washington</stpnm>
+                			<pdist>39197.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.880617203002</lat>
+						<lon>-87.725695967674</lon>
+
+							<typ>S</typ>
+                			<stpid>14628</stpid>
+                			<stpnm>Pulaski &amp; Madison</stpnm>
+                			<pdist>39842.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.878799902612</lat>
+						<lon>-87.725631594658</lon>
+
+							<typ>S</typ>
+                			<stpid>9035</stpid>
+                			<stpnm>Pulaski &amp; Wilcox</stpnm>
+                			<pdist>40318.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.877222204321</lat>
+						<lon>-87.725583314896</lon>
+
+							<typ>S</typ>
+                			<stpid>9036</stpid>
+                			<stpnm>Pulaski &amp; Jackson</stpnm>
+                			<pdist>40963.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.876111800906</lat>
+						<lon>-87.725535035133</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.875368858353</lat>
+						<lon>-87.725518941879</lon>
+
+							<typ>S</typ>
+                			<stpid>9037</stpid>
+                			<stpnm>Pulaski &amp; Van Buren</stpnm>
+                			<pdist>41617.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.874290377988</lat>
+						<lon>-87.725492119789</lon>
+
+							<typ>S</typ>
+                			<stpid>9039</stpid>
+                			<stpnm>Pulaski Blue Line Station</stpnm>
+                			<pdist>42149.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.872900309785</lat>
+						<lon>-87.725449204445</lon>
+
+							<typ>S</typ>
+                			<stpid>15553</stpid>
+                			<stpnm>Pulaski &amp; Fifth Avenue</stpnm>
+                			<pdist>42590.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.871010887005</lat>
+						<lon>-87.725384831429</lon>
+
+							<typ>S</typ>
+                			<stpid>9041</stpid>
+                			<stpnm>Pulaski &amp; Polk</stpnm>
+                			<pdist>43168.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.869736593596</lat>
+						<lon>-87.72535264492</lon>
+
+							<typ>S</typ>
+                			<stpid>17328</stpid>
+                			<stpnm>Pulaski &amp; Arthington</stpnm>
+                			<pdist>43641.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.867795144775</lat>
+						<lon>-87.725288271904</lon>
+
+							<typ>S</typ>
+                			<stpid>15554</stpid>
+                			<stpnm>Pulaski &amp; Fillmore</stpnm>
+                			<pdist>44371.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.867128007804</lat>
+						<lon>-87.725277543068</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.866013434099</lat>
+						<lon>-87.725223898888</lon>
+
+							<typ>S</typ>
+                			<stpid>17190</stpid>
+                			<stpnm>Pulaski &amp; Roosevelt</stpnm>
+                			<pdist>45013.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.864519315568</lat>
+						<lon>-87.725175619125</lon>
+
+							<typ>S</typ>
+                			<stpid>9046</stpid>
+                			<stpnm>Pulaski &amp; 13th Street</stpnm>
+                			<pdist>45536.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.86240591717</lat>
+						<lon>-87.725105881691</lon>
+
+							<typ>S</typ>
+                			<stpid>17191</stpid>
+                			<stpnm>Pulaski &amp; 14th Street</stpnm>
+                			<pdist>46312.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.860496207878</lat>
+						<lon>-87.725046873093</lon>
+
+							<typ>S</typ>
+                			<stpid>15555</stpid>
+                			<stpnm>Pulaski &amp; 15th Street</stpnm>
+                			<pdist>46989.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.8590139465</lat>
+						<lon>-87.725009322166</lon>
+
+							<typ>S</typ>
+                			<stpid>9049</stpid>
+                			<stpnm>Pulaski &amp; 16th Street</stpnm>
+                			<pdist>47629.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.857152081641</lat>
+						<lon>-87.724939584732</lon>
+
+							<typ>S</typ>
+                			<stpid>9050</stpid>
+                			<stpnm>Pulaski &amp; 18th Street</stpnm>
+                			<pdist>48175.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.855170294685</lat>
+						<lon>-87.72489130497</lon>
+
+							<typ>S</typ>
+                			<stpid>9051</stpid>
+                			<stpnm>Pulaski &amp; 19th Street</stpnm>
+                			<pdist>48922.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.854371169668</lat>
+						<lon>-87.724880576134</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.853867715781</lat>
+						<lon>-87.72486448288</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.853643957226</lat>
+						<lon>-87.724843025208</lon>
+
+							<typ>S</typ>
+                			<stpid>15940</stpid>
+                			<stpnm>Pulaski Pink Line Station</stpnm>
+                			<pdist>49390.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.853368253644</lat>
+						<lon>-87.724826931953</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.852589084922</lat>
+						<lon>-87.724832296371</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.8519337767</lat>
+						<lon>-87.724810838699</lon>
+
+							<typ>S</typ>
+                			<stpid>9053</stpid>
+                			<stpnm>Pulaski &amp; Cermak</stpnm>
+                			<pdist>50125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.851010739706</lat>
+						<lon>-87.724784016609</lon>
+
+							<typ>S</typ>
+                			<stpid>9054</stpid>
+                			<stpnm>Pulaski &amp; Ogden</stpnm>
+                			<pdist>50484.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.849548238239</lat>
+						<lon>-87.724735736847</lon>
+
+							<typ>S</typ>
+                			<stpid>9055</stpid>
+                			<stpnm>2300 S Pulaski</stpnm>
+                			<pdist>50848.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.848205584503</lat>
+						<lon>-87.724687457085</lon>
+
+							<typ>S</typ>
+                			<stpid>9056</stpid>
+                			<stpnm>Pulaski &amp; 24th Street</stpnm>
+                			<pdist>51494.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.846011723565</lat>
+						<lon>-87.724649906158</lon>
+
+							<typ>S</typ>
+                			<stpid>15057</stpid>
+                			<stpnm>Pulaski &amp; 25th Street</stpnm>
+                			<pdist>52258.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.844469182489</lat>
+						<lon>-87.724606990814</lon>
+
+							<typ>S</typ>
+                			<stpid>9058</stpid>
+                			<stpnm>Pulaski &amp; 26th Street</stpnm>
+                			<pdist>52793.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.843390180875</lat>
+						<lon>-87.724569439888</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.842530962872</lat>
+						<lon>-87.72453725338</lon>
+
+							<typ>S</typ>
+                			<stpid>9059</stpid>
+                			<stpnm>Pulaski &amp; 27th Street</stpnm>
+                			<pdist>53472.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.840460799554</lat>
+						<lon>-87.7244836092</lon>
+
+							<typ>S</typ>
+                			<stpid>15058</stpid>
+                			<stpnm>Pulaski &amp; 28th Street</stpnm>
+                			<pdist>54314.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.838830199056</lat>
+						<lon>-87.724446058273</lon>
+
+							<typ>S</typ>
+                			<stpid>9061</stpid>
+                			<stpnm>Pulaski &amp; 30th Street</stpnm>
+                			<pdist>54820.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.837083651948</lat>
+						<lon>-87.724403142929</lon>
+
+							<typ>S</typ>
+                			<stpid>9062</stpid>
+                			<stpnm>Pulaski &amp; 31st Street</stpnm>
+                			<pdist>55492.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.836927779294</lat>
+						<lon>-87.724403142929</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.836907795594</lat>
+						<lon>-87.725964188576</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.836739932259</lat>
+						<lon>-87.72598028183</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.83674392901</lat>
+						<lon>-87.725690603256</lon>
+
+							<typ>S</typ>
+                			<stpid>9063</stpid>
+                			<stpnm>31st Street &amp; Komensky Terminal</stpnm>
+                			<pdist>56019.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1231</pid>
+				<ln>35206.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.989855687964</lat>
+						<lon>-87.72821187973</lon>
+
+							<typ>S</typ>
+                			<stpid>8972</stpid>
+                			<stpnm>Pulaski &amp; Peterson Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.989724111055</lat>
+						<lon>-87.728367447853</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.98968423921</lat>
+						<lon>-87.728673219681</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.988763192649</lat>
+						<lon>-87.728646397591</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.988496046781</lat>
+						<lon>-87.728641033173</lon>
+
+							<typ>S</typ>
+                			<stpid>8973</stpid>
+                			<stpnm>Pulaski &amp; Thorndale</stpnm>
+                			<pdist>382.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.986051809402</lat>
+						<lon>-87.72856593132</lon>
+
+							<typ>S</typ>
+                			<stpid>8975</stpid>
+                			<stpnm>Pulaski &amp; Ardmore</stpnm>
+                			<pdist>1478.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.984995136131</lat>
+						<lon>-87.728528380394</lon>
+
+							<typ>S</typ>
+                			<stpid>8976</stpid>
+                			<stpnm>Pulaski &amp; Victoria</stpnm>
+                			<pdist>1828.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.982638492194</lat>
+						<lon>-87.72845864296</lon>
+
+							<typ>S</typ>
+                			<stpid>17324</stpid>
+                			<stpnm>Pulaski &amp; Bryn Mawr</stpnm>
+                			<pdist>2709.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.979344627106</lat>
+						<lon>-87.728356719017</lon>
+
+							<typ>S</typ>
+                			<stpid>8979</stpid>
+                			<stpnm>5400 N Pulaski</stpnm>
+                			<pdist>3826.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.977231040398</lat>
+						<lon>-87.728303074837</lon>
+
+							<typ>S</typ>
+                			<stpid>8980</stpid>
+                			<stpnm>5300 N Pulaski</stpnm>
+                			<pdist>4505.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.975659762557</lat>
+						<lon>-87.728265523911</lon>
+
+							<typ>S</typ>
+                			<stpid>8981</stpid>
+                			<stpnm>Pulaski &amp; Foster</stpnm>
+                			<pdist>5248.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.974822263606</lat>
+						<lon>-87.728244066238</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.973506171576</lat>
+						<lon>-87.728195786476</lon>
+
+							<typ>S</typ>
+                			<stpid>8982</stpid>
+                			<stpnm>5061 N Pulaski</stpnm>
+                			<pdist>5979.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.972748409282</lat>
+						<lon>-87.72818505764</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.971954743319</lat>
+						<lon>-87.728179693222</lon>
+
+							<typ>S</typ>
+                			<stpid>8983</stpid>
+                			<stpnm>Pulaski &amp; Argyle</stpnm>
+                			<pdist>6593.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.970128077552</lat>
+						<lon>-87.728115320206</lon>
+
+							<typ>S</typ>
+                			<stpid>8984</stpid>
+                			<stpnm>Pulaski &amp; Ainslie</stpnm>
+                			<pdist>7256.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.968341244637</lat>
+						<lon>-87.728067040443</lon>
+
+							<typ>S</typ>
+                			<stpid>8985</stpid>
+                			<stpnm>Pulaski &amp; Lawrence</stpnm>
+                			<pdist>7909.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.966426725181</lat>
+						<lon>-87.728018760681</lon>
+
+							<typ>S</typ>
+                			<stpid>8986</stpid>
+                			<stpnm>Pulaski &amp; Leland</stpnm>
+                			<pdist>8392.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.964425000001</lat>
+						<lon>-87.727968333334</lon>
+
+							<typ>S</typ>
+                			<stpid>17325</stpid>
+                			<stpnm>Pulaski &amp; Wilson</stpnm>
+                			<pdist>9381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.962781001965</lat>
+						<lon>-87.727916836739</lon>
+
+							<typ>S</typ>
+                			<stpid>8988</stpid>
+                			<stpnm>Pulaski &amp; Sunnyside </stpnm>
+                			<pdist>9988.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.961125599256</lat>
+						<lon>-87.727852463722</lon>
+
+							<typ>S</typ>
+                			<stpid>8989</stpid>
+                			<stpnm>Pulaski &amp; Montrose</stpnm>
+                			<pdist>10551.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.959857092896</lat>
+						<lon>-87.727841734886</lon>
+
+							<typ>S</typ>
+                			<stpid>8990</stpid>
+                			<stpnm>Pulaski &amp; Elston</stpnm>
+                			<pdist>10991.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.957176392617</lat>
+						<lon>-87.727734446526</lon>
+
+							<typ>S</typ>
+                			<stpid>17326</stpid>
+                			<stpnm>Pulaski &amp; Berteau</stpnm>
+                			<pdist>11993.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.955600630753</lat>
+						<lon>-87.727702260017</lon>
+
+							<typ>S</typ>
+                			<stpid>8992</stpid>
+                			<stpnm>Pulaski &amp; Belle Plaine</stpnm>
+                			<pdist>12523.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.953354604098</lat>
+						<lon>-87.727632522583</lon>
+
+							<typ>S</typ>
+                			<stpid>17327</stpid>
+                			<stpnm>Pulaski &amp; Irving Park</stpnm>
+                			<pdist>13355.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.952034079012</lat>
+						<lon>-87.727589607239</lon>
+
+							<typ>S</typ>
+                			<stpid>8994</stpid>
+                			<stpnm>Irving Park Blue Line Station</stpnm>
+                			<pdist>13748.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.951451603058</lat>
+						<lon>-87.727578878403</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.950901038702</lat>
+						<lon>-87.727541327477</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.950561920609</lat>
+						<lon>-87.727541327477</lon>
+
+							<typ>S</typ>
+                			<stpid>8995</stpid>
+                			<stpnm>Pulaski &amp; Avondale</stpnm>
+                			<pdist>14302.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.94812021708</lat>
+						<lon>-87.72747695446</lon>
+
+							<typ>S</typ>
+                			<stpid>8996</stpid>
+                			<stpnm>Pulaski &amp; Waveland</stpnm>
+                			<pdist>15157.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.946193120321</lat>
+						<lon>-87.727428674698</lon>
+
+							<typ>S</typ>
+                			<stpid>17462</stpid>
+                			<stpnm>Pulaski &amp; Addison</stpnm>
+                			<pdist>15935.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.944872446875</lat>
+						<lon>-87.727375030518</lon>
+
+							<typ>S</typ>
+                			<stpid>8998</stpid>
+                			<stpnm>Pulaski &amp; Cornelia </stpnm>
+                			<pdist>16400.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.943280420464</lat>
+						<lon>-87.727353572845</lon>
+
+							<typ>S</typ>
+                			<stpid>8999</stpid>
+                			<stpnm>Pulaski &amp; Roscoe </stpnm>
+                			<pdist>17002.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.942745746036</lat>
+						<lon>-87.727316021919</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.941345196988</lat>
+						<lon>-87.727294564247</lon>
+
+							<typ>S</typ>
+                			<stpid>9000</stpid>
+                			<stpnm>Pulaski &amp; Milwaukee</stpnm>
+                			<pdist>17682.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.940443402689</lat>
+						<lon>-87.727251648903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.939242320565</lat>
+						<lon>-87.727235555649</lon>
+
+							<typ>S</typ>
+                			<stpid>14620</stpid>
+                			<stpnm>Pulaski &amp; Belmont</stpnm>
+                			<pdist>18474.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.937362841016</lat>
+						<lon>-87.727160453796</lon>
+
+							<typ>S</typ>
+                			<stpid>9002</stpid>
+                			<stpnm>Pulaski &amp; Barry</stpnm>
+                			<pdist>19147.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.93551124012</lat>
+						<lon>-87.727101445198</lon>
+
+							<typ>S</typ>
+                			<stpid>14621</stpid>
+                			<stpnm>Pulaski &amp; Wellington</stpnm>
+                			<pdist>19758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.933743389964</lat>
+						<lon>-87.727053165436</lon>
+
+							<typ>S</typ>
+                			<stpid>9004</stpid>
+                			<stpnm>Pulaski &amp; George</stpnm>
+                			<pdist>20394.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.931887693182</lat>
+						<lon>-87.72701561451</lon>
+
+							<typ>S</typ>
+                			<stpid>14622</stpid>
+                			<stpnm>Pulaski &amp; Diversey</stpnm>
+                			<pdist>21209.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.930035933332</lat>
+						<lon>-87.726967334747</lon>
+
+							<typ>S</typ>
+                			<stpid>14623</stpid>
+                			<stpnm>Pulaski &amp; Schubert</stpnm>
+                			<pdist>21902.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.928196092831</lat>
+						<lon>-87.726892232895</lon>
+
+							<typ>S</typ>
+                			<stpid>9007</stpid>
+                			<stpnm>Pulaski &amp; Wrightwood</stpnm>
+                			<pdist>22353.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.926372163865</lat>
+						<lon>-87.726838588715</lon>
+
+							<typ>S</typ>
+                			<stpid>9008</stpid>
+                			<stpnm>Pulaski &amp; Altgeld</stpnm>
+                			<pdist>23045.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.924332654187</lat>
+						<lon>-87.72679567337</lon>
+
+							<typ>S</typ>
+                			<stpid>14624</stpid>
+                			<stpnm>Pulaski &amp; Fullerton</stpnm>
+                			<pdist>23834.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.923270965812</lat>
+						<lon>-87.72676885128</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.923155216764</lat>
+						<lon>-87.7267152071</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.922847882064</lat>
+						<lon>-87.726554274559</lon>
+
+							<typ>S</typ>
+                			<stpid>9010</stpid>
+                			<stpnm>Pulaski &amp; Belden</stpnm>
+                			<pdist>24311.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.922756080503</lat>
+						<lon>-87.726532816887</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.922712175362</lat>
+						<lon>-87.726597189903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.922692218469</lat>
+						<lon>-87.726747393608</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.922684235711</lat>
+						<lon>-87.727138996124</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.922013680416</lat>
+						<lon>-87.726806402206</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.921929860509</lat>
+						<lon>-87.726763486862</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.921818100461</lat>
+						<lon>-87.726752758026</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.921027791681</lat>
+						<lon>-87.726699113846</lon>
+
+							<typ>S</typ>
+                			<stpid>9011</stpid>
+                			<stpnm>Pulaski &amp; Palmer</stpnm>
+                			<pdist>25091.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.919139792195</lat>
+						<lon>-87.726624011993</lon>
+
+							<typ>S</typ>
+                			<stpid>9012</stpid>
+                			<stpnm>Pulaski &amp; Dickens</stpnm>
+                			<pdist>25758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.916892481092</lat>
+						<lon>-87.726591825485</lon>
+
+							<typ>S</typ>
+                			<stpid>17458</stpid>
+                			<stpnm>Pulaski &amp; Armitage</stpnm>
+                			<pdist>26563.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.915267821473</lat>
+						<lon>-87.726532816887</lon>
+
+							<typ>S</typ>
+                			<stpid>15762</stpid>
+                			<stpnm>Pulaski &amp; Cortland</stpnm>
+                			<pdist>27221.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.913631144659</lat>
+						<lon>-87.726479172707</lon>
+
+							<typ>S</typ>
+                			<stpid>9015</stpid>
+                			<stpnm>1741 N Pulaski</stpnm>
+                			<pdist>27966.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.911822767571</lat>
+						<lon>-87.726430892944</lon>
+
+							<typ>S</typ>
+                			<stpid>9016</stpid>
+                			<stpnm>Pulaski &amp; Wabansia</stpnm>
+                			<pdist>28413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.910437508084</lat>
+						<lon>-87.726398706436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.909966433166</lat>
+						<lon>-87.7263879776</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.90980275378</lat>
+						<lon>-87.726420164108</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.909583183212</lat>
+						<lon>-87.726489901543</lon>
+
+							<typ>S</typ>
+                			<stpid>9017</stpid>
+                			<stpnm>Pulaski &amp; North Ave</stpnm>
+                			<pdist>29258.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.909399541793</lat>
+						<lon>-87.726543545723</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.908145975388</lat>
+						<lon>-87.726500630379</lon>
+
+							<typ>S</typ>
+                			<stpid>9018</stpid>
+                			<stpnm>Pulaski &amp; Le Moyne</stpnm>
+                			<pdist>29705.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.906776605611</lat>
+						<lon>-87.726468443871</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.906077936245</lat>
+						<lon>-87.726446986198</lon>
+
+							<typ>S</typ>
+                			<stpid>9019</stpid>
+                			<stpnm>Pulaski &amp; Grand</stpnm>
+                			<pdist>30402.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.905395229079</lat>
+						<lon>-87.726404070854</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.90488818453</lat>
+						<lon>-87.726393342018</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.904409083618</lat>
+						<lon>-87.726404070854</lon>
+
+							<typ>S</typ>
+                			<stpid>9020</stpid>
+                			<stpnm>Pulaski &amp; Potomac</stpnm>
+                			<pdist>31048.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.90248066609</lat>
+						<lon>-87.726328969002</lon>
+
+							<typ>S</typ>
+                			<stpid>17429</stpid>
+                			<stpnm>Pulaski &amp; Division</stpnm>
+                			<pdist>31850.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.900759813697</lat>
+						<lon>-87.726296782494</lon>
+
+							<typ>S</typ>
+                			<stpid>9022</stpid>
+                			<stpnm>Pulaski &amp; Thomas</stpnm>
+                			<pdist>32380.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.898947079118</lat>
+						<lon>-87.726248502731</lon>
+
+							<typ>S</typ>
+                			<stpid>14626</stpid>
+                			<stpnm>Pulaski &amp; Augusta</stpnm>
+                			<pdist>33203.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.897282033077</lat>
+						<lon>-87.726210951805</lon>
+
+							<typ>S</typ>
+                			<stpid>9024</stpid>
+                			<stpnm>Pulaski &amp; Iowa</stpnm>
+                			<pdist>33687.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.895329441768</lat>
+						<lon>-87.726109027863</lon>
+
+							<typ>S</typ>
+                			<stpid>14627</stpid>
+                			<stpnm>Pulaski &amp; Chicago</stpnm>
+                			<pdist>34525.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.894107544448</lat>
+						<lon>-87.726082205772</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.892977468276</lat>
+						<lon>-87.726050019264</lon>
+
+							<typ>S</typ>
+                			<stpid>9027</stpid>
+                			<stpnm>Pulaski &amp; Erie</stpnm>
+                			<pdist>35206.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

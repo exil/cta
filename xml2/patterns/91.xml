@@ -1,0 +1,1998 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>2945</pid>
+				<ln>43287.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.969769119605</lat>
+						<lon>-87.761723399162</lon>
+
+							<typ>S</typ>
+                			<stpid>14103</stpid>
+                			<stpnm>Jefferson Park Transit Center</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.969553743867</lat>
+						<lon>-87.762243747711</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.969019289814</lat>
+						<lon>-87.761798501015</lon>
+
+							<typ>S</typ>
+                			<stpid>3725</stpid>
+                			<stpnm>Milwaukee &amp; Higgins</stpnm>
+                			<pdist>423.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.968006207885</lat>
+						<lon>-87.760918736458</lon>
+
+							<typ>S</typ>
+                			<stpid>17174</stpid>
+                			<stpnm>Lawrence &amp; Milwaukee</stpnm>
+                			<pdist>948.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.967894528577</lat>
+						<lon>-87.760827541351</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.96762729515</lat>
+						<lon>-87.761524915695</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.967683135063</lat>
+						<lon>-87.762399315834</lon>
+
+							<typ>S</typ>
+                			<stpid>9684</stpid>
+                			<stpnm>Lawrence &amp; Long</stpnm>
+                			<pdist>1290.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.967798803299</lat>
+						<lon>-87.764067649841</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.967834700295</lat>
+						<lon>-87.764877676964</lon>
+
+							<typ>S</typ>
+                			<stpid>9685</stpid>
+                			<stpnm>Lawrence &amp; Linder</stpnm>
+                			<pdist>1904.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.967830711741</lat>
+						<lon>-87.766224145889</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.967826723187</lat>
+						<lon>-87.767227292061</lon>
+
+							<typ>S</typ>
+                			<stpid>9686</stpid>
+                			<stpnm>Lawrence &amp; Central</stpnm>
+                			<pdist>2602.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.967786837629</lat>
+						<lon>-87.770022153854</lon>
+
+							<typ>S</typ>
+                			<stpid>9687</stpid>
+                			<stpnm>Lawrence &amp; Major</stpnm>
+                			<pdist>3340.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.967750940606</lat>
+						<lon>-87.772672176361</lon>
+
+							<typ>S</typ>
+                			<stpid>9688</stpid>
+                			<stpnm>Lawrence &amp; Menard</stpnm>
+                			<pdist>4054.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.967711055002</lat>
+						<lon>-87.774737477303</lon>
+
+							<typ>S</typ>
+                			<stpid>9689</stpid>
+                			<stpnm>Lawrence &amp; Marmora</stpnm>
+                			<pdist>4629.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.967699089315</lat>
+						<lon>-87.777323126793</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.967403935009</lat>
+						<lon>-87.777307033539</lon>
+
+							<typ>S</typ>
+                			<stpid>9556</stpid>
+                			<stpnm>Austin &amp; Lawrence</stpnm>
+                			<pdist>5423.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.965908199594</lat>
+						<lon>-87.777242660522</lon>
+
+							<typ>S</typ>
+                			<stpid>9557</stpid>
+                			<stpnm>Austin &amp; Leland</stpnm>
+                			<pdist>5998.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.964986809099</lat>
+						<lon>-87.77719438076</lon>
+
+							<typ>S</typ>
+                			<stpid>9558</stpid>
+                			<stpnm>Austin &amp; Eastwood</stpnm>
+                			<pdist>6266.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.964053438909</lat>
+						<lon>-87.777178287506</lon>
+
+							<typ>S</typ>
+                			<stpid>9559</stpid>
+                			<stpnm>Austin &amp; Wilson</stpnm>
+                			<pdist>6672.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.96229036902</lat>
+						<lon>-87.777124643326</lon>
+
+							<typ>S</typ>
+                			<stpid>9560</stpid>
+                			<stpnm>Austin &amp; Sunnyside</stpnm>
+                			<pdist>7274.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.960535228368</lat>
+						<lon>-87.777070999146</lon>
+
+							<typ>S</typ>
+                			<stpid>9561</stpid>
+                			<stpnm>Austin &amp; Montrose</stpnm>
+                			<pdist>7925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.958708235156</lat>
+						<lon>-87.776995897293</lon>
+
+							<typ>S</typ>
+                			<stpid>9562</stpid>
+                			<stpnm>Austin &amp; Cullom</stpnm>
+                			<pdist>8598.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.956821350939</lat>
+						<lon>-87.776926159859</lon>
+
+							<typ>S</typ>
+                			<stpid>9563</stpid>
+                			<stpnm>Austin &amp; Berteau</stpnm>
+                			<pdist>9262.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.955026166105</lat>
+						<lon>-87.776872515678</lon>
+
+							<typ>S</typ>
+                			<stpid>9564</stpid>
+                			<stpnm>Austin &amp; Belle Plaine</stpnm>
+                			<pdist>9934.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.953274814839</lat>
+						<lon>-87.776824235916</lon>
+
+							<typ>S</typ>
+                			<stpid>9565</stpid>
+                			<stpnm>Austin &amp; Irving Park</stpnm>
+                			<pdist>10581.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.952145786121</lat>
+						<lon>-87.77681350708</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.951319946797</lat>
+						<lon>-87.776770591736</lon>
+
+							<typ>S</typ>
+                			<stpid>9566</stpid>
+                			<stpnm>Austin &amp; Byron</stpnm>
+                			<pdist>11270.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.949524607007</lat>
+						<lon>-87.776706218719</lon>
+
+							<typ>S</typ>
+                			<stpid>9567</stpid>
+                			<stpnm>Austin &amp; Grace</stpnm>
+                			<pdist>11928.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.947689318513</lat>
+						<lon>-87.776625752449</lon>
+
+							<typ>S</typ>
+                			<stpid>9568</stpid>
+                			<stpnm>Austin &amp; Waveland</stpnm>
+                			<pdist>12596.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.945961705199</lat>
+						<lon>-87.776566743851</lon>
+
+							<typ>S</typ>
+                			<stpid>9569</stpid>
+                			<stpnm>Austin &amp; Addison</stpnm>
+                			<pdist>13263.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.944062473493</lat>
+						<lon>-87.77648627758</lon>
+
+							<typ>S</typ>
+                			<stpid>16006</stpid>
+                			<stpnm>Austin &amp; Cornelia</stpnm>
+                			<pdist>14081.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.94225096869</lat>
+						<lon>-87.77640581131</lon>
+
+							<typ>S</typ>
+                			<stpid>9571</stpid>
+                			<stpnm>Austin &amp; Roscoe</stpnm>
+                			<pdist>14588.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.940427441613</lat>
+						<lon>-87.776325345039</lon>
+
+							<typ>S</typ>
+                			<stpid>9572</stpid>
+                			<stpnm>Austin &amp; School</stpnm>
+                			<pdist>15264.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.938651746972</lat>
+						<lon>-87.776239514351</lon>
+
+							<typ>S</typ>
+                			<stpid>9573</stpid>
+                			<stpnm>Austin &amp; Belmont</stpnm>
+                			<pdist>16099.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.936740326023</lat>
+						<lon>-87.776201963425</lon>
+
+							<typ>S</typ>
+                			<stpid>9574</stpid>
+                			<stpnm>Austin &amp; Barry</stpnm>
+                			<pdist>16602.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.935698796968</lat>
+						<lon>-87.776175141335</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.934896688285</lat>
+						<lon>-87.776126861572</lon>
+
+							<typ>S</typ>
+                			<stpid>9575</stpid>
+                			<stpnm>Austin &amp; Wellington</stpnm>
+                			<pdist>17274.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.933100886006</lat>
+						<lon>-87.776067852974</lon>
+
+							<typ>S</typ>
+                			<stpid>9576</stpid>
+                			<stpnm>Austin &amp; George</stpnm>
+                			<pdist>17934.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.931388840754</lat>
+						<lon>-87.776003479958</lon>
+
+							<typ>S</typ>
+                			<stpid>9577</stpid>
+                			<stpnm>Austin &amp; Diversey</stpnm>
+                			<pdist>18605.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.9294253197</lat>
+						<lon>-87.775933742523</lon>
+
+							<typ>S</typ>
+                			<stpid>9578</stpid>
+                			<stpnm>Austin &amp; Schubert</stpnm>
+                			<pdist>19265.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.927593443733</lat>
+						<lon>-87.775901556015</lon>
+
+							<typ>S</typ>
+                			<stpid>9579</stpid>
+                			<stpnm>Austin &amp; Wrightwood</stpnm>
+                			<pdist>19937.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.925725594469</lat>
+						<lon>-87.775831818581</lon>
+
+							<typ>S</typ>
+                			<stpid>9580</stpid>
+                			<stpnm>Austin &amp; Altgeld</stpnm>
+                			<pdist>20602.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.924041290339</lat>
+						<lon>-87.775756716728</lon>
+
+							<typ>S</typ>
+                			<stpid>9581</stpid>
+                			<stpnm>Austin &amp; Fullerton</stpnm>
+                			<pdist>21256.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.922113465877</lat>
+						<lon>-87.775681614876</lon>
+
+							<typ>S</typ>
+                			<stpid>9582</stpid>
+                			<stpnm>Austin &amp; Belden</stpnm>
+                			<pdist>21940.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.921071697981</lat>
+						<lon>-87.775660157204</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.920700489219</lat>
+						<lon>-87.775649428368</lon>
+
+							<typ>S</typ>
+                			<stpid>9583</stpid>
+                			<stpnm>Austin &amp; Grand</stpnm>
+                			<pdist>22451.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.920189574702</lat>
+						<lon>-87.775627970695</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.917750699824</lat>
+						<lon>-87.775542140007</lon>
+
+							<typ>S</typ>
+                			<stpid>9584</stpid>
+                			<stpnm>Austin &amp; Dickens</stpnm>
+                			<pdist>23604.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.91483270905</lat>
+						<lon>-87.775418758392</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.914373642268</lat>
+						<lon>-87.775418758392</lon>
+
+							<typ>S</typ>
+                			<stpid>9585</stpid>
+                			<stpnm>Austin &amp; Cortland</stpnm>
+                			<pdist>24778.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.913024366005</lat>
+						<lon>-87.775381207466</lon>
+
+							<typ>S</typ>
+                			<stpid>9586</stpid>
+                			<stpnm>Austin &amp; Bloomingdale</stpnm>
+                			<pdist>25271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.911164074446</lat>
+						<lon>-87.775311470032</lon>
+
+							<typ>S</typ>
+                			<stpid>9587</stpid>
+                			<stpnm>Austin &amp; Wabansia</stpnm>
+                			<pdist>25927.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.909850659985</lat>
+						<lon>-87.775268554688</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.909635081778</lat>
+						<lon>-87.775311470032</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.909343650821</lat>
+						<lon>-87.775493860245</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.909120086446</lat>
+						<lon>-87.775633335114</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.908956404889</lat>
+						<lon>-87.775638699532</lon>
+
+							<typ>S</typ>
+                			<stpid>9589</stpid>
+                			<stpnm>Austin &amp; North Ave</stpnm>
+                			<pdist>26757.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.907363481969</lat>
+						<lon>-87.775579690933</lon>
+
+							<typ>S</typ>
+                			<stpid>9590</stpid>
+                			<stpnm>Austin &amp; Le Moyne</stpnm>
+                			<pdist>27429.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.905610821604</lat>
+						<lon>-87.775515317917</lon>
+
+							<typ>S</typ>
+                			<stpid>9591</stpid>
+                			<stpnm>Austin &amp; Greenfield/Hirsch</stpnm>
+                			<pdist>27946.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.90370240321</lat>
+						<lon>-87.775456309319</lon>
+
+							<typ>S</typ>
+                			<stpid>9592</stpid>
+                			<stpnm>Austin &amp; Berkshire/Potomac</stpnm>
+                			<pdist>28719.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.901809898515</lat>
+						<lon>-87.775386571884</lon>
+
+							<typ>S</typ>
+                			<stpid>9593</stpid>
+                			<stpnm>Austin &amp; Division</stpnm>
+                			<pdist>29421.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.900360537372</lat>
+						<lon>-87.775349020958</lon>
+
+							<typ>S</typ>
+                			<stpid>15828</stpid>
+                			<stpnm>Austin &amp; Thomas</stpnm>
+                			<pdist>29938.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.898204402075</lat>
+						<lon>-87.775284647942</lon>
+
+							<typ>S</typ>
+                			<stpid>9595</stpid>
+                			<stpnm>Austin &amp; Augusta</stpnm>
+                			<pdist>30735.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.896471455384</lat>
+						<lon>-87.775241732597</lon>
+
+							<typ>S</typ>
+                			<stpid>9596</stpid>
+                			<stpnm>Austin &amp; Iowa</stpnm>
+                			<pdist>31390.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.89481033792</lat>
+						<lon>-87.775177359581</lon>
+
+							<typ>S</typ>
+                			<stpid>15167</stpid>
+                			<stpnm>Austin &amp; Chicago</stpnm>
+                			<pdist>31904.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.892909583205</lat>
+						<lon>-87.775102257729</lon>
+
+							<typ>S</typ>
+                			<stpid>9598</stpid>
+                			<stpnm>Austin &amp; Superior</stpnm>
+                			<pdist>32555.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.891679652954</lat>
+						<lon>-87.775075435638</lon>
+
+							<typ>S</typ>
+                			<stpid>9600</stpid>
+                			<stpnm>Austin &amp; Erie</stpnm>
+                			<pdist>33022.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.890365837662</lat>
+						<lon>-87.775027155876</lon>
+
+							<typ>S</typ>
+                			<stpid>9599</stpid>
+                			<stpnm>Austin &amp; Ontario</stpnm>
+                			<pdist>33479.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.88809754584</lat>
+						<lon>-87.774952054024</lon>
+
+							<typ>S</typ>
+                			<stpid>9602</stpid>
+                			<stpnm>Austin &amp; Lake</stpnm>
+                			<pdist>34283.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.886943401656</lat>
+						<lon>-87.774903774261</lon>
+
+							<typ>S</typ>
+                			<stpid>9603</stpid>
+                			<stpnm>Austin &amp; Corcoran/South Blvd (Green Line)</stpnm>
+                			<pdist>34764.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.885477728299</lat>
+						<lon>-87.774844765663</lon>
+
+							<typ>S</typ>
+                			<stpid>9604</stpid>
+                			<stpnm>Austin &amp; Fulton/Pleasant</stpnm>
+                			<pdist>35378.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.883856263013</lat>
+						<lon>-87.774812579155</lon>
+
+							<typ>S</typ>
+                			<stpid>9605</stpid>
+                			<stpnm>Austin &amp; West End/Randolph</stpnm>
+                			<pdist>35870.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.881887285559</lat>
+						<lon>-87.774742841721</lon>
+
+							<typ>S</typ>
+                			<stpid>9606</stpid>
+                			<stpnm>Austin &amp; Washington</stpnm>
+                			<pdist>36593.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.879906265267</lat>
+						<lon>-87.77468919754</lon>
+
+							<typ>S</typ>
+                			<stpid>9607</stpid>
+                			<stpnm>Austin &amp; Madison</stpnm>
+                			<pdist>37368.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.877725474336</lat>
+						<lon>-87.774630188942</lon>
+
+							<typ>S</typ>
+                			<stpid>9608</stpid>
+                			<stpnm>Austin &amp; Adams</stpnm>
+                			<pdist>38137.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.876682982051</lat>
+						<lon>-87.77458190918</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.876331486566</lat>
+						<lon>-87.774571180344</lon>
+
+							<typ>S</typ>
+                			<stpid>9609</stpid>
+                			<stpnm>Austin &amp; Jackson</stpnm>
+                			<pdist>38684.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.874757721714</lat>
+						<lon>-87.774501442909</lon>
+
+							<typ>S</typ>
+                			<stpid>9610</stpid>
+                			<stpnm>Austin &amp; Van Buren</stpnm>
+                			<pdist>39289.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.872716562876</lat>
+						<lon>-87.774420976639</lon>
+
+							<typ>S</typ>
+                			<stpid>9611</stpid>
+                			<stpnm>Austin &amp; Harrison</stpnm>
+                			<pdist>39879.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.871921651681</lat>
+						<lon>-87.774394154549</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.871102762978</lat>
+						<lon>-87.774372696877</lon>
+
+							<typ>S</typ>
+                			<stpid>9612</stpid>
+                			<stpnm>Austin Blue Line Station</stpnm>
+                			<pdist>40645.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.869165350374</lat>
+						<lon>-87.774297595024</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.868917676901</lat>
+						<lon>-87.774292230606</lon>
+
+							<typ>S</typ>
+                			<stpid>9613</stpid>
+                			<stpnm>Austin &amp; Harvard/Arthington</stpnm>
+                			<pdist>41355.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.867447595245</lat>
+						<lon>-87.774233222008</lon>
+
+							<typ>S</typ>
+                			<stpid>9614</stpid>
+                			<stpnm>Fillmore &amp; Austin</stpnm>
+                			<pdist>42009.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.867275817194</lat>
+						<lon>-87.774222493172</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.867291796567</lat>
+						<lon>-87.77313888073</lon>
+
+							<typ>S</typ>
+                			<stpid>9615</stpid>
+                			<stpnm>Fillmore &amp; Mason</stpnm>
+                			<pdist>42211.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.86729579141</lat>
+						<lon>-87.773015499115</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.865550021391</lat>
+						<lon>-87.772929668427</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.86554602644</lat>
+						<lon>-87.773010134697</lon>
+
+							<typ>S</typ>
+                			<stpid>9616</stpid>
+                			<stpnm>Mason &amp; Roosevelt</stpnm>
+                			<pdist>42824.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.865514066817</lat>
+						<lon>-87.774083018303</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.86563391532</lat>
+						<lon>-87.774088382721</lon>
+
+							<typ>S</typ>
+                			<stpid>9617</stpid>
+                			<stpnm>Austin &amp; Roosevelt</stpnm>
+                			<pdist>43287.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>2946</pid>
+				<ln>42893.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.86563391532</lat>
+						<lon>-87.774088382721</lon>
+
+							<typ>S</typ>
+                			<stpid>9617</stpid>
+                			<stpnm>Austin &amp; Roosevelt</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.867223884204</lat>
+						<lon>-87.774131298065</lon>
+
+							<typ>S</typ>
+                			<stpid>9618</stpid>
+                			<stpnm>Austin &amp; Fillmore</stpnm>
+                			<pdist>622.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.869193313448</lat>
+						<lon>-87.774222493172</lon>
+
+							<typ>S</typ>
+                			<stpid>9619</stpid>
+                			<stpnm>Austin &amp; Harvard/Arthington</stpnm>
+                			<pdist>1281.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.870279869128</lat>
+						<lon>-87.774243950844</lon>
+
+							<typ>S</typ>
+                			<stpid>9620</stpid>
+                			<stpnm>Austin &amp; Railroad Ave (Blue Line)</stpnm>
+                			<pdist>1612.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.871050833097</lat>
+						<lon>-87.774286866188</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.872556782525</lat>
+						<lon>-87.774329781532</lon>
+
+							<typ>S</typ>
+                			<stpid>9621</stpid>
+                			<stpnm>Austin &amp; Harrison</stpnm>
+                			<pdist>2599.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.874498086732</lat>
+						<lon>-87.774415612221</lon>
+
+							<typ>S</typ>
+                			<stpid>9622</stpid>
+                			<stpnm>Austin &amp; Van Buren</stpnm>
+                			<pdist>3247.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.876299532335</lat>
+						<lon>-87.774485349655</lon>
+
+							<typ>S</typ>
+                			<stpid>9623</stpid>
+                			<stpnm>Austin &amp; Jackson</stpnm>
+                			<pdist>3972.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.877821334842</lat>
+						<lon>-87.774544358253</lon>
+
+							<typ>S</typ>
+                			<stpid>9624</stpid>
+                			<stpnm>Austin &amp; Adams</stpnm>
+                			<pdist>4403.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.880269723187</lat>
+						<lon>-87.774614095688</lon>
+
+							<typ>S</typ>
+                			<stpid>9625</stpid>
+                			<stpnm>Austin &amp; Madison</stpnm>
+                			<pdist>5327.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.882210793119</lat>
+						<lon>-87.774673104286</lon>
+
+							<typ>S</typ>
+                			<stpid>9626</stpid>
+                			<stpnm>Austin &amp; Washington</stpnm>
+                			<pdist>6033.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.883976077127</lat>
+						<lon>-87.774732112885</lon>
+
+							<typ>S</typ>
+                			<stpid>9627</stpid>
+                			<stpnm>Austin &amp; West End/Randolph</stpnm>
+                			<pdist>6776.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.885685400683</lat>
+						<lon>-87.774758934975</lon>
+
+							<typ>S</typ>
+                			<stpid>9628</stpid>
+                			<stpnm>Austin &amp; Fulton/Pleasant</stpnm>
+                			<pdist>7297.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.886967363339</lat>
+						<lon>-87.774823307991</lon>
+
+							<typ>S</typ>
+                			<stpid>9629</stpid>
+                			<stpnm>Austin &amp; Corcoran/South Blvd (Green Line)</stpnm>
+                			<pdist>7706.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.888133487712</lat>
+						<lon>-87.774866223335</lon>
+
+							<typ>S</typ>
+                			<stpid>9630</stpid>
+                			<stpnm>Austin &amp; Lake</stpnm>
+                			<pdist>8231.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.890349864057</lat>
+						<lon>-87.774946689606</lon>
+
+							<typ>S</typ>
+                			<stpid>15961</stpid>
+                			<stpnm>Austin &amp; Ontario</stpnm>
+                			<pdist>8974.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.891787472462</lat>
+						<lon>-87.774994969368</lon>
+
+							<typ>S</typ>
+                			<stpid>9632</stpid>
+                			<stpnm>Austin &amp; Erie</stpnm>
+                			<pdist>9471.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.892725893828</lat>
+						<lon>-87.775011062622</lon>
+
+							<typ>S</typ>
+                			<stpid>9633</stpid>
+                			<stpnm>Austin &amp; Huron</stpnm>
+                			<pdist>9971.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.894942110835</lat>
+						<lon>-87.775102257729</lon>
+
+							<typ>S</typ>
+                			<stpid>9634</stpid>
+                			<stpnm>Austin &amp; Chicago</stpnm>
+                			<pdist>10634.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.896643154966</lat>
+						<lon>-87.775155901909</lon>
+
+							<typ>S</typ>
+                			<stpid>9635</stpid>
+                			<stpnm>Austin &amp; Iowa</stpnm>
+                			<pdist>11342.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.89852782701</lat>
+						<lon>-87.775204181671</lon>
+
+							<typ>S</typ>
+                			<stpid>9636</stpid>
+                			<stpnm>Austin &amp; Augusta</stpnm>
+                			<pdist>11959.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.900093020837</lat>
+						<lon>-87.775252461433</lon>
+
+							<typ>S</typ>
+                			<stpid>9637</stpid>
+                			<stpnm>Austin &amp; Thomas</stpnm>
+                			<pdist>12671.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.901901730206</lat>
+						<lon>-87.775300741196</lon>
+
+							<typ>S</typ>
+                			<stpid>9638</stpid>
+                			<stpnm>Austin &amp; Division</stpnm>
+                			<pdist>13174.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.903945949319</lat>
+						<lon>-87.77537047863</lon>
+
+							<typ>S</typ>
+                			<stpid>9639</stpid>
+                			<stpnm>Austin &amp; Berkshire/Potomac</stpnm>
+                			<pdist>13974.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.905726602475</lat>
+						<lon>-87.775429487228</lon>
+
+							<typ>S</typ>
+                			<stpid>9640</stpid>
+                			<stpnm>Austin &amp; Greenfield/Hirsch</stpnm>
+                			<pdist>14614.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.907575075523</lat>
+						<lon>-87.775509953499</lon>
+
+							<typ>S</typ>
+                			<stpid>9641</stpid>
+                			<stpnm>Austin &amp; Le Moyne</stpnm>
+                			<pdist>15314.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.908940435934</lat>
+						<lon>-87.775552868843</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.909108109761</lat>
+						<lon>-87.775542140007</lon>
+
+							<typ>S</typ>
+                			<stpid>9642</stpid>
+                			<stpnm>Austin &amp; North Ave</stpnm>
+                			<pdist>15811.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.909243845393</lat>
+						<lon>-87.775461673737</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.909627097386</lat>
+						<lon>-87.775236368179</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.909898566155</lat>
+						<lon>-87.775166630745</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.910960477013</lat>
+						<lon>-87.775220274925</lon>
+
+							<typ>S</typ>
+                			<stpid>9643</stpid>
+                			<stpnm>Austin &amp; Wabansia</stpnm>
+                			<pdist>16517.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.912760894531</lat>
+						<lon>-87.775284647942</lon>
+
+							<typ>S</typ>
+                			<stpid>9644</stpid>
+                			<stpnm>Austin &amp; Bloomingdale</stpnm>
+                			<pdist>17167.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.914158079336</lat>
+						<lon>-87.775338292122</lon>
+
+							<typ>S</typ>
+                			<stpid>9645</stpid>
+                			<stpnm>Austin &amp; Cortland</stpnm>
+                			<pdist>17663.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.914932505739</lat>
+						<lon>-87.775332927704</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.917798600064</lat>
+						<lon>-87.775461673737</lon>
+
+							<typ>S</typ>
+                			<stpid>9646</stpid>
+                			<stpnm>Austin &amp; Dickens</stpnm>
+                			<pdist>18995.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.920449023991</lat>
+						<lon>-87.775558233261</lon>
+
+							<typ>S</typ>
+                			<stpid>9647</stpid>
+                			<stpnm>Austin &amp; Grand</stpnm>
+                			<pdist>20087.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.921925869082</lat>
+						<lon>-87.775595784187</lon>
+
+							<typ>S</typ>
+                			<stpid>9648</stpid>
+                			<stpnm>Austin &amp; Belden</stpnm>
+                			<pdist>20513.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.923690055439</lat>
+						<lon>-87.775660157204</lon>
+
+							<typ>S</typ>
+                			<stpid>9649</stpid>
+                			<stpnm>Austin &amp; Fullerton</stpnm>
+                			<pdist>21157.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.925541999496</lat>
+						<lon>-87.775729894638</lon>
+
+							<typ>S</typ>
+                			<stpid>9650</stpid>
+                			<stpnm>Austin &amp; Altgeld</stpnm>
+                			<pdist>21842.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.927381916541</lat>
+						<lon>-87.775821089745</lon>
+
+							<typ>S</typ>
+                			<stpid>9651</stpid>
+                			<stpnm>Austin &amp; Wrightwood</stpnm>
+                			<pdist>22515.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.929185861778</lat>
+						<lon>-87.775842547417</lon>
+
+							<typ>S</typ>
+                			<stpid>9652</stpid>
+                			<stpnm>Austin &amp; Schubert</stpnm>
+                			<pdist>23175.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.931017692017</lat>
+						<lon>-87.775906920433</lon>
+
+							<typ>S</typ>
+                			<stpid>9653</stpid>
+                			<stpnm>Austin &amp; Diversey</stpnm>
+                			<pdist>23852.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.932825525185</lat>
+						<lon>-87.775965929031</lon>
+
+							<typ>S</typ>
+                			<stpid>9654</stpid>
+                			<stpnm>Austin &amp; George</stpnm>
+                			<pdist>24519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.935064293918</lat>
+						<lon>-87.776057124138</lon>
+
+							<typ>S</typ>
+                			<stpid>15539</stpid>
+                			<stpnm>Austin &amp; Wellington</stpnm>
+                			<pdist>25326.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.936512867107</lat>
+						<lon>-87.776110768318</lon>
+
+							<typ>S</typ>
+                			<stpid>9656</stpid>
+                			<stpnm>Austin &amp; Barry</stpnm>
+                			<pdist>25853.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.938544006605</lat>
+						<lon>-87.776153683662</lon>
+
+							<typ>S</typ>
+                			<stpid>9657</stpid>
+                			<stpnm>Austin &amp; Belmont</stpnm>
+                			<pdist>26683.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.939362030762</lat>
+						<lon>-87.776180505753</lon>
+
+							<typ>S</typ>
+                			<stpid>14568</stpid>
+                			<stpnm>Austin &amp; Melrose</stpnm>
+                			<pdist>26991.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.94017605414</lat>
+						<lon>-87.776234149933</lon>
+
+							<typ>S</typ>
+                			<stpid>9658</stpid>
+                			<stpnm>Austin &amp; School</stpnm>
+                			<pdist>27174.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.941995598235</lat>
+						<lon>-87.776303887367</lon>
+
+							<typ>S</typ>
+                			<stpid>9659</stpid>
+                			<stpnm>Austin &amp; Roscoe</stpnm>
+                			<pdist>27850.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.943799130177</lat>
+						<lon>-87.776384353638</lon>
+
+							<typ>S</typ>
+                			<stpid>9660</stpid>
+                			<stpnm>Austin &amp; Cornelia</stpnm>
+                			<pdist>28510.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.945674430085</lat>
+						<lon>-87.77645945549</lon>
+
+							<typ>S</typ>
+                			<stpid>9661</stpid>
+                			<stpnm>Austin &amp; Addison</stpnm>
+                			<pdist>29178.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.947469878309</lat>
+						<lon>-87.776534557343</lon>
+
+							<typ>S</typ>
+                			<stpid>9662</stpid>
+                			<stpnm>Austin &amp; Waveland</stpnm>
+                			<pdist>29845.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.949297193692</lat>
+						<lon>-87.776609659195</lon>
+
+							<typ>S</typ>
+                			<stpid>9663</stpid>
+                			<stpnm>Austin &amp; Grace</stpnm>
+                			<pdist>30509.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.951076581477</lat>
+						<lon>-87.776668667793</lon>
+
+							<typ>S</typ>
+                			<stpid>9664</stpid>
+                			<stpnm>Austin &amp; Byron</stpnm>
+                			<pdist>31165.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.952153765192</lat>
+						<lon>-87.77673304081</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.952895814496</lat>
+						<lon>-87.776738405228</lon>
+
+							<typ>S</typ>
+                			<stpid>9665</stpid>
+                			<stpnm>Austin &amp; Irving Park</stpnm>
+                			<pdist>31811.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.954766857449</lat>
+						<lon>-87.77678668499</lon>
+
+							<typ>S</typ>
+                			<stpid>9666</stpid>
+                			<stpnm>Austin &amp; Belle Plaine</stpnm>
+                			<pdist>32499.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.956558060328</lat>
+						<lon>-87.77684032917</lon>
+
+							<typ>S</typ>
+                			<stpid>9667</stpid>
+                			<stpnm>Austin &amp; Berteau</stpnm>
+                			<pdist>33153.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.958413039197</lat>
+						<lon>-87.776899337769</lon>
+
+							<typ>S</typ>
+                			<stpid>9668</stpid>
+                			<stpnm>Austin &amp; Cullom</stpnm>
+                			<pdist>33836.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.960244029902</lat>
+						<lon>-87.776979804039</lon>
+
+							<typ>S</typ>
+                			<stpid>9669</stpid>
+                			<stpnm>Austin &amp; Montrose</stpnm>
+                			<pdist>34507.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.962066990167</lat>
+						<lon>-87.777033448219</lon>
+
+							<typ>S</typ>
+                			<stpid>9670</stpid>
+                			<stpnm>Austin &amp; Sunnyside</stpnm>
+                			<pdist>35171.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.963877931876</lat>
+						<lon>-87.777097821236</lon>
+
+							<typ>S</typ>
+                			<stpid>9671</stpid>
+                			<stpnm>Austin &amp; Wilson</stpnm>
+                			<pdist>35851.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.964823270866</lat>
+						<lon>-87.777108550072</lon>
+
+							<typ>S</typ>
+                			<stpid>9672</stpid>
+                			<stpnm>Austin &amp; Eastwood</stpnm>
+                			<pdist>36115.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.965744663725</lat>
+						<lon>-87.777151465416</lon>
+
+							<typ>S</typ>
+                			<stpid>9673</stpid>
+                			<stpnm>Austin &amp; Leland</stpnm>
+                			<pdist>36508.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.967635272284</lat>
+						<lon>-87.777226567268</lon>
+
+							<typ>S</typ>
+                			<stpid>9674</stpid>
+                			<stpnm>Austin &amp; Lawrence</stpnm>
+                			<pdist>37159.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.967635272284</lat>
+						<lon>-87.776722311974</lon>
+
+							<typ>S</typ>
+                			<stpid>9675</stpid>
+                			<stpnm>Lawrence &amp; Austin/Mason</stpnm>
+                			<pdist>37378.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.967651226548</lat>
+						<lon>-87.774952054024</lon>
+
+							<typ>S</typ>
+                			<stpid>9676</stpid>
+                			<stpnm>Lawrence &amp; Marmora</stpnm>
+                			<pdist>37859.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.96769111219</lat>
+						<lon>-87.772618532181</lon>
+
+							<typ>S</typ>
+                			<stpid>9677</stpid>
+                			<stpnm>Lawrence &amp; Menard</stpnm>
+                			<pdist>38532.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.967723020686</lat>
+						<lon>-87.770027518272</lon>
+
+							<typ>S</typ>
+                			<stpid>9678</stpid>
+                			<stpnm>Lawrence &amp; Major</stpnm>
+                			<pdist>39200.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.967754929166</lat>
+						<lon>-87.767742276192</lon>
+
+							<typ>S</typ>
+                			<stpid>9679</stpid>
+                			<stpnm>Lawrence &amp; Central</stpnm>
+                			<pdist>39864.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.967774871957</lat>
+						<lon>-87.766202688217</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.967778860515</lat>
+						<lon>-87.7652156353</lon>
+
+							<typ>S</typ>
+                			<stpid>9680</stpid>
+                			<stpnm>Lawrence &amp; Linder</stpnm>
+                			<pdist>40540.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.967762906283</lat>
+						<lon>-87.764636278152</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.967643249416</lat>
+						<lon>-87.762694358826</lon>
+
+							<typ>S</typ>
+                			<stpid>9681</stpid>
+                			<stpnm>Lawrence &amp; Long</stpnm>
+                			<pdist>41198.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.967559489476</lat>
+						<lon>-87.761503458023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.967878574374</lat>
+						<lon>-87.760698795319</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.968233554445</lat>
+						<lon>-87.760999202728</lon>
+
+							<typ>S</typ>
+                			<stpid>17064</stpid>
+                			<stpnm>Milwaukee &amp; Ainslie</stpnm>
+                			<pdist>41917.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.969282528937</lat>
+						<lon>-87.761900424957</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.969442067271</lat>
+						<lon>-87.761401534081</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.969645478067</lat>
+						<lon>-87.761063575745</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.969936633566</lat>
+						<lon>-87.76132106781</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.969769119605</lat>
+						<lon>-87.761739492416</lon>
+
+							<typ>S</typ>
+                			<stpid>14104</stpid>
+                			<stpnm>Jefferson Park Transit Center</stpnm>
+                			<pdist>42893.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

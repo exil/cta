@@ -1,0 +1,2466 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>1345</pid>
+				<ln>48567.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.84655520068</lat>
+						<lon>-87.744364142418</lon>
+
+							<typ>S</typ>
+                			<stpid>10269</stpid>
+                			<stpnm>Cicero &amp; 24th Place Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.846559196818</lat>
+						<lon>-87.744133472443</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.846467285577</lat>
+						<lon>-87.744138836861</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.846359389604</lat>
+						<lon>-87.744187116623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.845867861203</lat>
+						<lon>-87.744160294533</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.844872804342</lat>
+						<lon>-87.744128108025</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.843869739394</lat>
+						<lon>-87.744106650352</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.843182371067</lat>
+						<lon>-87.744117379189</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.843182371067</lat>
+						<lon>-87.744476795197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.843194360112</lat>
+						<lon>-87.744809389114</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.843238319927</lat>
+						<lon>-87.745050787926</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.843370199192</lat>
+						<lon>-87.745345830917</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.843498081855</lat>
+						<lon>-87.74550139904</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.843669923781</lat>
+						<lon>-87.745656967163</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.843809794776</lat>
+						<lon>-87.745200991631</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.843929683956</lat>
+						<lon>-87.744449973106</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.844001617357</lat>
+						<lon>-87.743071317673</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.844061561795</lat>
+						<lon>-87.742245197296</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.844073550676</lat>
+						<lon>-87.741698026657</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.844025595139</lat>
+						<lon>-87.741258144379</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.843957658066</lat>
+						<lon>-87.740839719772</lon>
+
+							<typ>S</typ>
+                			<stpid>6302</stpid>
+                			<stpnm>4631 W 26th Street</stpnm>
+                			<pdist>3206.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.843989628462</lat>
+						<lon>-87.740072607994</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.844029591435</lat>
+						<lon>-87.739471793175</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.844057565501</lat>
+						<lon>-87.737492322922</lon>
+
+							<typ>S</typ>
+                			<stpid>6303</stpid>
+                			<stpnm>4537 W 26th Street</stpnm>
+                			<pdist>4158.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.844117509887</lat>
+						<lon>-87.734466791153</lon>
+
+							<typ>S</typ>
+                			<stpid>6304</stpid>
+                			<stpnm>26th Street &amp; Kostner</stpnm>
+                			<pdist>4742.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.844161469068</lat>
+						<lon>-87.731940150261</lon>
+
+							<typ>S</typ>
+                			<stpid>6305</stpid>
+                			<stpnm>26th Street &amp; Kildare </stpnm>
+                			<pdist>5413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.844181450504</lat>
+						<lon>-87.729563713074</lon>
+
+							<typ>S</typ>
+                			<stpid>6306</stpid>
+                			<stpnm>26th Street &amp; Keeler</stpnm>
+                			<pdist>6071.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.844209424504</lat>
+						<lon>-87.72709608078</lon>
+
+							<typ>S</typ>
+                			<stpid>6307</stpid>
+                			<stpnm>26th Street &amp; Karlov </stpnm>
+                			<pdist>6739.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.844233402208</lat>
+						<lon>-87.724692821503</lon>
+
+							<typ>S</typ>
+                			<stpid>6308</stpid>
+                			<stpnm>26th Street &amp; Pulaski</stpnm>
+                			<pdist>7393.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.844269368748</lat>
+						<lon>-87.722230553627</lon>
+
+							<typ>S</typ>
+                			<stpid>6309</stpid>
+                			<stpnm>26th Street &amp; Springfield</stpnm>
+                			<pdist>8078.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.844301338988</lat>
+						<lon>-87.71980047226</lon>
+
+							<typ>S</typ>
+                			<stpid>6310</stpid>
+                			<stpnm>26th Street &amp; Hamlin</stpnm>
+                			<pdist>8750.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.844333309213</lat>
+						<lon>-87.717343568802</lon>
+
+							<typ>S</typ>
+                			<stpid>6311</stpid>
+                			<stpnm>26th Street &amp; Lawndale</stpnm>
+                			<pdist>9410.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.844353290595</lat>
+						<lon>-87.714875936508</lon>
+
+							<typ>S</typ>
+                			<stpid>6312</stpid>
+                			<stpnm>26th Street &amp; Central Park</stpnm>
+                			<pdist>10074.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.844397249614</lat>
+						<lon>-87.712472677231</lon>
+
+							<typ>S</typ>
+                			<stpid>6313</stpid>
+                			<stpnm>26th Street &amp; St. Louis</stpnm>
+                			<pdist>10746.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.844421227248</lat>
+						<lon>-87.711088657379</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.844433216061</lat>
+						<lon>-87.710015773773</lon>
+
+							<typ>S</typ>
+                			<stpid>6314</stpid>
+                			<stpnm>26th Street &amp; Homan</stpnm>
+                			<pdist>11411.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.844433216061</lat>
+						<lon>-87.709720730782</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.844453197412</lat>
+						<lon>-87.707591056824</lon>
+
+							<typ>S</typ>
+                			<stpid>6315</stpid>
+                			<stpnm>26th Street &amp; Spaulding</stpnm>
+                			<pdist>12075.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.844497156363</lat>
+						<lon>-87.704924941063</lon>
+
+							<typ>S</typ>
+                			<stpid>14970</stpid>
+                			<stpnm>26th Street &amp; Kedzie</stpnm>
+                			<pdist>12905.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.844525130224</lat>
+						<lon>-87.702677249908</lon>
+
+							<typ>S</typ>
+                			<stpid>6317</stpid>
+                			<stpnm>26th Street &amp; Albany</stpnm>
+                			<pdist>13422.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.844581077911</lat>
+						<lon>-87.700284719467</lon>
+
+							<typ>S</typ>
+                			<stpid>6318</stpid>
+                			<stpnm>26th Street &amp; Sacramento</stpnm>
+                			<pdist>14077.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.844581077911</lat>
+						<lon>-87.700080871582</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.844609051736</lat>
+						<lon>-87.698981165886</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.844661003093</lat>
+						<lon>-87.69534945488</lon>
+
+							<typ>S</typ>
+                			<stpid>6319</stpid>
+                			<stpnm>26th Street &amp; California Avenue</stpnm>
+                			<pdist>15427.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.844668995606</lat>
+						<lon>-87.694373130798</lon>
+
+							<typ>S</typ>
+                			<stpid>6320</stpid>
+                			<stpnm>26th Street &amp; California Boulevard</stpnm>
+                			<pdist>15738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.8447049619</lat>
+						<lon>-87.692801356316</lon>
+
+							<typ>S</typ>
+                			<stpid>6321</stpid>
+                			<stpnm>26th Street &amp; Washtenaw</stpnm>
+                			<pdist>16099.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.844740928175</lat>
+						<lon>-87.69107401371</lon>
+
+							<typ>S</typ>
+                			<stpid>6322</stpid>
+                			<stpnm>2623 W 26th Street</stpnm>
+                			<pdist>16505.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.844792879425</lat>
+						<lon>-87.68595635891</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.844788883176</lat>
+						<lon>-87.68562912941</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.84481685691</lat>
+						<lon>-87.685312628746</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.844936744204</lat>
+						<lon>-87.6850014925</lon>
+
+							<typ>S</typ>
+                			<stpid>6323</stpid>
+                			<stpnm>Blue Island &amp; Western</stpnm>
+                			<pdist>18320.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.845871857384</lat>
+						<lon>-87.682630419731</lon>
+
+							<typ>S</typ>
+                			<stpid>17115</stpid>
+                			<stpnm>Blue Island &amp; Oakley</stpnm>
+                			<pdist>18988.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.846563192956</lat>
+						<lon>-87.680715322495</lon>
+
+							<typ>S</typ>
+                			<stpid>6325</stpid>
+                			<stpnm>Blue Island &amp; Leavitt</stpnm>
+                			<pdist>19557.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.847738046677</lat>
+						<lon>-87.677700519562</lon>
+
+							<typ>S</typ>
+                			<stpid>17116</stpid>
+                			<stpnm>Blue Island &amp; Hoyne</stpnm>
+                			<pdist>20488.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.848409381973</lat>
+						<lon>-87.6760160923</lon>
+
+							<typ>S</typ>
+                			<stpid>16114</stpid>
+                			<stpnm>Blue Island &amp; Damen</stpnm>
+                			<pdist>21210.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.849380408063</lat>
+						<lon>-87.673521637917</lon>
+
+							<typ>S</typ>
+                			<stpid>6328</stpid>
+                			<stpnm>Blue Island &amp; Wolcott</stpnm>
+                			<pdist>21742.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.850455312759</lat>
+						<lon>-87.670694589615</lon>
+
+							<typ>S</typ>
+                			<stpid>15954</stpid>
+                			<stpnm>Blue Island &amp; Wood</stpnm>
+                			<pdist>22709.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.851250490855</lat>
+						<lon>-87.668613195419</lon>
+
+							<typ>S</typ>
+                			<stpid>6330</stpid>
+                			<stpnm>Blue Island &amp; Paulina</stpnm>
+                			<pdist>23247.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.852077625421</lat>
+						<lon>-87.666354775429</lon>
+
+							<typ>S</typ>
+                			<stpid>6331</stpid>
+                			<stpnm>Blue Island &amp; Ashland/Cermak</stpnm>
+                			<pdist>23962.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.852209486465</lat>
+						<lon>-87.665968537331</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.852317372571</lat>
+						<lon>-87.665963172913</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.852361326118</lat>
+						<lon>-87.663667201996</lon>
+
+							<typ>S</typ>
+                			<stpid>6938</stpid>
+                			<stpnm>Cermak &amp; Laflin</stpnm>
+                			<pdist>24636.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.852385300767</lat>
+						<lon>-87.661119103432</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.852657012829</lat>
+						<lon>-87.661119103432</lon>
+
+							<typ>S</typ>
+                			<stpid>17268</stpid>
+                			<stpnm>Loomis &amp; Cermak</stpnm>
+                			<pdist>25428.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.854994488038</lat>
+						<lon>-87.661188840866</lon>
+
+							<typ>S</typ>
+                			<stpid>17270</stpid>
+                			<stpnm>Loomis &amp; Cullerton</stpnm>
+                			<pdist>26272.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.856996257875</lat>
+						<lon>-87.661242485046</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.85765950512</lat>
+						<lon>-87.661280035973</lon>
+
+							<typ>S</typ>
+                			<stpid>13193</stpid>
+                			<stpnm>Loomis &amp; Blue Island</stpnm>
+                			<pdist>27166.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.858306763871</lat>
+						<lon>-87.660727500916</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.859637219621</lat>
+						<lon>-87.659627795219</lon>
+
+							<typ>S</typ>
+                			<stpid>6337</stpid>
+                			<stpnm>Blue Island &amp; 16th Street</stpnm>
+                			<pdist>28046.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.860536160539</lat>
+						<lon>-87.658882141113</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.861514992945</lat>
+						<lon>-87.658007740974</lon>
+
+							<typ>S</typ>
+                			<stpid>6339</stpid>
+                			<stpnm>Blue Island &amp; 15th Street</stpnm>
+                			<pdist>28864.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.862441873492</lat>
+						<lon>-87.657213807106</lon>
+
+							<typ>S</typ>
+                			<stpid>6340</stpid>
+                			<stpnm>Blue Island &amp; 14th Place</stpnm>
+                			<pdist>29260.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.863228912374</lat>
+						<lon>-87.656532526016</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.863680356701</lat>
+						<lon>-87.656543254852</lon>
+
+							<typ>S</typ>
+                			<stpid>6341</stpid>
+                			<stpnm>Racine &amp; 14th Street</stpnm>
+                			<pdist>29823.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.865110575204</lat>
+						<lon>-87.65657544136</lon>
+
+							<typ>S</typ>
+                			<stpid>6342</stpid>
+                			<stpnm>Racine &amp; 13th Street</stpnm>
+                			<pdist>30258.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.867255842972</lat>
+						<lon>-87.656655907631</lon>
+
+							<typ>S</typ>
+                			<stpid>15404</stpid>
+                			<stpnm>Racine &amp; Roosevelt</stpnm>
+                			<pdist>31113.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.869293181468</lat>
+						<lon>-87.656731009483</lon>
+
+							<typ>S</typ>
+                			<stpid>6344</stpid>
+                			<stpnm>Racine &amp; Taylor</stpnm>
+                			<pdist>31809.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.871482249291</lat>
+						<lon>-87.656790018082</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.871542167977</lat>
+						<lon>-87.656736373901</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.871689967161</lat>
+						<lon>-87.656725645065</lon>
+
+							<typ>S</typ>
+                			<stpid>15993</stpid>
+                			<stpnm>Racine &amp; Lexington</stpnm>
+                			<pdist>32773.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.872976205094</lat>
+						<lon>-87.656714916229</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.874074679731</lat>
+						<lon>-87.656720280647</lon>
+
+							<typ>S</typ>
+                			<stpid>6346</stpid>
+                			<stpnm>Racine &amp; Harrison</stpnm>
+                			<pdist>33497.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.874206495419</lat>
+						<lon>-87.656720280647</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.874246439513</lat>
+						<lon>-87.654349207878</lon>
+
+							<typ>S</typ>
+                			<stpid>199</stpid>
+                			<stpnm>1100 W Harrison</stpnm>
+                			<pdist>34184.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.874286383582</lat>
+						<lon>-87.651940584183</lon>
+
+							<typ>S</typ>
+                			<stpid>200</stpid>
+                			<stpnm>Harrison &amp; Morgan</stpnm>
+                			<pdist>34806.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.874346299639</lat>
+						<lon>-87.648807764053</lon>
+
+							<typ>S</typ>
+                			<stpid>201</stpid>
+                			<stpnm>900 W Harrison</stpnm>
+                			<pdist>35523.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.874342305237</lat>
+						<lon>-87.648276686668</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.874246439513</lat>
+						<lon>-87.647445201874</lon>
+
+							<typ>S</typ>
+                			<stpid>6347</stpid>
+                			<stpnm>Harrison &amp; Halsted</stpnm>
+                			<pdist>36024.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.874246439513</lat>
+						<lon>-87.64639377594</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.874302361203</lat>
+						<lon>-87.646222114563</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.874338310835</lat>
+						<lon>-87.644038796425</lon>
+
+							<typ>S</typ>
+                			<stpid>6348</stpid>
+                			<stpnm>Harrison &amp; Desplaines</stpnm>
+                			<pdist>36970.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.874350294041</lat>
+						<lon>-87.642638683319</lon>
+
+							<typ>S</typ>
+                			<stpid>6349</stpid>
+                			<stpnm>Harrison &amp; Jefferson</stpnm>
+                			<pdist>37373.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.874366271646</lat>
+						<lon>-87.641115188599</lon>
+
+							<typ>S</typ>
+                			<stpid>6350</stpid>
+                			<stpnm>Harrison &amp; Clinton</stpnm>
+                			<pdist>37780.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.874378254847</lat>
+						<lon>-87.639473676682</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.874653867848</lat>
+						<lon>-87.639489769936</lon>
+
+							<typ>S</typ>
+                			<stpid>14210</stpid>
+                			<stpnm>Canal &amp; Harrison</stpnm>
+                			<pdist>38376.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.876627062444</lat>
+						<lon>-87.639602422714</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.876934619677</lat>
+						<lon>-87.639548778534</lon>
+
+							<typ>S</typ>
+                			<stpid>6351</stpid>
+                			<stpnm>Canal &amp; Van Buren</stpnm>
+                			<pdist>39190.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.877102377543</lat>
+						<lon>-87.639516592026</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.877302088715</lat>
+						<lon>-87.639516592026</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.878033026282</lat>
+						<lon>-87.63950586319</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.879363071555</lat>
+						<lon>-87.63955950737</lon>
+
+							<typ>S</typ>
+                			<stpid>5009</stpid>
+                			<stpnm>Canal &amp; Adams</stpnm>
+                			<pdist>39942.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.880561286837</lat>
+						<lon>-87.639623880386</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.882134908777</lat>
+						<lon>-87.639656066895</lon>
+
+							<typ>S</typ>
+                			<stpid>5027</stpid>
+                			<stpnm>Canal &amp; Madison</stpnm>
+                			<pdist>41147.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.883161336722</lat>
+						<lon>-87.639736533165</lon>
+
+							<typ>S</typ>
+                			<stpid>5012</stpid>
+                			<stpnm>Canal &amp; Washington</stpnm>
+                			<pdist>41461.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.883181305974</lat>
+						<lon>-87.635498642921</lon>
+
+							<typ>S</typ>
+                			<stpid>445</stpid>
+                			<stpnm>Washington &amp; Franklin</stpnm>
+                			<pdist>42844.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.883161336722</lat>
+						<lon>-87.632617950439</lon>
+
+							<typ>S</typ>
+                			<stpid>446</stpid>
+                			<stpnm>Washington &amp; Lasalle</stpnm>
+                			<pdist>43435.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.883237219846</lat>
+						<lon>-87.629570960999</lon>
+
+							<typ>S</typ>
+                			<stpid>447</stpid>
+                			<stpnm>Washington &amp; Dearborn</stpnm>
+                			<pdist>44261.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.883221244459</lat>
+						<lon>-87.627494931221</lon>
+
+							<typ>S</typ>
+                			<stpid>448</stpid>
+                			<stpnm>Washington &amp; State</stpnm>
+                			<pdist>44884.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.883185299824</lat>
+						<lon>-87.625976800919</lon>
+
+							<typ>S</typ>
+                			<stpid>449</stpid>
+                			<stpnm>Washington &amp; Wabash</stpnm>
+                			<pdist>45382.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.883253195229</lat>
+						<lon>-87.624190449715</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.884347499452</lat>
+						<lon>-87.624308466911</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.884343505675</lat>
+						<lon>-87.62363255024</lon>
+
+							<typ>S</typ>
+                			<stpid>14482</stpid>
+                			<stpnm>Randolph &amp; Michigan</stpnm>
+                			<pdist>46223.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.884331524343</lat>
+						<lon>-87.623128294945</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.884255642519</lat>
+						<lon>-87.622833251953</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.884271617647</lat>
+						<lon>-87.620923519135</lon>
+
+							<typ>S</typ>
+                			<stpid>6353</stpid>
+                			<stpnm>Randolph &amp; Columbus</stpnm>
+                			<pdist>47073.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.884347499452</lat>
+						<lon>-87.617742419243</lon>
+
+							<typ>S</typ>
+                			<stpid>17436</stpid>
+                			<stpnm>Randolph &amp; Field Blvd</stpnm>
+                			<pdist>47937.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.884359480781</lat>
+						<lon>-87.615677118301</lon>
+
+							<typ>S</typ>
+                			<stpid>15416</stpid>
+                			<stpnm>Harbor Drive &amp; Randolph</stpnm>
+                			<pdist>48567.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1350</pid>
+				<ln>49324.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.884599106897</lat>
+						<lon>-87.615977525711</lon>
+
+							<typ>S</typ>
+                			<stpid>6355</stpid>
+                			<stpnm>Harbor Drive &amp; Randolph</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.884571150563</lat>
+						<lon>-87.61715233326</lon>
+
+							<typ>S</typ>
+                			<stpid>6357</stpid>
+                			<stpnm>Randolph &amp; Field Blvd</stpnm>
+                			<pdist>1079.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.884559169274</lat>
+						<lon>-87.620462179184</lon>
+
+							<typ>S</typ>
+                			<stpid>6359</stpid>
+                			<stpnm>Randolph &amp; Columbus</stpnm>
+                			<pdist>1979.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.884547187982</lat>
+						<lon>-87.622135877609</lon>
+
+							<typ>S</typ>
+                			<stpid>6360</stpid>
+                			<stpnm>Randolph &amp; Stetson</stpnm>
+                			<pdist>2472.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.884443350024</lat>
+						<lon>-87.624592781067</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.883428924177</lat>
+						<lon>-87.624565958977</lon>
+
+							<typ>S</typ>
+                			<stpid>1106</stpid>
+                			<stpnm>Michigan &amp; Washington</stpnm>
+                			<pdist>3491.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.882130914862</lat>
+						<lon>-87.624512314796</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.882110945281</lat>
+						<lon>-87.625998258591</lon>
+
+							<typ>S</typ>
+                			<stpid>450</stpid>
+                			<stpnm>Madison &amp; Wabash</stpnm>
+                			<pdist>4338.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.882090975695</lat>
+						<lon>-87.627730965614</lon>
+
+							<typ>S</typ>
+                			<stpid>4729</stpid>
+                			<stpnm>Madison &amp; State</stpnm>
+                			<pdist>4992.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.882043048663</lat>
+						<lon>-87.628031373024</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.882031066899</lat>
+						<lon>-87.629372477531</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.882031066899</lat>
+						<lon>-87.630686759949</lon>
+
+							<typ>S</typ>
+                			<stpid>452</stpid>
+                			<stpnm>Madison &amp; Clark</stpnm>
+                			<pdist>5600.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.882023079055</lat>
+						<lon>-87.634098529816</lon>
+
+							<typ>S</typ>
+                			<stpid>453</stpid>
+                			<stpnm>Madison &amp; Wells</stpnm>
+                			<pdist>6626.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.881963170195</lat>
+						<lon>-87.637429833412</lon>
+
+							<typ>S</typ>
+                			<stpid>454</stpid>
+                			<stpnm>Madison &amp; N. Wacker</stpnm>
+                			<pdist>7467.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.881915243067</lat>
+						<lon>-87.639039158821</lon>
+
+							<typ>S</typ>
+                			<stpid>5006</stpid>
+                			<stpnm>Madison &amp; Canal</stpnm>
+                			<pdist>7893.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.881895273419</lat>
+						<lon>-87.641222476959</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.880689095141</lat>
+						<lon>-87.641211748123</lon>
+
+							<typ>S</typ>
+                			<stpid>5007</stpid>
+                			<stpnm>Clinton &amp; Monroe</stpnm>
+                			<pdist>8869.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.878716025961</lat>
+						<lon>-87.641120553017</lon>
+
+							<typ>S</typ>
+                			<stpid>4992</stpid>
+                			<stpnm>Clinton &amp; Quincy</stpnm>
+                			<pdist>9556.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.878156845479</lat>
+						<lon>-87.641104459763</lon>
+
+							<typ>S</typ>
+                			<stpid>6361</stpid>
+                			<stpnm>Clinton &amp; Jackson</stpnm>
+                			<pdist>9794.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.87677484987</lat>
+						<lon>-87.64105618</lon>
+
+							<typ>S</typ>
+                			<stpid>6362</stpid>
+                			<stpnm>Clinton &amp; Van Buren</stpnm>
+                			<pdist>10259.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.875916080319</lat>
+						<lon>-87.641040086746</lon>
+
+							<typ>S</typ>
+                			<stpid>6363</stpid>
+                			<stpnm>Clinton Blue Line Station</stpnm>
+                			<pdist>10755.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.874438170818</lat>
+						<lon>-87.640986442566</lon>
+
+							<typ>S</typ>
+                			<stpid>6364</stpid>
+                			<stpnm>Clinton &amp; Harrison</stpnm>
+                			<pdist>11112.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.874410210038</lat>
+						<lon>-87.642263174057</lon>
+
+							<typ>S</typ>
+                			<stpid>6365</stpid>
+                			<stpnm>Harrison &amp; Jefferson</stpnm>
+                			<pdist>11484.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.874354288443</lat>
+						<lon>-87.646206021309</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.874378254847</lat>
+						<lon>-87.646356225014</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.874442165214</lat>
+						<lon>-87.647734880447</lon>
+
+							<typ>S</typ>
+                			<stpid>206</stpid>
+                			<stpnm>Harrison &amp; Halsted</stpnm>
+                			<pdist>12987.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.874510069908</lat>
+						<lon>-87.64851808548</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.87449409234</lat>
+						<lon>-87.649258375168</lon>
+
+							<typ>S</typ>
+                			<stpid>207</stpid>
+                			<stpnm>900 W Harrison</stpnm>
+                			<pdist>13678.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.874450154005</lat>
+						<lon>-87.651591897011</lon>
+
+							<typ>S</typ>
+                			<stpid>208</stpid>
+                			<stpnm>Harrison &amp; Morgan</stpnm>
+                			<pdist>14033.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.874398226843</lat>
+						<lon>-87.654440402985</lon>
+
+							<typ>S</typ>
+                			<stpid>209</stpid>
+                			<stpnm>1100 W Harrison</stpnm>
+                			<pdist>14748.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.874358282844</lat>
+						<lon>-87.656988501549</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.87403473553</lat>
+						<lon>-87.656972408295</lon>
+
+							<typ>S</typ>
+                			<stpid>6366</stpid>
+                			<stpnm>Racine &amp; Harrison</stpnm>
+                			<pdist>15569.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.872400996298</lat>
+						<lon>-87.656972408295</lon>
+
+							<typ>S</typ>
+                			<stpid>15401</stpid>
+                			<stpnm>Racine &amp; Lexington</stpnm>
+                			<pdist>16151.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.87175787478</lat>
+						<lon>-87.656950950623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.871558146283</lat>
+						<lon>-87.656924128532</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.871498227613</lat>
+						<lon>-87.656870484352</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.871206622614</lat>
+						<lon>-87.656854391098</lon>
+
+							<typ>S</typ>
+                			<stpid>15402</stpid>
+                			<stpnm>Racine &amp; Cabrini</stpnm>
+                			<pdist>16638.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.869496911747</lat>
+						<lon>-87.65682220459</lon>
+
+							<typ>S</typ>
+                			<stpid>15292</stpid>
+                			<stpnm>Racine &amp; Taylor</stpnm>
+                			<pdist>17339.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.866776459772</lat>
+						<lon>-87.656720280647</lon>
+
+							<typ>S</typ>
+                			<stpid>15403</stpid>
+                			<stpnm>Racine &amp; Roosevelt</stpnm>
+                			<pdist>18237.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.865350273499</lat>
+						<lon>-87.656666636467</lon>
+
+							<typ>S</typ>
+                			<stpid>6370</stpid>
+                			<stpnm>Racine &amp; 13th Street</stpnm>
+                			<pdist>18710.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.863560504536</lat>
+						<lon>-87.656623721123</lon>
+
+							<typ>S</typ>
+                			<stpid>6371</stpid>
+                			<stpnm>Racine &amp; 14th Street</stpnm>
+                			<pdist>19374.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.863256878045</lat>
+						<lon>-87.656607627869</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.862501800651</lat>
+						<lon>-87.657278180122</lon>
+
+							<typ>S</typ>
+                			<stpid>6372</stpid>
+                			<stpnm>Blue Island &amp; 14th Place</stpnm>
+                			<pdist>19816.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.861650829727</lat>
+						<lon>-87.65799164772</lon>
+
+							<typ>S</typ>
+                			<stpid>6373</stpid>
+                			<stpnm>Blue Island &amp; 15th Street</stpnm>
+                			<pdist>20167.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.860636042083</lat>
+						<lon>-87.658892869949</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.859797032264</lat>
+						<lon>-87.659595608711</lon>
+
+							<typ>S</typ>
+                			<stpid>6375</stpid>
+                			<stpnm>Blue Island &amp; 16th Street</stpnm>
+                			<pdist>21138.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.858830159676</lat>
+						<lon>-87.66038954258</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.857667496008</lat>
+						<lon>-87.661371231079</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.857387814309</lat>
+						<lon>-87.661344408989</lon>
+
+							<typ>S</typ>
+                			<stpid>17271</stpid>
+                			<stpnm>Loomis &amp; 18th Street</stpnm>
+                			<pdist>22000.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.855430008165</lat>
+						<lon>-87.661290764809</lon>
+
+							<typ>S</typ>
+                			<stpid>17269</stpid>
+                			<stpnm>Loomis &amp; Cullerton</stpnm>
+                			<pdist>22646.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.852589084922</lat>
+						<lon>-87.661199569702</lon>
+
+							<typ>S</typ>
+                			<stpid>16186</stpid>
+                			<stpnm>Loomis &amp; Cermak</stpnm>
+                			<pdist>23632.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.85244124158</lat>
+						<lon>-87.66120493412</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.852417266952</lat>
+						<lon>-87.663742303848</lon>
+
+							<typ>S</typ>
+                			<stpid>6861</stpid>
+                			<stpnm>Cermak &amp; Laflin</stpnm>
+                			<pdist>24262.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.852369317668</lat>
+						<lon>-87.666049003601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.85226143165</lat>
+						<lon>-87.666049003601</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.852093608592</lat>
+						<lon>-87.666499614716</lon>
+
+							<typ>S</typ>
+                			<stpid>6381</stpid>
+                			<stpnm>Blue Island &amp; Ashland/Cermak</stpnm>
+                			<pdist>25148.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.851470261952</lat>
+						<lon>-87.668216228485</lon>
+
+							<typ>S</typ>
+                			<stpid>6382</stpid>
+                			<stpnm>Blue Island &amp; Paulina</stpnm>
+                			<pdist>25645.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.850315456293</lat>
+						<lon>-87.671231031418</lon>
+
+							<typ>S</typ>
+                			<stpid>16019</stpid>
+                			<stpnm>Blue Island &amp; Wood</stpnm>
+                			<pdist>26578.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.849592193688</lat>
+						<lon>-87.673178315163</lon>
+
+							<typ>S</typ>
+                			<stpid>6384</stpid>
+                			<stpnm>Blue Island &amp; Wolcott</stpnm>
+                			<pdist>27130.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.848653138879</lat>
+						<lon>-87.675586938858</lon>
+
+							<typ>S</typ>
+                			<stpid>6385</stpid>
+                			<stpnm>Blue Island &amp; Damen</stpnm>
+                			<pdist>27867.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.847678105683</lat>
+						<lon>-87.678038477898</lon>
+
+							<typ>S</typ>
+                			<stpid>6386</stpid>
+                			<stpnm>Blue Island &amp; Hoyne</stpnm>
+                			<pdist>28622.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.846587169778</lat>
+						<lon>-87.680833339691</lon>
+
+							<typ>S</typ>
+                			<stpid>15955</stpid>
+                			<stpnm>Blue Island &amp; Leavitt</stpnm>
+                			<pdist>29526.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.845847880293</lat>
+						<lon>-87.682887911797</lon>
+
+							<typ>S</typ>
+                			<stpid>6388</stpid>
+                			<stpnm>Blue Island &amp; Oakley</stpnm>
+                			<pdist>30112.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.84503665011</lat>
+						<lon>-87.684942483902</lon>
+
+							<typ>S</typ>
+                			<stpid>6389</stpid>
+                			<stpnm>Blue Island &amp; Western</stpnm>
+                			<pdist>30756.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.844900778039</lat>
+						<lon>-87.685296535492</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.844868808098</lat>
+						<lon>-87.685452103615</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.844848826877</lat>
+						<lon>-87.685950994492</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.844840834387</lat>
+						<lon>-87.687640786171</lon>
+
+							<typ>S</typ>
+                			<stpid>6390</stpid>
+                			<stpnm>2500 W 26th Street</stpnm>
+                			<pdist>31748.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.844824849404</lat>
+						<lon>-87.690151333809</lon>
+
+							<typ>S</typ>
+                			<stpid>6391</stpid>
+                			<stpnm>26th Street &amp; Rockwell</stpnm>
+                			<pdist>32215.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.844780890678</lat>
+						<lon>-87.692667245865</lon>
+
+							<typ>S</typ>
+                			<stpid>6392</stpid>
+                			<stpnm>26th Street &amp; Washtenaw</stpnm>
+                			<pdist>32884.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.844732935671</lat>
+						<lon>-87.694458961487</lon>
+
+							<typ>S</typ>
+                			<stpid>6393</stpid>
+                			<stpnm>26th Street &amp; California Boulevard</stpnm>
+                			<pdist>33399.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.844716950661</lat>
+						<lon>-87.695478200912</lon>
+
+							<typ>S</typ>
+                			<stpid>6394</stpid>
+                			<stpnm>26th Street &amp; California Avenue</stpnm>
+                			<pdist>33718.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.844696969392</lat>
+						<lon>-87.697489857674</lon>
+
+							<typ>S</typ>
+                			<stpid>6395</stpid>
+                			<stpnm>26th Street &amp; Francisco</stpnm>
+                			<pdist>34231.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.844649014322</lat>
+						<lon>-87.699989676476</lon>
+
+							<typ>S</typ>
+                			<stpid>6396</stpid>
+                			<stpnm>26th Street &amp; Sacramento</stpnm>
+                			<pdist>34904.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.844589070434</lat>
+						<lon>-87.702387571335</lon>
+
+							<typ>S</typ>
+                			<stpid>6397</stpid>
+                			<stpnm>26th Street &amp; Albany</stpnm>
+                			<pdist>35575.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.844557100337</lat>
+						<lon>-87.705311179161</lon>
+
+							<typ>S</typ>
+                			<stpid>14969</stpid>
+                			<stpnm>26th Street &amp; Kedzie</stpnm>
+                			<pdist>36404.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.844517137694</lat>
+						<lon>-87.707349658012</lon>
+
+							<typ>S</typ>
+                			<stpid>6399</stpid>
+                			<stpnm>26th Street &amp; Spaulding</stpnm>
+                			<pdist>36906.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.844501152629</lat>
+						<lon>-87.709699273109</lon>
+
+							<typ>S</typ>
+                			<stpid>6400</stpid>
+                			<stpnm>26th Street &amp; Homan</stpnm>
+                			<pdist>37577.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.844461189951</lat>
+						<lon>-87.712161540985</lon>
+
+							<typ>S</typ>
+                			<stpid>6401</stpid>
+                			<stpnm>26th Street &amp; St. Louis</stpnm>
+                			<pdist>38246.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.844421227248</lat>
+						<lon>-87.71487057209</lon>
+
+							<typ>S</typ>
+                			<stpid>6402</stpid>
+                			<stpnm>26th Street &amp; Central Park</stpnm>
+                			<pdist>38904.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.844393253341</lat>
+						<lon>-87.717080712318</lon>
+
+							<typ>S</typ>
+                			<stpid>14849</stpid>
+                			<stpnm>26th Street &amp; Lawndale</stpnm>
+                			<pdist>39571.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.844365279421</lat>
+						<lon>-87.719467878342</lon>
+
+							<typ>S</typ>
+                			<stpid>6404</stpid>
+                			<stpnm>26th Street &amp; Hamlin</stpnm>
+                			<pdist>40251.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.84433730549</lat>
+						<lon>-87.721935510635</lon>
+
+							<typ>S</typ>
+                			<stpid>6405</stpid>
+                			<stpnm>26th Street &amp; Springfield</stpnm>
+                			<pdist>40911.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.84429334643</lat>
+						<lon>-87.724376320839</lon>
+
+							<typ>S</typ>
+                			<stpid>14848</stpid>
+                			<stpnm>26th Street &amp; Pulaski</stpnm>
+                			<pdist>41735.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.844269368748</lat>
+						<lon>-87.726886868477</lon>
+
+							<typ>S</typ>
+                			<stpid>6407</stpid>
+                			<stpnm>26th Street &amp; Karlov </stpnm>
+                			<pdist>42026.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.844241394774</lat>
+						<lon>-87.729257941246</lon>
+
+							<typ>S</typ>
+                			<stpid>6408</stpid>
+                			<stpnm>26th Street &amp; Keeler</stpnm>
+                			<pdist>42917.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.844225409641</lat>
+						<lon>-87.731382250786</lon>
+
+							<typ>S</typ>
+                			<stpid>6409</stpid>
+                			<stpnm>26th Street &amp; Kildare </stpnm>
+                			<pdist>43497.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.844185446791</lat>
+						<lon>-87.734450697899</lon>
+
+							<typ>S</typ>
+                			<stpid>14847</stpid>
+                			<stpnm>26th Street &amp; Kostner</stpnm>
+                			<pdist>44251.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.844125502468</lat>
+						<lon>-87.737358212471</lon>
+
+							<typ>S</typ>
+                			<stpid>6411</stpid>
+                			<stpnm>4537 W 26th Street</stpnm>
+                			<pdist>45014.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.844097528432</lat>
+						<lon>-87.738720774651</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.844101524723</lat>
+						<lon>-87.739434242249</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.844057565501</lat>
+						<lon>-87.74008333683</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.844037584027</lat>
+						<lon>-87.740635871887</lon>
+
+							<typ>S</typ>
+                			<stpid>6412</stpid>
+                			<stpnm>4630 W 26th Street</stpnm>
+                			<pdist>45988.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.844021598842</lat>
+						<lon>-87.740887999535</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.844053569207</lat>
+						<lon>-87.741140127182</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.84415747278</lat>
+						<lon>-87.741349339485</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.844325316658</lat>
+						<lon>-87.741644382477</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.84415747278</lat>
+						<lon>-87.742089629173</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.844101524723</lat>
+						<lon>-87.742481231689</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.843973643266</lat>
+						<lon>-87.744530439377</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.843869739394</lat>
+						<lon>-87.745233178139</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.843633956904</lat>
+						<lon>-87.746000289917</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.843306257764</lat>
+						<lon>-87.745689153671</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.843082462265</lat>
+						<lon>-87.745319008827</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.843002535111</lat>
+						<lon>-87.744911313057</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.843010527831</lat>
+						<lon>-87.743865251541</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.846363385754</lat>
+						<lon>-87.743993997574</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.846455297144</lat>
+						<lon>-87.744063735008</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.846447304855</lat>
+						<lon>-87.744353413582</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.84655520068</lat>
+						<lon>-87.744364142418</lon>
+
+							<typ>S</typ>
+                			<stpid>10269</stpid>
+                			<stpnm>Cicero &amp; 24th Place Terminal</stpnm>
+                			<pdist>49324.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

@@ -1,0 +1,540 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>3426</pid>
+				<ln>11288.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.785905064315</lat>
+						<lon>-87.597786784172</lon>
+
+							<typ>S</typ>
+                			<stpid>14020</stpid>
+                			<stpnm>60th Street &amp; University</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.785929063857</lat>
+						<lon>-87.596783638</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.785945063546</lat>
+						<lon>-87.596499323845</lon>
+
+							<typ>S</typ>
+                			<stpid>15433</stpid>
+                			<stpnm>60th Street &amp; Woodlawn</stpnm>
+                			<pdist>259.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.786001062428</lat>
+						<lon>-87.595936059952</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.7860410616</lat>
+						<lon>-87.59302854538</lon>
+
+							<typ>S</typ>
+                			<stpid>14021</stpid>
+                			<stpnm>60th Street &amp; Kenwood</stpnm>
+                			<pdist>1157.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.786045061515</lat>
+						<lon>-87.591429948807</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.786329054897</lat>
+						<lon>-87.591435313225</lon>
+
+							<typ>S</typ>
+                			<stpid>17423</stpid>
+                			<stpnm>Dorchester &amp; 60th Street</stpnm>
+                			<pdist>1751.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.787864997299</lat>
+						<lon>-87.591467499733</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.787836998678</lat>
+						<lon>-87.594466209412</lon>
+
+							<typ>S</typ>
+                			<stpid>13197</stpid>
+                			<stpnm>59th Street &amp; Kimbark</stpnm>
+                			<pdist>3126.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.78782099946</lat>
+						<lon>-87.596333026886</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.789464898171</lat>
+						<lon>-87.596359848976</lon>
+
+							<typ>S</typ>
+                			<stpid>14041</stpid>
+                			<stpnm>Woodlawn &amp; 58th Street</stpnm>
+                			<pdist>4233.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.791648698414</lat>
+						<lon>-87.596408128738</lon>
+
+							<typ>S</typ>
+                			<stpid>14040</stpid>
+                			<stpnm>Woodlawn &amp; 57th Street</stpnm>
+                			<pdist>5067.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.794920259924</lat>
+						<lon>-87.596504688263</lon>
+
+							<typ>S</typ>
+                			<stpid>14043</stpid>
+                			<stpnm>Woodlawn &amp; 55th Street</stpnm>
+                			<pdist>6222.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.7965519788</lat>
+						<lon>-87.596526145935</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.799559351802</lat>
+						<lon>-87.596595883369</lon>
+
+							<typ>S</typ>
+                			<stpid>14039</stpid>
+                			<stpnm>Woodlawn &amp; 53rd Street</stpnm>
+                			<pdist>8059.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.800927019966</lat>
+						<lon>-87.596638798714</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.802166693957</lat>
+						<lon>-87.596660256386</lon>
+
+							<typ>S</typ>
+                			<stpid>15818</stpid>
+                			<stpnm>Woodlawn &amp; Hyde Park Blvd</stpnm>
+                			<pdist>8908.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.802314653444</lat>
+						<lon>-87.596660256386</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.802354642436</lat>
+						<lon>-87.593243122101</lon>
+
+							<typ>S</typ>
+                			<stpid>1644</stpid>
+                			<stpnm>E Hyde Park &amp; Kenwood</stpnm>
+                			<pdist>9913.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.80237863582</lat>
+						<lon>-87.591864466667</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.802390632508</lat>
+						<lon>-87.590185403824</lon>
+
+							<typ>S</typ>
+                			<stpid>1646</stpid>
+                			<stpnm>E Hyde Park &amp; Blackstone</stpnm>
+                			<pdist>10727.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.802426622559</lat>
+						<lon>-87.58809864521</lon>
+
+							<typ>S</typ>
+                			<stpid>1647</stpid>
+                			<stpnm>E Hyde Park &amp; Lake Park</stpnm>
+                			<pdist>11288.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>3427</pid>
+				<ln>11562.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.802510599267</lat>
+						<lon>-87.585695385933</lon>
+
+							<typ>S</typ>
+                			<stpid>1523</stpid>
+                			<stpnm>E Hyde Park &amp; East End</stpnm>
+                			<pdist>504.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.802478608153</lat>
+						<lon>-87.588297128677</lon>
+
+							<typ>S</typ>
+                			<stpid>1525</stpid>
+                			<stpnm>E Hyde Park &amp; Lake Park</stpnm>
+                			<pdist>1207.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.802454614807</lat>
+						<lon>-87.590308785439</lon>
+
+							<typ>S</typ>
+                			<stpid>15671</stpid>
+                			<stpnm>East Hyde Park &amp; Blackstone</stpnm>
+                			<pdist>1734.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.802410626983</lat>
+						<lon>-87.593586444855</lon>
+
+							<typ>S</typ>
+                			<stpid>1528</stpid>
+                			<stpnm>E Hyde Park &amp; Kenwood</stpnm>
+                			<pdist>2596.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.802394631403</lat>
+						<lon>-87.595109939575</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.802390632508</lat>
+						<lon>-87.59675681591</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.802142700495</lat>
+						<lon>-87.596746087074</lon>
+
+							<typ>S</typ>
+                			<stpid>15817</stpid>
+                			<stpnm>Woodlawn &amp; Hyde Park Blvd</stpnm>
+                			<pdist>3567.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.79961933786</lat>
+						<lon>-87.596687078476</lon>
+
+							<typ>S</typ>
+                			<stpid>14036</stpid>
+                			<stpnm>Woodlawn &amp; 53rd Street</stpnm>
+                			<pdist>4470.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.799471372149</lat>
+						<lon>-87.596681714058</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.799439379518</lat>
+						<lon>-87.599701881409</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.799407386871</lat>
+						<lon>-87.601354122162</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.799287414303</lat>
+						<lon>-87.601348757744</lon>
+
+							<typ>S</typ>
+                			<stpid>14886</stpid>
+                			<stpnm>Ellis &amp; 53rd Street</stpnm>
+                			<pdist>5801.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.797963702053</lat>
+						<lon>-87.6013058424</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.79643999942</lat>
+						<lon>-87.601279020309</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.795308196852</lat>
+						<lon>-87.601273655891</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.795024243248</lat>
+						<lon>-87.60135948658</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.794856270102</lat>
+						<lon>-87.601397037506</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.794708293394</lat>
+						<lon>-87.60141313076</lon>
+
+							<typ>S</typ>
+                			<stpid>14033</stpid>
+                			<stpnm>Ellis &amp; 55th Street</stpnm>
+                			<pdist>7425.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.793224508055</lat>
+						<lon>-87.601375579834</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.791296735638</lat>
+						<lon>-87.60133266449</lon>
+
+							<typ>S</typ>
+                			<stpid>14034</stpid>
+                			<stpnm>Ellis &amp; 57th Street</stpnm>
+                			<pdist>8714.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.790360825219</lat>
+						<lon>-87.601321935654</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.789436900249</lat>
+						<lon>-87.601289749146</lon>
+
+							<typ>S</typ>
+                			<stpid>14045</stpid>
+                			<stpnm>Ellis &amp; 58th Street</stpnm>
+                			<pdist>9177.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.787649007622</lat>
+						<lon>-87.601257562637</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.785881064764</lat>
+						<lon>-87.601225376129</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.78588506469</lat>
+						<lon>-87.601048350334</lon>
+
+							<typ>S</typ>
+                			<stpid>14019</stpid>
+                			<stpnm>60th Street &amp; Ellis</stpnm>
+                			<pdist>10639.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.785901064391</lat>
+						<lon>-87.599036693573</lon>
+
+							<typ>S</typ>
+                			<stpid>17057</stpid>
+                			<stpnm>1111 East 60th Street </stpnm>
+                			<pdist>11132.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.785905064315</lat>
+						<lon>-87.597786784172</lon>
+
+							<typ>S</typ>
+                			<stpid>14020</stpid>
+                			<stpnm>60th Street &amp; University</stpnm>
+                			<pdist>11562.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

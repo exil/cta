@@ -1,0 +1,1752 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>711</pid>
+				<ln>35316.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.722290740953</lat>
+						<lon>-87.624769806862</lon>
+
+							<typ>S</typ>
+                			<stpid>14006</stpid>
+                			<stpnm>95th Red Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.722791225339</lat>
+						<lon>-87.624769806862</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.722803236916</lat>
+						<lon>-87.623734474182</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.721586052329</lat>
+						<lon>-87.623696923256</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.721642107389</lat>
+						<lon>-87.622205615044</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.721686150615</lat>
+						<lon>-87.620751857758</lon>
+
+							<typ>S</typ>
+                			<stpid>2816</stpid>
+                			<stpnm>95th Street &amp; Michigan</stpnm>
+                			<pdist>1498.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.721690154544</lat>
+						<lon>-87.620639204979</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.720040514991</lat>
+						<lon>-87.620601654053</lon>
+
+							<typ>S</typ>
+                			<stpid>7529</stpid>
+                			<stpnm>Michigan &amp; 96th Street</stpnm>
+                			<pdist>2128.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.71907153221</lat>
+						<lon>-87.620574831963</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.7182546924</lat>
+						<lon>-87.620558738708</lon>
+
+							<typ>S</typ>
+                			<stpid>7530</stpid>
+                			<stpnm>Michigan &amp; 97th Street</stpnm>
+                			<pdist>2774.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.716464815931</lat>
+						<lon>-87.620494365692</lon>
+
+							<typ>S</typ>
+                			<stpid>7531</stpid>
+                			<stpnm>Michigan &amp; 98th Street</stpnm>
+                			<pdist>3464.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.715431710179</lat>
+						<lon>-87.620494365692</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.71465887215</lat>
+						<lon>-87.620462179184</lon>
+
+							<typ>S</typ>
+                			<stpid>7532</stpid>
+                			<stpnm>Michigan &amp; 99th Street</stpnm>
+                			<pdist>3999.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.7134415333</lat>
+						<lon>-87.620279788971</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.712540527528</lat>
+						<lon>-87.620167136192</lon>
+
+							<typ>S</typ>
+                			<stpid>15082</stpid>
+                			<stpnm>Michigan &amp; 100th Street</stpnm>
+                			<pdist>4912.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.711787677464</lat>
+						<lon>-87.620081305504</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.710910676112</lat>
+						<lon>-87.619952559471</lon>
+
+							<typ>S</typ>
+                			<stpid>7534</stpid>
+                			<stpnm>Michigan &amp; 101st Street</stpnm>
+                			<pdist>5429.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.709981602268</lat>
+						<lon>-87.619931101799</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.709132609255</lat>
+						<lon>-87.619947195053</lon>
+
+							<typ>S</typ>
+                			<stpid>7535</stpid>
+                			<stpnm>Michigan &amp; 102nd Street</stpnm>
+                			<pdist>6097.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.7075267003</lat>
+						<lon>-87.620161771774</lon>
+
+							<typ>S</typ>
+                			<stpid>7536</stpid>
+                			<stpnm>Michigan &amp; 103rd Street</stpnm>
+                			<pdist>6765.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.707238353298</lat>
+						<lon>-87.620199322701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.707194300169</lat>
+						<lon>-87.62335896492</lon>
+
+							<typ>S</typ>
+                			<stpid>12167</stpid>
+                			<stpnm>103rd Street &amp; State</stpnm>
+                			<pdist>7640.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.707170271178</lat>
+						<lon>-87.625772953033</lon>
+
+							<typ>S</typ>
+                			<stpid>12168</stpid>
+                			<stpnm>103rd Street &amp; Perry</stpnm>
+                			<pdist>8298.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.707126218003</lat>
+						<lon>-87.628691196442</lon>
+
+							<typ>S</typ>
+                			<stpid>15159</stpid>
+                			<stpnm>103rd Street &amp; Wentworth</stpnm>
+                			<pdist>9124.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.707114203495</lat>
+						<lon>-87.63054728508</lon>
+
+							<typ>S</typ>
+                			<stpid>12170</stpid>
+                			<stpnm>103rd Street &amp; Princeton</stpnm>
+                			<pdist>9589.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.707086169636</lat>
+						<lon>-87.632467746735</lon>
+
+							<typ>S</typ>
+                			<stpid>12171</stpid>
+                			<stpnm>103rd Street &amp; Harvard</stpnm>
+                			<pdist>10098.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.707050126084</lat>
+						<lon>-87.635439634323</lon>
+
+							<typ>S</typ>
+                			<stpid>12172</stpid>
+                			<stpnm>103rd Street &amp; Normal</stpnm>
+                			<pdist>10915.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.707026097038</lat>
+						<lon>-87.637869715691</lon>
+
+							<typ>S</typ>
+                			<stpid>12173</stpid>
+                			<stpnm>103rd Street &amp; Wallace</stpnm>
+                			<pdist>11591.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.706990053453</lat>
+						<lon>-87.640256881714</lon>
+
+							<typ>S</typ>
+                			<stpid>12174</stpid>
+                			<stpnm>103rd Street &amp; Union</stpnm>
+                			<pdist>12245.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.706950005001</lat>
+						<lon>-87.643196582794</lon>
+
+							<typ>S</typ>
+                			<stpid>15768</stpid>
+                			<stpnm>103rd Street &amp; Halsted</stpnm>
+                			<pdist>13068.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.706925975918</lat>
+						<lon>-87.645122408867</lon>
+
+							<typ>S</typ>
+                			<stpid>12176</stpid>
+                			<stpnm>103rd Street &amp; Peoria</stpnm>
+                			<pdist>13571.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.706893937127</lat>
+						<lon>-87.647547125816</lon>
+
+							<typ>S</typ>
+                			<stpid>12177</stpid>
+                			<stpnm>103rd Street &amp; Morgan</stpnm>
+                			<pdist>14233.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.706881922576</lat>
+						<lon>-87.649982571602</lon>
+
+							<typ>S</typ>
+                			<stpid>12178</stpid>
+                			<stpnm>103rd Street &amp; Aberdeen</stpnm>
+                			<pdist>14908.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.706869908023</lat>
+						<lon>-87.652380466461</lon>
+
+							<typ>S</typ>
+                			<stpid>12179</stpid>
+                			<stpnm>103rd Street &amp; Racine</stpnm>
+                			<pdist>15558.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.706857893468</lat>
+						<lon>-87.653501629829</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.706841874057</lat>
+						<lon>-87.655470371246</lon>
+
+							<typ>S</typ>
+                			<stpid>12180</stpid>
+                			<stpnm>103rd Street &amp; Vincennes</stpnm>
+                			<pdist>16403.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.706801825513</lat>
+						<lon>-87.657047510147</lon>
+
+							<typ>S</typ>
+                			<stpid>12181</stpid>
+                			<stpnm>103rd Street &amp; Malta</stpnm>
+                			<pdist>16847.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.706749762368</lat>
+						<lon>-87.658506631851</lon>
+
+							<typ>S</typ>
+                			<stpid>12182</stpid>
+                			<stpnm>103rd Street &amp; Charles</stpnm>
+                			<pdist>17243.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.706773791517</lat>
+						<lon>-87.660298347473</lon>
+
+							<typ>S</typ>
+                			<stpid>12183</stpid>
+                			<stpnm>103rd Street &amp; Church</stpnm>
+                			<pdist>17790.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.706753767227</lat>
+						<lon>-87.661993503571</lon>
+
+							<typ>S</typ>
+                			<stpid>12184</stpid>
+                			<stpnm>103rd Street &amp; Prospect</stpnm>
+                			<pdist>18174.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.706717723489</lat>
+						<lon>-87.664257287979</lon>
+
+							<typ>S</typ>
+                			<stpid>12185</stpid>
+                			<stpnm>1700 W 103rd Street</stpnm>
+                			<pdist>18988.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.706665660276</lat>
+						<lon>-87.666966319084</lon>
+
+							<typ>S</typ>
+                			<stpid>12186</stpid>
+                			<stpnm>103rd Street &amp; Wood</stpnm>
+                			<pdist>19559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.706633621355</lat>
+						<lon>-87.668699026108</lon>
+
+							<typ>S</typ>
+                			<stpid>12187</stpid>
+                			<stpnm>103rd Street &amp; Hale</stpnm>
+                			<pdist>20000.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.706605587286</lat>
+						<lon>-87.670512199402</lon>
+
+							<typ>S</typ>
+                			<stpid>12188</stpid>
+                			<stpnm>103rd Street &amp; Longwood</stpnm>
+                			<pdist>20511.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.706589567813</lat>
+						<lon>-87.671864032745</lon>
+
+							<typ>S</typ>
+                			<stpid>17261</stpid>
+                			<stpnm>103rd Street &amp; Seeley</stpnm>
+                			<pdist>20907.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.706557528853</lat>
+						<lon>-87.673226594925</lon>
+
+							<typ>S</typ>
+                			<stpid>12189</stpid>
+                			<stpnm>103rd Street &amp; Seeley</stpnm>
+                			<pdist>21203.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.706525489879</lat>
+						<lon>-87.675039768219</lon>
+
+							<typ>S</typ>
+                			<stpid>12190</stpid>
+                			<stpnm>103rd Street &amp; Hoyne </stpnm>
+                			<pdist>21766.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.706497455762</lat>
+						<lon>-87.676595449448</lon>
+
+							<typ>S</typ>
+                			<stpid>12191</stpid>
+                			<stpnm>103rd Street &amp; Leavitt</stpnm>
+                			<pdist>22193.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.706457407004</lat>
+						<lon>-87.678274512291</lon>
+
+							<typ>S</typ>
+                			<stpid>12192</stpid>
+                			<stpnm>103rd Street &amp; Bell </stpnm>
+                			<pdist>22640.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.706441387493</lat>
+						<lon>-87.679497599602</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.706477431386</lat>
+						<lon>-87.679620981216</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.70647342651</lat>
+						<lon>-87.679916024208</lon>
+
+							<typ>S</typ>
+                			<stpid>12193</stpid>
+                			<stpnm>103rd Street &amp; Oakley</stpnm>
+                			<pdist>23078.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.706469421634</lat>
+						<lon>-87.681375145912</lon>
+
+							<typ>S</typ>
+                			<stpid>12194</stpid>
+                			<stpnm>103rd Street &amp; Western</stpnm>
+                			<pdist>23502.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.70647342651</lat>
+						<lon>-87.684084177017</lon>
+
+							<typ>S</typ>
+                			<stpid>12195</stpid>
+                			<stpnm>103rd Street &amp; Campbell</stpnm>
+                			<pdist>24198.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.706461411881</lat>
+						<lon>-87.686380147934</lon>
+
+							<typ>S</typ>
+                			<stpid>12196</stpid>
+                			<stpnm>2600 W 103rd Street</stpnm>
+                			<pdist>24866.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.706441387493</lat>
+						<lon>-87.68824160099</lon>
+
+							<typ>S</typ>
+                			<stpid>12197</stpid>
+                			<stpnm>103rd Street &amp; Talman </stpnm>
+                			<pdist>25341.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.70641735822</lat>
+						<lon>-87.690103054047</lon>
+
+							<typ>S</typ>
+                			<stpid>12198</stpid>
+                			<stpnm>103rd Street &amp; Fairfield</stpnm>
+                			<pdist>25872.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.706425</lat>
+						<lon>-87.691331666667</lon>
+
+							<typ>S</typ>
+                			<stpid>12199</stpid>
+                			<stpnm>103rd Street &amp; California</stpnm>
+                			<pdist>26221.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.706393333334</lat>
+						<lon>-87.693826666668</lon>
+
+							<typ>S</typ>
+                			<stpid>12200</stpid>
+                			<stpnm>103rd Street &amp; Francisco</stpnm>
+                			<pdist>26900.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.706373304529</lat>
+						<lon>-87.696272134781</lon>
+
+							<typ>S</typ>
+                			<stpid>12201</stpid>
+                			<stpnm>3000 W 103rd Street</stpnm>
+                			<pdist>27571.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.706337260578</lat>
+						<lon>-87.69828915596</lon>
+
+							<typ>S</typ>
+                			<stpid>12202</stpid>
+                			<stpnm>103rd Street &amp; Albany </stpnm>
+                			<pdist>28122.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.706265172615</lat>
+						<lon>-87.70117521286</lon>
+
+							<typ>S</typ>
+                			<stpid>12203</stpid>
+                			<stpnm>103rd Street &amp; Kedzie</stpnm>
+                			<pdist>28907.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.706253157946</lat>
+						<lon>-87.703589200974</lon>
+
+							<typ>S</typ>
+                			<stpid>12204</stpid>
+                			<stpnm>103rd Street &amp; Spaulding</stpnm>
+                			<pdist>29594.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.706229128603</lat>
+						<lon>-87.706121206284</lon>
+
+							<typ>S</typ>
+                			<stpid>12205</stpid>
+                			<stpnm>103rd Street &amp; Homan</stpnm>
+                			<pdist>30266.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.706189079677</lat>
+						<lon>-87.708599567413</lon>
+
+							<typ>S</typ>
+                			<stpid>12206</stpid>
+                			<stpnm>103rd Street &amp; St. Louis</stpnm>
+                			<pdist>30933.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.706185074783</lat>
+						<lon>-87.71092236042</lon>
+
+							<typ>S</typ>
+                			<stpid>12207</stpid>
+                			<stpnm>103rd Street &amp; Central Park</stpnm>
+                			<pdist>31602.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.706133011139</lat>
+						<lon>-87.713475823402</lon>
+
+							<typ>S</typ>
+                			<stpid>12208</stpid>
+                			<stpnm>103rd Street &amp; Lawndale</stpnm>
+                			<pdist>32265.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.706084952353</lat>
+						<lon>-87.715916633606</lon>
+
+							<typ>S</typ>
+                			<stpid>12209</stpid>
+                			<stpnm>103rd Street &amp; Hamlin</stpnm>
+                			<pdist>32941.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.706032888628</lat>
+						<lon>-87.718298435211</lon>
+
+							<typ>S</typ>
+                			<stpid>12210</stpid>
+                			<stpnm>103rd Street &amp; Springfield</stpnm>
+                			<pdist>33628.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.705972815047</lat>
+						<lon>-87.720986008644</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.705552298405</lat>
+						<lon>-87.72096991539</lon>
+
+							<typ>S</typ>
+                			<stpid>12211</stpid>
+                			<stpnm>Pulaski &amp; 103rd Street</stpnm>
+                			<pdist>34442.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.704070455937</lat>
+						<lon>-87.720910906792</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.704066450911</lat>
+						<lon>-87.720733880997</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.70402239561</lat>
+						<lon>-87.720594406128</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.704030405667</lat>
+						<lon>-87.720320820808</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.704282721954</lat>
+						<lon>-87.720331549644</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.704282721954</lat>
+						<lon>-87.720618546009</lon>
+
+							<typ>S</typ>
+                			<stpid>12121</stpid>
+                			<stpnm>Pulaski &amp; 104th Street Terminal</stpnm>
+                			<pdist>35316.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>717</pid>
+				<ln>34938.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.704282721954</lat>
+						<lon>-87.720618546009</lon>
+
+							<typ>S</typ>
+                			<stpid>12121</stpid>
+                			<stpnm>Pulaski &amp; 104th Street Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.704282721954</lat>
+						<lon>-87.720723152161</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.705676451224</lat>
+						<lon>-87.720766067505</lon>
+
+							<typ>S</typ>
+                			<stpid>4696</stpid>
+                			<stpnm>Pulaski &amp; 103rd Street</stpnm>
+                			<pdist>519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.70580460872</lat>
+						<lon>-87.720776796341</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.705860677545</lat>
+						<lon>-87.718566656113</lon>
+
+							<typ>S</typ>
+                			<stpid>12122</stpid>
+                			<stpnm>103rd Street &amp; Springfield</stpnm>
+                			<pdist>1154.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.705884707026</lat>
+						<lon>-87.717284560204</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.705912741409</lat>
+						<lon>-87.716152667999</lon>
+
+							<typ>S</typ>
+                			<stpid>12123</stpid>
+                			<stpnm>103rd Street &amp; Hamlin</stpnm>
+                			<pdist>1829.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.705936770871</lat>
+						<lon>-87.714752554893</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.70594077578</lat>
+						<lon>-87.713722586632</lon>
+
+							<typ>S</typ>
+                			<stpid>12124</stpid>
+                			<stpnm>103rd Street &amp; Lawndale</stpnm>
+                			<pdist>2502.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.705948785599</lat>
+						<lon>-87.713041305542</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.705972815047</lat>
+						<lon>-87.71122276783</lon>
+
+							<typ>S</typ>
+                			<stpid>12125</stpid>
+                			<stpnm>103rd Street &amp; Central Park</stpnm>
+                			<pdist>3156.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.706012864107</lat>
+						<lon>-87.708899974823</lon>
+
+							<typ>S</typ>
+                			<stpid>12126</stpid>
+                			<stpnm>103rd Street &amp; St. Louis</stpnm>
+                			<pdist>3814.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.70606893275</lat>
+						<lon>-87.706351876259</lon>
+
+							<typ>S</typ>
+                			<stpid>12127</stpid>
+                			<stpnm>103rd Street &amp; Homan</stpnm>
+                			<pdist>4501.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.706096967053</lat>
+						<lon>-87.705021500587</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.706104976852</lat>
+						<lon>-87.703900337219</lon>
+
+							<typ>S</typ>
+                			<stpid>12128</stpid>
+                			<stpnm>103rd Street &amp; Spaulding</stpnm>
+                			<pdist>5166.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.706112986649</lat>
+						<lon>-87.701480984688</lon>
+
+							<typ>S</typ>
+                			<stpid>12129</stpid>
+                			<stpnm>103rd Street &amp; Kedzie</stpnm>
+                			<pdist>5835.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.706116991548</lat>
+						<lon>-87.700123786926</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.706141020933</lat>
+						<lon>-87.699093818665</lon>
+
+							<typ>S</typ>
+                			<stpid>12130</stpid>
+                			<stpnm>103rd Street &amp; Albany </stpnm>
+                			<pdist>6487.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.706201094358</lat>
+						<lon>-87.696840763092</lon>
+
+							<typ>S</typ>
+                			<stpid>12131</stpid>
+                			<stpnm>103rd Street &amp; Sacramento</stpnm>
+                			<pdist>7125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.706213109036</lat>
+						<lon>-87.694019079208</lon>
+
+							<typ>S</typ>
+                			<stpid>12132</stpid>
+                			<stpnm>103rd Street &amp; Francisco</stpnm>
+                			<pdist>7885.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.706257162836</lat>
+						<lon>-87.691605091095</lon>
+
+							<typ>S</typ>
+                			<stpid>12133</stpid>
+                			<stpnm>103rd Street &amp; California</stpnm>
+                			<pdist>8547.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.706265172615</lat>
+						<lon>-87.689968943596</lon>
+
+							<typ>S</typ>
+                			<stpid>12134</stpid>
+                			<stpnm>103rd Street &amp; Fairfield</stpnm>
+                			<pdist>9003.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.70629721172</lat>
+						<lon>-87.688450813293</lon>
+
+							<typ>S</typ>
+                			<stpid>12135</stpid>
+                			<stpnm>103rd Street &amp; Talman </stpnm>
+                			<pdist>9420.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.70629721172</lat>
+						<lon>-87.686643004417</lon>
+
+							<typ>S</typ>
+                			<stpid>12136</stpid>
+                			<stpnm>2600 W 103rd Street</stpnm>
+                			<pdist>9889.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.706305221493</lat>
+						<lon>-87.684261202812</lon>
+
+							<typ>S</typ>
+                			<stpid>12137</stpid>
+                			<stpnm>103rd Street &amp; Campbell</stpnm>
+                			<pdist>10570.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.706317236152</lat>
+						<lon>-87.681863307953</lon>
+
+							<typ>S</typ>
+                			<stpid>12138</stpid>
+                			<stpnm>103rd Street &amp; Western</stpnm>
+                			<pdist>11237.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.706329250808</lat>
+						<lon>-87.679637074471</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.706393328938</lat>
+						<lon>-87.679524421692</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.7064013387</lat>
+						<lon>-87.679105997086</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.706397333819</lat>
+						<lon>-87.678081393242</lon>
+
+							<typ>S</typ>
+                			<stpid>12140</stpid>
+                			<stpnm>103rd Street &amp; Bell </stpnm>
+                			<pdist>12254.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.706433377736</lat>
+						<lon>-87.676885128021</lon>
+
+							<typ>S</typ>
+                			<stpid>12141</stpid>
+                			<stpnm>103rd Street &amp; Leavitt</stpnm>
+                			<pdist>12586.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.706465416757</lat>
+						<lon>-87.674503326416</lon>
+
+							<typ>S</typ>
+                			<stpid>12142</stpid>
+                			<stpnm>103rd Street &amp; Hoyne </stpnm>
+                			<pdist>13253.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.706497455762</lat>
+						<lon>-87.673113942146</lon>
+
+							<typ>S</typ>
+                			<stpid>12143</stpid>
+                			<stpnm>103rd Street &amp; Seeley</stpnm>
+                			<pdist>13622.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.706521485006</lat>
+						<lon>-87.672051787376</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.706541509368</lat>
+						<lon>-87.670807242393</lon>
+
+							<typ>S</typ>
+                			<stpid>12144</stpid>
+                			<stpnm>103rd Street &amp; Longwood</stpnm>
+                			<pdist>14249.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.706561533724</lat>
+						<lon>-87.668795585632</lon>
+
+							<typ>S</typ>
+                			<stpid>12145</stpid>
+                			<stpnm>103rd Street &amp; Walden</stpnm>
+                			<pdist>14767.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.706593572681</lat>
+						<lon>-87.66722381115</lon>
+
+							<typ>S</typ>
+                			<stpid>12146</stpid>
+                			<stpnm>103rd Street &amp; Wood</stpnm>
+                			<pdist>15234.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.706649640818</lat>
+						<lon>-87.664450407028</lon>
+
+							<typ>S</typ>
+                			<stpid>12147</stpid>
+                			<stpnm>1700 W 103rd Street</stpnm>
+                			<pdist>15939.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.706697699181</lat>
+						<lon>-87.662224173546</lon>
+
+							<typ>S</typ>
+                			<stpid>12148</stpid>
+                			<stpnm>103rd Street &amp; Prospect</stpnm>
+                			<pdist>16618.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.706709713767</lat>
+						<lon>-87.660453915596</lon>
+
+							<typ>S</typ>
+                			<stpid>12149</stpid>
+                			<stpnm>103rd Street &amp; Church</stpnm>
+                			<pdist>17099.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.706697699181</lat>
+						<lon>-87.658860683441</lon>
+
+							<typ>S</typ>
+                			<stpid>12150</stpid>
+                			<stpnm>103rd Street &amp; Charles</stpnm>
+                			<pdist>17566.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.706753767227</lat>
+						<lon>-87.656468153</lon>
+
+							<typ>S</typ>
+                			<stpid>12152</stpid>
+                			<stpnm>103rd Street &amp; Vincennes Ave</stpnm>
+                			<pdist>18242.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.70676978666</lat>
+						<lon>-87.655856609344</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.706781801231</lat>
+						<lon>-87.655298709869</lon>
+
+							<typ>S</typ>
+                			<stpid>12153</stpid>
+                			<stpnm>Julian High School</stpnm>
+                			<pdist>18557.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.706801825513</lat>
+						<lon>-87.653517723083</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.706809835224</lat>
+						<lon>-87.652208805084</lon>
+
+							<typ>S</typ>
+                			<stpid>12154</stpid>
+                			<stpnm>103rd Street &amp; Racine</stpnm>
+                			<pdist>19404.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.706817844933</lat>
+						<lon>-87.65028834343</lon>
+
+							<typ>S</typ>
+                			<stpid>12155</stpid>
+                			<stpnm>103rd Street &amp; Aberdeen</stpnm>
+                			<pdist>19906.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.706837869204</lat>
+						<lon>-87.647804617882</lon>
+
+							<typ>S</typ>
+                			<stpid>12156</stpid>
+                			<stpnm>103rd Street &amp; Morgan</stpnm>
+                			<pdist>20575.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.70686189832</lat>
+						<lon>-87.645353078842</lon>
+
+							<typ>S</typ>
+                			<stpid>12157</stpid>
+                			<stpnm>103rd Street &amp; Peoria</stpnm>
+                			<pdist>21237.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.706873912874</lat>
+						<lon>-87.644425034523</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.706889932277</lat>
+						<lon>-87.643057107925</lon>
+
+							<typ>S</typ>
+                			<stpid>12158</stpid>
+                			<stpnm>103rd Street &amp; Halsted</stpnm>
+                			<pdist>21888.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.706917966222</lat>
+						<lon>-87.640503644943</lon>
+
+							<typ>S</typ>
+                			<stpid>12159</stpid>
+                			<stpnm>103rd Street &amp; Union</stpnm>
+                			<pdist>22569.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.706954009848</lat>
+						<lon>-87.638105750084</lon>
+
+							<typ>S</typ>
+                			<stpid>12160</stpid>
+                			<stpnm>103rd Street &amp; Wallace</stpnm>
+                			<pdist>23234.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.706982043765</lat>
+						<lon>-87.635675668716</lon>
+
+							<typ>S</typ>
+                			<stpid>12161</stpid>
+                			<stpnm>103rd Street &amp; Normal</stpnm>
+                			<pdist>23903.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.70701007767</lat>
+						<lon>-87.633572816849</lon>
+
+							<typ>S</typ>
+                			<stpid>12162</stpid>
+                			<stpnm>103rd Street &amp; Eggleston</stpnm>
+                			<pdist>24549.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.707046121244</lat>
+						<lon>-87.630831599236</lon>
+
+							<typ>S</typ>
+                			<stpid>12163</stpid>
+                			<stpnm>103rd Street &amp; Princeton</stpnm>
+                			<pdist>25238.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.707062140604</lat>
+						<lon>-87.628363966942</lon>
+
+							<typ>S</typ>
+                			<stpid>12164</stpid>
+                			<stpnm>103rd Street &amp; Wentworth</stpnm>
+                			<pdist>25894.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.707106193822</lat>
+						<lon>-87.625901699066</lon>
+
+							<typ>S</typ>
+                			<stpid>12165</stpid>
+                			<stpnm>103rd Street &amp; Perry</stpnm>
+                			<pdist>26569.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.707126218003</lat>
+						<lon>-87.623670101166</lon>
+
+							<typ>S</typ>
+                			<stpid>12166</stpid>
+                			<stpnm>103rd Street &amp; State</stpnm>
+                			<pdist>27198.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.707170271178</lat>
+						<lon>-87.620113492012</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.707466628115</lat>
+						<lon>-87.620081305504</lon>
+
+							<typ>S</typ>
+                			<stpid>7616</stpid>
+                			<stpnm>Michigan &amp; 103rd Street</stpnm>
+                			<pdist>28343.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.708223533552</lat>
+						<lon>-87.619995474815</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.708972420637</lat>
+						<lon>-87.619861364365</lon>
+
+							<typ>S</typ>
+                			<stpid>7617</stpid>
+                			<stpnm>Michigan &amp; 102nd Street</stpnm>
+                			<pdist>28778.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.710726464262</lat>
+						<lon>-87.619834542274</lon>
+
+							<typ>S</typ>
+                			<stpid>7618</stpid>
+                			<stpnm>Michigan &amp; 101st Street</stpnm>
+                			<pdist>29457.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.7108666255</lat>
+						<lon>-87.619823813438</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.712572563505</lat>
+						<lon>-87.620086669922</lon>
+
+							<typ>S</typ>
+                			<stpid>7619</stpid>
+                			<stpnm>Michigan &amp; 100th Street</stpnm>
+                			<pdist>30112.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.714426618491</lat>
+						<lon>-87.620338797569</lon>
+
+							<typ>S</typ>
+                			<stpid>7620</stpid>
+                			<stpnm>Michigan &amp; 99th Street</stpnm>
+                			<pdist>30805.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.714742963785</lat>
+						<lon>-87.620381712914</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.716240577333</lat>
+						<lon>-87.620408535004</lon>
+
+							<typ>S</typ>
+                			<stpid>7621</stpid>
+                			<stpnm>Michigan &amp; 98th Street</stpnm>
+                			<pdist>31461.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.717297695299</lat>
+						<lon>-87.620424628258</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.718010439264</lat>
+						<lon>-87.620462179184</lon>
+
+							<typ>S</typ>
+                			<stpid>7622</stpid>
+                			<stpnm>Michigan &amp; 97th Street</stpnm>
+                			<pdist>32130.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.719155618071</lat>
+						<lon>-87.62049973011</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.719880353555</lat>
+						<lon>-87.620515823364</lon>
+
+							<typ>S</typ>
+                			<stpid>7623</stpid>
+                			<stpnm>Michigan &amp; 96th Street</stpnm>
+                			<pdist>32785.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.721874334973</lat>
+						<lon>-87.620548009872</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.721842303632</lat>
+						<lon>-87.621030807495</lon>
+
+							<typ>S</typ>
+                			<stpid>2982</stpid>
+                			<stpnm>95th Street &amp; Michigan</stpnm>
+                			<pdist>33603.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.721806268354</lat>
+						<lon>-87.624973654747</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.722290740953</lat>
+						<lon>-87.625011205673</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.722290740953</lat>
+						<lon>-87.624769806862</lon>
+
+							<typ>S</typ>
+                			<stpid>14006</stpid>
+                			<stpnm>95th Red Line Station</stpnm>
+                			<pdist>34938.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

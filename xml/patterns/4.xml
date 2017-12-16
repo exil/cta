@@ -1,0 +1,3099 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>1136</pid>
+				<ln>65526.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.721089562521</lat>
+						<lon>-87.60890185833</lon>
+
+							<typ>S</typ>
+                			<stpid>2103</stpid>
+                			<stpnm>Chicago State University</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.721089562521</lat>
+						<lon>-87.609121799469</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.721121594238</lat>
+						<lon>-87.609223723412</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.721193665541</lat>
+						<lon>-87.609266638756</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.721878338889</lat>
+						<lon>-87.609288096428</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.721930389781</lat>
+						<lon>-87.606954574585</lon>
+
+							<typ>S</typ>
+                			<stpid>2461</stpid>
+                			<stpnm>95th Street &amp; Langley</stpnm>
+                			<pdist>1027.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.721958417167</lat>
+						<lon>-87.604347467422</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.722422869209</lat>
+						<lon>-87.604352831841</lon>
+
+							<typ>S</typ>
+                			<stpid>2462</stpid>
+                			<stpnm>Cottage Grove &amp; 95th Street</stpnm>
+                			<pdist>1808.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.723968349248</lat>
+						<lon>-87.604401111603</lon>
+
+							<typ>S</typ>
+                			<stpid>2463</stpid>
+                			<stpnm>Cottage Grove &amp; Lyon</stpnm>
+                			<pdist>2371.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.725581854806</lat>
+						<lon>-87.604438662529</lon>
+
+							<typ>S</typ>
+                			<stpid>2464</stpid>
+                			<stpnm>Cottage Grove &amp; 93rd Street</stpnm>
+                			<pdist>2944.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.727423523788</lat>
+						<lon>-87.604465484619</lon>
+
+							<typ>S</typ>
+                			<stpid>2465</stpid>
+                			<stpnm>Cottage Grove &amp; 92nd Street</stpnm>
+                			<pdist>3619.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.729273146889</lat>
+						<lon>-87.604524493217</lon>
+
+							<typ>S</typ>
+                			<stpid>2466</stpid>
+                			<stpnm>Cottage Grove &amp; 91st Street</stpnm>
+                			<pdist>4291.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.731098696692</lat>
+						<lon>-87.60457277298</lon>
+
+							<typ>S</typ>
+                			<stpid>2467</stpid>
+                			<stpnm>Cottage Grove &amp; 90th Street</stpnm>
+                			<pdist>4950.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.732095521067</lat>
+						<lon>-87.604594230652</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.732932201071</lat>
+						<lon>-87.604588866234</lon>
+
+							<typ>S</typ>
+                			<stpid>2468</stpid>
+                			<stpnm>Cottage Grove &amp; 89th Street</stpnm>
+                			<pdist>5626.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.734721618855</lat>
+						<lon>-87.60465323925</lon>
+
+							<typ>S</typ>
+                			<stpid>2469</stpid>
+                			<stpnm>Cottage Grove &amp; 88th Street</stpnm>
+                			<pdist>6291.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.736539007812</lat>
+						<lon>-87.604690790176</lon>
+
+							<typ>S</typ>
+                			<stpid>2470</stpid>
+                			<stpnm>Cottage Grove &amp; 87th Street</stpnm>
+                			<pdist>6958.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.73836835401</lat>
+						<lon>-87.604749798775</lon>
+
+							<typ>S</typ>
+                			<stpid>2471</stpid>
+                			<stpnm>Cottage Grove &amp; 86th Street</stpnm>
+                			<pdist>7621.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.740109586997</lat>
+						<lon>-87.604798078537</lon>
+
+							<typ>S</typ>
+                			<stpid>2472</stpid>
+                			<stpnm>Cottage Grove &amp; 85th Street</stpnm>
+                			<pdist>8286.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.74190681015</lat>
+						<lon>-87.604846358299</lon>
+
+							<typ>S</typ>
+                			<stpid>2473</stpid>
+                			<stpnm>Cottage Grove &amp; 84th Street</stpnm>
+                			<pdist>8937.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.743888100321</lat>
+						<lon>-87.604889273643</lon>
+
+							<typ>S</typ>
+                			<stpid>2474</stpid>
+                			<stpnm>Cottage Grove &amp; 83rd Street</stpnm>
+                			<pdist>9627.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.745681215288</lat>
+						<lon>-87.604964375496</lon>
+
+							<typ>S</typ>
+                			<stpid>2475</stpid>
+                			<stpnm>Cottage Grove &amp; 82nd Street</stpnm>
+                			<pdist>10306.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.747918536281</lat>
+						<lon>-87.60500729084</lon>
+
+							<typ>S</typ>
+                			<stpid>14952</stpid>
+                			<stpnm>Cottage Grove &amp; 81st Street</stpnm>
+                			<pdist>11137.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.74936334794</lat>
+						<lon>-87.605055570602</lon>
+
+							<typ>S</typ>
+                			<stpid>2477</stpid>
+                			<stpnm>Cottage Grove &amp; 80th Street</stpnm>
+                			<pdist>11642.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.751364418413</lat>
+						<lon>-87.605077028275</lon>
+
+							<typ>S</typ>
+                			<stpid>2478</stpid>
+                			<stpnm>Cottage Grove &amp; 79th Street</stpnm>
+                			<pdist>12307.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.7514644703</lat>
+						<lon>-87.605077028275</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.751572526162</lat>
+						<lon>-87.605157494545</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.753037265457</lat>
+						<lon>-87.605195045471</lon>
+
+							<typ>S</typ>
+                			<stpid>2479</stpid>
+                			<stpnm>Cottage Grove &amp; 78th Street</stpnm>
+                			<pdist>12984.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.755206298863</lat>
+						<lon>-87.605237960815</lon>
+
+							<typ>S</typ>
+                			<stpid>17103</stpid>
+                			<stpnm>Cottage Grove &amp; 77th Street</stpnm>
+                			<pdist>13808.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.756546900939</lat>
+						<lon>-87.605270147324</lon>
+
+							<typ>S</typ>
+                			<stpid>2481</stpid>
+                			<stpnm>Cottage Grove &amp; 76th Street</stpnm>
+                			<pdist>14296.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.758895888397</lat>
+						<lon>-87.60533452034</lon>
+
+							<typ>S</typ>
+                			<stpid>14572</stpid>
+                			<stpnm>Cottage Grove &amp; 75th Street</stpnm>
+                			<pdist>15114.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.7602204073</lat>
+						<lon>-87.605372071266</lon>
+
+							<typ>S</typ>
+                			<stpid>2483</stpid>
+                			<stpnm>Cottage Grove &amp; 74th Street</stpnm>
+                			<pdist>15626.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.762137109813</lat>
+						<lon>-87.605420351028</lon>
+
+							<typ>S</typ>
+                			<stpid>2484</stpid>
+                			<stpnm>Cottage Grove &amp; 73rd Street</stpnm>
+                			<pdist>16290.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.763557593527</lat>
+						<lon>-87.605463266373</lon>
+
+							<typ>S</typ>
+                			<stpid>2485</stpid>
+                			<stpnm>Cottage Grove &amp; Anthony</stpnm>
+                			<pdist>16737.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.764365854729</lat>
+						<lon>-87.605468630791</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.766170401165</lat>
+						<lon>-87.605522274971</lon>
+
+							<typ>S</typ>
+                			<stpid>14573</stpid>
+                			<stpnm>Cottage Grove &amp; 71st Street/South Chicago</stpnm>
+                			<pdist>17762.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.767558787046</lat>
+						<lon>-87.605554461479</lon>
+
+							<typ>S</typ>
+                			<stpid>2487</stpid>
+                			<stpnm>7000 S Cottage Grove</stpnm>
+                			<pdist>18381.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.769431259897</lat>
+						<lon>-87.605602741241</lon>
+
+							<typ>S</typ>
+                			<stpid>2488</stpid>
+                			<stpnm>Cottage Grove &amp; 69th Street</stpnm>
+                			<pdist>19016.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.771535726116</lat>
+						<lon>-87.605651021004</lon>
+
+							<typ>S</typ>
+                			<stpid>2489</stpid>
+                			<stpnm>Cottage Grove &amp; 68th Street</stpnm>
+                			<pdist>19685.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.773032015613</lat>
+						<lon>-87.605710029602</lon>
+
+							<typ>S</typ>
+                			<stpid>2490</stpid>
+                			<stpnm>Cottage Grove &amp; 67th Street</stpnm>
+                			<pdist>20266.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.774832317676</lat>
+						<lon>-87.60574221611</lon>
+
+							<typ>S</typ>
+                			<stpid>2491</stpid>
+                			<stpnm>Cottage Grove &amp; Marquette Rd</stpnm>
+                			<pdist>20935.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.776704578217</lat>
+						<lon>-87.605774402618</lon>
+
+							<typ>S</typ>
+                			<stpid>2492</stpid>
+                			<stpnm>Cottage Grove &amp; 65th Street</stpnm>
+                			<pdist>21606.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.778508777581</lat>
+						<lon>-87.605828046799</lon>
+
+							<typ>S</typ>
+                			<stpid>2493</stpid>
+                			<stpnm>Cottage Grove &amp; 64th Street</stpnm>
+                			<pdist>22271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.780672949769</lat>
+						<lon>-87.605876326561</lon>
+
+							<typ>S</typ>
+                			<stpid>17572</stpid>
+                			<stpnm>Cottage Grove &amp; 63rd Street (Green Line)</stpnm>
+                			<pdist>23133.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.782109023716</lat>
+						<lon>-87.605919241905</lon>
+
+							<typ>S</typ>
+                			<stpid>2495</stpid>
+                			<stpnm>Cottage Grove &amp; 62nd Street</stpnm>
+                			<pdist>23606.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.783965071646</lat>
+						<lon>-87.605956792831</lon>
+
+							<typ>S</typ>
+                			<stpid>2496</stpid>
+                			<stpnm>Cottage Grove &amp; 61st Street</stpnm>
+                			<pdist>24274.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.785729067401</lat>
+						<lon>-87.60598897934</lon>
+
+							<typ>S</typ>
+                			<stpid>2497</stpid>
+                			<stpnm>Cottage Grove &amp; 60th Street</stpnm>
+                			<pdist>24851.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.787101030547</lat>
+						<lon>-87.605999708176</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.787617009089</lat>
+						<lon>-87.60601580143</lon>
+
+							<typ>S</typ>
+                			<stpid>2498</stpid>
+                			<stpnm>Cottage Grove &amp; 59th Street</stpnm>
+                			<pdist>25610.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.789388903783</lat>
+						<lon>-87.60606944561</lon>
+
+							<typ>S</typ>
+                			<stpid>2499</stpid>
+                			<stpnm>Cottage Grove &amp; 58th Street</stpnm>
+                			<pdist>26258.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.791624701013</lat>
+						<lon>-87.60612308979</lon>
+
+							<typ>S</typ>
+                			<stpid>15164</stpid>
+                			<stpnm>Cottage Grove &amp; 57th Street</stpnm>
+                			<pdist>27146.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.793220508587</lat>
+						<lon>-87.606144547462</lon>
+
+							<typ>S</typ>
+                			<stpid>2501</stpid>
+                			<stpnm>Cottage Grove &amp; 56th Street</stpnm>
+                			<pdist>27595.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.795172219227</lat>
+						<lon>-87.606198191643</lon>
+
+							<typ>S</typ>
+                			<stpid>15148</stpid>
+                			<stpnm>Cottage Grove &amp; 55th Street</stpnm>
+                			<pdist>28447.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.796595970646</lat>
+						<lon>-87.606214284897</lon>
+
+							<typ>S</typ>
+                			<stpid>2503</stpid>
+                			<stpnm>Cottage Grove &amp; 54th Street</stpnm>
+                			<pdist>28876.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.798507587132</lat>
+						<lon>-87.606262564659</lon>
+
+							<typ>S</typ>
+                			<stpid>2504</stpid>
+                			<stpnm>Cottage Grove &amp; 53rd Street</stpnm>
+                			<pdist>29577.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.800307173976</lat>
+						<lon>-87.606294751167</lon>
+
+							<typ>S</typ>
+                			<stpid>2505</stpid>
+                			<stpnm>Cottage Grove &amp; 52nd Street</stpnm>
+                			<pdist>30252.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.801306922609</lat>
+						<lon>-87.606310844421</lon>
+
+							<typ>S</typ>
+                			<stpid>2506</stpid>
+                			<stpnm>Cottage Grove &amp; Drexel Square Drive</stpnm>
+                			<pdist>30595.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.802498602601</lat>
+						<lon>-87.606353759766</lon>
+
+							<typ>S</typ>
+                			<stpid>2507</stpid>
+                			<stpnm>Cottage Grove &amp; 51st Street</stpnm>
+                			<pdist>31047.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.80395418165</lat>
+						<lon>-87.606402039528</lon>
+
+							<typ>S</typ>
+                			<stpid>2508</stpid>
+                			<stpnm>Cottage Grove &amp; 50th Street</stpnm>
+                			<pdist>31579.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.805753615537</lat>
+						<lon>-87.606434226036</lon>
+
+							<typ>S</typ>
+                			<stpid>2509</stpid>
+                			<stpnm>Cottage Grove &amp; 49th Street</stpnm>
+                			<pdist>32234.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.807560996032</lat>
+						<lon>-87.606482505798</lon>
+
+							<typ>S</typ>
+                			<stpid>2510</stpid>
+                			<stpnm>Cottage Grove &amp; 48th Street</stpnm>
+                			<pdist>32915.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.809652215586</lat>
+						<lon>-87.60650396347</lon>
+
+							<typ>S</typ>
+                			<stpid>14574</stpid>
+                			<stpnm>Cottage Grove &amp; 47th Street</stpnm>
+                			<pdist>33705.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.811515462687</lat>
+						<lon>-87.606557607651</lon>
+
+							<typ>S</typ>
+                			<stpid>15932</stpid>
+                			<stpnm>Cottage Grove &amp; 46th Street</stpnm>
+                			<pdist>34376.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.813106776743</lat>
+						<lon>-87.606595158577</lon>
+
+							<typ>S</typ>
+                			<stpid>2513</stpid>
+                			<stpnm>Cottage Grove &amp; 45th Street</stpnm>
+                			<pdist>34893.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.814798004375</lat>
+						<lon>-87.606632709503</lon>
+
+							<typ>S</typ>
+                			<stpid>2514</stpid>
+                			<stpnm>Cottage Grove &amp; 44th Street</stpnm>
+                			<pdist>35580.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.816669097806</lat>
+						<lon>-87.606675624847</lon>
+
+							<typ>S</typ>
+                			<stpid>2515</stpid>
+                			<stpnm>Cottage Grove &amp; 43rd Street</stpnm>
+                			<pdist>36263.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.818456180876</lat>
+						<lon>-87.60669708252</lon>
+
+							<typ>S</typ>
+                			<stpid>2516</stpid>
+                			<stpnm>Cottage Grove &amp; 42nd Street</stpnm>
+                			<pdist>36925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.820411120676</lat>
+						<lon>-87.606756091118</lon>
+
+							<typ>S</typ>
+                			<stpid>2517</stpid>
+                			<stpnm>Cottage Grove &amp; 41st Street </stpnm>
+                			<pdist>37622.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.821346592228</lat>
+						<lon>-87.60677754879</lon>
+
+							<typ>S</typ>
+                			<stpid>2518</stpid>
+                			<stpnm>Cottage Grove &amp; 40th Street</stpnm>
+                			<pdist>37985.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.822577875833</lat>
+						<lon>-87.606799006462</lon>
+
+							<typ>S</typ>
+                			<stpid>2519</stpid>
+                			<stpnm>Cottage Grove &amp; Oakwood</stpnm>
+                			<pdist>38419.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.823873096668</lat>
+						<lon>-87.606847286224</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.824036996203</lat>
+						<lon>-87.606900930405</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.824268853364</lat>
+						<lon>-87.607008218765</lon>
+
+							<typ>S</typ>
+                			<stpid>2520</stpid>
+                			<stpnm>Cottage Grove &amp; Pershing</stpnm>
+                			<pdist>39032.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.825180283724</lat>
+						<lon>-87.607507109642</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.826263589776</lat>
+						<lon>-87.608016729355</lon>
+
+							<typ>S</typ>
+                			<stpid>2521</stpid>
+                			<stpnm>Cottage Grove &amp; 38th Street</stpnm>
+                			<pdist>39654.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.827582719997</lat>
+						<lon>-87.608708739281</lon>
+
+							<typ>S</typ>
+                			<stpid>2522</stpid>
+                			<stpnm>Cottage Grove &amp; 37th Street</stpnm>
+                			<pdist>40306.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.829029734614</lat>
+						<lon>-87.609438300133</lon>
+
+							<typ>S</typ>
+                			<stpid>2523</stpid>
+                			<stpnm>Cottage Grove &amp; 36th Street</stpnm>
+                			<pdist>40840.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.831100267704</lat>
+						<lon>-87.610532641411</lon>
+
+							<typ>S</typ>
+                			<stpid>2524</stpid>
+                			<stpnm>Cottage Grove &amp; 35th Street</stpnm>
+                			<pdist>41654.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.831292128383</lat>
+						<lon>-87.610634565353</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.831300122566</lat>
+						<lon>-87.610859870911</lon>
+
+							<typ>S</typ>
+                			<stpid>7629</stpid>
+                			<stpnm>35th Street &amp; Cottage Grove</stpnm>
+                			<pdist>41993.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.831300122566</lat>
+						<lon>-87.613123655319</lon>
+
+							<typ>S</typ>
+                			<stpid>2526</stpid>
+                			<stpnm>35th Street &amp; Rhodes </stpnm>
+                			<pdist>42428.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.831280137108</lat>
+						<lon>-87.614979743958</lon>
+
+							<typ>S</typ>
+                			<stpid>2527</stpid>
+                			<stpnm>Lake Meadows Shopping Center</stpnm>
+                			<pdist>42931.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.831252157456</lat>
+						<lon>-87.616658806801</lon>
+
+							<typ>S</typ>
+                			<stpid>2528</stpid>
+                			<stpnm>35th Street &amp; King Drive</stpnm>
+                			<pdist>43371.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.831220180696</lat>
+						<lon>-87.617318630219</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.831136241625</lat>
+						<lon>-87.617527842522</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.831132244524</lat>
+						<lon>-87.617726325989</lon>
+
+							<typ>S</typ>
+                			<stpid>7630</stpid>
+                			<stpnm>35th Street &amp; King Drive</stpnm>
+                			<pdist>43702.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.831100267704</lat>
+						<lon>-87.619244456291</lon>
+
+							<typ>S</typ>
+                			<stpid>7631</stpid>
+                			<stpnm>35th Street &amp; Giles</stpnm>
+                			<pdist>44079.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.831080282183</lat>
+						<lon>-87.621706724167</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.831336096375</lat>
+						<lon>-87.621728181839</lon>
+
+							<typ>S</typ>
+                			<stpid>15314</stpid>
+                			<stpnm>Indiana &amp; 35th Street</stpnm>
+                			<pdist>44733.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.832978878774</lat>
+						<lon>-87.621755003929</lon>
+
+							<typ>S</typ>
+                			<stpid>1560</stpid>
+                			<stpnm>Indiana &amp; 34th Street</stpnm>
+                			<pdist>45442.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.834613625243</lat>
+						<lon>-87.621781826019</lon>
+
+							<typ>S</typ>
+                			<stpid>16119</stpid>
+                			<stpnm>Indiana &amp; 33rd Boulevard</stpnm>
+                			<pdist>46257.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.836400207496</lat>
+						<lon>-87.621819376945</lon>
+
+							<typ>S</typ>
+                			<stpid>1562</stpid>
+                			<stpnm>Indiana &amp; 32nd Street</stpnm>
+                			<pdist>46766.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.838238696449</lat>
+						<lon>-87.621856927872</lon>
+
+							<typ>S</typ>
+                			<stpid>1563</stpid>
+                			<stpnm>Indiana &amp; 31st Street</stpnm>
+                			<pdist>47430.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.838566421542</lat>
+						<lon>-87.621856927872</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.838554431629</lat>
+						<lon>-87.62224316597</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.838550434991</lat>
+						<lon>-87.622602581978</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.838586404725</lat>
+						<lon>-87.622827887535</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.83871030032</lat>
+						<lon>-87.623037099838</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.838962087405</lat>
+						<lon>-87.623192667961</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.840592684542</lat>
+						<lon>-87.623230218887</lon>
+
+							<typ>S</typ>
+                			<stpid>1564</stpid>
+                			<stpnm>3000 S Michigan</stpnm>
+                			<pdist>48514.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.841887540906</lat>
+						<lon>-87.623273134232</lon>
+
+							<typ>S</typ>
+                			<stpid>1565</stpid>
+                			<stpnm>Michigan &amp; 29th Street</stpnm>
+                			<pdist>49000.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.842718792909</lat>
+						<lon>-87.623283863068</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.843629960584</lat>
+						<lon>-87.62330532074</lon>
+
+							<typ>S</typ>
+                			<stpid>1566</stpid>
+                			<stpnm>Michigan &amp; 28th Street</stpnm>
+                			<pdist>49654.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.845927803893</lat>
+						<lon>-87.623369693756</lon>
+
+							<typ>S</typ>
+                			<stpid>1567</stpid>
+                			<stpnm>Michigan &amp; 26th Street</stpnm>
+                			<pdist>50468.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.847294481991</lat>
+						<lon>-87.623487710953</lon>
+
+							<typ>S</typ>
+                			<stpid>1568</stpid>
+                			<stpnm>Michigan &amp; 25th Street</stpnm>
+                			<pdist>50995.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.847482298044</lat>
+						<lon>-87.623509168625</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.847558223526</lat>
+						<lon>-87.623621821404</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.848185604324</lat>
+						<lon>-87.623648643494</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.849460327249</lat>
+						<lon>-87.623670101166</lon>
+
+							<typ>S</typ>
+                			<stpid>15313</stpid>
+                			<stpnm>Michigan &amp; 24th Street</stpnm>
+                			<pdist>51779.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.85103871072</lat>
+						<lon>-87.62371301651</lon>
+
+							<typ>S</typ>
+                			<stpid>1570</stpid>
+                			<stpnm>Michigan &amp; 23rd Street</stpnm>
+                			<pdist>52428.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.852852804628</lat>
+						<lon>-87.623761296272</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.853396223626</lat>
+						<lon>-87.623782753944</lon>
+
+							<typ>S</typ>
+                			<stpid>15312</stpid>
+                			<stpnm>Michigan &amp; Cermak</stpnm>
+                			<pdist>53160.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.854554969306</lat>
+						<lon>-87.623820304871</lon>
+
+							<typ>S</typ>
+                			<stpid>1573</stpid>
+                			<stpnm>Michigan &amp; 21st Street</stpnm>
+                			<pdist>53586.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.855713693993</lat>
+						<lon>-87.623841762543</lon>
+
+							<typ>S</typ>
+                			<stpid>1574</stpid>
+                			<stpnm>Michigan &amp; Cullerton</stpnm>
+                			<pdist>54025.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.858114984183</lat>
+						<lon>-87.623900771141</lon>
+
+							<typ>S</typ>
+                			<stpid>1575</stpid>
+                			<stpnm>Michigan &amp; 18th Street</stpnm>
+                			<pdist>54908.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.86049221261</lat>
+						<lon>-87.623943686485</lon>
+
+							<typ>S</typ>
+                			<stpid>14760</stpid>
+                			<stpnm>Michigan &amp; 16th Street</stpnm>
+                			<pdist>55784.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.861838603628</lat>
+						<lon>-87.623975872993</lon>
+
+							<typ>S</typ>
+                			<stpid>1577</stpid>
+                			<stpnm>1509 S Michigan</stpnm>
+                			<pdist>56190.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.863975991082</lat>
+						<lon>-87.624029517174</lon>
+
+							<typ>S</typ>
+                			<stpid>1578</stpid>
+                			<stpnm>Michigan &amp; 14th Street</stpnm>
+                			<pdist>56987.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.865953510231</lat>
+						<lon>-87.624088525772</lon>
+
+							<typ>S</typ>
+                			<stpid>1579</stpid>
+                			<stpnm>Michigan &amp; 13th Street</stpnm>
+                			<pdist>57847.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.867143987214</lat>
+						<lon>-87.624088525772</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.867211899662</lat>
+						<lon>-87.62401342392</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.867815118829</lat>
+						<lon>-87.623997330666</lon>
+
+							<typ>S</typ>
+                			<stpid>1580</stpid>
+                			<stpnm>Michigan &amp; Roosevelt</stpnm>
+                			<pdist>58530.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.86931714977</lat>
+						<lon>-87.62398660183</lon>
+
+							<typ>S</typ>
+                			<stpid>1581</stpid>
+                			<stpnm>Michigan &amp; 11th Street</stpnm>
+                			<pdist>58894.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.870519548042</lat>
+						<lon>-87.624008059502</lon>
+
+							<typ>S</typ>
+                			<stpid>1582</stpid>
+                			<stpnm>Michigan &amp; 9th Street</stpnm>
+                			<pdist>59372.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.871793825843</lat>
+						<lon>-87.624050974846</lon>
+
+							<typ>S</typ>
+                			<stpid>1583</stpid>
+                			<stpnm>Michigan &amp; 8th Street</stpnm>
+                			<pdist>59861.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.873391630449</lat>
+						<lon>-87.624072432518</lon>
+
+							<typ>S</typ>
+                			<stpid>1584</stpid>
+                			<stpnm>Michigan &amp; Balbo</stpnm>
+                			<pdist>60516.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.87446213719</lat>
+						<lon>-87.62412071228</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.875520643017</lat>
+						<lon>-87.624131441116</lon>
+
+							<typ>S</typ>
+                			<stpid>14485</stpid>
+                			<stpnm>Michigan &amp; Congress</stpnm>
+                			<pdist>61243.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.876982550541</lat>
+						<lon>-87.624126076698</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.878124892161</lat>
+						<lon>-87.624158263206</lon>
+
+							<typ>S</typ>
+                			<stpid>76</stpid>
+                			<stpnm>Michigan &amp; Jackson</stpnm>
+                			<pdist>62182.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.879534817125</lat>
+						<lon>-87.624211907387</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.880129931924</lat>
+						<lon>-87.624228000641</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.88066912511</lat>
+						<lon>-87.624195814133</lon>
+
+							<typ>S</typ>
+                			<stpid>15241</stpid>
+                			<stpnm>Michigan &amp; Monroe</stpnm>
+                			<pdist>63022.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.880836873174</lat>
+						<lon>-87.624190449715</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.882366555435</lat>
+						<lon>-87.624174356461</lon>
+
+							<typ>S</typ>
+                			<stpid>2188</stpid>
+                			<stpnm>Michigan &amp; Madison</stpnm>
+                			<pdist>63761.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.883416942673</lat>
+						<lon>-87.624217271805</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.884343505675</lat>
+						<lon>-87.624297738075</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.884343505675</lat>
+						<lon>-87.62363255024</lon>
+
+							<typ>S</typ>
+                			<stpid>14482</stpid>
+                			<stpnm>Randolph &amp; Michigan</stpnm>
+                			<pdist>64534.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.884343505675</lat>
+						<lon>-87.623289227486</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.884331524343</lat>
+						<lon>-87.622801065445</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.884331524343</lat>
+						<lon>-87.622248530388</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.884345502564</lat>
+						<lon>-87.62047290802</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.884852710224</lat>
+						<lon>-87.620486319065</lon>
+
+							<typ>S</typ>
+                			<stpid>2530</stpid>
+                			<stpnm>Columbus &amp; Randolph</stpnm>
+                			<pdist>65526.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1139</pid>
+				<ln>67347.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.884852710224</lat>
+						<lon>-87.620486319065</lon>
+
+							<typ>S</typ>
+                			<stpid>2530</stpid>
+                			<stpnm>Columbus &amp; Randolph</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.886919439964</lat>
+						<lon>-87.620505094528</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.886907459115</lat>
+						<lon>-87.623616456985</lon>
+
+							<typ>S</typ>
+                			<stpid>2532</stpid>
+                			<stpnm>South Water (Mid) &amp; Michigan</stpnm>
+                			<pdist>1529.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.886875510173</lat>
+						<lon>-87.624667882919</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.885106312544</lat>
+						<lon>-87.624635696411</lon>
+
+							<typ>S</typ>
+                			<stpid>1105</stpid>
+                			<stpnm>Michigan &amp; Lake/Randolph</stpnm>
+                			<pdist>2424.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.884527219157</lat>
+						<lon>-87.624619603157</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.883428924177</lat>
+						<lon>-87.624565958977</lon>
+
+							<typ>S</typ>
+                			<stpid>1106</stpid>
+                			<stpnm>Michigan &amp; Washington</stpnm>
+                			<pdist>3028.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.881216301693</lat>
+						<lon>-87.624523043633</lon>
+
+							<typ>S</typ>
+                			<stpid>1107</stpid>
+                			<stpnm>Michigan &amp; Madison/Monroe</stpnm>
+                			<pdist>3821.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.878428448039</lat>
+						<lon>-87.624458670616</lon>
+
+							<typ>S</typ>
+                			<stpid>1110</stpid>
+                			<stpnm>Michigan &amp; Jackson</stpnm>
+                			<pdist>4854.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.87627157237</lat>
+						<lon>-87.6243942976</lon>
+
+							<typ>S</typ>
+                			<stpid>73</stpid>
+                			<stpnm>Michigan &amp; Van Buren/Congress</stpnm>
+                			<pdist>5595.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.874569985756</lat>
+						<lon>-87.624362111092</lon>
+
+							<typ>S</typ>
+                			<stpid>1586</stpid>
+                			<stpnm>Michigan &amp; Harrison</stpnm>
+                			<pdist>6234.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.873279785427</lat>
+						<lon>-87.624335289001</lon>
+
+							<typ>S</typ>
+                			<stpid>1587</stpid>
+                			<stpnm>Michigan &amp; Balbo</stpnm>
+                			<pdist>6737.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.871981569955</lat>
+						<lon>-87.624308466911</lon>
+
+							<typ>S</typ>
+                			<stpid>1588</stpid>
+                			<stpnm>Michigan &amp; 8th Street</stpnm>
+                			<pdist>7199.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.870279869128</lat>
+						<lon>-87.624254822731</lon>
+
+							<typ>S</typ>
+                			<stpid>1589</stpid>
+                			<stpnm>Michigan &amp; 9th Street</stpnm>
+                			<pdist>7837.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.86908545581</lat>
+						<lon>-87.624244093895</lon>
+
+							<typ>S</typ>
+                			<stpid>1590</stpid>
+                			<stpnm>Michigan &amp; 11th Street</stpnm>
+                			<pdist>8383.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.867379683048</lat>
+						<lon>-87.624265551567</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.86719192542</lat>
+						<lon>-87.624228000641</lon>
+
+							<typ>S</typ>
+                			<stpid>1591</stpid>
+                			<stpnm>Michigan &amp; Roosevelt</stpnm>
+                			<pdist>9147.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.867151976917</lat>
+						<lon>-87.624163627625</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.865589970895</lat>
+						<lon>-87.624163627625</lon>
+
+							<typ>S</typ>
+                			<stpid>1592</stpid>
+                			<stpnm>Michigan &amp; 13th Street</stpnm>
+                			<pdist>9598.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.864275619127</lat>
+						<lon>-87.624126076698</lon>
+
+							<typ>S</typ>
+                			<stpid>15956</stpid>
+                			<stpnm>Michigan &amp; 14th Street</stpnm>
+                			<pdist>10078.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.861782671034</lat>
+						<lon>-87.624061703682</lon>
+
+							<typ>S</typ>
+                			<stpid>1594</stpid>
+                			<stpnm>1510 S Michigan</stpnm>
+                			<pdist>10984.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.85992488209</lat>
+						<lon>-87.62401342392</lon>
+
+							<typ>S</typ>
+                			<stpid>1595</stpid>
+                			<stpnm>Michigan &amp; 16th Street</stpnm>
+                			<pdist>11718.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.857635532448</lat>
+						<lon>-87.623975872993</lon>
+
+							<typ>S</typ>
+                			<stpid>1596</stpid>
+                			<stpnm>Michigan &amp; 18th Street</stpnm>
+                			<pdist>12589.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.855314136127</lat>
+						<lon>-87.623922228813</lon>
+
+							<typ>S</typ>
+                			<stpid>1597</stpid>
+                			<stpnm>Michigan &amp; Cullerton</stpnm>
+                			<pdist>13449.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.854015555825</lat>
+						<lon>-87.623884677887</lon>
+
+							<typ>S</typ>
+                			<stpid>1598</stpid>
+                			<stpnm>Michigan &amp; 21st Street</stpnm>
+                			<pdist>13891.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.852900753549</lat>
+						<lon>-87.623852491379</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.852517161176</lat>
+						<lon>-87.623836398125</lon>
+
+							<typ>S</typ>
+                			<stpid>1599</stpid>
+                			<stpnm>Michigan &amp; Cermak</stpnm>
+                			<pdist>14467.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.851282457607</lat>
+						<lon>-87.623798847198</lon>
+
+							<typ>S</typ>
+                			<stpid>16014</stpid>
+                			<stpnm>Michigan &amp; 23rd Street</stpnm>
+                			<pdist>14903.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.849360428251</lat>
+						<lon>-87.623745203018</lon>
+
+							<typ>S</typ>
+                			<stpid>17243</stpid>
+                			<stpnm>Michigan &amp; 24th Street</stpnm>
+                			<pdist>15565.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.847550231374</lat>
+						<lon>-87.623702287674</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.847438341145</lat>
+						<lon>-87.623777389526</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.847158614715</lat>
+						<lon>-87.623761296272</lon>
+
+							<typ>S</typ>
+                			<stpid>1602</stpid>
+                			<stpnm>Michigan &amp; 25th Street</stpnm>
+                			<pdist>16385.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.845524188695</lat>
+						<lon>-87.623664736748</lon>
+
+							<typ>S</typ>
+                			<stpid>1603</stpid>
+                			<stpnm>Michigan &amp; 26th Street</stpnm>
+                			<pdist>17054.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.843250308963</lat>
+						<lon>-87.623600363731</lon>
+
+							<typ>S</typ>
+                			<stpid>1604</stpid>
+                			<stpnm>Michigan &amp; 28th Street</stpnm>
+                			<pdist>17868.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.842043401479</lat>
+						<lon>-87.623578906059</lon>
+
+							<typ>S</typ>
+                			<stpid>1605</stpid>
+                			<stpnm>Michigan &amp; 29th Street</stpnm>
+                			<pdist>18353.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.840472789109</lat>
+						<lon>-87.623535990715</lon>
+
+							<typ>S</typ>
+                			<stpid>1606</stpid>
+                			<stpnm>3000 S Michigan</stpnm>
+                			<pdist>18837.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.838222709816</lat>
+						<lon>-87.623498439789</lon>
+
+							<typ>S</typ>
+                			<stpid>1607</stpid>
+                			<stpnm>Michigan &amp; 31st Street</stpnm>
+                			<pdist>19732.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.836224349264</lat>
+						<lon>-87.623428702354</lon>
+
+							<typ>S</typ>
+                			<stpid>1608</stpid>
+                			<stpnm>Michigan &amp; 32nd Street</stpnm>
+                			<pdist>20394.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.83459364082</lat>
+						<lon>-87.623369693756</lon>
+
+							<typ>S</typ>
+                			<stpid>1609</stpid>
+                			<stpnm>Michigan &amp; 33rd Street</stpnm>
+                			<pdist>21038.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.832751050156</lat>
+						<lon>-87.623321413994</lon>
+
+							<typ>S</typ>
+                			<stpid>1610</stpid>
+                			<stpnm>Michigan &amp; 34th Street</stpnm>
+                			<pdist>21660.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.831024322693</lat>
+						<lon>-87.623283863068</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.831000340039</lat>
+						<lon>-87.621502876282</lon>
+
+							<typ>S</typ>
+                			<stpid>15520</stpid>
+                			<stpnm>35th Street &amp; Indiana</stpnm>
+                			<pdist>22773.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.831040311123</lat>
+						<lon>-87.61946439743</lon>
+
+							<typ>S</typ>
+                			<stpid>7686</stpid>
+                			<stpnm>35th Street &amp; Giles</stpnm>
+                			<pdist>23277.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.831064293762</lat>
+						<lon>-87.61758685112</lon>
+
+							<typ>S</typ>
+                			<stpid>7687</stpid>
+                			<stpnm>35th Street &amp; King Drive</stpnm>
+                			<pdist>23816.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.831044308231</lat>
+						<lon>-87.617334723473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.831060296656</lat>
+						<lon>-87.616792917252</lon>
+
+							<typ>S</typ>
+                			<stpid>2533</stpid>
+                			<stpnm>35th Street &amp; King Drive</stpnm>
+                			<pdist>24077.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.831092273496</lat>
+						<lon>-87.614040970802</lon>
+
+							<typ>S</typ>
+                			<stpid>2534</stpid>
+                			<stpnm>35th Street &amp; Rhodes </stpnm>
+                			<pdist>24735.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.831104264807</lat>
+						<lon>-87.611728906631</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.83110826191</lat>
+						<lon>-87.61107981205</lon>
+
+							<typ>S</typ>
+                			<stpid>2535</stpid>
+                			<stpnm>35th Street &amp; Cottage Grove</stpnm>
+                			<pdist>25536.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.831104264807</lat>
+						<lon>-87.610634565353</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.83078449575</lat>
+						<lon>-87.610462903976</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.829217604278</lat>
+						<lon>-87.609620690346</lon>
+
+							<typ>S</typ>
+                			<stpid>2536</stpid>
+                			<stpnm>Cottage Grove &amp; 36th Street</stpnm>
+                			<pdist>26407.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.827862532004</lat>
+						<lon>-87.608934044838</lon>
+
+							<typ>S</typ>
+                			<stpid>2537</stpid>
+                			<stpnm>Cottage Grove &amp; 37th Street</stpnm>
+                			<pdist>26938.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.826155659737</lat>
+						<lon>-87.608059644699</lon>
+
+							<typ>S</typ>
+                			<stpid>2538</stpid>
+                			<stpnm>Cottage Grove &amp; 38th Street</stpnm>
+                			<pdist>27588.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.825124319076</lat>
+						<lon>-87.60756611824</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.824136934738</lat>
+						<lon>-87.607040405273</lon>
+
+							<typ>S</typ>
+                			<stpid>2539</stpid>
+                			<stpnm>Cottage Grove &amp; Pershing</stpnm>
+                			<pdist>28397.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.824021006023</lat>
+						<lon>-87.606981396675</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.823837118666</lat>
+						<lon>-87.606933116913</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.822945657252</lat>
+						<lon>-87.606900930405</lon>
+
+							<typ>S</typ>
+                			<stpid>2540</stpid>
+                			<stpnm>Cottage Grove &amp; Oakwood</stpnm>
+                			<pdist>28841.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.821666408428</lat>
+						<lon>-87.606874108315</lon>
+
+							<typ>S</typ>
+                			<stpid>2542</stpid>
+                			<stpnm>Cottage Grove &amp; 40th Street</stpnm>
+                			<pdist>29308.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.820491076043</lat>
+						<lon>-87.606841921806</lon>
+
+							<typ>S</typ>
+                			<stpid>2543</stpid>
+                			<stpnm>Cottage Grove &amp; 41st Street </stpnm>
+                			<pdist>29719.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.818792003001</lat>
+						<lon>-87.606782913208</lon>
+
+							<typ>S</typ>
+                			<stpid>2544</stpid>
+                			<stpnm>Cottage Grove &amp; 42nd Street</stpnm>
+                			<pdist>30357.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.816553155571</lat>
+						<lon>-87.606745362282</lon>
+
+							<typ>S</typ>
+                			<stpid>17242</stpid>
+                			<stpnm>Cottage Grove &amp; 43rd Street</stpnm>
+                			<pdist>31148.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.815089866564</lat>
+						<lon>-87.606729269028</lon>
+
+							<typ>S</typ>
+                			<stpid>2546</stpid>
+                			<stpnm>Cottage Grove &amp; 44th Street</stpnm>
+                			<pdist>31678.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.81335866454</lat>
+						<lon>-87.606686353683</lon>
+
+							<typ>S</typ>
+                			<stpid>2547</stpid>
+                			<stpnm>Cottage Grove &amp; 45th Street</stpnm>
+                			<pdist>32342.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.811491472725</lat>
+						<lon>-87.606638073921</lon>
+
+							<typ>S</typ>
+                			<stpid>2548</stpid>
+                			<stpnm>Cottage Grove &amp; 46th Street</stpnm>
+                			<pdist>33017.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.809656214028</lat>
+						<lon>-87.606595158577</lon>
+
+							<typ>S</typ>
+                			<stpid>2549</stpid>
+                			<stpnm>Cottage Grove &amp; 47th Street</stpnm>
+                			<pdist>33677.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.807904872389</lat>
+						<lon>-87.606579065323</lon>
+
+							<typ>S</typ>
+                			<stpid>2550</stpid>
+                			<stpnm>Cottage Grove &amp; 48th Street</stpnm>
+                			<pdist>34341.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.805673641771</lat>
+						<lon>-87.606509327888</lon>
+
+							<typ>S</typ>
+                			<stpid>2551</stpid>
+                			<stpnm>Cottage Grove &amp; 49th Street</stpnm>
+                			<pdist>35187.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.804202106654</lat>
+						<lon>-87.606487870216</lon>
+
+							<typ>S</typ>
+                			<stpid>2552</stpid>
+                			<stpnm>Cottage Grove &amp; 50th Street</stpnm>
+                			<pdist>35680.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.802326650145</lat>
+						<lon>-87.606428861618</lon>
+
+							<typ>S</typ>
+                			<stpid>2553</stpid>
+                			<stpnm>Cottage Grove &amp; 51st Street</stpnm>
+                			<pdist>36344.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.801530864164</lat>
+						<lon>-87.60639667511</lon>
+
+							<typ>S</typ>
+                			<stpid>2554</stpid>
+                			<stpnm>Cottage Grove &amp; Bowen</stpnm>
+                			<pdist>36730.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.800507124951</lat>
+						<lon>-87.606380581856</lon>
+
+							<typ>S</typ>
+                			<stpid>2555</stpid>
+                			<stpnm>Cottage Grove &amp; 52nd Street</stpnm>
+                			<pdist>37064.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.798507587132</lat>
+						<lon>-87.606359124184</lon>
+
+							<typ>S</typ>
+                			<stpid>2556</stpid>
+                			<stpnm>Cottage Grove &amp; 53rd Street</stpnm>
+                			<pdist>37797.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.796767938479</lat>
+						<lon>-87.606294751167</lon>
+
+							<typ>S</typ>
+                			<stpid>2557</stpid>
+                			<stpnm>Cottage Grove &amp; 54th Street</stpnm>
+                			<pdist>38348.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.795088232903</lat>
+						<lon>-87.606284022331</lon>
+
+							<typ>S</typ>
+                			<stpid>2558</stpid>
+                			<stpnm>Cottage Grove &amp; 55th Street</stpnm>
+                			<pdist>38973.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.793124521284</lat>
+						<lon>-87.606214284897</lon>
+
+							<typ>S</typ>
+                			<stpid>2559</stpid>
+                			<stpnm>Cottage Grove &amp; 56th Street</stpnm>
+                			<pdist>39750.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.791508713451</lat>
+						<lon>-87.606208920479</lon>
+
+							<typ>S</typ>
+                			<stpid>2560</stpid>
+                			<stpnm>Cottage Grove &amp; 57th Street</stpnm>
+                			<pdist>40344.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.789568890346</lat>
+						<lon>-87.606155276299</lon>
+
+							<typ>S</typ>
+                			<stpid>2561</stpid>
+                			<stpnm>Cottage Grove &amp; 58th Street</stpnm>
+                			<pdist>41082.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.787629008541</lat>
+						<lon>-87.606101632118</lon>
+
+							<typ>S</typ>
+                			<stpid>2562</stpid>
+                			<stpnm>Cottage Grove &amp; 59th Street</stpnm>
+                			<pdist>41666.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.785773066675</lat>
+						<lon>-87.606074810028</lon>
+
+							<typ>S</typ>
+                			<stpid>2563</stpid>
+                			<stpnm>Cottage Grove &amp; 60th Street</stpnm>
+                			<pdist>42500.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.78414907347</lat>
+						<lon>-87.60604262352</lon>
+
+							<typ>S</typ>
+                			<stpid>2564</stpid>
+                			<stpnm>Cottage Grove &amp; 61st Street</stpnm>
+                			<pdist>43013.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.78242103553</lat>
+						<lon>-87.606010437012</lon>
+
+							<typ>S</typ>
+                			<stpid>2565</stpid>
+                			<stpnm>Cottage Grove &amp; 62nd Street</stpnm>
+                			<pdist>43665.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.780252922062</lat>
+						<lon>-87.605956792831</lon>
+
+							<typ>S</typ>
+                			<stpid>2566</stpid>
+                			<stpnm>Cottage Grove &amp; 63rd Street (Green Line)</stpnm>
+                			<pdist>44263.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.778712796931</lat>
+						<lon>-87.605913877487</lon>
+
+							<typ>S</typ>
+                			<stpid>2567</stpid>
+                			<stpnm>Cottage Grove &amp; 64th Street</stpnm>
+                			<pdist>45010.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.776888600875</lat>
+						<lon>-87.605854868889</lon>
+
+							<typ>S</typ>
+                			<stpid>2568</stpid>
+                			<stpnm>Cottage Grove &amp; 65th Street</stpnm>
+                			<pdist>45654.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.775060352331</lat>
+						<lon>-87.605828046799</lon>
+
+							<typ>S</typ>
+                			<stpid>2569</stpid>
+                			<stpnm>Cottage Grove &amp; Marquette Rd</stpnm>
+                			<pdist>46334.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.773280060232</lat>
+						<lon>-87.605795860291</lon>
+
+							<typ>S</typ>
+                			<stpid>2570</stpid>
+                			<stpnm>Cottage Grove &amp; 67th Street</stpnm>
+                			<pdist>46998.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.771451708826</lat>
+						<lon>-87.605736851692</lon>
+
+							<typ>S</typ>
+                			<stpid>2571</stpid>
+                			<stpnm>Cottage Grove &amp; 68th Street</stpnm>
+                			<pdist>47665.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.769583295892</lat>
+						<lon>-87.605683207512</lon>
+
+							<typ>S</typ>
+                			<stpid>2572</stpid>
+                			<stpnm>Cottage Grove &amp; 69th Street</stpnm>
+                			<pdist>48320.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.767550784908</lat>
+						<lon>-87.605640292168</lon>
+
+							<typ>S</typ>
+                			<stpid>2573</stpid>
+                			<stpnm>7000 S Cottage Grove</stpnm>
+                			<pdist>49059.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.766186405784</lat>
+						<lon>-87.605602741241</lon>
+
+							<typ>S</typ>
+                			<stpid>2574</stpid>
+                			<stpnm>Cottage Grove &amp; 71st Street/South Chicago</stpnm>
+                			<pdist>49555.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.764637940368</lat>
+						<lon>-87.605554461479</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.763637619842</lat>
+						<lon>-87.605549097061</lon>
+
+							<typ>S</typ>
+                			<stpid>2575</stpid>
+                			<stpnm>Cottage Grove &amp; Anthony</stpnm>
+                			<pdist>50633.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.762301167285</lat>
+						<lon>-87.605511546135</lon>
+
+							<typ>S</typ>
+                			<stpid>2576</stpid>
+                			<stpnm>Cottage Grove &amp; 73rd Street</stpnm>
+                			<pdist>50996.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.760556534636</lat>
+						<lon>-87.605463266373</lon>
+
+							<typ>S</typ>
+                			<stpid>2577</stpid>
+                			<stpnm>Cottage Grove &amp; 74th Street</stpnm>
+                			<pdist>51663.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.758699809258</lat>
+						<lon>-87.605409622192</lon>
+
+							<typ>S</typ>
+                			<stpid>2578</stpid>
+                			<stpnm>Cottage Grove &amp; 75th Street</stpnm>
+                			<pdist>52326.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.756843030159</lat>
+						<lon>-87.605355978012</lon>
+
+							<typ>S</typ>
+                			<stpid>2579</stpid>
+                			<stpnm>Cottage Grove &amp; 76th Street</stpnm>
+                			<pdist>52989.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.754998202896</lat>
+						<lon>-87.605313062668</lon>
+
+							<typ>S</typ>
+                			<stpid>2580</stpid>
+                			<stpnm>Cottage Grove &amp; 77th Street</stpnm>
+                			<pdist>53662.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.753225357972</lat>
+						<lon>-87.605286240578</lon>
+
+							<typ>S</typ>
+                			<stpid>2581</stpid>
+                			<stpnm>Cottage Grove &amp; 78th Street</stpnm>
+                			<pdist>54334.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.751568524096</lat>
+						<lon>-87.60525405407</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.7514644703</lat>
+						<lon>-87.605318427086</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.751196330893</lat>
+						<lon>-87.605345249176</lon>
+
+							<typ>S</typ>
+                			<stpid>2582</stpid>
+                			<stpnm>Cottage Grove &amp; 79th Street</stpnm>
+                			<pdist>55156.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.749579466556</lat>
+						<lon>-87.60530769825</lon>
+
+							<typ>S</typ>
+                			<stpid>2583</stpid>
+                			<stpnm>Cottage Grove &amp; 80th Street</stpnm>
+                			<pdist>55667.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.747758444345</lat>
+						<lon>-87.60525405407</lon>
+
+							<typ>S</typ>
+                			<stpid>2584</stpid>
+                			<stpnm>Cottage Grove &amp; 81st Street</stpnm>
+                			<pdist>56332.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.745905351137</lat>
+						<lon>-87.605216503143</lon>
+
+							<typ>S</typ>
+                			<stpid>2585</stpid>
+                			<stpnm>Cottage Grove &amp; 82nd Street</stpnm>
+                			<pdist>57008.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.743687972777</lat>
+						<lon>-87.605130672455</lon>
+
+							<typ>S</typ>
+                			<stpid>17104</stpid>
+                			<stpnm>Cottage Grove &amp; 83rd Street</stpnm>
+                			<pdist>57844.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.742182993659</lat>
+						<lon>-87.605093121529</lon>
+
+							<typ>S</typ>
+                			<stpid>2587</stpid>
+                			<stpnm>Cottage Grove &amp; 84th Street</stpnm>
+                			<pdist>58347.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.740397786523</lat>
+						<lon>-87.605039477348</lon>
+
+							<typ>S</typ>
+                			<stpid>2588</stpid>
+                			<stpnm>Cottage Grove &amp; 85th Street</stpnm>
+                			<pdist>59015.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.738196229564</lat>
+						<lon>-87.60495364666</lon>
+
+							<typ>S</typ>
+                			<stpid>17241</stpid>
+                			<stpnm>Cottage Grove &amp; 86th Street</stpnm>
+                			<pdist>59854.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.736803205449</lat>
+						<lon>-87.604894638062</lon>
+
+							<typ>S</typ>
+                			<stpid>2590</stpid>
+                			<stpnm>Cottage Grove &amp; 87th Street</stpnm>
+                			<pdist>60329.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.735762420585</lat>
+						<lon>-87.604905366898</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.734937786756</lat>
+						<lon>-87.604889273643</lon>
+
+							<typ>S</typ>
+                			<stpid>2591</stpid>
+                			<stpnm>Cottage Grove &amp; 88th Street</stpnm>
+                			<pdist>61013.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.733160384636</lat>
+						<lon>-87.604851722717</lon>
+
+							<typ>S</typ>
+                			<stpid>2592</stpid>
+                			<stpnm>Cottage Grove &amp; 89th Street</stpnm>
+                			<pdist>61672.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.732099524347</lat>
+						<lon>-87.604851722717</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.731330890097</lat>
+						<lon>-87.604840993881</lon>
+
+							<typ>S</typ>
+                			<stpid>2593</stpid>
+                			<stpnm>Cottage Grove &amp; 90th Street</stpnm>
+                			<pdist>62341.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.72915304311</lat>
+						<lon>-87.604771256447</lon>
+
+							<typ>S</typ>
+                			<stpid>15252</stpid>
+                			<stpnm>Cottage Grove &amp; 91st Street</stpnm>
+                			<pdist>63134.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.727623702018</lat>
+						<lon>-87.604749798775</lon>
+
+							<typ>S</typ>
+                			<stpid>2595</stpid>
+                			<stpnm>Cottage Grove &amp; 92nd Street</stpnm>
+                			<pdist>63662.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.726654833588</lat>
+						<lon>-87.604722976685</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.725553829001</lat>
+						<lon>-87.604696154594</lon>
+
+							<typ>S</typ>
+                			<stpid>2596</stpid>
+                			<stpnm>Cottage Grove &amp; 93rd Street</stpnm>
+                			<pdist>64488.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.724288651342</lat>
+						<lon>-87.604663968086</lon>
+
+							<typ>S</typ>
+                			<stpid>2597</stpid>
+                			<stpnm>Cottage Grove &amp; Lyon</stpnm>
+                			<pdist>64915.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.72369208741</lat>
+						<lon>-87.604637145996</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.722122577324</lat>
+						<lon>-87.604562044144</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.722118573423</lat>
+						<lon>-87.604663968086</lon>
+
+							<typ>S</typ>
+                			<stpid>2599</stpid>
+                			<stpnm>Cottage Grove &amp; 95th Street</stpnm>
+                			<pdist>65646.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.722114569521</lat>
+						<lon>-87.606788277626</lon>
+
+							<typ>S</typ>
+                			<stpid>2600</stpid>
+                			<stpnm>95th Street &amp; Langley</stpnm>
+                			<pdist>66261.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.722062518779</lat>
+						<lon>-87.609357833862</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.721173645742</lat>
+						<lon>-87.609341740608</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.721077550624</lat>
+						<lon>-87.609245181084</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.721037510948</lat>
+						<lon>-87.609132528305</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.72103350698</lat>
+						<lon>-87.60890185833</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.721089562521</lat>
+						<lon>-87.60890185833</lon>
+
+							<typ>S</typ>
+                			<stpid>2103</stpid>
+                			<stpnm>Chicago State University</stpnm>
+                			<pdist>67347.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

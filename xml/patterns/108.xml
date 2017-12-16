@@ -1,0 +1,1194 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>729</pid>
+				<ln>27603.0</ln>
+				<rtdir>South Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.72198644454</lat>
+						<lon>-87.623954415321</lon>
+
+							<typ>S</typ>
+                			<stpid>14008</stpid>
+                			<stpnm>95th Red Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.721826287955</lat>
+						<lon>-87.623954415321</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.721782244824</lat>
+						<lon>-87.626287937164</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.721754217361</lat>
+						<lon>-87.627462744713</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.721734197738</lat>
+						<lon>-87.6291847229</lon>
+
+							<typ>S</typ>
+                			<stpid>15160</stpid>
+                			<stpnm>95th Street &amp; Wentworth</stpnm>
+                			<pdist>1445.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.721718182034</lat>
+						<lon>-87.631180286407</lon>
+
+							<typ>S</typ>
+                			<stpid>3455</stpid>
+                			<stpnm>95th Street &amp; Princeton</stpnm>
+                			<pdist>1990.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.721694158472</lat>
+						<lon>-87.633218765259</lon>
+
+							<typ>S</typ>
+                			<stpid>3456</stpid>
+                			<stpnm>95th Street &amp; Eggleston</stpnm>
+                			<pdist>2553.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.721646111319</lat>
+						<lon>-87.635836601257</lon>
+
+							<typ>S</typ>
+                			<stpid>3457</stpid>
+                			<stpnm>95th Street &amp; Normal</stpnm>
+                			<pdist>3247.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.721618083797</lat>
+						<lon>-87.63819694519</lon>
+
+							<typ>S</typ>
+                			<stpid>3458</stpid>
+                			<stpnm>95th Street &amp; Wallace</stpnm>
+                			<pdist>3914.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.721606071999</lat>
+						<lon>-87.639575600624</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.721590056263</lat>
+						<lon>-87.640562653542</lon>
+
+							<typ>S</typ>
+                			<stpid>3459</stpid>
+                			<stpnm>95th Street &amp; Union</stpnm>
+                			<pdist>4576.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.721566032653</lat>
+						<lon>-87.642000317574</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.721554020844</lat>
+						<lon>-87.643314599991</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.720993467277</lat>
+						<lon>-87.643298506737</lon>
+
+							<typ>S</typ>
+                			<stpid>3698</stpid>
+                			<stpnm>Halsted &amp; 95th Street</stpnm>
+                			<pdist>5440.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.719375842425</lat>
+						<lon>-87.643250226974</lon>
+
+							<typ>S</typ>
+                			<stpid>3699</stpid>
+                			<stpnm>Halsted &amp; 96th Street </stpnm>
+                			<pdist>6001.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.717770189373</lat>
+						<lon>-87.643223404884</lon>
+
+							<typ>S</typ>
+                			<stpid>3700</stpid>
+                			<stpnm>Halsted &amp; 97th Street </stpnm>
+                			<pdist>6640.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.716060385037</lat>
+						<lon>-87.643196582794</lon>
+
+							<typ>S</typ>
+                			<stpid>3701</stpid>
+                			<stpnm>Halsted &amp; 98th Street</stpnm>
+                			<pdist>7255.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.713854999999</lat>
+						<lon>-87.643138333334</lon>
+
+							<typ>S</typ>
+                			<stpid>17492</stpid>
+                			<stpnm>Halsted &amp; 99th Street</stpnm>
+                			<pdist>8063.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.712552541021</lat>
+						<lon>-87.643094658852</lon>
+
+							<typ>S</typ>
+                			<stpid>3703</stpid>
+                			<stpnm>Halsted &amp; 100th Street</stpnm>
+                			<pdist>8566.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.710698431978</lat>
+						<lon>-87.643030285835</lon>
+
+							<typ>S</typ>
+                			<stpid>3704</stpid>
+                			<stpnm>Halsted &amp; 101st Street</stpnm>
+                			<pdist>9231.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.708892326178</lat>
+						<lon>-87.642982006073</lon>
+
+							<typ>S</typ>
+                			<stpid>3705</stpid>
+                			<stpnm>Halsted &amp; 102nd Street</stpnm>
+                			<pdist>9893.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.706709713767</lat>
+						<lon>-87.642928361893</lon>
+
+							<typ>S</typ>
+                			<stpid>14977</stpid>
+                			<stpnm>Halsted &amp; 103rd Street</stpnm>
+                			<pdist>10734.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.70527195245</lat>
+						<lon>-87.64288008213</lon>
+
+							<typ>S</typ>
+                			<stpid>3707</stpid>
+                			<stpnm>Halsted &amp; 104th Street</stpnm>
+                			<pdist>11212.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.703429648617</lat>
+						<lon>-87.642804980278</lon>
+
+							<typ>S</typ>
+                			<stpid>3708</stpid>
+                			<stpnm>Halsted &amp; 105th Street</stpnm>
+                			<pdist>11870.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.701559255728</lat>
+						<lon>-87.642778158188</lon>
+
+							<typ>S</typ>
+                			<stpid>3709</stpid>
+                			<stpnm>Halsted &amp; 106th Street</stpnm>
+                			<pdist>12551.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.699456500689</lat>
+						<lon>-87.64271914959</lon>
+
+							<typ>S</typ>
+                			<stpid>14978</stpid>
+                			<stpnm>Halsted &amp; 107th Street</stpnm>
+                			<pdist>13372.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.697978523143</lat>
+						<lon>-87.642676234245</lon>
+
+							<typ>S</typ>
+                			<stpid>3711</stpid>
+                			<stpnm>Halsted &amp; 108th Street</stpnm>
+                			<pdist>13868.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.696107971699</lat>
+						<lon>-87.642585039139</lon>
+
+							<typ>S</typ>
+                			<stpid>3712</stpid>
+                			<stpnm>Halsted &amp; 109th Street</stpnm>
+                			<pdist>14545.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.694337506728</lat>
+						<lon>-87.642542123795</lon>
+
+							<typ>S</typ>
+                			<stpid>3713</stpid>
+                			<stpnm>Halsted &amp; 110th Street</stpnm>
+                			<pdist>15203.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.692514918352</lat>
+						<lon>-87.642488479614</lon>
+
+							<typ>S</typ>
+                			<stpid>3714</stpid>
+                			<stpnm>Halsted &amp; 111th Street</stpnm>
+                			<pdist>15865.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.690604149375</lat>
+						<lon>-87.64244556427</lon>
+
+							<typ>S</typ>
+                			<stpid>3715</stpid>
+                			<stpnm>Halsted &amp; 112th Street</stpnm>
+                			<pdist>16529.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.688861574726</lat>
+						<lon>-87.642381191254</lon>
+
+							<typ>S</typ>
+                			<stpid>3716</stpid>
+                			<stpnm>Halsted &amp; 113th Street</stpnm>
+                			<pdist>17201.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.687030819021</lat>
+						<lon>-87.642322182655</lon>
+
+							<typ>S</typ>
+                			<stpid>3717</stpid>
+                			<stpnm>Halsted &amp; 114th Street</stpnm>
+                			<pdist>17869.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.685200011219</lat>
+						<lon>-87.642263174057</lon>
+
+							<typ>S</typ>
+                			<stpid>3718</stpid>
+                			<stpnm>Halsted &amp; 115th Street</stpnm>
+                			<pdist>18533.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.682992556609</lat>
+						<lon>-87.642177343369</lon>
+
+							<typ>S</typ>
+                			<stpid>3719</stpid>
+                			<stpnm>Halsted &amp; 116th Street </stpnm>
+                			<pdist>19196.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.681574297175</lat>
+						<lon>-87.642139792442</lon>
+
+							<typ>S</typ>
+                			<stpid>3720</stpid>
+                			<stpnm>Halsted &amp; 117th Street </stpnm>
+                			<pdist>19807.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.679787406043</lat>
+						<lon>-87.642070055008</lon>
+
+							<typ>S</typ>
+                			<stpid>3721</stpid>
+                			<stpnm>Halsted &amp; 118th Street</stpnm>
+                			<pdist>20519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.677611819142</lat>
+						<lon>-87.641978859901</lon>
+
+							<typ>S</typ>
+                			<stpid>14949</stpid>
+                			<stpnm>Halsted &amp; 119th Street</stpnm>
+                			<pdist>21367.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.675804784057</lat>
+						<lon>-87.641914486885</lon>
+
+							<typ>S</typ>
+                			<stpid>17640</stpid>
+                			<stpnm>Halsted &amp; 120th Street</stpnm>
+                			<pdist>21979.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.674242118575</lat>
+						<lon>-87.641855478287</lon>
+
+							<typ>S</typ>
+                			<stpid>5984</stpid>
+                			<stpnm>12100 S Halsted</stpnm>
+                			<pdist>22491.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.672434988879</lat>
+						<lon>-87.641828656197</lon>
+
+							<typ>S</typ>
+                			<stpid>5985</stpid>
+                			<stpnm>Halsted &amp; 122nd Street</stpnm>
+                			<pdist>23184.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.670599758685</lat>
+						<lon>-87.641748189926</lon>
+
+							<typ>S</typ>
+                			<stpid>5986</stpid>
+                			<stpnm>Halsted &amp; 123rd Street</stpnm>
+                			<pdist>23842.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.668836606165</lat>
+						<lon>-87.641699910164</lon>
+
+							<typ>S</typ>
+                			<stpid>5987</stpid>
+                			<stpnm>Halsted &amp; 124th Street</stpnm>
+                			<pdist>24507.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.666961200032</lat>
+						<lon>-87.641630172729</lon>
+
+							<typ>S</typ>
+                			<stpid>5988</stpid>
+                			<stpnm>Halsted &amp; 125th Street</stpnm>
+                			<pdist>25248.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.665061694544</lat>
+						<lon>-87.641587257385</lon>
+
+							<typ>S</typ>
+                			<stpid>5989</stpid>
+                			<stpnm>Halsted &amp; 126th Street</stpnm>
+                			<pdist>25915.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.663438654952</lat>
+						<lon>-87.641512155533</lon>
+
+							<typ>S</typ>
+                			<stpid>5990</stpid>
+                			<stpnm>Halsted &amp; 127th Street</stpnm>
+                			<pdist>26495.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.663242284425</lat>
+						<lon>-87.641506791115</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.661967865222</lat>
+						<lon>-87.641463875771</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.662060041042</lat>
+						<lon>-87.641125917435</lon>
+
+							<typ>S</typ>
+                			<stpid>5991</stpid>
+                			<stpnm>Vermont &amp; Halsted</stpnm>
+                			<pdist>27088.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.662581032327</lat>
+						<lon>-87.63920545578</lon>
+
+							<typ>S</typ>
+                			<stpid>5992</stpid>
+                			<stpnm>Vermont &amp; Union</stpnm>
+                			<pdist>27603.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>731</pid>
+				<ln>28489.0</ln>
+				<rtdir>North Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.662581032327</lat>
+						<lon>-87.63920545578</lon>
+
+							<typ>S</typ>
+                			<stpid>5992</stpid>
+                			<stpnm>Vermont &amp; Union</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.662961754061</lat>
+						<lon>-87.637724876404</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.663150110297</lat>
+						<lon>-87.637724876404</lon>
+
+							<typ>S</typ>
+                			<stpid>5973</stpid>
+                			<stpnm>Lowe &amp; 127th Street</stpnm>
+                			<pdist>480.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.663326443296</lat>
+						<lon>-87.637730240822</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.663290375222</lat>
+						<lon>-87.640010118484</lon>
+
+							<typ>S</typ>
+                			<stpid>5974</stpid>
+                			<stpnm>127th Street &amp; Emerald</stpnm>
+                			<pdist>1138.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.663266329828</lat>
+						<lon>-87.641292214394</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.663342473544</lat>
+						<lon>-87.641292214394</lon>
+
+							<typ>S</typ>
+                			<stpid>5975</stpid>
+                			<stpnm>127th Street &amp; Halsted</stpnm>
+                			<pdist>1424.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.664965515561</lat>
+						<lon>-87.64135658741</lon>
+
+							<typ>S</typ>
+                			<stpid>5976</stpid>
+                			<stpnm>Halsted &amp; 126th Street</stpnm>
+                			<pdist>2092.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.6667528182</lat>
+						<lon>-87.641399502754</lon>
+
+							<typ>S</typ>
+                			<stpid>5977</stpid>
+                			<stpnm>Halsted &amp; 125th Street</stpnm>
+                			<pdist>2750.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.668576136357</lat>
+						<lon>-87.641463875771</lon>
+
+							<typ>S</typ>
+                			<stpid>5978</stpid>
+                			<stpnm>Halsted &amp; 124th Street</stpnm>
+                			<pdist>3426.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.670731993178</lat>
+						<lon>-87.641549706459</lon>
+
+							<typ>S</typ>
+                			<stpid>17639</stpid>
+                			<stpnm>Halsted &amp; 123rd Street</stpnm>
+                			<pdist>4229.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.672222617757</lat>
+						<lon>-87.641576528549</lon>
+
+							<typ>S</typ>
+                			<stpid>5980</stpid>
+                			<stpnm>Halsted &amp; 122nd Street</stpnm>
+                			<pdist>4757.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.673993691336</lat>
+						<lon>-87.641635537148</lon>
+
+							<typ>S</typ>
+                			<stpid>5981</stpid>
+                			<stpnm>12100 S Halsted</stpnm>
+                			<pdist>5376.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.676129332898</lat>
+						<lon>-87.641716003418</lon>
+
+							<typ>S</typ>
+                			<stpid>17643</stpid>
+                			<stpnm>Halsted &amp; 120th Street</stpnm>
+                			<pdist>6199.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.677984438693</lat>
+						<lon>-87.641769647598</lon>
+
+							<typ>S</typ>
+                			<stpid>14545</stpid>
+                			<stpnm>Halsted &amp; 119th Street</stpnm>
+                			<pdist>6925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.679583072281</lat>
+						<lon>-87.641823291779</lon>
+
+							<typ>S</typ>
+                			<stpid>3638</stpid>
+                			<stpnm>Halsted &amp; 118th Street</stpnm>
+                			<pdist>7400.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.681670451345</lat>
+						<lon>-87.641887664795</lon>
+
+							<typ>S</typ>
+                			<stpid>3639</stpid>
+                			<stpnm>Halsted &amp; 117th Street </stpnm>
+                			<pdist>8189.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.683897982724</lat>
+						<lon>-87.641973495483</lon>
+
+							<typ>S</typ>
+                			<stpid>3640</stpid>
+                			<stpnm>Halsted &amp; 116th Street </stpnm>
+                			<pdist>8990.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.685244079415</lat>
+						<lon>-87.64201104641</lon>
+
+							<typ>S</typ>
+                			<stpid>15034</stpid>
+                			<stpnm>Halsted &amp; 115th Street</stpnm>
+                			<pdist>9526.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.686774428943</lat>
+						<lon>-87.642021775246</lon>
+
+							<typ>S</typ>
+                			<stpid>3642</stpid>
+                			<stpnm>Halsted &amp; 114th Street</stpnm>
+                			<pdist>10047.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.688573144024</lat>
+						<lon>-87.642096877098</lon>
+
+							<typ>S</typ>
+                			<stpid>3643</stpid>
+                			<stpnm>Halsted &amp; 113th Street</stpnm>
+                			<pdist>10702.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.690375814695</lat>
+						<lon>-87.642177343369</lon>
+
+							<typ>S</typ>
+                			<stpid>3644</stpid>
+                			<stpnm>Halsted &amp; 112th Street</stpnm>
+                			<pdist>11364.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.692222498267</lat>
+						<lon>-87.642236351967</lon>
+
+							<typ>S</typ>
+                			<stpid>3645</stpid>
+                			<stpnm>Halsted &amp; 111th Street</stpnm>
+                			<pdist>12035.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.694017055371</lat>
+						<lon>-87.642289996147</lon>
+
+							<typ>S</typ>
+                			<stpid>3646</stpid>
+                			<stpnm>Halsted &amp; 110th Street</stpnm>
+                			<pdist>12700.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.695819573488</lat>
+						<lon>-87.642311453819</lon>
+
+							<typ>S</typ>
+                			<stpid>3647</stpid>
+                			<stpnm>Halsted &amp; 109th Street</stpnm>
+                			<pdist>13347.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.697662095351</lat>
+						<lon>-87.642413377762</lon>
+
+							<typ>S</typ>
+                			<stpid>3648</stpid>
+                			<stpnm>Halsted &amp; 108th Street</stpnm>
+                			<pdist>14030.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.699476527251</lat>
+						<lon>-87.642483115196</lon>
+
+							<typ>S</typ>
+                			<stpid>3649</stpid>
+                			<stpnm>Halsted &amp; 107th Street</stpnm>
+                			<pdist>14697.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.701278892362</lat>
+						<lon>-87.642515301704</lon>
+
+							<typ>S</typ>
+                			<stpid>3650</stpid>
+                			<stpnm>Halsted &amp; 106th Street</stpnm>
+                			<pdist>15353.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.703137278155</lat>
+						<lon>-87.642590403557</lon>
+
+							<typ>S</typ>
+                			<stpid>3651</stpid>
+                			<stpnm>Halsted &amp; 105th Street</stpnm>
+                			<pdist>16024.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.704939540661</lat>
+						<lon>-87.642644047737</lon>
+
+							<typ>S</typ>
+                			<stpid>3652</stpid>
+                			<stpnm>Halsted &amp; 104th Street</stpnm>
+                			<pdist>16691.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.707078159959</lat>
+						<lon>-87.642703056335</lon>
+
+							<typ>S</typ>
+                			<stpid>14497</stpid>
+                			<stpnm>Halsted &amp; 103rd Street</stpnm>
+                			<pdist>17552.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.708591971069</lat>
+						<lon>-87.642751336098</lon>
+
+							<typ>S</typ>
+                			<stpid>3654</stpid>
+                			<stpnm>Halsted &amp; 102nd Street</stpnm>
+                			<pdist>18017.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.710426117722</lat>
+						<lon>-87.642778158188</lon>
+
+							<typ>S</typ>
+                			<stpid>3655</stpid>
+                			<stpnm>Halsted &amp; 101st Street</stpnm>
+                			<pdist>18692.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.71224419398</lat>
+						<lon>-87.642788887024</lon>
+
+							<typ>S</typ>
+                			<stpid>3656</stpid>
+                			<stpnm>Halsted &amp; 100th Street</stpnm>
+                			<pdist>19348.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.714610819738</lat>
+						<lon>-87.642858624458</lon>
+
+							<typ>S</typ>
+                			<stpid>3657</stpid>
+                			<stpnm>Halsted &amp; 99th Street</stpnm>
+                			<pdist>20185.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.716188521833</lat>
+						<lon>-87.642906904221</lon>
+
+							<typ>S</typ>
+                			<stpid>17512</stpid>
+                			<stpnm>Halsted &amp; 98th Place</stpnm>
+                			<pdist>20525.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.717694110053</lat>
+						<lon>-87.642965912819</lon>
+
+							<typ>S</typ>
+                			<stpid>3659</stpid>
+                			<stpnm>Halsted &amp; 97th Street </stpnm>
+                			<pdist>21357.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.71951198074</lat>
+						<lon>-87.643024921417</lon>
+
+							<typ>S</typ>
+                			<stpid>3660</stpid>
+                			<stpnm>Halsted &amp; 96th Street </stpnm>
+                			<pdist>22020.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.721289760486</lat>
+						<lon>-87.643062472343</lon>
+
+							<typ>S</typ>
+                			<stpid>3661</stpid>
+                			<stpnm>Halsted &amp; 95th Street</stpnm>
+                			<pdist>22647.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.721369839497</lat>
+						<lon>-87.64307320118</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.721385855287</lat>
+						<lon>-87.640938162804</lon>
+
+							<typ>S</typ>
+                			<stpid>3506</stpid>
+                			<stpnm>95th Street &amp; Union</stpnm>
+                			<pdist>23278.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.721417886856</lat>
+						<lon>-87.638508081436</lon>
+
+							<typ>S</typ>
+                			<stpid>3507</stpid>
+                			<stpnm>95th Street &amp; Wallace</stpnm>
+                			<pdist>23941.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.721453922351</lat>
+						<lon>-87.636115550995</lon>
+
+							<typ>S</typ>
+                			<stpid>3508</stpid>
+                			<stpnm>95th Street &amp; Normal</stpnm>
+                			<pdist>24606.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.721481949945</lat>
+						<lon>-87.63414144516</lon>
+
+							<typ>S</typ>
+                			<stpid>3509</stpid>
+                			<stpnm>95th Street &amp; Eggleston </stpnm>
+                			<pdist>25146.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.72152999722</lat>
+						<lon>-87.631223201752</lon>
+
+							<typ>S</typ>
+                			<stpid>3510</stpid>
+                			<stpnm>95th Street &amp; Princeton</stpnm>
+                			<pdist>25917.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.721542009033</lat>
+						<lon>-87.628766298294</lon>
+
+							<typ>S</typ>
+                			<stpid>3511</stpid>
+                			<stpnm>95th Street &amp; Wentworth</stpnm>
+                			<pdist>26589.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.721578044459</lat>
+						<lon>-87.626234292984</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.721590056263</lat>
+						<lon>-87.624957561493</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.722731167418</lat>
+						<lon>-87.625038027763</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.722739175144</lat>
+						<lon>-87.623820304871</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.72198644454</lat>
+						<lon>-87.623788118362</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.72198644454</lat>
+						<lon>-87.623954415321</lon>
+
+							<typ>S</typ>
+                			<stpid>14008</stpid>
+                			<stpnm>95th Red Line Station</stpnm>
+                			<pdist>28489.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

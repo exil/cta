@@ -1,0 +1,2778 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>3522</pid>
+				<ln>41901.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.999093301982</lat>
+						<lon>-87.788679599762</lon>
+
+							<typ>S</typ>
+                			<stpid>14170</stpid>
+                			<stpnm>Milwaukee &amp; Imlay Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.999348443634</lat>
+						<lon>-87.788942456245</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.999053436006</lat>
+						<lon>-87.789532542229</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.998794306557</lat>
+						<lon>-87.789323329926</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.997486683391</lat>
+						<lon>-87.788159251213</lon>
+
+							<typ>S</typ>
+                			<stpid>9534</stpid>
+                			<stpnm>Milwaukee &amp; Devon</stpnm>
+                			<pdist>739.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.996800967821</lat>
+						<lon>-87.787510156631</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.996589670255</lat>
+						<lon>-87.78754234314</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.995776367416</lat>
+						<lon>-87.787536978722</lon>
+
+							<typ>S</typ>
+                			<stpid>9535</stpid>
+                			<stpnm>Nagle &amp; Palatine</stpnm>
+                			<pdist>1404.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.994516524853</lat>
+						<lon>-87.787547707558</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.993918489591</lat>
+						<lon>-87.787579894066</lon>
+
+							<typ>S</typ>
+                			<stpid>9536</stpid>
+                			<stpnm>Nagle &amp; Raven</stpnm>
+                			<pdist>2116.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.991829308975</lat>
+						<lon>-87.787612080574</lon>
+
+							<typ>S</typ>
+                			<stpid>9537</stpid>
+                			<stpnm>Nagle &amp; Naples</stpnm>
+                			<pdist>2862.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.990385980026</lat>
+						<lon>-87.787638902664</lon>
+
+							<typ>S</typ>
+                			<stpid>9538</stpid>
+                			<stpnm>Nagle &amp; Peterson</stpnm>
+                			<pdist>3380.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.988946605581</lat>
+						<lon>-87.787660360336</lon>
+
+							<typ>S</typ>
+                			<stpid>9539</stpid>
+                			<stpnm>Nagle &amp; Newburg</stpnm>
+                			<pdist>3895.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.985788639586</lat>
+						<lon>-87.787719368935</lon>
+
+							<typ>S</typ>
+                			<stpid>14968</stpid>
+                			<stpnm>Nagle &amp; Northwest Hwy</stpnm>
+                			<pdist>5081.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.984440874082</lat>
+						<lon>-87.787751555443</lon>
+
+							<typ>S</typ>
+                			<stpid>9541</stpid>
+                			<stpnm>Nagle &amp; Avondale/Somerset</stpnm>
+                			<pdist>5460.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.983033266042</lat>
+						<lon>-87.787767648697</lon>
+
+							<typ>S</typ>
+                			<stpid>9542</stpid>
+                			<stpnm>Nagle &amp; Bryn Mawr</stpnm>
+                			<pdist>6016.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.982598615911</lat>
+						<lon>-87.787810564041</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.982068258981</lat>
+						<lon>-87.787810564041</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.981226856591</lat>
+						<lon>-87.787815928459</lon>
+
+							<typ>S</typ>
+                			<stpid>9543</stpid>
+                			<stpnm>Nagle &amp; Catalpa</stpnm>
+                			<pdist>6693.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.980855997979</lat>
+						<lon>-87.787821292877</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.979400456747</lat>
+						<lon>-87.787848114967</lon>
+
+							<typ>S</typ>
+                			<stpid>9544</stpid>
+                			<stpnm>Nagle &amp; Balmoral</stpnm>
+                			<pdist>7355.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.977342703338</lat>
+						<lon>-87.787880301476</lon>
+
+							<typ>S</typ>
+                			<stpid>9545</stpid>
+                			<stpnm>Nagle &amp; Berwyn</stpnm>
+                			<pdist>8085.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.976549094624</lat>
+						<lon>-87.787885665894</lon>
+
+							<typ>S</typ>
+                			<stpid>9546</stpid>
+                			<stpnm>Nagle &amp; Higgins</stpnm>
+                			<pdist>8403.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.975823272972</lat>
+						<lon>-87.787885665894</lon>
+
+							<typ>S</typ>
+                			<stpid>9547</stpid>
+                			<stpnm>Nagle &amp; Foster</stpnm>
+                			<pdist>8660.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.975173216888</lat>
+						<lon>-87.787917852402</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.973988741811</lat>
+						<lon>-87.787939310074</lon>
+
+							<typ>S</typ>
+                			<stpid>9548</stpid>
+                			<stpnm>Nagle &amp; Carmen</stpnm>
+                			<pdist>9336.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.972321665496</lat>
+						<lon>-87.787982225418</lon>
+
+							<typ>S</typ>
+                			<stpid>9549</stpid>
+                			<stpnm>Nagle &amp; Argyle</stpnm>
+                			<pdist>9996.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.970463103144</lat>
+						<lon>-87.788019776344</lon>
+
+							<typ>S</typ>
+                			<stpid>9550</stpid>
+                			<stpnm>Nagle &amp; Strong</stpnm>
+                			<pdist>10660.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.968536681928</lat>
+						<lon>-87.788057327271</lon>
+
+							<typ>S</typ>
+                			<stpid>15764</stpid>
+                			<stpnm>Nagle &amp; Gunnison</stpnm>
+                			<pdist>11306.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.965190234121</lat>
+						<lon>-87.788078784943</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.964871135758</lat>
+						<lon>-87.788057327271</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.964528103236</lat>
+						<lon>-87.787987589836</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.96433664242</lat>
+						<lon>-87.787901759148</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.963877931876</lat>
+						<lon>-87.787579894066</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.963658547404</lat>
+						<lon>-87.787370681763</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.963371352046</lat>
+						<lon>-87.787182927132</lon>
+
+							<typ>S</typ>
+                			<stpid>15871</stpid>
+                			<stpnm>Nagle &amp; Narragansett/Sunnyside</stpnm>
+                			<pdist>13271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.963120055045</lat>
+						<lon>-87.786979079247</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.96221856876</lat>
+						<lon>-87.786925435066</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.960654898585</lat>
+						<lon>-87.786855697632</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.959920917718</lat>
+						<lon>-87.78683423996</lon>
+
+							<typ>S</typ>
+                			<stpid>15765</stpid>
+                			<stpnm>Narragansett &amp; Montrose</stpnm>
+                			<pdist>14519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.958688289526</lat>
+						<lon>-87.786818146706</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.958313310524</lat>
+						<lon>-87.786812782288</lon>
+
+							<typ>S</typ>
+                			<stpid>15766</stpid>
+                			<stpnm>Narragansett &amp; Wright College</stpnm>
+                			<pdist>15115.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.958197625067</lat>
+						<lon>-87.786812782288</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.958038058576</lat>
+						<lon>-87.786802053452</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.957268144639</lat>
+						<lon>-87.786759138107</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.956302747181</lat>
+						<lon>-87.786710858345</lon>
+
+							<typ>S</typ>
+                			<stpid>17209</stpid>
+                			<stpnm>Narragansett &amp; Berteau</stpnm>
+                			<pdist>15877.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.955249569639</lat>
+						<lon>-87.786684036255</lon>
+
+							<typ>S</typ>
+                			<stpid>11687</stpid>
+                			<stpnm>Narragansett &amp; Belle Plaine</stpnm>
+                			<pdist>16255.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.9528519301</lat>
+						<lon>-87.786598205566</lon>
+
+							<typ>S</typ>
+                			<stpid>11688</stpid>
+                			<stpnm>Narragansett &amp; Irving Park</stpnm>
+                			<pdist>17059.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.951714914765</lat>
+						<lon>-87.78656065464</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.951112487894</lat>
+						<lon>-87.78653383255</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.950306583442</lat>
+						<lon>-87.786496281624</lon>
+
+							<typ>S</typ>
+                			<stpid>11689</stpid>
+                			<stpnm>Narragansett &amp; Berenice</stpnm>
+                			<pdist>18044.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.949333101111</lat>
+						<lon>-87.786448001862</lon>
+
+							<typ>S</typ>
+                			<stpid>11690</stpid>
+                			<stpnm>Narragansett &amp; Grace</stpnm>
+                			<pdist>18466.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.947545685011</lat>
+						<lon>-87.786394357681</lon>
+
+							<typ>S</typ>
+                			<stpid>11691</stpid>
+                			<stpnm>Narragansett &amp; Waveland</stpnm>
+                			<pdist>19137.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.946707816461</lat>
+						<lon>-87.786351442337</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.945949735428</lat>
+						<lon>-87.786313891411</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.945806098006</lat>
+						<lon>-87.786356806755</lon>
+
+							<typ>S</typ>
+                			<stpid>11692</stpid>
+                			<stpnm>Narragansett &amp; Addison</stpnm>
+                			<pdist>19712.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.945638520605</lat>
+						<lon>-87.786388993263</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.945215585205</lat>
+						<lon>-87.786362171173</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.944800626991</lat>
+						<lon>-87.786362171173</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.943998632789</lat>
+						<lon>-87.786340713501</lon>
+
+							<typ>S</typ>
+                			<stpid>11693</stpid>
+                			<stpnm>Narragansett &amp; Cornelia</stpnm>
+                			<pdist>20380.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.942163185211</lat>
+						<lon>-87.786249518394</lon>
+
+							<typ>S</typ>
+                			<stpid>11694</stpid>
+                			<stpnm>Narragansett &amp; Roscoe</stpnm>
+                			<pdist>21047.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.940339655624</lat>
+						<lon>-87.78615295887</lon>
+
+							<typ>S</typ>
+                			<stpid>11695</stpid>
+                			<stpnm>Narragansett &amp; School</stpnm>
+                			<pdist>21727.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.938428285267</lat>
+						<lon>-87.786072492599</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.938200832371</lat>
+						<lon>-87.786045670509</lon>
+
+							<typ>S</typ>
+                			<stpid>17359</stpid>
+                			<stpnm>Narragansett &amp; Belmont</stpnm>
+                			<pdist>22497.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.937438659734</lat>
+						<lon>-87.785938382149</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.936584696326</lat>
+						<lon>-87.785916924477</lon>
+
+							<typ>S</typ>
+                			<stpid>11697</stpid>
+                			<stpnm>Narragansett &amp; Barry</stpnm>
+                			<pdist>23054.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.934812885304</lat>
+						<lon>-87.785863280296</lon>
+
+							<typ>S</typ>
+                			<stpid>11698</stpid>
+                			<stpnm>Narragansett &amp; Wellington</stpnm>
+                			<pdist>23733.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.932997126995</lat>
+						<lon>-87.785788178444</lon>
+
+							<typ>S</typ>
+                			<stpid>11699</stpid>
+                			<stpnm>Narragansett &amp; George</stpnm>
+                			<pdist>24396.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.932258836858</lat>
+						<lon>-87.785761356354</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.931552464781</lat>
+						<lon>-87.785739898682</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.931225216308</lat>
+						<lon>-87.785739898682</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.930814157921</lat>
+						<lon>-87.785729169846</lon>
+
+							<typ>S</typ>
+                			<stpid>15039</stpid>
+                			<stpnm>Narragansett &amp; Diversey</stpnm>
+                			<pdist>25216.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.929285636021</lat>
+						<lon>-87.785675525665</lon>
+
+							<typ>S</typ>
+                			<stpid>11701</stpid>
+                			<stpnm>Narragansett &amp; Schubert</stpnm>
+                			<pdist>25733.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.927501649</lat>
+						<lon>-87.785616517067</lon>
+
+							<typ>S</typ>
+                			<stpid>11702</stpid>
+                			<stpnm>Narragansett &amp; Wrightwood</stpnm>
+                			<pdist>26392.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.92576550635</lat>
+						<lon>-87.785546779633</lon>
+
+							<typ>S</typ>
+                			<stpid>1289</stpid>
+                			<stpnm>2500 N Narragansett</stpnm>
+                			<pdist>26976.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.92335079262</lat>
+						<lon>-87.785460948944</lon>
+
+							<typ>S</typ>
+                			<stpid>17360</stpid>
+                			<stpnm>Narragansett &amp; Fullerton</stpnm>
+                			<pdist>27943.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.922392864335</lat>
+						<lon>-87.78544485569</lon>
+
+							<typ>S</typ>
+                			<stpid>17361</stpid>
+                			<stpnm>Narragansett &amp; Grand</stpnm>
+                			<pdist>28302.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.920241464645</lat>
+						<lon>-87.785380482674</lon>
+
+							<typ>S</typ>
+                			<stpid>11705</stpid>
+                			<stpnm>Narragansett &amp; Palmer</stpnm>
+                			<pdist>29119.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.918409324976</lat>
+						<lon>-87.785316109657</lon>
+
+							<typ>S</typ>
+                			<stpid>11706</stpid>
+                			<stpnm>Narragansett &amp; Dickens</stpnm>
+                			<pdist>29779.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.916820629698</lat>
+						<lon>-87.785267829895</lon>
+
+							<typ>S</typ>
+                			<stpid>11707</stpid>
+                			<stpnm>Narragansett &amp; McLean</stpnm>
+                			<pdist>30358.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.914788798457</lat>
+						<lon>-87.785208821297</lon>
+
+							<typ>S</typ>
+                			<stpid>11708</stpid>
+                			<stpnm>Narragansett &amp; Cortland</stpnm>
+                			<pdist>31104.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.912896622396</lat>
+						<lon>-87.78517127037</lon>
+
+							<typ>S</typ>
+                			<stpid>11709</stpid>
+                			<stpnm>Narragansett &amp; Bloomingdale</stpnm>
+                			<pdist>31776.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.911128145534</lat>
+						<lon>-87.7850908041</lon>
+
+							<typ>S</typ>
+                			<stpid>11710</stpid>
+                			<stpnm>Narragansett &amp; Wabansia</stpnm>
+                			<pdist>32436.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.909120086446</lat>
+						<lon>-87.785026431084</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.909128070902</lat>
+						<lon>-87.783497571945</lon>
+
+							<typ>S</typ>
+                			<stpid>854</stpid>
+                			<stpnm>North Ave &amp; Ridgeland</stpnm>
+                			<pdist>33528.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.909124078674</lat>
+						<lon>-87.783395648003</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.907443328676</lat>
+						<lon>-87.78334736824</lon>
+
+							<typ>S</typ>
+                			<stpid>11711</stpid>
+                			<stpnm>Ridgeland &amp; Le Moyne</stpnm>
+                			<pdist>34154.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.906744666606</lat>
+						<lon>-87.78332054615</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.906117860415</lat>
+						<lon>-87.78332054615</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.905994095407</lat>
+						<lon>-87.783336639404</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.905866337728</lat>
+						<lon>-87.783401012421</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.905790481486</lat>
+						<lon>-87.783481478691</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.905650746066</lat>
+						<lon>-87.783561944962</lon>
+
+							<typ>S</typ>
+                			<stpid>11712</stpid>
+                			<stpnm>Ridgeland &amp; Greenfield</stpnm>
+                			<pdist>34643.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.905499032978</lat>
+						<lon>-87.783631682396</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.904756432137</lat>
+						<lon>-87.783910632133</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.90398986737</lat>
+						<lon>-87.784184217453</lon>
+
+							<typ>S</typ>
+                			<stpid>11713</stpid>
+                			<stpnm>Ridgeland &amp; Berkshire</stpnm>
+                			<pdist>35491.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.903818187541</lat>
+						<lon>-87.784248590469</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.903686432941</lat>
+						<lon>-87.784237861633</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.903083552362</lat>
+						<lon>-87.784211039543</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.901917700922</lat>
+						<lon>-87.784141302109</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.901897737527</lat>
+						<lon>-87.784473896027</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.901909715564</lat>
+						<lon>-87.784838676453</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.901797920458</lat>
+						<lon>-87.784881591797</lon>
+
+							<typ>S</typ>
+                			<stpid>11714</stpid>
+                			<stpnm>Ridgeland &amp; Division</stpnm>
+                			<pdist>36160.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.901506453725</lat>
+						<lon>-87.785042524338</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.901278869187</lat>
+						<lon>-87.785139083862</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.900021150532</lat>
+						<lon>-87.785112261772</lon>
+
+							<typ>S</typ>
+                			<stpid>11715</stpid>
+                			<stpnm>Ridgeland &amp; Thomas</stpnm>
+                			<pdist>37044.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.898384082797</lat>
+						<lon>-87.785042524338</lon>
+
+							<typ>S</typ>
+                			<stpid>11716</stpid>
+                			<stpnm>Ridgeland &amp; Augusta</stpnm>
+                			<pdist>37638.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.896535343654</lat>
+						<lon>-87.784972786903</lon>
+
+							<typ>S</typ>
+                			<stpid>11717</stpid>
+                			<stpnm>Ridgeland &amp; Iowa</stpnm>
+                			<pdist>38288.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.894694537255</lat>
+						<lon>-87.784913778305</lon>
+
+							<typ>S</typ>
+                			<stpid>11718</stpid>
+                			<stpnm>Ridgeland &amp; Chicago</stpnm>
+                			<pdist>38969.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.893201089176</lat>
+						<lon>-87.784870862961</lon>
+
+							<typ>S</typ>
+                			<stpid>11719</stpid>
+                			<stpnm>Ridgeland &amp; Superior</stpnm>
+                			<pdist>39500.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.891843378802</lat>
+						<lon>-87.784833312035</lon>
+
+							<typ>S</typ>
+                			<stpid>11720</stpid>
+                			<stpnm>Ridgeland &amp; Erie</stpnm>
+                			<pdist>40000.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.890513593314</lat>
+						<lon>-87.78479039669</lon>
+
+							<typ>S</typ>
+                			<stpid>11721</stpid>
+                			<stpnm>Ridgeland &amp; Ontario</stpnm>
+                			<pdist>40505.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.888301216179</lat>
+						<lon>-87.784720659256</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.888293229119</lat>
+						<lon>-87.784452438354</lon>
+
+							<typ>S</typ>
+                			<stpid>11722</stpid>
+                			<stpnm>Lake Street &amp; Ridgeland</stpnm>
+                			<pdist>41417.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.888245306739</lat>
+						<lon>-87.783138155937</lon>
+
+							<typ>S</typ>
+                			<stpid>11723</stpid>
+                			<stpnm>Lake Street &amp; Cuyler (Green Line)</stpnm>
+                			<pdist>41901.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>3527</pid>
+				<ln>46434.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.888245306739</lat>
+						<lon>-87.783138155937</lon>
+
+							<typ>S</typ>
+                			<stpid>11723</stpid>
+                			<stpnm>Lake Street &amp; Cuyler (Green Line)</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.888157448948</lat>
+						<lon>-87.779957056046</lon>
+
+							<typ>S</typ>
+                			<stpid>11724</stpid>
+                			<stpnm>Lake Street &amp; Lombard</stpnm>
+                			<pdist>693.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.888141474792</lat>
+						<lon>-87.779828310013</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.887099152435</lat>
+						<lon>-87.779801487923</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.887079184407</lat>
+						<lon>-87.781432271004</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.887007299457</lat>
+						<lon>-87.784377336502</lon>
+
+							<typ>S</typ>
+                			<stpid>11725</stpid>
+                			<stpnm>South Blvd &amp; Ridgeland</stpnm>
+                			<pdist>2358.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.886991325013</lat>
+						<lon>-87.784618735313</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.887482537348</lat>
+						<lon>-87.784640192986</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.888173423101</lat>
+						<lon>-87.784634828568</lon>
+
+							<typ>S</typ>
+                			<stpid>11726</stpid>
+                			<stpnm>Ridgeland &amp; Lake</stpnm>
+                			<pdist>2822.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.888349138517</lat>
+						<lon>-87.784640192986</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.890142206836</lat>
+						<lon>-87.784704566002</lon>
+
+							<typ>S</typ>
+                			<stpid>11727</stpid>
+                			<stpnm>Ridgeland &amp; Ontario</stpnm>
+                			<pdist>3577.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.890749202971</lat>
+						<lon>-87.784720659256</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.891539886654</lat>
+						<lon>-87.78473675251</lon>
+
+							<typ>S</typ>
+                			<stpid>11728</stpid>
+                			<stpnm>Ridgeland &amp; Erie</stpnm>
+                			<pdist>4062.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.892925556169</lat>
+						<lon>-87.784785032272</lon>
+
+							<typ>S</typ>
+                			<stpid>11729</stpid>
+                			<stpnm>Ridgeland &amp; Superior</stpnm>
+                			<pdist>4573.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.894415017543</lat>
+						<lon>-87.784822583199</lon>
+
+							<typ>S</typ>
+                			<stpid>11730</stpid>
+                			<stpnm>Ridgeland &amp; Chicago</stpnm>
+                			<pdist>5102.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.896187950413</lat>
+						<lon>-87.784881591797</lon>
+
+							<typ>S</typ>
+                			<stpid>11731</stpid>
+                			<stpnm>Ridgeland &amp; Iowa</stpnm>
+                			<pdist>5787.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.898064650052</lat>
+						<lon>-87.784945964813</lon>
+
+							<typ>S</typ>
+                			<stpid>11732</stpid>
+                			<stpnm>Ridgeland &amp; Augusta</stpnm>
+                			<pdist>6438.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.899761618203</lat>
+						<lon>-87.785015702248</lon>
+
+							<typ>S</typ>
+                			<stpid>11733</stpid>
+                			<stpnm>Ridgeland &amp; Thomas</stpnm>
+                			<pdist>7059.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.901258905592</lat>
+						<lon>-87.78506398201</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.901502461021</lat>
+						<lon>-87.784945964813</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.9017859424</lat>
+						<lon>-87.784806489944</lon>
+
+							<typ>S</typ>
+                			<stpid>11734</stpid>
+                			<stpnm>Ridgeland &amp; Division</stpnm>
+                			<pdist>7742.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.901853818036</lat>
+						<lon>-87.784779667854</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.901837847304</lat>
+						<lon>-87.784489989281</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.901865796082</lat>
+						<lon>-87.78408229351</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.903055604117</lat>
+						<lon>-87.784135937691</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.90366247753</lat>
+						<lon>-87.784162759781</lon>
+
+							<typ>S</typ>
+                			<stpid>11735</stpid>
+                			<stpnm>Ridgeland &amp; Berkshire</stpnm>
+                			<pdist>8641.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.90382617266</lat>
+						<lon>-87.784162759781</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.905526980153</lat>
+						<lon>-87.783529758453</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.905694662945</lat>
+						<lon>-87.783460021019</lon>
+
+							<typ>S</typ>
+                			<stpid>11736</stpid>
+                			<stpnm>Ridgeland &amp; Greenfield</stpnm>
+                			<pdist>9370.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.905886299883</lat>
+						<lon>-87.783282995224</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.905994095407</lat>
+						<lon>-87.783250808716</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.90610189075</lat>
+						<lon>-87.78324007988</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.906748658983</lat>
+						<lon>-87.783245444298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.907247704067</lat>
+						<lon>-87.783261537552</lon>
+
+							<typ>S</typ>
+                			<stpid>11737</stpid>
+                			<stpnm>Ridgeland &amp; Le Moyne</stpnm>
+                			<pdist>9972.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.909183962062</lat>
+						<lon>-87.783304452896</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.909183962062</lat>
+						<lon>-87.784962058067</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.909391557371</lat>
+						<lon>-87.784967422485</lon>
+
+							<typ>S</typ>
+                			<stpid>11738</stpid>
+                			<stpnm>Narragansett &amp; North Ave</stpnm>
+                			<pdist>11221.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.910265845593</lat>
+						<lon>-87.784967422485</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.910864666232</lat>
+						<lon>-87.784999608994</lon>
+
+							<typ>S</typ>
+                			<stpid>11739</stpid>
+                			<stpnm>Narragansett &amp; Wabansia</stpnm>
+                			<pdist>11692.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.912665086452</lat>
+						<lon>-87.785080075264</lon>
+
+							<typ>S</typ>
+                			<stpid>11740</stpid>
+                			<stpnm>Narragansett &amp; Bloomingdale</stpnm>
+                			<pdist>12352.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.914433520731</lat>
+						<lon>-87.785122990608</lon>
+
+							<typ>S</typ>
+                			<stpid>11741</stpid>
+                			<stpnm>Narragansett &amp; Cortland</stpnm>
+                			<pdist>13027.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.916293717003</lat>
+						<lon>-87.785165905952</lon>
+
+							<typ>S</typ>
+                			<stpid>11742</stpid>
+                			<stpnm>Narragansett &amp; Cortland</stpnm>
+                			<pdist>13550.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.918089992418</lat>
+						<lon>-87.785224914551</lon>
+
+							<typ>S</typ>
+                			<stpid>11744</stpid>
+                			<stpnm>Narragansett &amp; Dickens</stpnm>
+                			<pdist>14339.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.919926132807</lat>
+						<lon>-87.785289287567</lon>
+
+							<typ>S</typ>
+                			<stpid>11745</stpid>
+                			<stpnm>Narragansett &amp; Palmer</stpnm>
+                			<pdist>15014.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.921834066194</lat>
+						<lon>-87.785342931747</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.922612390837</lat>
+						<lon>-87.785369753838</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.922863847539</lat>
+						<lon>-87.785380482674</lon>
+
+							<typ>S</typ>
+                			<stpid>17192</stpid>
+                			<stpnm>Narragansett &amp; Grand</stpnm>
+                			<pdist>16095.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.92367409017</lat>
+						<lon>-87.78539121151</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.923933525291</lat>
+						<lon>-87.785396575928</lon>
+
+							<typ>S</typ>
+                			<stpid>15040</stpid>
+                			<stpnm>Narragansett &amp; Fullerton</stpnm>
+                			<pdist>16492.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.924204933212</lat>
+						<lon>-87.785407304764</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.924488313779</lat>
+						<lon>-87.785428762436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.925541999496</lat>
+						<lon>-87.78547167778</lon>
+
+							<typ>S</typ>
+                			<stpid>1287</stpid>
+                			<stpnm>2500 N Narragansett</stpnm>
+                			<pdist>17088.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.927246219483</lat>
+						<lon>-87.785536050797</lon>
+
+							<typ>S</typ>
+                			<stpid>11748</stpid>
+                			<stpnm>Narragansett &amp; Wrightwood</stpnm>
+                			<pdist>17665.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.92906613248</lat>
+						<lon>-87.785589694977</lon>
+
+							<typ>S</typ>
+                			<stpid>11749</stpid>
+                			<stpnm>Narragansett &amp; Schubert</stpnm>
+                			<pdist>18328.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.931105490838</lat>
+						<lon>-87.785659432411</lon>
+
+							<typ>S</typ>
+                			<stpid>17208</stpid>
+                			<stpnm>Narragansett &amp; Diversey</stpnm>
+                			<pdist>19127.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.931309024004</lat>
+						<lon>-87.785659432411</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.931552464781</lat>
+						<lon>-87.785654067993</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.932179021196</lat>
+						<lon>-87.785686254501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.932725756479</lat>
+						<lon>-87.785696983337</lon>
+
+							<typ>S</typ>
+                			<stpid>11751</stpid>
+                			<stpnm>Narragansett &amp; George</stpnm>
+                			<pdist>19663.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.934541522512</lat>
+						<lon>-87.785766720772</lon>
+
+							<typ>S</typ>
+                			<stpid>11752</stpid>
+                			<stpnm>Narragansett &amp; Wellington</stpnm>
+                			<pdist>20335.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.936397142083</lat>
+						<lon>-87.78582572937</lon>
+
+							<typ>S</typ>
+                			<stpid>11753</stpid>
+                			<stpnm>Narragansett &amp; Barry</stpnm>
+                			<pdist>21004.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.937418707449</lat>
+						<lon>-87.78585255146</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.938180880324</lat>
+						<lon>-87.785965204239</lon>
+
+							<typ>S</typ>
+                			<stpid>11754</stpid>
+                			<stpnm>Narragansett &amp; Belmont</stpnm>
+                			<pdist>21667.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.938420304478</lat>
+						<lon>-87.785992026329</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.938647756591</lat>
+						<lon>-87.786002755165</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.940032403711</lat>
+						<lon>-87.786056399345</lon>
+
+							<typ>S</typ>
+                			<stpid>11755</stpid>
+                			<stpnm>Narragansett &amp; School</stpnm>
+                			<pdist>22350.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.941883873339</lat>
+						<lon>-87.786147594452</lon>
+
+							<typ>S</typ>
+                			<stpid>11756</stpid>
+                			<stpnm>Narragansett &amp; Roscoe</stpnm>
+                			<pdist>23021.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.943727309084</lat>
+						<lon>-87.786249518394</lon>
+
+							<typ>S</typ>
+                			<stpid>11757</stpid>
+                			<stpnm>Narragansett &amp; Cornelia</stpnm>
+                			<pdist>23692.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.944704867019</lat>
+						<lon>-87.786276340485</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.945267454791</lat>
+						<lon>-87.786281704903</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.945598621159</lat>
+						<lon>-87.786297798157</lon>
+
+							<typ>S</typ>
+                			<stpid>11758</stpid>
+                			<stpnm>Narragansett &amp; Addison</stpnm>
+                			<pdist>24367.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.945782158404</lat>
+						<lon>-87.786270976067</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.945953725352</lat>
+						<lon>-87.786238789558</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.946532261656</lat>
+						<lon>-87.786254882813</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.947334223987</lat>
+						<lon>-87.786297798157</lon>
+
+							<typ>S</typ>
+                			<stpid>11759</stpid>
+                			<stpnm>Narragansett &amp; Waveland</stpnm>
+                			<pdist>25032.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.949117656291</lat>
+						<lon>-87.786346077919</lon>
+
+							<typ>S</typ>
+                			<stpid>11760</stpid>
+                			<stpnm>Narragansett &amp; Grace</stpnm>
+                			<pdist>25701.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.950079172917</lat>
+						<lon>-87.786405086517</lon>
+
+							<typ>S</typ>
+                			<stpid>11761</stpid>
+                			<stpnm>Narragansett &amp; Berenice</stpnm>
+                			<pdist>26027.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.950374407477</lat>
+						<lon>-87.786421179771</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.951076581477</lat>
+						<lon>-87.78645336628</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.951682998252</lat>
+						<lon>-87.786485552788</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.952812035168</lat>
+						<lon>-87.786512374878</lon>
+
+							<typ>S</typ>
+                			<stpid>11762</stpid>
+                			<stpnm>Narragansett &amp; Irving Park</stpnm>
+                			<pdist>27022.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.955026166105</lat>
+						<lon>-87.786598205566</lon>
+
+							<typ>S</typ>
+                			<stpid>11763</stpid>
+                			<stpnm>Narragansett &amp; Belle Plaine</stpnm>
+                			<pdist>27819.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.956494232137</lat>
+						<lon>-87.786641120911</lon>
+
+							<typ>S</typ>
+                			<stpid>15767</stpid>
+                			<stpnm>Narragansett &amp; Berteau</stpnm>
+                			<pdist>28344.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.958225549162</lat>
+						<lon>-87.786732316017</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.958205603382</lat>
+						<lon>-87.787107825279</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.958181668436</lat>
+						<lon>-87.78721511364</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.957926361794</lat>
+						<lon>-87.787671089172</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.957890459215</lat>
+						<lon>-87.787773013115</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.958010134399</lat>
+						<lon>-87.787944674492</lon>
+
+							<typ>S</typ>
+                			<stpid>11686</stpid>
+                			<stpnm>Wright College (Main Entrance)</stpnm>
+                			<pdist>29358.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.95800614523</lat>
+						<lon>-87.788169980049</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.957858545795</lat>
+						<lon>-87.788164615631</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.957822643178</lat>
+						<lon>-87.788427472115</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.957754827069</lat>
+						<lon>-87.788668870926</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.957675043319</lat>
+						<lon>-87.788792252541</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.957583291883</lat>
+						<lon>-87.789205312729</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.957499518717</lat>
+						<lon>-87.789736390114</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.957495529516</lat>
+						<lon>-87.789891958237</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.957527443118</lat>
+						<lon>-87.789988517761</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.957587281078</lat>
+						<lon>-87.79004752636</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.958401071765</lat>
+						<lon>-87.790315747261</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.958784028492</lat>
+						<lon>-87.790412306786</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.959270699346</lat>
+						<lon>-87.790567874908</lon>
+
+							<typ>S</typ>
+                			<stpid>15564</stpid>
+                			<stpnm>Wright College (West Entrance)</stpnm>
+                			<pdist>30359.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.959398350102</lat>
+						<lon>-87.790616154671</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.959514033378</lat>
+						<lon>-87.790610790253</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.959625727378</lat>
+						<lon>-87.790557146072</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.959689552432</lat>
+						<lon>-87.790503501892</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.95976933366</lat>
+						<lon>-87.790444493294</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.959892994366</lat>
+						<lon>-87.790406942368</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.960120369877</lat>
+						<lon>-87.790433764458</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.960172227336</lat>
+						<lon>-87.788035869598</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.96017621637</lat>
+						<lon>-87.787172198296</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.96017621637</lat>
+						<lon>-87.786759138107</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.960571129457</lat>
+						<lon>-87.786780595779</lon>
+
+							<typ>S</typ>
+                			<stpid>15796</stpid>
+                			<stpnm>Narragansett &amp; Montrose</stpnm>
+                			<pdist>31954.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.96180771016</lat>
+						<lon>-87.786823511124</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.962433969297</lat>
+						<lon>-87.786839604378</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.963139999287</lat>
+						<lon>-87.786898612976</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.963439162178</lat>
+						<lon>-87.787107825279</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.963674502664</lat>
+						<lon>-87.78729557991</lon>
+
+							<typ>S</typ>
+                			<stpid>15870</stpid>
+                			<stpnm>Nagle &amp; Narragansett/Sunnyside</stpnm>
+                			<pdist>33155.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.963989618226</lat>
+						<lon>-87.78756916523</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.964236923018</lat>
+						<lon>-87.787756919861</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.964544058278</lat>
+						<lon>-87.787907123566</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.964891079453</lat>
+						<lon>-87.787987589836</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.968305347926</lat>
+						<lon>-87.787976861</lon>
+
+							<typ>S</typ>
+                			<stpid>15763</stpid>
+                			<stpnm>Nagle &amp; Gunnison</stpnm>
+                			<pdist>35012.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.970096170261</lat>
+						<lon>-87.787944674492</lon>
+
+							<typ>S</typ>
+                			<stpid>9695</stpid>
+                			<stpnm>Nagle &amp; Strong</stpnm>
+                			<pdist>35558.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.971890930551</lat>
+						<lon>-87.787912487984</lon>
+
+							<typ>S</typ>
+                			<stpid>14936</stpid>
+                			<stpnm>Nagle &amp; Argyle</stpnm>
+                			<pdist>36193.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.973741474874</lat>
+						<lon>-87.787869572639</lon>
+
+							<typ>S</typ>
+                			<stpid>9697</stpid>
+                			<stpnm>Nagle &amp; Carmen</stpnm>
+                			<pdist>36882.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.975544108595</lat>
+						<lon>-87.787815928459</lon>
+
+							<typ>S</typ>
+                			<stpid>9698</stpid>
+                			<stpnm>Nagle &amp; Foster</stpnm>
+                			<pdist>37534.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.976337729832</lat>
+						<lon>-87.787805199623</lon>
+
+							<typ>S</typ>
+                			<stpid>14967</stpid>
+                			<stpnm>Nagle &amp; Higgins</stpnm>
+                			<pdist>37907.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.977354667212</lat>
+						<lon>-87.787799835205</lon>
+
+							<typ>S</typ>
+                			<stpid>9700</stpid>
+                			<stpnm>Nagle &amp; Berwyn</stpnm>
+                			<pdist>38146.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.979133271592</lat>
+						<lon>-87.787773013115</lon>
+
+							<typ>S</typ>
+                			<stpid>9701</stpid>
+                			<stpnm>Nagle &amp; Balmoral</stpnm>
+                			<pdist>38808.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.980947715902</lat>
+						<lon>-87.787746191025</lon>
+
+							<typ>S</typ>
+                			<stpid>9702</stpid>
+                			<stpnm>Nagle &amp; Catalpa</stpnm>
+                			<pdist>39468.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.981988505677</lat>
+						<lon>-87.787724733353</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.982746158031</lat>
+						<lon>-87.787724733353</lon>
+
+							<typ>S</typ>
+                			<stpid>9703</stpid>
+                			<stpnm>Nagle &amp; Bryn Mawr</stpnm>
+                			<pdist>40126.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.983180807155</lat>
+						<lon>-87.787708640099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.984775824386</lat>
+						<lon>-87.7876496315</lon>
+
+							<typ>S</typ>
+                			<stpid>9704</stpid>
+                			<stpnm>Nagle &amp; Avondale/Somerset</stpnm>
+                			<pdist>40856.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.986019910088</lat>
+						<lon>-87.787633538246</lon>
+
+							<typ>S</typ>
+                			<stpid>16034</stpid>
+                			<stpnm>Nagle &amp; Northwest Hwy</stpnm>
+                			<pdist>41408.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.986518335039</lat>
+						<lon>-87.787612080574</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.988300670736</lat>
+						<lon>-87.787590622902</lon>
+
+							<typ>S</typ>
+                			<stpid>9706</stpid>
+                			<stpnm>Nagle &amp; Rosedale</stpnm>
+                			<pdist>42149.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.990027136257</lat>
+						<lon>-87.787558436394</lon>
+
+							<typ>S</typ>
+                			<stpid>9707</stpid>
+                			<stpnm>Nagle &amp; Peterson</stpnm>
+                			<pdist>42772.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.991175429197</lat>
+						<lon>-87.787536978722</lon>
+
+							<typ>S</typ>
+                			<stpid>9708</stpid>
+                			<stpnm>Nagle &amp; Hyacinth</stpnm>
+                			<pdist>43211.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.993503848511</lat>
+						<lon>-87.787504792213</lon>
+
+							<typ>S</typ>
+                			<stpid>9709</stpid>
+                			<stpnm>Nagle &amp; Raven</stpnm>
+                			<pdist>44011.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.99451253797</lat>
+						<lon>-87.787472605705</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.995058738633</lat>
+						<lon>-87.787472605705</lon>
+
+							<typ>S</typ>
+                			<stpid>9710</stpid>
+                			<stpnm>Nagle &amp; Haft</stpnm>
+                			<pdist>44617.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.995557092813</lat>
+						<lon>-87.787461876869</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.996501961625</lat>
+						<lon>-87.787429690361</lon>
+
+							<typ>S</typ>
+                			<stpid>9711</stpid>
+                			<stpnm>Nagle &amp; Milwaukee</stpnm>
+                			<pdist>45139.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>41.99707605228</lat>
+						<lon>-87.787435054779</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>147</seq>
+						<lat>41.997909271865</lat>
+						<lon>-87.788239717484</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>148</seq>
+						<lat>41.998834172694</lat>
+						<lon>-87.789076566696</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>149</seq>
+						<lat>41.999093301982</lat>
+						<lon>-87.788679599762</lon>
+
+							<typ>S</typ>
+                			<stpid>14170</stpid>
+                			<stpnm>Milwaukee &amp; Imlay Terminal</stpnm>
+                			<pdist>46434.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

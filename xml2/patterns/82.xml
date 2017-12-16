@@ -1,0 +1,4274 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>5364</pid>
+				<ln>45779.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.997929205214</lat>
+						<lon>-87.709543704987</lon>
+
+							<typ>S</typ>
+                			<stpid>1354</stpid>
+                			<stpnm>Devon &amp; Kedzie Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.997925218544</lat>
+						<lon>-87.709404230118</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.997418909506</lat>
+						<lon>-87.709361314774</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.997398975997</lat>
+						<lon>-87.711694836617</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.997080039002</lat>
+						<lon>-87.711727023125</lon>
+
+							<typ>S</typ>
+                			<stpid>1355</stpid>
+                			<stpnm>McCormick &amp; Devon</stpnm>
+                			<pdist>933.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.996888676038</lat>
+						<lon>-87.711737751961</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.996689339005</lat>
+						<lon>-87.711823582649</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.996577709994</lat>
+						<lon>-87.711893320084</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.996426213166</lat>
+						<lon>-87.71203815937</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.995285988623</lat>
+						<lon>-87.713352441788</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.994907238189</lat>
+						<lon>-87.71375477314</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.994672013101</lat>
+						<lon>-87.713958621025</lon>
+
+							<typ>S</typ>
+                			<stpid>11111</stpid>
+                			<stpnm>McCormick &amp; Lincoln</stpnm>
+                			<pdist>2008.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.994452734693</lat>
+						<lon>-87.71410882473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.994245416231</lat>
+						<lon>-87.714114189148</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.993898554986</lat>
+						<lon>-87.714114189148</lon>
+
+							<typ>S</typ>
+                			<stpid>11112</stpid>
+                			<stpnm>Kimball &amp; Granville</stpnm>
+                			<pdist>2303.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.992124350091</lat>
+						<lon>-87.714071273804</lon>
+
+							<typ>S</typ>
+                			<stpid>11113</stpid>
+                			<stpnm>Kimball &amp; Glenlake</stpnm>
+                			<pdist>2926.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.991362822259</lat>
+						<lon>-87.714049816132</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.990573375412</lat>
+						<lon>-87.714006900787</lon>
+
+							<typ>S</typ>
+                			<stpid>11114</stpid>
+                			<stpnm>Kimball &amp; Peterson</stpnm>
+                			<pdist>3544.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.988595728207</lat>
+						<lon>-87.713958621025</lon>
+
+							<typ>S</typ>
+                			<stpid>11116</stpid>
+                			<stpnm>Kimball &amp; Thorndale</stpnm>
+                			<pdist>4243.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.986745615521</lat>
+						<lon>-87.713904976845</lon>
+
+							<typ>S</typ>
+                			<stpid>11117</stpid>
+                			<stpnm>Kimball &amp; Ardmore</stpnm>
+                			<pdist>4908.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.984935323912</lat>
+						<lon>-87.713856697083</lon>
+
+							<typ>S</typ>
+                			<stpid>11118</stpid>
+                			<stpnm>Kimball &amp; Hollywood</stpnm>
+                			<pdist>5571.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.983160869186</lat>
+						<lon>-87.71378159523</lon>
+
+							<typ>S</typ>
+                			<stpid>11119</stpid>
+                			<stpnm>Kimball &amp; Bryn Mawr</stpnm>
+                			<pdist>6218.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.981358451063</lat>
+						<lon>-87.713717222214</lon>
+
+							<typ>S</typ>
+                			<stpid>11120</stpid>
+                			<stpnm>Kimball &amp; Catalpa</stpnm>
+                			<pdist>6910.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.979516103706</lat>
+						<lon>-87.713658213615</lon>
+
+							<typ>S</typ>
+                			<stpid>11121</stpid>
+                			<stpnm>Kimball &amp; Balmoral</stpnm>
+                			<pdist>7578.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.977673703044</lat>
+						<lon>-87.713631391525</lon>
+
+							<typ>S</typ>
+                			<stpid>11122</stpid>
+                			<stpnm>Kimball &amp; Berwyn</stpnm>
+                			<pdist>8245.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.975885</lat>
+						<lon>-87.713583333334</lon>
+
+							<typ>S</typ>
+                			<stpid>17821</stpid>
+                			<stpnm>Kimball &amp; Foster</stpnm>
+                			<pdist>8903.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.973948860112</lat>
+						<lon>-87.713561654091</lon>
+
+							<typ>S</typ>
+                			<stpid>11124</stpid>
+                			<stpnm>Kimball &amp; Carmen </stpnm>
+                			<pdist>9655.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.972907938935</lat>
+						<lon>-87.713534832001</lon>
+
+							<typ>S</typ>
+                			<stpid>11125</stpid>
+                			<stpnm>Kimball &amp; Carmen </stpnm>
+                			<pdist>9981.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.971823129415</lat>
+						<lon>-87.713497281075</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.970383335305</lat>
+						<lon>-87.713449001312</lon>
+
+							<typ>S</typ>
+                			<stpid>11126</stpid>
+                			<stpnm>Kimball &amp; Ainslie</stpnm>
+                			<pdist>10905.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.968197657673</lat>
+						<lon>-87.713384628296</lon>
+
+							<typ>S</typ>
+                			<stpid>11127</stpid>
+                			<stpnm>Kimball &amp; Lawrence (Brown Line)</stpnm>
+                			<pdist>11727.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.966697952269</lat>
+						<lon>-87.713363170624</lon>
+
+							<typ>S</typ>
+                			<stpid>11128</stpid>
+                			<stpnm>Kimball &amp; Leland</stpnm>
+                			<pdist>12242.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.964883101976</lat>
+						<lon>-87.713282704353</lon>
+
+							<typ>S</typ>
+                			<stpid>11129</stpid>
+                			<stpnm>Kimball &amp; Wilson</stpnm>
+                			<pdist>12913.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.963052244573</lat>
+						<lon>-87.713239789009</lon>
+
+							<typ>S</typ>
+                			<stpid>11130</stpid>
+                			<stpnm>Kimball &amp; Sunnyside</stpnm>
+                			<pdist>13578.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.961273191123</lat>
+						<lon>-87.713175415993</lon>
+
+							<typ>S</typ>
+                			<stpid>11131</stpid>
+                			<stpnm>Kimball &amp; Montrose</stpnm>
+                			<pdist>14229.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.959450208148</lat>
+						<lon>-87.71312713623</lon>
+
+							<typ>S</typ>
+                			<stpid>11132</stpid>
+                			<stpnm>Kimball &amp; Cullom</stpnm>
+                			<pdist>14912.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.957643129791</lat>
+						<lon>-87.713068127632</lon>
+
+							<typ>S</typ>
+                			<stpid>11133</stpid>
+                			<stpnm>Kimball &amp; Berteau</stpnm>
+                			<pdist>15576.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.955784139203</lat>
+						<lon>-87.713014483452</lon>
+
+							<typ>S</typ>
+                			<stpid>11134</stpid>
+                			<stpnm>Kimball &amp; Belle Plaine</stpnm>
+                			<pdist>16241.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.954080681763</lat>
+						<lon>-87.712939381599</lon>
+
+							<typ>S</typ>
+                			<stpid>11135</stpid>
+                			<stpnm>Kimball &amp; Irving Park</stpnm>
+                			<pdist>16883.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.952161744263</lat>
+						<lon>-87.712891101837</lon>
+
+							<typ>S</typ>
+                			<stpid>11136</stpid>
+                			<stpnm>Kimball &amp; Byron</stpnm>
+                			<pdist>17572.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.950386376416</lat>
+						<lon>-87.712848186493</lon>
+
+							<typ>S</typ>
+                			<stpid>11137</stpid>
+                			<stpnm>Kimball &amp; Grace</stpnm>
+                			<pdist>18241.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.949157553535</lat>
+						<lon>-87.712826728821</lon>
+
+							<typ>S</typ>
+                			<stpid>15219</stpid>
+                			<stpnm>Kimball &amp; Elston</stpnm>
+                			<pdist>18718.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.94839152209</lat>
+						<lon>-87.712799906731</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.946320797271</lat>
+						<lon>-87.712708711624</lon>
+
+							<typ>S</typ>
+                			<stpid>14826</stpid>
+                			<stpnm>Kimball &amp; Addison</stpnm>
+                			<pdist>19766.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.944828556955</lat>
+						<lon>-87.712676525116</lon>
+
+							<typ>S</typ>
+                			<stpid>7855</stpid>
+                			<stpnm>3501 N Kimball</stpnm>
+                			<pdist>20203.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.943547755997</lat>
+						<lon>-87.71263897419</lon>
+
+							<typ>S</typ>
+                			<stpid>7856</stpid>
+                			<stpnm>Kimball &amp; Newport</stpnm>
+                			<pdist>20759.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.942374663386</lat>
+						<lon>-87.712601423264</lon>
+
+							<typ>S</typ>
+                			<stpid>7857</stpid>
+                			<stpnm>Kimball &amp; Avondale/Henderson</stpnm>
+                			<pdist>21051.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.94053916906</lat>
+						<lon>-87.712579965591</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.93919842677</lat>
+						<lon>-87.712537050247</lon>
+
+							<typ>S</typ>
+                			<stpid>11139</stpid>
+                			<stpnm>Kimball &amp; Belmont (Blue Line)</stpnm>
+                			<pdist>22371.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.937602268241</lat>
+						<lon>-87.712456583977</lon>
+
+							<typ>S</typ>
+                			<stpid>11140</stpid>
+                			<stpnm>Kimball &amp; Barry</stpnm>
+                			<pdist>22913.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.935415466197</lat>
+						<lon>-87.712402939796</lon>
+
+							<typ>S</typ>
+                			<stpid>11141</stpid>
+                			<stpnm>Kimball &amp; Wisner/Wellington</stpnm>
+                			<pdist>23711.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.934082597517</lat>
+						<lon>-87.712402939796</lon>
+
+							<typ>S</typ>
+                			<stpid>11142</stpid>
+                			<stpnm>Kimball &amp; Dawson</stpnm>
+                			<pdist>24196.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.932390532481</lat>
+						<lon>-87.712349295616</lon>
+
+							<typ>S</typ>
+                			<stpid>11143</stpid>
+                			<stpnm>Kimball &amp; Diversey/Milwaukee</stpnm>
+                			<pdist>24848.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.93029135168</lat>
+						<lon>-87.7122849226</lon>
+
+							<typ>S</typ>
+                			<stpid>11145</stpid>
+                			<stpnm>Kimball &amp; Schubert</stpnm>
+                			<pdist>25581.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.928467482619</lat>
+						<lon>-87.712225914001</lon>
+
+							<typ>S</typ>
+                			<stpid>11146</stpid>
+                			<stpnm>Kimball &amp; Wrightwood</stpnm>
+                			<pdist>26256.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.926643561411</lat>
+						<lon>-87.712182998657</lon>
+
+							<typ>S</typ>
+                			<stpid>11147</stpid>
+                			<stpnm>Kimball &amp; Altgeld</stpnm>
+                			<pdist>26929.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.924412479666</lat>
+						<lon>-87.712118625641</lon>
+
+							<typ>S</typ>
+                			<stpid>17628</stpid>
+                			<stpnm>Kimball &amp; Fullerton</stpnm>
+                			<pdist>27727.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.923027493432</lat>
+						<lon>-87.712064981461</lon>
+
+							<typ>S</typ>
+                			<stpid>11149</stpid>
+                			<stpnm>Kimball &amp; Belden</stpnm>
+                			<pdist>28240.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.921901920515</lat>
+						<lon>-87.712048888206</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.921139553113</lat>
+						<lon>-87.712016701698</lon>
+
+							<typ>S</typ>
+                			<stpid>11150</stpid>
+                			<stpnm>Kimball &amp; Palmer</stpnm>
+                			<pdist>28915.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.919307439229</lat>
+						<lon>-87.711952328682</lon>
+
+							<typ>S</typ>
+                			<stpid>11151</stpid>
+                			<stpnm>Kimball &amp; Dickens</stpnm>
+                			<pdist>29582.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.917487247859</lat>
+						<lon>-87.711920142174</lon>
+
+							<typ>S</typ>
+                			<stpid>14829</stpid>
+                			<stpnm>Kimball &amp; Armitage</stpnm>
+                			<pdist>30414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.91567498821</lat>
+						<lon>-87.711871862411</lon>
+
+							<typ>S</typ>
+                			<stpid>11153</stpid>
+                			<stpnm>Kimball &amp; Cortland</stpnm>
+                			<pdist>30927.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.913399611379</lat>
+						<lon>-87.711812853813</lon>
+
+							<typ>S</typ>
+                			<stpid>11154</stpid>
+                			<stpnm>Kimball &amp; Bloomingdale</stpnm>
+                			<pdist>31778.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.912010394066</lat>
+						<lon>-87.711748480797</lon>
+
+							<typ>S</typ>
+                			<stpid>11155</stpid>
+                			<stpnm>Kimball &amp; Wabansia</stpnm>
+                			<pdist>32254.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.910728934046</lat>
+						<lon>-87.711710929871</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.910621146517</lat>
+						<lon>-87.711775302887</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.91021394754</lat>
+						<lon>-87.711920142174</lon>
+
+							<typ>S</typ>
+                			<stpid>11156</stpid>
+                			<stpnm>Kimball &amp; North Ave</stpnm>
+                			<pdist>32933.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.910034300106</lat>
+						<lon>-87.711963057518</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.909950464464</lat>
+						<lon>-87.711920142174</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.908353574073</lat>
+						<lon>-87.711871862411</lon>
+
+							<typ>S</typ>
+                			<stpid>11157</stpid>
+                			<stpnm>Homan &amp; Le Moyne</stpnm>
+                			<pdist>33618.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.906541055079</lat>
+						<lon>-87.711812853813</lon>
+
+							<typ>S</typ>
+                			<stpid>11158</stpid>
+                			<stpnm>Homan &amp; Hirsch</stpnm>
+                			<pdist>34276.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.904836282104</lat>
+						<lon>-87.711748480797</lon>
+
+							<typ>S</typ>
+                			<stpid>11159</stpid>
+                			<stpnm>Homan &amp; Potomac</stpnm>
+                			<pdist>34928.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.902352901381</lat>
+						<lon>-87.711678743362</lon>
+
+							<typ>S</typ>
+                			<stpid>17644</stpid>
+                			<stpnm>Homan &amp; Division</stpnm>
+                			<pdist>35684.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.900572154135</lat>
+						<lon>-87.71160364151</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.900468342225</lat>
+						<lon>-87.711566090584</lon>
+
+							<typ>S</typ>
+                			<stpid>11161</stpid>
+                			<stpnm>Homan &amp; Grand</stpnm>
+                			<pdist>36376.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.900264710682</lat>
+						<lon>-87.711453437805</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.900216797283</lat>
+						<lon>-87.711480259895</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.900168883849</lat>
+						<lon>-87.711566090584</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.900073056872</lat>
+						<lon>-87.711850404739</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.899905359316</lat>
+						<lon>-87.711705565453</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.899761618203</lat>
+						<lon>-87.71160364151</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.89925852176</lat>
+						<lon>-87.711566090584</lon>
+
+							<typ>S</typ>
+                			<stpid>11162</stpid>
+                			<stpnm>Homan &amp; Augusta</stpnm>
+                			<pdist>36814.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.897433765689</lat>
+						<lon>-87.711507081985</lon>
+
+							<typ>S</typ>
+                			<stpid>11163</stpid>
+                			<stpnm>Homan &amp; Iowa</stpnm>
+                			<pdist>37482.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.895648888193</lat>
+						<lon>-87.711469531059</lon>
+
+							<typ>S</typ>
+                			<stpid>11164</stpid>
+                			<stpnm>Homan &amp; Chicago</stpnm>
+                			<pdist>38145.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.8937920835</lat>
+						<lon>-87.711405158043</lon>
+
+							<typ>S</typ>
+                			<stpid>11165</stpid>
+                			<stpnm>Homan &amp; Huron</stpnm>
+                			<pdist>38822.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.891951198033</lat>
+						<lon>-87.711340785027</lon>
+
+							<typ>S</typ>
+                			<stpid>11166</stpid>
+                			<stpnm>Homan &amp; Ohio</stpnm>
+                			<pdist>39478.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.890377817863</lat>
+						<lon>-87.7113032341</lon>
+
+							<typ>S</typ>
+                			<stpid>11167</stpid>
+                			<stpnm>Homan &amp; Franklin</stpnm>
+                			<pdist>40071.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.889639034615</lat>
+						<lon>-87.711271047592</lon>
+
+							<typ>S</typ>
+                			<stpid>11168</stpid>
+                			<stpnm>Homan &amp; Franklin</stpnm>
+                			<pdist>40423.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.88834514499</lat>
+						<lon>-87.711238861084</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.887582376791</lat>
+						<lon>-87.711212038994</lon>
+
+							<typ>S</typ>
+                			<stpid>11169</stpid>
+                			<stpnm>Homan &amp; Carroll</stpnm>
+                			<pdist>41103.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.886468159756</lat>
+						<lon>-87.711201310158</lon>
+
+							<typ>S</typ>
+                			<stpid>11170</stpid>
+                			<stpnm>Homan &amp; Fulton</stpnm>
+                			<pdist>41491.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.884834738368</lat>
+						<lon>-87.711142301559</lon>
+
+							<typ>S</typ>
+                			<stpid>11171</stpid>
+                			<stpnm>Homan &amp; Lake</stpnm>
+                			<pdist>42125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.883716479596</lat>
+						<lon>-87.711110115051</lon>
+
+							<typ>S</typ>
+                			<stpid>14090</stpid>
+                			<stpnm>Homan &amp; Maypole</stpnm>
+                			<pdist>42534.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.882869784936</lat>
+						<lon>-87.711083292961</lon>
+
+							<typ>S</typ>
+                			<stpid>11172</stpid>
+                			<stpnm>Homan &amp; Washington</stpnm>
+                			<pdist>42808.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.881260235376</lat>
+						<lon>-87.711024284363</lon>
+
+							<typ>S</typ>
+                			<stpid>11174</stpid>
+                			<stpnm>Homan &amp; Madison</stpnm>
+                			<pdist>43462.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.880904771074</lat>
+						<lon>-87.711018919945</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.879363071555</lat>
+						<lon>-87.710976004601</lon>
+
+							<typ>S</typ>
+                			<stpid>15673</stpid>
+                			<stpnm>Homan &amp; Monroe</stpnm>
+                			<pdist>44125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.877549729702</lat>
+						<lon>-87.710916996002</lon>
+
+							<typ>S</typ>
+                			<stpid>11177</stpid>
+                			<stpnm>Homan &amp; Jackson</stpnm>
+                			<pdist>44769.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.875472711057</lat>
+						<lon>-87.710863351822</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.87468182852</lat>
+						<lon>-87.710831165314</lon>
+
+							<typ>S</typ>
+                			<stpid>11179</stpid>
+                			<stpnm>Homan &amp; Congress</stpnm>
+                			<pdist>45779.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5066</pid>
+				<ln>66304.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.836975740151</lat>
+						<lon>-87.714527249336</lon>
+
+							<typ>S</typ>
+                			<stpid>11206</stpid>
+                			<stpnm>Central Park &amp; 31st Street</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.837103635594</lat>
+						<lon>-87.714527249336</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.837051678101</lat>
+						<lon>-87.716919779778</lon>
+
+							<typ>S</typ>
+                			<stpid>7429</stpid>
+                			<stpnm>31st Street &amp; Lawndale</stpnm>
+                			<pdist>694.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.837059671565</lat>
+						<lon>-87.716973423958</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.838754263216</lat>
+						<lon>-87.717027068138</lon>
+
+							<typ>S</typ>
+                			<stpid>11207</stpid>
+                			<stpnm>Lawndale &amp; 30th Street</stpnm>
+                			<pdist>1336.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.840588688032</lat>
+						<lon>-87.717080712318</lon>
+
+							<typ>S</typ>
+                			<stpid>11208</stpid>
+                			<stpnm>Lawndale &amp; 28th Street</stpnm>
+                			<pdist>2004.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.842419063864</lat>
+						<lon>-87.717118263245</lon>
+
+							<typ>S</typ>
+                			<stpid>11209</stpid>
+                			<stpnm>Lawndale &amp; 27th Street</stpnm>
+                			<pdist>2680.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.844241394774</lat>
+						<lon>-87.717166543007</lon>
+
+							<typ>S</typ>
+                			<stpid>11210</stpid>
+                			<stpnm>Lawndale &amp; 26th Street</stpnm>
+                			<pdist>3303.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.846175566416</lat>
+						<lon>-87.717204093933</lon>
+
+							<typ>S</typ>
+                			<stpid>11211</stpid>
+                			<stpnm>Lawndale &amp; 25th Street</stpnm>
+                			<pdist>4009.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.846203539544</lat>
+						<lon>-87.71479010582</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.84655520068</lat>
+						<lon>-87.714800834656</lon>
+
+							<typ>S</typ>
+                			<stpid>11212</stpid>
+                			<stpnm>Central Park &amp; 25th Street</stpnm>
+                			<pdist>4805.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.847925861428</lat>
+						<lon>-87.714833021164</lon>
+
+							<typ>S</typ>
+                			<stpid>11213</stpid>
+                			<stpnm>Central Park &amp; 24th Street</stpnm>
+                			<pdist>5315.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.849740043615</lat>
+						<lon>-87.714875936508</lon>
+
+							<typ>S</typ>
+                			<stpid>11214</stpid>
+                			<stpnm>Central Park &amp; 23rd Street</stpnm>
+                			<pdist>5988.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.851490241105</lat>
+						<lon>-87.714934945107</lon>
+
+							<typ>S</typ>
+                			<stpid>11215</stpid>
+                			<stpnm>Central Park &amp; Cermak</stpnm>
+                			<pdist>6642.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.853516094843</lat>
+						<lon>-87.715004682541</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.854267282682</lat>
+						<lon>-87.715004682541</lon>
+
+							<typ>S</typ>
+                			<stpid>11216</stpid>
+                			<stpnm>Central Park &amp; Ogden (Pink Line)</stpnm>
+                			<pdist>7651.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.857160072593</lat>
+						<lon>-87.715101242065</lon>
+
+							<typ>S</typ>
+                			<stpid>11218</stpid>
+                			<stpnm>Central Park &amp; 18th Street</stpnm>
+                			<pdist>8753.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.858922053154</lat>
+						<lon>-87.715149521828</lon>
+
+							<typ>S</typ>
+                			<stpid>17633</stpid>
+                			<stpnm>Central Park &amp; 16th Street</stpnm>
+                			<pdist>9491.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.860695970935</lat>
+						<lon>-87.715203166008</lon>
+
+							<typ>S</typ>
+                			<stpid>11220</stpid>
+                			<stpnm>Central Park &amp; 15th Street</stpnm>
+                			<pdist>10018.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.862361970526</lat>
+						<lon>-87.71525144577</lon>
+
+							<typ>S</typ>
+                			<stpid>11221</stpid>
+                			<stpnm>Central Park &amp; Douglas Blvd</stpnm>
+                			<pdist>10586.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.862393931724</lat>
+						<lon>-87.71301984787</lon>
+
+							<typ>S</typ>
+                			<stpid>4711</stpid>
+                			<stpnm>Douglas Blvd &amp; St. Louis</stpnm>
+                			<pdist>11226.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.862437878346</lat>
+						<lon>-87.710359096527</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.863069108309</lat>
+						<lon>-87.710391283035</lon>
+
+							<typ>S</typ>
+                			<stpid>4713</stpid>
+                			<stpnm>Homan &amp; Douglas Blvd</stpnm>
+                			<pdist>12177.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.864435420177</lat>
+						<lon>-87.71043419838</lon>
+
+							<typ>S</typ>
+                			<stpid>4715</stpid>
+                			<stpnm>Homan &amp; 13th Street</stpnm>
+                			<pdist>12623.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.866269108637</lat>
+						<lon>-87.710477113724</lon>
+
+							<typ>S</typ>
+                			<stpid>11225</stpid>
+                			<stpnm>Homan &amp; Roosevelt</stpnm>
+                			<pdist>13473.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.868062796573</lat>
+						<lon>-87.710530757904</lon>
+
+							<typ>S</typ>
+                			<stpid>11226</stpid>
+                			<stpnm>Homan &amp; Fillmore</stpnm>
+                			<pdist>13946.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.869896380997</lat>
+						<lon>-87.710589766502</lon>
+
+							<typ>S</typ>
+                			<stpid>11227</stpid>
+                			<stpnm>Homan &amp; Arthington</stpnm>
+                			<pdist>14625.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.870915016285</lat>
+						<lon>-87.710621953011</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.871741896523</lat>
+						<lon>-87.710664868355</lon>
+
+							<typ>S</typ>
+                			<stpid>11229</stpid>
+                			<stpnm>Homan &amp; Lexington</stpnm>
+                			<pdist>15284.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.873183918109</lat>
+						<lon>-87.710713148117</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.874018757842</lat>
+						<lon>-87.710734605789</lon>
+
+							<typ>S</typ>
+                			<stpid>15540</stpid>
+                			<stpnm>Kedzie-Homan Blue Line Station</stpnm>
+                			<pdist>16135.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.875368858353</lat>
+						<lon>-87.710777521133</lon>
+
+							<typ>S</typ>
+                			<stpid>11232</stpid>
+                			<stpnm>Homan &amp; Van Buren</stpnm>
+                			<pdist>16588.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.877178267862</lat>
+						<lon>-87.710825800896</lon>
+
+							<typ>S</typ>
+                			<stpid>11233</stpid>
+                			<stpnm>Homan &amp; Jackson</stpnm>
+                			<pdist>17234.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.878316611831</lat>
+						<lon>-87.710847258568</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.879510852655</lat>
+						<lon>-87.710884809494</lon>
+
+							<typ>S</typ>
+                			<stpid>11235</stpid>
+                			<stpnm>Homan &amp; Monroe</stpnm>
+                			<pdist>18069.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.881232277581</lat>
+						<lon>-87.710938453674</lon>
+
+							<typ>S</typ>
+                			<stpid>11236</stpid>
+                			<stpnm>Homan &amp; Madison</stpnm>
+                			<pdist>18556.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.882654115635</lat>
+						<lon>-87.710992097855</lon>
+
+							<typ>S</typ>
+                			<stpid>11238</stpid>
+                			<stpnm>Homan &amp; Washington</stpnm>
+                			<pdist>19222.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.883484837832</lat>
+						<lon>-87.711018919945</lon>
+
+							<typ>S</typ>
+                			<stpid>14089</stpid>
+                			<stpnm>Homan &amp; Maypole</stpnm>
+                			<pdist>19536.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.884511244092</lat>
+						<lon>-87.711045742035</lon>
+
+							<typ>S</typ>
+                			<stpid>11239</stpid>
+                			<stpnm>Homan &amp; Lake</stpnm>
+                			<pdist>19924.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.886264483573</lat>
+						<lon>-87.711110115051</lon>
+
+							<typ>S</typ>
+                			<stpid>11240</stpid>
+                			<stpnm>Homan &amp; Fulton</stpnm>
+                			<pdist>20549.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.887370716986</lat>
+						<lon>-87.711126208305</lon>
+
+							<typ>S</typ>
+                			<stpid>11241</stpid>
+                			<stpnm>Homan &amp; Carroll</stpnm>
+                			<pdist>21109.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.88954718529</lat>
+						<lon>-87.711190581322</lon>
+
+							<typ>S</typ>
+                			<stpid>11242</stpid>
+                			<stpnm>Homan &amp; Franklin</stpnm>
+                			<pdist>21806.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.890313923433</lat>
+						<lon>-87.711217403412</lon>
+
+							<typ>S</typ>
+                			<stpid>11243</stpid>
+                			<stpnm>Homan &amp; Franklin</stpnm>
+                			<pdist>22116.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.891743546018</lat>
+						<lon>-87.711254954338</lon>
+
+							<typ>S</typ>
+                			<stpid>11244</stpid>
+                			<stpnm>Homan &amp; Ohio</stpnm>
+                			<pdist>22555.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.89354051226</lat>
+						<lon>-87.711313962936</lon>
+
+							<typ>S</typ>
+                			<stpid>11245</stpid>
+                			<stpnm>Homan &amp; Huron</stpnm>
+                			<pdist>23213.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.895405310439</lat>
+						<lon>-87.711383700371</lon>
+
+							<typ>S</typ>
+                			<stpid>11246</stpid>
+                			<stpnm>Homan &amp; Chicago</stpnm>
+                			<pdist>23897.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.897246096353</lat>
+						<lon>-87.711421251297</lon>
+
+							<typ>S</typ>
+                			<stpid>11247</stpid>
+                			<stpnm>Homan &amp; Iowa</stpnm>
+                			<pdist>24568.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.899222586148</lat>
+						<lon>-87.711485624313</lon>
+
+							<typ>S</typ>
+                			<stpid>11248</stpid>
+                			<stpnm>Homan &amp; Augusta</stpnm>
+                			<pdist>25248.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.899761618203</lat>
+						<lon>-87.711512446404</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.899869424068</lat>
+						<lon>-87.71157681942</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.899969244151</lat>
+						<lon>-87.711668014526</lon>
+
+							<typ>S</typ>
+                			<stpid>11249</stpid>
+                			<stpnm>Homan &amp; Grand</stpnm>
+                			<pdist>25590.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.900041114514</lat>
+						<lon>-87.711743116379</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.900104999213</lat>
+						<lon>-87.711539268494</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.900168883849</lat>
+						<lon>-87.711431980133</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.900256725118</lat>
+						<lon>-87.711346149445</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.900360537372</lat>
+						<lon>-87.711426615715</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.900492298835</lat>
+						<lon>-87.711490988731</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.900632045544</lat>
+						<lon>-87.711528539658</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.902620408448</lat>
+						<lon>-87.711609005928</lon>
+
+							<typ>S</typ>
+                			<stpid>11250</stpid>
+                			<stpnm>Homan &amp; Division</stpnm>
+                			<pdist>26623.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.904500911571</lat>
+						<lon>-87.711662650108</lon>
+
+							<typ>S</typ>
+                			<stpid>11251</stpid>
+                			<stpnm>Homan &amp; Potomac</stpnm>
+                			<pdist>27288.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.906325465695</lat>
+						<lon>-87.711721658707</lon>
+
+							<typ>S</typ>
+                			<stpid>11252</stpid>
+                			<stpnm>Homan &amp; Hirsch</stpnm>
+                			<pdist>27961.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.90812202165</lat>
+						<lon>-87.711791396141</lon>
+
+							<typ>S</typ>
+                			<stpid>11253</stpid>
+                			<stpnm>Homan &amp; Le Moyne</stpnm>
+                			<pdist>28621.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.909866628712</lat>
+						<lon>-87.711834311485</lon>
+
+							<typ>S</typ>
+                			<stpid>11254</stpid>
+                			<stpnm>Homan &amp; North Ave</stpnm>
+                			<pdist>29268.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.90995445664</lat>
+						<lon>-87.711834311485</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.910034300106</lat>
+						<lon>-87.711759209633</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.910637115051</lat>
+						<lon>-87.711571455002</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.910716957663</lat>
+						<lon>-87.7116304636</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.91178683903</lat>
+						<lon>-87.71165728569</lon>
+
+							<typ>S</typ>
+                			<stpid>11255</stpid>
+                			<stpnm>Kimball &amp; Wabansia</stpnm>
+                			<pdist>29937.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.913431547054</lat>
+						<lon>-87.711737751961</lon>
+
+							<typ>S</typ>
+                			<stpid>11256</stpid>
+                			<stpnm>Kimball &amp; Bloomingdale</stpnm>
+                			<pdist>30599.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.915431486846</lat>
+						<lon>-87.711786031723</lon>
+
+							<typ>S</typ>
+                			<stpid>11257</stpid>
+                			<stpnm>Kimball &amp; Cortland</stpnm>
+                			<pdist>31293.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.91719186103</lat>
+						<lon>-87.711828947067</lon>
+
+							<typ>S</typ>
+                			<stpid>11258</stpid>
+                			<stpnm>Kimball &amp; Armitage</stpnm>
+                			<pdist>31968.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.919075926542</lat>
+						<lon>-87.711866497993</lon>
+
+							<typ>S</typ>
+                			<stpid>11259</stpid>
+                			<stpnm>Kimball &amp; Dickens</stpnm>
+                			<pdist>32630.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.920908047072</lat>
+						<lon>-87.711920142174</lon>
+
+							<typ>S</typ>
+                			<stpid>11260</stpid>
+                			<stpnm>Kimball &amp; Palmer</stpnm>
+                			<pdist>33290.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.921901920515</lat>
+						<lon>-87.711968421936</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.922716166739</lat>
+						<lon>-87.711968421936</lon>
+
+							<typ>S</typ>
+                			<stpid>11261</stpid>
+                			<stpnm>Kimball &amp; Belden</stpnm>
+                			<pdist>33971.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.92498722017</lat>
+						<lon>-87.712048888206</lon>
+
+							<typ>S</typ>
+                			<stpid>17519</stpid>
+                			<stpnm>Kimball &amp; Fullerton</stpnm>
+                			<pdist>34803.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.926364181566</lat>
+						<lon>-87.712097167969</lon>
+
+							<typ>S</typ>
+                			<stpid>11263</stpid>
+                			<stpnm>Kimball &amp; Altgeld</stpnm>
+                			<pdist>35308.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.928216048002</lat>
+						<lon>-87.712140083313</lon>
+
+							<typ>S</typ>
+                			<stpid>11264</stpid>
+                			<stpnm>Kimball &amp; Wrightwood</stpnm>
+                			<pdist>35980.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.930075842517</lat>
+						<lon>-87.712199091911</lon>
+
+							<typ>S</typ>
+                			<stpid>11265</stpid>
+                			<stpnm>Kimball &amp; Shubert</stpnm>
+                			<pdist>36649.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.932302735429</lat>
+						<lon>-87.71225810051</lon>
+
+							<typ>S</typ>
+                			<stpid>11267</stpid>
+                			<stpnm>Kimball &amp; Diversey/Milwaukee</stpnm>
+                			<pdist>37514.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.933914989304</lat>
+						<lon>-87.712317109108</lon>
+
+							<typ>S</typ>
+                			<stpid>11268</stpid>
+                			<stpnm>Kimball &amp; Dawson</stpnm>
+                			<pdist>38077.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.935279786228</lat>
+						<lon>-87.712327837944</lon>
+
+							<typ>S</typ>
+                			<stpid>11269</stpid>
+                			<stpnm>Kimball &amp; Wisner/Wellington</stpnm>
+                			<pdist>38573.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.937358850554</lat>
+						<lon>-87.71236538887</lon>
+
+							<typ>S</typ>
+                			<stpid>11270</stpid>
+                			<stpnm>Kimball &amp; Barry</stpnm>
+                			<pdist>39324.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.939178475035</lat>
+						<lon>-87.712451219559</lon>
+
+							<typ>S</typ>
+                			<stpid>11271</stpid>
+                			<stpnm>Kimball &amp; Belmont (Blue Line)</stpnm>
+                			<pdist>39979.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.941029969457</lat>
+						<lon>-87.712499499321</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.94223101791</lat>
+						<lon>-87.712515592575</lon>
+
+							<typ>S</typ>
+                			<stpid>7948</stpid>
+                			<stpnm>Kimball &amp; Avondale/Henderson</stpnm>
+                			<pdist>41083.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.943467954463</lat>
+						<lon>-87.712563872337</lon>
+
+							<typ>S</typ>
+                			<stpid>7949</stpid>
+                			<stpnm>Kimball &amp; Newport</stpnm>
+                			<pdist>41511.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.944704867019</lat>
+						<lon>-87.712596058846</lon>
+
+							<typ>S</typ>
+                			<stpid>7950</stpid>
+                			<stpnm>3501 N Kimball </stpnm>
+                			<pdist>41958.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.946440494179</lat>
+						<lon>-87.712628245354</lon>
+
+							<typ>S</typ>
+                			<stpid>7951</stpid>
+                			<stpnm>Kimball &amp; Addison</stpnm>
+                			<pdist>42572.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.949149574088</lat>
+						<lon>-87.71274626255</lon>
+
+							<typ>S</typ>
+                			<stpid>11272</stpid>
+                			<stpnm>Kimball &amp; Elston</stpnm>
+                			<pdist>43575.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.950119069559</lat>
+						<lon>-87.712756991386</lon>
+
+							<typ>S</typ>
+                			<stpid>11273</stpid>
+                			<stpnm>Kimball &amp; Grace</stpnm>
+                			<pdist>43952.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.951934340356</lat>
+						<lon>-87.712799906731</lon>
+
+							<typ>S</typ>
+                			<stpid>11274</stpid>
+                			<stpnm>Kimball &amp; Byron</stpnm>
+                			<pdist>44617.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.953976956889</lat>
+						<lon>-87.712858915329</lon>
+
+							<typ>S</typ>
+                			<stpid>11275</stpid>
+                			<stpnm>Kimball &amp; Irving Park</stpnm>
+                			<pdist>45260.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.95555674822</lat>
+						<lon>-87.712912559509</lon>
+
+							<typ>S</typ>
+                			<stpid>11276</stpid>
+                			<stpnm>Kimball &amp; Belle Plaine</stpnm>
+                			<pdist>45961.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.957403777821</lat>
+						<lon>-87.712976932526</lon>
+
+							<typ>S</typ>
+                			<stpid>11277</stpid>
+                			<stpnm>Kimball &amp; Berteau</stpnm>
+                			<pdist>46619.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.959166982918</lat>
+						<lon>-87.713025212288</lon>
+
+							<typ>S</typ>
+                			<stpid>11278</stpid>
+                			<stpnm>Kimball &amp; Cullom</stpnm>
+                			<pdist>47275.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.960950084158</lat>
+						<lon>-87.71307349205</lon>
+
+							<typ>S</typ>
+                			<stpid>11279</stpid>
+                			<stpnm>Kimball &amp; Montrose</stpnm>
+                			<pdist>47929.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.962824879524</lat>
+						<lon>-87.713143229485</lon>
+
+							<typ>S</typ>
+                			<stpid>11280</stpid>
+                			<stpnm>Kimball &amp; Sunnyside</stpnm>
+                			<pdist>48608.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.96459192338</lat>
+						<lon>-87.713191509247</lon>
+
+							<typ>S</typ>
+                			<stpid>11281</stpid>
+                			<stpnm>Kimball &amp; Wilson</stpnm>
+                			<pdist>49235.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.965545229172</lat>
+						<lon>-87.713202238083</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.966681997766</lat>
+						<lon>-87.713277339935</lon>
+
+							<typ>S</typ>
+                			<stpid>11282</stpid>
+                			<stpnm>Kimball &amp; Leland</stpnm>
+                			<pdist>49997.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.968261474141</lat>
+						<lon>-87.713304162025</lon>
+
+							<typ>S</typ>
+                			<stpid>11283</stpid>
+                			<stpnm>Kimball &amp; Lawrence (Brown Line)</stpnm>
+                			<pdist>50545.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.970096170261</lat>
+						<lon>-87.713352441788</lon>
+
+							<typ>S</typ>
+                			<stpid>11284</stpid>
+                			<stpnm>Kimball &amp; Ainslie</stpnm>
+                			<pdist>51200.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.972672632557</lat>
+						<lon>-87.713443636894</lon>
+
+							<typ>S</typ>
+                			<stpid>11285</stpid>
+                			<stpnm>Kimball &amp; Carmen </stpnm>
+                			<pdist>52129.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.973849155755</lat>
+						<lon>-87.71348118782</lon>
+
+							<typ>S</typ>
+                			<stpid>11286</stpid>
+                			<stpnm>Kimball &amp; Carmen </stpnm>
+                			<pdist>52527.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.975552084738</lat>
+						<lon>-87.713508009911</lon>
+
+							<typ>S</typ>
+                			<stpid>11287</stpid>
+                			<stpnm>Kimball &amp; Foster</stpnm>
+                			<pdist>53195.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.977442402225</lat>
+						<lon>-87.713550925255</lon>
+
+							<typ>S</typ>
+                			<stpid>11288</stpid>
+                			<stpnm>Kimball &amp; Berwyn</stpnm>
+                			<pdist>53858.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.979276833904</lat>
+						<lon>-87.713572382927</lon>
+
+							<typ>S</typ>
+                			<stpid>11289</stpid>
+                			<stpnm>Kimball &amp; Balmoral</stpnm>
+                			<pdist>54542.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.981087286399</lat>
+						<lon>-87.713626027107</lon>
+
+							<typ>S</typ>
+                			<stpid>11290</stpid>
+                			<stpnm>Kimball &amp; Catalpa</stpnm>
+                			<pdist>55209.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.982909650252</lat>
+						<lon>-87.713695764542</lon>
+
+							<typ>S</typ>
+                			<stpid>11291</stpid>
+                			<stpnm>Kimball &amp; Bryn Mawr</stpnm>
+                			<pdist>55863.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.984731961947</lat>
+						<lon>-87.713760137558</lon>
+
+							<typ>S</typ>
+                			<stpid>11292</stpid>
+                			<stpnm>Kimball &amp; Hollywood</stpnm>
+                			<pdist>56543.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.986542259339</lat>
+						<lon>-87.713813781738</lon>
+
+							<typ>S</typ>
+                			<stpid>11293</stpid>
+                			<stpnm>Kimball &amp; Ardmore</stpnm>
+                			<pdist>57208.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.988360479793</lat>
+						<lon>-87.713867425919</lon>
+
+							<typ>S</typ>
+                			<stpid>11294</stpid>
+                			<stpnm>Kimball &amp; Thorndale</stpnm>
+                			<pdist>57872.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.990162699696</lat>
+						<lon>-87.713915705681</lon>
+
+							<typ>S</typ>
+                			<stpid>11295</stpid>
+                			<stpnm>Kimball &amp; Peterson</stpnm>
+                			<pdist>58532.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.991932972226</lat>
+						<lon>-87.713980078697</lon>
+
+							<typ>S</typ>
+                			<stpid>11296</stpid>
+                			<stpnm>Kimball &amp; Glenlake</stpnm>
+                			<pdist>59183.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.994165678181</lat>
+						<lon>-87.714022994041</lon>
+
+							<typ>S</typ>
+                			<stpid>11297</stpid>
+                			<stpnm>Kimball &amp; Lincoln</stpnm>
+                			<pdist>60016.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.994428813366</lat>
+						<lon>-87.714012265205</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.994528485501</lat>
+						<lon>-87.713953256607</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.994955080474</lat>
+						<lon>-87.713583111763</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.99526206761</lat>
+						<lon>-87.713223695755</lon>
+
+							<typ>S</typ>
+                			<stpid>17560</stpid>
+                			<stpnm>McCormick &amp; Lincoln</stpnm>
+                			<pdist>60471.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.996553789466</lat>
+						<lon>-87.711796760559</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.996721232972</lat>
+						<lon>-87.711700201035</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.996888676038</lat>
+						<lon>-87.711641192436</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.997111932774</lat>
+						<lon>-87.711619734764</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.997829538405</lat>
+						<lon>-87.711614370346</lon>
+
+							<typ>S</typ>
+                			<stpid>17294</stpid>
+                			<stpnm>McCormick &amp; Devon</stpnm>
+                			<pdist>61530.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>42.002194798321</lat>
+						<lon>-87.711673378944</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>42.004578622058</lat>
+						<lon>-87.711609005928</lon>
+
+							<typ>S</typ>
+                			<stpid>14999</stpid>
+                			<stpnm>McCormick &amp; Pratt</stpnm>
+                			<pdist>63928.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>42.007942930334</lat>
+						<lon>-87.711517810822</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>42.007907055948</lat>
+						<lon>-87.712290287018</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>42.007911041992</lat>
+						<lon>-87.712622880936</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>42.007942930334</lat>
+						<lon>-87.712891101837</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>42.008086427679</lat>
+						<lon>-87.713180780411</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>42.008277756969</lat>
+						<lon>-87.713438272476</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>42.008437197604</lat>
+						<lon>-87.713529467583</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>42.008732161725</lat>
+						<lon>-87.713588476181</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>42.008736147717</lat>
+						<lon>-87.713250517845</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>42.009282226297</lat>
+						<lon>-87.713803052902</lon>
+
+							<typ>S</typ>
+                			<stpid>14801</stpid>
+                			<stpnm>Lincolnwood Town Center</stpnm>
+                			<pdist>66304.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5070</pid>
+				<ln>67805.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>42.009282226297</lat>
+						<lon>-87.713803052902</lon>
+
+							<typ>S</typ>
+                			<stpid>14801</stpid>
+                			<stpnm>Lincolnwood Town Center</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>42.009047054345</lat>
+						<lon>-87.71481692791</lon>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>42.009302156084</lat>
+						<lon>-87.714532613754</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>42.009059012262</lat>
+						<lon>-87.714827656746</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>42.008768035646</lat>
+						<lon>-87.715181708336</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>42.008728175732</lat>
+						<lon>-87.714473605156</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>42.008720203747</lat>
+						<lon>-87.713867425919</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>42.00854880581</lat>
+						<lon>-87.713819146156</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>42.008329575219</lat>
+						<lon>-87.71372795105</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>42.008162162258</lat>
+						<lon>-87.713626027107</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>42.007879153633</lat>
+						<lon>-87.713293433189</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>42.007739641875</lat>
+						<lon>-87.712960839272</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>42.007703767374</lat>
+						<lon>-87.71160364151</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>42.004738071964</lat>
+						<lon>-87.71168410778</lon>
+
+							<typ>S</typ>
+                			<stpid>14998</stpid>
+                			<stpnm>McCormick &amp; Pratt</stpnm>
+                			<pdist>2525.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>42.001796156872</lat>
+						<lon>-87.711753845215</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>42.000197579576</lat>
+						<lon>-87.711732387543</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.997295321649</lat>
+						<lon>-87.71168410778</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.997080039002</lat>
+						<lon>-87.711727023125</lon>
+
+							<typ>S</typ>
+                			<stpid>1355</stpid>
+                			<stpnm>McCormick &amp; Devon</stpnm>
+                			<pdist>5419.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.996888676038</lat>
+						<lon>-87.711737751961</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.996689339005</lat>
+						<lon>-87.711823582649</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.996577709994</lat>
+						<lon>-87.711893320084</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.996426213166</lat>
+						<lon>-87.71203815937</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.995285988623</lat>
+						<lon>-87.713352441788</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.994907238189</lat>
+						<lon>-87.71375477314</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.994672013101</lat>
+						<lon>-87.713958621025</lon>
+
+							<typ>S</typ>
+                			<stpid>11111</stpid>
+                			<stpnm>McCormick &amp; Lincoln</stpnm>
+                			<pdist>6494.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.994452734693</lat>
+						<lon>-87.71410882473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.994245416231</lat>
+						<lon>-87.714114189148</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.993898554986</lat>
+						<lon>-87.714114189148</lon>
+
+							<typ>S</typ>
+                			<stpid>11112</stpid>
+                			<stpnm>Kimball &amp; Granville</stpnm>
+                			<pdist>6789.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.992124350091</lat>
+						<lon>-87.714071273804</lon>
+
+							<typ>S</typ>
+                			<stpid>11113</stpid>
+                			<stpnm>Kimball &amp; Glenlake</stpnm>
+                			<pdist>7412.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.991362822259</lat>
+						<lon>-87.714049816132</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.990573375412</lat>
+						<lon>-87.714006900787</lon>
+
+							<typ>S</typ>
+                			<stpid>11114</stpid>
+                			<stpnm>Kimball &amp; Peterson</stpnm>
+                			<pdist>8030.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.988595728207</lat>
+						<lon>-87.713958621025</lon>
+
+							<typ>S</typ>
+                			<stpid>11116</stpid>
+                			<stpnm>Kimball &amp; Thorndale</stpnm>
+                			<pdist>8729.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.986745615521</lat>
+						<lon>-87.713904976845</lon>
+
+							<typ>S</typ>
+                			<stpid>11117</stpid>
+                			<stpnm>Kimball &amp; Ardmore</stpnm>
+                			<pdist>9394.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.984935323912</lat>
+						<lon>-87.713856697083</lon>
+
+							<typ>S</typ>
+                			<stpid>11118</stpid>
+                			<stpnm>Kimball &amp; Hollywood</stpnm>
+                			<pdist>10057.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.983160869186</lat>
+						<lon>-87.71378159523</lon>
+
+							<typ>S</typ>
+                			<stpid>11119</stpid>
+                			<stpnm>Kimball &amp; Bryn Mawr</stpnm>
+                			<pdist>10704.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.981358451063</lat>
+						<lon>-87.713717222214</lon>
+
+							<typ>S</typ>
+                			<stpid>11120</stpid>
+                			<stpnm>Kimball &amp; Catalpa</stpnm>
+                			<pdist>11396.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.979516103706</lat>
+						<lon>-87.713658213615</lon>
+
+							<typ>S</typ>
+                			<stpid>11121</stpid>
+                			<stpnm>Kimball &amp; Balmoral</stpnm>
+                			<pdist>12064.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.977673703044</lat>
+						<lon>-87.713631391525</lon>
+
+							<typ>S</typ>
+                			<stpid>11122</stpid>
+                			<stpnm>Kimball &amp; Berwyn</stpnm>
+                			<pdist>12731.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.975885</lat>
+						<lon>-87.713583333334</lon>
+
+							<typ>S</typ>
+                			<stpid>17821</stpid>
+                			<stpnm>Kimball &amp; Foster</stpnm>
+                			<pdist>13389.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.973948860112</lat>
+						<lon>-87.713561654091</lon>
+
+							<typ>S</typ>
+                			<stpid>11124</stpid>
+                			<stpnm>Kimball &amp; Carmen </stpnm>
+                			<pdist>14141.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.972907938935</lat>
+						<lon>-87.713534832001</lon>
+
+							<typ>S</typ>
+                			<stpid>11125</stpid>
+                			<stpnm>Kimball &amp; Carmen </stpnm>
+                			<pdist>14467.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.971823129415</lat>
+						<lon>-87.713497281075</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.970383335305</lat>
+						<lon>-87.713449001312</lon>
+
+							<typ>S</typ>
+                			<stpid>11126</stpid>
+                			<stpnm>Kimball &amp; Ainslie</stpnm>
+                			<pdist>15391.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.968197657673</lat>
+						<lon>-87.713384628296</lon>
+
+							<typ>S</typ>
+                			<stpid>11127</stpid>
+                			<stpnm>Kimball &amp; Lawrence (Brown Line)</stpnm>
+                			<pdist>16213.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.966697952269</lat>
+						<lon>-87.713363170624</lon>
+
+							<typ>S</typ>
+                			<stpid>11128</stpid>
+                			<stpnm>Kimball &amp; Leland</stpnm>
+                			<pdist>16728.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.964883101976</lat>
+						<lon>-87.713282704353</lon>
+
+							<typ>S</typ>
+                			<stpid>11129</stpid>
+                			<stpnm>Kimball &amp; Wilson</stpnm>
+                			<pdist>17399.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.963052244573</lat>
+						<lon>-87.713239789009</lon>
+
+							<typ>S</typ>
+                			<stpid>11130</stpid>
+                			<stpnm>Kimball &amp; Sunnyside</stpnm>
+                			<pdist>18064.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.961273191123</lat>
+						<lon>-87.713175415993</lon>
+
+							<typ>S</typ>
+                			<stpid>11131</stpid>
+                			<stpnm>Kimball &amp; Montrose</stpnm>
+                			<pdist>18715.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.959450208148</lat>
+						<lon>-87.71312713623</lon>
+
+							<typ>S</typ>
+                			<stpid>11132</stpid>
+                			<stpnm>Kimball &amp; Cullom</stpnm>
+                			<pdist>19398.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.957643129791</lat>
+						<lon>-87.713068127632</lon>
+
+							<typ>S</typ>
+                			<stpid>11133</stpid>
+                			<stpnm>Kimball &amp; Berteau</stpnm>
+                			<pdist>20062.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.955784139203</lat>
+						<lon>-87.713014483452</lon>
+
+							<typ>S</typ>
+                			<stpid>11134</stpid>
+                			<stpnm>Kimball &amp; Belle Plaine</stpnm>
+                			<pdist>20727.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.954080681763</lat>
+						<lon>-87.712939381599</lon>
+
+							<typ>S</typ>
+                			<stpid>11135</stpid>
+                			<stpnm>Kimball &amp; Irving Park</stpnm>
+                			<pdist>21369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.952161744263</lat>
+						<lon>-87.712891101837</lon>
+
+							<typ>S</typ>
+                			<stpid>11136</stpid>
+                			<stpnm>Kimball &amp; Byron</stpnm>
+                			<pdist>22058.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.950386376416</lat>
+						<lon>-87.712848186493</lon>
+
+							<typ>S</typ>
+                			<stpid>11137</stpid>
+                			<stpnm>Kimball &amp; Grace</stpnm>
+                			<pdist>22727.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.949157553535</lat>
+						<lon>-87.712826728821</lon>
+
+							<typ>S</typ>
+                			<stpid>15219</stpid>
+                			<stpnm>Kimball &amp; Elston</stpnm>
+                			<pdist>23204.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.94839152209</lat>
+						<lon>-87.712799906731</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.946320797271</lat>
+						<lon>-87.712708711624</lon>
+
+							<typ>S</typ>
+                			<stpid>14826</stpid>
+                			<stpnm>Kimball &amp; Addison</stpnm>
+                			<pdist>24252.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.944828556955</lat>
+						<lon>-87.712676525116</lon>
+
+							<typ>S</typ>
+                			<stpid>7855</stpid>
+                			<stpnm>3501 N Kimball</stpnm>
+                			<pdist>24689.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.943547755997</lat>
+						<lon>-87.71263897419</lon>
+
+							<typ>S</typ>
+                			<stpid>7856</stpid>
+                			<stpnm>Kimball &amp; Newport</stpnm>
+                			<pdist>25245.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.942374663386</lat>
+						<lon>-87.712601423264</lon>
+
+							<typ>S</typ>
+                			<stpid>7857</stpid>
+                			<stpnm>Kimball &amp; Avondale/Henderson</stpnm>
+                			<pdist>25537.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.94053916906</lat>
+						<lon>-87.712579965591</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.93919842677</lat>
+						<lon>-87.712537050247</lon>
+
+							<typ>S</typ>
+                			<stpid>11139</stpid>
+                			<stpnm>Kimball &amp; Belmont (Blue Line)</stpnm>
+                			<pdist>26857.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.937602268241</lat>
+						<lon>-87.712456583977</lon>
+
+							<typ>S</typ>
+                			<stpid>11140</stpid>
+                			<stpnm>Kimball &amp; Barry</stpnm>
+                			<pdist>27399.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.935415466197</lat>
+						<lon>-87.712402939796</lon>
+
+							<typ>S</typ>
+                			<stpid>11141</stpid>
+                			<stpnm>Kimball &amp; Wisner/Wellington</stpnm>
+                			<pdist>28197.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.934082597517</lat>
+						<lon>-87.712402939796</lon>
+
+							<typ>S</typ>
+                			<stpid>11142</stpid>
+                			<stpnm>Kimball &amp; Dawson</stpnm>
+                			<pdist>28682.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.932390532481</lat>
+						<lon>-87.712349295616</lon>
+
+							<typ>S</typ>
+                			<stpid>11143</stpid>
+                			<stpnm>Kimball &amp; Diversey/Milwaukee</stpnm>
+                			<pdist>29334.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.93029135168</lat>
+						<lon>-87.7122849226</lon>
+
+							<typ>S</typ>
+                			<stpid>11145</stpid>
+                			<stpnm>Kimball &amp; Schubert</stpnm>
+                			<pdist>30067.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.928467482619</lat>
+						<lon>-87.712225914001</lon>
+
+							<typ>S</typ>
+                			<stpid>11146</stpid>
+                			<stpnm>Kimball &amp; Wrightwood</stpnm>
+                			<pdist>30742.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.926643561411</lat>
+						<lon>-87.712182998657</lon>
+
+							<typ>S</typ>
+                			<stpid>11147</stpid>
+                			<stpnm>Kimball &amp; Altgeld</stpnm>
+                			<pdist>31415.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.924412479666</lat>
+						<lon>-87.712118625641</lon>
+
+							<typ>S</typ>
+                			<stpid>17628</stpid>
+                			<stpnm>Kimball &amp; Fullerton</stpnm>
+                			<pdist>32213.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.923027493432</lat>
+						<lon>-87.712064981461</lon>
+
+							<typ>S</typ>
+                			<stpid>11149</stpid>
+                			<stpnm>Kimball &amp; Belden</stpnm>
+                			<pdist>32726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.921901920515</lat>
+						<lon>-87.712048888206</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.921139553113</lat>
+						<lon>-87.712016701698</lon>
+
+							<typ>S</typ>
+                			<stpid>11150</stpid>
+                			<stpnm>Kimball &amp; Palmer</stpnm>
+                			<pdist>33401.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.919307439229</lat>
+						<lon>-87.711952328682</lon>
+
+							<typ>S</typ>
+                			<stpid>11151</stpid>
+                			<stpnm>Kimball &amp; Dickens</stpnm>
+                			<pdist>34068.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.917487247859</lat>
+						<lon>-87.711920142174</lon>
+
+							<typ>S</typ>
+                			<stpid>14829</stpid>
+                			<stpnm>Kimball &amp; Armitage</stpnm>
+                			<pdist>34900.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.91567498821</lat>
+						<lon>-87.711871862411</lon>
+
+							<typ>S</typ>
+                			<stpid>11153</stpid>
+                			<stpnm>Kimball &amp; Cortland</stpnm>
+                			<pdist>35413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.913399611379</lat>
+						<lon>-87.711812853813</lon>
+
+							<typ>S</typ>
+                			<stpid>11154</stpid>
+                			<stpnm>Kimball &amp; Bloomingdale</stpnm>
+                			<pdist>36264.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.912010394066</lat>
+						<lon>-87.711748480797</lon>
+
+							<typ>S</typ>
+                			<stpid>11155</stpid>
+                			<stpnm>Kimball &amp; Wabansia</stpnm>
+                			<pdist>36740.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.910728934046</lat>
+						<lon>-87.711710929871</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.910621146517</lat>
+						<lon>-87.711775302887</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.91021394754</lat>
+						<lon>-87.711920142174</lon>
+
+							<typ>S</typ>
+                			<stpid>11156</stpid>
+                			<stpnm>Kimball &amp; North Ave</stpnm>
+                			<pdist>37419.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.910034300106</lat>
+						<lon>-87.711963057518</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.909950464464</lat>
+						<lon>-87.711920142174</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.908353574073</lat>
+						<lon>-87.711871862411</lon>
+
+							<typ>S</typ>
+                			<stpid>11157</stpid>
+                			<stpnm>Homan &amp; Le Moyne</stpnm>
+                			<pdist>38104.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.906541055079</lat>
+						<lon>-87.711812853813</lon>
+
+							<typ>S</typ>
+                			<stpid>11158</stpid>
+                			<stpnm>Homan &amp; Hirsch</stpnm>
+                			<pdist>38762.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.904836282104</lat>
+						<lon>-87.711748480797</lon>
+
+							<typ>S</typ>
+                			<stpid>11159</stpid>
+                			<stpnm>Homan &amp; Potomac</stpnm>
+                			<pdist>39414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.902352901381</lat>
+						<lon>-87.711678743362</lon>
+
+							<typ>S</typ>
+                			<stpid>17644</stpid>
+                			<stpnm>Homan &amp; Division</stpnm>
+                			<pdist>40170.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.900572154135</lat>
+						<lon>-87.71160364151</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.900468342225</lat>
+						<lon>-87.711566090584</lon>
+
+							<typ>S</typ>
+                			<stpid>11161</stpid>
+                			<stpnm>Homan &amp; Grand</stpnm>
+                			<pdist>40862.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.900264710682</lat>
+						<lon>-87.711453437805</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.900216797283</lat>
+						<lon>-87.711480259895</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.900168883849</lat>
+						<lon>-87.711566090584</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.900073056872</lat>
+						<lon>-87.711850404739</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.899905359316</lat>
+						<lon>-87.711705565453</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.899761618203</lat>
+						<lon>-87.71160364151</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.89925852176</lat>
+						<lon>-87.711566090584</lon>
+
+							<typ>S</typ>
+                			<stpid>11162</stpid>
+                			<stpnm>Homan &amp; Augusta</stpnm>
+                			<pdist>41300.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.897433765689</lat>
+						<lon>-87.711507081985</lon>
+
+							<typ>S</typ>
+                			<stpid>11163</stpid>
+                			<stpnm>Homan &amp; Iowa</stpnm>
+                			<pdist>41968.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.895648888193</lat>
+						<lon>-87.711469531059</lon>
+
+							<typ>S</typ>
+                			<stpid>11164</stpid>
+                			<stpnm>Homan &amp; Chicago</stpnm>
+                			<pdist>42631.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.8937920835</lat>
+						<lon>-87.711405158043</lon>
+
+							<typ>S</typ>
+                			<stpid>11165</stpid>
+                			<stpnm>Homan &amp; Huron</stpnm>
+                			<pdist>43308.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.891951198033</lat>
+						<lon>-87.711340785027</lon>
+
+							<typ>S</typ>
+                			<stpid>11166</stpid>
+                			<stpnm>Homan &amp; Ohio</stpnm>
+                			<pdist>43964.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.890377817863</lat>
+						<lon>-87.7113032341</lon>
+
+							<typ>S</typ>
+                			<stpid>11167</stpid>
+                			<stpnm>Homan &amp; Franklin</stpnm>
+                			<pdist>44557.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.889639034615</lat>
+						<lon>-87.711271047592</lon>
+
+							<typ>S</typ>
+                			<stpid>11168</stpid>
+                			<stpnm>Homan &amp; Franklin</stpnm>
+                			<pdist>44909.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.88834514499</lat>
+						<lon>-87.711238861084</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.887582376791</lat>
+						<lon>-87.711212038994</lon>
+
+							<typ>S</typ>
+                			<stpid>11169</stpid>
+                			<stpnm>Homan &amp; Carroll</stpnm>
+                			<pdist>45589.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.886468159756</lat>
+						<lon>-87.711201310158</lon>
+
+							<typ>S</typ>
+                			<stpid>11170</stpid>
+                			<stpnm>Homan &amp; Fulton</stpnm>
+                			<pdist>45977.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.884834738368</lat>
+						<lon>-87.711142301559</lon>
+
+							<typ>S</typ>
+                			<stpid>11171</stpid>
+                			<stpnm>Homan &amp; Lake</stpnm>
+                			<pdist>46611.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.883716479596</lat>
+						<lon>-87.711110115051</lon>
+
+							<typ>S</typ>
+                			<stpid>14090</stpid>
+                			<stpnm>Homan &amp; Maypole</stpnm>
+                			<pdist>47020.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.882869784936</lat>
+						<lon>-87.711083292961</lon>
+
+							<typ>S</typ>
+                			<stpid>11172</stpid>
+                			<stpnm>Homan &amp; Washington</stpnm>
+                			<pdist>47294.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.881260235376</lat>
+						<lon>-87.711024284363</lon>
+
+							<typ>S</typ>
+                			<stpid>11174</stpid>
+                			<stpnm>Homan &amp; Madison</stpnm>
+                			<pdist>47948.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.880904771074</lat>
+						<lon>-87.711018919945</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.879363071555</lat>
+						<lon>-87.710976004601</lon>
+
+							<typ>S</typ>
+                			<stpid>15673</stpid>
+                			<stpnm>Homan &amp; Monroe</stpnm>
+                			<pdist>48611.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.877549729702</lat>
+						<lon>-87.710916996002</lon>
+
+							<typ>S</typ>
+                			<stpid>11177</stpid>
+                			<stpnm>Homan &amp; Jackson</stpnm>
+                			<pdist>49255.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.875472711057</lat>
+						<lon>-87.710863351822</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.87468182852</lat>
+						<lon>-87.710831165314</lon>
+
+							<typ>S</typ>
+                			<stpid>11179</stpid>
+                			<stpnm>Homan &amp; Congress</stpnm>
+                			<pdist>50265.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.873751130981</lat>
+						<lon>-87.710804343224</lon>
+
+							<typ>S</typ>
+                			<stpid>11180</stpid>
+                			<stpnm>Homan &amp; Harrison</stpnm>
+                			<pdist>50609.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.871957602652</lat>
+						<lon>-87.710756063461</lon>
+
+							<typ>S</typ>
+                			<stpid>11181</stpid>
+                			<stpnm>Homan &amp; Lexington</stpnm>
+                			<pdist>51269.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.869784529858</lat>
+						<lon>-87.710675597191</lon>
+
+							<typ>S</typ>
+                			<stpid>11183</stpid>
+                			<stpnm>Homan &amp; Arthington</stpnm>
+                			<pdist>51925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.867974911032</lat>
+						<lon>-87.710616588593</lon>
+
+							<typ>S</typ>
+                			<stpid>15300</stpid>
+                			<stpnm>Homan &amp; Fillmore</stpnm>
+                			<pdist>52732.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.866516792372</lat>
+						<lon>-87.71056830883</lon>
+
+							<typ>S</typ>
+                			<stpid>15674</stpid>
+                			<stpnm>Homan &amp; Roosevelt</stpnm>
+                			<pdist>53247.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.864643160945</lat>
+						<lon>-87.71051466465</lon>
+
+							<typ>S</typ>
+                			<stpid>4705</stpid>
+                			<stpnm>Homan &amp; 13th Street</stpnm>
+                			<pdist>53893.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.863121044674</lat>
+						<lon>-87.710471749306</lon>
+
+							<typ>S</typ>
+                			<stpid>4706</stpid>
+                			<stpnm>Homan &amp; Douglas Blvd</stpnm>
+                			<pdist>54503.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.862961240339</lat>
+						<lon>-87.710466384888</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.862929279424</lat>
+						<lon>-87.712762355804</lon>
+
+							<typ>S</typ>
+                			<stpid>4709</stpid>
+                			<stpnm>Douglas Blvd &amp; St. Louis</stpnm>
+                			<pdist>55139.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.862897318493</lat>
+						<lon>-87.715364098549</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.86228206746</lat>
+						<lon>-87.715326547623</lon>
+
+							<typ>S</typ>
+                			<stpid>11189</stpid>
+                			<stpnm>Central Park &amp; Douglas Blvd</stpnm>
+                			<pdist>56097.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.860943676259</lat>
+						<lon>-87.715288996696</lon>
+
+							<typ>S</typ>
+                			<stpid>11190</stpid>
+                			<stpnm>Central Park &amp; 15th Street</stpnm>
+                			<pdist>56537.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.859033923297</lat>
+						<lon>-87.715246081352</lon>
+
+							<typ>S</typ>
+                			<stpid>17634</stpid>
+                			<stpnm>Central Park &amp; 16th Street</stpnm>
+                			<pdist>57360.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>128</seq>
+						<lat>41.857283932223</lat>
+						<lon>-87.715181708336</lon>
+
+							<typ>S</typ>
+                			<stpid>11192</stpid>
+                			<stpnm>Central Park &amp; 18th Street</stpnm>
+                			<pdist>57887.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>129</seq>
+						<lat>41.854195360824</lat>
+						<lon>-87.715101242065</lon>
+
+							<typ>S</typ>
+                			<stpid>11194</stpid>
+                			<stpnm>Central Park &amp; Ogden (Pink Line)</stpnm>
+                			<pdist>59049.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>130</seq>
+						<lat>41.85324438643</lat>
+						<lon>-87.715079784393</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>131</seq>
+						<lat>41.851773944407</lat>
+						<lon>-87.715036869049</lon>
+
+							<typ>S</typ>
+                			<stpid>11195</stpid>
+                			<stpnm>Central Park &amp; Cermak</stpnm>
+                			<pdist>59878.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>132</seq>
+						<lat>41.850027750601</lat>
+						<lon>-87.714977860451</lon>
+
+							<typ>S</typ>
+                			<stpid>11196</stpid>
+                			<stpnm>Central Park &amp; 23rd Street</stpnm>
+                			<pdist>60529.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>133</seq>
+						<lat>41.848145643947</lat>
+						<lon>-87.714929580688</lon>
+
+							<typ>S</typ>
+                			<stpid>11197</stpid>
+                			<stpnm>Central Park &amp; 24th Street</stpnm>
+                			<pdist>61197.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>134</seq>
+						<lat>41.846403347245</lat>
+						<lon>-87.714881300926</lon>
+
+							<typ>S</typ>
+                			<stpid>11198</stpid>
+                			<stpnm>Central Park &amp; 25th Street</stpnm>
+                			<pdist>61877.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>135</seq>
+						<lat>41.846259485763</lat>
+						<lon>-87.714875936508</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>136</seq>
+						<lat>41.846239504976</lat>
+						<lon>-87.717284560204</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>137</seq>
+						<lat>41.846087650792</lat>
+						<lon>-87.717284560204</lon>
+
+							<typ>S</typ>
+                			<stpid>11199</stpid>
+                			<stpnm>Lawndale &amp; 25th Street</stpnm>
+                			<pdist>62637.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>138</seq>
+						<lat>41.844505148896</lat>
+						<lon>-87.717252373695</lon>
+
+							<typ>S</typ>
+                			<stpid>11200</stpid>
+                			<stpnm>Lawndale &amp; 26th Street</stpnm>
+                			<pdist>63168.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>139</seq>
+						<lat>41.842658847212</lat>
+						<lon>-87.717209458351</lon>
+
+							<typ>S</typ>
+                			<stpid>11201</stpid>
+                			<stpnm>Lawndale &amp; 27th Street</stpnm>
+                			<pdist>63852.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>140</seq>
+						<lat>41.840864446692</lat>
+						<lon>-87.717166543007</lon>
+
+							<typ>S</typ>
+                			<stpid>11202</stpid>
+                			<stpnm>Lawndale &amp; 28th Street</stpnm>
+                			<pdist>64521.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>141</seq>
+						<lat>41.838958090792</lat>
+						<lon>-87.717118263245</lon>
+
+							<typ>S</typ>
+                			<stpid>11203</stpid>
+                			<stpnm>Lawndale &amp; 30th Street</stpnm>
+                			<pdist>65193.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>142</seq>
+						<lat>41.837179573392</lat>
+						<lon>-87.717059254646</lon>
+
+							<typ>S</typ>
+                			<stpid>11204</stpid>
+                			<stpnm>Lawndale &amp; 31st Street</stpnm>
+                			<pdist>65856.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>143</seq>
+						<lat>41.835201164508</lat>
+						<lon>-87.717000246048</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>144</seq>
+						<lat>41.835201164508</lat>
+						<lon>-87.716796398163</lon>
+
+							<typ>S</typ>
+                			<stpid>11205</stpid>
+                			<stpnm>32nd Street &amp; Lawndale</stpnm>
+                			<pdist>66540.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>145</seq>
+						<lat>41.835249126659</lat>
+						<lon>-87.714446783066</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>146</seq>
+						<lat>41.836975740151</lat>
+						<lon>-87.714527249336</lon>
+
+							<typ>S</typ>
+                			<stpid>11206</stpid>
+                			<stpnm>Central Park &amp; 31st Street</stpnm>
+                			<pdist>67805.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

@@ -1,0 +1,3253 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>5474</pid>
+				<ln>25623.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.950438241796</lat>
+						<lon>-87.644505500793</lon>
+
+							<typ>S</typ>
+                			<stpid>1163</stpid>
+                			<stpnm>Lake Shore &amp; Waveland</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.950613785846</lat>
+						<lon>-87.6445966959</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.950916997156</lat>
+						<lon>-87.644752264023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.95119227986</lat>
+						<lon>-87.644902467728</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.951475540531</lat>
+						<lon>-87.644961476326</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.951726883453</lat>
+						<lon>-87.644988298416</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.952293398786</lat>
+						<lon>-87.64497756958</lon>
+
+							<typ>S</typ>
+                			<stpid>4886</stpid>
+                			<stpnm>Lake Shore &amp; Grace</stpnm>
+                			<pdist>769.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.952676392214</lat>
+						<lon>-87.644961476326</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.953107257071</lat>
+						<lon>-87.644966840744</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.953031456983</lat>
+						<lon>-87.645610570908</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.952756182222</lat>
+						<lon>-87.645192146301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.952584633582</lat>
+						<lon>-87.645058035851</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.95207397443</lat>
+						<lon>-87.645074129105</lon>
+
+							<typ>S</typ>
+                			<stpid>1061</stpid>
+                			<stpnm>Lake Shore &amp; Grace</stpnm>
+                			<pdist>1559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.951754810383</lat>
+						<lon>-87.645074129105</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.951495488418</lat>
+						<lon>-87.645025849342</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.951212227835</lat>
+						<lon>-87.644972205162</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.951004768582</lat>
+						<lon>-87.644907832146</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.950514044968</lat>
+						<lon>-87.644639611244</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.9502507283</lat>
+						<lon>-87.644478678703</lon>
+
+							<typ>S</typ>
+                			<stpid>1062</stpid>
+                			<stpnm>Lake Shore &amp; Waveland</stpnm>
+                			<pdist>2257.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.9486668157</lat>
+						<lon>-87.643550634384</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.948587020573</lat>
+						<lon>-87.643765211105</lon>
+
+							<typ>S</typ>
+                			<stpid>12549</stpid>
+                			<stpnm>Addison &amp; Lake Shore</stpnm>
+                			<pdist>2991.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.947992543734</lat>
+						<lon>-87.645476460457</lon>
+
+							<typ>S</typ>
+                			<stpid>12550</stpid>
+                			<stpnm>Addison &amp; Pine Grove</stpnm>
+                			<pdist>3450.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.947529725712</lat>
+						<lon>-87.646796107292</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.947362152842</lat>
+						<lon>-87.647343277931</lon>
+
+							<typ>S</typ>
+                			<stpid>12551</stpid>
+                			<stpnm>Addison &amp; Broadway</stpnm>
+                			<pdist>3971.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.947366142677</lat>
+						<lon>-87.647461295128</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.94735417317</lat>
+						<lon>-87.649338841438</lon>
+
+							<typ>S</typ>
+                			<stpid>12552</stpid>
+                			<stpnm>Addison &amp; Halsted</stpnm>
+                			<pdist>4556.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.947334223987</lat>
+						<lon>-87.651286125183</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.947314274798</lat>
+						<lon>-87.652096152306</lon>
+
+							<typ>S</typ>
+                			<stpid>14905</stpid>
+                			<stpnm>Addison &amp; Fremont</stpnm>
+                			<pdist>5202.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.947294325602</lat>
+						<lon>-87.653410434723</lon>
+
+							<typ>S</typ>
+                			<stpid>12554</stpid>
+                			<stpnm>Addison Red Line Station</stpnm>
+                			<pdist>5750.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.947246447507</lat>
+						<lon>-87.656205296516</lon>
+
+							<typ>S</typ>
+                			<stpid>12555</stpid>
+                			<stpnm>Addison &amp; Clark</stpnm>
+                			<pdist>6414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.947186599838</lat>
+						<lon>-87.659069895744</lon>
+
+							<typ>S</typ>
+                			<stpid>12556</stpid>
+                			<stpnm>Addison &amp; Racine</stpnm>
+                			<pdist>7134.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.947142711511</lat>
+						<lon>-87.661440968513</lon>
+
+							<typ>S</typ>
+                			<stpid>12557</stpid>
+                			<stpnm>Addison &amp; Lakewood</stpnm>
+                			<pdist>7790.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.947106802858</lat>
+						<lon>-87.663860321045</lon>
+
+							<typ>S</typ>
+                			<stpid>12558</stpid>
+                			<stpnm>Addison &amp; Southport</stpnm>
+                			<pdist>8445.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.947054934768</lat>
+						<lon>-87.666311860085</lon>
+
+							<typ>S</typ>
+                			<stpid>12559</stpid>
+                			<stpnm>Addison &amp; Greenview</stpnm>
+                			<pdist>9113.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.947023015922</lat>
+						<lon>-87.668661475182</lon>
+
+							<typ>S</typ>
+                			<stpid>12560</stpid>
+                			<stpnm>Addison &amp; Ashland</stpnm>
+                			<pdist>9757.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.946995086919</lat>
+						<lon>-87.671204209328</lon>
+
+							<typ>S</typ>
+                			<stpid>12561</stpid>
+                			<stpnm>Addison &amp; Paulina</stpnm>
+                			<pdist>10434.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.946963168043</lat>
+						<lon>-87.67348408699</lon>
+
+							<typ>S</typ>
+                			<stpid>12562</stpid>
+                			<stpnm>Addison &amp; Lincoln</stpnm>
+                			<pdist>11065.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.946955188322</lat>
+						<lon>-87.674036622047</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.946947208599</lat>
+						<lon>-87.674664258957</lon>
+
+							<typ>S</typ>
+                			<stpid>12563</stpid>
+                			<stpnm>Addison Brown Line Station</stpnm>
+                			<pdist>11453.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.946931249151</lat>
+						<lon>-87.675967812538</lon>
+
+							<typ>S</typ>
+                			<stpid>12564</stpid>
+                			<stpnm>Addison &amp; Wolcott</stpnm>
+                			<pdist>11737.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.946899330243</lat>
+						<lon>-87.678612470627</lon>
+
+							<typ>S</typ>
+                			<stpid>12565</stpid>
+                			<stpnm>Addison &amp; Damen</stpnm>
+                			<pdist>12412.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.946871401186</lat>
+						<lon>-87.680854797363</lon>
+
+							<typ>S</typ>
+                			<stpid>12566</stpid>
+                			<stpnm>Addison &amp; Hoyne</stpnm>
+                			<pdist>13068.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.946843472116</lat>
+						<lon>-87.683300971985</lon>
+
+							<typ>S</typ>
+                			<stpid>12567</stpid>
+                			<stpnm>Addison &amp; Leavitt</stpnm>
+                			<pdist>13726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.946827512643</lat>
+						<lon>-87.684556245804</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.946811553165</lat>
+						<lon>-87.685704231262</lon>
+
+							<typ>S</typ>
+                			<stpid>12568</stpid>
+                			<stpnm>Addison &amp; Oakley</stpnm>
+                			<pdist>14388.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.946775644325</lat>
+						<lon>-87.688627839088</lon>
+
+							<typ>S</typ>
+                			<stpid>17010</stpid>
+                			<stpnm>Addison &amp; Western</stpnm>
+                			<pdist>15208.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.946763674707</lat>
+						<lon>-87.69102036953</lon>
+
+							<typ>S</typ>
+                			<stpid>12571</stpid>
+                			<stpnm>Addison &amp; Campbell</stpnm>
+                			<pdist>15928.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.946751705087</lat>
+						<lon>-87.694770097733</lon>
+
+							<typ>S</typ>
+                			<stpid>12573</stpid>
+                			<stpnm>Addison &amp; Talman</stpnm>
+                			<pdist>16785.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.946727765841</lat>
+						<lon>-87.69788146019</lon>
+
+							<typ>S</typ>
+                			<stpid>12574</stpid>
+                			<stpnm>Addison &amp; California</stpnm>
+                			<pdist>17641.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.946703826585</lat>
+						<lon>-87.700370550156</lon>
+
+							<typ>S</typ>
+                			<stpid>12575</stpid>
+                			<stpnm>Addison &amp; Francisco</stpnm>
+                			<pdist>18296.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.946683877198</lat>
+						<lon>-87.702843546867</lon>
+
+							<typ>S</typ>
+                			<stpid>12576</stpid>
+                			<stpnm>Addison &amp; Sacramento</stpnm>
+                			<pdist>18969.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.946683877198</lat>
+						<lon>-87.704147100449</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.946671907563</lat>
+						<lon>-87.705278992653</lon>
+
+							<typ>S</typ>
+                			<stpid>12577</stpid>
+                			<stpnm>Addison &amp; Albany</stpnm>
+                			<pdist>19656.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.946667917684</lat>
+						<lon>-87.707730531693</lon>
+
+							<typ>S</typ>
+                			<stpid>12578</stpid>
+                			<stpnm>Addison &amp; Kedzie</stpnm>
+                			<pdist>20318.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.946647968287</lat>
+						<lon>-87.709109187126</lon>
+
+							<typ>S</typ>
+                			<stpid>12579</stpid>
+                			<stpnm>Addison &amp; Elston</stpnm>
+                			<pdist>20804.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.946628018882</lat>
+						<lon>-87.711431980133</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.946600089706</lat>
+						<lon>-87.712864279747</lon>
+
+							<typ>S</typ>
+                			<stpid>16173</stpid>
+                			<stpnm>Addison &amp; Kimball</stpnm>
+                			<pdist>21807.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.946592109939</lat>
+						<lon>-87.71479010582</lon>
+
+							<typ>S</typ>
+                			<stpid>12581</stpid>
+                			<stpnm>Addison &amp; St. Louis</stpnm>
+                			<pdist>22302.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.946564180747</lat>
+						<lon>-87.716463804245</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.946556200976</lat>
+						<lon>-87.717418670654</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.946536251543</lat>
+						<lon>-87.718416452408</lon>
+
+							<typ>S</typ>
+                			<stpid>12582</stpid>
+                			<stpnm>Addison Blue Line Station</stpnm>
+                			<pdist>23239.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.946520291992</lat>
+						<lon>-87.719360589981</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.946516302104</lat>
+						<lon>-87.719698548317</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.946500342548</lat>
+						<lon>-87.720245718956</lon>
+
+							<typ>S</typ>
+                			<stpid>12583</stpid>
+                			<stpnm>Addison &amp; Lawndale/Avondale</stpnm>
+                			<pdist>23789.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.946496352659</lat>
+						<lon>-87.720851898193</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.946484382989</lat>
+						<lon>-87.722616791725</lon>
+
+							<typ>S</typ>
+                			<stpid>12584</stpid>
+                			<stpnm>Addison &amp; Hamlin</stpnm>
+                			<pdist>24300.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.946444484072</lat>
+						<lon>-87.725100517273</lon>
+
+							<typ>S</typ>
+                			<stpid>12585</stpid>
+                			<stpnm>Addison &amp; Springfield</stpnm>
+                			<pdist>24967.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.946408575025</lat>
+						<lon>-87.727192640305</lon>
+
+							<typ>S</typ>
+                			<stpid>12586</stpid>
+                			<stpnm>Addison &amp; Pulaski</stpnm>
+                			<pdist>25623.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>3041</pid>
+				<ln>55534.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.950438241796</lat>
+						<lon>-87.644505500793</lon>
+
+							<typ>S</typ>
+                			<stpid>1163</stpid>
+                			<stpnm>Lake Shore &amp; Waveland</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.950613785846</lat>
+						<lon>-87.6445966959</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.950916997156</lat>
+						<lon>-87.644752264023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.95119227986</lat>
+						<lon>-87.644902467728</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.951475540531</lat>
+						<lon>-87.644961476326</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.951726883453</lat>
+						<lon>-87.644988298416</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.952293398786</lat>
+						<lon>-87.64497756958</lon>
+
+							<typ>S</typ>
+                			<stpid>4886</stpid>
+                			<stpnm>Lake Shore &amp; Grace</stpnm>
+                			<pdist>769.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.952676392214</lat>
+						<lon>-87.644961476326</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.953107257071</lat>
+						<lon>-87.644966840744</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.953031456983</lat>
+						<lon>-87.645610570908</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.952756182222</lat>
+						<lon>-87.645192146301</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.952584633582</lat>
+						<lon>-87.645058035851</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.95207397443</lat>
+						<lon>-87.645074129105</lon>
+
+							<typ>S</typ>
+                			<stpid>1061</stpid>
+                			<stpnm>Lake Shore &amp; Grace</stpnm>
+                			<pdist>1559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.951754810383</lat>
+						<lon>-87.645074129105</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.951495488418</lat>
+						<lon>-87.645025849342</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.951212227835</lat>
+						<lon>-87.644972205162</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.951004768582</lat>
+						<lon>-87.644907832146</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.950514044968</lat>
+						<lon>-87.644639611244</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.9502507283</lat>
+						<lon>-87.644478678703</lon>
+
+							<typ>S</typ>
+                			<stpid>1062</stpid>
+                			<stpnm>Lake Shore &amp; Waveland</stpnm>
+                			<pdist>2257.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.9486668157</lat>
+						<lon>-87.643550634384</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.948587020573</lat>
+						<lon>-87.643765211105</lon>
+
+							<typ>S</typ>
+                			<stpid>12549</stpid>
+                			<stpnm>Addison &amp; Lake Shore</stpnm>
+                			<pdist>2991.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.947992543734</lat>
+						<lon>-87.645476460457</lon>
+
+							<typ>S</typ>
+                			<stpid>12550</stpid>
+                			<stpnm>Addison &amp; Pine Grove</stpnm>
+                			<pdist>3450.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.947529725712</lat>
+						<lon>-87.646796107292</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.947362152842</lat>
+						<lon>-87.647343277931</lon>
+
+							<typ>S</typ>
+                			<stpid>12551</stpid>
+                			<stpnm>Addison &amp; Broadway</stpnm>
+                			<pdist>3971.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.947366142677</lat>
+						<lon>-87.647461295128</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.94735417317</lat>
+						<lon>-87.649338841438</lon>
+
+							<typ>S</typ>
+                			<stpid>12552</stpid>
+                			<stpnm>Addison &amp; Halsted</stpnm>
+                			<pdist>4556.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.947334223987</lat>
+						<lon>-87.651286125183</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.947314274798</lat>
+						<lon>-87.652096152306</lon>
+
+							<typ>S</typ>
+                			<stpid>14905</stpid>
+                			<stpnm>Addison &amp; Fremont</stpnm>
+                			<pdist>5202.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.947294325602</lat>
+						<lon>-87.653410434723</lon>
+
+							<typ>S</typ>
+                			<stpid>12554</stpid>
+                			<stpnm>Addison Red Line Station</stpnm>
+                			<pdist>5750.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.947246447507</lat>
+						<lon>-87.656205296516</lon>
+
+							<typ>S</typ>
+                			<stpid>12555</stpid>
+                			<stpnm>Addison &amp; Clark</stpnm>
+                			<pdist>6414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.947186599838</lat>
+						<lon>-87.659069895744</lon>
+
+							<typ>S</typ>
+                			<stpid>12556</stpid>
+                			<stpnm>Addison &amp; Racine</stpnm>
+                			<pdist>7134.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.947142711511</lat>
+						<lon>-87.661440968513</lon>
+
+							<typ>S</typ>
+                			<stpid>12557</stpid>
+                			<stpnm>Addison &amp; Lakewood</stpnm>
+                			<pdist>7790.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.947106802858</lat>
+						<lon>-87.663860321045</lon>
+
+							<typ>S</typ>
+                			<stpid>12558</stpid>
+                			<stpnm>Addison &amp; Southport</stpnm>
+                			<pdist>8445.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.947054934768</lat>
+						<lon>-87.666311860085</lon>
+
+							<typ>S</typ>
+                			<stpid>12559</stpid>
+                			<stpnm>Addison &amp; Greenview</stpnm>
+                			<pdist>9113.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.947023015922</lat>
+						<lon>-87.668661475182</lon>
+
+							<typ>S</typ>
+                			<stpid>12560</stpid>
+                			<stpnm>Addison &amp; Ashland</stpnm>
+                			<pdist>9757.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.946995086919</lat>
+						<lon>-87.671204209328</lon>
+
+							<typ>S</typ>
+                			<stpid>12561</stpid>
+                			<stpnm>Addison &amp; Paulina</stpnm>
+                			<pdist>10434.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.946963168043</lat>
+						<lon>-87.67348408699</lon>
+
+							<typ>S</typ>
+                			<stpid>12562</stpid>
+                			<stpnm>Addison &amp; Lincoln</stpnm>
+                			<pdist>11065.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.946955188322</lat>
+						<lon>-87.674036622047</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.946947208599</lat>
+						<lon>-87.674664258957</lon>
+
+							<typ>S</typ>
+                			<stpid>12563</stpid>
+                			<stpnm>Addison Brown Line Station</stpnm>
+                			<pdist>11453.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.946931249151</lat>
+						<lon>-87.675967812538</lon>
+
+							<typ>S</typ>
+                			<stpid>12564</stpid>
+                			<stpnm>Addison &amp; Wolcott</stpnm>
+                			<pdist>11737.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.946899330243</lat>
+						<lon>-87.678612470627</lon>
+
+							<typ>S</typ>
+                			<stpid>12565</stpid>
+                			<stpnm>Addison &amp; Damen</stpnm>
+                			<pdist>12412.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.946871401186</lat>
+						<lon>-87.680854797363</lon>
+
+							<typ>S</typ>
+                			<stpid>12566</stpid>
+                			<stpnm>Addison &amp; Hoyne</stpnm>
+                			<pdist>13068.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.946843472116</lat>
+						<lon>-87.683300971985</lon>
+
+							<typ>S</typ>
+                			<stpid>12567</stpid>
+                			<stpnm>Addison &amp; Leavitt</stpnm>
+                			<pdist>13726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.946827512643</lat>
+						<lon>-87.684556245804</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.946811553165</lat>
+						<lon>-87.685704231262</lon>
+
+							<typ>S</typ>
+                			<stpid>12568</stpid>
+                			<stpnm>Addison &amp; Oakley</stpnm>
+                			<pdist>14388.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.946775644325</lat>
+						<lon>-87.688627839088</lon>
+
+							<typ>S</typ>
+                			<stpid>17010</stpid>
+                			<stpnm>Addison &amp; Western</stpnm>
+                			<pdist>15208.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.946763674707</lat>
+						<lon>-87.69102036953</lon>
+
+							<typ>S</typ>
+                			<stpid>12571</stpid>
+                			<stpnm>Addison &amp; Campbell</stpnm>
+                			<pdist>15928.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.946751705087</lat>
+						<lon>-87.694770097733</lon>
+
+							<typ>S</typ>
+                			<stpid>12573</stpid>
+                			<stpnm>Addison &amp; Talman</stpnm>
+                			<pdist>16785.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.946727765841</lat>
+						<lon>-87.69788146019</lon>
+
+							<typ>S</typ>
+                			<stpid>12574</stpid>
+                			<stpnm>Addison &amp; California</stpnm>
+                			<pdist>17641.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.946703826585</lat>
+						<lon>-87.700370550156</lon>
+
+							<typ>S</typ>
+                			<stpid>12575</stpid>
+                			<stpnm>Addison &amp; Francisco</stpnm>
+                			<pdist>18296.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.946683877198</lat>
+						<lon>-87.702843546867</lon>
+
+							<typ>S</typ>
+                			<stpid>12576</stpid>
+                			<stpnm>Addison &amp; Sacramento</stpnm>
+                			<pdist>18969.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.946683877198</lat>
+						<lon>-87.704147100449</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.946671907563</lat>
+						<lon>-87.705278992653</lon>
+
+							<typ>S</typ>
+                			<stpid>12577</stpid>
+                			<stpnm>Addison &amp; Albany</stpnm>
+                			<pdist>19656.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.946667917684</lat>
+						<lon>-87.707730531693</lon>
+
+							<typ>S</typ>
+                			<stpid>12578</stpid>
+                			<stpnm>Addison &amp; Kedzie</stpnm>
+                			<pdist>20318.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.946647968287</lat>
+						<lon>-87.709109187126</lon>
+
+							<typ>S</typ>
+                			<stpid>12579</stpid>
+                			<stpnm>Addison &amp; Elston</stpnm>
+                			<pdist>20804.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.946628018882</lat>
+						<lon>-87.711431980133</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.946600089706</lat>
+						<lon>-87.712864279747</lon>
+
+							<typ>S</typ>
+                			<stpid>16173</stpid>
+                			<stpnm>Addison &amp; Kimball</stpnm>
+                			<pdist>21807.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.946592109939</lat>
+						<lon>-87.71479010582</lon>
+
+							<typ>S</typ>
+                			<stpid>12581</stpid>
+                			<stpnm>Addison &amp; St. Louis</stpnm>
+                			<pdist>22302.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.946564180747</lat>
+						<lon>-87.716463804245</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.946556200976</lat>
+						<lon>-87.717418670654</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.946536251543</lat>
+						<lon>-87.718416452408</lon>
+
+							<typ>S</typ>
+                			<stpid>12582</stpid>
+                			<stpnm>Addison Blue Line Station</stpnm>
+                			<pdist>23239.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.946520291992</lat>
+						<lon>-87.719360589981</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.946516302104</lat>
+						<lon>-87.719698548317</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.946500342548</lat>
+						<lon>-87.720245718956</lon>
+
+							<typ>S</typ>
+                			<stpid>12583</stpid>
+                			<stpnm>Addison &amp; Lawndale/Avondale</stpnm>
+                			<pdist>23789.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.946496352659</lat>
+						<lon>-87.720851898193</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.946484382989</lat>
+						<lon>-87.722616791725</lon>
+
+							<typ>S</typ>
+                			<stpid>12584</stpid>
+                			<stpnm>Addison &amp; Hamlin</stpnm>
+                			<pdist>24300.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.946444484072</lat>
+						<lon>-87.725100517273</lon>
+
+							<typ>S</typ>
+                			<stpid>12585</stpid>
+                			<stpnm>Addison &amp; Springfield</stpnm>
+                			<pdist>24967.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.946408575025</lat>
+						<lon>-87.727192640305</lon>
+
+							<typ>S</typ>
+                			<stpid>12586</stpid>
+                			<stpnm>Addison &amp; Pulaski</stpnm>
+                			<pdist>25623.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.946388625546</lat>
+						<lon>-87.729048728943</lon>
+
+							<typ>S</typ>
+                			<stpid>12587</stpid>
+                			<stpnm>Addison &amp; Karlov</stpnm>
+                			<pdist>26202.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.946376655856</lat>
+						<lon>-87.730513215065</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.946352716468</lat>
+						<lon>-87.732036709785</lon>
+
+							<typ>S</typ>
+                			<stpid>12589</stpid>
+                			<stpnm>Addison &amp; Keeler</stpnm>
+                			<pdist>26942.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.946328777072</lat>
+						<lon>-87.733613848686</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.946308827568</lat>
+						<lon>-87.73545384407</lon>
+
+							<typ>S</typ>
+                			<stpid>12590</stpid>
+                			<stpnm>Addison &amp; Milwaukee</stpnm>
+                			<pdist>27884.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.946288878057</lat>
+						<lon>-87.737063169479</lon>
+
+							<typ>S</typ>
+                			<stpid>12591</stpid>
+                			<stpnm>Addison &amp; Kostner</stpnm>
+                			<pdist>28441.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.946264938637</lat>
+						<lon>-87.739117741585</lon>
+
+							<typ>S</typ>
+                			<stpid>12592</stpid>
+                			<stpnm>Addison &amp; Kilbourn</stpnm>
+                			<pdist>29096.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.946213069862</lat>
+						<lon>-87.742052078247</lon>
+
+							<typ>S</typ>
+                			<stpid>12593</stpid>
+                			<stpnm>Addison &amp; Kenton</stpnm>
+                			<pdist>29607.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.946189130413</lat>
+						<lon>-87.744348049164</lon>
+
+							<typ>S</typ>
+                			<stpid>12594</stpid>
+                			<stpnm>Addison &amp; Kilpatrick</stpnm>
+                			<pdist>30330.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.946149231311</lat>
+						<lon>-87.747454047203</lon>
+
+							<typ>S</typ>
+                			<stpid>17147</stpid>
+                			<stpnm>Addison &amp; Cicero</stpnm>
+                			<pdist>31181.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.946133271663</lat>
+						<lon>-87.749444246292</lon>
+
+							<typ>S</typ>
+                			<stpid>12596</stpid>
+                			<stpnm>Addison &amp; Lamon</stpnm>
+                			<pdist>31736.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.946093372527</lat>
+						<lon>-87.751799225807</lon>
+
+							<typ>S</typ>
+                			<stpid>12597</stpid>
+                			<stpnm>Addison &amp; Lavergne</stpnm>
+                			<pdist>32390.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.9460614532</lat>
+						<lon>-87.754288315773</lon>
+
+							<typ>S</typ>
+                			<stpid>12598</stpid>
+                			<stpnm>Addison &amp; Leclaire</stpnm>
+                			<pdist>33050.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.946037513694</lat>
+						<lon>-87.756750583649</lon>
+
+							<typ>S</typ>
+                			<stpid>12599</stpid>
+                			<stpnm>Addison &amp; Laramie</stpnm>
+                			<pdist>33733.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.946013574179</lat>
+						<lon>-87.759245038033</lon>
+
+							<typ>S</typ>
+                			<stpid>12600</stpid>
+                			<stpnm>Addison &amp; Lockwood</stpnm>
+                			<pdist>34401.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.945969685045</lat>
+						<lon>-87.762163281441</lon>
+
+							<typ>S</typ>
+                			<stpid>17221</stpid>
+                			<stpnm>Addison &amp; Long</stpnm>
+                			<pdist>35206.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.945957715276</lat>
+						<lon>-87.764137387276</lon>
+
+							<typ>S</typ>
+                			<stpid>12602</stpid>
+                			<stpnm>Addison &amp; Linder</stpnm>
+                			<pdist>35725.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.945961705199</lat>
+						<lon>-87.765526771545</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.945929785806</lat>
+						<lon>-87.766551375389</lon>
+
+							<typ>S</typ>
+                			<stpid>12603</stpid>
+                			<stpnm>Addison &amp; Central</stpnm>
+                			<pdist>36393.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.945893876469</lat>
+						<lon>-87.769024372101</lon>
+
+							<typ>S</typ>
+                			<stpid>12604</stpid>
+                			<stpnm>Addison &amp; Major</stpnm>
+                			<pdist>37056.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.9458699369</lat>
+						<lon>-87.771438360214</lon>
+
+							<typ>S</typ>
+                			<stpid>12605</stpid>
+                			<stpnm>Addison &amp; Menard</stpnm>
+                			<pdist>37725.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.94583402753</lat>
+						<lon>-87.77390062809</lon>
+
+							<typ>S</typ>
+                			<stpid>12606</stpid>
+                			<stpnm>Addison &amp; Marmora</stpnm>
+                			<pdist>38385.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.945822057736</lat>
+						<lon>-87.776915431023</lon>
+
+							<typ>S</typ>
+                			<stpid>17222</stpid>
+                			<stpnm>Addison &amp; Austin</stpnm>
+                			<pdist>39212.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.945786148339</lat>
+						<lon>-87.778771519661</lon>
+
+							<typ>S</typ>
+                			<stpid>12608</stpid>
+                			<stpnm>Addison &amp; Meade</stpnm>
+                			<pdist>39693.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.945766198665</lat>
+						<lon>-87.781190872192</lon>
+
+							<typ>S</typ>
+                			<stpid>12609</stpid>
+                			<stpnm>Addison &amp; Melvina</stpnm>
+                			<pdist>40361.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.945730289236</lat>
+						<lon>-87.783658504486</lon>
+
+							<typ>S</typ>
+                			<stpid>12610</stpid>
+                			<stpnm>Addison &amp; Mobile</stpnm>
+                			<pdist>41028.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.945714329484</lat>
+						<lon>-87.786780595779</lon>
+
+							<typ>S</typ>
+                			<stpid>17356</stpid>
+                			<stpnm>Addison &amp; Narragansett</stpnm>
+                			<pdist>41906.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.945650490434</lat>
+						<lon>-87.790031433105</lon>
+
+							<typ>S</typ>
+                			<stpid>12613</stpid>
+                			<stpnm>Addison &amp; Neenah</stpnm>
+                			<pdist>42841.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.945574681479</lat>
+						<lon>-87.793496847153</lon>
+
+							<typ>S</typ>
+                			<stpid>12615</stpid>
+                			<stpnm>Addison &amp; Normandy</stpnm>
+                			<pdist>43745.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.945510842289</lat>
+						<lon>-87.795862555504</lon>
+
+							<typ>S</typ>
+                			<stpid>12616</stpid>
+                			<stpnm>Addison &amp; Oak Park</stpnm>
+                			<pdist>44414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.945494882482</lat>
+						<lon>-87.797187566757</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.94547892267</lat>
+						<lon>-87.798292636871</lon>
+
+							<typ>S</typ>
+                			<stpid>12617</stpid>
+                			<stpnm>Addison &amp; New England</stpnm>
+                			<pdist>45072.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.945435033168</lat>
+						<lon>-87.800593972206</lon>
+
+							<typ>S</typ>
+                			<stpid>12618</stpid>
+                			<stpnm>Addison &amp; Sayre</stpnm>
+                			<pdist>45726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.945403113511</lat>
+						<lon>-87.801382541656</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.945379173758</lat>
+						<lon>-87.80311524868</lon>
+
+							<typ>S</typ>
+                			<stpid>12619</stpid>
+                			<stpnm>Addison &amp; Nordica</stpnm>
+                			<pdist>46405.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.945343264112</lat>
+						<lon>-87.805545330048</lon>
+
+							<typ>S</typ>
+                			<stpid>12620</stpid>
+                			<stpnm>Addison &amp; Neva</stpnm>
+                			<pdist>47084.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.945311666665</lat>
+						<lon>-87.807393333333</lon>
+
+							<typ>S</typ>
+                			<stpid>17357</stpid>
+                			<stpnm>Addison &amp; Harlem</stpnm>
+                			<pdist>47606.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.945263464825</lat>
+						<lon>-87.80926823616</lon>
+
+							<typ>S</typ>
+                			<stpid>12622</stpid>
+                			<stpnm>Addison &amp; Octavia</stpnm>
+                			<pdist>48119.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.945211595235</lat>
+						<lon>-87.811660766602</lon>
+
+							<typ>S</typ>
+                			<stpid>12623</stpid>
+                			<stpnm>Addison &amp; Oketo</stpnm>
+                			<pdist>48767.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.945175685494</lat>
+						<lon>-87.813060879707</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.945151745655</lat>
+						<lon>-87.814187407494</lon>
+
+							<typ>S</typ>
+                			<stpid>12624</stpid>
+                			<stpnm>Addison &amp; Olcott</stpnm>
+                			<pdist>49456.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.945115835881</lat>
+						<lon>-87.815501689911</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.945163715576</lat>
+						<lon>-87.816027402878</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.945223565144</lat>
+						<lon>-87.816579937935</lon>
+
+							<typ>S</typ>
+                			<stpid>12625</stpid>
+                			<stpnm>Addison &amp; Oriole</stpnm>
+                			<pdist>50132.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.945219575174</lat>
+						<lon>-87.816815972328</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.945299374516</lat>
+						<lon>-87.817636728287</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.945263464825</lat>
+						<lon>-87.81928896904</lon>
+
+							<typ>S</typ>
+                			<stpid>12626</stpid>
+                			<stpnm>Addison &amp; Overhill</stpnm>
+                			<pdist>50886.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.945211595235</lat>
+						<lon>-87.821611762047</lon>
+
+							<typ>S</typ>
+                			<stpid>12627</stpid>
+                			<stpnm>Addison &amp; Ozanam</stpnm>
+                			<pdist>51466.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.945163715576</lat>
+						<lon>-87.822834849358</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.945123815832</lat>
+						<lon>-87.824074029922</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.945111845904</lat>
+						<lon>-87.824288606644</lon>
+
+							<typ>S</typ>
+                			<stpid>12628</stpid>
+                			<stpnm>Addison &amp; Forest Preserve Avenue</stpnm>
+                			<pdist>52279.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.94509189602</lat>
+						<lon>-87.825409770012</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.945044016271</lat>
+						<lon>-87.82764673233</lon>
+
+							<typ>S</typ>
+                			<stpid>12629</stpid>
+                			<stpnm>Addison &amp; Page</stpnm>
+                			<pdist>53145.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.944960226623</lat>
+						<lon>-87.830168008804</lon>
+
+							<typ>S</typ>
+                			<stpid>12631</stpid>
+                			<stpnm>Addison &amp; Paris</stpnm>
+                			<pdist>53795.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.944924316741</lat>
+						<lon>-87.832592725754</lon>
+
+							<typ>S</typ>
+                			<stpid>12633</stpid>
+                			<stpnm>Addison &amp; Pittsburgh</stpnm>
+                			<pdist>54461.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.944828556955</lat>
+						<lon>-87.835065722466</lon>
+
+							<typ>S</typ>
+                			<stpid>12635</stpid>
+                			<stpnm>Addison &amp; Pontiac</stpnm>
+                			<pdist>55113.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.944808606982</lat>
+						<lon>-87.835671901703</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>126</seq>
+						<lat>41.94443354632</lat>
+						<lon>-87.835650444031</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>127</seq>
+						<lat>41.944437536338</lat>
+						<lon>-87.835494875908</lon>
+
+							<typ>S</typ>
+                			<stpid>12462</stpid>
+                			<stpnm>Addison &amp; Cumberland Terminal</stpnm>
+                			<pdist>55534.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>899</pid>
+				<ln>53063.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.944437536338</lat>
+						<lon>-87.835494875908</lon>
+
+							<typ>S</typ>
+                			<stpid>12462</stpid>
+                			<stpnm>Addison &amp; Cumberland Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.944437536338</lat>
+						<lon>-87.835333943367</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.944752747023</lat>
+						<lon>-87.835344672203</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.944852496915</lat>
+						<lon>-87.832882404327</lon>
+
+							<typ>S</typ>
+                			<stpid>12464</stpid>
+                			<stpnm>Addison &amp; Pittsburgh</stpnm>
+                			<pdist>705.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.944892396828</lat>
+						<lon>-87.830393314362</lon>
+
+							<typ>S</typ>
+                			<stpid>12466</stpid>
+                			<stpnm>Addison &amp; Paris</stpnm>
+                			<pdist>1365.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.944946666666</lat>
+						<lon>-87.828691666668</lon>
+
+							<typ>S</typ>
+                			<stpid>15960</stpid>
+                			<stpnm>Addison &amp; Panama</stpnm>
+                			<pdist>1868.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.945024066365</lat>
+						<lon>-87.825710177422</lon>
+
+							<typ>S</typ>
+                			<stpid>12469</stpid>
+                			<stpnm>Addison &amp; Forest Preserve Avenue</stpnm>
+                			<pdist>2515.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.945028056346</lat>
+						<lon>-87.825313210487</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.945048006251</lat>
+						<lon>-87.82440662384</lon>
+
+							<typ>S</typ>
+                			<stpid>12470</stpid>
+                			<stpnm>Addison &amp; Orange</stpnm>
+                			<pdist>3034.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.945071946129</lat>
+						<lon>-87.823827266693</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.945107855928</lat>
+						<lon>-87.822877764702</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.945143765707</lat>
+						<lon>-87.821896076202</lon>
+
+							<typ>S</typ>
+                			<stpid>12471</stpid>
+                			<stpnm>Addison &amp; Ozanam</stpnm>
+                			<pdist>3717.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.945195635352</lat>
+						<lon>-87.819707393646</lon>
+
+							<typ>S</typ>
+                			<stpid>12472</stpid>
+                			<stpnm>Addison &amp; Overhill</stpnm>
+                			<pdist>4389.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.945239525019</lat>
+						<lon>-87.818044424057</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.945227555113</lat>
+						<lon>-87.817588448524</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.945163715576</lat>
+						<lon>-87.816917896271</lon>
+
+							<typ>S</typ>
+                			<stpid>12473</stpid>
+                			<stpnm>Addison &amp; Oriole</stpnm>
+                			<pdist>5064.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.945143765707</lat>
+						<lon>-87.816537022591</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.945051996231</lat>
+						<lon>-87.815544605255</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.945083916064</lat>
+						<lon>-87.814471721649</lon>
+
+							<typ>S</typ>
+                			<stpid>12474</stpid>
+                			<stpnm>Addison &amp; Olcott</stpnm>
+                			<pdist>5731.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.945151745655</lat>
+						<lon>-87.811945080757</lon>
+
+							<typ>S</typ>
+                			<stpid>12475</stpid>
+                			<stpnm>Addison &amp; Oketo</stpnm>
+                			<pdist>6414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.945199625323</lat>
+						<lon>-87.80954182148</lon>
+
+							<typ>S</typ>
+                			<stpid>12476</stpid>
+                			<stpnm>Addison &amp; Octavia</stpnm>
+                			<pdist>7078.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.945259474858</lat>
+						<lon>-87.806789875031</lon>
+
+							<typ>S</typ>
+                			<stpid>17358</stpid>
+                			<stpnm>Addison &amp; Harlem</stpnm>
+                			<pdist>7889.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.945311344409</lat>
+						<lon>-87.80346930027</lon>
+
+							<typ>S</typ>
+                			<stpid>12479</stpid>
+                			<stpnm>Addison &amp; Nordica</stpnm>
+                			<pdist>8731.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.945375183798</lat>
+						<lon>-87.800803184509</lon>
+
+							<typ>S</typ>
+                			<stpid>12480</stpid>
+                			<stpnm>Addison &amp; Sayre</stpnm>
+                			<pdist>9528.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.945407103469</lat>
+						<lon>-87.798582315445</lon>
+
+							<typ>S</typ>
+                			<stpid>12481</stpid>
+                			<stpnm>Addison &amp; New England</stpnm>
+                			<pdist>10066.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.945439023124</lat>
+						<lon>-87.797182202339</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.945447003035</lat>
+						<lon>-87.795744538307</lon>
+
+							<typ>S</typ>
+                			<stpid>17145</stpid>
+                			<stpnm>Addison &amp; Oak Park</stpnm>
+                			<pdist>10852.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.945506852338</lat>
+						<lon>-87.79366850853</lon>
+
+							<typ>S</typ>
+                			<stpid>12483</stpid>
+                			<stpnm>Addison &amp; Normandy</stpnm>
+                			<pdist>11388.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.94558665132</lat>
+						<lon>-87.790176272392</lon>
+
+							<typ>S</typ>
+                			<stpid>12485</stpid>
+                			<stpnm>Addison &amp; Neenah</stpnm>
+                			<pdist>12321.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.945658470319</lat>
+						<lon>-87.786222696304</lon>
+
+							<typ>S</typ>
+                			<stpid>15698</stpid>
+                			<stpnm>Addison &amp; Narragansett</stpnm>
+                			<pdist>13499.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.945658470319</lat>
+						<lon>-87.783937454224</lon>
+
+							<typ>S</typ>
+                			<stpid>12488</stpid>
+                			<stpnm>Addison &amp; Mobile</stpnm>
+                			<pdist>14010.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.945698369727</lat>
+						<lon>-87.781512737274</lon>
+
+							<typ>S</typ>
+                			<stpid>12489</stpid>
+                			<stpnm>Addison &amp; Melvina</stpnm>
+                			<pdist>14668.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.945726299299</lat>
+						<lon>-87.779061198235</lon>
+
+							<typ>S</typ>
+                			<stpid>12490</stpid>
+                			<stpnm>Addison &amp; Meade</stpnm>
+                			<pdist>15337.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.945774178535</lat>
+						<lon>-87.7764326334</lon>
+
+							<typ>S</typ>
+                			<stpid>12491</stpid>
+                			<stpnm>Addison &amp; Austin</stpnm>
+                			<pdist>16285.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.945782158404</lat>
+						<lon>-87.774184942245</lon>
+
+							<typ>S</typ>
+                			<stpid>12492</stpid>
+                			<stpnm>Addison &amp; Marmora</stpnm>
+                			<pdist>16689.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.945802108073</lat>
+						<lon>-87.77172267437</lon>
+
+							<typ>S</typ>
+                			<stpid>12493</stpid>
+                			<stpnm>Addison &amp; Menard</stpnm>
+                			<pdist>17356.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.94583402753</lat>
+						<lon>-87.76932477951</lon>
+
+							<typ>S</typ>
+                			<stpid>12494</stpid>
+                			<stpnm>Addison &amp; Major</stpnm>
+                			<pdist>18003.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.945868333334</lat>
+						<lon>-87.766321666667</lon>
+
+							<typ>S</typ>
+                			<stpid>17405</stpid>
+                			<stpnm>Addison &amp; Central</stpnm>
+                			<pdist>18839.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.945901856324</lat>
+						<lon>-87.764421701431</lon>
+
+							<typ>S</typ>
+                			<stpid>12496</stpid>
+                			<stpnm>Addison &amp; Linder</stpnm>
+                			<pdist>19319.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.945913826103</lat>
+						<lon>-87.761959433556</lon>
+
+							<typ>S</typ>
+                			<stpid>12497</stpid>
+                			<stpnm>Addison &amp; Long</stpnm>
+                			<pdist>19996.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.945953725352</lat>
+						<lon>-87.759502530098</lon>
+
+							<typ>S</typ>
+                			<stpid>12498</stpid>
+                			<stpnm>Addison &amp; Lockwood</stpnm>
+                			<pdist>20675.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.945969685045</lat>
+						<lon>-87.757056355476</lon>
+
+							<typ>S</typ>
+                			<stpid>12499</stpid>
+                			<stpnm>Addison &amp; Laramie</stpnm>
+                			<pdist>21337.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.946005594338</lat>
+						<lon>-87.754438519478</lon>
+
+							<typ>S</typ>
+                			<stpid>12500</stpid>
+                			<stpnm>Addison &amp; Leclaire</stpnm>
+                			<pdist>22080.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.946033523775</lat>
+						<lon>-87.752121090889</lon>
+
+							<typ>S</typ>
+                			<stpid>12501</stpid>
+                			<stpnm>Addison &amp; Lavergne</stpnm>
+                			<pdist>22670.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.946069433033</lat>
+						<lon>-87.749739289284</lon>
+
+							<typ>S</typ>
+                			<stpid>12502</stpid>
+                			<stpnm>Addison &amp; Lamon</stpnm>
+                			<pdist>23393.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.946097362442</lat>
+						<lon>-87.746595740318</lon>
+
+							<typ>S</typ>
+                			<stpid>17146</stpid>
+                			<stpnm>Addison &amp; Cicero</stpnm>
+                			<pdist>24213.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.946121301925</lat>
+						<lon>-87.744734287262</lon>
+
+							<typ>S</typ>
+                			<stpid>12504</stpid>
+                			<stpnm>Addison &amp; Kilpatrick</stpnm>
+                			<pdist>24829.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.946157211133</lat>
+						<lon>-87.741864323616</lon>
+
+							<typ>S</typ>
+                			<stpid>12505</stpid>
+                			<stpnm>Addison &amp; Kenton</stpnm>
+                			<pdist>25476.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.94619711023</lat>
+						<lon>-87.739439606667</lon>
+
+							<typ>S</typ>
+                			<stpid>15773</stpid>
+                			<stpnm>Addison &amp; Kilbourn</stpnm>
+                			<pdist>26091.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.946225039583</lat>
+						<lon>-87.737336754799</lon>
+
+							<typ>S</typ>
+                			<stpid>12507</stpid>
+                			<stpnm>Addison &amp; Kostner</stpnm>
+                			<pdist>26728.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.946252968923</lat>
+						<lon>-87.73507297039</lon>
+
+							<typ>S</typ>
+                			<stpid>12508</stpid>
+                			<stpnm>Addison &amp; Milwaukee</stpnm>
+                			<pdist>27358.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.946288878057</lat>
+						<lon>-87.732369303703</lon>
+
+							<typ>S</typ>
+                			<stpid>12509</stpid>
+                			<stpnm>Addison &amp; Keeler</stpnm>
+                			<pdist>28072.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.946320797271</lat>
+						<lon>-87.729343771935</lon>
+
+							<typ>S</typ>
+                			<stpid>12510</stpid>
+                			<stpnm>Addison &amp; Karlov</stpnm>
+                			<pdist>28917.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.946352716468</lat>
+						<lon>-87.72717654705</lon>
+
+							<typ>S</typ>
+                			<stpid>16174</stpid>
+                			<stpnm>Addison &amp; Pulaski</stpnm>
+                			<pdist>29531.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.94638463565</lat>
+						<lon>-87.725111246109</lon>
+
+							<typ>S</typ>
+                			<stpid>12512</stpid>
+                			<stpnm>Addison &amp; Springfield</stpnm>
+                			<pdist>30069.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.946424534604</lat>
+						<lon>-87.722638249397</lon>
+
+							<typ>S</typ>
+                			<stpid>12513</stpid>
+                			<stpnm>Addison &amp; Hamlin</stpnm>
+                			<pdist>30741.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.946448473965</lat>
+						<lon>-87.720605134964</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.946448473965</lat>
+						<lon>-87.720170617104</lon>
+
+							<typ>S</typ>
+                			<stpid>12514</stpid>
+                			<stpnm>Addison &amp; Lawndale/Avondale</stpnm>
+                			<pdist>31410.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.946496352659</lat>
+						<lon>-87.717466950417</lon>
+
+							<typ>S</typ>
+                			<stpid>12515</stpid>
+                			<stpnm>Addison Blue Line Station</stpnm>
+                			<pdist>32044.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.946500342548</lat>
+						<lon>-87.717155814171</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.94652428188</lat>
+						<lon>-87.715036869049</lon>
+
+							<typ>S</typ>
+                			<stpid>12516</stpid>
+                			<stpnm>Addison &amp; St. Louis</stpnm>
+                			<pdist>32758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.94654024143</lat>
+						<lon>-87.712858915329</lon>
+
+							<typ>S</typ>
+                			<stpid>12517</stpid>
+                			<stpnm>Addison &amp; Kimball</stpnm>
+                			<pdist>33417.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.946588120055</lat>
+						<lon>-87.708942890167</lon>
+
+							<typ>S</typ>
+                			<stpid>12518</stpid>
+                			<stpnm>Addison &amp; Elston</stpnm>
+                			<pdist>34483.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.946608069472</lat>
+						<lon>-87.707580327988</lon>
+
+							<typ>S</typ>
+                			<stpid>12519</stpid>
+                			<stpnm>Addison &amp; Kedzie</stpnm>
+                			<pdist>34756.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.946612059355</lat>
+						<lon>-87.705482840538</lon>
+
+							<typ>S</typ>
+                			<stpid>12520</stpid>
+                			<stpnm>Addison &amp; Albany</stpnm>
+                			<pdist>35431.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.946628018882</lat>
+						<lon>-87.70302593708</lon>
+
+							<typ>S</typ>
+                			<stpid>12521</stpid>
+                			<stpnm>Addison &amp; Sacramento</stpnm>
+                			<pdist>36078.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.946647968287</lat>
+						<lon>-87.700547575951</lon>
+
+							<typ>S</typ>
+                			<stpid>12522</stpid>
+                			<stpnm>Addison &amp; Francisco</stpnm>
+                			<pdist>36757.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.946659937926</lat>
+						<lon>-87.698197960854</lon>
+
+							<typ>S</typ>
+                			<stpid>12523</stpid>
+                			<stpnm>Addison &amp; California</stpnm>
+                			<pdist>37405.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.946687867076</lat>
+						<lon>-87.69426047802</lon>
+
+							<typ>S</typ>
+                			<stpid>12524</stpid>
+                			<stpnm>Addison &amp; Rockwell</stpnm>
+                			<pdist>38475.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.946695846831</lat>
+						<lon>-87.690532207489</lon>
+
+							<typ>S</typ>
+                			<stpid>12525</stpid>
+                			<stpnm>Addison &amp; Campbell (Lane Tech HS)</stpnm>
+                			<pdist>39280.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.946703826585</lat>
+						<lon>-87.68957734108</lon>
+
+							<typ>S</typ>
+                			<stpid>12526</stpid>
+                			<stpnm>Addison &amp; Artesian</stpnm>
+                			<pdist>39826.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.946707816461</lat>
+						<lon>-87.688440084457</lon>
+
+							<typ>S</typ>
+                			<stpid>12527</stpid>
+                			<stpnm>Addison &amp; Western</stpnm>
+                			<pdist>40070.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.946743725339</lat>
+						<lon>-87.685950994492</lon>
+
+							<typ>S</typ>
+                			<stpid>12528</stpid>
+                			<stpnm>Addison &amp; Oakley</stpnm>
+                			<pdist>40750.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.946775644325</lat>
+						<lon>-87.683510184288</lon>
+
+							<typ>S</typ>
+                			<stpid>12529</stpid>
+                			<stpnm>Addison &amp; Leavitt</stpnm>
+                			<pdist>41414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.946803573424</lat>
+						<lon>-87.681080102921</lon>
+
+							<typ>S</typ>
+                			<stpid>12530</stpid>
+                			<stpnm>Addison &amp; Hoyne</stpnm>
+                			<pdist>42083.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.94683549238</lat>
+						<lon>-87.678719758987</lon>
+
+							<typ>S</typ>
+                			<stpid>12531</stpid>
+                			<stpnm>Addison &amp; Damen</stpnm>
+                			<pdist>42743.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.946863421453</lat>
+						<lon>-87.676230669022</lon>
+
+							<typ>S</typ>
+                			<stpid>12532</stpid>
+                			<stpnm>Addison &amp; Wolcott</stpnm>
+                			<pdist>43406.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.946887360649</lat>
+						<lon>-87.674868106842</lon>
+
+							<typ>S</typ>
+                			<stpid>12533</stpid>
+                			<stpnm>Addison Brown Line Station</stpnm>
+                			<pdist>43836.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.946907309972</lat>
+						<lon>-87.673355340958</lon>
+
+							<typ>S</typ>
+                			<stpid>12534</stpid>
+                			<stpnm>Addison &amp; Lincoln</stpnm>
+                			<pdist>44238.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.946923269426</lat>
+						<lon>-87.671461701393</lon>
+
+							<typ>S</typ>
+                			<stpid>12535</stpid>
+                			<stpnm>Addison &amp; Paulina</stpnm>
+                			<pdist>44725.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.946959178182</lat>
+						<lon>-87.669031620026</lon>
+
+							<typ>S</typ>
+                			<stpid>12536</stpid>
+                			<stpnm>Addison &amp; Ashland</stpnm>
+                			<pdist>45368.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.94699109706</lat>
+						<lon>-87.666617631912</lon>
+
+							<typ>S</typ>
+                			<stpid>12537</stpid>
+                			<stpnm>Addison &amp; Greenview</stpnm>
+                			<pdist>46033.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.947034985491</lat>
+						<lon>-87.664096355438</lon>
+
+							<typ>S</typ>
+                			<stpid>12538</stpid>
+                			<stpnm>Addison &amp; Southport</stpnm>
+                			<pdist>46691.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.947070894185</lat>
+						<lon>-87.661682367325</lon>
+
+							<typ>S</typ>
+                			<stpid>12539</stpid>
+                			<stpnm>Addison &amp; Lakewood</stpnm>
+                			<pdist>47369.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.947126752112</lat>
+						<lon>-87.658849954605</lon>
+
+							<typ>S</typ>
+                			<stpid>14903</stpid>
+                			<stpnm>Addison &amp; Racine</stpnm>
+                			<pdist>48182.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.947182609991</lat>
+						<lon>-87.656183838844</lon>
+
+							<typ>S</typ>
+                			<stpid>12541</stpid>
+                			<stpnm>Addison &amp; Clark</stpnm>
+                			<pdist>48932.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.94722649829</lat>
+						<lon>-87.653657197952</lon>
+
+							<typ>S</typ>
+                			<stpid>12543</stpid>
+                			<stpnm>Addison Red Line Station</stpnm>
+                			<pdist>49653.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.9472743764</lat>
+						<lon>-87.651688456535</lon>
+
+							<typ>S</typ>
+                			<stpid>14904</stpid>
+                			<stpnm>Addison &amp; Fremont</stpnm>
+                			<pdist>50165.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.947298315442</lat>
+						<lon>-87.649177908897</lon>
+
+							<typ>S</typ>
+                			<stpid>17298</stpid>
+                			<stpnm>Addison &amp; Halsted</stpnm>
+                			<pdist>50817.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.947302305281</lat>
+						<lon>-87.647364735603</lon>
+
+							<typ>S</typ>
+                			<stpid>12546</stpid>
+                			<stpnm>Addison &amp; Broadway</stpnm>
+                			<pdist>51241.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.947338213824</lat>
+						<lon>-87.64720916748</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.947864870133</lat>
+						<lon>-87.645626664162</lon>
+
+							<typ>S</typ>
+                			<stpid>12547</stpid>
+                			<stpnm>Addison &amp; Pine Grove</stpnm>
+                			<pdist>51766.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.948415460712</lat>
+						<lon>-87.644054889679</lon>
+
+							<typ>S</typ>
+                			<stpid>12548</stpid>
+                			<stpnm>Addison &amp; Lake Shore</stpnm>
+                			<pdist>52221.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.948622928393</lat>
+						<lon>-87.643443346024</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.950438241796</lat>
+						<lon>-87.644505500793</lon>
+
+							<typ>S</typ>
+                			<stpid>1163</stpid>
+                			<stpnm>Lake Shore &amp; Waveland</stpnm>
+                			<pdist>53063.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

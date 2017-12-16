@@ -1,0 +1,2691 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4555</pid>
+				<ln>57610.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.848069719162</lat>
+						<lon>-87.809311151505</lon>
+
+							<typ>S</typ>
+                			<stpid>6968</stpid>
+                			<stpnm>North Riverside Mall</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.848085703335</lat>
+						<lon>-87.808308005333</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.850091685311</lat>
+						<lon>-87.808404564857</lon>
+
+							<typ>S</typ>
+                			<stpid>16112</stpid>
+                			<stpnm>North Riverside &amp; Cermak</stpnm>
+                			<pdist>926.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.8502035709</lat>
+						<lon>-87.808409929276</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.850239534083</lat>
+						<lon>-87.805835008621</lon>
+
+							<typ>S</typ>
+                			<stpid>6970</stpid>
+                			<stpnm>7250 W Cermak</stpnm>
+                			<pdist>1613.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.850283489058</lat>
+						<lon>-87.803426384926</lon>
+
+							<typ>S</typ>
+                			<stpid>6971</stpid>
+                			<stpnm>Cermak &amp; Harlem</stpnm>
+                			<pdist>2397.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.850327444002</lat>
+						<lon>-87.800722718239</lon>
+
+							<typ>S</typ>
+                			<stpid>6972</stpid>
+                			<stpnm>Cermak &amp; Wisconsin</stpnm>
+                			<pdist>2890.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.850391378413</lat>
+						<lon>-87.798603773117</lon>
+
+							<typ>S</typ>
+                			<stpid>6973</stpid>
+                			<stpnm>Cermak &amp; Home</stpnm>
+                			<pdist>3598.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.8504153538</lat>
+						<lon>-87.798271179199</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.850471296336</lat>
+						<lon>-87.79810488224</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.850487279908</lat>
+						<lon>-87.797160744667</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.850543222381</lat>
+						<lon>-87.793030142784</lon>
+
+							<typ>S</typ>
+                			<stpid>15863</stpid>
+                			<stpnm>Cermak &amp; Oak Park</stpnm>
+                			<pdist>5217.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.850571193599</lat>
+						<lon>-87.791082859039</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.850519247042</lat>
+						<lon>-87.790825366974</lon>
+
+							<typ>S</typ>
+                			<stpid>6975</stpid>
+                			<stpnm>Cermak &amp; Riverside Drive</stpnm>
+                			<pdist>5662.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.850551214159</lat>
+						<lon>-87.788314819336</lon>
+
+							<typ>S</typ>
+                			<stpid>6976</stpid>
+                			<stpnm>Cermak &amp; East</stpnm>
+                			<pdist>6324.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.850623140115</lat>
+						<lon>-87.785981297493</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.85063912365</lat>
+						<lon>-87.783465385437</lon>
+
+							<typ>S</typ>
+                			<stpid>6977</stpid>
+                			<stpnm>Cermak &amp; Ridgeland</stpnm>
+                			<pdist>7704.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.850699061869</lat>
+						<lon>-87.778535485268</lon>
+
+							<typ>S</typ>
+                			<stpid>6978</stpid>
+                			<stpnm>Cermak &amp; Lombard</stpnm>
+                			<pdist>9041.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.850786971157</lat>
+						<lon>-87.773589491844</lon>
+
+							<typ>S</typ>
+                			<stpid>6979</stpid>
+                			<stpnm>Cermak &amp; Austin</stpnm>
+                			<pdist>10378.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.850854900978</lat>
+						<lon>-87.768723964691</lon>
+
+							<typ>S</typ>
+                			<stpid>6980</stpid>
+                			<stpnm>Cermak &amp; 58th Avenue</stpnm>
+                			<pdist>11722.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.850938814186</lat>
+						<lon>-87.763831615448</lon>
+
+							<typ>S</typ>
+                			<stpid>6981</stpid>
+                			<stpnm>Cermak &amp; Central</stpnm>
+                			<pdist>13067.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.851002747986</lat>
+						<lon>-87.759084105492</lon>
+
+							<typ>S</typ>
+                			<stpid>6900</stpid>
+                			<stpnm>Cermak &amp; 54th Avenue </stpnm>
+                			<pdist>14411.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.851050698293</lat>
+						<lon>-87.756503820419</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.851074673434</lat>
+						<lon>-87.754004001617</lon>
+
+							<typ>S</typ>
+                			<stpid>6901</stpid>
+                			<stpnm>Cermak &amp; Laramie (Pink Line)</stpnm>
+                			<pdist>15751.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.851142602949</lat>
+						<lon>-87.749036550522</lon>
+
+							<typ>S</typ>
+                			<stpid>6902</stpid>
+                			<stpnm>Cermak &amp; 50th Avenue</stpnm>
+                			<pdist>17102.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.851178565605</lat>
+						<lon>-87.747040987015</lon>
+
+							<typ>S</typ>
+                			<stpid>6903</stpid>
+                			<stpnm>Cermak &amp; 49th Avenue (Pink Line)</stpnm>
+                			<pdist>17770.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.851198544849</lat>
+						<lon>-87.744053006172</lon>
+
+							<typ>S</typ>
+                			<stpid>14879</stpid>
+                			<stpnm>Cermak &amp; Cicero</stpnm>
+                			<pdist>18586.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.85121452824</lat>
+						<lon>-87.741896510124</lon>
+
+							<typ>S</typ>
+                			<stpid>17124</stpid>
+                			<stpnm>Cermak &amp; 47th Avenue</stpnm>
+                			<pdist>19099.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.85124649501</lat>
+						<lon>-87.740185260773</lon>
+
+							<typ>S</typ>
+                			<stpid>6906</stpid>
+                			<stpnm>4632 W Cermak</stpnm>
+                			<pdist>19468.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.851290449293</lat>
+						<lon>-87.739198207855</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.851230511627</lat>
+						<lon>-87.737926840782</lon>
+
+							<typ>S</typ>
+                			<stpid>6907</stpid>
+                			<stpnm>4542 W Cermak</stpnm>
+                			<pdist>20131.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.851282457607</lat>
+						<lon>-87.736891508102</lon>
+
+							<typ>S</typ>
+                			<stpid>6908</stpid>
+                			<stpnm>Cermak &amp; Kilbourn</stpnm>
+                			<pdist>20504.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.851318420184</lat>
+						<lon>-87.734606266022</lon>
+
+							<typ>S</typ>
+                			<stpid>6909</stpid>
+                			<stpnm>Cermak &amp; Kostner</stpnm>
+                			<pdist>21098.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.851334403545</lat>
+						<lon>-87.732428312302</lon>
+
+							<typ>S</typ>
+                			<stpid>6910</stpid>
+                			<stpnm>Cermak &amp; Kolin</stpnm>
+                			<pdist>21698.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.851386349441</lat>
+						<lon>-87.729746103287</lon>
+
+							<typ>S</typ>
+                			<stpid>6911</stpid>
+                			<stpnm>Cermak &amp; Keeler</stpnm>
+                			<pdist>22442.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.851430303627</lat>
+						<lon>-87.727138996124</lon>
+
+							<typ>S</typ>
+                			<stpid>6912</stpid>
+                			<stpnm>Cermak &amp; Karlov</stpnm>
+                			<pdist>23169.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.851462270289</lat>
+						<lon>-87.72489130497</lon>
+
+							<typ>S</typ>
+                			<stpid>6665</stpid>
+                			<stpnm>Cermak &amp; Pulaski</stpnm>
+                			<pdist>23758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.851466266121</lat>
+						<lon>-87.723893523216</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.851522207738</lat>
+						<lon>-87.722219824791</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.851570157656</lat>
+						<lon>-87.722080349922</lon>
+
+							<typ>S</typ>
+                			<stpid>15827</stpid>
+                			<stpnm>Cermak &amp; Springfield</stpnm>
+                			<pdist>24550.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.851590136778</lat>
+						<lon>-87.719977498055</lon>
+
+							<typ>S</typ>
+                			<stpid>6914</stpid>
+                			<stpnm>Cermak &amp; Hamlin</stpnm>
+                			<pdist>25109.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.851614111716</lat>
+						<lon>-87.717509865761</lon>
+
+							<typ>S</typ>
+                			<stpid>6915</stpid>
+                			<stpnm>Cermak &amp; Lawndale</stpnm>
+                			<pdist>25753.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.851630095003</lat>
+						<lon>-87.714709639549</lon>
+
+							<typ>S</typ>
+                			<stpid>17187</stpid>
+                			<stpnm>Cermak &amp; Central Park</stpnm>
+                			<pdist>26519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.851646078286</lat>
+						<lon>-87.712547779083</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.851682040659</lat>
+						<lon>-87.712381482124</lon>
+
+							<typ>S</typ>
+                			<stpid>6917</stpid>
+                			<stpnm>Cermak &amp; St. Louis</stpnm>
+                			<pdist>27137.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.851893818664</lat>
+						<lon>-87.711394429207</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.851889822859</lat>
+						<lon>-87.71116912365</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.851634090824</lat>
+						<lon>-87.710906267166</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.851678044841</lat>
+						<lon>-87.710520029068</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.851686036477</lat>
+						<lon>-87.710155248642</lon>
+
+							<typ>S</typ>
+                			<stpid>6918</stpid>
+                			<stpnm>Cermak &amp; Homan</stpnm>
+                			<pdist>27818.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.851710011379</lat>
+						<lon>-87.707784175873</lon>
+
+							<typ>S</typ>
+                			<stpid>6919</stpid>
+                			<stpnm>Cermak &amp; Spaulding</stpnm>
+                			<pdist>28515.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.851757961156</lat>
+						<lon>-87.704839110374</lon>
+
+							<typ>S</typ>
+                			<stpid>17189</stpid>
+                			<stpnm>Cermak &amp; Kedzie</stpnm>
+                			<pdist>29320.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.851789927655</lat>
+						<lon>-87.702907919884</lon>
+
+							<typ>S</typ>
+                			<stpid>6921</stpid>
+                			<stpnm>Cermak &amp; Albany</stpnm>
+                			<pdist>29826.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.851837877372</lat>
+						<lon>-87.698712944984</lon>
+
+							<typ>S</typ>
+                			<stpid>6924</stpid>
+                			<stpnm>Cermak &amp; Marshall Boulevard</stpnm>
+                			<pdist>30990.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.851877835443</lat>
+						<lon>-87.695590853691</lon>
+
+							<typ>S</typ>
+                			<stpid>6925</stpid>
+                			<stpnm>Cermak &amp; California</stpnm>
+                			<pdist>31787.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.851917793488</lat>
+						<lon>-87.692667245865</lon>
+
+							<typ>S</typ>
+                			<stpid>15779</stpid>
+                			<stpnm>Cermak &amp; Washtenaw</stpnm>
+                			<pdist>32613.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.851945764105</lat>
+						<lon>-87.690183520317</lon>
+
+							<typ>S</typ>
+                			<stpid>15780</stpid>
+                			<stpnm>Cermak &amp; Rockwell</stpnm>
+                			<pdist>33264.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.85197373471</lat>
+						<lon>-87.688193321228</lon>
+
+							<typ>S</typ>
+                			<stpid>6928</stpid>
+                			<stpnm>2500 W Cermak</stpnm>
+                			<pdist>33601.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.852025680087</lat>
+						<lon>-87.685827612877</lon>
+
+							<typ>S</typ>
+                			<stpid>6929</stpid>
+                			<stpnm>Cermak &amp; Western</stpnm>
+                			<pdist>34394.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.852041663271</lat>
+						<lon>-87.683306336403</lon>
+
+							<typ>S</typ>
+                			<stpid>6930</stpid>
+                			<stpnm>Cermak &amp; Oakley</stpnm>
+                			<pdist>35081.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.852057646451</lat>
+						<lon>-87.681949138641</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.852085617007</lat>
+						<lon>-87.680404186249</lon>
+
+							<typ>S</typ>
+                			<stpid>15307</stpid>
+                			<stpnm>Cermak &amp; Leavitt</stpnm>
+                			<pdist>35903.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.852105595968</lat>
+						<lon>-87.678397893906</lon>
+
+							<typ>S</typ>
+                			<stpid>6932</stpid>
+                			<stpnm>Cermak &amp; Hoyne</stpnm>
+                			<pdist>36425.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.852145553871</lat>
+						<lon>-87.675565481186</lon>
+
+							<typ>S</typ>
+                			<stpid>14069</stpid>
+                			<stpnm>Cermak &amp; Damen</stpnm>
+                			<pdist>37238.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.852181515963</lat>
+						<lon>-87.673516273499</lon>
+
+							<typ>S</typ>
+                			<stpid>6934</stpid>
+                			<stpnm>Cermak &amp; Wolcott</stpnm>
+                			<pdist>37749.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.852218333333</lat>
+						<lon>-87.671049999999</lon>
+
+							<typ>S</typ>
+                			<stpid>6935</stpid>
+                			<stpnm>Cermak &amp; Wood</stpnm>
+                			<pdist>38420.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.852249444303</lat>
+						<lon>-87.668602466583</lon>
+
+							<typ>S</typ>
+                			<stpid>6936</stpid>
+                			<stpnm>Cermak &amp; Paulina</stpnm>
+                			<pdist>39093.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.852301389456</lat>
+						<lon>-87.666510343552</lon>
+
+							<typ>S</typ>
+                			<stpid>6937</stpid>
+                			<stpnm>Cermak &amp; Ashland/Blue Island</stpnm>
+                			<pdist>39656.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.852361326118</lat>
+						<lon>-87.663667201996</lon>
+
+							<typ>S</typ>
+                			<stpid>6938</stpid>
+                			<stpnm>Cermak &amp; Laflin</stpnm>
+                			<pdist>40408.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.852393333334</lat>
+						<lon>-87.660686666665</lon>
+
+							<typ>S</typ>
+                			<stpid>17686</stpid>
+                			<stpnm>Cermak &amp; Loomis</stpnm>
+                			<pdist>41247.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.852416666666</lat>
+						<lon>-87.658206666666</lon>
+
+							<typ>S</typ>
+                			<stpid>17687</stpid>
+                			<stpnm>Cermak &amp; Throop</stpnm>
+                			<pdist>41914.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.852477203505</lat>
+						<lon>-87.65641450882</lon>
+
+							<typ>S</typ>
+                			<stpid>6941</stpid>
+                			<stpnm>Cermak &amp; Racine</stpnm>
+                			<pdist>42414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.852557118823</lat>
+						<lon>-87.651522159576</lon>
+
+							<typ>S</typ>
+                			<stpid>6944</stpid>
+                			<stpnm>Cermak &amp; Morgan</stpnm>
+                			<pdist>43733.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.852581093398</lat>
+						<lon>-87.649896740913</lon>
+
+							<typ>S</typ>
+                			<stpid>6945</stpid>
+                			<stpnm>929 W Cermak</stpnm>
+                			<pdist>44189.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.852625046764</lat>
+						<lon>-87.646758556366</lon>
+
+							<typ>S</typ>
+                			<stpid>6947</stpid>
+                			<stpnm>Cermak &amp; Halsted</stpnm>
+                			<pdist>45149.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.852645025556</lat>
+						<lon>-87.644843459129</lon>
+
+							<typ>S</typ>
+                			<stpid>6948</stpid>
+                			<stpnm>Cermak &amp; Union</stpnm>
+                			<pdist>45654.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.852653017072</lat>
+						<lon>-87.643872499466</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.852645025556</lat>
+						<lon>-87.6420378685</lon>
+
+							<typ>S</typ>
+                			<stpid>6950</stpid>
+                			<stpnm>Cermak &amp; Lumber</stpnm>
+                			<pdist>46385.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.852684983123</lat>
+						<lon>-87.640820145607</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.852772889681</lat>
+						<lon>-87.638711929321</lon>
+
+							<typ>S</typ>
+                			<stpid>6952</stpid>
+                			<stpnm>Cermak &amp; Canal</stpnm>
+                			<pdist>47316.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.852796864175</lat>
+						<lon>-87.636898756027</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.852812847167</lat>
+						<lon>-87.635305523872</lon>
+
+							<typ>S</typ>
+                			<stpid>6953</stpid>
+                			<stpnm>Cermak &amp; Archer</stpnm>
+                			<pdist>48279.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.852824834408</lat>
+						<lon>-87.634200453758</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.852736927921</lat>
+						<lon>-87.633857131004</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.852752910928</lat>
+						<lon>-87.632274627686</lon>
+
+							<typ>S</typ>
+                			<stpid>5116</stpid>
+                			<stpnm>Cermak &amp; Wentworth</stpnm>
+                			<pdist>49130.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.852732932169</lat>
+						<lon>-87.631169557571</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.85276489818</lat>
+						<lon>-87.629978656769</lon>
+
+							<typ>S</typ>
+                			<stpid>5117</stpid>
+                			<stpnm>Cermak &amp; Clark</stpnm>
+                			<pdist>49701.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.852796864175</lat>
+						<lon>-87.628031373024</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.852788872678</lat>
+						<lon>-87.627382278442</lon>
+
+							<typ>S</typ>
+                			<stpid>6954</stpid>
+                			<stpnm>Cermak &amp; State</stpnm>
+                			<pdist>50358.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.85276090243</lat>
+						<lon>-87.626781463623</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.852752910928</lat>
+						<lon>-87.625617384911</lon>
+
+							<typ>S</typ>
+                			<stpid>6955</stpid>
+                			<stpnm>Cermak &amp; Wabash</stpnm>
+                			<pdist>50813.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.852756906679</lat>
+						<lon>-87.623627185822</lon>
+
+							<typ>S</typ>
+                			<stpid>17079</stpid>
+                			<stpnm>Cermak &amp; Michigan</stpnm>
+                			<pdist>51446.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.85277688543</lat>
+						<lon>-87.622221708298</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.85280885142</lat>
+						<lon>-87.620757222176</lon>
+
+							<typ>S</typ>
+                			<stpid>17088</stpid>
+                			<stpnm>Cermak &amp; Prairie</stpnm>
+                			<pdist>52131.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.8528168429143</lat>
+						<lon>-87.61981308460236</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.852804855671764</lat>
+						<lon>-87.6196414232254</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.852764898180325</lat>
+						<lon>-87.61952877044678</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.85270895765</lat>
+						<lon>-87.619426846504</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.852633038282</lat>
+						<lon>-87.619308829308</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.852501178111</lat>
+						<lon>-87.619142532349</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.8524132711795</lat>
+						<lon>-87.61907815933228</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.85227341899413</lat>
+						<lon>-87.61905670166016</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.851118627834</lat>
+						<lon>-87.619008421898</lon>
+
+							<typ>S</typ>
+                			<stpid>2192</stpid>
+                			<stpnm>McCormick Place</stpnm>
+                			<pdist>53141.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.851002747986</lat>
+						<lon>-87.619019150734</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.850898855529</lat>
+						<lon>-87.619088888168</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.850231542266</lat>
+						<lon>-87.61905670166</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.84990787284744</lat>
+						<lon>-87.61897623538971</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.849716067974</lat>
+						<lon>-87.618890404701</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.849424363628</lat>
+						<lon>-87.618627548218</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.84915663381021</lat>
+						<lon>-87.61835932731628</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.848924866795</lat>
+						<lon>-87.618134021759</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.848621170814</lat>
+						<lon>-87.617871165276</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.848473318301</lat>
+						<lon>-87.617806792259</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.848289501187</lat>
+						<lon>-87.617779970169</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.84731046635704</lat>
+						<lon>-87.6177316904068</lon>
+
+							<typ>S</typ>
+                			<stpid>2193</stpid>
+                			<stpnm>King Drive &amp; 25th Street</stpnm>
+                			<pdist>54586.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.846751011156</lat>
+						<lon>-87.617715597153</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.845755968031</lat>
+						<lon>-87.617694139481</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.845747975654</lat>
+						<lon>-87.617892622948</lon>
+
+							<typ>S</typ>
+                			<stpid>7491</stpid>
+                			<stpnm>26th Street &amp; King Drive</stpnm>
+                			<pdist>55279.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.845700021371</lat>
+						<lon>-87.620387077332</lon>
+
+							<typ>S</typ>
+                			<stpid>7493</stpid>
+                			<stpnm>26th Street &amp; Prairie</stpnm>
+                			<pdist>55810.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.845676044217</lat>
+						<lon>-87.622125148773</lon>
+
+							<typ>S</typ>
+                			<stpid>7494</stpid>
+                			<stpnm>26th Street &amp; Indiana</stpnm>
+                			<pdist>56275.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.845664055636</lat>
+						<lon>-87.623353600502</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.845927803893</lat>
+						<lon>-87.623369693756</lon>
+
+							<typ>S</typ>
+                			<stpid>1567</stpid>
+                			<stpnm>Michigan &amp; 26th Street</stpnm>
+                			<pdist>56657.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.847294481991</lat>
+						<lon>-87.623487710953</lon>
+
+							<typ>S</typ>
+                			<stpid>1568</stpid>
+                			<stpnm>Michigan &amp; 25th Street</stpnm>
+                			<pdist>57184.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>124</seq>
+						<lat>41.847430348978</lat>
+						<lon>-87.623498439789</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>125</seq>
+						<lat>41.84745432547519</lat>
+						<lon>-87.62200176715851</lon>
+
+							<typ>S</typ>
+                			<stpid>15739</stpid>
+                			<stpnm>25th Street &amp; Mercy Hospital</stpnm>
+                			<pdist>57610.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4557</pid>
+				<ln>55930.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.84745432547519</lat>
+						<lon>-87.62200176715851</lon>
+
+							<typ>S</typ>
+                			<stpid>15739</stpid>
+                			<stpnm>25th Street &amp; Mercy Hospital</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.8475102706</lat>
+						<lon>-87.618434429169</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.847574207827</lat>
+						<lon>-87.617973089218</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.8476501332</lat>
+						<lon>-87.617801427841</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.847789995493</lat>
+						<lon>-87.617688775063</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.847801983675</lat>
+						<lon>-87.617334723473</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.848265525003</lat>
+						<lon>-87.617356181145</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.848537254565</lat>
+						<lon>-87.617447376251</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.848912878823</lat>
+						<lon>-87.617742419243</lon>
+
+							<typ>S</typ>
+                			<stpid>17397</stpid>
+                			<stpnm>King Drive &amp; 25th Street</stpnm>
+                			<pdist>1427.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.849288500875</lat>
+						<lon>-87.618053555489</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.849871909478</lat>
+						<lon>-87.618627548218</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.850035742443</lat>
+						<lon>-87.61872947216</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.850231542266</lat>
+						<lon>-87.618799209595</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.850906847263</lat>
+						<lon>-87.618836760521</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.850998752125</lat>
+						<lon>-87.618922591209</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.851550178528</lat>
+						<lon>-87.618933320045</lon>
+
+							<typ>S</typ>
+                			<stpid>14559</stpid>
+                			<stpnm>McCormick Place</stpnm>
+                			<pdist>2662.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.852297393676196</lat>
+						<lon>-87.61895477771759</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.85244523735033</lat>
+						<lon>-87.61898696422577</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.852525152707614</lat>
+						<lon>-87.61898159980774</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.85262105100455</lat>
+						<lon>-87.61902987957001</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.852736927921484</lat>
+						<lon>-87.61910498142242</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.85285680037329</lat>
+						<lon>-87.61927127838135</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.852916736514935</lat>
+						<lon>-87.61941075325012</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.8529686811256</lat>
+						<lon>-87.61956095695496</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.85300464275444</lat>
+						<lon>-87.61973798274994</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.85300863849</lat>
+						<lon>-87.620505094528</lon>
+
+							<typ>S</typ>
+                			<stpid>2185</stpid>
+                			<stpnm>Cermak &amp; Prairie</stpnm>
+                			<pdist>3583.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.852968681126</lat>
+						<lon>-87.624088525772</lon>
+
+							<typ>S</typ>
+                			<stpid>15965</stpid>
+                			<stpnm>Cermak &amp; Michigan</stpnm>
+                			<pdist>4621.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.852944706695</lat>
+						<lon>-87.625515460968</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.852924727996</lat>
+						<lon>-87.626550793648</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.852948702434</lat>
+						<lon>-87.626824378967</lon>
+
+							<typ>S</typ>
+                			<stpid>6845</stpid>
+                			<stpnm>Cermak &amp; State</stpnm>
+                			<pdist>5308.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.852996651283</lat>
+						<lon>-87.627173066139</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.853020625694</lat>
+						<lon>-87.628063559532</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.852980668337</lat>
+						<lon>-87.629903554916</lon>
+
+							<typ>S</typ>
+                			<stpid>5122</stpid>
+                			<stpnm>Cermak &amp; Clark</stpnm>
+                			<pdist>6090.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.852988333333</lat>
+						<lon>-87.632045</lon>
+
+							<typ>S</typ>
+                			<stpid>17827</stpid>
+                			<stpnm>Cermak &amp; Wentworth</stpnm>
+                			<pdist>6687.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.852876779093</lat>
+						<lon>-87.634280920029</lon>
+
+							<typ>S</typ>
+                			<stpid>6846</stpid>
+                			<stpnm>Cermak &amp; Archer</stpnm>
+                			<pdist>7281.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.852852804629</lat>
+						<lon>-87.637322545052</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.852832825901</lat>
+						<lon>-87.638454437256</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.852828830155</lat>
+						<lon>-87.638685107231</lon>
+
+							<typ>S</typ>
+                			<stpid>14646</stpid>
+                			<stpnm>Cermak &amp; Canal</stpnm>
+                			<pdist>8534.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.852736927921</lat>
+						<lon>-87.641544342041</lon>
+
+							<typ>S</typ>
+                			<stpid>6849</stpid>
+                			<stpnm>Cermak &amp; Lumber</stpnm>
+                			<pdist>9214.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.852720944911</lat>
+						<lon>-87.641930580139</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.852712953404</lat>
+						<lon>-87.64456987381</lon>
+
+							<typ>S</typ>
+                			<stpid>6851</stpid>
+                			<stpnm>Cermak &amp; Union</stpnm>
+                			<pdist>10073.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.852684983123</lat>
+						<lon>-87.646753191948</lon>
+
+							<typ>S</typ>
+                			<stpid>16193</stpid>
+                			<stpnm>Cermak &amp; Halsted</stpnm>
+                			<pdist>10713.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.852657012829</lat>
+						<lon>-87.648721933365</lon>
+
+							<typ>S</typ>
+                			<stpid>15691</stpid>
+                			<stpnm>Cermak &amp; Peoria</stpnm>
+                			<pdist>11183.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.852609063725</lat>
+						<lon>-87.651709914207</lon>
+
+							<typ>S</typ>
+                			<stpid>6855</stpid>
+                			<stpnm>Cermak &amp; Morgan</stpnm>
+                			<pdist>12048.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.852613059485</lat>
+						<lon>-87.653378248215</lon>
+
+							<typ>S</typ>
+                			<stpid>15692</stpid>
+                			<stpnm>Cermak &amp; Carpenter</stpnm>
+                			<pdist>12423.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.852545131531</lat>
+						<lon>-87.656108736992</lon>
+
+							<typ>S</typ>
+                			<stpid>6858</stpid>
+                			<stpnm>Cermak &amp; Racine</stpnm>
+                			<pdist>13009.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.852501178111</lat>
+						<lon>-87.658581733704</lon>
+
+							<typ>S</typ>
+                			<stpid>6859</stpid>
+                			<stpnm>Cermak &amp; Throop</stpnm>
+                			<pdist>13686.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.852485195041</lat>
+						<lon>-87.661526799202</lon>
+
+							<typ>S</typ>
+                			<stpid>16195</stpid>
+                			<stpnm>Cermak &amp; Loomis</stpnm>
+                			<pdist>14476.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.852417266952</lat>
+						<lon>-87.663742303848</lon>
+
+							<typ>S</typ>
+                			<stpid>6861</stpid>
+                			<stpnm>Cermak &amp; Laflin</stpnm>
+                			<pdist>14934.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.852381304993</lat>
+						<lon>-87.665748596191</lon>
+
+							<typ>S</typ>
+                			<stpid>6862</stpid>
+                			<stpnm>Cermak &amp; Ashland</stpnm>
+                			<pdist>15560.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.852317372571</lat>
+						<lon>-87.668350338936</lon>
+
+							<typ>S</typ>
+                			<stpid>6863</stpid>
+                			<stpnm>Cermak &amp; Paulina</stpnm>
+                			<pdist>16270.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.852285406336</lat>
+						<lon>-87.670640945435</lon>
+
+							<typ>S</typ>
+                			<stpid>6864</stpid>
+                			<stpnm>Cermak &amp; Wood</stpnm>
+                			<pdist>16935.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.852253440086</lat>
+						<lon>-87.673162221909</lon>
+
+							<typ>S</typ>
+                			<stpid>6865</stpid>
+                			<stpnm>Cermak &amp; Wolcott</stpnm>
+                			<pdist>17594.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.852217478034</lat>
+						<lon>-87.675597667694</lon>
+
+							<typ>S</typ>
+                			<stpid>6866</stpid>
+                			<stpnm>Cermak &amp; Damen</stpnm>
+                			<pdist>18191.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.852177520176</lat>
+						<lon>-87.67808675766</lon>
+
+							<typ>S</typ>
+                			<stpid>6867</stpid>
+                			<stpnm>Cermak &amp; Hoyne</stpnm>
+                			<pdist>18920.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.852133566503</lat>
+						<lon>-87.681155204773</lon>
+
+							<typ>S</typ>
+                			<stpid>15306</stpid>
+                			<stpnm>Cermak &amp; Leavitt</stpnm>
+                			<pdist>19730.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.852101600176</lat>
+						<lon>-87.683064937592</lon>
+
+							<typ>S</typ>
+                			<stpid>6869</stpid>
+                			<stpnm>Cermak &amp; Oakley</stpnm>
+                			<pdist>20260.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.852077625421</lat>
+						<lon>-87.686154842377</lon>
+
+							<typ>S</typ>
+                			<stpid>15305</stpid>
+                			<stpnm>Cermak &amp; Western</stpnm>
+                			<pdist>21082.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.852033671679</lat>
+						<lon>-87.688037753105</lon>
+
+							<typ>S</typ>
+                			<stpid>6871</stpid>
+                			<stpnm>2500 W Cermak</stpnm>
+                			<pdist>21859.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.852005701101</lat>
+						<lon>-87.690360546112</lon>
+
+							<typ>S</typ>
+                			<stpid>6872</stpid>
+                			<stpnm>Cermak &amp; Rockwell</stpnm>
+                			<pdist>22252.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.85196973891</lat>
+						<lon>-87.693246603012</lon>
+
+							<typ>S</typ>
+                			<stpid>15778</stpid>
+                			<stpnm>Cermak &amp; Washtenaw</stpnm>
+                			<pdist>23095.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.851941768304</lat>
+						<lon>-87.695317268372</lon>
+
+							<typ>S</typ>
+                			<stpid>15797</stpid>
+                			<stpnm>Cermak &amp; California</stpnm>
+                			<pdist>23727.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.851893818664</lat>
+						<lon>-87.698959708214</lon>
+
+							<typ>S</typ>
+                			<stpid>6875</stpid>
+                			<stpnm>Cermak &amp; Marshall Boulevard</stpnm>
+                			<pdist>24576.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.851877835443</lat>
+						<lon>-87.700327634811</lon>
+
+							<typ>S</typ>
+                			<stpid>6876</stpid>
+                			<stpnm>Cermak &amp; Sacramento</stpnm>
+                			<pdist>24947.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.851861852218</lat>
+						<lon>-87.702607512474</lon>
+
+							<typ>S</typ>
+                			<stpid>6877</stpid>
+                			<stpnm>Cermak &amp; Albany</stpnm>
+                			<pdist>25422.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.851805910898</lat>
+						<lon>-87.705413103104</lon>
+
+							<typ>S</typ>
+                			<stpid>17205</stpid>
+                			<stpnm>Cermak &amp; Kedzie</stpnm>
+                			<pdist>26207.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.851789927655</lat>
+						<lon>-87.706459164619</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.85177794022</lat>
+						<lon>-87.707537412643</lon>
+
+							<typ>S</typ>
+                			<stpid>6879</stpid>
+                			<stpnm>Cermak &amp; Spaulding</stpnm>
+                			<pdist>26732.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.851769948595</lat>
+						<lon>-87.708910703659</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.851733986272</lat>
+						<lon>-87.710251808167</lon>
+
+							<typ>S</typ>
+                			<stpid>6880</stpid>
+                			<stpnm>Cermak &amp; Homan</stpnm>
+                			<pdist>27487.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.851733986272</lat>
+						<lon>-87.710525393486</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.851702019746</lat>
+						<lon>-87.710857987404</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.851989717907</lat>
+						<lon>-87.711179852486</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.851741977901</lat>
+						<lon>-87.712413668633</lon>
+
+							<typ>S</typ>
+                			<stpid>6881</stpid>
+                			<stpnm>Cermak &amp; St. Louis</stpnm>
+                			<pdist>28052.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.851714007195</lat>
+						<lon>-87.712531685829</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.851690032294</lat>
+						<lon>-87.713770866394</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.851690032294</lat>
+						<lon>-87.715246081352</lon>
+
+							<typ>S</typ>
+                			<stpid>17188</stpid>
+                			<stpnm>Cermak &amp; Central Park</stpnm>
+                			<pdist>28917.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.851666057385</lat>
+						<lon>-87.717252373695</lon>
+
+							<typ>S</typ>
+                			<stpid>6883</stpid>
+                			<stpnm>Cermak &amp; Lawndale</stpnm>
+                			<pdist>29405.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.851658065746</lat>
+						<lon>-87.719687819481</lon>
+
+							<typ>S</typ>
+                			<stpid>6884</stpid>
+                			<stpnm>Cermak &amp; Hamlin</stpnm>
+                			<pdist>30072.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.851638086645</lat>
+						<lon>-87.722080349922</lon>
+
+							<typ>S</typ>
+                			<stpid>6913</stpid>
+                			<stpnm>Cermak &amp; Ogden</stpnm>
+                			<pdist>30863.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.851686036477</lat>
+						<lon>-87.722284197807</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.851690032294</lat>
+						<lon>-87.723914980888</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.851686036477</lat>
+						<lon>-87.72527217865</lon>
+
+							<typ>S</typ>
+                			<stpid>14845</stpid>
+                			<stpnm>Cermak &amp; Pulaski</stpnm>
+                			<pdist>31554.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.851686036477</lat>
+						<lon>-87.72701561451</lon>
+
+							<typ>S</typ>
+                			<stpid>6885</stpid>
+                			<stpnm>Cermak &amp; Karlov</stpnm>
+                			<pdist>32071.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.851642082466</lat>
+						<lon>-87.729853391647</lon>
+
+							<typ>S</typ>
+                			<stpid>15140</stpid>
+                			<stpnm>Cermak &amp; Keeler</stpnm>
+                			<pdist>32865.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.85162210336</lat>
+						<lon>-87.731114029884</lon>
+
+							<typ>S</typ>
+                			<stpid>6887</stpid>
+                			<stpnm>Cermak &amp; Kildare </stpnm>
+                			<pdist>33399.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.851566161831</lat>
+						<lon>-87.734332680702</lon>
+
+							<typ>S</typ>
+                			<stpid>6888</stpid>
+                			<stpnm>Cermak &amp; Kostner</stpnm>
+                			<pdist>34032.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.851534195221</lat>
+						<lon>-87.736773490906</lon>
+
+							<typ>S</typ>
+                			<stpid>6889</stpid>
+                			<stpnm>Cermak &amp; Kilbourn</stpnm>
+                			<pdist>34722.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.851418316125</lat>
+						<lon>-87.73899435997</lon>
+
+							<typ>S</typ>
+                			<stpid>6891</stpid>
+                			<stpnm>4542 W Cermak</stpnm>
+                			<pdist>35249.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.851410324455</lat>
+						<lon>-87.741714119911</lon>
+
+							<typ>S</typ>
+                			<stpid>6893</stpid>
+                			<stpnm>Cermak &amp; 47th Avenue</stpnm>
+                			<pdist>36056.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.851386349441</lat>
+						<lon>-87.744476795197</lon>
+
+							<typ>S</typ>
+                			<stpid>14892</stpid>
+                			<stpnm>Cermak &amp; Cicero (Pink Line)</stpnm>
+                			<pdist>36853.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.851362374417</lat>
+						<lon>-87.746611833572</lon>
+
+							<typ>S</typ>
+                			<stpid>6895</stpid>
+                			<stpnm>Cermak &amp; 49th Avenue</stpnm>
+                			<pdist>37372.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.851322416025</lat>
+						<lon>-87.748854160309</lon>
+
+							<typ>S</typ>
+                			<stpid>6896</stpid>
+                			<stpnm>Cermak &amp; 50th Avenue</stpnm>
+                			<pdist>38043.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.8512544867</lat>
+						<lon>-87.753859162331</lon>
+
+							<typ>S</typ>
+                			<stpid>6897</stpid>
+                			<stpnm>Cermak &amp; Laramie</stpnm>
+                			<pdist>39376.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.851250490855</lat>
+						<lon>-87.754036188126</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.851813902518</lat>
+						<lon>-87.75405228138</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.85177794022</lat>
+						<lon>-87.756831049919</lon>
+
+							<typ>S</typ>
+                			<stpid>14193</stpid>
+                			<stpnm>54th/Cermak Pink Line Station</stpnm>
+                			<pdist>40595.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.851753965343</lat>
+						<lon>-87.759041190147</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.851170573905</lat>
+						<lon>-87.759035825729</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.851118627834</lat>
+						<lon>-87.763622403145</lon>
+
+							<typ>S</typ>
+                			<stpid>14891</stpid>
+                			<stpnm>Cermak &amp; Central</stpnm>
+                			<pdist>42268.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.851042706578</lat>
+						<lon>-87.768584489822</lon>
+
+							<typ>S</typ>
+                			<stpid>6957</stpid>
+                			<stpnm>Cermak &amp; 58th Avenue</stpnm>
+                			<pdist>43609.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.850966785231</lat>
+						<lon>-87.773428559303</lon>
+
+							<typ>S</typ>
+                			<stpid>6958</stpid>
+                			<stpnm>Cermak &amp; Austin</stpnm>
+                			<pdist>44930.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.850906847263</lat>
+						<lon>-87.778331637383</lon>
+
+							<typ>S</typ>
+                			<stpid>6959</stpid>
+                			<stpnm>Cermak &amp; Lombard</stpnm>
+                			<pdist>46291.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.850870884454</lat>
+						<lon>-87.779876589775</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.850822934012</lat>
+						<lon>-87.783245444298</lon>
+
+							<typ>S</typ>
+                			<stpid>6960</stpid>
+                			<stpnm>Cermak &amp; Ridgeland</stpnm>
+                			<pdist>47761.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.850739020651</lat>
+						<lon>-87.788153886795</lon>
+
+							<typ>S</typ>
+                			<stpid>16113</stpid>
+                			<stpnm>Cermak &amp; East</stpnm>
+                			<pdist>49093.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.850703057749</lat>
+						<lon>-87.790648341179</lon>
+
+							<typ>S</typ>
+                			<stpid>6962</stpid>
+                			<stpnm>Cermak &amp; Riverside Drive</stpnm>
+                			<pdist>49628.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.850699061869</lat>
+						<lon>-87.79091656208</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.85063912365</lat>
+						<lon>-87.791082859039</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.850599164805</lat>
+						<lon>-87.793523669243</lon>
+
+							<typ>S</typ>
+                			<stpid>15862</stpid>
+                			<stpnm>Cermak &amp; Oak Park</stpnm>
+                			<pdist>50529.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.85054721827</lat>
+						<lon>-87.797160744667</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.850527238823</lat>
+						<lon>-87.798158526421</lon>
+
+							<typ>S</typ>
+                			<stpid>6964</stpid>
+                			<stpnm>Cermak &amp; Home</stpnm>
+                			<pdist>51727.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.850579185374</lat>
+						<lon>-87.798539400101</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.850539226492</lat>
+						<lon>-87.800813913345</lon>
+
+							<typ>S</typ>
+                			<stpid>6965</stpid>
+                			<stpnm>Cermak &amp; Wisconsin</stpnm>
+                			<pdist>52416.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>115</seq>
+						<lat>41.850463304548</lat>
+						<lon>-87.803447842598</lon>
+
+							<typ>S</typ>
+                			<stpid>6966</stpid>
+                			<stpnm>Cermak &amp; Harlem</stpnm>
+                			<pdist>52985.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>116</seq>
+						<lat>41.85042734149</lat>
+						<lon>-87.805550694466</lon>
+
+							<typ>S</typ>
+                			<stpid>6967</stpid>
+                			<stpnm>7250 W Cermak</stpnm>
+                			<pdist>53703.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>117</seq>
+						<lat>41.850403366107</lat>
+						<lon>-87.807176113129</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>118</seq>
+						<lat>41.850355415314</lat>
+						<lon>-87.810008525848</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>119</seq>
+						<lat>41.849428359587</lat>
+						<lon>-87.809981703758</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>120</seq>
+						<lat>41.848888902872</lat>
+						<lon>-87.810164093971</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>121</seq>
+						<lat>41.848501290424</lat>
+						<lon>-87.810153365135</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>122</seq>
+						<lat>41.848077711249</lat>
+						<lon>-87.80986905098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>123</seq>
+						<lat>41.848069719162</lat>
+						<lon>-87.809311151505</lon>
+
+							<typ>S</typ>
+                			<stpid>6968</stpid>
+                			<stpnm>North Riverside Mall</stpnm>
+                			<pdist>55930.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

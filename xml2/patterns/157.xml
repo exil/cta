@@ -1,0 +1,1917 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4711</pid>
+				<ln>36902.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.89843199757</lat>
+						<lon>-87.618187665939</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.898076628809</lat>
+						<lon>-87.617962360382</lon>
+
+							<typ>S</typ>
+                			<stpid>5000</stpid>
+                			<stpnm>Lake Shore &amp; Chestnut/Pearson</stpnm>
+                			<pdist>205.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.897729243952</lat>
+						<lon>-87.617737054825</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.897677335707</lat>
+						<lon>-87.620043754578</lon>
+
+							<typ>S</typ>
+                			<stpid>5001</stpid>
+                			<stpnm>Pearson &amp; Dewitt</stpnm>
+                			<pdist>982.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.897641399205</lat>
+						<lon>-87.621599435806</lon>
+
+							<typ>S</typ>
+                			<stpid>5002</stpid>
+                			<stpnm>Pearson &amp; Mies Van Der Rohe</stpnm>
+                			<pdist>1439.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.897629420367</lat>
+						<lon>-87.621878385544</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.896886727999</lat>
+						<lon>-87.621878385544</lon>
+
+							<typ>S</typ>
+                			<stpid>5003</stpid>
+                			<stpnm>Mies Van Der Rohe &amp; Chicago</stpnm>
+                			<pdist>1721.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.896742980092</lat>
+						<lon>-87.621873021126</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.896750966095</lat>
+						<lon>-87.620708942413</lon>
+
+							<typ>S</typ>
+                			<stpid>582</stpid>
+                			<stpnm>Chicago &amp; Fairbanks</stpnm>
+                			<pdist>2111.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.896750966095</lat>
+						<lon>-87.620387077332</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.895057911051</lat>
+						<lon>-87.620349526405</lon>
+
+							<typ>S</typ>
+                			<stpid>584</stpid>
+                			<stpnm>Fairbanks &amp; Huron</stpnm>
+                			<pdist>2717.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.894315188778</lat>
+						<lon>-87.620333433151</lon>
+
+							<typ>S</typ>
+                			<stpid>585</stpid>
+                			<stpnm>Fairbanks &amp; Erie</stpnm>
+                			<pdist>3016.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.893432695711</lat>
+						<lon>-87.620306611061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.89339276361</lat>
+						<lon>-87.622559666634</lon>
+
+							<typ>S</typ>
+                			<stpid>5005</stpid>
+                			<stpnm>Ontario &amp; St. Clair</stpnm>
+                			<pdist>3864.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.893388770398</lat>
+						<lon>-87.6240670681</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.89339276361</lat>
+						<lon>-87.624351382256</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.892717907321</lat>
+						<lon>-87.624335289001</lon>
+
+							<typ>S</typ>
+                			<stpid>1101</stpid>
+                			<stpnm>Michigan &amp; Ohio</stpnm>
+                			<pdist>4420.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.891727572758</lat>
+						<lon>-87.624308466911</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.891136559331</lat>
+						<lon>-87.624297738075</lon>
+
+							<typ>S</typ>
+                			<stpid>1102</stpid>
+                			<stpnm>Michigan &amp; Illinois</stpnm>
+                			<pdist>4985.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.890226068487</lat>
+						<lon>-87.624254822731</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.890138213421</lat>
+						<lon>-87.624249458313</lon>
+
+							<typ>S</typ>
+                			<stpid>1103</stpid>
+                			<stpnm>Michigan &amp; Hubbard (Wrigley Bldg.)</stpnm>
+                			<pdist>5460.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.889826726304</lat>
+						<lon>-87.624281644821</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.888285242058</lat>
+						<lon>-87.624619603157</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.886935414427</lat>
+						<lon>-87.624651789665</lon>
+
+							<typ>S</typ>
+                			<stpid>1104</stpid>
+                			<stpnm>Michigan &amp; South Water</stpnm>
+                			<pdist>6510.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.885106312544</lat>
+						<lon>-87.624635696411</lon>
+
+							<typ>S</typ>
+                			<stpid>1105</stpid>
+                			<stpnm>Michigan &amp; Lake/Randolph</stpnm>
+                			<pdist>7248.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.884527219157</lat>
+						<lon>-87.624619603157</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.883428924177</lat>
+						<lon>-87.624565958977</lon>
+
+							<typ>S</typ>
+                			<stpid>1106</stpid>
+                			<stpnm>Michigan &amp; Washington</stpnm>
+                			<pdist>7852.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.882138902692</lat>
+						<lon>-87.624533772469</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.882110945281</lat>
+						<lon>-87.625998258591</lon>
+
+							<typ>S</typ>
+                			<stpid>450</stpid>
+                			<stpnm>Madison &amp; Wabash</stpnm>
+                			<pdist>8700.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.882090975695</lat>
+						<lon>-87.627730965614</lon>
+
+							<typ>S</typ>
+                			<stpid>4729</stpid>
+                			<stpnm>Madison &amp; State</stpnm>
+                			<pdist>9354.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.882043048663</lat>
+						<lon>-87.628031373024</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.882031066899</lat>
+						<lon>-87.629372477531</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.882031066899</lat>
+						<lon>-87.630686759949</lon>
+
+							<typ>S</typ>
+                			<stpid>452</stpid>
+                			<stpnm>Madison &amp; Clark</stpnm>
+                			<pdist>9962.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.882023079055</lat>
+						<lon>-87.634098529816</lon>
+
+							<typ>S</typ>
+                			<stpid>453</stpid>
+                			<stpnm>Madison &amp; Wells</stpnm>
+                			<pdist>10988.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.881955182343</lat>
+						<lon>-87.637419104576</lon>
+
+							<typ>S</typ>
+                			<stpid>454</stpid>
+                			<stpnm>Madison &amp; N. Wacker</stpnm>
+                			<pdist>11829.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.881915243067</lat>
+						<lon>-87.639039158821</lon>
+
+							<typ>S</typ>
+                			<stpid>5006</stpid>
+                			<stpnm>Madison &amp; Canal</stpnm>
+                			<pdist>12255.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.881895273419</lat>
+						<lon>-87.641222476959</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.880689095141</lat>
+						<lon>-87.641211748123</lon>
+
+							<typ>S</typ>
+                			<stpid>5007</stpid>
+                			<stpnm>Clinton &amp; Monroe</stpnm>
+                			<pdist>13231.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.878716025961</lat>
+						<lon>-87.641120553017</lon>
+
+							<typ>S</typ>
+                			<stpid>4992</stpid>
+                			<stpnm>Clinton &amp; Quincy</stpnm>
+                			<pdist>13918.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.878156845479</lat>
+						<lon>-87.641104459763</lon>
+
+							<typ>S</typ>
+                			<stpid>6361</stpid>
+                			<stpnm>Clinton &amp; Jackson</stpnm>
+                			<pdist>14156.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.87677484987</lat>
+						<lon>-87.64105618</lon>
+
+							<typ>S</typ>
+                			<stpid>6362</stpid>
+                			<stpnm>Clinton &amp; Van Buren</stpnm>
+                			<pdist>14621.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.875916080319</lat>
+						<lon>-87.641040086746</lon>
+
+							<typ>S</typ>
+                			<stpid>6363</stpid>
+                			<stpnm>Clinton Blue Line Station</stpnm>
+                			<pdist>15117.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.874438170818</lat>
+						<lon>-87.640986442566</lon>
+
+							<typ>S</typ>
+                			<stpid>6364</stpid>
+                			<stpnm>Clinton &amp; Harrison</stpnm>
+                			<pdist>15422.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.871765863907</lat>
+						<lon>-87.640889883041</lon>
+
+							<typ>S</typ>
+                			<stpid>6621</stpid>
+                			<stpnm>Clinton &amp; Polk</stpnm>
+                			<pdist>16436.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.869780535171</lat>
+						<lon>-87.640820145607</lon>
+
+							<typ>S</typ>
+                			<stpid>6623</stpid>
+                			<stpnm>Clinton &amp; Taylor</stpnm>
+                			<pdist>17103.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.869748577665</lat>
+						<lon>-87.642627954483</lon>
+
+							<typ>S</typ>
+                			<stpid>17275</stpid>
+                			<stpnm>Taylor &amp; Jefferson</stpnm>
+                			<pdist>17606.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.869744582976</lat>
+						<lon>-87.643754482269</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.869700641376</lat>
+						<lon>-87.645170688629</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.869748577665</lat>
+						<lon>-87.645256519318</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.869696646684</lat>
+						<lon>-87.647370100021</lon>
+
+							<typ>S</typ>
+                			<stpid>17277</stpid>
+                			<stpnm>Taylor &amp; Halsted</stpnm>
+                			<pdist>18870.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.869676673218</lat>
+						<lon>-87.648539543152</lon>
+
+							<typ>S</typ>
+                			<stpid>6627</stpid>
+                			<stpnm>900 W Taylor</stpnm>
+                			<pdist>19281.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.869612758086</lat>
+						<lon>-87.6510232687</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.86954884289</lat>
+						<lon>-87.651312947273</lon>
+
+							<typ>S</typ>
+                			<stpid>6628</stpid>
+                			<stpnm>Taylor &amp; Morgan</stpnm>
+                			<pdist>19962.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.869504901156</lat>
+						<lon>-87.65401661396</lon>
+
+							<typ>S</typ>
+                			<stpid>6629</stpid>
+                			<stpnm>Taylor &amp; Aberdeen</stpnm>
+                			<pdist>20656.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.869448975269</lat>
+						<lon>-87.65684902668</lon>
+
+							<typ>S</typ>
+                			<stpid>15811</stpid>
+                			<stpnm>Taylor &amp; Racine</stpnm>
+                			<pdist>21498.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.869417017597</lat>
+						<lon>-87.659069895744</lon>
+
+							<typ>S</typ>
+                			<stpid>6631</stpid>
+                			<stpnm>Taylor &amp; Throop</stpnm>
+                			<pdist>22090.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.869373075773</lat>
+						<lon>-87.661403417587</lon>
+
+							<typ>S</typ>
+                			<stpid>6632</stpid>
+                			<stpnm>Taylor &amp; Loomis</stpnm>
+                			<pdist>22684.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.869333128633</lat>
+						<lon>-87.663999795914</lon>
+
+							<typ>S</typ>
+                			<stpid>6633</stpid>
+                			<stpnm>Taylor &amp; Laflin</stpnm>
+                			<pdist>23332.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.869297176186</lat>
+						<lon>-87.666639089584</lon>
+
+							<typ>S</typ>
+                			<stpid>17117</stpid>
+                			<stpnm>Taylor &amp; Ashland</stpnm>
+                			<pdist>24142.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.869241250117</lat>
+						<lon>-87.668929696083</lon>
+
+							<typ>S</typ>
+                			<stpid>6636</stpid>
+                			<stpnm>Taylor &amp; Paulina</stpnm>
+                			<pdist>24647.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.871610075752</lat>
+						<lon>-87.668977975845</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.871610075752</lat>
+						<lon>-87.669643163681</lon>
+
+							<typ>S</typ>
+                			<stpid>6637</stpid>
+                			<stpnm>Polk Pink Line Station</stpnm>
+                			<pdist>25707.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.871590102885</lat>
+						<lon>-87.671408057213</lon>
+
+							<typ>S</typ>
+                			<stpid>6638</stpid>
+                			<stpnm>Polk &amp; Wood</stpnm>
+                			<pdist>26114.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.871546162554</lat>
+						<lon>-87.673677206039</lon>
+
+							<typ>S</typ>
+                			<stpid>6639</stpid>
+                			<stpnm>Polk &amp; Wolcott</stpnm>
+                			<pdist>26772.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.87155015713</lat>
+						<lon>-87.674857378006</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.871522195088</lat>
+						<lon>-87.675924897194</lon>
+
+							<typ>S</typ>
+                			<stpid>6640</stpid>
+                			<stpnm>Polk &amp; Damen</stpnm>
+                			<pdist>27443.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.871486243872</lat>
+						<lon>-87.677979469299</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.871206622614</lat>
+						<lon>-87.678328156471</lon>
+
+							<typ>S</typ>
+                			<stpid>6641</stpid>
+                			<stpnm>Ogden &amp; Polk</stpnm>
+                			<pdist>28137.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.870607430085</lat>
+						<lon>-87.679046988487</lon>
+
+							<typ>S</typ>
+                			<stpid>6642</stpid>
+                			<stpnm>2102 W Ogden</stpnm>
+                			<pdist>28413.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.869077466348</lat>
+						<lon>-87.680849432945</lon>
+
+							<typ>S</typ>
+                			<stpid>6643</stpid>
+                			<stpnm>Ogden &amp; Taylor</stpnm>
+                			<pdist>29107.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.869041513757</lat>
+						<lon>-87.683440446854</lon>
+
+							<typ>S</typ>
+                			<stpid>6644</stpid>
+                			<stpnm>Taylor &amp; Oakley</stpnm>
+                			<pdist>29854.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.868997571674</lat>
+						<lon>-87.686208486557</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.867591409073</lat>
+						<lon>-87.686165571213</lon>
+
+							<typ>S</typ>
+                			<stpid>6646</stpid>
+                			<stpnm>Western &amp; Grenshaw</stpnm>
+                			<pdist>31036.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.866341016917</lat>
+						<lon>-87.686122655869</lon>
+
+							<typ>S</typ>
+                			<stpid>14554</stpid>
+                			<stpnm>Western &amp; Roosevelt</stpnm>
+                			<pdist>31531.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.865006705664</lat>
+						<lon>-87.686079740524</lon>
+
+							<typ>S</typ>
+                			<stpid>6648</stpid>
+                			<stpnm>Western &amp; Ogden</stpnm>
+                			<pdist>31948.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.864930800893</lat>
+						<lon>-87.686069011688</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.86414378296</lat>
+						<lon>-87.688123583794</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.863276853516</lat>
+						<lon>-87.690682411194</lon>
+
+							<typ>S</typ>
+                			<stpid>6650</stpid>
+                			<stpnm>Ogden &amp; Rockwell</stpnm>
+                			<pdist>33405.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.862250106205</lat>
+						<lon>-87.693616747856</lon>
+
+							<typ>S</typ>
+                			<stpid>17089</stpid>
+                			<stpnm>Ogden &amp; Washtenaw</stpnm>
+                			<pdist>34314.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.861499012128</lat>
+						<lon>-87.69578397274</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.860851785686</lat>
+						<lon>-87.695767879486</lon>
+
+							<typ>S</typ>
+                			<stpid>4246</stpid>
+                			<stpnm>California &amp; Ogden</stpnm>
+                			<pdist>35125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.859201728144</lat>
+						<lon>-87.695719599724</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.85919373744687</lat>
+						<lon>-87.69538164138794</lon>
+
+							<typ>S</typ>
+                			<stpid>6751</stpid>
+                			<stpnm>16th Street &amp; California</stpnm>
+                			<pdist>35744.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.859233690922</lat>
+						<lon>-87.693160772324</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.860156609249</lat>
+						<lon>-87.693155407906</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.86098762387771</lat>
+						<lon>-87.69319295883179</lon>
+
+							<typ>S</typ>
+                			<stpid>6827</stpid>
+                			<stpnm>Washtenaw &amp; 15th Street</stpnm>
+                			<pdist>36902.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4713</pid>
+				<ln>0.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.86098762387771</lat>
+						<lon>-87.69319295883179</lon>
+
+							<typ>S</typ>
+                			<stpid>6827</stpid>
+                			<stpnm>Washtenaw &amp; 15th Street</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.862022381805</lat>
+						<lon>-87.69322514534</lon>
+
+							<typ>S</typ>
+                			<stpid>16190</stpid>
+                			<stpnm>Washtenaw &amp; Ogden</stpnm>
+                			<pdist>332.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.862801435605</lat>
+						<lon>-87.69099354744</lon>
+
+							<typ>S</typ>
+                			<stpid>6678</stpid>
+                			<stpnm>Ogden &amp; Rockwell</stpnm>
+                			<pdist>1087.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.863916065304</lat>
+						<lon>-87.687978744507</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.864631175919</lat>
+						<lon>-87.685827612877</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.86543416769</lat>
+						<lon>-87.685859799385</lon>
+
+							<typ>S</typ>
+                			<stpid>6680</stpid>
+                			<stpnm>Western &amp; Ogden</stpnm>
+                			<pdist>2836.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.86646086387</lat>
+						<lon>-87.685897350311</lon>
+
+							<typ>S</typ>
+                			<stpid>6681</stpid>
+                			<stpnm>Western &amp; Roosevelt</stpnm>
+                			<pdist>3170.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.867687284778</lat>
+						<lon>-87.685934901237</lon>
+
+							<typ>S</typ>
+                			<stpid>15346</stpid>
+                			<stpnm>Western &amp; Grenshaw</stpnm>
+                			<pdist>3658.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.86843031662</lat>
+						<lon>-87.68595635891</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.868849766265</lat>
+						<lon>-87.685961723328</lon>
+
+							<typ>S</typ>
+                			<stpid>6683</stpid>
+                			<stpnm>Western &amp; Taylor </stpnm>
+                			<pdist>4051.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.868929661123</lat>
+						<lon>-87.685961723328</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.868969608515</lat>
+						<lon>-87.683773040771</lon>
+
+							<typ>S</typ>
+                			<stpid>6684</stpid>
+                			<stpnm>Taylor &amp; Oakley</stpnm>
+                			<pdist>4677.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.869021540087</lat>
+						<lon>-87.681123018265</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.869021540087</lat>
+						<lon>-87.680827975273</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.869405033466</lat>
+						<lon>-87.680355906487</lon>
+
+							<typ>S</typ>
+                			<stpid>6685</stpid>
+                			<stpnm>Ogden &amp; Taylor</stpnm>
+                			<pdist>5660.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.870607430085</lat>
+						<lon>-87.678939700127</lon>
+
+							<typ>S</typ>
+                			<stpid>6686</stpid>
+                			<stpnm>2102 W Ogden</stpnm>
+                			<pdist>6241.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.87136640634</lat>
+						<lon>-87.678022384644</lon>
+
+							<typ>S</typ>
+                			<stpid>6687</stpid>
+                			<stpnm>Ogden &amp; Polk</stpnm>
+                			<pdist>6640.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.871434314302</lat>
+						<lon>-87.677958011627</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.871446298053</lat>
+						<lon>-87.676568627357</lon>
+
+							<typ>S</typ>
+                			<stpid>6688</stpid>
+                			<stpnm>Polk &amp; Damen</stpnm>
+                			<pdist>7016.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.871494233033</lat>
+						<lon>-87.673881053925</lon>
+
+							<typ>S</typ>
+                			<stpid>6689</stpid>
+                			<stpnm>Polk &amp; Wolcott</stpnm>
+                			<pdist>7762.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.871530184244</lat>
+						<lon>-87.671595811844</lon>
+
+							<typ>S</typ>
+                			<stpid>6690</stpid>
+                			<stpnm>Polk &amp; Wood</stpnm>
+                			<pdist>8351.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.87155015713</lat>
+						<lon>-87.669739723206</lon>
+
+							<typ>S</typ>
+                			<stpid>6691</stpid>
+                			<stpnm>Polk Pink Line Station</stpnm>
+                			<pdist>8922.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.871546162554</lat>
+						<lon>-87.669063806534</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.869185323999</lat>
+						<lon>-87.669010162354</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.869217281787</lat>
+						<lon>-87.667615413666</lon>
+
+							<typ>S</typ>
+                			<stpid>6692</stpid>
+                			<stpnm>Taylor &amp; Marshfield</stpnm>
+                			<pdist>10272.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.869225271231</lat>
+						<lon>-87.666660547256</lon>
+
+							<typ>S</typ>
+                			<stpid>6693</stpid>
+                			<stpnm>Taylor &amp; Ashland</stpnm>
+                			<pdist>10540.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.869265218438</lat>
+						<lon>-87.664278745651</lon>
+
+							<typ>S</typ>
+                			<stpid>6694</stpid>
+                			<stpnm>Taylor &amp; Laflin</stpnm>
+                			<pdist>11217.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.869313155054</lat>
+						<lon>-87.661719918251</lon>
+
+							<typ>S</typ>
+                			<stpid>6695</stpid>
+                			<stpnm>Taylor &amp; Loomis</stpnm>
+                			<pdist>11880.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.86935709692</lat>
+						<lon>-87.659289836884</lon>
+
+							<typ>S</typ>
+                			<stpid>6696</stpid>
+                			<stpnm>Taylor &amp; Throop</stpnm>
+                			<pdist>12556.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.869389054621</lat>
+						<lon>-87.656854391098</lon>
+
+							<typ>S</typ>
+                			<stpid>6697</stpid>
+                			<stpnm>Taylor &amp; Racine</stpnm>
+                			<pdist>13220.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.869436991144</lat>
+						<lon>-87.654402852058</lon>
+
+							<typ>S</typ>
+                			<stpid>6698</stpid>
+                			<stpnm>Taylor &amp; Aberdeen</stpnm>
+                			<pdist>13909.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.869468948806</lat>
+						<lon>-87.653217315674</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.869480932925</lat>
+						<lon>-87.651345133781</lon>
+
+							<typ>S</typ>
+                			<stpid>6699</stpid>
+                			<stpnm>Taylor &amp; Morgan</stpnm>
+                			<pdist>14744.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.869425007017</lat>
+						<lon>-87.651189565659</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.869440985853</lat>
+						<lon>-87.650476098061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.869472943512</lat>
+						<lon>-87.648764848709</lon>
+
+							<typ>S</typ>
+                			<stpid>6700</stpid>
+                			<stpnm>900 W Taylor</stpnm>
+                			<pdist>15557.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.869512890565</lat>
+						<lon>-87.647364735603</lon>
+
+							<typ>S</typ>
+                			<stpid>6701</stpid>
+                			<stpnm>Taylor &amp; Halsted</stpnm>
+                			<pdist>15805.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.869584795196</lat>
+						<lon>-87.645240426064</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.869652705051</lat>
+						<lon>-87.645170688629</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.869680667912</lat>
+						<lon>-87.643759846687</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.869688657298</lat>
+						<lon>-87.642402648926</lon>
+
+							<typ>S</typ>
+                			<stpid>6703</stpid>
+                			<stpnm>Taylor &amp; Jefferson</stpnm>
+                			<pdist>17093.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.869732598906</lat>
+						<lon>-87.639248371124</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.869992253245</lat>
+						<lon>-87.63925909996</lon>
+
+							<typ>S</typ>
+                			<stpid>6705</stpid>
+                			<stpnm>Canal &amp; Taylor</stpnm>
+                			<pdist>18082.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.871897684356</lat>
+						<lon>-87.639323472977</lon>
+
+							<typ>S</typ>
+                			<stpid>6706</stpid>
+                			<stpnm>Canal &amp; Polk</stpnm>
+                			<pdist>18740.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.872085428163</lat>
+						<lon>-87.639334201813</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.873934874917</lat>
+						<lon>-87.639446854591</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.874653867848</lat>
+						<lon>-87.639484405518</lon>
+
+							<typ>S</typ>
+                			<stpid>14210</stpid>
+                			<stpnm>Canal &amp; Harrison</stpnm>
+                			<pdist>19820.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.876690970562</lat>
+						<lon>-87.639575600624</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.876942608157</lat>
+						<lon>-87.63953268528</lon>
+
+							<typ>S</typ>
+                			<stpid>6351</stpid>
+                			<stpnm>Canal &amp; Van Buren</stpnm>
+                			<pdist>20626.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.877102377543</lat>
+						<lon>-87.639516592026</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.877302088715</lat>
+						<lon>-87.639516592026</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.878033026282</lat>
+						<lon>-87.63950586319</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.879363071555</lat>
+						<lon>-87.63955950737</lon>
+
+							<typ>S</typ>
+                			<stpid>5009</stpid>
+                			<stpnm>Canal &amp; Adams</stpnm>
+                			<pdist>21378.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.880561286837</lat>
+						<lon>-87.639623880386</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.882134908777</lat>
+						<lon>-87.639656066895</lon>
+
+							<typ>S</typ>
+                			<stpid>5027</stpid>
+                			<stpnm>Canal &amp; Madison</stpnm>
+                			<pdist>22583.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.883161336722</lat>
+						<lon>-87.639736533165</lon>
+
+							<typ>S</typ>
+                			<stpid>5012</stpid>
+                			<stpnm>Canal &amp; Washington</stpnm>
+                			<pdist>22897.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.883181305974</lat>
+						<lon>-87.635498642921</lon>
+
+							<typ>S</typ>
+                			<stpid>445</stpid>
+                			<stpnm>Washington &amp; Franklin</stpnm>
+                			<pdist>24280.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.883161336722</lat>
+						<lon>-87.632617950439</lon>
+
+							<typ>S</typ>
+                			<stpid>446</stpid>
+                			<stpnm>Washington &amp; Lasalle</stpnm>
+                			<pdist>24871.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.883165330573</lat>
+						<lon>-87.629576325417</lon>
+
+							<typ>S</typ>
+                			<stpid>447</stpid>
+                			<stpnm>Washington &amp; Dearborn</stpnm>
+                			<pdist>25697.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.883181305974</lat>
+						<lon>-87.627489566803</lon>
+
+							<typ>S</typ>
+                			<stpid>448</stpid>
+                			<stpnm>Washington &amp; State</stpnm>
+                			<pdist>26320.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.883185299824</lat>
+						<lon>-87.625976800919</lon>
+
+							<typ>S</typ>
+                			<stpid>449</stpid>
+                			<stpnm>Washington &amp; Wabash</stpnm>
+                			<pdist>26818.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.883201275219</lat>
+						<lon>-87.624174356461</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.883704498146</lat>
+						<lon>-87.624233365059</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.884686969581</lat>
+						<lon>-87.624351382256</lon>
+
+							<typ>S</typ>
+                			<stpid>1119</stpid>
+                			<stpnm>Michigan &amp; Randolph</stpnm>
+                			<pdist>27822.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.885773261873</lat>
+						<lon>-87.6243942976</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.886699790703</lat>
+						<lon>-87.624415755272</lon>
+
+							<typ>S</typ>
+                			<stpid>1120</stpid>
+                			<stpnm>Michigan &amp; South Water</stpnm>
+                			<pdist>28351.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.888045629768</lat>
+						<lon>-87.624405026436</lon>
+
+							<typ>S</typ>
+                			<stpid>1121</stpid>
+                			<stpnm>Michigan &amp; E. Wacker</stpnm>
+                			<pdist>28826.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.88834514499</lat>
+						<lon>-87.624372839928</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.889738870688</lat>
+						<lon>-87.623991966248</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.890178147557</lat>
+						<lon>-87.623981237411</lon>
+
+							<typ>S</typ>
+                			<stpid>1122</stpid>
+                			<stpnm>Michigan &amp; Hubbard (Tribune Bldg.)</stpnm>
+                			<pdist>29663.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.890992798482</lat>
+						<lon>-87.624024152756</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.891675659635</lat>
+						<lon>-87.624045610428</lon>
+
+							<typ>S</typ>
+                			<stpid>1123</stpid>
+                			<stpnm>Michigan &amp; Grand</stpnm>
+                			<pdist>30271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.89249428473</lat>
+						<lon>-87.624072432518</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.89251824433</lat>
+						<lon>-87.622860074043</lon>
+
+							<typ>S</typ>
+                			<stpid>5013</stpid>
+                			<stpnm>Ohio &amp; St. Clair</stpnm>
+                			<pdist>30860.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.892586129817</lat>
+						<lon>-87.620183229446</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.894075599106</lat>
+						<lon>-87.620242238045</lon>
+
+							<typ>S</typ>
+                			<stpid>593</stpid>
+                			<stpnm>Fairbanks &amp; Erie</stpnm>
+                			<pdist>32082.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.894902179677</lat>
+						<lon>-87.620263695717</lon>
+
+							<typ>S</typ>
+                			<stpid>594</stpid>
+                			<stpnm>Fairbanks &amp; Huron</stpnm>
+                			<pdist>32383.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.896623189922</lat>
+						<lon>-87.620301246643</lon>
+
+							<typ>S</typ>
+                			<stpid>596</stpid>
+                			<stpnm>Fairbanks &amp; Chicago</stpnm>
+                			<pdist>33010.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.896822840081</lat>
+						<lon>-87.620311975479</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.896798882094</lat>
+						<lon>-87.621738910675</lon>
+
+							<typ>S</typ>
+                			<stpid>597</stpid>
+                			<stpnm>Chicago &amp; Mies Van Der Rohe</stpnm>
+                			<pdist>33458.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.896806868091</lat>
+						<lon>-87.621792554855</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.897697300421</lat>
+						<lon>-87.621792554855</lon>
+
+							<typ>S</typ>
+                			<stpid>16056</stpid>
+                			<stpnm>Mies Van Der Rohe &amp; Pearson/Chestnut</stpnm>
+                			<pdist>33845.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.898416025983</lat>
+						<lon>-87.621819376945</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.899098807774</lat>
+						<lon>-87.621824741364</lon>
+
+							<typ>S</typ>
+                			<stpid>5016</stpid>
+                			<stpnm>Mies Van Der Rohe &amp; Delaware</stpnm>
+                			<pdist>34312.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.89920262191</lat>
+						<lon>-87.621830105782</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.899234564687</lat>
+						<lon>-87.620349526405</lon>
+
+							<typ>S</typ>
+                			<stpid>5017</stpid>
+                			<stpnm>Delaware &amp; Dewitt</stpnm>
+                			<pdist>34746.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.899234564687</lat>
+						<lon>-87.620252966881</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.898611677652</lat>
+						<lon>-87.620236873627</lon>
+
+							<typ>S</typ>
+                			<stpid>5018</stpid>
+                			<stpnm>Dewitt &amp; Chestnut</stpnm>
+                			<pdist>35016.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.89842001888</lat>
+						<lon>-87.620242238045</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

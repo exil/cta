@@ -1,0 +1,2499 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>5560</pid>
+				<ln>57260.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.934002784137</lat>
+						<lon>-87.636501789093</lon>
+
+							<typ>S</typ>
+                			<stpid>9296</stpid>
+                			<stpnm>St. Joseph Hospital </stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.933176709791</lat>
+						<lon>-87.636126279831</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.932897358557</lat>
+						<lon>-87.636297941208</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.932969191849</lat>
+						<lon>-87.637145519257</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.932985154791</lat>
+						<lon>-87.637960910797</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.932957219639</lat>
+						<lon>-87.639291286469</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.933021071397</lat>
+						<lon>-87.63928592205</lon>
+
+							<typ>S</typ>
+                			<stpid>1148</stpid>
+                			<stpnm>Sheridan &amp; Diversey</stpnm>
+                			<pdist>1302.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.934497625482</lat>
+						<lon>-87.639291286469</lon>
+
+							<typ>S</typ>
+                			<stpid>1149</stpid>
+                			<stpnm>Sheridan &amp; Surf</stpnm>
+                			<pdist>1791.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.935790579905</lat>
+						<lon>-87.639344930649</lon>
+
+							<typ>S</typ>
+                			<stpid>1150</stpid>
+                			<stpnm>Sheridan &amp; Oakdale</stpnm>
+                			<pdist>2235.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.93676426902</lat>
+						<lon>-87.639382481575</lon>
+
+							<typ>S</typ>
+                			<stpid>1151</stpid>
+                			<stpnm>Sheridan &amp; Wellington</stpnm>
+                			<pdist>2604.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.937905541436</lat>
+						<lon>-87.639430761337</lon>
+
+							<typ>S</typ>
+                			<stpid>1152</stpid>
+                			<stpnm>Sheridan &amp; Barry</stpnm>
+                			<pdist>3065.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.938723573782</lat>
+						<lon>-87.639462947845</lon>
+
+							<typ>S</typ>
+                			<stpid>1153</stpid>
+                			<stpnm>Sheridan &amp; Briar</stpnm>
+                			<pdist>3270.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.940152112424</lat>
+						<lon>-87.639495134354</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.940148122138</lat>
+						<lon>-87.639908194542</lon>
+
+							<typ>S</typ>
+                			<stpid>4993</stpid>
+                			<stpnm>Belmont &amp; Sheridan</stpnm>
+                			<pdist>4075.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.940076296932</lat>
+						<lon>-87.641935944557</lon>
+
+							<typ>S</typ>
+                			<stpid>4994</stpid>
+                			<stpnm>Belmont &amp; Pine Grove</stpnm>
+                			<pdist>4536.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.940056345471</lat>
+						<lon>-87.64429628849</lon>
+
+							<typ>S</typ>
+                			<stpid>4996</stpid>
+                			<stpnm>Belmont &amp; Broadway</stpnm>
+                			<pdist>5084.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.940028413416</lat>
+						<lon>-87.6468282938</lon>
+
+							<typ>S</typ>
+                			<stpid>4997</stpid>
+                			<stpnm>Belmont &amp; Orchard</stpnm>
+                			<pdist>5776.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.940000481349</lat>
+						<lon>-87.648754119873</lon>
+
+							<typ>S</typ>
+                			<stpid>4998</stpid>
+                			<stpnm>Belmont &amp; Halsted</stpnm>
+                			<pdist>6444.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.939996491053</lat>
+						<lon>-87.651093006134</lon>
+
+							<typ>S</typ>
+                			<stpid>14915</stpid>
+                			<stpnm>Belmont &amp; Clark</stpnm>
+                			<pdist>6989.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.939952597777</lat>
+						<lon>-87.653431892395</lon>
+
+							<typ>S</typ>
+                			<stpid>17380</stpid>
+                			<stpnm>Belmont &amp; Sheffield (Red/Brown/Purple Line)</stpnm>
+                			<pdist>7595.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.939912694772</lat>
+						<lon>-87.656382322311</lon>
+
+							<typ>S</typ>
+                			<stpid>9300</stpid>
+                			<stpnm>Belmont &amp; Seminary</stpnm>
+                			<pdist>8388.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.939864811134</lat>
+						<lon>-87.659268379211</lon>
+
+							<typ>S</typ>
+                			<stpid>14916</stpid>
+                			<stpnm>Belmont &amp; Racine</stpnm>
+                			<pdist>9191.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.939836878995</lat>
+						<lon>-87.661263942719</lon>
+
+							<typ>S</typ>
+                			<stpid>9302</stpid>
+                			<stpnm>Belmont &amp; Lakewood</stpnm>
+                			<pdist>9723.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.939792985609</lat>
+						<lon>-87.664080262184</lon>
+
+							<typ>S</typ>
+                			<stpid>14917</stpid>
+                			<stpnm>Belmont &amp; Southport</stpnm>
+                			<pdist>10361.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.939761063128</lat>
+						<lon>-87.666027545929</lon>
+
+							<typ>S</typ>
+                			<stpid>9304</stpid>
+                			<stpnm>Belmont &amp; Greenview</stpnm>
+                			<pdist>11019.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.93971716969</lat>
+						<lon>-87.669138908386</lon>
+
+							<typ>S</typ>
+                			<stpid>14918</stpid>
+                			<stpnm>Belmont &amp; Ashland</stpnm>
+                			<pdist>11844.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.939689237486</lat>
+						<lon>-87.671467065811</lon>
+
+							<typ>S</typ>
+                			<stpid>15995</stpid>
+                			<stpnm>Belmont &amp; Paulina</stpnm>
+                			<pdist>12326.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.939665295588</lat>
+						<lon>-87.673290967941</lon>
+
+							<typ>S</typ>
+                			<stpid>9307</stpid>
+                			<stpnm>Belmont &amp; Ravenswood</stpnm>
+                			<pdist>13075.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.939649334317</lat>
+						<lon>-87.675758600235</lon>
+
+							<typ>S</typ>
+                			<stpid>9308</stpid>
+                			<stpnm>Belmont &amp; Wolcott</stpnm>
+                			<pdist>13647.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.939605440802</lat>
+						<lon>-87.678692936897</lon>
+
+							<typ>S</typ>
+                			<stpid>17329</stpid>
+                			<stpnm>Belmont &amp; Damen</stpnm>
+                			<pdist>14449.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.93957750855</lat>
+						<lon>-87.680661678314</lon>
+
+							<typ>S</typ>
+                			<stpid>9310</stpid>
+                			<stpnm>Belmont &amp; Hoyne</stpnm>
+                			<pdist>14956.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.939553566609</lat>
+						<lon>-87.683016657829</lon>
+
+							<typ>S</typ>
+                			<stpid>9311</stpid>
+                			<stpnm>Belmont &amp; Leavitt</stpnm>
+                			<pdist>15561.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.939521644008</lat>
+						<lon>-87.685500383377</lon>
+
+							<typ>S</typ>
+                			<stpid>9312</stpid>
+                			<stpnm>Belmont &amp; Oakley</stpnm>
+                			<pdist>16165.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.939465779417</lat>
+						<lon>-87.688493728638</lon>
+
+							<typ>S</typ>
+                			<stpid>7937</stpid>
+                			<stpnm>Belmont &amp; Western/Clybourn</stpnm>
+                			<pdist>17003.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.939473760076</lat>
+						<lon>-87.690441012383</lon>
+
+							<typ>S</typ>
+                			<stpid>7938</stpid>
+                			<stpnm>Belmont &amp; Campbell </stpnm>
+                			<pdist>17466.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.939457798757</lat>
+						<lon>-87.693058848381</lon>
+
+							<typ>S</typ>
+                			<stpid>7939</stpid>
+                			<stpnm>Belmont &amp; Rockwell</stpnm>
+                			<pdist>18217.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.939453808427</lat>
+						<lon>-87.695059776306</lon>
+
+							<typ>S</typ>
+                			<stpid>7940</stpid>
+                			<stpnm>Belmont &amp; Washtenaw</stpnm>
+                			<pdist>18722.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.939453808427</lat>
+						<lon>-87.697640061378</lon>
+
+							<typ>S</typ>
+                			<stpid>7941</stpid>
+                			<stpnm>Belmont &amp; California</stpnm>
+                			<pdist>19434.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.939437847104</lat>
+						<lon>-87.700091600418</lon>
+
+							<typ>S</typ>
+                			<stpid>7942</stpid>
+                			<stpnm>Belmont &amp; Francisco</stpnm>
+                			<pdist>20102.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.939391666667</lat>
+						<lon>-87.703108333332</lon>
+
+							<typ>S</typ>
+                			<stpid>17479</stpid>
+                			<stpnm>Belmont &amp; Sacramento</stpnm>
+                			<pdist>20920.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.939389963109</lat>
+						<lon>-87.705059051514</lon>
+
+							<typ>S</typ>
+                			<stpid>7944</stpid>
+                			<stpnm>Belmont &amp; Albany </stpnm>
+                			<pdist>21428.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.939389963109</lat>
+						<lon>-87.707118988037</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.939413905111</lat>
+						<lon>-87.707397937775</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.939409914778</lat>
+						<lon>-87.707762718201</lon>
+
+							<typ>S</typ>
+                			<stpid>7945</stpid>
+                			<stpnm>Belmont &amp; Kedzie</stpnm>
+                			<pdist>22288.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.939346069415</lat>
+						<lon>-87.708857059479</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.939346069415</lat>
+						<lon>-87.709929943085</lon>
+
+							<typ>S</typ>
+                			<stpid>7946</stpid>
+                			<stpnm>Belmont &amp; Spaulding</stpnm>
+                			<pdist>22757.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.939310156371</lat>
+						<lon>-87.712199091911</lon>
+
+							<typ>S</typ>
+                			<stpid>7947</stpid>
+                			<stpnm>Belmont &amp; Kimball (Blue Line)</stpnm>
+                			<pdist>23453.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.939302175692</lat>
+						<lon>-87.713706493378</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.939290204671</lat>
+						<lon>-87.714886665344</lon>
+
+							<typ>S</typ>
+                			<stpid>9313</stpid>
+                			<stpnm>Belmont &amp; St. Louis</stpnm>
+                			<pdist>24228.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.93926227228</lat>
+						<lon>-87.716163396835</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.939258281938</lat>
+						<lon>-87.717284560204</lon>
+
+							<typ>S</typ>
+                			<stpid>9314</stpid>
+                			<stpnm>Belmont &amp; Central Park</stpnm>
+                			<pdist>24880.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.939254291595</lat>
+						<lon>-87.718598842621</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.939222368844</lat>
+						<lon>-87.719650268555</lon>
+
+							<typ>S</typ>
+                			<stpid>9315</stpid>
+                			<stpnm>Belmont &amp; Lawndale</stpnm>
+                			<pdist>25549.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.939218378499</lat>
+						<lon>-87.721104025841</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.939194436423</lat>
+						<lon>-87.722139358521</lon>
+
+							<typ>S</typ>
+                			<stpid>9316</stpid>
+                			<stpnm>Belmont &amp; Hamlin</stpnm>
+                			<pdist>26218.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.939182465382</lat>
+						<lon>-87.724118828773</lon>
+
+							<typ>S</typ>
+                			<stpid>9317</stpid>
+                			<stpnm>Belmont &amp; Milwaukee</stpnm>
+                			<pdist>26651.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.939134581196</lat>
+						<lon>-87.727385759354</lon>
+
+							<typ>S</typ>
+                			<stpid>14637</stpid>
+                			<stpnm>Belmont &amp; Pulaski</stpnm>
+                			<pdist>27614.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.939090687327</lat>
+						<lon>-87.729912400246</lon>
+
+							<typ>S</typ>
+                			<stpid>17388</stpid>
+                			<stpnm>Belmont &amp; Karlov</stpnm>
+                			<pdist>28215.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.939058764494</lat>
+						<lon>-87.732283473015</lon>
+
+							<typ>S</typ>
+                			<stpid>14638</stpid>
+                			<stpnm>Belmont &amp; Keeler</stpnm>
+                			<pdist>28807.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.939030832002</lat>
+						<lon>-87.734370231628</lon>
+
+							<typ>S</typ>
+                			<stpid>9321</stpid>
+                			<stpnm>Belmont &amp; Kildare</stpnm>
+                			<pdist>29347.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.939002899497</lat>
+						<lon>-87.736875414848</lon>
+
+							<typ>S</typ>
+                			<stpid>9322</stpid>
+                			<stpnm>Belmont &amp; Kostner</stpnm>
+                			<pdist>30157.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.938959005537</lat>
+						<lon>-87.739300131798</lon>
+
+							<typ>S</typ>
+                			<stpid>9323</stpid>
+                			<stpnm>Belmont &amp; Kilbourn</stpnm>
+                			<pdist>30685.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.938931073002</lat>
+						<lon>-87.742132544518</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.938911121183</lat>
+						<lon>-87.743720412254</lon>
+
+							<typ>S</typ>
+                			<stpid>9324</stpid>
+                			<stpnm>Belmont &amp; Kilpatrick</stpnm>
+                			<pdist>31892.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.938871217527</lat>
+						<lon>-87.746681571007</lon>
+
+							<typ>S</typ>
+                			<stpid>14639</stpid>
+                			<stpnm>Belmont &amp; Cicero</stpnm>
+                			<pdist>32865.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.938835304215</lat>
+						<lon>-87.749154567719</lon>
+
+							<typ>S</typ>
+                			<stpid>9326</stpid>
+                			<stpnm>Belmont &amp; Lamon</stpnm>
+                			<pdist>33351.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.938787419768</lat>
+						<lon>-87.751595377922</lon>
+
+							<typ>S</typ>
+                			<stpid>9327</stpid>
+                			<stpnm>Belmont &amp; Lavergne</stpnm>
+                			<pdist>34002.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.93877544865</lat>
+						<lon>-87.754111289978</lon>
+
+							<typ>S</typ>
+                			<stpid>9328</stpid>
+                			<stpnm>Belmont &amp; Leclaire</stpnm>
+                			<pdist>34650.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.93874352566</lat>
+						<lon>-87.756525278091</lon>
+
+							<typ>S</typ>
+                			<stpid>9329</stpid>
+                			<stpnm>Belmont &amp; Laramie</stpnm>
+                			<pdist>35322.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.938719583406</lat>
+						<lon>-87.758949995041</lon>
+
+							<typ>S</typ>
+                			<stpid>9330</stpid>
+                			<stpnm>Belmont &amp; Lockwood</stpnm>
+                			<pdist>35994.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.938683670009</lat>
+						<lon>-87.761439085007</lon>
+
+							<typ>S</typ>
+                			<stpid>9331</stpid>
+                			<stpnm>Belmont &amp; Long</stpnm>
+                			<pdist>36659.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.938655737353</lat>
+						<lon>-87.763874530792</lon>
+
+							<typ>S</typ>
+                			<stpid>9332</stpid>
+                			<stpnm>Belmont &amp; Linder</stpnm>
+                			<pdist>37334.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.938611843154</lat>
+						<lon>-87.766948342323</lon>
+
+							<typ>S</typ>
+                			<stpid>17019</stpid>
+                			<stpnm>Belmont &amp; Central</stpnm>
+                			<pdist>38148.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.938595881619</lat>
+						<lon>-87.767753005028</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.938591891235</lat>
+						<lon>-87.768820524216</lon>
+
+							<typ>S</typ>
+                			<stpid>9334</stpid>
+                			<stpnm>Belmont &amp; Major</stpnm>
+                			<pdist>38639.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.938563958539</lat>
+						<lon>-87.770150899887</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.938555977766</lat>
+						<lon>-87.771159410477</lon>
+
+							<typ>S</typ>
+                			<stpid>9335</stpid>
+                			<stpnm>Belmont &amp; Menard</stpnm>
+                			<pdist>39314.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.938500112329</lat>
+						<lon>-87.77504324913</lon>
+
+							<typ>S</typ>
+                			<stpid>9337</stpid>
+                			<stpnm>Belmont &amp; Mason</stpnm>
+                			<pdist>40372.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.938480160376</lat>
+						<lon>-87.776309251785</lon>
+
+							<typ>S</typ>
+                			<stpid>9338</stpid>
+                			<stpnm>Belmont &amp; Austin</stpnm>
+                			<pdist>40632.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.938448237237</lat>
+						<lon>-87.778476476669</lon>
+
+							<typ>S</typ>
+                			<stpid>9339</stpid>
+                			<stpnm>Belmont &amp; Meade</stpnm>
+                			<pdist>41296.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.938408333291</lat>
+						<lon>-87.780911922455</lon>
+
+							<typ>S</typ>
+                			<stpid>9340</stpid>
+                			<stpnm>Belmont &amp; Melvina</stpnm>
+                			<pdist>41954.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.938396362103</lat>
+						<lon>-87.783304452896</lon>
+
+							<typ>S</typ>
+                			<stpid>9341</stpid>
+                			<stpnm>Belmont &amp; Mobile</stpnm>
+                			<pdist>42617.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.938344486926</lat>
+						<lon>-87.786490917206</lon>
+
+							<typ>S</typ>
+                			<stpid>17482</stpid>
+                			<stpnm>Belmont &amp; Narragansett</stpnm>
+                			<pdist>43478.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.93831256372</lat>
+						<lon>-87.788309454918</lon>
+
+							<typ>S</typ>
+                			<stpid>9343</stpid>
+                			<stpnm>Belmont &amp; Natchez</stpnm>
+                			<pdist>43987.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.938280640497</lat>
+						<lon>-87.789591550827</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.938276650093</lat>
+						<lon>-87.790750265121</lon>
+
+							<typ>S</typ>
+                			<stpid>9344</stpid>
+                			<stpnm>Belmont &amp; Nashville</stpnm>
+                			<pdist>44726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.93826467888</lat>
+						<lon>-87.792021632195</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.938240736447</lat>
+						<lon>-87.793142795563</lon>
+
+							<typ>S</typ>
+                			<stpid>9345</stpid>
+                			<stpnm>Belmont &amp; Normandy</stpnm>
+                			<pdist>45327.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.93820482278</lat>
+						<lon>-87.79448390007</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.938192851553</lat>
+						<lon>-87.795594334602</lon>
+
+							<typ>S</typ>
+                			<stpid>9346</stpid>
+                			<stpnm>Belmont &amp; Oak Park</stpnm>
+                			<pdist>45987.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.938180880324</lat>
+						<lon>-87.796913981438</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.938152947447</lat>
+						<lon>-87.797960042953</lon>
+
+							<typ>S</typ>
+                			<stpid>9347</stpid>
+                			<stpnm>Belmont &amp; New England</stpnm>
+                			<pdist>46650.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.938109052902</lat>
+						<lon>-87.80164539814</lon>
+
+							<typ>S</typ>
+                			<stpid>17483</stpid>
+                			<stpnm>Belmont &amp; Sayre</stpnm>
+                			<pdist>47653.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.938073139161</lat>
+						<lon>-87.804145216942</lon>
+
+							<typ>S</typ>
+                			<stpid>9349</stpid>
+                			<stpnm>Belmont &amp; Nottingham</stpnm>
+                			<pdist>48329.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.938025254142</lat>
+						<lon>-87.806537747383</lon>
+
+							<typ>S</typ>
+                			<stpid>9350</stpid>
+                			<stpnm>Belmont &amp; Harlem</stpnm>
+                			<pdist>48998.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.938025254142</lat>
+						<lon>-87.807948589325</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.938017273302</lat>
+						<lon>-87.809026837349</lon>
+
+							<typ>S</typ>
+                			<stpid>9351</stpid>
+                			<stpnm>Belmont &amp; Octavia</stpnm>
+                			<pdist>49674.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.938021263722</lat>
+						<lon>-87.811167240143</lon>
+
+							<typ>S</typ>
+                			<stpid>9352</stpid>
+                			<stpnm>Belmont &amp; Oketo</stpnm>
+                			<pdist>50257.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.938013282881</lat>
+						<lon>-87.812851667404</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.93800530204</lat>
+						<lon>-87.813892364502</lon>
+
+							<typ>S</typ>
+                			<stpid>9353</stpid>
+                			<stpnm>Belmont &amp; Olcott</stpnm>
+                			<pdist>51016.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.937965397817</lat>
+						<lon>-87.816333174706</lon>
+
+							<typ>S</typ>
+                			<stpid>9354</stpid>
+                			<stpnm>Belmont &amp; Oriole (76th Avenue)</stpnm>
+                			<pdist>51688.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.937929483995</lat>
+						<lon>-87.818800806999</lon>
+
+							<typ>S</typ>
+                			<stpid>17367</stpid>
+                			<stpnm>Belmont &amp; Overhill (77th Avenue)</stpnm>
+                			<pdist>52519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.93786563715</lat>
+						<lon>-87.821220159531</lon>
+
+							<typ>S</typ>
+                			<stpid>9356</stpid>
+                			<stpnm>Belmont &amp; Ozanam (78th Avenue)</stpnm>
+                			<pdist>53075.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.93782573284</lat>
+						<lon>-87.823660969734</lon>
+
+							<typ>S</typ>
+                			<stpid>9357</stpid>
+                			<stpnm>Belmont &amp; Orange (79th Avenue)</stpnm>
+                			<pdist>53747.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>105</seq>
+						<lat>41.937833713704</lat>
+						<lon>-87.825055718422</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>106</seq>
+						<lat>41.937813761542</lat>
+						<lon>-87.8261500597</lon>
+
+							<typ>S</typ>
+                			<stpid>9358</stpid>
+                			<stpnm>Belmont &amp; Pacific (80th Avenue)</stpnm>
+                			<pdist>54405.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>107</seq>
+						<lat>41.937757895455</lat>
+						<lon>-87.828617691994</lon>
+
+							<typ>S</typ>
+                			<stpid>9359</stpid>
+                			<stpnm>Belmont &amp; Panama</stpnm>
+                			<pdist>55097.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>108</seq>
+						<lat>41.937690057998</lat>
+						<lon>-87.83110678196</lon>
+
+							<typ>S</typ>
+                			<stpid>9360</stpid>
+                			<stpnm>Belmont &amp; Pioneer</stpnm>
+                			<pdist>55769.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>109</seq>
+						<lat>41.937674096233</lat>
+						<lon>-87.832426428795</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>110</seq>
+						<lat>41.937638182247</lat>
+						<lon>-87.833515405655</lon>
+
+							<typ>S</typ>
+                			<stpid>9361</stpid>
+                			<stpnm>Belmont &amp; Plainfield</stpnm>
+                			<pdist>56428.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>111</seq>
+						<lat>41.937626210914</lat>
+						<lon>-87.834684848785</lon>
+
+							<typ>S</typ>
+                			<stpid>9362</stpid>
+                			<stpnm>Belmont &amp; Pontiac</stpnm>
+                			<pdist>56751.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>112</seq>
+						<lat>41.937602268241</lat>
+						<lon>-87.835698723793</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>113</seq>
+						<lat>41.937271060341</lat>
+						<lon>-87.835682630539</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>114</seq>
+						<lat>41.937275050808</lat>
+						<lon>-87.835532426834</lon>
+
+							<typ>S</typ>
+                			<stpid>9224</stpid>
+                			<stpnm>Belmont &amp; Cumberland Terminal</stpnm>
+                			<pdist>57260.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5564</pid>
+				<ln>55859.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.937275050808</lat>
+						<lon>-87.835532426834</lon>
+
+							<typ>S</typ>
+                			<stpid>9224</stpid>
+                			<stpnm>Belmont &amp; Cumberland Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.937283031741</lat>
+						<lon>-87.835360765457</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.937542411519</lat>
+						<lon>-87.835366129875</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.937578325559</lat>
+						<lon>-87.833424210548</lon>
+
+							<typ>S</typ>
+                			<stpid>9225</stpid>
+                			<stpnm>Belmont &amp; Plainfield</stpnm>
+                			<pdist>564.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.937630201358</lat>
+						<lon>-87.830967307091</lon>
+
+							<typ>S</typ>
+                			<stpid>9226</stpid>
+                			<stpnm>Belmont &amp; Pioneer</stpnm>
+                			<pdist>1141.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.937694048439</lat>
+						<lon>-87.828558683395</lon>
+
+							<typ>S</typ>
+                			<stpid>9227</stpid>
+                			<stpnm>Belmont &amp; Panama</stpnm>
+                			<pdist>1803.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.937737943269</lat>
+						<lon>-87.82642364502</lon>
+
+							<typ>S</typ>
+                			<stpid>9228</stpid>
+                			<stpnm>Belmont &amp; Pacific (80th Avenue)</stpnm>
+                			<pdist>2359.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.937765876328</lat>
+						<lon>-87.823961377144</lon>
+
+							<typ>S</typ>
+                			<stpid>9229</stpid>
+                			<stpnm>Belmont &amp; Orange (79th Avenue)</stpnm>
+                			<pdist>3068.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.937797799808</lat>
+						<lon>-87.821488380432</lon>
+
+							<typ>S</typ>
+                			<stpid>9230</stpid>
+                			<stpnm>Belmont &amp; Ozanam (78th Avenue)</stpnm>
+                			<pdist>3749.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.93785366586</lat>
+						<lon>-87.819047570229</lon>
+
+							<typ>S</typ>
+                			<stpid>9231</stpid>
+                			<stpnm>Belmont &amp; Overhill (77th Avenue)</stpnm>
+                			<pdist>4405.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.93789756058</lat>
+						<lon>-87.816596031189</lon>
+
+							<typ>S</typ>
+                			<stpid>9232</stpid>
+                			<stpnm>Belmont &amp; Oriole (76th Avenue)</stpnm>
+                			<pdist>5072.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.937941455271</lat>
+						<lon>-87.814182043076</lon>
+
+							<typ>S</typ>
+                			<stpid>9233</stpid>
+                			<stpnm>Belmont &amp; Olcott</stpnm>
+                			<pdist>5745.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.937961407393</lat>
+						<lon>-87.811757326126</lon>
+
+							<typ>S</typ>
+                			<stpid>9234</stpid>
+                			<stpnm>Belmont &amp; Oketo</stpnm>
+                			<pdist>6379.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.937965397817</lat>
+						<lon>-87.809010744095</lon>
+
+							<typ>S</typ>
+                			<stpid>17655</stpid>
+                			<stpnm>Belmont &amp; Octavia</stpnm>
+                			<pdist>7155.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.937957416969</lat>
+						<lon>-87.806950807571</lon>
+
+							<typ>S</typ>
+                			<stpid>9236</stpid>
+                			<stpnm>Belmont &amp; Harlem</stpnm>
+                			<pdist>7688.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.937997321197</lat>
+						<lon>-87.804332971573</lon>
+
+							<typ>S</typ>
+                			<stpid>9237</stpid>
+                			<stpnm>Belmont &amp; Nottingham</stpnm>
+                			<pdist>8475.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.938057177492</lat>
+						<lon>-87.800942659378</lon>
+
+							<typ>S</typ>
+                			<stpid>17480</stpid>
+                			<stpnm>Belmont &amp; Sayre</stpnm>
+                			<pdist>9360.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.938085110411</lat>
+						<lon>-87.798281908035</lon>
+
+							<typ>S</typ>
+                			<stpid>9239</stpid>
+                			<stpnm>Belmont &amp; New England</stpnm>
+                			<pdist>10052.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.938125014559</lat>
+						<lon>-87.795814275742</lon>
+
+							<typ>S</typ>
+                			<stpid>9240</stpid>
+                			<stpnm>Belmont &amp; Oak Park</stpnm>
+                			<pdist>10733.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.938168909092</lat>
+						<lon>-87.793346643448</lon>
+
+							<typ>S</typ>
+                			<stpid>9241</stpid>
+                			<stpnm>Belmont &amp; Normandy</stpnm>
+                			<pdist>11398.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.938216794004</lat>
+						<lon>-87.79080927372</lon>
+
+							<typ>S</typ>
+                			<stpid>9242</stpid>
+                			<stpnm>Belmont &amp; Nashville</stpnm>
+                			<pdist>12079.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.938216794004</lat>
+						<lon>-87.789575457573</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.938244726853</lat>
+						<lon>-87.788599133492</lon>
+
+							<typ>S</typ>
+                			<stpid>9243</stpid>
+                			<stpnm>Belmont &amp; Natchez</stpnm>
+                			<pdist>12714.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.938295</lat>
+						<lon>-87.785633333335</lon>
+
+							<typ>S</typ>
+                			<stpid>17481</stpid>
+                			<stpnm>Belmont &amp; Narragansett</stpnm>
+                			<pdist>13519.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.938328525325</lat>
+						<lon>-87.783599495888</lon>
+
+							<typ>S</typ>
+                			<stpid>9245</stpid>
+                			<stpnm>Belmont &amp; Mobile</stpnm>
+                			<pdist>14058.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.938340496526</lat>
+						<lon>-87.781158685684</lon>
+
+							<typ>S</typ>
+                			<stpid>9246</stpid>
+                			<stpnm>Belmont &amp; Melvina</stpnm>
+                			<pdist>14717.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.938380400514</lat>
+						<lon>-87.778750061989</lon>
+
+							<typ>S</typ>
+                			<stpid>9247</stpid>
+                			<stpnm>Belmont &amp; Meade</stpnm>
+                			<pdist>15368.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.938428285267</lat>
+						<lon>-87.775890827179</lon>
+
+							<typ>S</typ>
+                			<stpid>17457</stpid>
+                			<stpnm>Belmont &amp; Austin</stpnm>
+                			<pdist>16148.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.93845222763</lat>
+						<lon>-87.774442434311</lon>
+
+							<typ>S</typ>
+                			<stpid>17468</stpid>
+                			<stpnm>Belmont &amp; Mason</stpnm>
+                			<pdist>16557.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.938492131549</lat>
+						<lon>-87.771137952805</lon>
+
+							<typ>S</typ>
+                			<stpid>15480</stpid>
+                			<stpnm>Belmont &amp; Menard</stpnm>
+                			<pdist>17501.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.938524054665</lat>
+						<lon>-87.769051194191</lon>
+
+							<typ>S</typ>
+                			<stpid>9252</stpid>
+                			<stpnm>Belmont &amp; Major</stpnm>
+                			<pdist>18014.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.938567948925</lat>
+						<lon>-87.766224145889</lon>
+
+							<typ>S</typ>
+                			<stpid>17017</stpid>
+                			<stpnm>Belmont &amp; Central</stpnm>
+                			<pdist>18813.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.938587900851</lat>
+						<lon>-87.76415348053</lon>
+
+							<typ>S</typ>
+                			<stpid>9254</stpid>
+                			<stpnm>Belmont &amp; Linder</stpnm>
+                			<pdist>19334.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.938619823919</lat>
+						<lon>-87.761734127998</lon>
+
+							<typ>S</typ>
+                			<stpid>9255</stpid>
+                			<stpnm>Belmont &amp; Long</stpnm>
+                			<pdist>19994.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.938651746972</lat>
+						<lon>-87.759277224541</lon>
+
+							<typ>S</typ>
+                			<stpid>9256</stpid>
+                			<stpnm>Belmont &amp; Lockwood</stpnm>
+                			<pdist>20665.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.938671698872</lat>
+						<lon>-87.75633752346</lon>
+
+							<typ>S</typ>
+                			<stpid>17459</stpid>
+                			<stpnm>Belmont &amp; Laramie</stpnm>
+                			<pdist>21468.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.938699631521</lat>
+						<lon>-87.754358053207</lon>
+
+							<typ>S</typ>
+                			<stpid>9258</stpid>
+                			<stpnm>Belmont &amp; Leclaire</stpnm>
+                			<pdist>22008.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.938731554534</lat>
+						<lon>-87.751509547234</lon>
+
+							<typ>S</typ>
+                			<stpid>15332</stpid>
+                			<stpnm>Belmont &amp; Lavergne</stpnm>
+                			<pdist>22860.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.938759487157</lat>
+						<lon>-87.749058008194</lon>
+
+							<typ>S</typ>
+                			<stpid>17469</stpid>
+                			<stpnm>Belmont &amp; Lamon</stpnm>
+                			<pdist>23463.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.938787419768</lat>
+						<lon>-87.747057080269</lon>
+
+							<typ>S</typ>
+                			<stpid>14634</stpid>
+                			<stpnm>Belmont &amp; Cicero</stpnm>
+                			<pdist>24187.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.93885126569</lat>
+						<lon>-87.743006944656</lon>
+
+							<typ>S</typ>
+                			<stpid>9263</stpid>
+                			<stpnm>Belmont &amp; Knox</stpnm>
+                			<pdist>25014.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.938891169358</lat>
+						<lon>-87.739643454552</lon>
+
+							<typ>S</typ>
+                			<stpid>9264</stpid>
+                			<stpnm>Belmont &amp; Kilbourn</stpnm>
+                			<pdist>25894.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.938923092275</lat>
+						<lon>-87.737202644348</lon>
+
+							<typ>S</typ>
+                			<stpid>9265</stpid>
+                			<stpnm>Belmont &amp; Kostner</stpnm>
+                			<pdist>26577.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.93897097662</lat>
+						<lon>-87.734182476997</lon>
+
+							<typ>S</typ>
+                			<stpid>17470</stpid>
+                			<stpnm>Belmont &amp; Kenosha</stpnm>
+                			<pdist>27391.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.93899491878</lat>
+						<lon>-87.732181549072</lon>
+
+							<typ>S</typ>
+                			<stpid>9267</stpid>
+                			<stpnm>Belmont &amp; Keeler</stpnm>
+                			<pdist>27935.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.939034822358</lat>
+						<lon>-87.729735374451</lon>
+
+							<typ>S</typ>
+                			<stpid>9268</stpid>
+                			<stpnm>Belmont &amp; Karlov</stpnm>
+                			<pdist>28585.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.939062754849</lat>
+						<lon>-87.727434039116</lon>
+
+							<typ>S</typ>
+                			<stpid>9269</stpid>
+                			<stpnm>Belmont &amp; Pulaski</stpnm>
+                			<pdist>29245.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.939114629441</lat>
+						<lon>-87.724016904831</lon>
+
+							<typ>S</typ>
+                			<stpid>9270</stpid>
+                			<stpnm>Belmont &amp; Milwaukee</stpnm>
+                			<pdist>30154.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.939138571546</lat>
+						<lon>-87.721597552299</lon>
+
+							<typ>S</typ>
+                			<stpid>17215</stpid>
+                			<stpnm>Belmont &amp; Hamlin</stpnm>
+                			<pdist>30821.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.939158523294</lat>
+						<lon>-87.719843387604</lon>
+
+							<typ>S</typ>
+                			<stpid>9272</stpid>
+                			<stpnm>Belmont &amp; Lawndale</stpnm>
+                			<pdist>31309.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.939190446077</lat>
+						<lon>-87.717509865761</lon>
+
+							<typ>S</typ>
+                			<stpid>9273</stpid>
+                			<stpnm>Belmont &amp; Central Park</stpnm>
+                			<pdist>31947.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.939194436423</lat>
+						<lon>-87.716168761253</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.939214388154</lat>
+						<lon>-87.7151709795</lon>
+
+							<typ>S</typ>
+                			<stpid>9274</stpid>
+                			<stpnm>Belmont &amp; St. Louis</stpnm>
+                			<pdist>32615.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.939238330221</lat>
+						<lon>-87.713663578033</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.939250301252</lat>
+						<lon>-87.712349295616</lon>
+
+							<typ>S</typ>
+                			<stpid>7858</stpid>
+                			<stpnm>Belmont &amp; Kimball (Blue Line)</stpnm>
+                			<pdist>33419.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.939258281938</lat>
+						<lon>-87.711866497993</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.939278233648</lat>
+						<lon>-87.709962129593</lon>
+
+							<typ>S</typ>
+                			<stpid>7859</stpid>
+                			<stpnm>Belmont &amp; Spaulding</stpnm>
+                			<pdist>33951.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.93928621433</lat>
+						<lon>-87.708765864372</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.939350059752</lat>
+						<lon>-87.707827091217</lon>
+
+							<typ>S</typ>
+                			<stpid>7860</stpid>
+                			<stpnm>Belmont &amp; Kedzie</stpnm>
+                			<pdist>34589.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.939350059752</lat>
+						<lon>-87.707456946373</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.939330108065</lat>
+						<lon>-87.707102894783</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.939326117726</lat>
+						<lon>-87.706657648087</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.939318137049</lat>
+						<lon>-87.706346511841</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.939322127388</lat>
+						<lon>-87.704983949661</lon>
+
+							<typ>S</typ>
+                			<stpid>7861</stpid>
+                			<stpnm>Belmont &amp; Albany </stpnm>
+                			<pdist>35377.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.93933808874</lat>
+						<lon>-87.702843546867</lon>
+
+							<typ>S</typ>
+                			<stpid>7862</stpid>
+                			<stpnm>Belmont &amp; Sacramento</stpnm>
+                			<pdist>35958.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.939377992104</lat>
+						<lon>-87.700445652008</lon>
+
+							<typ>S</typ>
+                			<stpid>7863</stpid>
+                			<stpnm>Belmont &amp; Francisco</stpnm>
+                			<pdist>36623.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.939385972774</lat>
+						<lon>-87.697591781616</lon>
+
+							<typ>S</typ>
+                			<stpid>7865</stpid>
+                			<stpnm>Belmont &amp; California</stpnm>
+                			<pdist>37442.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.939389963109</lat>
+						<lon>-87.695408463478</lon>
+
+							<typ>S</typ>
+                			<stpid>7866</stpid>
+                			<stpnm>Belmont &amp; Washtenaw</stpnm>
+                			<pdist>38002.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.939401934111</lat>
+						<lon>-87.693166136742</lon>
+
+							<typ>S</typ>
+                			<stpid>7867</stpid>
+                			<stpnm>Belmont &amp; Rockwell</stpnm>
+                			<pdist>38625.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.939401934111</lat>
+						<lon>-87.690703868866</lon>
+
+							<typ>S</typ>
+                			<stpid>7868</stpid>
+                			<stpnm>Belmont &amp; Campbell </stpnm>
+                			<pdist>39296.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.939405924444</lat>
+						<lon>-87.687522768974</lon>
+
+							<typ>S</typ>
+                			<stpid>17342</stpid>
+                			<stpnm>Belmont &amp; Western/Clybourn</stpnm>
+                			<pdist>40171.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.939453808427</lat>
+						<lon>-87.685752511024</lon>
+
+							<typ>S</typ>
+                			<stpid>9275</stpid>
+                			<stpnm>Belmont &amp; Oakley</stpnm>
+                			<pdist>40645.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.939481740734</lat>
+						<lon>-87.683290243149</lon>
+
+							<typ>S</typ>
+                			<stpid>9276</stpid>
+                			<stpnm>Belmont &amp; Leavitt</stpnm>
+                			<pdist>41307.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.939513663355</lat>
+						<lon>-87.680903077126</lon>
+
+							<typ>S</typ>
+                			<stpid>9277</stpid>
+                			<stpnm>Belmont &amp; Hoyne</stpnm>
+                			<pdist>41971.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.939549576285</lat>
+						<lon>-87.678027749062</lon>
+
+							<typ>S</typ>
+                			<stpid>17315</stpid>
+                			<stpnm>Belmont &amp; Damen</stpnm>
+                			<pdist>42764.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.939581498872</lat>
+						<lon>-87.676048278809</lon>
+
+							<typ>S</typ>
+                			<stpid>9279</stpid>
+                			<stpnm>Belmont &amp; Wolcott</stpnm>
+                			<pdist>43283.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.939589479517</lat>
+						<lon>-87.674283385277</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.939589479517</lat>
+						<lon>-87.673881053925</lon>
+
+							<typ>S</typ>
+                			<stpid>9280</stpid>
+                			<stpnm>Belmont &amp; Ravenswood</stpnm>
+                			<pdist>44000.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.939629382723</lat>
+						<lon>-87.670834064484</lon>
+
+							<typ>S</typ>
+                			<stpid>9281</stpid>
+                			<stpnm>Belmont &amp; Paulina</stpnm>
+                			<pdist>44630.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.939665295588</lat>
+						<lon>-87.668259143829</lon>
+
+							<typ>S</typ>
+                			<stpid>14912</stpid>
+                			<stpnm>Belmont &amp; Lincoln</stpnm>
+                			<pdist>45498.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.939697218117</lat>
+						<lon>-87.666376233101</lon>
+
+							<typ>S</typ>
+                			<stpid>9283</stpid>
+                			<stpnm>Belmont &amp; Greenview</stpnm>
+                			<pdist>45935.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.939729140631</lat>
+						<lon>-87.663967609406</lon>
+
+							<typ>S</typ>
+                			<stpid>9284</stpid>
+                			<stpnm>Belmont &amp; Southport</stpnm>
+                			<pdist>46597.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.93977303406</lat>
+						<lon>-87.66123175621</lon>
+
+							<typ>S</typ>
+                			<stpid>9285</stpid>
+                			<stpnm>Belmont &amp; Lakewood</stpnm>
+                			<pdist>47341.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.939808946844</lat>
+						<lon>-87.659128904343</lon>
+
+							<typ>S</typ>
+                			<stpid>9286</stpid>
+                			<stpnm>Belmont &amp; Racine</stpnm>
+                			<pdist>47920.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.939844859608</lat>
+						<lon>-87.656650543213</lon>
+
+							<typ>S</typ>
+                			<stpid>9287</stpid>
+                			<stpnm>Belmont &amp; Seminary</stpnm>
+                			<pdist>48599.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.939892743261</lat>
+						<lon>-87.65328168869</lon>
+
+							<typ>S</typ>
+                			<stpid>17379</stpid>
+                			<stpnm>Belmont &amp; Sheffield (Red/Brown/Purple Line)</stpnm>
+                			<pdist>49529.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.939944617178</lat>
+						<lon>-87.65028834343</lon>
+
+							<typ>S</typ>
+                			<stpid>14913</stpid>
+                			<stpnm>Belmont &amp; Clark</stpnm>
+                			<pdist>50360.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.939968558972</lat>
+						<lon>-87.646924853325</lon>
+
+							<typ>S</typ>
+                			<stpid>4987</stpid>
+                			<stpnm>Belmont &amp; Orchard</stpnm>
+                			<pdist>51277.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.940000481349</lat>
+						<lon>-87.644054889679</lon>
+
+							<typ>S</typ>
+                			<stpid>14914</stpid>
+                			<stpnm>Belmont &amp; Broadway</stpnm>
+                			<pdist>52086.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.940016442532</lat>
+						<lon>-87.642059326172</lon>
+
+							<typ>S</typ>
+                			<stpid>4990</stpid>
+                			<stpnm>Belmont &amp; Pine Grove</stpnm>
+                			<pdist>52591.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.940084277514</lat>
+						<lon>-87.639774084091</lon>
+
+							<typ>S</typ>
+                			<stpid>9291</stpid>
+                			<stpnm>Belmont &amp; Sheridan</stpnm>
+                			<pdist>53243.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.940092258096</lat>
+						<lon>-87.639489769936</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.94021595698</lat>
+						<lon>-87.638829946518</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.938899150089</lat>
+						<lon>-87.638030648232</lon>
+
+							<typ>S</typ>
+                			<stpid>9293</stpid>
+                			<stpnm>Lake Shore Drive &amp; Briar</stpnm>
+                			<pdist>53985.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.937905541436</lat>
+						<lon>-87.637456655502</lon>
+
+							<typ>S</typ>
+                			<stpid>14971</stpid>
+                			<stpnm>Lake Shore Drive &amp; Barry</stpnm>
+                			<pdist>54423.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.937745924144</lat>
+						<lon>-87.637370824814</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.93699172704</lat>
+						<lon>-87.637048959732</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.936716383018</lat>
+						<lon>-87.636930942535</lon>
+
+							<typ>S</typ>
+                			<stpid>9294</stpid>
+                			<stpnm>Lake Shore Drive &amp; Wellington</stpnm>
+                			<pdist>54839.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.936568734284</lat>
+						<lon>-87.636888027191</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.935802551583</lat>
+						<lon>-87.636839747429</lon>
+
+							<typ>S</typ>
+                			<stpid>9295</stpid>
+                			<stpnm>Lake Shore Drive &amp; Oakdale</stpnm>
+                			<pdist>55216.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.934976500547</lat>
+						<lon>-87.636807560921</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.934553494425</lat>
+						<lon>-87.636775374413</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.934278139875</lat>
+						<lon>-87.636651992798</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>104</seq>
+						<lat>41.934002784137</lat>
+						<lon>-87.636501789093</lon>
+
+							<typ>S</typ>
+                			<stpid>9296</stpid>
+                			<stpnm>St. Joseph Hospital </stpnm>
+                			<pdist>55859.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

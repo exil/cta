@@ -1,0 +1,2103 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>1971</pid>
+				<ln>0.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.969745189004</lat>
+						<lon>-87.7616751194</lon>
+
+							<typ>S</typ>
+                			<stpid>14101</stpid>
+                			<stpnm>Jefferson Park Transit Center</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.969521836288</lat>
+						<lon>-87.762222290039</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.969019289814</lat>
+						<lon>-87.761798501015</lon>
+
+							<typ>S</typ>
+                			<stpid>3725</stpid>
+                			<stpnm>Milwaukee &amp; Higgins</stpnm>
+                			<pdist>448.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.96763926085</lat>
+						<lon>-87.760596871376</lon>
+
+							<typ>S</typ>
+                			<stpid>17175</stpid>
+                			<stpnm>Milwaukee &amp; Lawrence</stpnm>
+                			<pdist>1049.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.966713906767</lat>
+						<lon>-87.75979757309</lon>
+
+							<typ>S</typ>
+                			<stpid>5435</stpid>
+                			<stpnm>Milwaukee &amp; Giddings</stpnm>
+                			<pdist>1405.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.964819282123</lat>
+						<lon>-87.758145332336</lon>
+
+							<typ>S</typ>
+                			<stpid>5436</stpid>
+                			<stpnm>Milwaukee &amp; Laramie</stpnm>
+                			<pdist>2232.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.964041472536</lat>
+						<lon>-87.757490873337</lon>
+
+							<typ>S</typ>
+                			<stpid>5437</stpid>
+                			<stpnm>Milwaukee &amp; Wilson</stpnm>
+                			<pdist>2596.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.962629424711</lat>
+						<lon>-87.756251692772</lon>
+
+							<typ>S</typ>
+                			<stpid>5438</stpid>
+                			<stpnm>Milwaukee &amp; Sunnyside</stpnm>
+                			<pdist>3177.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.961464661144</lat>
+						<lon>-87.755243182182</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.96040359087</lat>
+						<lon>-87.754320502281</lon>
+
+							<typ>S</typ>
+                			<stpid>14617</stpid>
+                			<stpnm>Milwaukee &amp; Montrose</stpnm>
+                			<pdist>4159.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.959853103842</lat>
+						<lon>-87.753859162331</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.95892364756</lat>
+						<lon>-87.753038406372</lon>
+
+							<typ>S</typ>
+                			<stpid>5440</stpid>
+                			<stpnm>Milwaukee &amp; Cullom</stpnm>
+                			<pdist>4776.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.956837307911</lat>
+						<lon>-87.751241326332</lon>
+
+							<typ>S</typ>
+                			<stpid>15198</stpid>
+                			<stpnm>Milwaukee &amp; Berteau</stpnm>
+                			<pdist>5716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.955289463045</lat>
+						<lon>-87.749894857407</lon>
+
+							<typ>S</typ>
+                			<stpid>5442</stpid>
+                			<stpnm>Milwaukee &amp; Belle Plaine</stpnm>
+                			<pdist>6337.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.954539462837</lat>
+						<lon>-87.749245762825</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.953562055704</lat>
+						<lon>-87.74765253067</lon>
+
+							<typ>S</typ>
+                			<stpid>5443</stpid>
+                			<stpnm>Milwaukee &amp; Irving Park/Cicero</stpnm>
+                			<pdist>7207.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.953338646254</lat>
+						<lon>-87.747266292572</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.95180667465</lat>
+						<lon>-87.744777202606</lon>
+
+							<typ>S</typ>
+                			<stpid>5444</stpid>
+                			<stpnm>Milwaukee &amp; Kilpatrick/Byron</stpnm>
+                			<pdist>8246.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.950573889513</lat>
+						<lon>-87.742749452591</lon>
+
+							<typ>S</typ>
+                			<stpid>5445</stpid>
+                			<stpnm>Milwaukee &amp; Kenton</stpnm>
+                			<pdist>8968.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.949564503996</lat>
+						<lon>-87.741086483002</lon>
+
+							<typ>S</typ>
+                			<stpid>5446</stpid>
+                			<stpnm>Milwaukee &amp; Kilbourn </stpnm>
+                			<pdist>9564.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.949193461032976</lat>
+						<lon>-87.7404534816742</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.948970036272</lat>
+						<lon>-87.740115523338</lon>
+
+							<typ>S</typ>
+                			<stpid>5447</stpid>
+                			<stpnm>Milwaukee &amp; Kenneth</stpnm>
+                			<pdist>9916.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.948040421269</lat>
+						<lon>-87.73855984211</lon>
+
+							<typ>S</typ>
+                			<stpid>5448</stpid>
+                			<stpnm>Milwaukee &amp; Kostner</stpnm>
+                			<pdist>10450.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.947302305281</lat>
+						<lon>-87.737374305725</lon>
+
+							<typ>S</typ>
+                			<stpid>5449</stpid>
+                			<stpnm>Milwaukee &amp; Waveland</stpnm>
+                			<pdist>10961.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.94640458513</lat>
+						<lon>-87.735920548439</lon>
+
+							<typ>S</typ>
+                			<stpid>5450</stpid>
+                			<stpnm>Milwaukee &amp; Addison</stpnm>
+                			<pdist>11359.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.944776687011</lat>
+						<lon>-87.733254432678</lon>
+
+							<typ>S</typ>
+                			<stpid>5451</stpid>
+                			<stpnm>Milwaukee &amp; Tripp</stpnm>
+                			<pdist>12315.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.944182174641</lat>
+						<lon>-87.732251286507</lon>
+
+							<typ>S</typ>
+                			<stpid>5452</stpid>
+                			<stpnm>Milwaukee &amp; Keeler</stpnm>
+                			<pdist>12672.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.943563716291806</lat>
+						<lon>-87.73121058940887</lon>
+
+							<typ>S</typ>
+                			<stpid>5453</stpid>
+                			<stpnm>Milwaukee &amp; Kedvale </stpnm>
+                			<pdist>13035.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.942681904013</lat>
+						<lon>-87.729762196541</lon>
+
+							<typ>S</typ>
+                			<stpid>5454</stpid>
+                			<stpnm>Milwaukee &amp; Karlov </stpnm>
+                			<pdist>13537.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.940894301433</lat>
+						<lon>-87.726817131042</lon>
+
+							<typ>S</typ>
+                			<stpid>15213</stpid>
+                			<stpnm>Milwaukee &amp; Pulaski</stpnm>
+                			<pdist>14640.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.939820917768</lat>
+						<lon>-87.725121974945</lon>
+
+							<typ>S</typ>
+                			<stpid>5456</stpid>
+                			<stpnm>Milwaukee &amp; Springfield</stpnm>
+                			<pdist>15247.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.939106648737</lat>
+						<lon>-87.723888158798</lon>
+
+							<typ>S</typ>
+                			<stpid>5457</stpid>
+                			<stpnm>Milwaukee &amp; Belmont</stpnm>
+                			<pdist>15556.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.938563958539</lat>
+						<lon>-87.723003029823</lon>
+
+							<typ>S</typ>
+                			<stpid>5458</stpid>
+                			<stpnm>Milwaukee &amp; Davlin</stpnm>
+                			<pdist>16152.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.937885589296</lat>
+						<lon>-87.721919417381</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.937067546199906</lat>
+						<lon>-87.7205353975296</lon>
+
+							<typ>S</typ>
+                			<stpid>5459</stpid>
+                			<stpnm>Milwaukee &amp; Hamlin </stpnm>
+                			<pdist>16857.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.93593823044</lat>
+						<lon>-87.71873831749</lon>
+
+							<typ>S</typ>
+                			<stpid>5460</stpid>
+                			<stpnm>Milwaukee &amp; Ridgeway </stpnm>
+                			<pdist>17591.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.934808894683</lat>
+						<lon>-87.716892957687</lon>
+
+							<typ>S</typ>
+                			<stpid>15215</stpid>
+                			<stpnm>Milwaukee &amp; Central Park</stpnm>
+                			<pdist>18153.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.934425793912</lat>
+						<lon>-87.716227769852</lon>
+
+							<typ>S</typ>
+                			<stpid>5462</stpid>
+                			<stpnm>Milwaukee &amp; Gresham</stpnm>
+                			<pdist>18431.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.933268496358</lat>
+						<lon>-87.714350223541</lon>
+
+							<typ>S</typ>
+                			<stpid>5463</stpid>
+                			<stpnm>Milwaukee &amp; Wolfram</stpnm>
+                			<pdist>19039.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.932282781537</lat>
+						<lon>-87.712740898132</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.931999435591</lat>
+						<lon>-87.712386846542</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.931712097573</lat>
+						<lon>-87.71187722683</lon>
+
+							<typ>S</typ>
+                			<stpid>17413</stpid>
+                			<stpnm>Milwaukee &amp; Diversey/Kimball</stpnm>
+                			<pdist>19904.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.931069573153</lat>
+						<lon>-87.710723876953</lon>
+
+							<typ>S</typ>
+                			<stpid>5465</stpid>
+                			<stpnm>Milwaukee &amp; Spaulding</stpnm>
+                			<pdist>20321.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.930435024051</lat>
+						<lon>-87.709677815437</lon>
+
+							<typ>S</typ>
+                			<stpid>5466</stpid>
+                			<stpnm>Milwaukee &amp; Sawyer </stpnm>
+                			<pdist>20740.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.929173888858</lat>
+						<lon>-87.70768225193</lon>
+
+							<typ>S</typ>
+                			<stpid>5467</stpid>
+                			<stpnm>Milwaukee &amp; Kedzie</stpnm>
+                			<pdist>21415.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.928415599366</lat>
+						<lon>-87.706378698349</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.927828916575</lat>
+						<lon>-87.705445289612</lon>
+
+							<typ>S</typ>
+                			<stpid>5468</stpid>
+                			<stpnm>Milwaukee &amp; Logan Boulevard</stpnm>
+                			<pdist>22211.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.926000985939</lat>
+						<lon>-87.702462673187</lon>
+
+							<typ>S</typ>
+                			<stpid>5469</stpid>
+                			<stpnm>Milwaukee &amp; Sacramento</stpnm>
+                			<pdist>23228.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.924628007962</lat>
+						<lon>-87.700252532959</lon>
+
+							<typ>S</typ>
+                			<stpid>15041</stpid>
+                			<stpnm>Milwaukee &amp; Fullerton</stpnm>
+                			<pdist>24119.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.923869664436</lat>
+						<lon>-87.698954343796</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.922536554495</lat>
+						<lon>-87.696830034256</lon>
+
+							<typ>S</typ>
+                			<stpid>17013</stpid>
+                			<stpnm>Milwaukee &amp; California</stpnm>
+                			<pdist>25200.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.921550673838</lat>
+						<lon>-87.695161700249</lon>
+
+							<typ>S</typ>
+                			<stpid>17014</stpid>
+                			<stpnm>Milwaukee &amp; Prindiville</stpnm>
+                			<pdist>25788.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.920333269824</lat>
+						<lon>-87.693192958832</lon>
+
+							<typ>S</typ>
+                			<stpid>5474</stpid>
+                			<stpnm>Milwaukee &amp; Francis Place</stpnm>
+                			<pdist>26431.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.91912781739</lat>
+						<lon>-87.691165208817</lon>
+
+							<typ>S</typ>
+                			<stpid>5475</stpid>
+                			<stpnm>Milwaukee &amp; Maplewood</stpnm>
+                			<pdist>27159.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.91771876631</lat>
+						<lon>-87.688890695572</lon>
+
+							<typ>S</typ>
+                			<stpid>5476</stpid>
+                			<stpnm>Milwaukee &amp; Armitage</stpnm>
+                			<pdist>27947.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.91688848935</lat>
+						<lon>-87.687544226646</lon>
+
+							<typ>S</typ>
+                			<stpid>5477</stpid>
+                			<stpnm>Milwaukee &amp; Western</stpnm>
+                			<pdist>28450.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.915271813316</lat>
+						<lon>-87.685087323189</lon>
+
+							<typ>S</typ>
+                			<stpid>5478</stpid>
+                			<stpnm>Milwaukee &amp; Oakley/Moffat</stpnm>
+                			<pdist>29335.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.913315780157</lat>
+						<lon>-87.682067155838</lon>
+
+							<typ>S</typ>
+                			<stpid>15233</stpid>
+                			<stpnm>Milwaukee &amp; Leavitt</stpnm>
+                			<pdist>30428.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.912066282703</lat>
+						<lon>-87.680135965347</lon>
+
+							<typ>S</typ>
+                			<stpid>5480</stpid>
+                			<stpnm>Milwaukee &amp; Caton</stpnm>
+                			<pdist>31105.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.910669052108</lat>
+						<lon>-87.677990198135</lon>
+
+							<typ>S</typ>
+                			<stpid>5481</stpid>
+                			<stpnm>Milwaukee &amp; North Ave/Damen</stpnm>
+                			<pdist>31911.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.908844622121</lat>
+						<lon>-87.675125598907</lon>
+
+							<typ>S</typ>
+                			<stpid>17015</stpid>
+                			<stpnm>Milwaukee &amp; Honore</stpnm>
+                			<pdist>32942.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.907203788256</lat>
+						<lon>-87.672550678253</lon>
+
+							<typ>S</typ>
+                			<stpid>15846</stpid>
+                			<stpnm>Milwaukee &amp; Wolcott/Wood </stpnm>
+                			<pdist>33873.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.905299409945</lat>
+						<lon>-87.669584155083</lon>
+
+							<typ>S</typ>
+                			<stpid>5487</stpid>
+                			<stpnm>Milwaukee &amp; Paulina </stpnm>
+                			<pdist>34905.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.904097666097</lat>
+						<lon>-87.667690515518</lon>
+
+							<typ>S</typ>
+                			<stpid>5488</stpid>
+                			<stpnm>Milwaukee &amp; Ashland (Blue Line)</stpnm>
+                			<pdist>35573.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.9034947894</lat>
+						<lon>-87.666741013527</lon>
+
+							<typ>S</typ>
+                			<stpid>5489</stpid>
+                			<stpnm>Milwaukee &amp; Division</stpnm>
+                			<pdist>35891.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.902728209486</lat>
+						<lon>-87.665555477142</lon>
+
+							<typ>S</typ>
+                			<stpid>5490</stpid>
+                			<stpnm>Milwaukee &amp; Haddon</stpnm>
+                			<pdist>36296.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.90175000821</lat>
+						<lon>-87.663994431496</lon>
+
+							<typ>S</typ>
+                			<stpid>5491</stpid>
+                			<stpnm>Milwaukee &amp; Thomas</stpnm>
+                			<pdist>36919.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.900835675916</lat>
+						<lon>-87.66262114048</lon>
+
+							<typ>S</typ>
+                			<stpid>5492</stpid>
+                			<stpnm>Milwaukee &amp; Noble</stpnm>
+                			<pdist>37396.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.899945287345</lat>
+						<lon>-87.661263942719</lon>
+
+							<typ>S</typ>
+                			<stpid>5493</stpid>
+                			<stpnm>Milwaukee &amp; Augusta</stpnm>
+                			<pdist>37885.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.898891178996</lat>
+						<lon>-87.659595608711</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.89766934982</lat>
+						<lon>-87.657696604729</lon>
+
+							<typ>S</typ>
+                			<stpid>5494</stpid>
+                			<stpnm>Milwaukee &amp; Racine</stpnm>
+                			<pdist>39202.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.896375622859</lat>
+						<lon>-87.655738592148</lon>
+
+							<typ>S</typ>
+                			<stpid>5496</stpid>
+                			<stpnm>Milwaukee &amp; Chicago</stpnm>
+                			<pdist>39862.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.894854999999</lat>
+						<lon>-87.653375000002</lon>
+
+							<typ>S</typ>
+                			<stpid>17834</stpid>
+                			<stpnm>Milwaukee &amp; Carpenter</stpnm>
+                			<pdist>40802.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.893444675337</lat>
+						<lon>-87.651184201241</lon>
+
+							<typ>S</typ>
+                			<stpid>5500</stpid>
+                			<stpnm>Milwaukee &amp; Erie</stpnm>
+                			<pdist>41497.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.891300286571</lat>
+						<lon>-87.647826075554</lon>
+
+							<typ>S</typ>
+                			<stpid>5502</stpid>
+                			<stpnm>Milwaukee &amp; Grand/Halsted (Blue Line)</stpnm>
+                			<pdist>42702.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.890305936625</lat>
+						<lon>-87.64634013176</lon>
+
+							<typ>S</typ>
+                			<stpid>5503</stpid>
+                			<stpnm>Milwaukee &amp; Hubbard/Union</stpnm>
+                			<pdist>43287.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.889087936682</lat>
+						<lon>-87.644419670105</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.888680600372</lat>
+						<lon>-87.644414305687</lon>
+
+							<typ>S</typ>
+                			<stpid>17771</stpid>
+                			<stpnm>DesPlaines &amp; Kinzie/Milwaukee</stpnm>
+                			<pdist>44108.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.887454582276</lat>
+						<lon>-87.644360661507</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.886971356952</lat>
+						<lon>-87.644333839417</lon>
+
+							<typ>S</typ>
+                			<stpid>5505</stpid>
+                			<stpnm>Desplaines &amp; Fulton</stpnm>
+                			<pdist>44719.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.885525000001</lat>
+						<lon>-87.644283333334</lon>
+
+							<typ>S</typ>
+                			<stpid>17772</stpid>
+                			<stpnm>DesPlaines &amp; Lake</stpnm>
+                			<pdist>45259.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.884419387395</lat>
+						<lon>-87.644253373146</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.883141367464</lat>
+						<lon>-87.644194364548</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.883145361316</lat>
+						<lon>-87.64285326004</lon>
+
+							<typ>S</typ>
+                			<stpid>442</stpid>
+                			<stpnm>Washington &amp; Jefferson</stpnm>
+                			<pdist>46388.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.883157342871</lat>
+						<lon>-87.641163468361</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.883157342871</lat>
+						<lon>-87.640010118484</lon>
+
+							<typ>S</typ>
+                			<stpid>443</stpid>
+                			<stpnm>Washington &amp; Canal</stpnm>
+                			<pdist>47186.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.883181305974</lat>
+						<lon>-87.635498642921</lon>
+
+							<typ>S</typ>
+                			<stpid>445</stpid>
+                			<stpnm>Washington &amp; Franklin</stpnm>
+                			<pdist>48566.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.883161336722</lat>
+						<lon>-87.632617950439</lon>
+
+							<typ>S</typ>
+                			<stpid>446</stpid>
+                			<stpnm>Washington &amp; Lasalle</stpnm>
+                			<pdist>49180.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.883165330573</lat>
+						<lon>-87.629576325417</lon>
+
+							<typ>S</typ>
+                			<stpid>447</stpid>
+                			<stpnm>Washington &amp; Dearborn</stpnm>
+                			<pdist>50006.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.883181305974</lat>
+						<lon>-87.627489566803</lon>
+
+							<typ>S</typ>
+                			<stpid>448</stpid>
+                			<stpnm>Washington &amp; State</stpnm>
+                			<pdist>50633.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.883185299824</lat>
+						<lon>-87.625976800919</lon>
+
+							<typ>S</typ>
+                			<stpid>449</stpid>
+                			<stpnm>Washington &amp; Wabash</stpnm>
+                			<pdist>51131.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.883209262916</lat>
+						<lon>-87.624549865723</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1970</pid>
+				<ln>51443.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.882110945281</lat>
+						<lon>-87.625998258591</lon>
+
+							<typ>S</typ>
+                			<stpid>450</stpid>
+                			<stpnm>Madison &amp; Wabash</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.882090975695</lat>
+						<lon>-87.627730965614</lon>
+
+							<typ>S</typ>
+                			<stpid>4729</stpid>
+                			<stpnm>Madison &amp; State</stpnm>
+                			<pdist>654.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.882043048663</lat>
+						<lon>-87.628031373024</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.882031066899</lat>
+						<lon>-87.629372477531</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.882031066899</lat>
+						<lon>-87.630686759949</lon>
+
+							<typ>S</typ>
+                			<stpid>452</stpid>
+                			<stpnm>Madison &amp; Clark</stpnm>
+                			<pdist>1262.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.882023079055</lat>
+						<lon>-87.634098529816</lon>
+
+							<typ>S</typ>
+                			<stpid>453</stpid>
+                			<stpnm>Madison &amp; Wells</stpnm>
+                			<pdist>2288.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.881955182343</lat>
+						<lon>-87.637419104576</lon>
+
+							<typ>S</typ>
+                			<stpid>454</stpid>
+                			<stpnm>Madison &amp; N. Wacker</stpnm>
+                			<pdist>3129.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.881891279489</lat>
+						<lon>-87.641034722328</lon>
+
+							<typ>S</typ>
+                			<stpid>455</stpid>
+                			<stpnm>Madison &amp; Clinton</stpnm>
+                			<pdist>4061.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.88186332197</lat>
+						<lon>-87.642622590065</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.883041521081</lat>
+						<lon>-87.642654776573</lon>
+
+							<typ>S</typ>
+                			<stpid>5516</stpid>
+                			<stpnm>Jefferson &amp; Washington</stpnm>
+                			<pdist>4937.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.885573577175</lat>
+						<lon>-87.64274597168</lon>
+
+							<typ>S</typ>
+                			<stpid>5518</stpid>
+                			<stpnm>Jefferson &amp; Lake</stpnm>
+                			<pdist>5872.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.886843561214</lat>
+						<lon>-87.642751336098</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.886835573972</lat>
+						<lon>-87.644060254097</lon>
+
+							<typ>S</typ>
+                			<stpid>5520</stpid>
+                			<stpnm>Fulton &amp; Desplaines</stpnm>
+                			<pdist>6642.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.886831580351</lat>
+						<lon>-87.644248008728</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.889123877997</lat>
+						<lon>-87.644339203835</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.890317916837</lat>
+						<lon>-87.646222114563</lon>
+
+							<typ>S</typ>
+                			<stpid>17135</stpid>
+                			<stpnm>Milwaukee &amp; Hubbard/Union</stpnm>
+                			<pdist>8180.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.891539886654</lat>
+						<lon>-87.648062109947</lon>
+
+							<typ>S</typ>
+                			<stpid>15341</stpid>
+                			<stpnm>Milwaukee &amp; Grand/Halsted (Blue Line)</stpnm>
+                			<pdist>8797.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.892238715095</lat>
+						<lon>-87.649167180061</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.893416722874</lat>
+						<lon>-87.651012539864</lon>
+
+							<typ>S</typ>
+                			<stpid>5525</stpid>
+                			<stpnm>Milwaukee &amp; Erie</stpnm>
+                			<pdist>9917.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.895021973075</lat>
+						<lon>-87.653453350067</lon>
+
+							<typ>S</typ>
+                			<stpid>5527</stpid>
+                			<stpnm>Milwaukee &amp; Carpenter</stpnm>
+                			<pdist>10716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.896435518204</lat>
+						<lon>-87.655674219131</lon>
+
+							<typ>S</typ>
+                			<stpid>5529</stpid>
+                			<stpnm>Milwaukee &amp; Chicago</stpnm>
+                			<pdist>11500.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.897545568436</lat>
+						<lon>-87.657364010811</lon>
+
+							<typ>S</typ>
+                			<stpid>17136</stpid>
+                			<stpnm>Milwaukee &amp; Elston</stpnm>
+                			<pdist>12120.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.898248324076</lat>
+						<lon>-87.658436894417</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.899937301741</lat>
+						<lon>-87.661092281342</lon>
+
+							<typ>S</typ>
+                			<stpid>14563</stpid>
+                			<stpnm>Milwaukee &amp; Augusta</stpnm>
+                			<pdist>13514.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.900731864435</lat>
+						<lon>-87.662331461906</lon>
+
+							<typ>S</typ>
+                			<stpid>5533</stpid>
+                			<stpnm>Milwaukee &amp; Noble</stpnm>
+                			<pdist>13860.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.901829861937</lat>
+						<lon>-87.664005160332</lon>
+
+							<typ>S</typ>
+                			<stpid>5534</stpid>
+                			<stpnm>Milwaukee &amp; Thomas</stpnm>
+                			<pdist>14504.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.902772128376</lat>
+						<lon>-87.665485739708</lon>
+
+							<typ>S</typ>
+                			<stpid>5535</stpid>
+                			<stpnm>Milwaukee &amp; Haddon</stpnm>
+                			<pdist>15034.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.903914008898</lat>
+						<lon>-87.667266726494</lon>
+
+							<typ>S</typ>
+                			<stpid>5537</stpid>
+                			<stpnm>Milwaukee &amp; Ashland/Division (Blue Line)</stpnm>
+                			<pdist>15670.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.90553895751</lat>
+						<lon>-87.669825553894</lon>
+
+							<typ>S</typ>
+                			<stpid>5538</stpid>
+                			<stpnm>Milwaukee &amp; Paulina </stpnm>
+                			<pdist>16601.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.907463290337</lat>
+						<lon>-87.672818899155</lon>
+
+							<typ>S</typ>
+                			<stpid>15845</stpid>
+                			<stpnm>Milwaukee &amp; Wolcott/Wood</stpnm>
+                			<pdist>17665.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.909076171923</lat>
+						<lon>-87.675350904465</lon>
+
+							<typ>S</typ>
+                			<stpid>17011</stpid>
+                			<stpnm>Milwaukee &amp; Honore</stpnm>
+                			<pdist>18536.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.910669052108</lat>
+						<lon>-87.677872180939</lon>
+
+							<typ>S</typ>
+                			<stpid>15847</stpid>
+                			<stpnm>Milwaukee &amp; North Ave/Damen</stpnm>
+                			<pdist>19444.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.91260121432</lat>
+						<lon>-87.680849432945</lon>
+
+							<typ>S</typ>
+                			<stpid>5544</stpid>
+                			<stpnm>Milwaukee &amp; Wabansia</stpnm>
+                			<pdist>20221.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.913531345934</lat>
+						<lon>-87.682260274887</lon>
+
+							<typ>S</typ>
+                			<stpid>5545</stpid>
+                			<stpnm>Milwaukee &amp; Leavitt</stpnm>
+                			<pdist>21017.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.915160041608</lat>
+						<lon>-87.684781551361</lon>
+
+							<typ>S</typ>
+                			<stpid>5546</stpid>
+                			<stpnm>Milwaukee &amp; Oakley/Moffat</stpnm>
+                			<pdist>21923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.916748778223</lat>
+						<lon>-87.687206268311</lon>
+
+							<typ>S</typ>
+                			<stpid>5547</stpid>
+                			<stpnm>Milwaukee &amp; Western</stpnm>
+                			<pdist>22784.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.91771876631</lat>
+						<lon>-87.688729763031</lon>
+
+							<typ>S</typ>
+                			<stpid>14564</stpid>
+                			<stpnm>Milwaukee &amp; Armitage</stpnm>
+                			<pdist>23378.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.919211640978</lat>
+						<lon>-87.691175937653</lon>
+
+							<typ>S</typ>
+                			<stpid>5550</stpid>
+                			<stpnm>Milwaukee &amp; Maplewood</stpnm>
+                			<pdist>24190.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.920628642112</lat>
+						<lon>-87.69352555275</lon>
+
+							<typ>S</typ>
+                			<stpid>5552</stpid>
+                			<stpnm>Milwaukee &amp; Talman</stpnm>
+                			<pdist>24991.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.921790160419</lat>
+						<lon>-87.695408463478</lon>
+
+							<typ>S</typ>
+                			<stpid>5553</stpid>
+                			<stpnm>Milwaukee &amp; Washtenaw</stpnm>
+                			<pdist>25643.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.922839899325</lat>
+						<lon>-87.697189450264</lon>
+
+							<typ>S</typ>
+                			<stpid>5554</stpid>
+                			<stpnm>Milwaukee &amp; California</stpnm>
+                			<pdist>26289.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.924620025445</lat>
+						<lon>-87.700070142746</lon>
+
+							<typ>S</typ>
+                			<stpid>15045</stpid>
+                			<stpnm>Milwaukee &amp; Fullerton</stpnm>
+                			<pdist>27537.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.925953091856</lat>
+						<lon>-87.702242732048</lon>
+
+							<typ>S</typ>
+                			<stpid>5557</stpid>
+                			<stpnm>Milwaukee &amp; Sacramento</stpnm>
+                			<pdist>28203.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.928020487059</lat>
+						<lon>-87.705600857735</lon>
+
+							<typ>S</typ>
+                			<stpid>5558</stpid>
+                			<stpnm>Milwaukee &amp; Logan Boulevard</stpnm>
+                			<pdist>29165.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.928631114139</lat>
+						<lon>-87.706625461578</lon>
+
+							<typ>S</typ>
+                			<stpid>15922</stpid>
+                			<stpnm>Milwaukee &amp; Logan Boulevard</stpnm>
+                			<pdist>29533.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.929549039274</lat>
+						<lon>-87.708143591881</lon>
+
+							<typ>S</typ>
+                			<stpid>5559</stpid>
+                			<stpnm>Milwaukee &amp; Kedzie</stpnm>
+                			<pdist>30080.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.930367178805</lat>
+						<lon>-87.709436416626</lon>
+
+							<typ>S</typ>
+                			<stpid>5560</stpid>
+                			<stpnm>Milwaukee &amp; Sawyer </stpnm>
+                			<pdist>30565.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.931105490838</lat>
+						<lon>-87.710648775101</lon>
+
+							<typ>S</typ>
+                			<stpid>5561</stpid>
+                			<stpnm>Milwaukee &amp; Spaulding</stpnm>
+                			<pdist>31033.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.931803886247</lat>
+						<lon>-87.711909413338</lon>
+
+							<typ>S</typ>
+                			<stpid>5562</stpid>
+                			<stpnm>Milwaukee &amp; Diversey/Kimball</stpnm>
+                			<pdist>31394.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.932011407981</lat>
+						<lon>-87.712306380272</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.932350624745</lat>
+						<lon>-87.712714076042</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.933324366377</lat>
+						<lon>-87.714291214943</lon>
+
+							<typ>S</typ>
+                			<stpid>5563</stpid>
+                			<stpnm>Milwaukee &amp; Wisner</stpnm>
+                			<pdist>32260.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.934034709501</lat>
+						<lon>-87.715439200401</lon>
+
+							<typ>S</typ>
+                			<stpid>5564</stpid>
+                			<stpnm>Milwaukee &amp; Allen Avenue</stpnm>
+                			<pdist>32748.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.935076265733</lat>
+						<lon>-87.717198729515</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.935451381435</lat>
+						<lon>-87.71781027317</lon>
+
+							<typ>S</typ>
+                			<stpid>15216</stpid>
+                			<stpnm>Milwaukee &amp; Central Park</stpnm>
+                			<pdist>33460.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.935998088668</lat>
+						<lon>-87.718695402145</lon>
+
+							<typ>S</typ>
+                			<stpid>5566</stpid>
+                			<stpnm>Milwaukee &amp; Monticello</stpnm>
+                			<pdist>33882.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.9366884495</lat>
+						<lon>-87.719779014587</lon>
+
+							<typ>S</typ>
+                			<stpid>5567</stpid>
+                			<stpnm>Milwaukee &amp; Lawndale </stpnm>
+                			<pdist>34217.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.93785366586</lat>
+						<lon>-87.721710205078</lon>
+
+							<typ>S</typ>
+                			<stpid>5568</stpid>
+                			<stpnm>Milwaukee &amp; Hamlin </stpnm>
+                			<pdist>34886.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.93897097662</lat>
+						<lon>-87.72352874279</lon>
+
+							<typ>S</typ>
+                			<stpid>5569</stpid>
+                			<stpnm>Milwaukee &amp; Belmont</stpnm>
+                			<pdist>35528.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.94009624838601</lat>
+						<lon>-87.72540628910065</lon>
+
+							<typ>S</typ>
+                			<stpid>17477</stpid>
+                			<stpnm>Milwaukee &amp; Springfield</stpnm>
+                			<pdist>36162.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.940930213585</lat>
+						<lon>-87.726747393608</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.941436971799</lat>
+						<lon>-87.727600336075</lon>
+
+							<typ>S</typ>
+                			<stpid>15214</stpid>
+                			<stpnm>Milwaukee &amp; Pulaski</stpnm>
+                			<pdist>37001.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.94241456485</lat>
+						<lon>-87.729188203812</lon>
+
+							<typ>S</typ>
+                			<stpid>5572</stpid>
+                			<stpnm>Milwaukee &amp; Karlov </stpnm>
+                			<pdist>37571.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.943515835395</lat>
+						<lon>-87.731012105942</lon>
+
+							<typ>S</typ>
+                			<stpid>5573</stpid>
+                			<stpnm>Milwaukee &amp; Kedvale </stpnm>
+                			<pdist>38209.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.944285915454</lat>
+						<lon>-87.732299566269</lon>
+
+							<typ>S</typ>
+                			<stpid>5574</stpid>
+                			<stpnm>Milwaukee &amp; Keeler</stpnm>
+                			<pdist>38554.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.944840526936</lat>
+						<lon>-87.733211517334</lon>
+
+							<typ>S</typ>
+                			<stpid>5575</stpid>
+                			<stpnm>Milwaukee &amp; Tripp</stpnm>
+                			<pdist>38894.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.946416554815</lat>
+						<lon>-87.735818624496</lon>
+
+							<typ>S</typ>
+                			<stpid>15016</stpid>
+                			<stpnm>Milwaukee &amp; Addison</stpnm>
+                			<pdist>39915.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.9472743764</lat>
+						<lon>-87.737202644348</lon>
+
+							<typ>S</typ>
+                			<stpid>5577</stpid>
+                			<stpnm>Milwaukee &amp; Waveland</stpnm>
+                			<pdist>40359.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.947952645761</lat>
+						<lon>-87.738296985626</lon>
+
+							<typ>S</typ>
+                			<stpid>5578</stpid>
+                			<stpnm>Milwaukee &amp; Kostner</stpnm>
+                			<pdist>40727.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.949009933608</lat>
+						<lon>-87.740018963814</lon>
+
+							<typ>S</typ>
+                			<stpid>5579</stpid>
+                			<stpnm>Milwaukee &amp; Kilbourn </stpnm>
+                			<pdist>41307.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.95051005533</lat>
+						<lon>-87.74250805378</lon>
+
+							<typ>S</typ>
+                			<stpid>5580</stpid>
+                			<stpnm>Milwaukee &amp; Kenton</stpnm>
+                			<pdist>42254.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.951643102589</lat>
+						<lon>-87.744374871254</lon>
+
+							<typ>S</typ>
+                			<stpid>5581</stpid>
+                			<stpnm>Milwaukee &amp; Kilpatrick/Byron</stpnm>
+                			<pdist>42883.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.953254867509</lat>
+						<lon>-87.746992707253</lon>
+
+							<typ>S</typ>
+                			<stpid>5582</stpid>
+                			<stpnm>Milwaukee &amp; Irving Park/Cicero</stpnm>
+                			<pdist>43766.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.954591324837</lat>
+						<lon>-87.749181389809</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.955082017062</lat>
+						<lon>-87.749610543251</lon>
+
+							<typ>S</typ>
+                			<stpid>5583</stpid>
+                			<stpnm>Milwaukee &amp; Belle Plaine</stpnm>
+                			<pdist>44769.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.956167111656</lat>
+						<lon>-87.750570774078</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.956893157281</lat>
+						<lon>-87.751182317734</lon>
+
+							<typ>S</typ>
+                			<stpid>5584</stpid>
+                			<stpnm>Milwaukee &amp; Berteau</stpnm>
+                			<pdist>45553.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.958692278652</lat>
+						<lon>-87.75274336338</lon>
+
+							<typ>S</typ>
+                			<stpid>5585</stpid>
+                			<stpnm>Milwaukee &amp; Cullom</stpnm>
+                			<pdist>46259.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.96047938219</lat>
+						<lon>-87.754293680191</lon>
+
+							<typ>S</typ>
+                			<stpid>5586</stpid>
+                			<stpnm>Milwaukee &amp; Montrose</stpnm>
+                			<pdist>47105.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.962322280221</lat>
+						<lon>-87.755881547928</lon>
+
+							<typ>S</typ>
+                			<stpid>5587</stpid>
+                			<stpnm>Milwaukee &amp; Sunnyside</stpnm>
+                			<pdist>47909.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.963897875881</lat>
+						<lon>-87.757249474525</lon>
+
+							<typ>S</typ>
+                			<stpid>5588</stpid>
+                			<stpnm>Milwaukee &amp; Wilson</stpnm>
+                			<pdist>48607.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.964631810937</lat>
+						<lon>-87.757882475853</lon>
+
+							<typ>S</typ>
+                			<stpid>5589</stpid>
+                			<stpnm>Milwaukee &amp; Laramie</stpnm>
+                			<pdist>48943.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.966506497974</lat>
+						<lon>-87.759507894516</lon>
+
+							<typ>S</typ>
+                			<stpid>5590</stpid>
+                			<stpnm>Milwaukee &amp; Giddings</stpnm>
+                			<pdist>49744.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.967738974928</lat>
+						<lon>-87.76058614254</lon>
+
+							<typ>S</typ>
+                			<stpid>5591</stpid>
+                			<stpnm>Milwaukee &amp; Lawrence</stpnm>
+                			<pdist>50267.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.968740095615</lat>
+						<lon>-87.761482000351</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.969266575082</lat>
+						<lon>-87.761900424957</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.969422125001</lat>
+						<lon>-87.761396169662</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.96948992869299</lat>
+						<lon>-87.76124060153961</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.96958565142938</lat>
+						<lon>-87.76107430458069</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.96990073775398</lat>
+						<lon>-87.7614551782608</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.969745189004</lat>
+						<lon>-87.7616751194</lon>
+
+							<typ>S</typ>
+                			<stpid>14101</stpid>
+                			<stpnm>Jefferson Park Transit Center</stpnm>
+                			<pdist>51443.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

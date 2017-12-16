@@ -1,0 +1,1512 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>5611</pid>
+				<ln>33247.0</ln>
+				<rtdir>East Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.969689350898</lat>
+						<lon>-87.761551737785</lon>
+
+							<typ>S</typ>
+                			<stpid>14102</stpid>
+                			<stpnm>Jefferson Park Transit Center</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.969477963341</lat>
+						<lon>-87.762174010277</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.969027266773</lat>
+						<lon>-87.761798501015</lon>
+
+							<typ>S</typ>
+                			<stpid>3725</stpid>
+                			<stpnm>Milwaukee &amp; Higgins</stpnm>
+                			<pdist>455.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.967918459874</lat>
+						<lon>-87.760838270187</lon>
+
+							<typ>S</typ>
+                			<stpid>3726</stpid>
+                			<stpnm>Lawrence &amp; Milwaukee</stpnm>
+                			<pdist>1082.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.967846665956</lat>
+						<lon>-87.760773897171</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.967878574374</lat>
+						<lon>-87.759266495705</lon>
+
+							<typ>S</typ>
+                			<stpid>3727</stpid>
+                			<stpnm>Lawrence &amp; Lipps</stpnm>
+                			<pdist>1352.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.967878574374</lat>
+						<lon>-87.757828831673</lon>
+
+							<typ>S</typ>
+                			<stpid>3728</stpid>
+                			<stpnm>Lawrence &amp; Laramie/Avondale</stpnm>
+                			<pdist>1678.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.967858631614</lat>
+						<lon>-87.757710814476</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.967846665956</lat>
+						<lon>-87.756482362747</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.967842677403</lat>
+						<lon>-87.755420207977</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.967906494226</lat>
+						<lon>-87.755334377289</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.967914471325</lat>
+						<lon>-87.755151987076</lon>
+
+							<typ>S</typ>
+                			<stpid>3729</stpid>
+                			<stpnm>Lawrence &amp; Leclaire</stpnm>
+                			<pdist>2383.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.967942391162</lat>
+						<lon>-87.752727270126</lon>
+
+							<typ>S</typ>
+                			<stpid>3730</stpid>
+                			<stpnm>Lawrence &amp; Lavergne</stpnm>
+                			<pdist>3067.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.967958345348</lat>
+						<lon>-87.750635147095</lon>
+
+							<typ>S</typ>
+                			<stpid>3731</stpid>
+                			<stpnm>Lawrence &amp; Lamon </stpnm>
+                			<pdist>3640.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.968018173514</lat>
+						<lon>-87.7478992939</lon>
+
+							<typ>S</typ>
+                			<stpid>3732</stpid>
+                			<stpnm>Lawrence &amp; Cicero</stpnm>
+                			<pdist>4394.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.968010196428</lat>
+						<lon>-87.747502326965</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.96803013914</lat>
+						<lon>-87.74585545063</lon>
+
+							<typ>S</typ>
+                			<stpid>3733</stpid>
+                			<stpnm>Lawrence &amp; Kilpatrick </stpnm>
+                			<pdist>5058.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.968066036006</lat>
+						<lon>-87.74296939373</lon>
+
+							<typ>S</typ>
+                			<stpid>3734</stpid>
+                			<stpnm>Lawrence &amp; Kenton</stpnm>
+                			<pdist>5727.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.9680859787</lat>
+						<lon>-87.740566134453</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.968105921388</lat>
+						<lon>-87.739616632462</lon>
+
+							<typ>S</typ>
+                			<stpid>17475</stpid>
+                			<stpnm>Lawrence &amp; Elston</stpnm>
+                			<pdist>6639.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.968121875534</lat>
+						<lon>-87.737535238266</lon>
+
+							<typ>S</typ>
+                			<stpid>17476</stpid>
+                			<stpnm>Lawrence &amp; Kostner</stpnm>
+                			<pdist>7201.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.968133841141</lat>
+						<lon>-87.735545039177</lon>
+
+							<typ>S</typ>
+                			<stpid>3737</stpid>
+                			<stpnm>Lawrence &amp; Kildare</stpnm>
+                			<pdist>7735.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.968173726481</lat>
+						<lon>-87.733066678047</lon>
+
+							<typ>S</typ>
+                			<stpid>3738</stpid>
+                			<stpnm>Lawrence &amp; Keeler</stpnm>
+                			<pdist>8403.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.968209623266</lat>
+						<lon>-87.73060977459</lon>
+
+							<typ>S</typ>
+                			<stpid>3739</stpid>
+                			<stpnm>Lawrence &amp; Karlov</stpnm>
+                			<pdist>9086.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.968225577386</lat>
+						<lon>-87.728168964386</lon>
+
+							<typ>S</typ>
+                			<stpid>3740</stpid>
+                			<stpnm>Lawrence &amp; Pulaski</stpnm>
+                			<pdist>9738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.968253497086</lat>
+						<lon>-87.725685238838</lon>
+
+							<typ>S</typ>
+                			<stpid>3741</stpid>
+                			<stpnm>Lawrence &amp; Springfield</stpnm>
+                			<pdist>10410.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.968285405301</lat>
+						<lon>-87.723260521889</lon>
+
+							<typ>S</typ>
+                			<stpid>3742</stpid>
+                			<stpnm>Lawrence &amp; Hamlin</stpnm>
+                			<pdist>11083.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.968297370877</lat>
+						<lon>-87.720862627029</lon>
+
+							<typ>S</typ>
+                			<stpid>3743</stpid>
+                			<stpnm>Lawrence &amp; Lawndale</stpnm>
+                			<pdist>11743.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.968333267592</lat>
+						<lon>-87.718040943146</lon>
+
+							<typ>S</typ>
+                			<stpid>17132</stpid>
+                			<stpnm>Lawrence &amp; Central Park</stpnm>
+                			<pdist>12532.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.968357198724</lat>
+						<lon>-87.715916633606</lon>
+
+							<typ>S</typ>
+                			<stpid>3745</stpid>
+                			<stpnm>Lawrence &amp; St. Louis</stpnm>
+                			<pdist>13064.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.968405060961</lat>
+						<lon>-87.713229060173</lon>
+
+							<typ>S</typ>
+                			<stpid>3746</stpid>
+                			<stpnm>Lawrence &amp; Kimball (Brown Line)</stpnm>
+                			<pdist>13905.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.968405060961</lat>
+						<lon>-87.711018919945</lon>
+
+							<typ>S</typ>
+                			<stpid>3747</stpid>
+                			<stpnm>Lawrence &amp; Spaulding</stpnm>
+                			<pdist>14386.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.968432980583</lat>
+						<lon>-87.708647847176</lon>
+
+							<typ>S</typ>
+                			<stpid>3748</stpid>
+                			<stpnm>Lawrence &amp; Kedzie</stpnm>
+                			<pdist>15061.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.968444946131</lat>
+						<lon>-87.706121206284</lon>
+
+							<typ>S</typ>
+                			<stpid>3749</stpid>
+                			<stpnm>Lawrence &amp; Albany</stpnm>
+                			<pdist>15737.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.968476854249</lat>
+						<lon>-87.703514099121</lon>
+
+							<typ>S</typ>
+                			<stpid>3750</stpid>
+                			<stpnm>Lawrence &amp; Sacramento</stpnm>
+                			<pdist>16401.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.968500785328</lat>
+						<lon>-87.701137661934</lon>
+
+							<typ>S</typ>
+                			<stpid>3751</stpid>
+                			<stpnm>2900 W Lawrence</stpnm>
+                			<pdist>17029.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.968528704907</lat>
+						<lon>-87.698911428452</lon>
+
+							<typ>S</typ>
+                			<stpid>3752</stpid>
+                			<stpnm>Lawrence &amp; California</stpnm>
+                			<pdist>17748.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.968532693418</lat>
+						<lon>-87.696400880814</lon>
+
+							<typ>S</typ>
+                			<stpid>3753</stpid>
+                			<stpnm>Lawrence &amp; Washtenaw</stpnm>
+                			<pdist>18408.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.968552635966</lat>
+						<lon>-87.693638205528</lon>
+
+							<typ>S</typ>
+                			<stpid>17251</stpid>
+                			<stpnm>Lawrence &amp; Rockwell</stpnm>
+                			<pdist>19160.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.968560612984</lat>
+						<lon>-87.691465616226</lon>
+
+							<typ>S</typ>
+                			<stpid>3755</stpid>
+                			<stpnm>Lawrence &amp; Campbell</stpnm>
+                			<pdist>19726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.968572578508</lat>
+						<lon>-87.689116001129</lon>
+
+							<typ>S</typ>
+                			<stpid>3756</stpid>
+                			<stpnm>Lawrence &amp; Western</stpnm>
+                			<pdist>20372.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.968656337117</lat>
+						<lon>-87.686203122139</lon>
+
+							<typ>S</typ>
+                			<stpid>17250</stpid>
+                			<stpnm>Lawrence &amp; Oakley</stpnm>
+                			<pdist>21217.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.968676279626</lat>
+						<lon>-87.684234380722</lon>
+
+							<typ>S</typ>
+                			<stpid>17249</stpid>
+                			<stpnm>Lawrence &amp; Leavitt</stpnm>
+                			<pdist>22022.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.968700210629</lat>
+						<lon>-87.681697010994</lon>
+
+							<typ>S</typ>
+                			<stpid>3759</stpid>
+                			<stpnm>Lawrence &amp; Hoyne</stpnm>
+                			<pdist>22593.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.968724141624</lat>
+						<lon>-87.679438591003</lon>
+
+							<typ>S</typ>
+                			<stpid>3760</stpid>
+                			<stpnm>Lawrence &amp; Damen</stpnm>
+                			<pdist>23186.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.968779980575</lat>
+						<lon>-87.676477432251</lon>
+
+							<typ>S</typ>
+                			<stpid>17606</stpid>
+                			<stpnm>Lawrence &amp; Wolcott</stpnm>
+                			<pdist>24166.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.968795934552</lat>
+						<lon>-87.673940062523</lon>
+
+							<typ>S</typ>
+                			<stpid>3762</stpid>
+                			<stpnm>Lawrence &amp; Ravenswood </stpnm>
+                			<pdist>24710.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.968839807969</lat>
+						<lon>-87.671139836311</lon>
+
+							<typ>S</typ>
+                			<stpid>3764</stpid>
+                			<stpnm>Lawrence &amp; Paulina</stpnm>
+                			<pdist>25441.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.968859750421</lat>
+						<lon>-87.669788002968</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.968915589254</lat>
+						<lon>-87.669793367386</lon>
+
+							<typ>S</typ>
+                			<stpid>17248</stpid>
+                			<stpnm>Lawrence &amp; Ashland</stpnm>
+                			<pdist>26022.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.968859750421</lat>
+						<lon>-87.669788002968</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.968887669844</lat>
+						<lon>-87.66765832901</lon>
+
+							<typ>S</typ>
+                			<stpid>3766</stpid>
+                			<stpnm>Lawrence &amp; Clark</stpnm>
+                			<pdist>26373.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.96891957774</lat>
+						<lon>-87.664654254913</lon>
+
+							<typ>S</typ>
+                			<stpid>3767</stpid>
+                			<stpnm>Lawrence &amp; Beacon</stpnm>
+                			<pdist>27189.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.968943508652</lat>
+						<lon>-87.663173675537</lon>
+
+							<typ>S</typ>
+                			<stpid>3768</stpid>
+                			<stpnm>Lawrence &amp; Malden</stpnm>
+                			<pdist>27579.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.968971428038</lat>
+						<lon>-87.661274671555</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.969015301334</lat>
+						<lon>-87.65981554985</lon>
+
+							<typ>S</typ>
+                			<stpid>3769</stpid>
+                			<stpnm>Lawrence &amp; Broadway</stpnm>
+                			<pdist>28449.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.969023278293</lat>
+						<lon>-87.658410072327</lon>
+
+							<typ>S</typ>
+                			<stpid>3770</stpid>
+                			<stpnm>Lawrence Red Line Station</stpnm>
+                			<pdist>28840.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.969039232209</lat>
+						<lon>-87.656328678131</lon>
+
+							<typ>S</typ>
+                			<stpid>3771</stpid>
+                			<stpnm>Lawrence &amp; Kenmore</stpnm>
+                			<pdist>29390.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.969067151553</lat>
+						<lon>-87.65464425087</lon>
+
+							<typ>S</typ>
+                			<stpid>16192</stpid>
+                			<stpnm>Lawrence &amp; Sheridan</stpnm>
+                			<pdist>29896.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.969095070885</lat>
+						<lon>-87.652691602707</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.969115172796</lat>
+						<lon>-87.650379538536</lon>
+
+							<typ>S</typ>
+                			<stpid>2363</stpid>
+                			<stpnm>Lawrence &amp; Marine Drive</stpnm>
+                			<pdist>31027.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.969154897983</lat>
+						<lon>-87.649537324905</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.969222701959</lat>
+						<lon>-87.648823857307</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.968863738911</lat>
+						<lon>-87.648523449898</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.968512750863</lat>
+						<lon>-87.64824450016</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.967938402614</lat>
+						<lon>-87.64786362648</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.967256357343</lat>
+						<lon>-87.647724151611</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.9670329959</lat>
+						<lon>-87.647772431374</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.966554361601</lat>
+						<lon>-87.647788524628</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.96632700905</lat>
+						<lon>-87.647815346718</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.96561303699</lat>
+						<lon>-87.648008465767</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.965545229172</lat>
+						<lon>-87.648561000824</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.965692810801</lat>
+						<lon>-87.648609280586</lon>
+
+							<typ>S</typ>
+                			<stpid>3773</stpid>
+                			<stpnm>Marine Drive &amp; Wilson</stpnm>
+                			<pdist>33247.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>5612</pid>
+				<ln>31922.0</ln>
+				<rtdir>West Bound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.965692810801</lat>
+						<lon>-87.648609280586</lon>
+
+							<typ>S</typ>
+                			<stpid>3773</stpid>
+                			<stpnm>Marine Drive &amp; Wilson</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.966446668389</lat>
+						<lon>-87.648823857307</lon>
+
+							<typ>S</typ>
+                			<stpid>3774</stpid>
+                			<stpnm>4646 N Marine Drive</stpnm>
+                			<pdist>256.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.96736803777</lat>
+						<lon>-87.649092078209</lon>
+
+							<typ>S</typ>
+                			<stpid>3775</stpid>
+                			<stpnm>Marine Drive &amp; Leland</stpnm>
+                			<pdist>608.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.969206748089</lat>
+						<lon>-87.649623155594</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.969174840336</lat>
+						<lon>-87.650363445282</lon>
+
+							<typ>S</typ>
+                			<stpid>3776</stpid>
+                			<stpnm>Lawrence &amp; Clarendon</stpnm>
+                			<pdist>1612.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.969150909511</lat>
+						<lon>-87.652691602707</lon>
+
+							<typ>S</typ>
+                			<stpid>3777</stpid>
+                			<stpnm>856 W Lawrence</stpnm>
+                			<pdist>2024.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.969115013257</lat>
+						<lon>-87.655127048492</lon>
+
+							<typ>S</typ>
+                			<stpid>14582</stpid>
+                			<stpnm>Lawrence &amp; Sheridan</stpnm>
+                			<pdist>2817.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.969095070885</lat>
+						<lon>-87.656532526016</lon>
+
+							<typ>S</typ>
+                			<stpid>15461</stpid>
+                			<stpnm>Lawrence &amp; Kenmore</stpnm>
+                			<pdist>3179.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.969075128506</lat>
+						<lon>-87.658710479736</lon>
+
+							<typ>S</typ>
+                			<stpid>3780</stpid>
+                			<stpnm>Lawrence Red Line Station</stpnm>
+                			<pdist>3681.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.96907114003</lat>
+						<lon>-87.659971117973</lon>
+
+							<typ>S</typ>
+                			<stpid>3781</stpid>
+                			<stpnm>Lawrence &amp; Broadway</stpnm>
+                			<pdist>4075.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.969011312853</lat>
+						<lon>-87.662883996964</lon>
+
+							<typ>S</typ>
+                			<stpid>3782</stpid>
+                			<stpnm>Lawrence &amp; Malden</stpnm>
+                			<pdist>4913.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.968987381967</lat>
+						<lon>-87.664332389832</lon>
+
+							<typ>S</typ>
+                			<stpid>3783</stpid>
+                			<stpnm>Lawrence &amp; Beacon</stpnm>
+                			<pdist>5219.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.968940000001</lat>
+						<lon>-87.667838333335</lon>
+
+							<typ>S</typ>
+                			<stpid>17394</stpid>
+                			<stpnm>Lawrence &amp; Clark</stpnm>
+                			<pdist>6170.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.96891957774</lat>
+						<lon>-87.669739723206</lon>
+
+							<typ>S</typ>
+                			<stpid>17247</stpid>
+                			<stpnm>Lawrence &amp; Ashland</stpnm>
+                			<pdist>6724.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.968887669844</lat>
+						<lon>-87.672459483147</lon>
+
+							<typ>S</typ>
+                			<stpid>3787</stpid>
+                			<stpnm>Lawrence &amp; Hermitage</stpnm>
+                			<pdist>7402.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.968859750421</lat>
+						<lon>-87.67405807972</lon>
+
+							<typ>S</typ>
+                			<stpid>3788</stpid>
+                			<stpnm>Lawrence &amp; Ravenswood </stpnm>
+                			<pdist>7815.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.968836666668</lat>
+						<lon>-87.676484999999</lon>
+
+							<typ>S</typ>
+                			<stpid>17603</stpid>
+                			<stpnm>Lawrence &amp; Wolcott</stpnm>
+                			<pdist>8404.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.96878396907</lat>
+						<lon>-87.679819464684</lon>
+
+							<typ>S</typ>
+                			<stpid>17604</stpid>
+                			<stpnm>Lawrence &amp; Damen</stpnm>
+                			<pdist>9123.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.968764026594</lat>
+						<lon>-87.681477069855</lon>
+
+							<typ>S</typ>
+                			<stpid>3791</stpid>
+                			<stpnm>Lawrence &amp; Hoyne</stpnm>
+                			<pdist>9624.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.968740095615</lat>
+						<lon>-87.683933973312</lon>
+
+							<typ>S</typ>
+                			<stpid>3792</stpid>
+                			<stpnm>Lawrence &amp; Leavitt</stpnm>
+                			<pdist>10289.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.968692233629</lat>
+						<lon>-87.686723470688</lon>
+
+							<typ>S</typ>
+                			<stpid>17246</stpid>
+                			<stpnm>Lawrence &amp; Oakley</stpnm>
+                			<pdist>11123.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.968640383104</lat>
+						<lon>-87.688702940941</lon>
+
+							<typ>S</typ>
+                			<stpid>3794</stpid>
+                			<stpnm>Lawrence &amp; Western</stpnm>
+                			<pdist>11591.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.968616452079</lat>
+						<lon>-87.69134759903</lon>
+
+							<typ>S</typ>
+                			<stpid>3795</stpid>
+                			<stpnm>Lawrence &amp; Campbell</stpnm>
+                			<pdist>12375.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.968608475068</lat>
+						<lon>-87.694008350372</lon>
+
+							<typ>S</typ>
+                			<stpid>17245</stpid>
+                			<stpnm>Lawrence &amp; Rockwell</stpnm>
+                			<pdist>13076.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.968592521044</lat>
+						<lon>-87.696154117584</lon>
+
+							<typ>S</typ>
+                			<stpid>3797</stpid>
+                			<stpnm>Lawrence &amp; Washtenaw</stpnm>
+                			<pdist>13589.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.968580555523</lat>
+						<lon>-87.698911428452</lon>
+
+							<typ>S</typ>
+                			<stpid>15931</stpid>
+                			<stpnm>Lawrence &amp; California</stpnm>
+                			<pdist>14420.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.968560612984</lat>
+						<lon>-87.7010679245</lon>
+
+							<typ>S</typ>
+                			<stpid>3799</stpid>
+                			<stpnm>2900 W Lawrence</stpnm>
+                			<pdist>15173.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.968516739375</lat>
+						<lon>-87.703964710236</lon>
+
+							<typ>S</typ>
+                			<stpid>15948</stpid>
+                			<stpnm>Lawrence &amp; Sacramento</stpnm>
+                			<pdist>15798.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.968516739375</lat>
+						<lon>-87.705928087234</lon>
+
+							<typ>S</typ>
+                			<stpid>3801</stpid>
+                			<stpnm>Lawrence &amp; Albany</stpnm>
+                			<pdist>16317.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.968492808303</lat>
+						<lon>-87.708277702332</lon>
+
+							<typ>S</typ>
+                			<stpid>3802</stpid>
+                			<stpnm>Lawrence &amp; Kedzie</stpnm>
+                			<pdist>16968.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.968464888707</lat>
+						<lon>-87.710798978806</lon>
+
+							<typ>S</typ>
+                			<stpid>3803</stpid>
+                			<stpnm>Lawrence &amp; Spaulding</stpnm>
+                			<pdist>17643.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.968460900192</lat>
+						<lon>-87.713041305542</lon>
+
+							<typ>S</typ>
+                			<stpid>3804</stpid>
+                			<stpnm>Lawrence &amp; Kimball (Brown Line)</stpnm>
+                			<pdist>18305.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.968421015032</lat>
+						<lon>-87.715616226196</lon>
+
+							<typ>S</typ>
+                			<stpid>3805</stpid>
+                			<stpnm>Lawrence &amp; St. Louis</stpnm>
+                			<pdist>18980.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.968389106886</lat>
+						<lon>-87.718089222908</lon>
+
+							<typ>S</typ>
+                			<stpid>3806</stpid>
+                			<stpnm>Lawrence &amp; Central Park</stpnm>
+                			<pdist>19643.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.968365175766</lat>
+						<lon>-87.720583677292</lon>
+
+							<typ>S</typ>
+                			<stpid>3807</stpid>
+                			<stpnm>Lawrence &amp; Lawndale</stpnm>
+                			<pdist>20310.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.968349221681</lat>
+						<lon>-87.722970843315</lon>
+
+							<typ>S</typ>
+                			<stpid>3808</stpid>
+                			<stpnm>Lawrence &amp; Hamlin</stpnm>
+                			<pdist>20982.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.968317313499</lat>
+						<lon>-87.725465297699</lon>
+
+							<typ>S</typ>
+                			<stpid>3809</stpid>
+                			<stpnm>Lawrence &amp; Springfield</stpnm>
+                			<pdist>21649.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.968281416775</lat>
+						<lon>-87.727890014648</lon>
+
+							<typ>S</typ>
+                			<stpid>3810</stpid>
+                			<stpnm>Lawrence &amp; Pulaski</stpnm>
+                			<pdist>22314.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.968273439722</lat>
+						<lon>-87.730346918106</lon>
+
+							<typ>S</typ>
+                			<stpid>3811</stpid>
+                			<stpnm>Lawrence &amp; Karlov</stpnm>
+                			<pdist>22985.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.968233554445</lat>
+						<lon>-87.73284137249</lon>
+
+							<typ>S</typ>
+                			<stpid>3812</stpid>
+                			<stpnm>Lawrence &amp; Keeler</stpnm>
+                			<pdist>23660.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.968197657673</lat>
+						<lon>-87.735233902931</lon>
+
+							<typ>S</typ>
+                			<stpid>3813</stpid>
+                			<stpnm>Lawrence &amp; Kildare</stpnm>
+                			<pdist>24329.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.96818968061</lat>
+						<lon>-87.737733721733</lon>
+
+							<typ>S</typ>
+                			<stpid>3814</stpid>
+                			<stpnm>Lawrence &amp; Kostner</stpnm>
+                			<pdist>25000.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.968169737948</lat>
+						<lon>-87.739906311035</lon>
+
+							<typ>S</typ>
+                			<stpid>3815</stpid>
+                			<stpnm>Lawrence &amp; Elston</stpnm>
+                			<pdist>25614.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.96812586407</lat>
+						<lon>-87.742808461189</lon>
+
+							<typ>S</typ>
+                			<stpid>3816</stpid>
+                			<stpnm>Lawrence &amp; Kenton</stpnm>
+                			<pdist>26391.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.968093955776</lat>
+						<lon>-87.74552822113</lon>
+
+							<typ>S</typ>
+                			<stpid>17133</stpid>
+                			<stpnm>Lawrence &amp; Kilpatrick</stpnm>
+                			<pdist>27085.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.968078001623</lat>
+						<lon>-87.747502326965</lon>
+
+							<typ>S</typ>
+                			<stpid>3818</stpid>
+                			<stpnm>Lawrence &amp; Cicero</stpnm>
+                			<pdist>27598.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.968038116223</lat>
+						<lon>-87.74983048439</lon>
+
+							<typ>S</typ>
+                			<stpid>3819</stpid>
+                			<stpnm>Lawrence &amp; Lamon </stpnm>
+                			<pdist>28237.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.968006207885</lat>
+						<lon>-87.752442955971</lon>
+
+							<typ>S</typ>
+                			<stpid>3820</stpid>
+                			<stpnm>Lawrence &amp; Lavergne</stpnm>
+                			<pdist>28956.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.967974299531</lat>
+						<lon>-87.754889130592</lon>
+
+							<typ>S</typ>
+                			<stpid>3821</stpid>
+                			<stpnm>Lawrence &amp; Leclaire</stpnm>
+                			<pdist>29606.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.967958345348</lat>
+						<lon>-87.755329012871</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.968014184971</lat>
+						<lon>-87.755420207977</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.967986265166</lat>
+						<lon>-87.757651805878</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.967946379709</lat>
+						<lon>-87.75778055191</lon>
+
+							<typ>S</typ>
+                			<stpid>3822</stpid>
+                			<stpnm>Lawrence &amp; Laramie/Avondale</stpnm>
+                			<pdist>30430.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.967942391162</lat>
+						<lon>-87.759148478508</lon>
+
+							<typ>S</typ>
+                			<stpid>3823</stpid>
+                			<stpnm>Lawrence &amp; Lipps</stpnm>
+                			<pdist>30787.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.967918459874</lat>
+						<lon>-87.760725617409</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.969442067271</lat>
+						<lon>-87.761433720589</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.969597616761</lat>
+						<lon>-87.761127948761</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.969816980782</lat>
+						<lon>-87.761331796646</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.969689350898</lat>
+						<lon>-87.761551737785</lon>
+
+							<typ>S</typ>
+                			<stpid>14102</stpid>
+                			<stpnm>Jefferson Park Transit Center</stpnm>
+                			<pdist>31922.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

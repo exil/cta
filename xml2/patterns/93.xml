@@ -1,0 +1,2205 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>1800</pid>
+				<ln>39825.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.968397083924</lat>
+						<lon>-87.712317109108</lon>
+
+							<typ>S</typ>
+                			<stpid>11891</stpid>
+                			<stpnm>Lawrence &amp; Christiana</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.968405060961</lat>
+						<lon>-87.711018919945</lon>
+
+							<typ>S</typ>
+                			<stpid>3747</stpid>
+                			<stpnm>Lawrence &amp; Spaulding</stpnm>
+                			<pdist>335.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.968440957615</lat>
+						<lon>-87.708427906036</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.96880391154</lat>
+						<lon>-87.708433270454</lon>
+
+							<typ>S</typ>
+                			<stpid>11892</stpid>
+                			<stpnm>Kedzie &amp; Lawrence</stpnm>
+                			<pdist>1133.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.970191892086</lat>
+						<lon>-87.708460092545</lon>
+
+							<typ>S</typ>
+                			<stpid>11893</stpid>
+                			<stpnm>Kedzie &amp; Ainslie</stpnm>
+                			<pdist>1623.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.971978673091</lat>
+						<lon>-87.708519101143</lon>
+
+							<typ>S</typ>
+                			<stpid>11894</stpid>
+                			<stpnm>Kedzie &amp; Argyle</stpnm>
+                			<pdist>2300.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.973777368522</lat>
+						<lon>-87.708562016487</lon>
+
+							<typ>S</typ>
+                			<stpid>11895</stpid>
+                			<stpnm>Kedzie &amp; Carmen</stpnm>
+                			<pdist>2964.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.975723571549</lat>
+						<lon>-87.708626389503</lon>
+
+							<typ>S</typ>
+                			<stpid>11896</stpid>
+                			<stpnm>Kedzie &amp; Foster</stpnm>
+                			<pdist>3627.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.97575946408</lat>
+						<lon>-87.705949544907</lon>
+
+							<typ>S</typ>
+                			<stpid>4774</stpid>
+                			<stpnm>Foster &amp; Albany</stpnm>
+                			<pdist>4416.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.975787380478</lat>
+						<lon>-87.702816724777</lon>
+
+							<typ>S</typ>
+                			<stpid>4775</stpid>
+                			<stpnm>Foster &amp; Virginia</stpnm>
+                			<pdist>5271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.975787380478</lat>
+						<lon>-87.701255679131</lon>
+
+							<typ>S</typ>
+                			<stpid>4776</stpid>
+                			<stpnm>Foster &amp; Francisco</stpnm>
+                			<pdist>5577.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.975799344645</lat>
+						<lon>-87.698884606361</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.976170232706</lat>
+						<lon>-87.698889970779</lon>
+
+							<typ>S</typ>
+                			<stpid>11897</stpid>
+                			<stpnm>California &amp; Foster</stpnm>
+                			<pdist>6382.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.976760458715</lat>
+						<lon>-87.698900699615</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.977733522085</lat>
+						<lon>-87.698938250542</lon>
+
+							<typ>S</typ>
+                			<stpid>11898</stpid>
+                			<stpnm>California &amp; Berwyn</stpnm>
+                			<pdist>6892.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.979364566269</lat>
+						<lon>-87.698986530304</lon>
+
+							<typ>S</typ>
+                			<stpid>11899</stpid>
+                			<stpnm>California &amp; Balmoral</stpnm>
+                			<pdist>7569.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.98036550424</lat>
+						<lon>-87.699029445648</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.981198942577</lat>
+						<lon>-87.699056267738</lon>
+
+							<typ>S</typ>
+                			<stpid>11900</stpid>
+                			<stpnm>California &amp; Catalpa</stpnm>
+                			<pdist>8240.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.98300535282</lat>
+						<lon>-87.699109911919</lon>
+
+							<typ>S</typ>
+                			<stpid>11901</stpid>
+                			<stpnm>California &amp; Bryn Mawr</stpnm>
+                			<pdist>8908.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.984911399009</lat>
+						<lon>-87.699147462845</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.985270271615</lat>
+						<lon>-87.699179649353</lon>
+
+							<typ>S</typ>
+                			<stpid>11902</stpid>
+                			<stpnm>California &amp; Lincoln</stpnm>
+                			<pdist>9745.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.986629981693</lat>
+						<lon>-87.699227929115</lon>
+
+							<typ>S</typ>
+                			<stpid>11903</stpid>
+                			<stpnm>California &amp; Ardmore</stpnm>
+                			<pdist>10217.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.988456174168</lat>
+						<lon>-87.69927084446</lon>
+
+							<typ>S</typ>
+                			<stpid>11904</stpid>
+                			<stpnm>California &amp; Thorndale</stpnm>
+                			<pdist>10906.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.990262378512</lat>
+						<lon>-87.699345946312</lon>
+
+							<typ>S</typ>
+                			<stpid>11905</stpid>
+                			<stpnm>California &amp; Peterson</stpnm>
+                			<pdist>11576.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.990537491232</lat>
+						<lon>-87.69935131073</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.992104414923</lat>
+						<lon>-87.69940495491</lon>
+
+							<typ>S</typ>
+                			<stpid>11906</stpid>
+                			<stpnm>California &amp; Glenlake</stpnm>
+                			<pdist>12225.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.99386267268</lat>
+						<lon>-87.699469327927</lon>
+
+							<typ>S</typ>
+                			<stpid>11907</stpid>
+                			<stpnm>California &amp; Granville</stpnm>
+                			<pdist>12879.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.995644802745</lat>
+						<lon>-87.699522972107</lon>
+
+							<typ>S</typ>
+                			<stpid>11908</stpid>
+                			<stpnm>California &amp; Rosemont</stpnm>
+                			<pdist>13505.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.997438843009</lat>
+						<lon>-87.699592709541</lon>
+
+							<typ>S</typ>
+                			<stpid>11909</stpid>
+                			<stpnm>California &amp; Devon</stpnm>
+                			<pdist>14181.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.997634191007</lat>
+						<lon>-87.699592709541</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.999268711977</lat>
+						<lon>-87.699630260468</lon>
+
+							<typ>S</typ>
+                			<stpid>11910</stpid>
+                			<stpnm>California &amp; Arthur</stpnm>
+                			<pdist>14870.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>42.001074609499</lat>
+						<lon>-87.699683904648</lon>
+
+							<typ>S</typ>
+                			<stpid>11911</stpid>
+                			<stpnm>California &amp; Albion</stpnm>
+                			<pdist>15526.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>42.002904373919</lat>
+						<lon>-87.69973218441</lon>
+
+							<typ>S</typ>
+                			<stpid>11912</stpid>
+                			<stpnm>California &amp; North Shore</stpnm>
+                			<pdist>16189.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>42.004722126992</lat>
+						<lon>-87.699769735336</lon>
+
+							<typ>S</typ>
+                			<stpid>11913</stpid>
+                			<stpnm>California &amp; Pratt</stpnm>
+                			<pdist>16849.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>42.005750569542</lat>
+						<lon>-87.69973218441</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>42.00654780039</lat>
+						<lon>-87.699742913246</lon>
+
+							<typ>S</typ>
+                			<stpid>11914</stpid>
+                			<stpnm>California &amp; Morse</stpnm>
+                			<pdist>17512.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>42.007540338834</lat>
+						<lon>-87.699737548828</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>42.00801069301</lat>
+						<lon>-87.699710726738</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>42.008369435383</lat>
+						<lon>-87.699710726738</lon>
+
+							<typ>S</typ>
+                			<stpid>11915</stpid>
+                			<stpnm>California &amp; Lunt</stpnm>
+                			<pdist>18179.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>42.009369917312</lat>
+						<lon>-87.69967854023</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>42.010167102803</lat>
+						<lon>-87.699694633484</lon>
+
+							<typ>S</typ>
+                			<stpid>11916</stpid>
+                			<stpnm>California &amp; Estes</stpnm>
+                			<pdist>18834.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>42.011956747843</lat>
+						<lon>-87.699662446976</lon>
+
+							<typ>S</typ>
+                			<stpid>11917</stpid>
+                			<stpnm>California &amp; Touhy</stpnm>
+                			<pdist>19494.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>42.012949201895</lat>
+						<lon>-87.699640989304</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>42.013782213623</lat>
+						<lon>-87.699614167213</lon>
+
+							<typ>S</typ>
+                			<stpid>11919</stpid>
+                			<stpnm>California &amp; Chase</stpnm>
+                			<pdist>20157.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>42.015587699202</lat>
+						<lon>-87.699598073959</lon>
+
+							<typ>S</typ>
+                			<stpid>11920</stpid>
+                			<stpnm>California &amp; Jarvis</stpnm>
+                			<pdist>20824.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>42.016600024098</lat>
+						<lon>-87.699576616287</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>42.01743298801</lat>
+						<lon>-87.699560523033</lon>
+
+							<typ>S</typ>
+                			<stpid>11921</stpid>
+                			<stpnm>California &amp; Birchwood</stpnm>
+                			<pdist>21489.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>42.019198516596</lat>
+						<lon>-87.699512243271</lon>
+
+							<typ>S</typ>
+                			<stpid>14732</stpid>
+                			<stpnm>California/Dodge &amp; Howard</stpnm>
+                			<pdist>22149.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>42.019756461261</lat>
+						<lon>-87.699512243271</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>42.020226725105</lat>
+						<lon>-87.699485421181</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>42.021231005738</lat>
+						<lon>-87.699463963509</lon>
+
+							<typ>S</typ>
+                			<stpid>3524</stpid>
+                			<stpnm>Dodge &amp; Brummel</stpnm>
+                			<pdist>22890.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>42.022888831126</lat>
+						<lon>-87.699469327927</lon>
+
+							<typ>S</typ>
+                			<stpid>3525</stpid>
+                			<stpnm>Dodge &amp; Mulford</stpnm>
+                			<pdist>23476.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>42.024709998134</lat>
+						<lon>-87.699453234673</lon>
+
+							<typ>S</typ>
+                			<stpid>3526</stpid>
+                			<stpnm>Dodge &amp; Kirk</stpnm>
+                			<pdist>24152.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>42.025423307537</lat>
+						<lon>-87.699415683746</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>42.026463370033</lat>
+						<lon>-87.69937813282</lon>
+
+							<typ>S</typ>
+                			<stpid>14733</stpid>
+                			<stpnm>Dodge &amp; Oakton</stpnm>
+                			<pdist>24810.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>42.027264326106</lat>
+						<lon>-87.699383497238</lon>
+
+							<typ>S</typ>
+                			<stpid>14356</stpid>
+                			<stpnm>Dodge &amp; South Blvd</stpnm>
+                			<pdist>25225.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>42.027499430699</lat>
+						<lon>-87.69937813282</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>42.028272480349</lat>
+						<lon>-87.699356675148</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>42.028925978907</lat>
+						<lon>-87.699335217476</lon>
+
+							<typ>S</typ>
+                			<stpid>14360</stpid>
+                			<stpnm>Dodge &amp; Seward</stpnm>
+                			<pdist>25728.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>42.029830505461</lat>
+						<lon>-87.699329853058</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>42.030583603653</lat>
+						<lon>-87.699303030968</lon>
+
+							<typ>S</typ>
+                			<stpid>14364</stpid>
+                			<stpnm>Dodge &amp; Monroe</stpnm>
+                			<pdist>26407.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>42.031575767015</lat>
+						<lon>-87.699286937714</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>42.032033989846</lat>
+						<lon>-87.699303030968</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>42.03257189939</lat>
+						<lon>-87.699265480042</lon>
+
+							<typ>S</typ>
+                			<stpid>14367</stpid>
+                			<stpnm>Dodge &amp; Washington</stpnm>
+                			<pdist>27026.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>42.033277151672</lat>
+						<lon>-87.699249386787</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>42.033719424534</lat>
+						<lon>-87.699244022369</lon>
+
+							<typ>S</typ>
+                			<stpid>12698</stpid>
+                			<stpnm>Dodge &amp; Main</stpnm>
+                			<pdist>27472.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>42.03391067671</lat>
+						<lon>-87.699244022369</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>42.034982475133</lat>
+						<lon>-87.699185013771</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>42.035596061633</lat>
+						<lon>-87.699158191681</lon>
+
+							<typ>S</typ>
+                			<stpid>14368</stpid>
+                			<stpnm>Dodge &amp; Lee</stpnm>
+                			<pdist>28230.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>42.03732124388</lat>
+						<lon>-87.699190378189</lon>
+
+							<typ>S</typ>
+                			<stpid>14370</stpid>
+                			<stpnm>Dodge &amp; Greenleaf</stpnm>
+                			<pdist>28806.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>42.039161917869</lat>
+						<lon>-87.699120640755</lon>
+
+							<typ>S</typ>
+                			<stpid>14372</stpid>
+                			<stpnm>Dodge &amp; Crain</stpnm>
+                			<pdist>29458.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>42.040894971269</lat>
+						<lon>-87.69907772541</lon>
+
+							<typ>S</typ>
+                			<stpid>14374</stpid>
+                			<stpnm>Dodge &amp; Dempster</stpnm>
+                			<pdist>30121.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>42.041416870044</lat>
+						<lon>-87.69907772541</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>42.042608058061</lat>
+						<lon>-87.69905090332</lon>
+
+							<typ>S</typ>
+                			<stpid>14376</stpid>
+                			<stpnm>Dodge &amp; Greenwood</stpnm>
+                			<pdist>30800.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>42.04384702926</lat>
+						<lon>-87.699072360992</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>42.044297196092</lat>
+						<lon>-87.699056267738</lon>
+
+							<typ>S</typ>
+                			<stpid>13112</stpid>
+                			<stpnm>Dodge &amp; Lake</stpnm>
+                			<pdist>31171.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>42.045611824332</lat>
+						<lon>-87.698981165886</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>42.047049916796</lat>
+						<lon>-87.698975801468</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>42.048193196996</lat>
+						<lon>-87.698948979378</lon>
+
+							<typ>S</typ>
+                			<stpid>13135</stpid>
+                			<stpnm>Dodge &amp; Church</stpnm>
+                			<pdist>32678.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>42.050248659472</lat>
+						<lon>-87.698895335197</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>42.052049126218</lat>
+						<lon>-87.698873877525</lon>
+
+							<typ>S</typ>
+                			<stpid>12697</stpid>
+                			<stpnm>Dodge &amp; Emerson</stpnm>
+                			<pdist>34050.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>42.052080992427</lat>
+						<lon>-87.697350382805</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>42.052104892073</lat>
+						<lon>-87.695800065994</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>42.052160657878</lat>
+						<lon>-87.693884968758</lon>
+
+							<typ>S</typ>
+                			<stpid>14734</stpid>
+                			<stpnm>Emerson &amp; Ashland</stpnm>
+                			<pdist>35473.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>42.052196507298</lat>
+						<lon>-87.691921591759</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>42.052236339964</lat>
+						<lon>-87.690398097038</lon>
+
+							<typ>S</typ>
+                			<stpid>14735</stpid>
+                			<stpnm>Emerson &amp; Asbury</stpnm>
+                			<pdist>36433.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>42.052252273023</lat>
+						<lon>-87.690135240555</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>42.052248289759</lat>
+						<lon>-87.690027952194</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>42.052204473833</lat>
+						<lon>-87.688987255096</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>42.052160657878</lat>
+						<lon>-87.688364982605</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>42.052120825165</lat>
+						<lon>-87.687764167786</lon>
+
+							<typ>S</typ>
+                			<stpid>14736</stpid>
+                			<stpnm>Emerson &amp; Ridge</stpnm>
+                			<pdist>37134.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>42.052108875346</lat>
+						<lon>-87.686557173729</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>42.052112858619</lat>
+						<lon>-87.684765458107</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>42.052045142941</lat>
+						<lon>-87.684765458107</lon>
+
+							<typ>S</typ>
+                			<stpid>12664</stpid>
+                			<stpnm>Emerson &amp; Maple</stpnm>
+                			<pdist>37896.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>42.051507398229</lat>
+						<lon>-87.684770822525</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>42.051089149194</lat>
+						<lon>-87.684781551361</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>42.050057456466</lat>
+						<lon>-87.684819102287</lon>
+
+							<typ>S</typ>
+                			<stpid>14408</stpid>
+                			<stpnm>Maple &amp; Clark</stpnm>
+                			<pdist>38604.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>42.048476026206</lat>
+						<lon>-87.684829831123</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>42.048440174685</lat>
+						<lon>-87.683418989182</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>42.047735090676</lat>
+						<lon>-87.683445811272</lon>
+
+							<typ>S</typ>
+                			<stpid>14409</stpid>
+                			<stpnm>Davis Purple Line Station</stpnm>
+                			<pdist>39825.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>1802</pid>
+				<ln>42008.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>42.047735090676</lat>
+						<lon>-87.683445811272</lon>
+
+							<typ>S</typ>
+                			<stpid>14409</stpid>
+                			<stpnm>Davis Purple Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>42.047077801924</lat>
+						<lon>-87.683494091034</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>42.047081785513</lat>
+						<lon>-87.684770822525</lon>
+
+							<typ>S</typ>
+                			<stpid>12686</stpid>
+                			<stpnm>Davis &amp; Maple</stpnm>
+                			<pdist>636.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>42.04710568704</lat>
+						<lon>-87.686626911163</lon>
+
+							<typ>S</typ>
+                			<stpid>12687</stpid>
+                			<stpnm>Davis &amp; Oak</stpnm>
+                			<pdist>1141.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>42.0471176378</lat>
+						<lon>-87.686793208122</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>42.048483993207</lat>
+						<lon>-87.686739563942</lon>
+
+							<typ>S</typ>
+                			<stpid>14756</stpid>
+                			<stpnm>Oak &amp; Church</stpnm>
+                			<pdist>1629.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>42.048460092199</lat>
+						<lon>-87.685473561287</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>42.048476026206</lat>
+						<lon>-87.684754729271</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>42.048695118389</lat>
+						<lon>-87.684744000435</lon>
+
+							<typ>S</typ>
+                			<stpid>12675</stpid>
+                			<stpnm>Maple &amp; Church</stpnm>
+                			<pdist>2275.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>42.049969821563</lat>
+						<lon>-87.684738636017</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>42.051252465811</lat>
+						<lon>-87.684695720673</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>42.051690630272</lat>
+						<lon>-87.684695720673</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>42.051993360315</lat>
+						<lon>-87.684690356255</lon>
+
+							<typ>S</typ>
+                			<stpid>12665</stpid>
+                			<stpnm>Emerson &amp; Maple</stpnm>
+                			<pdist>3586.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>42.052160657878</lat>
+						<lon>-87.684690356255</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>42.052160657878</lat>
+						<lon>-87.686514258385</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>42.052176590956</lat>
+						<lon>-87.687715888023</lon>
+
+							<typ>S</typ>
+                			<stpid>12666</stpid>
+                			<stpnm>Emerson &amp; Ridge</stpnm>
+                			<pdist>4271.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>42.052204473833</lat>
+						<lon>-87.688198685646</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>42.052264222815</lat>
+						<lon>-87.689051628113</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>42.05231600522</lat>
+						<lon>-87.689942121506</lon>
+
+							<typ>S</typ>
+                			<stpid>14737</stpid>
+                			<stpnm>Emerson &amp; Asbury</stpnm>
+                			<pdist>4888.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>42.05231600522</lat>
+						<lon>-87.690086960793</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>42.05231202196</lat>
+						<lon>-87.690253257751</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>42.052268206078</lat>
+						<lon>-87.691422700882</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>42.052216423634</lat>
+						<lon>-87.69387960434</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>42.052112858619</lat>
+						<lon>-87.698959708214</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>42.052116841892</lat>
+						<lon>-87.698954343796</lon>
+
+							<typ>S</typ>
+                			<stpid>15543</stpid>
+                			<stpnm>Dodge &amp; Emerson</stpnm>
+                			<pdist>7430.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>42.050276543196</lat>
+						<lon>-87.698975801468</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>42.048559679674</lat>
+						<lon>-87.699029445648</lon>
+
+							<typ>S</typ>
+                			<stpid>13156</stpid>
+                			<stpnm>Dodge &amp; Church</stpnm>
+                			<pdist>8648.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>42.047049916796</lat>
+						<lon>-87.699061632156</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>42.045536134353</lat>
+						<lon>-87.699066996574</lon>
+
+							<typ>S</typ>
+                			<stpid>14729</stpid>
+                			<stpnm>Dodge &amp; Evanston Township HS</stpnm>
+                			<pdist>9612.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>42.044380855063</lat>
+						<lon>-87.699136734009</lon>
+
+							<typ>S</typ>
+                			<stpid>12710</stpid>
+                			<stpnm>Dodge &amp; Lake</stpnm>
+                			<pdist>10164.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>42.043787272362</lat>
+						<lon>-87.699163556099</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>42.042851073609</lat>
+						<lon>-87.699142098427</lon>
+
+							<typ>S</typ>
+                			<stpid>14377</stpid>
+                			<stpnm>Dodge &amp; Greenwood</stpnm>
+                			<pdist>10662.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>42.04125352814</lat>
+						<lon>-87.699158191681</lon>
+
+							<typ>S</typ>
+                			<stpid>14375</stpid>
+                			<stpnm>Dodge &amp; Dempster</stpnm>
+                			<pdist>11279.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>42.04061210831</lat>
+						<lon>-87.699168920517</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>42.039392994387</lat>
+						<lon>-87.699195742607</lon>
+
+							<typ>S</typ>
+                			<stpid>14373</stpid>
+                			<stpnm>Dodge &amp; Crain</stpnm>
+                			<pdist>11939.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>42.037635994943</lat>
+						<lon>-87.699265480042</lon>
+
+							<typ>S</typ>
+                			<stpid>14371</stpid>
+                			<stpnm>Dodge &amp; Greenleaf</stpnm>
+                			<pdist>12618.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>42.035827151117</lat>
+						<lon>-87.699238657951</lon>
+
+							<typ>S</typ>
+                			<stpid>14369</stpid>
+                			<stpnm>Dodge &amp; Lee</stpnm>
+                			<pdist>13423.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>42.034030209028</lat>
+						<lon>-87.699329853058</lon>
+
+							<typ>S</typ>
+                			<stpid>12699</stpid>
+                			<stpnm>Dodge &amp; Main</stpnm>
+                			<pdist>13941.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>42.033830988373</lat>
+						<lon>-87.699335217476</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>42.032671511768</lat>
+						<lon>-87.69935131073</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>42.032149541169</lat>
+						<lon>-87.699388861656</lon>
+
+							<typ>S</typ>
+                			<stpid>14366</stpid>
+                			<stpnm>Dodge &amp; Washington</stpnm>
+                			<pdist>14616.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>42.031595689816</lat>
+						<lon>-87.699367403984</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>42.030288740873</lat>
+						<lon>-87.699399590492</lon>
+
+							<typ>S</typ>
+                			<stpid>14363</stpid>
+                			<stpnm>Dodge &amp; Cleveland</stpnm>
+                			<pdist>15221.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>42.029017627558</lat>
+						<lon>-87.699421048164</lon>
+
+							<typ>S</typ>
+                			<stpid>14361</stpid>
+                			<stpnm>Dodge &amp; Seward</stpnm>
+                			<pdist>15682.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>42.027539278849</lat>
+						<lon>-87.699469327927</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>42.027264326106</lat>
+						<lon>-87.699469327927</lon>
+
+							<typ>S</typ>
+                			<stpid>14357</stpid>
+                			<stpnm>Dodge &amp; Warren</stpnm>
+                			<pdist>16238.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>42.026722386782</lat>
+						<lon>-87.699442505836</lon>
+
+							<typ>S</typ>
+                			<stpid>14738</stpid>
+                			<stpnm>Dodge &amp; Oakton</stpnm>
+                			<pdist>16594.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>42.025395412906</lat>
+						<lon>-87.699501514435</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>42.024845487686</lat>
+						<lon>-87.699533700943</lon>
+
+							<typ>S</typ>
+                			<stpid>3619</stpid>
+                			<stpnm>Dodge &amp; Kirk</stpnm>
+                			<pdist>17328.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>42.02316778788</lat>
+						<lon>-87.699560523033</lon>
+
+							<typ>S</typ>
+                			<stpid>3620</stpid>
+                			<stpnm>Dodge &amp; Mulford</stpnm>
+                			<pdist>17909.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>42.021454177058</lat>
+						<lon>-87.699544429779</lon>
+
+							<typ>S</typ>
+                			<stpid>3621</stpid>
+                			<stpnm>Dodge &amp; Brummel</stpnm>
+                			<pdist>18568.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>42.020246651462</lat>
+						<lon>-87.699565887451</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>42.019573137125</lat>
+						<lon>-87.699598073959</lon>
+
+							<typ>S</typ>
+                			<stpid>14739</stpid>
+                			<stpnm>Dodge/California &amp; Howard</stpnm>
+                			<pdist>19244.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>42.018871718162</lat>
+						<lon>-87.699608802795</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>42.01770001241</lat>
+						<lon>-87.699630260468</lon>
+
+							<typ>S</typ>
+                			<stpid>11865</stpid>
+                			<stpnm>California &amp; Birchwood</stpnm>
+                			<pdist>19920.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>42.016604009597</lat>
+						<lon>-87.699662446976</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>42.015810890327</lat>
+						<lon>-87.699683904648</lon>
+
+							<typ>S</typ>
+                			<stpid>11866</stpid>
+                			<stpnm>California &amp; Jarvis</stpnm>
+                			<pdist>20584.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>42.014049253351</lat>
+						<lon>-87.699699997902</lon>
+
+							<typ>S</typ>
+                			<stpid>11867</stpid>
+                			<stpnm>California &amp; Chase</stpnm>
+                			<pdist>21253.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>42.012941230438</lat>
+						<lon>-87.69973218441</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>42.012203866364</lat>
+						<lon>-87.699748277664</lon>
+
+							<typ>S</typ>
+                			<stpid>11869</stpid>
+                			<stpnm>California &amp; Touhy</stpnm>
+                			<pdist>21866.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>42.011103782991</lat>
+						<lon>-87.699769735336</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>42.010370383505</lat>
+						<lon>-87.699775099754</lon>
+
+							<typ>S</typ>
+                			<stpid>11870</stpid>
+                			<stpnm>California &amp; Estes</stpnm>
+                			<pdist>22525.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>42.010214933615</lat>
+						<lon>-87.699775099754</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>42.009373903264</lat>
+						<lon>-87.699764370918</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>42.008636497835</lat>
+						<lon>-87.699791193008</lon>
+
+							<typ>S</typ>
+                			<stpid>11871</stpid>
+                			<stpnm>California &amp; Lunt</stpnm>
+                			<pdist>23185.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>42.008014679047</lat>
+						<lon>-87.699807286263</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>42.007532366699</lat>
+						<lon>-87.699823379517</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>42.006771023237</lat>
+						<lon>-87.699828743935</lon>
+
+							<typ>S</typ>
+                			<stpid>11872</stpid>
+                			<stpnm>California &amp; Morse</stpnm>
+                			<pdist>23853.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>42.005702735373</lat>
+						<lon>-87.699823379517</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>42.004961301161</lat>
+						<lon>-87.699855566025</lon>
+
+							<typ>S</typ>
+                			<stpid>11873</stpid>
+                			<stpnm>California &amp; Pratt</stpnm>
+                			<pdist>24508.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>42.003207336371</lat>
+						<lon>-87.699823379517</lon>
+
+							<typ>S</typ>
+                			<stpid>11874</stpid>
+                			<stpnm>California &amp; North Shore</stpnm>
+                			<pdist>25154.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>42.001321770294</lat>
+						<lon>-87.699775099754</lon>
+
+							<typ>S</typ>
+                			<stpid>11875</stpid>
+                			<stpnm>California &amp; Albion</stpnm>
+                			<pdist>25835.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.999507906647</lat>
+						<lon>-87.699716091156</lon>
+
+							<typ>S</typ>
+                			<stpid>11876</stpid>
+                			<stpnm>California &amp; Arthur</stpnm>
+                			<pdist>26498.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.997721898076</lat>
+						<lon>-87.699683904648</lon>
+
+							<typ>S</typ>
+                			<stpid>11877</stpid>
+                			<stpnm>California &amp; Devon</stpnm>
+                			<pdist>27167.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.997526550348</lat>
+						<lon>-87.699689269066</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.995895971427</lat>
+						<lon>-87.699619531631</lon>
+
+							<typ>S</typ>
+                			<stpid>11878</stpid>
+                			<stpnm>California &amp; Rosemont</stpnm>
+                			<pdist>27830.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.994145743653</lat>
+						<lon>-87.699560523033</lon>
+
+							<typ>S</typ>
+                			<stpid>11879</stpid>
+                			<stpnm>California &amp; Granville</stpnm>
+                			<pdist>28488.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.992335662482</lat>
+						<lon>-87.699490785599</lon>
+
+							<typ>S</typ>
+                			<stpid>11880</stpid>
+                			<stpnm>California &amp; Glenlake</stpnm>
+                			<pdist>29147.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.990541478364</lat>
+						<lon>-87.699447870255</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.99019060978</lat>
+						<lon>-87.699426412582</lon>
+
+							<typ>S</typ>
+                			<stpid>15018</stpid>
+                			<stpnm>California &amp; Peterson</stpnm>
+                			<pdist>29964.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.988707371217</lat>
+						<lon>-87.699362039566</lon>
+
+							<typ>S</typ>
+                			<stpid>11882</stpid>
+                			<stpnm>California &amp; Thorndale</stpnm>
+                			<pdist>30440.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.986877198587</lat>
+						<lon>-87.699319124222</lon>
+
+							<typ>S</typ>
+                			<stpid>11883</stpid>
+                			<stpnm>California &amp; Ardmore</stpnm>
+                			<pdist>31116.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.985844463577</lat>
+						<lon>-87.699292302132</lon>
+
+							<typ>S</typ>
+                			<stpid>11884</stpid>
+                			<stpnm>California &amp; Lincoln</stpnm>
+                			<pdist>31512.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.985062923245</lat>
+						<lon>-87.699244022369</lon>
+
+							<typ>S</typ>
+                			<stpid>11885</stpid>
+                			<stpnm>California &amp; Hollywood</stpnm>
+                			<pdist>31784.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.983268534141</lat>
+						<lon>-87.699195742607</lon>
+
+							<typ>S</typ>
+                			<stpid>11886</stpid>
+                			<stpnm>California &amp; Bryn Mawr</stpnm>
+                			<pdist>32436.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.981442192858</lat>
+						<lon>-87.699147462845</lon>
+
+							<typ>S</typ>
+                			<stpid>11887</stpid>
+                			<stpnm>California &amp; Catalpa</stpnm>
+                			<pdist>33111.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.980261822153</lat>
+						<lon>-87.699104547501</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.979587884471</lat>
+						<lon>-87.699083089828</lon>
+
+							<typ>S</typ>
+                			<stpid>11888</stpid>
+                			<stpnm>California &amp; Balmoral</stpnm>
+                			<pdist>33780.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.977801316929</lat>
+						<lon>-87.69902408123</lon>
+
+							<typ>S</typ>
+                			<stpid>11889</stpid>
+                			<stpnm>California &amp; Berwyn</stpnm>
+                			<pdist>34448.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.976752482724</lat>
+						<lon>-87.698986530304</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.976102436125</lat>
+						<lon>-87.69897043705</lon>
+
+							<typ>S</typ>
+                			<stpid>11890</stpid>
+                			<stpnm>California &amp; Foster</stpnm>
+                			<pdist>35104.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>92</seq>
+						<lat>41.975859165446</lat>
+						<lon>-87.69897043705</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>93</seq>
+						<lat>41.975843213238</lat>
+						<lon>-87.701480984688</lon>
+
+							<typ>S</typ>
+                			<stpid>4815</stpid>
+                			<stpnm>Foster &amp; Francisco</stpnm>
+                			<pdist>35738.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>94</seq>
+						<lat>41.975843213238</lat>
+						<lon>-87.702956199646</lon>
+
+							<typ>S</typ>
+                			<stpid>4816</stpid>
+                			<stpnm>Foster &amp; Virginia</stpnm>
+                			<pdist>36134.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>95</seq>
+						<lat>41.975807320755</lat>
+						<lon>-87.706587910652</lon>
+
+							<typ>S</typ>
+                			<stpid>15122</stpid>
+                			<stpnm>Foster &amp; Troy</stpnm>
+                			<pdist>37306.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>96</seq>
+						<lat>41.975783392422</lat>
+						<lon>-87.708535194397</lon>
+
+							<typ>S</typ>
+                			<stpid>4818</stpid>
+                			<stpnm>Foster &amp; Kedzie</stpnm>
+                			<pdist>37691.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>97</seq>
+						<lat>41.975771428252</lat>
+						<lon>-87.710981369019</lon>
+
+							<typ>S</typ>
+                			<stpid>4819</stpid>
+                			<stpnm>Foster &amp; Spaulding</stpnm>
+                			<pdist>38354.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>98</seq>
+						<lat>41.973948860112</lat>
+						<lon>-87.713561654091</lon>
+
+							<typ>S</typ>
+                			<stpid>11124</stpid>
+                			<stpnm>Kimball &amp; Carmen </stpnm>
+                			<pdist>39783.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>99</seq>
+						<lat>41.972907938935</lat>
+						<lon>-87.713534832001</lon>
+
+							<typ>S</typ>
+                			<stpid>11125</stpid>
+                			<stpnm>Kimball &amp; Carmen </stpnm>
+                			<pdist>40109.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>100</seq>
+						<lat>41.971823129415</lat>
+						<lon>-87.713497281075</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>101</seq>
+						<lat>41.970383335305</lat>
+						<lon>-87.713449001312</lon>
+
+							<typ>S</typ>
+                			<stpid>11126</stpid>
+                			<stpnm>Kimball &amp; Ainslie</stpnm>
+                			<pdist>41033.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>102</seq>
+						<lat>41.968401072443</lat>
+						<lon>-87.713389992714</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>103</seq>
+						<lat>41.968397083924</lat>
+						<lon>-87.712317109108</lon>
+
+							<typ>S</typ>
+                			<stpid>11891</stpid>
+                			<stpnm>Lawrence &amp; Christiana</stpnm>
+                			<pdist>42008.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

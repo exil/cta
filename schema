@@ -1,0 +1,11 @@
+CREATE TABLE routes (id integer, direction varchar(200), name varchar(200), primary key (id, direction));
+CREATE TABLE routes_stops (route_id integer, direction varchar(200), stop_id integer, primary key (route_id, direction, stop_id), foreign key (route_id) references routes(id) on delete cascade, foreign key (direction) references routes(direction) on delete cascade, foreign key(stop_id) references stops(stop_id) on delete cascade);
+CREATE TABLE stops (id integer primary key, name varchar(200), latitude decimal(3,6), longitude decimal(3,6));
+
+CREATE TABLE patterns (pattern_id integer, direction varchar(200), route_id integer, stop_id integer, sequence integer, latitude decimal(3,6), longitude decimal(3,6), point_type char(1), primary key (pattern_id, sequence), foreign key (route_id) references routes(id) on delete cascade, foreign key(stop_id) references stops(stop_id) on delete cascade);
+
+
+other things:
+select rs.route_id, rs.stop_id, r.name, s.name from routes_stops as rs inner join stops as s on rs.stop_id = s.id inner join routes as r on rs.route_id = r.id and rs.direction = r.direction where rs.route_id="49" and rs.direction="North Bound"
+
+SELECT s.name, r.id, r.name from routes_stops as rs inner join stops as s on rs.stop_id = s.id inner join routes as r on rs.route_id = r.id and rs.direction = r.direction where rs.stop_id="1104"

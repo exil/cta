@@ -1,0 +1,1629 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>6357</pid>
+				<ln>35338.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.722194647504416</lat>
+						<lon>-87.62392222881317</lon>
+
+							<typ>S</typ>
+                			<stpid>14010</stpid>
+                			<stpnm>95th Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.72159406019736</lat>
+						<lon>-87.62391149997711</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.721666130971</lat>
+						<lon>-87.622173428535</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.721686150615</lat>
+						<lon>-87.620751857758</lon>
+
+							<typ>S</typ>
+                			<stpid>2816</stpid>
+                			<stpnm>95th Street &amp; Michigan</stpnm>
+                			<pdist>1687.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.721714178108</lat>
+						<lon>-87.619142532349</lon>
+
+							<typ>S</typ>
+                			<stpid>2817</stpid>
+                			<stpnm>95th Street &amp; Indiana</stpnm>
+                			<pdist>2130.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.721758221285</lat>
+						<lon>-87.616680264473</lon>
+
+							<typ>S</typ>
+                			<stpid>2818</stpid>
+                			<stpnm>95th Street &amp; Forest</stpnm>
+                			<pdist>2802.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.721798260512</lat>
+						<lon>-87.614357471466</lon>
+
+							<typ>S</typ>
+                			<stpid>2819</stpid>
+                			<stpnm>95th Street &amp; King Drive</stpnm>
+                			<pdist>3458.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.721838299713</lat>
+						<lon>-87.611836194992</lon>
+
+							<typ>S</typ>
+                			<stpid>2265</stpid>
+                			<stpnm>95th Street &amp; Eberhart</stpnm>
+                			<pdist>4201.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.721874334973</lat>
+						<lon>-87.609561681747</lon>
+
+							<typ>S</typ>
+                			<stpid>2266</stpid>
+                			<stpnm>95th Street &amp; St. Lawrence</stpnm>
+                			<pdist>4773.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.721930389781</lat>
+						<lon>-87.606954574585</lon>
+
+							<typ>S</typ>
+                			<stpid>2461</stpid>
+                			<stpnm>95th Street &amp; Langley</stpnm>
+                			<pdist>5554.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.721966424989</lat>
+						<lon>-87.604835629463</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.7219704289</lat>
+						<lon>-87.604535222054</lon>
+
+							<typ>S</typ>
+                			<stpid>2820</stpid>
+                			<stpnm>95th Street &amp; Cottage Grove </stpnm>
+                			<pdist>6102.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.72197443281</lat>
+						<lon>-87.603247761726</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.721766229133</lat>
+						<lon>-87.603279948235</lon>
+
+							<typ>S</typ>
+                			<stpid>2821</stpid>
+                			<stpnm>Cottage Grove &amp; 95th Street</stpnm>
+                			<pdist>6584.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.720340816606</lat>
+						<lon>-87.60361790657</lon>
+
+							<typ>S</typ>
+                			<stpid>2822</stpid>
+                			<stpnm>9600 S Cottage Grove</stpnm>
+                			<pdist>7169.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.718530977615</lat>
+						<lon>-87.604030966759</lon>
+
+							<typ>S</typ>
+                			<stpid>2823</stpid>
+                			<stpnm>9700 S Cottage Grove</stpnm>
+                			<pdist>7913.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.71676113002</lat>
+						<lon>-87.604454755783</lon>
+
+							<typ>S</typ>
+                			<stpid>2824</stpid>
+                			<stpnm>Cottage Grove &amp; 98th Street</stpnm>
+                			<pdist>8431.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.714863094501</lat>
+						<lon>-87.604883909225</lon>
+
+							<typ>S</typ>
+                			<stpid>2825</stpid>
+                			<stpnm>Cottage Grove &amp; 99th Street</stpnm>
+                			<pdist>9257.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.713801932072</lat>
+						<lon>-87.605125308037</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.713025069979</lat>
+						<lon>-87.605302333832</lon>
+
+							<typ>S</typ>
+                			<stpid>2826</stpid>
+                			<stpnm>Cottage Grove &amp; 100th Street</stpnm>
+                			<pdist>9757.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.711026809399</lat>
+						<lon>-87.60574221611</lon>
+
+							<typ>S</typ>
+                			<stpid>2827</stpid>
+                			<stpnm>Cottage Grove &amp; 101st Street</stpnm>
+                			<pdist>10627.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.709408933683</lat>
+						<lon>-87.606106996536</lon>
+
+							<typ>S</typ>
+                			<stpid>2828</stpid>
+                			<stpnm>10200 S Cottage Grove</stpnm>
+                			<pdist>11316.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.707538714731</lat>
+						<lon>-87.606536149979</lon>
+
+							<typ>S</typ>
+                			<stpid>2829</stpid>
+                			<stpnm>Cottage Grove &amp; 103rd Street</stpnm>
+                			<pdist>11854.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.705676451224</lat>
+						<lon>-87.606922388077</lon>
+
+							<typ>S</typ>
+                			<stpid>2830</stpid>
+                			<stpnm>Cottage Grove &amp; 104th Street</stpnm>
+                			<pdist>12683.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.704687226951</lat>
+						<lon>-87.60713160038</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.70402239561</lat>
+						<lon>-87.607335448265</lon>
+
+							<typ>S</typ>
+                			<stpid>2831</stpid>
+                			<stpnm>Cottage Grove &amp; 105th Street</stpnm>
+                			<pdist>13215.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.703718012701</lat>
+						<lon>-87.607410550117</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.702095947904</lat>
+						<lon>-87.607748508453</lon>
+
+							<typ>S</typ>
+                			<stpid>2832</stpid>
+                			<stpnm>Cottage Grove &amp; 106th Street</stpnm>
+                			<pdist>13925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.700417768667</lat>
+						<lon>-87.608145475388</lon>
+
+							<typ>S</typ>
+                			<stpid>2833</stpid>
+                			<stpnm>Cottage Grove &amp; 107th Street</stpnm>
+                			<pdist>14569.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.69835102475</lat>
+						<lon>-87.608617544174</lon>
+
+							<typ>S</typ>
+                			<stpid>2834</stpid>
+                			<stpnm>Cottage Grove &amp; 108th Street</stpnm>
+                			<pdist>15313.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.696728824569</lat>
+						<lon>-87.608987689018</lon>
+
+							<typ>S</typ>
+                			<stpid>2835</stpid>
+                			<stpnm>Cottage Grove &amp; 109th Street</stpnm>
+                			<pdist>15896.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.695631312847</lat>
+						<lon>-87.609266638756</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.694870253576</lat>
+						<lon>-87.609438300133</lon>
+
+							<typ>S</typ>
+                			<stpid>2836</stpid>
+                			<stpnm>11000 S Cottage Grove</stpnm>
+                			<pdist>16767.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.693011628875</lat>
+						<lon>-87.609835267067</lon>
+
+							<typ>S</typ>
+                			<stpid>2837</stpid>
+                			<stpnm>Cottage Grove &amp; 111th Street</stpnm>
+                			<pdist>17264.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.691068827977</lat>
+						<lon>-87.610275149345</lon>
+
+							<typ>S</typ>
+                			<stpid>2838</stpid>
+                			<stpnm>Cottage Grove &amp; 112th Street</stpnm>
+                			<pdist>18031.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.689005789592</lat>
+						<lon>-87.610774040222</lon>
+
+							<typ>S</typ>
+                			<stpid>15156</stpid>
+                			<stpnm>Cottage Grove &amp; 113th Street</stpnm>
+                			<pdist>18781.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.687447450719</lat>
+						<lon>-87.61110663414</lon>
+
+							<typ>S</typ>
+                			<stpid>2840</stpid>
+                			<stpnm>Cottage Grove &amp; 114th Street</stpnm>
+                			<pdist>19335.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.685913111043</lat>
+						<lon>-87.611471414566</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.685588611541</lat>
+						<lon>-87.611492872238</lon>
+
+							<typ>S</typ>
+                			<stpid>2841</stpid>
+                			<stpnm>Cottage Grove &amp; 115th Street</stpnm>
+                			<pdist>19923.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.685468426125</lat>
+						<lon>-87.611492872238</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.685456407571</lat>
+						<lon>-87.612994909286</lon>
+
+							<typ>S</typ>
+                			<stpid>2842</stpid>
+                			<stpnm>115th Street &amp; King Drive</stpnm>
+                			<pdist>20415.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.685424358083</lat>
+						<lon>-87.615532279015</lon>
+
+							<typ>S</typ>
+                			<stpid>2843</stpid>
+                			<stpnm>115th Street &amp; Forest</stpnm>
+                			<pdist>21092.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.685416345708</lat>
+						<lon>-87.616910934448</lon>
+
+							<typ>S</typ>
+                			<stpid>2844</stpid>
+                			<stpnm>115th Street &amp; Prairie</stpnm>
+                			<pdist>21431.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.685404327145</lat>
+						<lon>-87.618193030357</lon>
+
+							<typ>S</typ>
+                			<stpid>2845</stpid>
+                			<stpnm>115th Street &amp; Indiana</stpnm>
+                			<pdist>21771.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.685376283821</lat>
+						<lon>-87.620934247971</lon>
+
+							<typ>S</typ>
+                			<stpid>2846</stpid>
+                			<stpnm>115th Street &amp; Michigan</stpnm>
+                			<pdist>22526.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.685360259059</lat>
+						<lon>-87.623026371002</lon>
+
+							<typ>S</typ>
+                			<stpid>2847</stpid>
+                			<stpnm>115th Street &amp; State</stpnm>
+                			<pdist>23101.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.685312184749</lat>
+						<lon>-87.625671029091</lon>
+
+							<typ>S</typ>
+                			<stpid>2848</stpid>
+                			<stpnm>115th Street &amp; Perry</stpnm>
+                			<pdist>23614.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.68528814758</lat>
+						<lon>-87.627795338631</lon>
+
+							<typ>S</typ>
+                			<stpid>2849</stpid>
+                			<stpnm>115th Street &amp; Wentworth</stpnm>
+                			<pdist>24407.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.685260104206</lat>
+						<lon>-87.630171775818</lon>
+
+							<typ>S</typ>
+                			<stpid>2850</stpid>
+                			<stpnm>115th Street &amp; Princeton</stpnm>
+                			<pdist>25069.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.68522404842</lat>
+						<lon>-87.632601857185</lon>
+
+							<typ>S</typ>
+                			<stpid>2851</stpid>
+                			<stpnm>115th Street &amp; Stewart</stpnm>
+                			<pdist>25720.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.685200011219</lat>
+						<lon>-87.635128498077</lon>
+
+							<typ>S</typ>
+                			<stpid>2852</stpid>
+                			<stpnm>115th Street &amp; Normal</stpnm>
+                			<pdist>26389.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.685175974008</lat>
+						<lon>-87.637183070183</lon>
+
+							<typ>S</typ>
+                			<stpid>2853</stpid>
+                			<stpnm>115th Street &amp; Wallace</stpnm>
+                			<pdist>27036.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.685139918176</lat>
+						<lon>-87.640535831451</lon>
+
+							<typ>S</typ>
+                			<stpid>2854</stpid>
+                			<stpnm>115th Street &amp; Union </stpnm>
+                			<pdist>27712.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.685115880943</lat>
+						<lon>-87.642536759377</lon>
+
+							<typ>S</typ>
+                			<stpid>15769</stpid>
+                			<stpnm>115th Street &amp; Halsted</stpnm>
+                			<pdist>28556.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.685075818868</lat>
+						<lon>-87.644972205162</lon>
+
+							<typ>S</typ>
+                			<stpid>2856</stpid>
+                			<stpnm>900 W 115th Street</stpnm>
+                			<pdist>29156.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.685051781612</lat>
+						<lon>-87.646839022636</lon>
+
+							<typ>S</typ>
+                			<stpid>2857</stpid>
+                			<stpnm>115th Street &amp; Morgan</stpnm>
+                			<pdist>29691.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.68501572571</lat>
+						<lon>-87.649312019348</lon>
+
+							<typ>S</typ>
+                			<stpid>2858</stpid>
+                			<stpnm>115th Street &amp; Aberdeen</stpnm>
+                			<pdist>30343.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.684983676002</lat>
+						<lon>-87.651747465134</lon>
+
+							<typ>S</typ>
+                			<stpid>2859</stpid>
+                			<stpnm>115th Street &amp; Racine</stpnm>
+                			<pdist>31036.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.684955632495</lat>
+						<lon>-87.654215097427</lon>
+
+							<typ>S</typ>
+                			<stpid>2860</stpid>
+                			<stpnm>115th Street &amp; Throop</stpnm>
+                			<pdist>31698.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.684935601411</lat>
+						<lon>-87.656527161598</lon>
+
+							<typ>S</typ>
+                			<stpid>2861</stpid>
+                			<stpnm>115th Street &amp; Loomis</stpnm>
+                			<pdist>32365.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.684883520563</lat>
+						<lon>-87.659842371941</lon>
+
+							<typ>S</typ>
+                			<stpid>2862</stpid>
+                			<stpnm>115th Street &amp; Laflin </stpnm>
+                			<pdist>33252.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.684855477012</lat>
+						<lon>-87.661424875259</lon>
+
+							<typ>S</typ>
+                			<stpid>2863</stpid>
+                			<stpnm>115th Street &amp; Ashland</stpnm>
+                			<pdist>33687.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.684831439673</lat>
+						<lon>-87.662739157677</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.68314479729</lat>
+						<lon>-87.66270160675</lon>
+
+							<typ>S</typ>
+                			<stpid>17735</stpid>
+                			<stpnm>Marshfield &amp; 116th Street</stpnm>
+                			<pdist>34648.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.681794650268</lat>
+						<lon>-87.66259431839</lon>
+
+							<typ>S</typ>
+                			<stpid>17736</stpid>
+                			<stpnm>Marshfield &amp; 117th Street</stpnm>
+                			<pdist>35338.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>6358</pid>
+				<ln>38123.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.681794650268</lat>
+						<lon>-87.66259431839</lon>
+
+							<typ>S</typ>
+                			<stpid>17736</stpid>
+                			<stpnm>Marshfield &amp; 117th Street</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.680789032744</lat>
+						<lon>-87.662481665611</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.678280930127</lat>
+						<lon>-87.66254067421</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.677499632189</lat>
+						<lon>-87.662503123283</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.677519665588</lat>
+						<lon>-87.661306858063</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.678016491887</lat>
+						<lon>-87.661333680153</lon>
+
+							<typ>S</typ>
+                			<stpid>17737</stpid>
+                			<stpnm>Ashland &amp; 119th Street</stpnm>
+                			<pdist>1929.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.681057466051</lat>
+						<lon>-87.661440968513</lon>
+
+							<typ>S</typ>
+                			<stpid>17738</stpid>
+                			<stpnm>Ashland &amp; 117th Street</stpnm>
+                			<pdist>3068.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.683036626317</lat>
+						<lon>-87.661499977112</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.684795383647</lat>
+						<lon>-87.661553621292</lon>
+
+							<typ>S</typ>
+                			<stpid>17659</stpid>
+                			<stpnm>115th Street &amp; Ashland</stpnm>
+                			<pdist>4602.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.68481140855</lat>
+						<lon>-87.659370303154</lon>
+
+							<typ>S</typ>
+                			<stpid>2936</stpid>
+                			<stpnm>115th Street &amp; Laflin </stpnm>
+                			<pdist>5026.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.684859483234</lat>
+						<lon>-87.656924128532</lon>
+
+							<typ>S</typ>
+                			<stpid>2937</stpid>
+                			<stpnm>115th Street &amp; Loomis</stpnm>
+                			<pdist>5693.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.684891533003</lat>
+						<lon>-87.654408216476</lon>
+
+							<typ>S</typ>
+                			<stpid>2938</stpid>
+                			<stpnm>115th Street &amp; Throop</stpnm>
+                			<pdist>6347.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.684911564101</lat>
+						<lon>-87.652010321617</lon>
+
+							<typ>S</typ>
+                			<stpid>2939</stpid>
+                			<stpnm>115th Street &amp; Racine</stpnm>
+                			<pdist>7036.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.684955632495</lat>
+						<lon>-87.649548053741</lon>
+
+							<typ>S</typ>
+                			<stpid>2940</stpid>
+                			<stpnm>115th Street &amp; Aberdeen</stpnm>
+                			<pdist>7687.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.684995694644</lat>
+						<lon>-87.647096514702</lon>
+
+							<typ>S</typ>
+                			<stpid>2941</stpid>
+                			<stpnm>115th Street &amp; Morgan</stpnm>
+                			<pdist>8352.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.68501572571</lat>
+						<lon>-87.644644975662</lon>
+
+							<typ>S</typ>
+                			<stpid>2942</stpid>
+                			<stpnm>900 W 115th Street</stpnm>
+                			<pdist>9014.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.685055787822</lat>
+						<lon>-87.642338275909</lon>
+
+							<typ>S</typ>
+                			<stpid>2943</stpid>
+                			<stpnm>115th Street &amp; Halsted</stpnm>
+                			<pdist>9675.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.685079825077</lat>
+						<lon>-87.640562653542</lon>
+
+							<typ>S</typ>
+                			<stpid>2944</stpid>
+                			<stpnm>115th Street &amp; Union </stpnm>
+                			<pdist>10173.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.685111874737</lat>
+						<lon>-87.637499570847</lon>
+
+							<typ>S</typ>
+                			<stpid>2945</stpid>
+                			<stpnm>115th Street &amp; Wallace</stpnm>
+                			<pdist>11020.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.685139918176</lat>
+						<lon>-87.635133862495</lon>
+
+							<typ>S</typ>
+                			<stpid>2946</stpid>
+                			<stpnm>115th Street &amp; Normal</stpnm>
+                			<pdist>11680.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.685159949197</lat>
+						<lon>-87.632639408112</lon>
+
+							<typ>S</typ>
+                			<stpid>2947</stpid>
+                			<stpnm>115th Street &amp; Stewart</stpnm>
+                			<pdist>12338.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.68520401742</lat>
+						<lon>-87.630182504654</lon>
+
+							<typ>S</typ>
+                			<stpid>2948</stpid>
+                			<stpnm>115th Street &amp; Princeton</stpnm>
+                			<pdist>12993.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.685236067018</lat>
+						<lon>-87.627768516541</lon>
+
+							<typ>S</typ>
+                			<stpid>2949</stpid>
+                			<stpnm>115th Street &amp; Wentworth</stpnm>
+                			<pdist>13648.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.685248085613</lat>
+						<lon>-87.625553011894</lon>
+
+							<typ>S</typ>
+                			<stpid>2950</stpid>
+                			<stpnm>115th Street &amp; Perry</stpnm>
+                			<pdist>14310.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.68530417236</lat>
+						<lon>-87.62300491333</lon>
+
+							<typ>S</typ>
+                			<stpid>2951</stpid>
+                			<stpnm>115th Street &amp; State</stpnm>
+                			<pdist>14960.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.685308178555</lat>
+						<lon>-87.620944976807</lon>
+
+							<typ>S</typ>
+                			<stpid>2952</stpid>
+                			<stpnm>115th Street &amp; Michigan</stpnm>
+                			<pdist>15549.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.685344234293</lat>
+						<lon>-87.618166208267</lon>
+
+							<typ>S</typ>
+                			<stpid>2953</stpid>
+                			<stpnm>115th Street &amp; Indiana</stpnm>
+                			<pdist>16296.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.685352246676</lat>
+						<lon>-87.616927027702</lon>
+
+							<typ>S</typ>
+                			<stpid>2954</stpid>
+                			<stpnm>115th Street &amp; Prairie</stpnm>
+                			<pdist>16645.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.68536426525</lat>
+						<lon>-87.615623474121</lon>
+
+							<typ>S</typ>
+                			<stpid>2955</stpid>
+                			<stpnm>115th Street &amp; Forest</stpnm>
+                			<pdist>16996.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.685400320956</lat>
+						<lon>-87.613134384155</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.685712802902</lat>
+						<lon>-87.613150477409</lon>
+
+							<typ>S</typ>
+                			<stpid>14049</stpid>
+                			<stpnm>King Drive &amp; 115th Street</stpnm>
+                			<pdist>17784.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.687163019756</lat>
+						<lon>-87.613182663918</lon>
+
+							<typ>S</typ>
+                			<stpid>15107</stpid>
+                			<stpnm>King Drive &amp; 114th Street</stpnm>
+                			<pdist>18311.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.688977747838</lat>
+						<lon>-87.613236308098</lon>
+
+							<typ>S</typ>
+                			<stpid>14050</stpid>
+                			<stpnm>King Drive &amp; 113th Street</stpnm>
+                			<pdist>18971.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.690824471544</lat>
+						<lon>-87.61328458786</lon>
+
+							<typ>S</typ>
+                			<stpid>14051</stpid>
+                			<stpnm>King Drive &amp; 112th Street</stpnm>
+                			<pdist>19644.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.692631084867</lat>
+						<lon>-87.613343596458</lon>
+
+							<typ>S</typ>
+                			<stpid>14052</stpid>
+                			<stpnm>King Drive &amp; 111th Street</stpnm>
+                			<pdist>20290.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.692699182381</lat>
+						<lon>-87.613343596458</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.692711199582</lat>
+						<lon>-87.612318992615</lon>
+
+							<typ>S</typ>
+                			<stpid>2893</stpid>
+                			<stpnm>111th Street &amp; Vernon</stpnm>
+                			<pdist>20601.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.692747251171</lat>
+						<lon>-87.609974741936</lon>
+
+							<typ>S</typ>
+                			<stpid>17676</stpid>
+                			<stpnm>Cottage Grove &amp; 111th Street</stpnm>
+                			<pdist>21378.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.692747251171</lat>
+						<lon>-87.609819173813</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.693836800781</lat>
+						<lon>-87.609567046165</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.694637928425</lat>
+						<lon>-87.609395384789</lon>
+
+							<typ>S</typ>
+                			<stpid>2962</stpid>
+                			<stpnm>11000 S Cottage Grove</stpnm>
+                			<pdist>21912.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.695659351701</lat>
+						<lon>-87.609159350395</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.696516533617</lat>
+						<lon>-87.60895550251</lon>
+
+							<typ>S</typ>
+                			<stpid>15157</stpid>
+                			<stpnm>Cottage Grove &amp; 109th Street</stpnm>
+                			<pdist>22704.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.698086668993</lat>
+						<lon>-87.608585357666</lon>
+
+							<typ>S</typ>
+                			<stpid>2964</stpid>
+                			<stpnm>Cottage Grove &amp; 108th Street</stpnm>
+                			<pdist>23229.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.700217505689</lat>
+						<lon>-87.608102560043</lon>
+
+							<typ>S</typ>
+                			<stpid>14553</stpid>
+                			<stpnm>Cottage Grove &amp; 107th Street</stpnm>
+                			<pdist>23941.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.701831607541</lat>
+						<lon>-87.607716321945</lon>
+
+							<typ>S</typ>
+                			<stpid>2966</stpid>
+                			<stpnm>Cottage Grove &amp; 106th Street</stpnm>
+                			<pdist>24605.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.703653931905</lat>
+						<lon>-87.607330083847</lon>
+
+							<typ>S</typ>
+                			<stpid>2967</stpid>
+                			<stpnm>Cottage Grove &amp; 105th Street</stpnm>
+                			<pdist>25294.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.704655187044</lat>
+						<lon>-87.607056498528</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.705516253994</lat>
+						<lon>-87.606863379478</lon>
+
+							<typ>S</typ>
+                			<stpid>2968</stpid>
+                			<stpnm>Cottage Grove &amp; 104th Street</stpnm>
+                			<pdist>25965.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.706521485006</lat>
+						<lon>-87.606664896011</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.707823055595</lat>
+						<lon>-87.606380581856</lon>
+
+							<typ>S</typ>
+                			<stpid>15033</stpid>
+                			<stpnm>Cottage Grove &amp; 103rd Street</stpnm>
+                			<pdist>26837.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.70922471753</lat>
+						<lon>-87.60606944561</lon>
+
+							<typ>S</typ>
+                			<stpid>2970</stpid>
+                			<stpnm>10200 S Cottage Grove</stpnm>
+                			<pdist>27317.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.711219029549</lat>
+						<lon>-87.605613470078</lon>
+
+							<typ>S</typ>
+                			<stpid>2971</stpid>
+                			<stpnm>Cottage Grove &amp; 101st Street</stpnm>
+                			<pdist>28069.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.712736747638</lat>
+						<lon>-87.605270147324</lon>
+
+							<typ>S</typ>
+                			<stpid>2972</stpid>
+                			<stpnm>Cottage Grove &amp; 100th Street</stpnm>
+                			<pdist>28653.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.714618828476</lat>
+						<lon>-87.604846358299</lon>
+
+							<typ>S</typ>
+                			<stpid>2973</stpid>
+                			<stpnm>Cottage Grove &amp; 99th Street</stpnm>
+                			<pdist>29317.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.715675973115</lat>
+						<lon>-87.604604959488</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.716472824437</lat>
+						<lon>-87.604427933693</lon>
+
+							<typ>S</typ>
+                			<stpid>2974</stpid>
+                			<stpnm>Cottage Grove &amp; 98th Street</stpnm>
+                			<pdist>30007.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.718354795876</lat>
+						<lon>-87.603998780251</lon>
+
+							<typ>S</typ>
+                			<stpid>2975</stpid>
+                			<stpnm>9700 S Cottage Grove</stpnm>
+                			<pdist>30780.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.720176651897</lat>
+						<lon>-87.603569626808</lon>
+
+							<typ>S</typ>
+                			<stpid>2976</stpid>
+                			<stpnm>9600 S Cottage Grove</stpnm>
+                			<pdist>31443.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.721517985405</lat>
+						<lon>-87.603247761726</lon>
+
+							<typ>S</typ>
+                			<stpid>2977</stpid>
+                			<stpnm>Cottage Grove &amp; 95th Street</stpnm>
+                			<pdist>31950.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.72197443281</lat>
+						<lon>-87.603161931038</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.722098553913</lat>
+						<lon>-87.603172659874</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.722122577324</lat>
+						<lon>-87.604819536209</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.722122577324</lat>
+						<lon>-87.605044841766</lon>
+
+							<typ>S</typ>
+                			<stpid>2978</stpid>
+                			<stpnm>95th Street &amp; Cottage Grove </stpnm>
+                			<pdist>32550.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.72209455001</lat>
+						<lon>-87.606788277626</lon>
+
+							<typ>S</typ>
+                			<stpid>2600</stpid>
+                			<stpnm>95th Street &amp; Langley</stpnm>
+                			<pdist>33061.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.722058514873</lat>
+						<lon>-87.609202265739</lon>
+
+							<typ>S</typ>
+                			<stpid>2979</stpid>
+                			<stpnm>95th Street &amp; St. Lawrence</stpnm>
+                			<pdist>33721.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.722014471902</lat>
+						<lon>-87.611541152</lon>
+
+							<typ>S</typ>
+                			<stpid>2104</stpid>
+                			<stpnm>95th Street &amp; Eberhart</stpnm>
+                			<pdist>34384.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.721978436721</lat>
+						<lon>-87.613976597786</lon>
+
+							<typ>S</typ>
+                			<stpid>2105</stpid>
+                			<stpnm>95th Street &amp; King Drive</stpnm>
+                			<pdist>35046.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.721942401519</lat>
+						<lon>-87.615424990654</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.721922381954</lat>
+						<lon>-87.616412043571</lon>
+
+							<typ>S</typ>
+                			<stpid>2980</stpid>
+                			<stpnm>95th Street &amp; Forest</stpnm>
+                			<pdist>35710.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.721890350637</lat>
+						<lon>-87.618820667267</lon>
+
+							<typ>S</typ>
+                			<stpid>2981</stpid>
+                			<stpnm>95th Street &amp; Indiana</stpnm>
+                			<pdist>36370.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.721842303632</lat>
+						<lon>-87.621030807495</lon>
+
+							<typ>S</typ>
+                			<stpid>2982</stpid>
+                			<stpnm>95th Street &amp; Michigan</stpnm>
+                			<pdist>36968.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.721830291874554</lat>
+						<lon>-87.6239275932312</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.72181828011531</lat>
+						<lon>-87.62486636638641</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.722763198316116</lat>
+						<lon>-87.62487709522247</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.72276720217725</lat>
+						<lon>-87.62393295764923</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.722194647504416</lat>
+						<lon>-87.62392222881317</lon>
+
+							<typ>S</typ>
+                			<stpid>14010</stpid>
+                			<stpnm>95th Station</stpnm>
+                			<pdist>38123.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

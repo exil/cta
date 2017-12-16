@@ -1,0 +1,1998 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4709</pid>
+				<ln>44879.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.861223342407</lat>
+						<lon>-87.62254357338</lon>
+
+							<typ>S</typ>
+                			<stpid>15278</stpid>
+                			<stpnm>Indiana &amp; 15th Place</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.860432283568</lat>
+						<lon>-87.622527480125</lon>
+
+							<typ>S</typ>
+                			<stpid>12805</stpid>
+                			<stpnm>Indiana &amp; 16th Street</stpnm>
+                			<pdist>360.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.860332401705</lat>
+						<lon>-87.622522115707</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.860288453637</lat>
+						<lon>-87.623932957649</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.86049221261</lat>
+						<lon>-87.623943686485</lon>
+
+							<typ>S</typ>
+                			<stpid>14760</stpid>
+                			<stpnm>Michigan &amp; 16th Street</stpnm>
+                			<pdist>804.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.861838603628</lat>
+						<lon>-87.623975872993</lon>
+
+							<typ>S</typ>
+                			<stpid>1577</stpid>
+                			<stpnm>1509 S Michigan</stpnm>
+                			<pdist>1201.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.863975991082</lat>
+						<lon>-87.624029517174</lon>
+
+							<typ>S</typ>
+                			<stpid>1578</stpid>
+                			<stpnm>Michigan &amp; 14th Street</stpnm>
+                			<pdist>1998.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.86597348486</lat>
+						<lon>-87.624061703682</lon>
+
+							<typ>S</typ>
+                			<stpid>1579</stpid>
+                			<stpnm>Michigan &amp; 13th Street</stpnm>
+                			<pdist>2825.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.867147982066</lat>
+						<lon>-87.624083161354</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.867227879051</lat>
+						<lon>-87.62401342392</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.867547465993</lat>
+						<lon>-87.623997330666</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.867523497028</lat>
+						<lon>-87.624313831329</lon>
+
+							<typ>S</typ>
+                			<stpid>17084</stpid>
+                			<stpnm>Roosevelt &amp; Michigan</stpnm>
+                			<pdist>3489.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.867503522884</lat>
+						<lon>-87.626974582672</lon>
+
+							<typ>S</typ>
+                			<stpid>16140</stpid>
+                			<stpnm>Roosevelt Orange/Red/Green Line Station</stpnm>
+                			<pdist>4022.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.867475559071</lat>
+						<lon>-87.627865076065</lon>
+
+							<typ>S</typ>
+                			<stpid>16139</stpid>
+                			<stpnm>Roosevelt &amp; State</stpnm>
+                			<pdist>4340.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.867459579743</lat>
+						<lon>-87.630241513252</lon>
+
+							<typ>S</typ>
+                			<stpid>15377</stpid>
+                			<stpnm>Roosevelt &amp; Clark</stpnm>
+                			<pdist>5204.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.86741164173803</lat>
+						<lon>-87.63303101062775</lon>
+
+							<typ>S</typ>
+                			<stpid>17517</stpid>
+                			<stpnm>Roosevelt &amp; Delano</stpnm>
+                			<pdist>5793.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.867367698535</lat>
+						<lon>-87.635536193848</lon>
+
+							<typ>S</typ>
+                			<stpid>326</stpid>
+                			<stpnm>327 W Roosevelt</stpnm>
+                			<pdist>6530.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.867339734662</lat>
+						<lon>-87.639044523239</lon>
+
+							<typ>S</typ>
+                			<stpid>327</stpid>
+                			<stpnm>Roosevelt &amp; Canal</stpnm>
+                			<pdist>7404.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.86732375530135</lat>
+						<lon>-87.64057338237762</lon>
+
+							<typ>S</typ>
+                			<stpid>328</stpid>
+                			<stpnm>Roosevelt &amp; Clinton</stpnm>
+                			<pdist>7819.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.8672997862522</lat>
+						<lon>-87.64204859733582</lon>
+
+							<typ>S</typ>
+                			<stpid>329</stpid>
+                			<stpnm>Roosevelt &amp; Jefferson</stpnm>
+                			<pdist>8211.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.867267827506</lat>
+						<lon>-87.646538615227</lon>
+
+							<typ>S</typ>
+                			<stpid>331</stpid>
+                			<stpnm>Roosevelt &amp; Halsted</stpnm>
+                			<pdist>9462.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.867211899662</lat>
+						<lon>-87.649462223053</lon>
+
+							<typ>S</typ>
+                			<stpid>332</stpid>
+                			<stpnm>900 W Roosevelt</stpnm>
+                			<pdist>10287.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.867183935721</lat>
+						<lon>-87.650862336159</lon>
+
+							<typ>S</typ>
+                			<stpid>333</stpid>
+                			<stpnm>Roosevelt &amp; Morgan</stpnm>
+                			<pdist>10610.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.867151976917</lat>
+						<lon>-87.653083205223</lon>
+
+							<typ>S</typ>
+                			<stpid>334</stpid>
+                			<stpnm>Roosevelt &amp; Blue Island</stpnm>
+                			<pdist>11189.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.86711202839</lat>
+						<lon>-87.655030488968</lon>
+
+							<typ>S</typ>
+                			<stpid>335</stpid>
+                			<stpnm>Roosevelt &amp; May</stpnm>
+                			<pdist>11739.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.867096048972</lat>
+						<lon>-87.656500339508</lon>
+
+							<typ>S</typ>
+                			<stpid>336</stpid>
+                			<stpnm>Roosevelt &amp; Racine</stpnm>
+                			<pdist>12166.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.86703213126</lat>
+						<lon>-87.659032344818</lon>
+
+							<typ>S</typ>
+                			<stpid>337</stpid>
+                			<stpnm>Roosevelt &amp; Throop</stpnm>
+                			<pdist>12825.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.866984192934</lat>
+						<lon>-87.661757469177</lon>
+
+							<typ>S</typ>
+                			<stpid>16104</stpid>
+                			<stpnm>Roosevelt &amp; Loomis</stpnm>
+                			<pdist>13626.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.86692027511</lat>
+						<lon>-87.66616165638</lon>
+
+							<typ>S</typ>
+                			<stpid>340</stpid>
+                			<stpnm>Roosevelt &amp; Ashland</stpnm>
+                			<pdist>14716.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.86692027511</lat>
+						<lon>-87.668146491051</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.866956228893</lat>
+						<lon>-87.668795585632</lon>
+
+							<typ>S</typ>
+                			<stpid>341</stpid>
+                			<stpnm>Roosevelt &amp; Paulina</stpnm>
+                			<pdist>15414.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.866928264841</lat>
+						<lon>-87.671113014221</lon>
+
+							<typ>S</typ>
+                			<stpid>342</stpid>
+                			<stpnm>Roosevelt &amp; Wood</stpnm>
+                			<pdist>16081.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.866908290511</lat>
+						<lon>-87.67343044281</lon>
+
+							<typ>S</typ>
+                			<stpid>343</stpid>
+                			<stpnm>Roosevelt &amp; Wolcott</stpnm>
+                			<pdist>16703.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.866864346961</lat>
+						<lon>-87.675195336342</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.866848367481</lat>
+						<lon>-87.67596244812</lon>
+
+							<typ>S</typ>
+                			<stpid>344</stpid>
+                			<stpnm>Roosevelt &amp; Damen</stpnm>
+                			<pdist>17392.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.866852362352</lat>
+						<lon>-87.676134109497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.867942952623</lat>
+						<lon>-87.676128745079</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.869149371469</lat>
+						<lon>-87.676134109497</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.869141382015</lat>
+						<lon>-87.676826119423</lon>
+
+							<typ>S</typ>
+                			<stpid>14205</stpid>
+                			<stpnm>Taylor &amp; Damen</stpnm>
+                			<pdist>18358.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.86908945054</lat>
+						<lon>-87.679261565208</lon>
+
+							<typ>S</typ>
+                			<stpid>15415</stpid>
+                			<stpnm>V.a. Medical Center </stpnm>
+                			<pdist>19033.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.869081461079</lat>
+						<lon>-87.680876255035</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.86861407585</lat>
+						<lon>-87.681412696838</lon>
+
+							<typ>S</typ>
+                			<stpid>14206</stpid>
+                			<stpnm>Ogden &amp; Taylor</stpnm>
+                			<pdist>19677.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.867958931829</lat>
+						<lon>-87.682195901871</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.866996177518</lat>
+						<lon>-87.683359980583</lon>
+
+							<typ>S</typ>
+                			<stpid>14207</stpid>
+                			<stpnm>Ogden &amp; Roosevelt</stpnm>
+                			<pdist>20583.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.866740505887</lat>
+						<lon>-87.683697938919</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.86673651101</lat>
+						<lon>-87.683966159821</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.866688572462</lat>
+						<lon>-87.684121727943</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.866644628762</lat>
+						<lon>-87.685843706131</lon>
+
+							<typ>S</typ>
+                			<stpid>348</stpid>
+                			<stpnm>Roosevelt &amp; Western</stpnm>
+                			<pdist>21209.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.866616664574</lat>
+						<lon>-87.688778042793</lon>
+
+							<typ>S</typ>
+                			<stpid>349</stpid>
+                			<stpnm>Roosevelt &amp; Campbell </stpnm>
+                			<pdist>22040.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.866576715712</lat>
+						<lon>-87.692340016365</lon>
+
+							<typ>S</typ>
+                			<stpid>350</stpid>
+                			<stpnm>Roosevelt &amp; Talman</stpnm>
+                			<pdist>22911.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.866564731048</lat>
+						<lon>-87.693310976028</lon>
+
+							<typ>S</typ>
+                			<stpid>351</stpid>
+                			<stpnm>Roosevelt &amp; Washtenaw</stpnm>
+                			<pdist>23247.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.866544756604</lat>
+						<lon>-87.696239948273</lon>
+
+							<typ>S</typ>
+                			<stpid>14981</stpid>
+                			<stpnm>Roosevelt &amp; California</stpnm>
+                			<pdist>24017.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.866524782154</lat>
+						<lon>-87.698214054108</lon>
+
+							<typ>S</typ>
+                			<stpid>353</stpid>
+                			<stpnm>Roosevelt &amp; Francisco</stpnm>
+                			<pdist>24527.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.866500812805</lat>
+						<lon>-87.700542211533</lon>
+
+							<typ>S</typ>
+                			<stpid>354</stpid>
+                			<stpnm>Roosevelt &amp; Sacramento</stpnm>
+                			<pdist>25196.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.866472848553</lat>
+						<lon>-87.703063488007</lon>
+
+							<typ>S</typ>
+                			<stpid>355</stpid>
+                			<stpnm>Roosevelt &amp; Albany</stpnm>
+                			<pdist>25863.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.86645287408</lat>
+						<lon>-87.70550429821</lon>
+
+							<typ>S</typ>
+                			<stpid>356</stpid>
+                			<stpnm>Roosevelt &amp; Kedzie</stpnm>
+                			<pdist>26526.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.866428904705</lat>
+						<lon>-87.707934379578</lon>
+
+							<typ>S</typ>
+                			<stpid>357</stpid>
+                			<stpnm>Roosevelt &amp; Spaulding</stpnm>
+                			<pdist>27189.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.866392950624</lat>
+						<lon>-87.710439562798</lon>
+
+							<typ>S</typ>
+                			<stpid>358</stpid>
+                			<stpnm>Roosevelt &amp; Homan</stpnm>
+                			<pdist>27848.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.866360991425</lat>
+						<lon>-87.712858915329</lon>
+
+							<typ>S</typ>
+                			<stpid>359</stpid>
+                			<stpnm>Roosevelt &amp; St. Louis</stpnm>
+                			<pdist>28527.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.866313052596</lat>
+						<lon>-87.715777158737</lon>
+
+							<typ>S</typ>
+                			<stpid>15938</stpid>
+                			<stpnm>Roosevelt &amp; Central Park</stpnm>
+                			<pdist>29336.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.866293078073</lat>
+						<lon>-87.717788815498</lon>
+
+							<typ>S</typ>
+                			<stpid>361</stpid>
+                			<stpnm>Roosevelt &amp; Lawndale</stpnm>
+                			<pdist>29891.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.866273103544</lat>
+						<lon>-87.719382047653</lon>
+
+							<typ>S</typ>
+                			<stpid>362</stpid>
+                			<stpnm>Roosevelt &amp; Independence</stpnm>
+                			<pdist>30393.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.866233154467</lat>
+						<lon>-87.722579240799</lon>
+
+							<typ>S</typ>
+                			<stpid>364</stpid>
+                			<stpnm>Roosevelt &amp; Springfield</stpnm>
+                			<pdist>31265.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.866225164649</lat>
+						<lon>-87.723979353905</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.866201195188</lat>
+						<lon>-87.725282907486</lon>
+
+							<typ>S</typ>
+                			<stpid>365</stpid>
+                			<stpnm>Roosevelt &amp; Pulaski</stpnm>
+                			<pdist>31922.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.866153256239</lat>
+						<lon>-87.727525234222</lon>
+
+							<typ>S</typ>
+                			<stpid>366</stpid>
+                			<stpnm>Roosevelt &amp; Karlov</stpnm>
+                			<pdist>32603.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.866125291835</lat>
+						<lon>-87.730137705803</lon>
+
+							<typ>S</typ>
+                			<stpid>367</stpid>
+                			<stpnm>Roosevelt &amp; Keeler</stpnm>
+                			<pdist>33278.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.866097327419</lat>
+						<lon>-87.732396125793</lon>
+
+							<typ>S</typ>
+                			<stpid>368</stpid>
+                			<stpnm>Roosevelt &amp; Kildare</stpnm>
+                			<pdist>33925.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.866061373153</lat>
+						<lon>-87.734831571579</lon>
+
+							<typ>S</typ>
+                			<stpid>369</stpid>
+                			<stpnm>Roosevelt &amp; Kostner</stpnm>
+                			<pdist>34580.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.866029413787</lat>
+						<lon>-87.737127542496</lon>
+
+							<typ>S</typ>
+                			<stpid>370</stpid>
+                			<stpnm>Roosevelt &amp; Kilbourn</stpnm>
+                			<pdist>35127.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.865957505157</lat>
+						<lon>-87.74228811264</lon>
+
+							<typ>S</typ>
+                			<stpid>373</stpid>
+                			<stpnm>Roosevelt &amp; 47th Avenue</stpnm>
+                			<pdist>36231.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.865921550812</lat>
+						<lon>-87.745136618614</lon>
+
+							<typ>S</typ>
+                			<stpid>17425</stpid>
+                			<stpnm>Roosevelt &amp; Cicero</stpnm>
+                			<pdist>37015.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.865885596446</lat>
+						<lon>-87.747024893761</lon>
+
+							<typ>S</typ>
+                			<stpid>375</stpid>
+                			<stpnm>Roosevelt &amp; 49th Avenue</stpnm>
+                			<pdist>37538.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.865861626858</lat>
+						<lon>-87.749465703964</lon>
+
+							<typ>S</typ>
+                			<stpid>376</stpid>
+                			<stpnm>Roosevelt &amp; 50th Avenue</stpnm>
+                			<pdist>38202.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.865821677524</lat>
+						<lon>-87.75200843811</lon>
+
+							<typ>S</typ>
+                			<stpid>377</stpid>
+                			<stpnm>Roosevelt &amp; 51st Avenue</stpnm>
+                			<pdist>38867.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.86577373829</lat>
+						<lon>-87.755157351494</lon>
+
+							<typ>S</typ>
+                			<stpid>17206</stpid>
+                			<stpnm>Roosevelt &amp; Laramie</stpnm>
+                			<pdist>39749.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.86574976866</lat>
+						<lon>-87.756916880608</lon>
+
+							<typ>S</typ>
+                			<stpid>379</stpid>
+                			<stpnm>5300 W Roosevelt</stpnm>
+                			<pdist>40314.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.865705824314</lat>
+						<lon>-87.759271860123</lon>
+
+							<typ>S</typ>
+                			<stpid>380</stpid>
+                			<stpnm>Roosevelt &amp; 54th Avenue</stpnm>
+                			<pdist>40864.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.865637910267</lat>
+						<lon>-87.762721180916</lon>
+
+							<typ>S</typ>
+                			<stpid>381</stpid>
+                			<stpnm>5500 W Roosevelt</stpnm>
+                			<pdist>41489.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.86562193048</lat>
+						<lon>-87.764110565186</lon>
+
+							<typ>S</typ>
+                			<stpid>382</stpid>
+                			<stpnm>Roosevelt &amp; Central</stpnm>
+                			<pdist>42157.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.865625925427</lat>
+						<lon>-87.76426076889</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.866456868976</lat>
+						<lon>-87.764287590981</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.866572720824</lat>
+						<lon>-87.764196395874</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.867423626243</lat>
+						<lon>-87.764148116112</lon>
+
+							<typ>S</typ>
+                			<stpid>17223</stpid>
+                			<stpnm>Central &amp; Fillmore</stpnm>
+                			<pdist>42778.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.868334442029</lat>
+						<lon>-87.76415348053</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>86</seq>
+						<lat>41.869421012307</lat>
+						<lon>-87.764164209366</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>87</seq>
+						<lat>41.870659360326</lat>
+						<lon>-87.76420712471</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>88</seq>
+						<lat>41.870958957049</lat>
+						<lon>-87.764255404472</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>89</seq>
+						<lat>41.871857738794</lat>
+						<lon>-87.764453887939</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>90</seq>
+						<lat>41.872940254696</lat>
+						<lon>-87.764475345612</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>91</seq>
+						<lat>41.872920282244</lat>
+						<lon>-87.764679193497</lon>
+
+							<typ>S</typ>
+                			<stpid>11575</stpid>
+                			<stpnm>Central &amp; Harrison Terminal</stpnm>
+                			<pdist>44879.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4135</pid>
+				<ln>44738.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.872920282244</lat>
+						<lon>-87.764679193497</lon>
+
+							<typ>S</typ>
+                			<stpid>11575</stpid>
+                			<stpnm>Central &amp; Harrison Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.87176985847</lat>
+						<lon>-87.764706015587</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.870355767548</lat>
+						<lon>-87.764453887939</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.869129397832</lat>
+						<lon>-87.764405608177</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.867475559071</lat>
+						<lon>-87.764378786087</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.867171951172</lat>
+						<lon>-87.764416337013</lon>
+
+							<typ>S</typ>
+                			<stpid>17224</stpid>
+                			<stpnm>Central &amp; Fillmore</stpnm>
+                			<pdist>2160.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.866544756604</lat>
+						<lon>-87.764427065849</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.866464858765</lat>
+						<lon>-87.764373421669</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.865558011294</lat>
+						<lon>-87.764341235161</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.865562006245</lat>
+						<lon>-87.763863801956</lon>
+
+							<typ>S</typ>
+                			<stpid>17059</stpid>
+                			<stpnm>Roosevelt &amp; Central</stpnm>
+                			<pdist>2924.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.865581980996</lat>
+						<lon>-87.762812376022</lon>
+
+							<typ>S</typ>
+                			<stpid>257</stpid>
+                			<stpnm>5500 W Roosevelt</stpnm>
+                			<pdist>3536.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.865641905213</lat>
+						<lon>-87.759464979172</lon>
+
+							<typ>S</typ>
+                			<stpid>258</stpid>
+                			<stpnm>Roosevelt &amp; 54th Avenue</stpnm>
+                			<pdist>4061.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.865681854659</lat>
+						<lon>-87.75704562664</lon>
+
+							<typ>S</typ>
+                			<stpid>259</stpid>
+                			<stpnm>5300 W. Roosevelt</stpnm>
+                			<pdist>4720.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.865725799021</lat>
+						<lon>-87.754712104797</lon>
+
+							<typ>S</typ>
+                			<stpid>260</stpid>
+                			<stpnm>Roosevelt &amp; Laramie</stpnm>
+                			<pdist>5399.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.865753763599</lat>
+						<lon>-87.752153277397</lon>
+
+							<typ>S</typ>
+                			<stpid>261</stpid>
+                			<stpnm>Roosevelt &amp; 51st Avenue</stpnm>
+                			<pdist>6125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.865789718039</lat>
+						<lon>-87.749792933464</lon>
+
+							<typ>S</typ>
+                			<stpid>262</stpid>
+                			<stpnm>Roosevelt &amp; 50th Avenue</stpnm>
+                			<pdist>6765.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.865821677524</lat>
+						<lon>-87.747293114662</lon>
+
+							<typ>S</typ>
+                			<stpid>263</stpid>
+                			<stpnm>Roosevelt &amp; 49th Avenue</stpnm>
+                			<pdist>7437.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.865853636993</lat>
+						<lon>-87.744471430779</lon>
+
+							<typ>S</typ>
+                			<stpid>17441</stpid>
+                			<stpnm>Roosevelt &amp; Cicero</stpnm>
+                			<pdist>8225.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.865881601515</lat>
+						<lon>-87.742422223091</lon>
+
+							<typ>S</typ>
+                			<stpid>265</stpid>
+                			<stpnm>Roosevelt &amp; 47th Avenue</stpnm>
+                			<pdist>8768.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.86597348486</lat>
+						<lon>-87.737503051758</lon>
+
+							<typ>S</typ>
+                			<stpid>268</stpid>
+                			<stpnm>Roosevelt &amp; Kilbourn</stpnm>
+                			<pdist>10108.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.865993459482</lat>
+						<lon>-87.734708189964</lon>
+
+							<typ>S</typ>
+                			<stpid>17427</stpid>
+                			<stpnm>Roosevelt &amp; Kostner</stpnm>
+                			<pdist>10882.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.86603740363</lat>
+						<lon>-87.732621431351</lon>
+
+							<typ>S</typ>
+                			<stpid>270</stpid>
+                			<stpnm>Roosevelt &amp; Kildare</stpnm>
+                			<pdist>11447.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.866061373153</lat>
+						<lon>-87.730180621147</lon>
+
+							<typ>S</typ>
+                			<stpid>17440</stpid>
+                			<stpnm>Roosevelt &amp; Keeler</stpnm>
+                			<pdist>12259.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.866085342666</lat>
+						<lon>-87.727739810944</lon>
+
+							<typ>S</typ>
+                			<stpid>272</stpid>
+                			<stpnm>Roosevelt &amp; Karlov</stpnm>
+                			<pdist>12782.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.866141271496</lat>
+						<lon>-87.724928855896</lon>
+
+							<typ>S</typ>
+                			<stpid>14954</stpid>
+                			<stpnm>Roosevelt &amp; Pulaski</stpnm>
+                			<pdist>13553.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.866173230805</lat>
+						<lon>-87.722863554955</lon>
+
+							<typ>S</typ>
+                			<stpid>274</stpid>
+                			<stpnm>Roosevelt &amp; Springfield</stpnm>
+                			<pdist>14075.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.866205190099</lat>
+						<lon>-87.720320820808</lon>
+
+							<typ>S</typ>
+                			<stpid>275</stpid>
+                			<stpnm>Roosevelt &amp; Independence</stpnm>
+                			<pdist>14798.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.866225164649</lat>
+						<lon>-87.717987298965</lon>
+
+							<typ>S</typ>
+                			<stpid>277</stpid>
+                			<stpnm>Roosevelt &amp; Lawndale</stpnm>
+                			<pdist>15443.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.866257123916</lat>
+						<lon>-87.71560549736</lon>
+
+							<typ>S</typ>
+                			<stpid>278</stpid>
+                			<stpnm>Roosevelt &amp; Central Park</stpnm>
+                			<pdist>16081.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.866289083168</lat>
+						<lon>-87.713094949722</lon>
+
+							<typ>S</typ>
+                			<stpid>279</stpid>
+                			<stpnm>Roosevelt &amp; St. Louis</stpnm>
+                			<pdist>16761.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.866329032209</lat>
+						<lon>-87.710664868355</lon>
+
+							<typ>S</typ>
+                			<stpid>17636</stpid>
+                			<stpnm>Roosevelt &amp; Homan</stpnm>
+                			<pdist>17592.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.866349006721</lat>
+						<lon>-87.708213329315</lon>
+
+							<typ>S</typ>
+                			<stpid>17637</stpid>
+                			<stpnm>Roosevelt &amp; Spaulding</stpnm>
+                			<pdist>18226.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.866384960826</lat>
+						<lon>-87.705343365669</lon>
+
+							<typ>S</typ>
+                			<stpid>14955</stpid>
+                			<stpnm>Roosevelt &amp; Kedzie</stpnm>
+                			<pdist>18924.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.866408930218</lat>
+						<lon>-87.703304886818</lon>
+
+							<typ>S</typ>
+                			<stpid>283</stpid>
+                			<stpnm>Roosevelt &amp; Albany</stpnm>
+                			<pdist>19463.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.866440889394</lat>
+						<lon>-87.700928449631</lon>
+
+							<typ>S</typ>
+                			<stpid>284</stpid>
+                			<stpnm>Roosevelt &amp; Sacramento</stpnm>
+                			<pdist>20064.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.866456868976</lat>
+						<lon>-87.698423266411</lon>
+
+							<typ>S</typ>
+                			<stpid>285</stpid>
+                			<stpnm>Roosevelt &amp; Francisco</stpnm>
+                			<pdist>20758.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.866480838341</lat>
+						<lon>-87.695649862289</lon>
+
+							<typ>S</typ>
+                			<stpid>14982</stpid>
+                			<stpnm>Roosevelt &amp; California</stpnm>
+                			<pdist>21543.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.866508802589</lat>
+						<lon>-87.693536281586</lon>
+
+							<typ>S</typ>
+                			<stpid>287</stpid>
+                			<stpnm>Roosevelt &amp; Washtenaw</stpnm>
+                			<pdist>22066.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.866504807697</lat>
+						<lon>-87.692291736603</lon>
+
+							<typ>S</typ>
+                			<stpid>288</stpid>
+                			<stpnm>Roosevelt &amp; Talman</stpnm>
+                			<pdist>22411.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.866548751493</lat>
+						<lon>-87.688423991203</lon>
+
+							<typ>S</typ>
+                			<stpid>17122</stpid>
+                			<stpnm>Roosevelt &amp; Campbell</stpnm>
+                			<pdist>23470.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.866568725936</lat>
+						<lon>-87.685731053352</lon>
+
+							<typ>S</typ>
+                			<stpid>15983</stpid>
+                			<stpnm>Roosevelt &amp; Western</stpnm>
+                			<pdist>24214.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.866620659458</lat>
+						<lon>-87.684202194214</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.866548751493</lat>
+						<lon>-87.683794498444</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>44</seq>
+						<lat>41.86703213126</lat>
+						<lon>-87.683215141296</lon>
+
+							<typ>S</typ>
+                			<stpid>13191</stpid>
+                			<stpnm>Ogden &amp; Roosevelt</stpnm>
+                			<pdist>25034.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>45</seq>
+						<lat>41.867946947425</lat>
+						<lon>-87.682093977928</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>46</seq>
+						<lat>41.868937650603</lat>
+						<lon>-87.680913805962</lon>
+
+							<typ>S</typ>
+                			<stpid>14203</stpid>
+                			<stpnm>Ogden &amp; Taylor</stpnm>
+                			<pdist>25964.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>47</seq>
+						<lat>41.869021540087</lat>
+						<lon>-87.680833339691</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>48</seq>
+						<lat>41.869025534821</lat>
+						<lon>-87.679272294044</lon>
+
+							<typ>S</typ>
+                			<stpid>15414</stpid>
+                			<stpnm>V.a. Medical Center </stpnm>
+                			<pdist>26424.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>49</seq>
+						<lat>41.869081461079</lat>
+						<lon>-87.676536440849</lon>
+
+							<typ>S</typ>
+                			<stpid>14204</stpid>
+                			<stpnm>Taylor &amp; Damen</stpnm>
+                			<pdist>27136.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>50</seq>
+						<lat>41.869081461079</lat>
+						<lon>-87.676413059235</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>51</seq>
+						<lat>41.867958931829</lat>
+						<lon>-87.676396965981</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>52</seq>
+						<lat>41.866892311042</lat>
+						<lon>-87.676391601563</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>53</seq>
+						<lat>41.866636638995</lat>
+						<lon>-87.676386237144</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>54</seq>
+						<lat>41.866660608293</lat>
+						<lon>-87.675769329071</lon>
+
+							<typ>S</typ>
+                			<stpid>13192</stpid>
+                			<stpnm>Roosevelt &amp; Damen</stpnm>
+                			<pdist>28141.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>55</seq>
+						<lat>41.866684577582</lat>
+						<lon>-87.673623561859</lon>
+
+							<typ>S</typ>
+                			<stpid>296</stpid>
+                			<stpnm>Roosevelt &amp; Wolcott</stpnm>
+                			<pdist>28824.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>56</seq>
+						<lat>41.86671653662</lat>
+						<lon>-87.671456336975</lon>
+
+							<typ>S</typ>
+                			<stpid>297</stpid>
+                			<stpnm>Roosevelt &amp; Wood</stpnm>
+                			<pdist>29305.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>57</seq>
+						<lat>41.866732516133</lat>
+						<lon>-87.670045495033</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>58</seq>
+						<lat>41.86676048027</lat>
+						<lon>-87.669010162354</lon>
+
+							<typ>S</typ>
+                			<stpid>298</stpid>
+                			<stpnm>Roosevelt &amp; Paulina</stpnm>
+                			<pdist>29980.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>59</seq>
+						<lat>41.866724526377</lat>
+						<lon>-87.668141126633</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>60</seq>
+						<lat>41.866752490518</lat>
+						<lon>-87.666209936142</lon>
+
+							<typ>S</typ>
+                			<stpid>14976</stpid>
+                			<stpnm>Roosevelt &amp; Ashland</stpnm>
+                			<pdist>30900.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>61</seq>
+						<lat>41.866788444396</lat>
+						<lon>-87.664048075676</lon>
+
+							<typ>S</typ>
+                			<stpid>300</stpid>
+                			<stpnm>Roosevelt &amp; Laflin</stpnm>
+                			<pdist>31338.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>62</seq>
+						<lat>41.866804423891</lat>
+						<lon>-87.663044929504</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>63</seq>
+						<lat>41.86684037774</lat>
+						<lon>-87.661322951317</lon>
+
+							<typ>S</typ>
+                			<stpid>16103</stpid>
+                			<stpnm>Roosevelt &amp; Loomis</stpnm>
+                			<pdist>32115.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>64</seq>
+						<lat>41.8668723367</lat>
+						<lon>-87.659332752228</lon>
+
+							<typ>S</typ>
+                			<stpid>302</stpid>
+                			<stpnm>Roosevelt &amp; Throop</stpnm>
+                			<pdist>32654.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>65</seq>
+						<lat>41.866912285377</lat>
+						<lon>-87.656800746918</lon>
+
+							<typ>S</typ>
+                			<stpid>303</stpid>
+                			<stpnm>Roosevelt &amp; Racine</stpnm>
+                			<pdist>33327.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>66</seq>
+						<lat>41.866924269976</lat>
+						<lon>-87.65537917614</lon>
+
+							<typ>S</typ>
+                			<stpid>17003</stpid>
+                			<stpnm>Roosevelt &amp; May</stpnm>
+                			<pdist>33811.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>67</seq>
+						<lat>41.86695223403</lat>
+						<lon>-87.653641104698</lon>
+
+							<typ>S</typ>
+                			<stpid>305</stpid>
+                			<stpnm>Roosevelt &amp; Blue Island</stpnm>
+                			<pdist>34176.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>68</seq>
+						<lat>41.866996177518</lat>
+						<lon>-87.651221752167</lon>
+
+							<typ>S</typ>
+                			<stpid>306</stpid>
+                			<stpnm>Roosevelt &amp; Morgan</stpnm>
+                			<pdist>34866.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>69</seq>
+						<lat>41.867020146681</lat>
+						<lon>-87.649419307709</lon>
+
+							<typ>S</typ>
+                			<stpid>307</stpid>
+                			<stpnm>900 E Roosevelt</stpnm>
+                			<pdist>35356.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>70</seq>
+						<lat>41.867060095266</lat>
+						<lon>-87.646967768669</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>71</seq>
+						<lat>41.867064090124</lat>
+						<lon>-87.646324038506</lon>
+
+							<typ>S</typ>
+                			<stpid>14459</stpid>
+                			<stpnm>Roosevelt &amp; Halsted</stpnm>
+                			<pdist>36171.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>72</seq>
+						<lat>41.867120018097</lat>
+						<lon>-87.642295360565</lon>
+
+							<typ>S</typ>
+                			<stpid>310</stpid>
+                			<stpnm>Roosevelt &amp; Jefferson</stpnm>
+                			<pdist>37283.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>73</seq>
+						<lat>41.867139992362</lat>
+						<lon>-87.640482187271</lon>
+
+							<typ>S</typ>
+                			<stpid>15975</stpid>
+                			<stpnm>Roosevelt &amp; Clinton</stpnm>
+                			<pdist>37831.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>74</seq>
+						<lat>41.867151976917</lat>
+						<lon>-87.638840675354</lon>
+
+							<typ>S</typ>
+                			<stpid>312</stpid>
+                			<stpnm>Roosevelt &amp; Canal</stpnm>
+                			<pdist>38256.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>75</seq>
+						<lat>41.867199915117</lat>
+						<lon>-87.635573744774</lon>
+
+							<typ>S</typ>
+                			<stpid>313</stpid>
+                			<stpnm>327 W Roosevelt</stpnm>
+                			<pdist>39174.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>76</seq>
+						<lat>41.867246666666</lat>
+						<lon>-87.632139999999</lon>
+
+							<typ>S</typ>
+                			<stpid>17516</stpid>
+                			<stpnm>Roosevelt &amp; Delano</stpnm>
+                			<pdist>40091.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>77</seq>
+						<lat>41.86727182235</lat>
+						<lon>-87.630681395531</lon>
+
+							<typ>S</typ>
+                			<stpid>315</stpid>
+                			<stpnm>Roosevelt &amp; Clark</stpnm>
+                			<pdist>40421.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>78</seq>
+						<lat>41.867311770778</lat>
+						<lon>-87.627119421959</lon>
+
+							<typ>S</typ>
+                			<stpid>316</stpid>
+                			<stpnm>Roosevelt &amp; State</stpnm>
+                			<pdist>41545.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>79</seq>
+						<lat>41.867335739823</lat>
+						<lon>-87.624329924583</lon>
+
+							<typ>S</typ>
+                			<stpid>318</stpid>
+                			<stpnm>Roosevelt &amp; Michigan</stpnm>
+                			<pdist>42141.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>80</seq>
+						<lat>41.867351719181</lat>
+						<lon>-87.623246312141</lon>
+
+							<typ>S</typ>
+                			<stpid>15362</stpid>
+                			<stpnm>Roosevelt &amp; Michigan/Indiana</stpnm>
+                			<pdist>42423.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>81</seq>
+						<lat>41.867343729502</lat>
+						<lon>-87.62270450592</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>82</seq>
+						<lat>41.865653890049</lat>
+						<lon>-87.622672319412</lon>
+
+							<typ>S</typ>
+                			<stpid>15918</stpid>
+                			<stpnm>Indiana &amp; 13th Street</stpnm>
+                			<pdist>43262.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>83</seq>
+						<lat>41.864383484879</lat>
+						<lon>-87.62262403965</lon>
+
+							<typ>S</typ>
+                			<stpid>12803</stpid>
+                			<stpnm>Indiana &amp; 14th Street</stpnm>
+                			<pdist>43726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>84</seq>
+						<lat>41.862641630471</lat>
+						<lon>-87.622565031052</lon>
+
+							<typ>S</typ>
+                			<stpid>15921</stpid>
+                			<stpnm>1440 S Indiana</stpnm>
+                			<pdist>44292.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>85</seq>
+						<lat>41.861223342407</lat>
+						<lon>-87.62254357338</lon>
+
+							<typ>S</typ>
+                			<stpid>15278</stpid>
+                			<stpnm>Indiana &amp; 15th Place</stpnm>
+                			<pdist>44738.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

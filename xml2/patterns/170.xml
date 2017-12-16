@@ -1,0 +1,806 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>3180</pid>
+				<ln>6751.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.791340731091</lat>
+						<lon>-87.586660981178</lon>
+
+							<typ>S</typ>
+                			<stpid>1515</stpid>
+                			<stpnm>Stony Island &amp; 57th Drive</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.79133273192</lat>
+						<lon>-87.586709260941</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.788260976483</lat>
+						<lon>-87.586634159088</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.787916994705</lat>
+						<lon>-87.58662879467</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.7879289941</lat>
+						<lon>-87.588865756989</lon>
+
+							<typ>S</typ>
+                			<stpid>14022</stpid>
+                			<stpnm>59th Street Metra Station</stpnm>
+                			<pdist>2671.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.787916994705</lat>
+						<lon>-87.589176893234</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.787892995907</lat>
+						<lon>-87.590180039406</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.787884996306</lat>
+						<lon>-87.591521143913</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.787876996704</lat>
+						<lon>-87.593178749084</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.787836998678</lat>
+						<lon>-87.594466209412</lon>
+
+							<typ>S</typ>
+                			<stpid>13197</stpid>
+                			<stpnm>59th Street &amp; Kimbark</stpnm>
+                			<pdist>4236.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.787844998285</lat>
+						<lon>-87.596311569214</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.78782899907</lat>
+						<lon>-87.597985267639</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.787805000239</lat>
+						<lon>-87.599514126778</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.787797000627</lat>
+						<lon>-87.600994706154</lon>
+
+							<typ>S</typ>
+                			<stpid>13195</stpid>
+                			<stpnm>59th Street &amp; Ellis</stpnm>
+                			<pdist>6029.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.787757002551</lat>
+						<lon>-87.603601813316</lon>
+
+							<typ>S</typ>
+                			<stpid>14023</stpid>
+                			<stpnm>59th Street &amp; Drexel</stpnm>
+                			<pdist>6751.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>3181</pid>
+				<ln>8881.0</ln>
+				<rtdir>Westbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.786117059956</lat>
+						<lon>-87.58652150631</lon>
+
+							<typ>S</typ>
+                			<stpid>14885</stpid>
+                			<stpnm>60th Street &amp; Stony Island</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.787960992477</lat>
+						<lon>-87.586537599564</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.791584705326</lat>
+						<lon>-87.586634159088</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.791588704896</lat>
+						<lon>-87.586719989777</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.791300735226</lat>
+						<lon>-87.586752176285</lon>
+
+							<typ>S</typ>
+                			<stpid>1656</stpid>
+                			<stpnm>Stony Island &amp; 57th Street</stpnm>
+                			<pdist>3053.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.791104755128</lat>
+						<lon>-87.586703896523</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.788048987931</lat>
+						<lon>-87.586677074432</lon>
+
+							<typ>S</typ>
+                			<stpid>1658</stpid>
+                			<stpnm>Stony Island &amp; 59th Street</stpnm>
+                			<pdist>4193.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.787916994705</lat>
+						<lon>-87.586623430252</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.7879289941</lat>
+						<lon>-87.588865756989</lon>
+
+							<typ>S</typ>
+                			<stpid>14022</stpid>
+                			<stpnm>59th Street Metra Station</stpnm>
+                			<pdist>4778.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.787900995507</lat>
+						<lon>-87.590174674988</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.787892995907</lat>
+						<lon>-87.591494321823</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.787880996505</lat>
+						<lon>-87.593264579773</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.787836998678</lat>
+						<lon>-87.594466209412</lon>
+
+							<typ>S</typ>
+                			<stpid>13197</stpid>
+                			<stpnm>59th Street &amp; Kimbark</stpnm>
+                			<pdist>6366.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.787844998285</lat>
+						<lon>-87.596311569214</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.78782899907</lat>
+						<lon>-87.597985267639</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.787805000239</lat>
+						<lon>-87.599514126778</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.787797000627</lat>
+						<lon>-87.600994706154</lon>
+
+							<typ>S</typ>
+                			<stpid>13195</stpid>
+                			<stpnm>59th Street &amp; Ellis</stpnm>
+                			<pdist>8159.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.787757002551</lat>
+						<lon>-87.603601813316</lon>
+
+							<typ>S</typ>
+                			<stpid>14023</stpid>
+                			<stpnm>59th Street &amp; Drexel</stpnm>
+                			<pdist>8881.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>3182</pid>
+				<ln>6378.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.787757002551</lat>
+						<lon>-87.603601813316</lon>
+
+							<typ>S</typ>
+                			<stpid>14023</stpid>
+                			<stpnm>59th Street &amp; Drexel</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.787749002933</lat>
+						<lon>-87.604916095734</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.787741003314</lat>
+						<lon>-87.606090903282</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.787065031889</lat>
+						<lon>-87.606090903282</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.786421052483</lat>
+						<lon>-87.606090903282</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.78584906535</lat>
+						<lon>-87.606064081192</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.78584906535</lat>
+						<lon>-87.605897784233</lon>
+
+							<typ>S</typ>
+                			<stpid>15432</stpid>
+                			<stpnm>60th Street &amp; Cottage Grove</stpnm>
+                			<pdist>1343.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.78588506469</lat>
+						<lon>-87.602845430374</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.78588506469</lat>
+						<lon>-87.601048350334</lon>
+
+							<typ>S</typ>
+                			<stpid>14019</stpid>
+                			<stpnm>60th Street &amp; Ellis</stpnm>
+                			<pdist>2718.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.785901064391</lat>
+						<lon>-87.599036693573</lon>
+
+							<typ>S</typ>
+                			<stpid>17057</stpid>
+                			<stpnm>1111 East 60th Street </stpnm>
+                			<pdist>3215.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.785905064315</lat>
+						<lon>-87.597786784172</lon>
+
+							<typ>S</typ>
+                			<stpid>14020</stpid>
+                			<stpnm>60th Street &amp; University</stpnm>
+                			<pdist>3641.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.785945063546</lat>
+						<lon>-87.596499323845</lon>
+
+							<typ>S</typ>
+                			<stpid>15433</stpid>
+                			<stpnm>60th Street &amp; Woodlawn</stpnm>
+                			<pdist>3852.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.786037061684</lat>
+						<lon>-87.594691514969</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.7860410616</lat>
+						<lon>-87.59302854538</lon>
+
+							<typ>S</typ>
+                			<stpid>14021</stpid>
+                			<stpnm>60th Street &amp; Kenwood</stpnm>
+                			<pdist>4726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.78606506109</lat>
+						<lon>-87.592315077782</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.78606506109</lat>
+						<lon>-87.591467499733</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.786081060746</lat>
+						<lon>-87.590228319168</lon>
+
+							<typ>S</typ>
+                			<stpid>14458</stpid>
+                			<stpnm>60th Street &amp; Blackstone</stpnm>
+                			<pdist>5546.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.786077060832</lat>
+						<lon>-87.589665055275</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.786089060572</lat>
+						<lon>-87.588527798653</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.786117059956</lat>
+						<lon>-87.58652150631</lon>
+
+							<typ>S</typ>
+                			<stpid>14885</stpid>
+                			<stpnm>60th Street &amp; Stony Island</stpnm>
+                			<pdist>6378.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>3183</pid>
+				<ln>8407.0</ln>
+				<rtdir>Eastbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.787757002551</lat>
+						<lon>-87.603601813316</lon>
+
+							<typ>S</typ>
+                			<stpid>14023</stpid>
+                			<stpnm>59th Street &amp; Drexel</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.787749002933</lat>
+						<lon>-87.604916095734</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.787741003314</lat>
+						<lon>-87.606090903282</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.787065031889</lat>
+						<lon>-87.606090903282</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.786421052483</lat>
+						<lon>-87.606090903282</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.78584906535</lat>
+						<lon>-87.606064081192</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.78584906535</lat>
+						<lon>-87.605897784233</lon>
+
+							<typ>S</typ>
+                			<stpid>15432</stpid>
+                			<stpnm>60th Street &amp; Cottage Grove</stpnm>
+                			<pdist>1343.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.78588506469</lat>
+						<lon>-87.602845430374</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.78588506469</lat>
+						<lon>-87.601048350334</lon>
+
+							<typ>S</typ>
+                			<stpid>14019</stpid>
+                			<stpnm>60th Street &amp; Ellis</stpnm>
+                			<pdist>2718.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.785901064391</lat>
+						<lon>-87.599036693573</lon>
+
+							<typ>S</typ>
+                			<stpid>17057</stpid>
+                			<stpnm>1111 East 60th Street </stpnm>
+                			<pdist>3215.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.785905064315</lat>
+						<lon>-87.597786784172</lon>
+
+							<typ>S</typ>
+                			<stpid>14020</stpid>
+                			<stpnm>60th Street &amp; University</stpnm>
+                			<pdist>3641.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.785945063546</lat>
+						<lon>-87.596499323845</lon>
+
+							<typ>S</typ>
+                			<stpid>15433</stpid>
+                			<stpnm>60th Street &amp; Woodlawn</stpnm>
+                			<pdist>3852.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.786037061684</lat>
+						<lon>-87.594691514969</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.7860410616</lat>
+						<lon>-87.59302854538</lon>
+
+							<typ>S</typ>
+                			<stpid>14021</stpid>
+                			<stpnm>60th Street &amp; Kenwood</stpnm>
+                			<pdist>4726.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.78606506109</lat>
+						<lon>-87.592315077782</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.78606506109</lat>
+						<lon>-87.591467499733</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.786081060746</lat>
+						<lon>-87.590228319168</lon>
+
+							<typ>S</typ>
+                			<stpid>14458</stpid>
+                			<stpnm>60th Street &amp; Blackstone</stpnm>
+                			<pdist>5546.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.786077060832</lat>
+						<lon>-87.589665055275</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.786089060572</lat>
+						<lon>-87.588527798653</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.786117059956</lat>
+						<lon>-87.58652150631</lon>
+
+							<typ>S</typ>
+                			<stpid>14885</stpid>
+                			<stpnm>60th Street &amp; Stony Island</stpnm>
+                			<pdist>6378.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.7880969854</lat>
+						<lon>-87.586585879326</lon>
+
+							<typ>S</typ>
+                			<stpid>1513</stpid>
+                			<stpnm>Stony Island &amp; 59th Street</stpnm>
+                			<pdist>7213.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.791340731091</lat>
+						<lon>-87.586660981178</lon>
+
+							<typ>S</typ>
+                			<stpid>1515</stpid>
+                			<stpnm>Stony Island &amp; 57th Drive</stpnm>
+                			<pdist>8407.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		

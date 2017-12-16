@@ -1,0 +1,909 @@
+<?xml version="1.0"?>
+
+		<bustime-response>	
+			
+			<ptr>
+				<pid>4107</pid>
+				<ln>19345.0</ln>
+				<rtdir>Northbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>41.966031848386</lat>
+						<lon>-87.688563466072</lon>
+
+							<typ>S</typ>
+                			<stpid>1662</stpid>
+                			<stpnm>Western Brown Line Station</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>41.966027859719</lat>
+						<lon>-87.688713669777</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>41.9688677274</lat>
+						<lon>-87.688804864883</lon>
+
+							<typ>S</typ>
+                			<stpid>14592</stpid>
+                			<stpnm>Western &amp; Lawrence</stpnm>
+                			<pdist>1100.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>41.970706394433</lat>
+						<lon>-87.688858509064</lon>
+
+							<typ>S</typ>
+                			<stpid>14593</stpid>
+                			<stpnm>Western &amp; Ainslie</stpnm>
+                			<pdist>1705.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>41.972241899985</lat>
+						<lon>-87.68889605999</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>41.972895974225</lat>
+						<lon>-87.688933610916</lon>
+
+							<typ>S</typ>
+                			<stpid>1664</stpid>
+                			<stpnm>Western &amp; Winnemac</stpnm>
+                			<pdist>2509.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>41.974160232833</lat>
+						<lon>-87.688987255096</lon>
+
+							<typ>S</typ>
+                			<stpid>1665</stpid>
+                			<stpnm>Western &amp; Carmen</stpnm>
+                			<pdist>2969.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>41.976126364338</lat>
+						<lon>-87.689040899277</lon>
+
+							<typ>S</typ>
+                			<stpid>14527</stpid>
+                			<stpnm>Western &amp; Foster</stpnm>
+                			<pdist>3702.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>41.976832242586</lat>
+						<lon>-87.689067721367</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>41.977617871889</lat>
+						<lon>-87.689116001129</lon>
+
+							<typ>S</typ>
+                			<stpid>16122</stpid>
+                			<stpnm>Western &amp; Berwyn</stpnm>
+                			<pdist>4374.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>41.979536042815</lat>
+						<lon>-87.689185738564</lon>
+
+							<typ>S</typ>
+                			<stpid>1668</stpid>
+                			<stpnm>Western &amp; Balmoral</stpnm>
+                			<pdist>4993.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>41.981370414184</lat>
+						<lon>-87.689266204834</lon>
+
+							<typ>S</typ>
+                			<stpid>1669</stpid>
+                			<stpnm>Western &amp; Catalpa</stpnm>
+                			<pdist>5651.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>41.98346392563</lat>
+						<lon>-87.689335942268</lon>
+
+							<typ>S</typ>
+                			<stpid>1670</stpid>
+                			<stpnm>Western &amp; Bryn Mawr</stpnm>
+                			<pdist>6392.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>41.984995136131</lat>
+						<lon>-87.689384222031</lon>
+
+							<typ>S</typ>
+                			<stpid>1671</stpid>
+                			<stpnm>Western &amp; Hollywood</stpnm>
+                			<pdist>6964.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>41.986877198587</lat>
+						<lon>-87.689437866211</lon>
+
+							<typ>S</typ>
+                			<stpid>1672</stpid>
+                			<stpnm>Western &amp; Ardmore</stpnm>
+                			<pdist>7633.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.98868743498</lat>
+						<lon>-87.689512968063</lon>
+
+							<typ>S</typ>
+                			<stpid>1673</stpid>
+                			<stpnm>Western &amp; Thorndale</stpnm>
+                			<pdist>8297.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.990832538335</lat>
+						<lon>-87.689561247826</lon>
+
+							<typ>S</typ>
+                			<stpid>14594</stpid>
+                			<stpnm>Western &amp; Peterson</stpnm>
+                			<pdist>9088.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.992160233376</lat>
+						<lon>-87.689593434334</lon>
+
+							<typ>S</typ>
+                			<stpid>1675</stpid>
+                			<stpnm>Western &amp; Glenlake</stpnm>
+                			<pdist>9559.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.99399025412</lat>
+						<lon>-87.68965780735</lon>
+
+							<typ>S</typ>
+                			<stpid>1676</stpid>
+                			<stpnm>Western &amp; Granville</stpnm>
+                			<pdist>10221.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.995816235445</lat>
+						<lon>-87.689716815948</lon>
+
+							<typ>S</typ>
+                			<stpid>1677</stpid>
+                			<stpnm>Western &amp; Rosemont</stpnm>
+                			<pdist>10898.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.997594324117</lat>
+						<lon>-87.689759731293</lon>
+
+							<typ>S</typ>
+                			<stpid>1678</stpid>
+                			<stpnm>Western &amp; Devon</stpnm>
+                			<pdist>11556.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.999424188615</lat>
+						<lon>-87.689818739891</lon>
+
+							<typ>S</typ>
+                			<stpid>1679</stpid>
+                			<stpnm>Western &amp; Arthur</stpnm>
+                			<pdist>12223.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>42.001425418084</lat>
+						<lon>-87.689872384071</lon>
+
+							<typ>S</typ>
+                			<stpid>1680</stpid>
+                			<stpnm>Western &amp; Albion</stpnm>
+                			<pdist>12898.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>42.003303008425</lat>
+						<lon>-87.689926028252</lon>
+
+							<typ>S</typ>
+                			<stpid>1681</stpid>
+                			<stpnm>Western &amp; North Shore</stpnm>
+                			<pdist>13635.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>42.004901507703</lat>
+						<lon>-87.68993139267</lon>
+
+							<typ>S</typ>
+                			<stpid>1682</stpid>
+                			<stpnm>Western &amp; Pratt</stpnm>
+                			<pdist>14221.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>42.006204992349</lat>
+						<lon>-87.689979672432</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>42.007065995083</lat>
+						<lon>-87.689995765686</lon>
+
+							<typ>S</typ>
+                			<stpid>1683</stpid>
+                			<stpnm>Western &amp; Morse</stpnm>
+                			<pdist>15018.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>42.008536847798</lat>
+						<lon>-87.690044045448</lon>
+
+							<typ>S</typ>
+                			<stpid>1684</stpid>
+                			<stpnm>Western &amp; Lunt</stpnm>
+                			<pdist>15527.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>42.010840716756</lat>
+						<lon>-87.690097689629</lon>
+
+							<typ>S</typ>
+                			<stpid>1686</stpid>
+                			<stpnm>Western &amp; Estes</stpnm>
+                			<pdist>16375.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>42.01216799438</lat>
+						<lon>-87.690129876137</lon>
+
+							<typ>S</typ>
+                			<stpid>1687</stpid>
+                			<stpnm>Western &amp; Touhy</stpnm>
+                			<pdist>16855.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>42.01401736807</lat>
+						<lon>-87.690108418465</lon>
+
+							<typ>S</typ>
+                			<stpid>1688</stpid>
+                			<stpnm>Western &amp; Chase</stpnm>
+                			<pdist>17544.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>42.015822846972</lat>
+						<lon>-87.690103054047</lon>
+
+							<typ>S</typ>
+                			<stpid>1689</stpid>
+                			<stpnm>Western &amp; Jarvis</stpnm>
+                			<pdist>18111.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>42.017660158093</lat>
+						<lon>-87.690076231956</lon>
+
+							<typ>S</typ>
+                			<stpid>1690</stpid>
+                			<stpnm>Western &amp; Birchwood</stpnm>
+                			<pdist>18764.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>42.018230072448</lat>
+						<lon>-87.690076231956</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>42.01822608705</lat>
+						<lon>-87.689754366875</lon>
+
+							<typ>S</typ>
+                			<stpid>1691</stpid>
+                			<stpnm>Western &amp; Birchwood Terminal</stpnm>
+                			<pdist>19345.0</pdist>
+
+					</pt>
+
+			</ptr>
+			
+			<ptr>
+				<pid>4108</pid>
+				<ln>19278.0</ln>
+				<rtdir>Southbound</rtdir>
+
+					<pt>
+						<seq>1</seq>
+						<lat>42.01822608705</lat>
+						<lon>-87.689754366875</lon>
+
+							<typ>S</typ>
+                			<stpid>1691</stpid>
+                			<stpnm>Western &amp; Birchwood Terminal</stpnm>
+                			<pdist>0.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>2</seq>
+						<lat>42.018118481228</lat>
+						<lon>-87.689754366875</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>3</seq>
+						<lat>42.018134422843</lat>
+						<lon>-87.690280079842</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>4</seq>
+						<lat>42.016910892288</lat>
+						<lon>-87.690280079842</lon>
+
+							<typ>S</typ>
+                			<stpid>1692</stpid>
+                			<stpnm>Western &amp; Fargo</stpnm>
+                			<pdist>472.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>5</seq>
+						<lat>42.016018138528</lat>
+						<lon>-87.690290808678</lon>
+
+							<typ>S</typ>
+                			<stpid>1693</stpid>
+                			<stpnm>Western &amp; Jarvis</stpnm>
+                			<pdist>806.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>6</seq>
+						<lat>42.014009396747</lat>
+						<lon>-87.690317630768</lon>
+
+							<typ>S</typ>
+                			<stpid>1694</stpid>
+                			<stpnm>Western &amp; Chase</stpnm>
+                			<pdist>1531.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>7</seq>
+						<lat>42.012439026646</lat>
+						<lon>-87.690328359604</lon>
+
+							<typ>S</typ>
+                			<stpid>1695</stpid>
+                			<stpnm>Western &amp; Touhy</stpnm>
+                			<pdist>2128.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>8</seq>
+						<lat>42.011067910386</lat>
+						<lon>-87.690317630768</lon>
+
+							<typ>S</typ>
+                			<stpid>1696</stpid>
+                			<stpnm>Western &amp; Estes</stpnm>
+                			<pdist>2622.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>9</seq>
+						<lat>42.009832286114</lat>
+						<lon>-87.690290808678</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>10</seq>
+						<lat>42.008779993616</lat>
+						<lon>-87.690258622169</lon>
+
+							<typ>S</typ>
+                			<stpid>1698</stpid>
+                			<stpnm>Western &amp; Lunt</stpnm>
+                			<pdist>3483.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>11</seq>
+						<lat>42.007229424842</lat>
+						<lon>-87.690215706825</lon>
+
+							<typ>S</typ>
+                			<stpid>1699</stpid>
+                			<stpnm>Western &amp; Morse</stpnm>
+                			<pdist>4141.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>12</seq>
+						<lat>42.005961836689</lat>
+						<lon>-87.690178155899</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>13</seq>
+						<lat>42.005148653633</lat>
+						<lon>-87.690167427063</lon>
+
+							<typ>S</typ>
+                			<stpid>1700</stpid>
+                			<stpnm>Western &amp; Pratt</stpnm>
+                			<pdist>4784.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>14</seq>
+						<lat>42.003310981089</lat>
+						<lon>-87.690119147301</lon>
+
+							<typ>S</typ>
+                			<stpid>1701</stpid>
+                			<stpnm>Western &amp; North Shore</stpnm>
+                			<pdist>5472.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>15</seq>
+						<lat>42.001485214809</lat>
+						<lon>-87.690070867538</lon>
+
+							<typ>S</typ>
+                			<stpid>1702</stpid>
+                			<stpnm>Western &amp; Albion</stpnm>
+                			<pdist>6137.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>16</seq>
+						<lat>41.99966736926</lat>
+						<lon>-87.690027952194</lon>
+
+							<typ>S</typ>
+                			<stpid>1703</stpid>
+                			<stpnm>Western &amp; Arthur</stpnm>
+                			<pdist>6805.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>17</seq>
+						<lat>41.997761764886</lat>
+						<lon>-87.690001130104</lon>
+
+							<typ>S</typ>
+                			<stpid>1704</stpid>
+                			<stpnm>Western &amp; Devon</stpnm>
+                			<pdist>7465.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>18</seq>
+						<lat>41.996039495942</lat>
+						<lon>-87.689926028252</lon>
+
+							<typ>S</typ>
+                			<stpid>1705</stpid>
+                			<stpnm>Western &amp; Rosemont</stpnm>
+                			<pdist>8125.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>19</seq>
+						<lat>41.994217507925</lat>
+						<lon>-87.689867019653</lon>
+
+							<typ>S</typ>
+                			<stpid>1706</stpid>
+                			<stpnm>Western &amp; Granville</stpnm>
+                			<pdist>8796.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>20</seq>
+						<lat>41.992391480732</lat>
+						<lon>-87.689818739891</lon>
+
+							<typ>S</typ>
+                			<stpid>1707</stpid>
+                			<stpnm>Western &amp; Glenlake</stpnm>
+                			<pdist>9458.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>21</seq>
+						<lat>41.990665079336</lat>
+						<lon>-87.689791917801</lon>
+
+							<typ>S</typ>
+                			<stpid>1708</stpid>
+                			<stpnm>Western &amp; Peterson</stpnm>
+                			<pdist>10312.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>22</seq>
+						<lat>41.988763192649</lat>
+						<lon>-87.689722180367</lon>
+
+							<typ>S</typ>
+                			<stpid>1709</stpid>
+                			<stpnm>Western &amp; Thorndale</stpnm>
+                			<pdist>10794.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>23</seq>
+						<lat>41.986960933124</lat>
+						<lon>-87.689652442932</lon>
+
+							<typ>S</typ>
+                			<stpid>1710</stpid>
+                			<stpnm>Western &amp; Ardmore</stpnm>
+                			<pdist>11461.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>24</seq>
+						<lat>41.985118747872</lat>
+						<lon>-87.689593434334</lon>
+
+							<typ>S</typ>
+                			<stpid>1711</stpid>
+                			<stpnm>Western &amp; Hollywood</stpnm>
+                			<pdist>12123.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>25</seq>
+						<lat>41.982917625471</lat>
+						<lon>-87.689539790154</lon>
+
+							<typ>S</typ>
+                			<stpid>14595</stpid>
+                			<stpnm>Western &amp; Bryn Mawr</stpnm>
+                			<pdist>12940.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>26</seq>
+						<lat>41.98151795915</lat>
+						<lon>-87.689480781555</lon>
+
+							<typ>S</typ>
+                			<stpid>1713</stpid>
+                			<stpnm>Western &amp; Catalpa</stpnm>
+                			<pdist>13440.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>27</seq>
+						<lat>41.979703531089</lat>
+						<lon>-87.689394950867</lon>
+
+							<typ>S</typ>
+                			<stpid>1714</stpid>
+                			<stpnm>Western &amp; Balmoral</stpnm>
+                			<pdist>14124.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>28</seq>
+						<lat>41.978383552035</lat>
+						<lon>-87.689335942268</lon>
+
+							<typ>S</typ>
+                			<stpid>1715</stpid>
+                			<stpnm>Western &amp; Berwyn</stpnm>
+                			<pdist>14574.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>29</seq>
+						<lat>41.977538113011</lat>
+						<lon>-87.689309120178</lon>
+
+							<typ>S</typ>
+                			<stpid>14529</stpid>
+                			<stpnm>Western &amp; Berwyn</stpnm>
+                			<pdist>14949.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>30</seq>
+						<lat>41.976776410694</lat>
+						<lon>-87.689282298088</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>31</seq>
+						<lat>41.976010711224</lat>
+						<lon>-87.68925011158</lon>
+
+							<typ>S</typ>
+                			<stpid>1717</stpid>
+                			<stpnm>Western &amp; Foster</stpnm>
+                			<pdist>15439.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>32</seq>
+						<lat>41.974180173619</lat>
+						<lon>-87.6891964674</lon>
+
+							<typ>S</typ>
+                			<stpid>1718</stpid>
+                			<stpnm>Western &amp; Carmen</stpnm>
+                			<pdist>16103.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>33</seq>
+						<lat>41.973135268</lat>
+						<lon>-87.689153552055</lon>
+
+							<typ>S</typ>
+                			<stpid>1719</stpid>
+                			<stpnm>Western &amp; Winnemac</stpnm>
+                			<pdist>16499.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>34</seq>
+						<lat>41.972257853095</lat>
+						<lon>-87.689099907875</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>35</seq>
+						<lat>41.970554836034</lat>
+						<lon>-87.689056992531</lon>
+
+							<typ>S</typ>
+                			<stpid>1720</stpid>
+                			<stpnm>Western &amp; Ainslie</stpnm>
+                			<pdist>17440.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>36</seq>
+						<lat>41.969362298154</lat>
+						<lon>-87.689030170441</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>37</seq>
+						<lat>41.968309336451</lat>
+						<lon>-87.688997983932</lon>
+
+							<typ>S</typ>
+                			<stpid>14591</stpid>
+                			<stpnm>Western &amp; Lawrence</stpnm>
+                			<pdist>18285.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>38</seq>
+						<lat>41.966749804375</lat>
+						<lon>-87.68897652626</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>39</seq>
+						<lat>41.966685986392</lat>
+						<lon>-87.6885420084</lon>
+
+							<typ>S</typ>
+                			<stpid>1375</stpid>
+                			<stpnm>Leland &amp; Western (Brown Line)</stpnm>
+                			<pdist>18968.0</pdist>
+
+					</pt>
+
+					<pt>
+						<seq>40</seq>
+						<lat>41.966546384333</lat>
+						<lon>-87.688348889351</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>41</seq>
+						<lat>41.966338974994</lat>
+						<lon>-87.688289880753</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>42</seq>
+						<lat>41.96614751962</lat>
+						<lon>-87.688391804695</lon>
+								
+							<typ>W</typ>
+
+					</pt>
+
+					<pt>
+						<seq>43</seq>
+						<lat>41.966031848386</lat>
+						<lon>-87.688563466072</lon>
+
+							<typ>S</typ>
+                			<stpid>1662</stpid>
+                			<stpnm>Western Brown Line Station</stpnm>
+                			<pdist>19278.0</pdist>
+
+					</pt>
+
+			</ptr>
+
+		</bustime-response>
+
+		
